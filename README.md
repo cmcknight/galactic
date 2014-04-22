@@ -1,0 +1,4 @@
+galactic
+========
+
+Traveller Subsector Generator
