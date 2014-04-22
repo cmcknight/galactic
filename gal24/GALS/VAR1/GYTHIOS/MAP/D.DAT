@@ -1,0 +1,29 @@
+@SUB-SECTOR: Argyris SECTOR: Gythios Sector
+#
+# Jump-routes
+$2510 2613 0 1
+$2709 2510 0 0
+$2510 2409 -1 0
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Pygase        2504 D877244-7  S Lo                 310 Fc 270
+Pryderi       2505 D8C4225-7  S Fl Lo              503 Fc 080
+Goldburgh     2508 C681622-4                       414 Fc A30
+Argyris       2510 B454620-7  S Ag                 800 Dr 071
+Spark         2606 D889415-5                       724 Fc 670
+Sefab         2608 C799455-7                       801 Fc 840
+Efnie         2704 B6568AC-9                       702 Fc 29J
+Porib         2706 X120000-0    Ba De Lo           000 Fc 000
+Smytheman     2709 B544844-6  N                    702 Fc 130
+Guelph        2806 X200000-0    Ba Lo Va           015 Fc 000
+Nicolwyffe    2810 X35016A-0    De Lo              711 Fc 010
+Moscow        2904 C764895-4                       814 Fc 630
+Listor        2905 X110000-0    Ba Lo              004 Fc 000
+Brian         2910 X110000-0    Ba Lo              010 Fc 010
+Danthragnir   3008 E97A7CB-5    Ag Wa              513 Fc 281
+Purdue        3103 B473569-8  N                    303 Na 000
+Shaglan       3108 X000000-0    As Ba Lo           002 Fc 000
+Daegelbeorht  3201 C949463-7                       124 Na 260
+Propera       3210 X300000-0    Ba Lo Va           015 Fc 000

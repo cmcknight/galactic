@@ -1,0 +1,43 @@
+@SUB-SECTOR: sec_A   SECTOR: vland
+#
+# Trade routes within the subsector
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Aakhorn       0101 E256696-7    Ag Ni              204 Wi
+Rokii         0102 X799321-6    Lo Ni              110 Wi
+Maluuf        0104 E332338-9    Lo Ni Po           110 Rv
+Gikkon        0105 X343559-4    Ni Po              332 Wi
+Taraddiin     0107 X656468-1    C2 Lo Ni        B  511 Wi
+Hakkat        0109 E65876A-4  S Ag              B  823 Wi
+Ossin         0110 X100000-0    Ba Va              005 --
+Kalkako       0202 E444434-5  S Lo Ni              124 Wi
+Bannon's World0203 X100000-0    Ba Va              020 --
+Khankari      0205 X885274-6    Lo Ni              410 Wi     f
+Lankhi        0209 X746510-4    Ag Ni           B  203 Wi
+Khalgun       0210 X5766A7-5    Ag Ni           B  401 Wi
+Anert         0303 X9B3000-0    Fl Ba              010 --
+Skathi        0306 D585542-7    Ag Ni              210 Wi
+Enard         0307 X8D2000-0    Ba                 001 --
+Kuk           0402 D24026B-5  S Lo Ni Po De        401 Wi
+Apkeraas      0403 X438000-0    Ba                 020 --
+Katti         0404 X8A8000-0    Fl Ba              004 --
+Shaddukan     0408 X622000-0    Ba Po              010 --
+Lugaluru      0502 X859202-6    Lo Ni              501 Wi
+Gamibuu       0506 X524000-0    Ba                 010 --
+Kharta        0507 X35267A-5    Ni Po              704 Wi
+Arfaan        0508 X767312-0    Lo Ni           B  213 Wi
+Athanuez      0601 X100000-0    Ba Va              001 --
+Sheshat       0605 X526000-0    Ba                 014 --
+Rakurram      0610 X200000-0    Ba Va              012 --
+Taegzdueg     0701 X665544-5    Ag Ni              214 Wi
+Khigapka      0703 X797425-4    Lo Ni           B  302 Wi
+Shukhuge      0705 X727000-0    Ba                 010 --
+Lenordi       0707 X000000-0    Ba As              000 --
+Voskhod       0708 X110000-0    Ba                 001 --
+Kharzet       0709 X56566D-4    Ag Ni              101 Wi
+Ogerrgh       0801 X62A000-0    Ba Wa              010 --
+Kegirrur      0804 E76A8BB-5    Wa              B  401 Wi
+Gadiga        0806 X88A556-4    Ni Wa           B  301 Wi
+Kunumi        0807 X254413-6    Lo Ni              421 Wi

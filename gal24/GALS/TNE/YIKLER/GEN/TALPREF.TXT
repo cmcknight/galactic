@@ -1,0 +1,191 @@
+   
+Talpaku Referee's Notes
+    By Grant Sinclair
+    Date: 18th June 1996
+   
+     _________________________________________________________________
+   
+The Gourmet Club
+
+   There are small numbers of dark eccentrics on a number of worlds
+   called the "Gourmet Club". These Talpaku particularly like human flesh
+   and periodically kidnap humans (mostly Zhodani) for this purpose. The
+   unfortunate victims are kept alive in order to provide fresh, raw meat
+   at a feast, generally an elaborate affair. Some prefer specific
+   sub-races of humaniti or even individual blood types.
+   
+   The organisation is too loose for authorities to stamp it out
+   entirely. The authorities are also frustrated by the fact that it is
+   quite easy for those with means to secretly obtain humans. At present,
+   the media is voluntarily downplaying these events, in an attempt to
+   stop other dark eccentrics being inspired to copy these crimes.
+   Although this policy does appear to be working, it does have the
+   unfortunate side effect that visitors are also unaware of the
+   existence of the club.
+   
+Character Generation
+
+   Talpaku characters should be generated as per normal rules, except
+   that psionic ability and anagathics are not possible. Homeworld
+   limited to one of the worlds of the Talpaku Communality or one of the
+   nearby worlds stated as including Talpaku population.
+   
+   Roll up characteristics as normal, except:
+   
+   Classic Traveller: Subtract 1 from Strength (minimum 1). Gain DM of +1
+   on any interpersonal die roll (excepting those involving Zhodani). Any
+   career from the normal set and from Citizens of the Imperium is
+   allowed. Rogues exist, but as members of street gangs and not as
+   individuals.
+   
+   Megatraveller: As Classic Traveller. In addition, a bonus of 2 is
+   gained for aging roll saving throws (since the Talpaku live longer
+   than standard humans).
+   
+   TNE: Subtract 1 from Strength (minimum 1), add 1 to Charisma (maximum
+   15). Any career from the normal set of careers is allowed (except that
+   Psionic Researchers and Rebels require permission of the referee).
+   Toughs exist, but as members of street gangs and not as individuals.
+   In addition, a bonus of 2 is gained for aging roll saving throws.
+   
+   In addition, players may elect that their character is eccentric.
+   Players choose a suitable, significant, eccentricity and also gain a
+   significant advantage (perhaps a DM of +1 on rolls made involving a
+   given characteristic). Both the eccentricity and advantage must be
+   approved by the referee.
+   
+Roleplaying Talpaku
+
+   Talpaku think that all Regency humans are like the people they met
+   through the IISS, RISS and diplomatic services and rather like them.
+   They think that Regency humans are great people and find them far
+   nicer and more trustworthy than the Zhodani.
+   
+   Since musical scores and even holochips with critical information are
+   so small, player characters could individually become significant on a
+   trade level.
+   
+Overall Military Strategy
+
+   The Talpaku are experimenting with warbots with prototype TL 15 power
+   plants and energy weapons. These have average intelligence and hence
+   are superior to Zhodani warbots. The Zhodani only know about the
+   standard Talpaku TL 12/13 warbots, which are slightly inferior to
+   their own designs, so the Talpaku hope to give the Zho a shock the
+   next time around. They cannot make great numbers of these, but hope
+   that deployment at a critical moment could turn the tide of battle.
+   This could be the only thing where they are better than the Zho. A
+   Virus outbreak amongst warbots would be horrific...
+   
+Talpaku Intentions
+
+   Expansion: Now that the S'raak form a small buffer state between the
+   Communality and the Zhodani, the Talpaku are again expansionist. The
+   government sees such expansion, if handled properly, as a way of
+   improving the economy and of improving the public perception of the
+   government. At this stage, expansion into subsector M is most
+   attractive, since there are some worlds there that the Communality
+   would like to snap up before anyone else does. Otherwise, the
+   Communality is looking into expansion into Tsadra sector. The S'raak
+   Empire: It is true that much of the Talpaku military is tied up on the
+   S'raak border, but this was the case before the S'raak War anyway
+   (against the Zhodani). The Communality feels that it is strong enough
+   to handle any future S'raak invasion, now that the S'raak advantage of
+   surprise has been negated. It is the continuing annoyance of the tiny
+   raids that cause a problem.
+   
+   The Communality does not particularly want any of the worlds of the
+   S'raak Empire (most are less than ideal for Talpaku colonisation), but
+   if the S'raak were to provide a reasonable excuse for the Talpaku to
+   take a world or two from them, the Communality knows that this would
+   be politically possible. Of course it is aware that this is true of
+   the other states bordering the S'raak Empire, and so the Talpaku watch
+   openings for the others very carefully.
+   
+   The Communality believes that the raids are more than just independent
+   pirates, and is hoping to get information from captured pirates that
+   point to S'raak or Zhodani involvement.
+   
+Language
+
+   Talpaku words are translated into Galanglic in two ways. Some words
+   are translated according to meaning, since the name carries meaning to
+   the thing (e.g. Broken Promise, Firestar).
+   
+   Others are translated by the use of an artificial language, replacing
+   particular whistles and clicks with letters. Such words can be
+   generated as normal, rolling 1D for number of syllables and then
+   generating each syllable by consulting the table.
+   
+   All vowels are short (as the "a" in "apple") and pronounced (unlike
+   the "e" in "apple"). Most consonants are hard and need not be doubled.
+   For instance, the sound "apple" would be spelt ("apl"). The only
+   exceptions to the consonants rule are the breathed w, wh, hwh (each
+   having more breath than the last) and ch (which is pronounced as in
+   the Scottish loch). The kk initial consonant is not an exception - it
+   is pronounced as two k's.
+
+                   Basic                                    Alternate
+             1   2   3   4   5   6                  1   2   3   4   5   6
+         1   C   C   C   C   C   C                  V   V   V   V   V   V
+         2   C   C   C   C   C   C                  V   V   V   V   V   V
+         3  CV  CV  CV  CV  CV  CV                 VC  VC  VC  VC  VC  VC
+         4  CV  CV  CV  CV  CV  CV                 VC  VC  VC  VC  VC  VC
+         5  CV  CV  CV  CV  CV  CV                 CV  CV  CV  CV  CV  CV
+         6 CVC CVC CVC CVC CVC CVC                CVC CVC CVC CVC CVC CVC
+   For initial syllables, or after CV or V      For syllables after VC or CVC
+
+1  Initial Consonant              Vowel                     Final Consonant
+     1   2   3   4   5   6    1   2   3   4   5   6     1   2   3   4   5   6
+ 1   B   B   B   B   B   B    A   A   A   A   A   A    BL  BL  BL  BL  BL  BL
+ 2   B   B   B   B   B   B    A   A   A   A   A   A    BL  BL  BL  BL  BL  BL
+ 3  CH  CH  CH  CH  CH  CH    A   A   A   A   A   A    CH  CH  CH  CH  CH  CH
+ 4  CH  CH  CH  CH  CH  CH    A   A   A   A   A   A    CH  CH  CH  CH  CH  CH
+ 5   D   D   D   D   D   D    A   A   A   A   A   A    CH  CH  CH  CH  CH  CH
+ 6   G   G   G   G   G   G    A   A   A   A   A   A     D   D   D   D   D   D
+
+2  Initial Consonant              Vowel                     Final Consonant
+     1   2   3   4   5   6    1   2   3   4   5   6     1   2   3   4   5   6
+ 1   G   G   G   G   G   G    A   A   A   A   A   A     D   D   D   D   D   D
+ 2   G   G   G   G   G   G    A   A   A   A   A   A    DL  DL  DL  DL  DL  DL
+ 3   K   K   K   K   K   K    A   A   A   A   A   A    DL  DL  DL  DL  DL  DL
+ 4   K   K   K   K   K   K    A   A   A   A   A   A   DWH DWH DWH DWH DWH DWH
+ 5   K   K   K   K   K   K    A   A   A   A   A   A     K   K   K   K   K   K
+ 6   K   K   K   K   K   K    E   E   E   E   E   E     K   K   K   K   K   K
+
+3  Initial Consonant              Vowel                     Final Consonant
+     1   2   3   4   5   6    1   2   3   4   5   6     1   2   3   4   5   6
+ 1   K   K   K   K   K   K    E   E   E   E   E   E    KL  KL  KL  KL  KL  KL
+ 2  KH  KH  KH  KH  KH  KH    E   E   E   E   E   E    KL  KL  KL  KL  KL  KL
+ 3  KK  KK  KK  KK  KK  KK    E   E   E   E   E   E    KL  KL  KL  KL  KL  KL
+ 4  KK  KK  KK  KK  KK  KK    E   E   E   E   E   E    KT  KT  KT  KT  KT  KT
+ 5  KK  KK  KK  KK  KK  KK    E   E   E   E   E   E    KT  KT  KT  KT  KT  KT
+ 6  KZ  KZ  KZ  KZ  KZ  KZ    E   E   E   E   E   E     L   L   L   L   L   L
+
+4  Initial Consonant              Vowel                     Final Consonant
+     1   2   3   4   5   6    1   2   3   4   5   6     1   2   3   4   5   6
+ 1  KZ  KZ  KZ  KZ  KZ  KZ    I   I   I   I   I   I     L   L   L   L   L   L
+ 2  KZ  KZ  KZ  KZ  KZ  KZ    I   I   I   I   I   I     L   L   L   L   L   L
+ 3   P   P   P   P   P   P    I   I   I   I   I   I    LK  LK  LK  LK  LK  LK
+ 4   T   T   T   T   T   T    I   I   I   I   I   I    LK  LK  LK  LK  LK  LK
+ 5   T   T   T   T   T   T    I   I   I   I   I   I    LK  LK  LK  LK  LK  LK
+ 6   V   V   V   V   V   V    I   I   I   I   I   I    LV  LV  LV  LV  LV  LV
+
+5  Initial Consonant              Vowel                     Final Consonant
+     1   2   3   4   5   6    1   2   3   4   5   6     1   2   3   4   5   6
+ 1   V   V   V   V   V   V    I   I   I   I   I   I    LV  LV  LV  LV  LV  LV
+ 2   W   W   W   W   W   W    O   O   O   O   O   O    PL  PL  PL  PL  PL  PL
+ 3   W   W   W   W   W   W    O   O   O   O   O   O    PT  PT  PT  PT  PT  PT
+ 4  WH  WH  WH  WH  WH  WH    O   O   O   O   O   O    PT  PT  PT  PT  PT  PT
+ 5  WH  WH  WH  WH  WH  WH    O   O   O   O   O   O    PT  PT  PT  PT  PT  PT
+ 6  WH  WH  WH  WH  WH  WH    O   O   O   O   O   O     T   T   T   T   T   T
+
+6  Initial Consonant              Vowel                     Final Consonant
+     1   2   3   4   5   6    1   2   3   4   5   6     1   2   3   4   5   6
+ 1 HWH HWH HWH HWH HWH HWH    U   U   U   U   U   U    TL  TL  TL  TL  TL  TL
+ 2 HWH HWH HWH HWH HWH HWH    U   U   U   U   U   U    TL  TL  TL  TL  TL  TL
+ 3   Y   Y   Y   Y   Y   Y    U   U   U   U   U   U     Z   Z   Z   Z   Z   Z
+ 4   Y   Y   Y   Y   Y   Y    U   U   U   U   U   U     Z   Z   Z   Z   Z   Z
+ 5  ZD  ZD  ZD  ZD  ZD  ZD    U   U   U   U   U   U    ZK  ZK  ZK  ZK  ZK  ZK
+ 6  ZD  ZD  ZD  ZD  ZD  ZD    U   U   U   U   U   U    ZK  ZK  ZK  ZK  ZK  ZK
+

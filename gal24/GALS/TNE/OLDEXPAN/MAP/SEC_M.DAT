@@ -1,0 +1,32 @@
+@SUB-SECTOR: sec_m   SECTOR: oldexpan
+#
+#--------1---------2---------3---------4---------5-----f----6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Arvid         0131 X9C7000-0    Ba Fl              025 Un
+Keipes        0132 X6778T4-6                       411 Wi
+Atrase        0134 X68A2M2-4    Lo Ni Wa        B  515 Wi    
+Savjanni      0135 X330000-0    De Po Ba           003 Un
+Svarla        0137 X200000-0    Ba Va              001 Un
+Nicosia       0138 X5666RD-3    Ag Ni           B  411 Wi
+Thorell       0231 X510000-0    Ba                 020 Un
+Kresek        0236 X8C7000-0    Fl Ba              002 Un
+Peirsma       0240 X000000-0    As Ba              010 Un
+Buhle         0334 X510000-0    Ba                 004 Un
+Trybec        0336 B443610-A  S Ni Po              703 RC     f
+Rohit         0337 E110335-9    Ni Lo Cm           222 RC     f
+Adrian        0432 D426112-9  S Cm                 103 Cs     m
+Fija          0434 D553754-A  S Po                 705 RC     f
+Apollo        0436 E8C5300-8    Lo Ni Fl Cm        424 RC     f
+Vezina        0437 D344687-7    Ag Ni              204 RC     f
+Lancer        0439 E55A746-7  S Wa                 114 Na
+Aurora        0535 B576646-B  N Ag Ni              704 RC     f
+Eos           0632 E674656-B  S Ag Ni              502 RC     f
+Singh         0636 *1 Deep Space Comet                 RC     f
+Schall        0638 E47A655-7    Ni Wa S:0          634 RC     f
+Seliga        0640 X532000-0    Ba                 001 Un
+Nike Nimbus   0732 C447789-9 S  Ag                 713 RC     f
+Kruyter       0735 B000312-B    As Lo Ni Cm        303 RC     f
+Phoebus       0737 D267337-3    Ni Lo              804 RC     f
+Aubaine       0738 A78A884-C S  Wa Ri Cp S:8       804 RC     f
+Conner        0840 X310000-0    Ba                 003 Un

@@ -1,0 +1,44 @@
+@SUB-SECTOR: Urru SECTOR: Amdukan
+#
+# Trade Routes
+#
+$3212 0211 1 0 11
+$2618 2418 -1 0 11
+$2618 2815 0 0 11
+$2815 2613 0 0 11
+$2613 2912 0 0 11
+$2912 3212 0 0 11
+$2912 2909 0 -1 11
+$2618 2720 0 0 11
+$2720 2922 0 1 11
+$2613 2213 -1 0 11
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UWP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Ykzzeen       2511 C55A7A7-7  M Wa                 332 Jh
+Zzaskkurhk    2517 B5328A5-7  M Na Po              500 Jh
+Brkugarrt     2612 C350483-8  M De Ni Po           503 Jh
+Kruzz         2613 B510675-9    Na Ni              805 Jh
+Ksethae       2618 B543643-8  J Ni Po              510 J-
+Miilaa        2711 E697574-6    Ag Ni              622 J-
+Kaengoez      2716 C899687-5  M Ni                 700 J-
+Aegzuesu      2717 D5438B7-3    Po                 302 J-
+Sodza         2719 C364612-4    Ag Ni              604 J-
+Breeze        2720 B68A663-B  M Ni Ri Wa           504 J-
+Uganig        2813 C310274-7  M Lo Ni              100 J-
+Urludirdu     2815 B300651-C    Na Ni Va           802 J-
+Biota         2820 C885668-6    Ag Ni Ri           403 J-
+Lisii         2912 A510266-D  J Lo Ni              922 J-
+Ongza         2914 C799642-4  M Ni                 304 J-
+Gvoulouz      2919 E776451-2    Ni                 522 J-
+Gulkis        3013 C78A674-9    Ni Ri Wa        A  400 J-
+Ueloursa      3019 D200343-5    Lo Ni Va           922 J-
+Gugan         3111 C000547-9  M As Ni              920 J-
+Uksugu        3113 C654557-8    Ag Ni              424 J-
+Dreck         3114 E733000-6    Ba Lo Ni Po        023 J-
+Semakee       3212 BA87564-9  M Ag Ni              812 J-
+Agvae         3214 D99A589-8    Ni Wa              401 J-
+Al Agzadh     3217 C557333-8    Lo Ni              300 Hl
+Agga          3219 A410545-C  J Ni Cp              124 Hl
+Al Agun       3220 C150323-8  M De Lo Ni Po        403 Hl
+

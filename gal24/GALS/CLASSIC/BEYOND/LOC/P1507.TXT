@@ -1,0 +1,21 @@
+System: Nervenheilanstalt
+Subsector: Liberty Hall
+Sector: Beyond
+Coordinates: 1507 (B0707)
+UWP: E554410-3
+
+Starport: Frontier Quality
+Size: Medium (7200-8800 km)
+Atmosphere: Thin
+Hydrographics: 40% water
+Population:  0,000
+Govt: Company/Corporation
+Law Level: No Prohibitions
+Technology: Pre-Industrial
+
+Bases: 
+Trade Codes: Ni              
+Travel Zone: Green
+Planetoid Belts:  
+Gas Giants:  
+Allegiance: Die Weltbund

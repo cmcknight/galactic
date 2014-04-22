@@ -1,0 +1,15 @@
+Hamilcar C56A745-9 
+Starport: Routine         Size: Medium (7200-8800 km)
+Atmosphere: Standard      Hydrographics: Water world
+Population: 80 million    Govt: Representative Democracy
+Law Level: Moderate       Technology: Early Stellar
+
+Hamilcar is a water world notable because it is home to large colonies
+(4 million or so individuals each) of both sentient and non-sentient dolphins.
+The sentient dolphins were manipulated to intelligence by GenAssist, which
+conducted the experiment with great success a number of years ago. Other
+sentient creatures resulting from GenAssist experiments (some based on
+pre-existing Terran lifeforms, others completely new creations) will likely
+be encountered as the Republic's explorers push deeper into the former
+Solomani Confederation.
+                             

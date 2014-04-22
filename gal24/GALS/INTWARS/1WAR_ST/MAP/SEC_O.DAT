@@ -1,0 +1,26 @@
+@SUB-SECTOR: sec_O   SECTOR: 1war_st
+#
+# Trade routes within the subsector
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Ys            1732 E847000-0    Ba Lo Ni           020 Us
+.             1736 X442000-0    Ba Lo Ni Po        004 Us
+.             1738 X26A000-0    Ba Lo Ni Wa        013 Us
+.             1739 X730000-0    Ba De Lo Ni Po     003 Us
+.             1740 X269000-0    Ba Lo Ni           020 Us
+Remulak       1833 E974573-4    Ag Ni              412 Id
+.             1836 XA85000-0    Ba Lo Ni           003 Us
+Hephaistos    1931 D930418-9    De Ni Po           202 Tc
+Calgary       2031 DA9A565-4    Ni Wa              725 Tc
+Inferno       2131 D578663-4    Ag Ni              124 Tc
+Forlorn       2132 D496663-5    Ag Ni              224 Tc
+.             2135 X798000-0    Ba Lo Ni           004 Us
+.             2138 X9D7000-0    Ba Fl Lo Ni        004 Us
+.             2235 X779000-0    Ba Lo Ni           003 Us
+Pollux        2236 X000000-0    As Ba Lo Ni        000 Us
+.             2240 X9BA000-0    Ba Fl Lo Ni Wa     013 Us
+.             2337 X210000-0    Ba Lo Ni           024 Us
+Castor        2339 X000000-0    As Ba Lo Ni        000 Us
+.             2433 X778000-0    Ba Lo Ni           002 Us

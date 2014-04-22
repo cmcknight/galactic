@@ -1,0 +1,28 @@
+@dir=gals\tne\corridor\map
+@Light Yellow
+Corridor Sector / Data Files
+
+@Light Cyan
+      Sector Data                  @..\corridor.dat
+      Stellar Data                 @stars\stars.dat
+      Credits                      @..\credits.txt
+
+@Light Green
+      Subsector Data
+@Light Cyan
+       A: Khouth                   @sec_a.dat
+       B: Khukish                  @sec_b.dat
+       C: Lemish                   @sec_c.dat
+       D: The Narrows              @sec_d.dat
+       E: Ian                      @sec_e.dat
+       F: Strand                   @sec_f.dat
+       G: Naadi                    @sec_g.dat
+       H: Uantil                   @sec_h.dat
+       I: Shush                    @sec_i.dat
+       J: The Empty Void           @sec_j.dat
+       K: Atu'l                    @sec_k.dat
+       L: Kivu                     @sec_l.dat
+       M: Two Worlds               @sec_m.dat
+       N: Ashishinipar             @sec_n.dat
+       O: Sinta                    @sec_o.dat
+       P: Sashrakusha              @sec_p.dat

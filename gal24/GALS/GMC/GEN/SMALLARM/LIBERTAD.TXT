@@ -1,0 +1,48 @@
+ENL Libertad Combat Rifle
+
+The Libertad is a unique weapon. It is manufactured in a variety of small
+workshops on Jakob for the Ladian National Army (Ejercito Nacional de Ladia
+or ENL) and is the closest this organisation comes to having a standard issue
+weapon. Given the circumstances of it's manufacture, most examples show a
+suprising degree of craftmanship and reliablity. The weapon itself is a
+triumph of TL 3 engineering, the equal of many TL 5 or 6 designs. It is a
+bullpup combat rifle firing 7mm cased black powder ammunition from a
+detachable 40 round magazine. The Libertad can fire in either semiautomatic
+or full cyclic (400rpm) modes. The coarse nature of it's black powder
+propellant leads to a considerable amount of fouling. This problem is
+alleviated to a degree by the inclusion of deep cleaning groves in the
+action. However the Libertad will still foul if used for extended periods
+without adequate cleaning (decrease reliability by one step for each 200
+rounds fired without cleaning). It should also be remembered that the black
+powder propellant will produce considerable amounts of smoke, which will
+rapidly obsure visibility. This will be particularly noticeable when using
+cyclic fire.
+
+The Libertad is virtually unavailable off Jakob, where it's possession (or
+that of any other firearm) is a summary capital offence. However it has been
+estimated that several hundreds of thousands of these weapons have thus far
+been manufactured and some have made it off world, were they command high
+prices amongst collectors. It is rumoured that Konig Arms is intending to
+start production of a reproduction in the near future to capitalise on this
+market.
+
+Weapon: ENL Libertad
+Action: Recoil - singleshot, cyclic (400)
+Ignition: Percussion
+Tech Level: 3
+Calibre: 7mm ENL cased
+Penetration: 3
+Range: medium
+Malfunction: reliable (see notes below)
+Shots: 40
+Mass: 3.6kg
+Reloads: 0.6kg
+Length: 69.8cm
+Cost: Cr 160 (Cr 800 plus off world)
+Incidentals: 40 rounds ball: Cr 4 (0.5kg)
+             empty 40 round magazine: Cr 10 (0.1kg)
+
+Whilst the Libertad is theoretically a reliable weapon, the nature of it's
+manufacture leads to considerable variety in quality. For each weapon throw
+1D; a 1, 2 or 3 indicates a reliable weapon, a 4 or 6 indicates an unreliable
+weapon, whilst a 6 indicates a very unreliable weapon.

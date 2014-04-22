@@ -1,0 +1,14 @@
+@dir=gals\intwars\gen
+@Light Yellow
+
+Interstellar Wars / General Information
+
+
+@Light Cyan
+      Designer Notes           @design.txt
+      Government Notes         @govt.txt
+      Overview                 @overview.txt
+      Origins of the Wars      @origins.txt
+      The Wars                 @wars.mnu
+      The Terran Confederation @tc.mnu
+      The Ziru Sirka           @zs.mnu

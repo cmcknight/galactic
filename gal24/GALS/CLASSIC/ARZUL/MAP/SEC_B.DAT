@@ -1,0 +1,33 @@
+@SUB-SECTOR: Fosten SECTOR: Arzul
+#
+$1008 0912 0 1 11
+$1008 1307 0 0 11
+$1307 1203 0 0 11
+$1203 0802 -1 0 11
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Saepar        0904 C000659-B    As Na Ni           404 J-
+Ghueghik      0905 C634565-7    Ni                 325 J-
+Voegan        0909 D332534-8    Ni Po              103 J-
+Rutarrgh      1007 A4519ED-8    Hi Po              903 J-
+Arrghan       1008 A476999-A    Hi In              100 J-
+Tagh          1102 B1108C9-B    Na                 623 J-
+Dakh          1108 D689944-8    Hi                 505 J-
+Digh          1109 A556785-8  N Ag                 601 J-
+Sezakh        1202 D777341-5  S Lo Ni              810 J-
+Errurrgh      1203 B895345-B  2 Lo Ni              310 J-
+Rarrza        1207 B894846-9                       702 J-
+Agodz         1210 B9867A8-8  2 Ag                 521 J-
+Rudzkha       1307 A475420-D  2 Ni                 300 J-
+Ragh          1308 A8B688A-B    Fl                 623 J-
+Digharrgh     1309 B693688-5  N Ni                 902 J-
+Sagharr       1406 D633423-9    Ni Po              403 J-
+Urrgha        1408 X300000-0    Ba Lo Ni Va        022 J-
+Ovoeghagun    1501 E441300-2    Lo Ni Po           002 Na
+Sighnarr      1504 B360576-C  N De Ni              914 J-
+Ghadzarrgh    1506 D4C1416-B    Fl Ni              402 J-
+Dioco         1602 C462AEE-7  S Hi                 213 Na    
+Sigurroegh    1604 A86A687-C    Lo Ni Wa           305 J-
+Uta           1608 B636441-A    Ni                 203 Na
+

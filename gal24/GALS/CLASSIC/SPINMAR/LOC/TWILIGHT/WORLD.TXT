@@ -1,0 +1,49 @@
+
+  The World
+  ---------
+   
+   The world 871-438 isn't the most exciting place in the universe. The
+   only interesting feature of this dust ball is the list of things this
+   world doesn't have:
+     * No atmosphere.
+     * No magnetic field.
+     * No moons or other orbiting bodies.
+     * Minimal hydrosphere in the form of various ices on the dark face.
+     * No natural resources of any merit.
+     * No tectonic activity.
+     * No meteor craters.
+     * No detectable life.
+   
+   In reality 871-438 does have a few redeeming features:
+     * Tidally locked.
+     * Extensive low level volcanic activity.
+     * Lots of open flat space to land a crippled ship.
+     * An aggressive carnivorous xenomorph with acidic blood.
+   
+   Three anomalous sites exhibit these aberrations:
+   
+    Site A
+   
+   The active EMS scan of this area produced a feint echo. Normally this
+   would be of no concern being written off as sensor mis-alignment,
+   transient electrical glitch or one of a dozen other alternatives.
+   There is one hassle with writing this one off so easily, the echoes
+   are identical to the original signal in every way despite the local
+   geomorphology discouraging any systematic reflectivity - an unlikely
+   yet theoretically possible event. There was insufficient time and
+   motivation to go back and repeat the scans.
+   
+    Site B
+   
+   This site showed up as a bright spot on the ship's neutrino sensor.
+   This could indicate a high energy source of some description. Then
+   again it could be one of those infamous sensor glitches.
+   
+    Site C
+   
+   The densotometer reading exhibited a very high peak when scanning this
+   region. This reading would usually indicate an area of increased
+   density; for example heavy metals, super dense materials or especially
+   dense metamorphic rock. Given the state of the rest of this dump, the
+   last of these options seems likely.
+

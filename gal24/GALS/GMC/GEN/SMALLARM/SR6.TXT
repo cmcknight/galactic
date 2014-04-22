@@ -1,0 +1,34 @@
+Phoenix SR6 Survival Rifle
+
+The Phoenix SR6 survival rifle started life as the M1335 rifle, first issued
+to IMSC personnel involved in the Phoenix Project in 1335T. The M1335 was the
+only standard issue weapon with the IMSC until the introduction of the M1341
+combat rifle in 1341T; and even after that time, it remained in limited
+issue as part of the standard IMSC M1338 survival kit. The simplicity and
+ruggedness of the M1335 were to have a major influence over the design of the
+legendary M1707 combat rifle (now known as the r3). The use of cased
+ammunition for the M1707 was a direct result of experience with the M1335.
+Ultimately the M1335 was replaced by the M1842 survival rifle (now called
+the Si72 survival rifle) in IMSC service, but it still remains widely
+available; both as an independent weapon and as part of the standard Survial
+Kits required by Imperial regulations.
+
+The SR6 is a very simple pump action rifle. It fires a 6mm cased ball round
+from an internal box magazine with a 5 round capacity. The SR6 is fitted with
+a simple collapsing stock for ease of storage. Whilst it may be fired with
+the stock collapsed, this is not recommended.
+
+Weapon: Phoenix SR6 Survival Rifle
+Action: Pump
+Ignition: Percussion
+Tech Level: 5
+Calibre: 6mm IMSC Cased
+Penetration: 3
+Range: Short
+Malfunction: reliable
+Shots: 5
+Mass: 2.05kg
+Reloads: 0.05kg
+Length: 77.6cm (52.6cm with stock collapsed)
+Cost: Cr 100
+Incidentals: 20 rounds ball: Cr 2 (0.2Kg)

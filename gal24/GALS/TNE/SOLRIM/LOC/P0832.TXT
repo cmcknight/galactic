@@ -1,0 +1,11 @@
+Wallach D478461-9
+Starport: Poor                     Size: Small (5600-7200 km)
+Atmosphere: Standard, tainted      Hydrographics: 80% water
+Population: 90,000                 Govt: Captive Government
+Law Level: Low                     Technology: Early Stellar
+       
+Thalassa recently annexed Wallach, and began establishing a colony there.
+The population of Wallach is happy to have an infusion of new blood into its
+small population (which is relatively speaking, aging rapidly), and Thalassa
+obtains valuable raw materials, and an outlet for its young, growing
+population.

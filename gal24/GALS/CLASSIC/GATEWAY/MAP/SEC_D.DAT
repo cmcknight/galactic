@@ -1,0 +1,28 @@
+@SUB-SECTOR: d SECTOR: Gateway
+#
+# Jump-routes
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Bem           3207 AADA000-C    Ba Ni Fl           111 Na
+Alistar       2503 C120555-A    Ni Po De           810 Na
+Nng Min Sa    2506 B477976-B    Hi In              724 Ak
+Nng Min Ha    2508 D454300-9    Lo Ni              622 Ak
+X'kuur'qu'io N2605 X747679-0    Ag Ni           R  713 Ak
+Gneri Mu Nin  2609 C555555-9    Ag Ni              313 Ak
+Drasheveen    2701 C230225-9    Lo Ni Po De        312 Na
+Holbert       2704 E243442-4    Lo Ni Po           212 Na
+Akeen         2708 B66A232-B    Ni Wa              912 Ak
+Jh'nng Mu Nu  2806 C683104-9    Lo Ni              913 Ak
+Hespitar      2810 C446410-A    Ni                 813 Ak
+Fartheron     2903 E564320-6    Lo Ni              423 Na
+Duranel       3006 E32487B-9                       101 Na
+Coma          3010 E100586-7    Ni Va              423 Na
+Agarn         3102 B66A777-9    Ri Wa              712 Na
+Tuckjohn      3105 D567200-7    Lo Ni              900 Na
+Randolph      3108 C140899-A    Po De              112 Na
+Boden         3109 C77A565-7    Ni Wa              612 Na
+Banserada     3110 B512103-B    Lo Ni Ic           313 Na
+Alechet       3201 C230225-9    Lo Ni Po De        310 Na
+Caterplan     3203 C140899-A    Po De              100 Na

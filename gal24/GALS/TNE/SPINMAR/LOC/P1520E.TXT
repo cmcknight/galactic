@@ -1,0 +1,144 @@
+
+System Description
+------------------
+
+Inward Clearance
+
+Tavonni considers itself to be on the frontier. Even the
+forcible acquisition of the Sword Worlds has not wiped out the
+memory of their attempted land-grab. This perception shapes
+Tavonni's attitude towards defence and inward clearance. Most
+outsiders often consider Tavonni's defence forces to be overly
+large. However, this allows initial inward clearance to be
+cursory and almost automatic; always remember; the Navy awaits
+insystem. A patrolling naval vessel makes a cursory scan of
+incoming traffic and normally clears it through to Tavonni High.
+It may give special clearance if a vessel has another
+destination (for example, another starport or base insystem).
+Generally, this must be pre-arranged.
+
+Tavonni System Control (TSC) is based at Tavonni High, and
+monitors all in-system traffic. TSC controls the movement of
+ships to and from Tavonni High to all downports, plus any ships
+with special clearance that bypass the highport. It also has the
+authority to declare a civil or military emergency. The
+difference is that a civil emergency causes rescue ships to race
+to the scene, while a military emergency causes warships to race
+to intercept. Either way, TSC vectors civil and military traffic
+throughout the system. All military traffic remains away from
+the civil lanes, unless they enable their transponders.
+
+All incoming ships, unless given special clearance, must dock at
+the Tavonni High orbital port. Classed as "basic" in size, it
+houses up to 500 passengers and 500 work crew. Refined fuel,
+spare parts, armament stocks and annual maintenance are all
+available, plus local foodstuffs and luxuries from across the
+sector. Customs and immigration can clear planet-bound
+passengers either in orbit or on the surface. In-bound cargo has
+a basic inspection performed on it to ensure that its bill of
+lading is accurate. Starport Authority (SPA) customs officers
+sometimes inspect cargoes for contraband, but this occurs less
+frequently for regular goods than for speculative cargo. SPA
+personnel synchronise customs procedures with scheduled shuttle
+flights, allowing passengers and cargo to proceed to the planet
+with little or no waiting.
+
+If a ship wants to land at Beowulf Down, customs officers must
+first inspect it at Tavonni High. Final customs clearance may be
+handled either at Tavonni High or at Beowulf Down.  TSC must
+then give landing clearance before the ship commences re-entry.
+Note that ships with special clearance may undergo inspection,
+customs and immigration at their destination downport.
+
+The Mainworld
+
+Seen from orbit, Tavonni appears untouched by civilisation. A
+deliberately low-key approach to development has left much of
+the planet undeveloped, making it look like a green jewel, lush
+with vegetation. While shuttling to the main starport on
+Bj'rn'ya Island, it is difficult to imagine that advanced
+sophonts live here at all. It is only when nearing The Plateau
+that artificial features begin to emerge from the jungle.
+
+Beowulf Down, the main starport, has excellent facilities for
+both private and commercial travellers. Aircraft and small craft
+are available for charter. Lone Scout Enterprises, an Imperial
+company originally created by ex-Scout commander Mikheil B.
+Powell, provides spaceship construction and starship repair. A
+full Scout base is attached to Beowulf Down, and is open for
+inspection once per month. trendi (Tavonni Research, Engineering
+and Design Inc), a subsidiary of Menelvagor, markets new
+vehicles and equipment.
+
+The main tertiary industry is hosting conventions and meetings
+for members of widespread Regency companies. The consequence of
+catering for these well-to-do travellers means that Tavonni's
+prices are not for the faint-hearted. Accomodation within the
+starport perimeter, for example, is at the Starport Hotel
+(4-star). The capital, Tamoachan City, is located moments away
+from the starport via monorail. Accomodation here ranges from
+the Hotel-at-the-Edge-of-the-World (5-star) through to the TAS
+Hostel (4-diamond). The off-worlder notices immediately that,
+having begun with only pre-fab buildings, Tavonni's population
+now prefers luxurious dwellings. Due to the cultural diversity,
+a number of restaurants provide off-world cuisine. In fact, most
+of the cuisines of three sectors, five species and four major
+races can be sampled in the capital alone.
+
+Tavonni Safari Park (TASP), the next island west of Bj'rn'ya, is
+for exclusive use by safaris. These include both camera shoots
+and big-game hunting expeditions. Visitors can see much of the
+more exotic of Tavonni's wildlife inhabiting the island. The
+Tavonni Beach Resort is the only permanent construction on TASP.
+
+The primary Aslan settlements are located on the eastern
+continent, mainly for historical reasons. Caradoc's base is
+located here, operating out of the original starport (now
+C-class). It was on this continent that Count Leto first granted
+land to members of the Ftai company. One other spaceport in
+known to exist on the planet, but its location is classified -
+as are the locations of Tavonni's deep-site meson guns. At least
+four of these are believed to exist - possibly more.
+
+Infrastructure
+
+Civilisation on Tavonni is widespread, literally! Being a young
+settlement, Tavonni's infrastructure is less than 70 years old,
+and averages out at TL 13 (some at TL 15). This planetary
+infrastructure contributes to the settlement pattern on Tavonni.
+
+The only large population centre is Tamoachan City (located
+close to Beowulf Down), with most of the population living in
+medium sized communities, separated from their nearest
+neighbours by up to 600 km or more. Most of these mid-sized
+communities support smaller communities, based on primary
+industry. This settlement pattern means that there are few
+long-distance ground transport links. Most passenger
+transportation is via grav vehicles, either air/raft taxi for
+short distances, or GCoach for longer distances (for example,
+via the Vargr-owned long-haul bus company, "G-Hound"). These
+long-distance services stress high speed. Rental vehicles are
+also available, ranging from 'Hatchback' style through to Grav
+RV. Bulk cargo trade is via either a few ocean-going merchant
+ships, or small craft/starships.
+
+From early on, the government recognised the need for a good
+communication net to limit the danger of dropping out of
+contact. Without it, help was almost impossible to call for, and
+rescuers would spend a considerable time deploying. Tavonni
+established an excellent and affordable communications network.
+All vehicles must be fitted with emergency beacons. Rental of a
+communications service is available at short notice for Cr1 per
+day plus Cr0.3 per 10 minutes on-line, with Hand Computer access
+at Cr3 per day (long term rentals are lower than these prices).
+The Government also created a rapid deployment emergency service
+facility. In the early days, the easiest way to provide these
+emergency services was to form them from the existing military
+medical and police force. Today, they still retain a
+paramilitary flavour, being staffed predominantly from
+ex-military personnel. For this reason they find it very easy to
+escalate problems to full military support in an emergency (the
+military are obliged to lend a hand in civil emergencies). They
+also have good access to funding, heavy equipment, and the
+Count's ear on major issues.
+

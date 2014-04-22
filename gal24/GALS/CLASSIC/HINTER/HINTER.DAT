@@ -1,0 +1,39 @@
+Hinterworlds
+
+A: Adar                      sec_a.dat
+B: Tlianke                   sec_b.dat
+C: Anubis                    sec_c.dat
+D: Pendiash Ginshar          sec_d.dat
+E: Cimeon                    sec_e.dat
+F: Darvis                    sec_f.dat
+G: Cromar                    sec_g.dat
+H: Menere's Reach            sec_h.dat
+I: Nullia                    sec_i.dat
+J: Bruia                     sec_j.dat
+K: Silver Laurel             sec_k.dat
+L: Sontra                    sec_l.dat
+M: Hashi                     sec_m.dat
+N: Kandra                    sec_n.dat
+O: Tempri                    sec_o.dat
+P: Aquila                    sec_p.dat
+
+Bases:
+N = Naval Base
+S = Scout Base
+F = Unknown
+J = Unknown
+M = Unknown
+  = None
+
+Allegiance:
+12 Im = Imperial
+11 So = Solomani
+07 Na = Non-aligned
+04 Cs = Client State
+14 Ac = Anubian Trade Coalition
+13 Cu = Cytrialin Unity
+10 Gi = Gniivi
+09 Lp = Council of Leh Perash
+02 Ow = Outcasts of the Whispering Sky
+03 Ra = Ral Ranta
+08    = Unknown

@@ -1,0 +1,23 @@
+Zoraith X525000-0
+Starport: None                     Size: Medium (7200-8800 km)
+Atmosphere: Very thin, tainted     Hydrographics: 50% water
+Population: 0                      Govt: No government
+Law Level: No Prohibitions         Technology: None/Primitive
+
+        Before the Collapse Zoraith was a productive member of the Imperium,
+but Virus changed all that. Most people lived in one of the three cities, with
+a few scattered residents living in the outback.  Power to the entire planet
+was generated at a massive geothermal plant near the capital.  Virus infected
+the plant, and created a huge magma upwelling which destroyed the capital.
+The other two cities were bombed from orbit, by an infected light cruiser.
+Residents in the outback, were left without power, and hence without heat,
+light or communication.  Most of them starved or froze to death in the next
+few days.  A few managed to survive a few months before sucumbing to the
+elements.  The planet is now a absent of human life.
+        The atmospheric taint comes from a bacterial life form.  It is
+fairly lethal to humans.  Before the collapse, there was a vaccination, which
+was effective 99% of the time. Because of the risk, the TAS granted the
+world a Amber zone.
+
+Lewis Roberts
+lewis@chara.gsu.edu

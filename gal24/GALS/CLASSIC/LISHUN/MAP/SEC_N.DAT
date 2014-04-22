@@ -1,0 +1,57 @@
+@SUB-SECTOR: sec_N   SECTOR: lishun
+#
+# Trade routes within the subsector
+$1033 0934 0 0
+$1033 1134 0 0
+$0934 1037 0 0
+$1134 1037 0 0
+$1033 0830 -1 -1
+$1037 0901 0 1
+$1134 1332 0 0
+$1332 1631 0 0
+$1631 1730 1 -1
+$1631 1932 1 0
+$1037 1640 0 0
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Argur         0931 B89A866-D  N Wa                 300 Li
+Paran         0934 A898A74-F    Hi In              802 Li
+Khalu         0935 A330768-F  S Na Po De           625 Li
+Phytaln       0936 B86899C-E  N Hi                 102 Li
+Khigrish      0937 C692377-7  S Lo Ni              824 Li
+Mimiku        0940 C1506A8-B  S Ni Po De           304 Li
+Bikuushamas   1031 E959678-4    Ni                 904 Li
+Idlika        1032 B7AA488-D    Ni Fl Wa           105 Li
+Ashpar        1033 A573998-G    Hi In              112 Li
+Shadpho       1034 E432579-8    Ni Po              402 Li
+Aknam         1037 B748654-8  A Ag Ni           A  804 Li
+Khiiza        1038 C667300-9  S Lo Ni              103 Li
+Kadigukin     1039 D591676-6  S Ni                 303 Li
+Laesho        1131 D2108A6-9    Na                 413 Li
+Ushipaale     1134 A222264-C  N Lo Ni Po           920 Li
+Khusila       1136 B95A436-9  N Ni Wa           A  304 Li
+Gamulag       1138 B585020-B  N Lo Ni              623 Li
+Gudan         1231 A320100-D  A Lo Ni Po De        203 Li
+Siidugam      1232 B654632-B    Ag Ni              800 Li
+Ushmuur       1233 C100766-A    Na Va              200 Li
+Irgan         1236 C788683-6    Ag Ni Ri           503 Li
+Valahii       1238 C4319AA-C    Hi Na Po           600 Li
+Welling       1332 C220973-E  S Hi Na In Po De     200 Li
+Iigduur       1333 C574546-9  S Ag Ni              321 Li
+Zima          1338 C130334-A    Lo Ni Po De        913 Li
+Ramamkhas     1340 B200879-E    Na Va              704 Li
+Chayn         1433 C637653-B  S Ni                 505 Li
+Lanarki       1435 C485797-9  S Ag Ri              610 Li
+Crater        1439 D200732-9    Na Va              710 Li
+Galadorn      1440 E201488-6    Ni Va Ic           903 Li
+Maas          1531 BAD6677-9  N Ni Fl              304 Li
+Anar'Ka       1536 B8C4410-B    Ni Fl              603 Li
+Hodiri        1537 B431379-A  N Lo Ni Po           501 Li
+Tahaggur      1538 C35498A-B    Hi                 504 Li
+Samar         1540 D678257-8  S Lo Ni              603 Li
+Daaraa        1631 A223567-D    Ni Po              203 Li
+Maa-Egu-Ker   1632 D99A755-5  S Wa                 823 Li
+Fighting      1635 B756784-B    Ag                 403 Li
+Pequod        1640 A783354-D    Lo Ni              505 Li

@@ -1,0 +1,27 @@
+@dir=gals\classic\vanguard\map
+@Light Yellow
+
+Vanguard Reaches / Data Files
+
+@Light Cyan
+      Sector Data                    @..\vanguard.dat
+
+@Light Green
+      Subsector Data
+@Light Cyan
+       A: Issoudun                 @sec_a.dat
+       B: Andwella                 @sec_b.dat
+       C: Coos                     @sec_c.dat
+       D: Trelyn                   @sec_d.dat
+       E: Chapra                   @sec_e.dat
+       F: Haldensleben             @sec_f.dat
+       G: Pandemonium              @sec_g.dat
+       H: Eslyat                   @sec_h.dat
+       I: Eckmann Schrift          @sec_i.dat
+       J: Four Corners             @sec_j.dat
+       K: Diadem                   @sec_k.dat
+       L: Kajaani                  @sec_l.dat
+       M: Helix                    @sec_m.dat
+       N: Hyperion                 @sec_n.dat
+       O: Old Colonies             @sec_o.dat
+       P: Jarnac                   @sec_p.dat

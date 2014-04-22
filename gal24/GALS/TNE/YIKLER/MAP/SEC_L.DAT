@@ -1,0 +1,29 @@
+@SUB-SECTOR: sec_L   SECTOR: yiklerzd
+#
+# Trade routes within the subsector
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Arcana        2523 B8775B3-C  A Ag Ni An        R  535 AU
+Kia           2623 A35296B-C  A Hi Po O:2620       102 AU
+Qlate         2630 C65A400-A    Ni Lo Wa           304 Na
+Dustbowl      2725 CAF16B0-C  A Ni Pr           R  324 AU
+Umder         2727 X354603-0    Ag Ni              702 Na
+Khuggi        2728 B301758-9  M Ic Na Va           121 SC
+Bravl         2730 D7B49EF-9    Fl Hi              203 Na
+Crusade       2823 C5577BC-A  A Ag                 102 AU
+Thalamus      2825 A42041B-B  A De Lo Ni Po        511 AU
+Safcolia      2921 A98A7BB-C  A Wa                 405 AU
+Ginkhu        2928 D4839AA-7    Hi D8              222 SC
+Iiash         3022 X676000-0    Ba              R  034 SC
+Sukia         3024 C6887A9-3    Ag                 120 SC
+Kemkhil       3025 E546344-5    Lo Ni              805 SC
+Torgol        3026 C533442-9  M Lo Ni Po           504 SC
+Avator        3028 D203575-9    Ic Ni Va           323 Na
+Kiefer        3122 A663564-C  M Ni O:3124          622 SC
+Kiirkhiim     3124 B668430-B  M Lo Ni              423 SC
+Kons          3125 B684578-9  M Ag Ni              323 SC
+Flieporshe    3126 E78896B-6    Hi O:3026          101 SC
+Afroqnats     3228 C8776AE-C    Ag Ni              903 Na
+Zdaefia       3229 X978000-0    Ba                 032 Na

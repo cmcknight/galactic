@@ -1,0 +1,35 @@
+p3 Laser Pistol
+
+During the First Mwoah War it was found that the Mwoah had never developed
+lasers for the antipersonnel role or adequate defences against them; and
+therefore the r2 laser rifle proved to be very effective in the early stages
+of the war. As a result, the IMSC developed the p3 laser pistol as a
+companion for the r2. However later in the war, the Mwoah developed defensive
+armour against lasers and the effectiveness of the p3 became marginal. After
+the war the p3 was dropped from service. However when the Magellanic Navy was
+formed in 2214T, that service adopted the p3 as it's standard dress sidearm.
+The Navy officially replaced the p3 with the p7 in 2359T; however most senior
+naval officers and many NCOs still prefer to carry the p3 (Magellanic custom
+allows officers of grade O4 and over and enlisted personnel of grade E7 and
+over to carry their choice of sidearm).
+
+The p3 fires 443j 5mm pulsed beam in either single pulse or 3 pulse burst
+mode. the p3 contains in internal superconductor magazine with a capacity of
+24 shots, this magazine can be recharged from a belt mounted rechargeable
+battery pack or any standard high energy power source.
+
+Weapon: p3 laser pistol
+Action: Single frequency (UV) - single pulse, burst (3)
+Ignition: Electric
+Tech Level: 10
+Calibre: 5mm pulse
+Penetration: 3
+Range: short
+Malfunction: reliable
+Shots: 24
+Mass: 1.3kg
+Reloads: 2.3kg
+Length: 25cm
+Cost: Cr 785
+Incidentals: 100 shot rechargeable battery pack: Cr 18 (2.3kg)
+             400 shot disposable battery pack: Cr 9 (2.3kg)

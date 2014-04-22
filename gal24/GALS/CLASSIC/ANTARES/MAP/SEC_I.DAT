@@ -1,0 +1,45 @@
+@SUB-SECTOR: Urunishu   SECTOR: Antares
+#
+# Trade routes within the subsector
+$0124 3126 -1 0 11
+#
+$0627 1029 1 0 11
+$0627 0524 0 0 11
+$0524 0124 0 0 11
+$0421 0524 0 0 11
+$0421 0419 0 -1 11
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Laipanna      0123 C328454-C    Ni                 604 Im 
+Ogguengan     0124 A264677-A    Ag Ni Ri           400 Im 
+Anmi          0125 B8B0564-B  N Ni De              700 Im 
+Lyrihnele     0126 B515436-8  N Ni Ic              304 Im 
+Kaze          0127 C85A488-8  S Ni Wa              704 Im 
+Akuu          0128 C510689-9  S Na Ni              600 Im 
+Mi            0223 C645576-9    Ag Ni           A  504 Im 
+Girgaka       0224 D574542-4    Ag Ni              402 Im 
+Cane          0225 E554320-8    Lo Ni              200 Im 
+Shythaces     0227 C220840-6    Na Po De           404 Im 
+Kumirnikur    0323 E444110-5    Lo Ni              303 Im 
+Sishdamar     0327 B792565-A  S Ni                 404 Im 
+Ilesgi        0421 B486461-9    Ni                 213 Im 
+Deremed       0423 B672001-8    Lo Ni              813 Im 
+Nakiowa       0524 A457420-A  N Ni                 910 Im 
+Akude         0527 D333677-8    Na Ni Po           822 Im 
+Ir            0528 D220444-9  S Ni Po De           611 Im 
+Raperch       0623 X776768-1    Ag              R  603 Im 
+Wyea          0626 A510666-A  N Na Ni              404 Im 
+Taku          0627 AA675AD-B    Ag Ni              912 Im
+Syne          0628 B000213-F    Lo Ni As           812 Im 
+Narea         0722 B98A441-A  S Ni Wa              405 Im 
+Akaguugi      0724 B24068A-C  N Ni Po De           610 Im 
+Mika          0725 C342676-6    Ni Po              800 Im 
+Shasheba      0726 C778656-5    Ag Ni              901 Im 
+Gashagi       0727 E786100-9    Lo Ni              600 Im 
+Lara          0728 C774543-6    Ag Ni              101 Im 
+Uukhami       0821 C410679-6    Na Ni              224 Im 
+Oerchgwe      0823 E3228A6-6    Na Po              223 Im 
+Wyshamshen    0824 C999657-6  S Ni                 602 Im 
+Alejako       0827 C463798-7  S Ri                 804 Im 
+

@@ -1,0 +1,109 @@
+
+    HIWG
+
+    HIWG Document: #  HD3424                          Date: 21-05-92
+
+    From: Leighton Piper
+          Gushemege Sector Developer
+          11 Skeffington Road,
+          PRESTON,
+          Lancs., PR1 5UP.
+          UK.
+
+    To:   David Burden, Gushemege Sector Analyst.
+          J. Duncan Law-Green, Vland Domain Editor.
+          Clayton R.Bush, Quadrant 1 Editor.
+          Kevin Parry, HIWG(UK).
+
+    Abstract: Outline of Laeth subsector (N of Gushemege), system stats and
+    library data.
+
+    LAETH SUBSECTOR
+
+    Laeth is divide up into two  distinct cultural regions: the Ilelish Rim
+    and the Heartland.  The Ilelish influence goes back  to the experiences
+    of the  Long Night and has  retained much of the  character of Ilelish.
+    Declaration  for  Dulinor  at  the  onset  of  the  Rebellion  was  not
+    unexpected  but was  nevertheless regarded  with horror  by the  sector
+    government.  The  'Heartland'  regions  of  Laeth  are  one of the most
+    important  areas especially  as a  major food  producer/exporter and  a
+    centre for many of the IISS activities.
+
+    The subsector capital  of Sidur Ishki is an  important exporter of high
+    tech  equipment, its  shipyards are   some of  the finest  producers in
+    Gushemege. The majority  of the sector navy's vessels  at the high tech
+    end are procurred  at the Nasiirka yards (now owned  by a consortium of
+    local businesses).  This has led  to a number  of raids by  pro-Dulinor
+    forces  in  1117  and  1118,  finally  falling  into  Ilelish  hands on
+    214-1118.  However the  system wasn't  to stay  for long  under Ilelish
+    control as Strephon's  navy managed to rest in back  in early 1119. Yet
+    Dulinor's determination to win the system  bore friut at the end of the
+    year when he managed to establish a forward fleet headquarters.
+
+    Polygamy is named  after the curious custom on the  world of men having
+    many concurrent  marriages. The practice  of taking many  wives follows
+    the mysterious  outbreak of a  disease affecting the  nervous system of
+    sexually mature  males. The male  population was decimated,  reduced by
+    92%. In  order for the  population to survive  and grow the  government
+    issued a  decree whereby each male  had to marry at  least three wives.
+    Government financial bonuses were given to husbands for extra wives and
+    lots of  children. Although the  population has now  reached the levels
+    just prior to when the disease  struck the law requiring many wives for
+    men has  never been repealed,  thus it is  still common for  the men on
+    Polygamy to be married to several women. The higher the social position
+    the  more wives  a man  is expected  to have.  Wives are  allowed to be
+    married to more than man. There has recently been strong protests about
+    the practice of polygamy on the  world by members of the fundamnetalist
+    missionaries  of Shagaelo.  These missionaries  have clashed  violently
+    with locals on a number of occassions.
+
+
+    Name          Hex  UWP          Codes              Data   Stellar Data
+
+    Taalish       0933 E372573-5    Ni                 303 Im M2 V M4 D
+    Eycoltou      0934 C887103-8    Lo Ni              701 Im M9 VI M8 D
+    Lemantine     0935 B865255-A  S Lo Ni              400 Im G1 V M6 D
+    Baalaansh     0936 C561689-7    Ni Ri              404 Im G4 V M5 D
+    Gamaliss      0937 A372488-B  A Ni                 900 Im F3 V
+    Swinedune     0940 E000545-8    Ni As              400 Im K3 V
+    Nukyls        1033 B240610-A  N C2 Ni Po De        711 Im K2 V
+    Maernon       1036 B678633-9  N Ag Ni              303 Im G0 III M3 D
+    SHARIM        1038 A435967-F  A D5 Hi              100 Im M3 V
+    He'alaan'drl  1039 D424566-6    Ni                 601 Im K0 V M8 D
+    Kemshigesh    1133 D532544-A    Ni Po              613 Im A2 V M8 D
+    Podero        1135 D265751-5    Ag Ri              513 Im M0 V
+    Vin           1136 B543589-D  N Ni Po              703 Im K0 V
+    Draerch       1137 B312651-D  N Na Ni Ic           800 Im M4 V M3 D M6 D
+    Weaf          1139 A7A7724-A  S Fl                 102 Im K0 V
+    Rellena       1140 E898210-6    Lo Ni              910 Im K2 V M6 D M0 D
+    Find          1231 D675420-5    Ni                 323 Im M2 V
+    Mercator      1233 C440431-8  S Ni Po De           503 Im G1 V
+    SIDUR ISHKI   1234 A312999-F  N Hi Na In Ic Cp     120 Im M0 V M0 D
+    Icon          1235 D434678-7    Ni                 715 Im K1 V
+    SHIIKI        1236 B551997-B    Hi Po              810 Im G0 V
+    Gumahler      1237 X655799-3    Ag              R  205 Im K1 V M6 D
+    Zalanor       1239 E100653-B    Na Ni Va           724 Im M3 V G7 D
+    Camal         1331 C321630-8    Na Ni Po           203 Im G9 IV M6 VI
+    Wingate       1333 A877663-B    Ag Ni              300 Im F0 V
+    Sidur Haski   1334 B786354-E    Lo Ni              220 Im M6 V
+    Thon          1337 B745597-8  S Ag Ni              410 Im K4 V
+    Depsorn       1340 C443366-C  S Lo Ni Po           903 Im F7 IV M3 D
+    Arailiur      1431 C500137-B  S Lo Ni Va           100 Im G8 V M4 D
+    Confex        1432 BAC4103-A  N Lo Ni Fl           220 Im M0 VI
+    Vueegmala     1433 C629034-8    Lo Ni              903 Im M2 V M6 D
+    Tromiishur    1434 B626769-C                       224 Im M0 V M7 D
+    SHUPIN        1439 D959966-8    Hi                 204 Im M4 IV
+    Ovchek        1440 A635213-E  N Lo Ni              900 Im M6 V M9 D
+    Oneria        1531 B787477-D  S Ni                 605 Im M2 V
+    Polygamy      1532 A549679-A  N Ni                 800 Im K3 V
+    Sinerhk       1534 B656634-A  A Ag Ni              304 Im G1 V M6 D M2 D
+    Here          1539 B443775-D    Po                 103 Im K4 V
+    Chiras        1540 E555320-5    Lo Ni              303 Im M0 V
+    Zinzan        1637 C23365A-B    Na Ni Po           904 Im K3 V
+    Budeeshou     1638 A597476-F  W Ni                 104 Im G2 V
+    Llest         1640 C78A200-9  S Lo Ni Wa           503 Im M6 V
+
+    Highest  tech  level  =  F,  Sharim,  Sidur  Ishki,  Budeeshou; Highest
+    population  = 9,  Shiiki  (8.14  billion), Shupin  (2.56 billion),Sidur
+    Ishki (1.88  billion),Sharim (1.73 billion);  Total population =  15.33
+    billion.

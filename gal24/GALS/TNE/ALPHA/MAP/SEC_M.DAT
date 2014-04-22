@@ -1,0 +1,35 @@
+@SUB-SECTOR: Ziasudra   SECTOR: alphaleo
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Rosaro        0131 X000000-0    As                 001 Un
+Potose        0133 X446200-7    Ni Lo              405 Wi
+Sucre         0135 D6866RA-7    Ni Ri Ag           902 Wi
+Ica           0136 X8655S7-3    Ni Ag           B  404 Wi
+Luebo         0137 X6434RA-4    Ni Po Lo           401 Wi
+Lusaka        0139 X98A6S7-A    Ni Ri Wa           804 Wi
+Scathe        0231 X000000-0    As                 001 Un
+Walvis        0232 B3726T8-B                       633 Na
+Fogo          0233 X100000-0    Va                 004 Un
+Ziusudra      0234 C3557RB-7    C4 Ag              413 Wi
+Tomsk         0236 X9C0000-0    De                 002 Un
+Balboa        0240 X5739R8-3    Hi In           B  104 Wi
+Bokhoro       0332 X100000-0    Va                 005 Un
+Fermi         0334 X8985O3-5    Ni Ag           B  500 Wi
+Palawan       0335 X874200-6    Ni Lo              221 Wi
+Nin           0339 X9E3000-0    Ba                 023 Un
+Dashpot       0340 E3575U9-6    Ni Ag              604 Wi
+Rartonga      0435 X322000-0    Ba Po              002 Un
+Maxwell       0436 X110000-0    Ba                 000 Un
+Wisniak       0437 X546300-5    Ni Lo              405 Wi
+Ducain        0540 X4553Q2-7    Ni Lo              404 Wi
+Mcmanuss      0632 X98A6P8-4    Ni Wa           B  903 Wi
+Sala          0634 X110000-0    Va                 024 Un
+Kirchkoff     0636 X7B4000-0    Ba                 013 Un
+Grabel        0638 D79A5P2-8    Ni Wa           B  400 Wi
+Torrens       0639 X6797RC-7                       323 Wi
+Amiens        0731 E6888YE-6                    B  910 Wi
+Kermadec      0734 X100000-0    Va                 010 Un
+Fantasy       0834 C58A3P7-A    Ni Wa Lo           525 Wi
+Xaimen        0840 C7663P3-B    Ni                 613 Wi

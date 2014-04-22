@@ -1,0 +1,54 @@
+@SUB-SECTOR: sec_J   SECTOR: ealiyasi
+#
+# Trade routes within the subsector
+$1021 1220 0 -1
+$1021 0923 0 0
+$0923 0924 0 0
+$0923 0822 -1 0
+$0924 0724 -1 0
+$1222 1220 0 -1
+$1222 1323 0 0
+$1323 1324 0 0
+$1324 1525 0 0
+$1525 1527 0 0
+$1527 1728 1 0
+$1324 1523 0 0
+$1523 1521 0 0
+$1521 1619 0 -1
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Heauahau      0922 C5432G7-6    Lo Ni Po           300 As
+Ahtlisouiy    0923 A6765HA-E  R Ag Ni              412 As
+Wayohuaar     0924 A6265N8-E    Ni                 602 As
+Iwhrouiyer    0926 D4784H5-9    Ni                 822 As
+Ekhyoso       0927 C75A2G2-B    Lo Ni Wa           404 As
+Feaaloaal     1021 AAC47L9-E    Fl                 103 A3
+Oyo'au        1024 X7588K5-9                       111 As
+Keiilheirleah 1027 D3003L6-8    Lo Ni Va           523 A0
+Ooioiha       1123 E4632NA-8    Lo Ni              103 As
+Fteailel      1124 C6982L6-7    Lo Ni              213 A9
+Auyal         1126 E6843G6-8    Lo Ni              123 As
+Oheise        1222 B1009L8-B    Hi In Na Va        304 A0
+Aooislaiheeiw 1226 C1001G5-8    Lo Ni Va           204 As
+Eiheleiil     1227 D6B33G5-A    Fl Lo Ni           504 As
+Eiiyeakh      1230 D7763N5-9    Lo Ni              300 As
+Tohai         1323 A3639H5-E  T Hi                 703 As
+Aoliei        1324 A1104K8-E  R Ni                 912 As
+Yorlelra      1330 C6867K4-D    C5 Ag Ri           802 As
+Ealalkhtair   1421 C5891J6-7    Lo Ni              804 As
+Ahorei        1423 C1004H3-9    Ni Va              804 As
+Kaheyu        1425 E7680K6-6                       513 As
+Aalreae       1426 C1003M3-7    Lo Ni Va           302 As
+Heaeaekh      1428 D6681J4-7    Lo Ni              203 As
+Iho           1521 D596AH9-D    Hi In              801 As
+Taouirihfti   1523 B7C56N6-C    Fl Ni              302 As
+Ilahaiha      1525 B1004J6-D    Ni Va              405 As
+Ekhyoaoiharha 1526 C85A2H2-B    Lo Ni Wa           324 As
+Iraisafeie    1527 B8C22MA-A    C0 Fl Lo Ni        725 As
+Khiyoea       1528 C73A4J9-C    Ni Wa              102 As
+Oulrasliyakh  1530 B2523G6-D  T Lo Ni Po           101 As
+Iuiy'khtiy    1626 C1001GA-A    Lo Ni Va           723 As
+Ftahaoh       1627 B2326H6-D    Na Ni Po           512 As
+Eilrhkeair    1630 E4762M7-5    C0 Lo Ni           713 As

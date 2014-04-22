@@ -1,0 +1,32 @@
+@SUB-SECTOR: sec_C   SECTOR: 2war_end
+#
+# Trade routes within the subsector
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Giida         1705 E411000-0    Ba Ic Lo Ni        011 Zu
+Mekashish     1707 C676402-A    Ni                 122 Zs
+Surkam        1710 E46376B-2    Ri                 422 Zs
+Khi           1802 BAE7777-8    Fl                 903 Zs
+Puushgushupa  1804 E520000-0    Ba De Lo Ni Po     003 Zu
+Khershuug     1901 E76A332-9    Lo Ni Wa           112 Zs
+Shirider      1909 E200000-0    Ba Lo Ni Va        022 Zu
+Nuugashur     1910 B535684-9    Ni                 502 Zs
+Ariishmash    2001 E458000-0    Ba Lo Ni           020 Zu
+Gusharembida  2004 E786200-8    Lo Ni              302 Zs
+Khiirshag     2010 C79A415-7    Ni Wa              203 Zs
+Gake          2102 E000000-0    As Ba Lo Ni        000 Zu
+Iingi         2104 D233234-6    Lo Ni Po           302 Zs
+Gunashnan     2105 E85446C-2    Ni                 502 Zs
+Karkumi       2106 E100000-0    Ba Lo Ni Va        000 Zu
+Ardaluus      2109 B789489-A    Ni                 812 Zs
+Ikaakur       2205 A25685A-B  N                    915 Zs
+Zapuushar     2303 C858756-5    Ag                 905 Zs
+Ephemir       2308 B675488-B    Ni                 802 Zs
+Bagurna       2402 D566676-2    Ag Ni Ri           220 Zs
+Mushiddun     2403 E610000-0    Ba Lo Ni           023 Zu
+Nasu          2405 E334223-4    Lo Ni              601 Zs
+Inidu         2406 E6BA000-0    Ba Fl Lo Ni Wa     013 Zu
+Aminiisi      2407 E000000-0    As Ba Lo Ni        013 Zu
+Isham         2408 E300000-0    Ba Lo Ni Va        003 Zu

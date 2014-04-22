@@ -1,0 +1,34 @@
+@SUB-SECTOR: sec_C   SECTOR: vanguard
+#
+# Trade routes within the subsector
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+FAKFAKLAND    1703 C77A9A6-D    Hi In Wa        G  310 Na
+YNCHEST       1706 C1009CA-A  F Hi Na Va        O  723 Es
+Soyfygdot     1708 D5657AB-6    Ag Ch50%        H  320 Es     f
+Vrafkynhysykef1709 C4446DB-4    Ag Ni Pr        H  722 Es
+Emerling's R. 1801 X441896-6    Ex Po           R  802 Td     f
+Yazoo City    1804 E000351-B    As Lo Ni        A  715 Na
+Ineu 24       1807 E000300-6    As Lo Ni        G  320 Na
+Yalgoo        2001 C444463-9    Ni        2103  G  714 Td
+Natrosilo     2003 B7A0341-B  N De Lo Ni Xb     G  523 Td
+ALFAR EDYLSYLA2004 C887989-A  S Hi Xb           G  425 Td
+SURTUN        2005 B100967-A  N HiNaVaXb  2106  A  902 Td     f
+Jammu         2009 C897279-4  J Lo Ni           A  213 Na
+Weslaco       2103 C98A665-A    NiRiWaXb  2003  G  700 Td     f
+Coos          2106 A9A6646-D    Fl Ni Xb        G  913 Td     f
+DYSITIN PRIME 2202 C4459DD-6    Hi In Xb        A  413 Td
+Groote        2207 B434865-C    Dr90%     2106  G  713 Td     f
+Anselmeara    2208 D424699-4  S Ni              G  523 Td
+Dysitin II    2301 C98A465-6  S Wa Ni Xb  2302  G  115 Td
+Dysitin III   2302 A232879-A    Na Po Xb        G  812 Td     f
+Isochort 23   2305 E99A321-9    Lo Ni Wa        G  404 Td
+Atrephar      2307 X7B37A9-8    Fl              R  524 Td
+Huad Yai      2309 X000677-6    As Na Ni        R  723 Td
+Kyzyl         2310 E528585-8    Ni              G  805 Td
+Dysitin IV    2401 E756789-2    Ag              G  204 Td
+Toorif II     2403 C885442-9    Ni              G  303 Td
+Egin XI       2404 D110866-9  W Na        2504  G  303 Td
+Ras Sharbatat 2410 C559144-5    Lo Ni           G  425 Na

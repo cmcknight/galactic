@@ -1,0 +1,13 @@
+@SUB-SECTOR: sec_B   SECTOR: gush
+#
+# Trade routes within the subsector
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Fementok      1209 B426458-B    Ni                 923 Im
+Loskuuatav    1308 B344684-A    Ag Ni              704 Im
+Assunne       1407 EAF7154-A    Lo Ni Fl           221 Im
+Puumariash    1507 B30089C-D  N Na Va Cp           604 Im
+Opiwiath      1510 C543435-7    Ni Po              600 Im
+Maa           1605 E1008BB-A    Na Va              804 Im

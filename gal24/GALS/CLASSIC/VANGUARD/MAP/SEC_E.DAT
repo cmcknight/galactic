@@ -1,0 +1,35 @@
+@SUB-SECTOR: sec_E   SECTOR: vanguard
+#
+# Trade routes within the subsector
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Jorhat City   0111 C533487-8  V Ni Po           G  711 Na
+Chnasodlsata  0118 C898879-4                    U  400 Zh
+Chtiablial.   0212 X758544-2    Ag Ni           F  903 Zh     f
+Brilibr       0215 B9C7520-B    Ni                 802 Zh
+Praflozda     0220 C432200-C  Y Lo Ni Po        U  325 Zh
+Tlaiafribr    0311 E574300-3    Ni                 404 Zh
+Chfradr       0317 D878001-3    Lo Ni              423 Zh
+Iabrpribr     0319 E303304-7    Ic Ni              802 Zh
+Refrchoch     0412 D100200-9    Lo Ni Va           823 Zh
+Aedrchted     0414 A74A577-C  Z Ni Wa              900 Zh
+Brshidl Ezhef 0415 B537853-A                       502 Zh     f
+Jrshtadrairch 0419 B796320-8    Ni                 200 Zh
+NIELKLADLIEF  0511 C756944-D  Z Hi                 120 Zh
+Shtavrifl     0512 A6A5799-B    Fl                 410 Zh
+DLIEBLAFIA    0514 A322A95-D  Z Hi In Na           101 Zh     f
+Ifabl         0516 B572010-A    Lo Ni              704 Zh
+Ifiefla Achef 0519 B534755-C  Z                    204 Zh
+Lstipra Peyin 0612 B8B0578-B  X De Ni              501 Zh
+Vraklchtiedr  0613 B76A887-8    Ri Wa              610 Zh
+Diakrstieb    0616 A331353-B  Z Ni Po              803 Zh
+Nenchinsh     0711 B440110-C  Z De Lo Ni Po        404 Zh
+Chterifl.     0712 C140455-A    De Ni Po           210 Zh     f
+Iabje         0714 E480433-7  Y De Ni Pr           604 Zh
+Zhdiafrstijts 0716 C0007B9-B    As Na              310 Zh
+QIAZIANCHEZH  0718 C5379A9-9    Hi In           U  111 Zh
+Jdapiejtal    0720 D564544-2    Ag Ni           U  304 Zh
+Defltlakr     0815 C667757-A                    U  803 Zh
+Edldieflsh    0818 C773589-8    Ni              U  703 Zh

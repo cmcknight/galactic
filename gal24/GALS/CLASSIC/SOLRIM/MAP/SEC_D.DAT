@@ -1,0 +1,46 @@
+@SUB-SECTOR: sec_D   SECTOR: sorted
+#
+# Trade routes within the subsector
+$2902 2905 0 0
+$2905 3106 0 0
+$3106 0307 1 0
+$2905 2807 0 0
+$2807 2910 0 0
+$2910 2812 0 1
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Jade          2502 C4758BF-D                       715 Im
+Gladden       2506 D893200-8    Lo Ni              323 Im
+Scaramouche   2509 A7C6503-9    Ni Fl           A  300 Im
+Ukarin        2601 B433742-D    Na Po              502 Im
+Gashurzid     2602 A6568A8-F                       210 Im
+Miskatonic    2603 A487863-9    Ri                 215 Im
+Beatus        2608 A688989-E    Hi                 804 Im
+Alpher        2703 A866997-E    Hi                 214 Im
+Okotah        2704 D325103-B    Lo Ni              400 Im
+Azure         2708 B3348CF-B                    A  221 Im
+Phireene      2807 A469895-D    Ri                 802 Im
+Umber         2808 B777464-D    Ni                 220 Im
+Aosta         2902 A453A26-F    Hi Po              903 Im
+Arkiirkii     2905 A66A8AD-F  B Wa Cp              500 Im
+Kesirisu      2906 A49A502-A    Ni Wa              123 Im
+Huy Braseal   2910 A255989-F  N Hi                 420 Im
+Karpaty       3001 A483954-F    Hi                 813 Im
+Syzygy        3006 C100721-8    Na Va              832 Im
+Janosz        3008 A564978-B  S Hi                 821 Im
+Shapam        3009 C232533-C    Ni Po              701 Im
+Kirillishur   3010 C7A4543-E    Ni Fl              113 Im
+Carlyle       3101 B9B5865-C    Fl                 111 Im
+Khiggun       3102 B8A3643-E    Ni Fl              735 Im
+Rann          3106 A664988-F    Hi                 400 Im
+Iipshidan     3107 C544534-A    Ag Ni              334 Im
+Cambyses      3108 B246988-A    Hi In              322 Im
+Champa        3109 A6629B9-8  S Hi                 824 Im
+Palnu         3201 A484999-E    Hi                 923 Im
+Opar          3202 E5AA267-E    Lo Ni Fl Wa        210 Im
+Irashnar      3203 B131438-F    Ni Po              802 Im
+Rith          3204 C536875-C                    A  823 Im
+Kilennur      3208 B5958BE-B                       522 Im
+Pagliacci     3209 C754733-6    Ag                 913 Im

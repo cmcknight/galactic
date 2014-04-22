@@ -1,0 +1,51 @@
+@SUB-SECTOR: sec_O   SECTOR: gush
+#
+# Trade routes within the subsector
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Muthi         1732 B873755-A                       114 Im
+Arnuukara     1733 B360AB9-E    Hi De              813 Im
+Arniche       1734 B427666-9  N Ni                 102 Im
+Ushiia        1735 C200456-B    Ni Va              230 Im
+Ceoth         1737 B595325-C  S Lo Ni              614 Im     f
+Khii Sheik    1739 B333479-B    Ni Po              500 Im
+Derry         1740 B100300-F    Lo Ni Va           324 Im
+Oaxaca        1832 A85A764-F  S Wa Cp              505 Im
+Nimshikake    1833 E664534-6    Ag Ni              602 Im
+Rean          1835 A467568-F    Ag Ni              403 Im
+Cholo         1839 C465613-6    Ag Ni              702 Im
+Hopkins       1932 A467478-E    Ni                 603 Im     f
+Oyrayt        1933 D486325-A    Lo Ni              600 Im
+Aisteaya      1935 E46358D-9    Ni                 220 Im     f
+Atu Ista      1936 C679544-9    Ni                 710 Im
+Sombani       2031 A222013-F  A Lo Ni Po           623 Im
+Gushirdiimi   2036 B44299E-F  A Hi In Po           923 Im     f
+Highbury      2037 C424954-F    D1 Hi In           802 Im     f
+Yolai'        2038 B758695-C    Ag Ni              813 Im
+Tiirmmay      2040 C231487-C    Ni Po              704 Im
+Glipli        2131 C525230-9    Lo Ni              620 Im
+Edoy          2132 B556431-C    Ni              A  524 Im
+Cledsetsaenn  2134 B000520-F  N Ni As              733 Im
+Bitesofrach   2136 D787346-5    Lo Ni              625 Im
+Wesas         2139 A696222-B    Lo Ni              203 Im
+Kuwiru        2140 D510404-9  S Ni                 510 Im
+Zanish        2231 E6779AE-A    Hi In              903 Im     f
+Khugika       2233 X353877-2    Po              R  303 Im     f
+Thanarmoos    2237 A524100-E  N Lo Ni              204 Im
+Lleska        2240 X622156-7    Lo Ni Po        R  812 Im
+Aying         2331 D73A434-7  S Ni Wa              614 Im     f
+Danla         2332 D672676-3  S Ni                 713 Im
+Tethaym       2333 A000746-E  N Na As              903 Im
+Gerhardus     2334 C252743-A    Po                 723 Im
+Chipoka       2335 C666766-8    Ag Ri              224 Im     f
+Arapenpa      2336 E14065A-7    Ni Po De           525 Im
+Giffard       2337 D513677-7  S Na Ni Ic           823 Im
+Thulm         2339 D656347-9    Lo Ni              704 Im
+Elk           2340 C874585-7    Ag Ni              912 Im     m
+Kiaan         2431 C583678-8    Ni Ri              803 Im
+Muaash        2434 E365230-5    Lo Ni              112 Im
+Jars          2438 B500556-E  A Ni Va              204 Im
+Susadi        2439 A8C1977-F    Hi Fl              401 Im     f
+Oyrk          2440 D457401-7    Ni                 913 Im

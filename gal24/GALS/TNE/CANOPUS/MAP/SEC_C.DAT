@@ -1,0 +1,35 @@
+@SUB-SECTOR: sec_C   SECTOR: canopusc
+#
+# Trade routes within the subsector
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Newbond       1802 X300000-0    Ba Va              020 --
+Swaedient     1806 X200000-0    Ba Va              021 --
+Oresteia      1809 X334000-0    Ba                 013 --
+Farrokh       1901 X778431-2    Ag Lo Ni        B  014 Wi
+Howor         1904 C957438-6    Ag Lo Ni        B  124 Wi
+Waht          1908 XAA6000-0    Ba Fl              001 --
+Asha          1909 X200000-0    Ba Va              004 --
+Rilfri        2001 X220000-0    Ba De              000 --
+Agsded        2004 X201000-0    Ba Ic Va           010 --
+Crispino      2007 X682257-0    Lo Ni              204 Wi
+Hakiem        2101 XAD5736-8                    B  125 Wi
+Scanlon       2103 X86A968-3    Hi Wa           B  502 Wi
+Dilon         2108 X000000-0    As Ba              002 --
+Riamon        2202 X200000-0    Ba Va              002 --
+Edie          2203 X8B3000-0    Ba Fl              002 --
+Atalanta      2204 D644784-5  S                 B  623 Wi
+Elias         2205 D572578-6  S Lo Ni              102 Wi
+Colin         2209 X8B1000-0    Ba Fl              010 --
+Pabst         2210 X412000-0    Ba Ic              010 --
+Bayonne       2304 X232000-0    Ba                 004 --
+Kaprin        2305 X85576B-4                    B  102 Wi
+Lester        2308 D585845-5    Ri              B  114 Wi
+Bernoulli     2310 X739000-0    Ba                 021 --
+Eldin         2402 C381268-7    Lo Ni              014 Wi
+Gillette      2403 X160323-4    De Lo Ni           323 Wi
+Pynyngg       2404 D243423-5    Lo Ni Po           212 Wi
+Sonia         2407 X304000-0    Ba Ic Va           015 --
+Dargo         2410 X877200-2    Ag Lo Ni        B  125 Wi

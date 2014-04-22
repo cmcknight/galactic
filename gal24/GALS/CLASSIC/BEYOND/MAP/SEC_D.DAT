@@ -1,0 +1,48 @@
+@SUB-SECTOR: sec_D   SECTOR: beyond.sec
+#
+# Trade routes within the subsector
+$2502 2403 -1 0 
+$2503 2206 -1 0
+$2503 2502 0 0
+$2502 2840 0 -1
+$2502 2702 0 0
+$2702 2903 0 0
+$2903 3002 0 0
+$3002 3201 0 0
+$3201 3240 0 -1
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Ljubljulianna 2502 B0107C9-C  I Na                 5   Na     f
+Damn It All   2503 C405000-8                       8   Na
+El Uqsor      2505 C200667-5    Na Ni              4   Na
+Zotral        2509 E588512-3    Na Ni           A  4   Ms
+Djorun        2603 E462421-4    Ni                 3   Na
+Mal'Kask      2608 C886420-5    Ni              A  1   MF
+Mal'Tranx     2609 D858721-3    Ag              A  3   MF     f
+Hradec Kralove2610 E425200-5    Ni                 9   Ms
+Nangat Parban 2702 B558621-7    Na Ni              1   Na
+Mal'Drur      2707 B783925-8                    A  4   MF
+Dias XVIII    2708 C534420-6    Ni                 4   Ms
+Mal'Phlo      2710 X956420-1    Ni              R  5   MF
+Mal'Gnar/Tranx2807 X477020-1    Na              R  6   MF     f
+Mal'Gnar/Krusk2809 E967749-E  2 Na Ri           A  2   MF     f
+Cast. La Vieja2810 C600667-5    Na Ni              5   Ms     f
+Llandrindod   2903 B440110-7    Na Ni Po           3   Ms
+Cast. La Nueva2905 B0107C9-5    Na                 6   Ms     f
+Nine Hells    2908 E588512-3    Ag Ni              5   Ms     f
+Kazar D'Vargr 3001 D674656-5  S Ag Ni              2   Va
+Mal'Gnar      3002 A864727-C  2 Ag              A  9   MF     f
+Mal'Krusk     3004 B654420-6  N Ni              A  6   MF
+Mal'Phulk     3007 D956524-6    Ag Ni           A  5   MF
+Mal'Phon      3009 X865625-4    Ag Ni           R  4   MF     f
+El Maghred al.3103 X894579-0    Ag Ni           R  1   Ms     f
+Quintet       3105 D6A4656-3    Ni              R  8   Ms     f
+Zhuvastou     3106 E856532-3    Ag Ni           A  5   Ms
+Mal'Tlal      3107 D654420-5  S Ni              A  7   MF
+Corps-a-corps 3109 B558621-7    Na Ni              6   Ms
+Vrel d'Vargr  3201 C766120-8  S Ni                 8   Va
+Tindal's Shade3207 C867872-6  S Ri                 1   Ms     f
+Refnar's Mon. 3208 B888787-5    Ag Ri              2   Ms     f
+Mal'Quun      3209 B765720-8  S Ag              A  1   MF

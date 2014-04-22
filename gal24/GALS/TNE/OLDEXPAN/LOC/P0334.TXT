@@ -1,0 +1,21 @@
+System: Buhle
+Subsector: Aubaine
+Sector: Old Expanses
+Coordinates: 0334 (M0304)
+UWP: X510000-0
+
+Starport: None
+Size: Medium (7200-8800 km)
+Atmosphere: Trace
+Hydrographics: No liquid water
+Population: 0
+Govt: No government
+Law Level: No Prohibitions
+Technology: None/Primitive
+
+Bases: None
+Trade Codes: Ba              
+Travel Zone: Green
+Planetoid Belts: 0
+Gas Giants: 4
+Allegiance: Unpopulated

@@ -1,0 +1,34 @@
+@SUB-SECTOR: sec_E   SECTOR: deneb
+#
+# Trade routes within the subsector
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Saarinen      0113 B566444-A    Lo Ni RsE          313 Re
+Suvfoto       0211 D95488A-6  S V:2                404 Re
+Musayid       0214 D5448AE-6                       714 Re
+Umiikam       0217 DAA6300-7    Fl Lo Ni           701 Re
+Vanzeti       0218 C52A531-C  S Ni Wa              601 Re
+Fennec        0311 B556836-A  S V:0                820 Re
+Magash        0316 A400A56-F  S Hi In Na Va Cp     124 Re
+Cabrini       0319 C365510-7  S Ag Ni              323 Re
+Dhapura       0412 E579758-8    V:1 An             612 Re
+Pharos        0415 C593477-9    Lo Ni              712 Re
+Sui'tang      0417 B552854-C    Po                 515 Re
+Ara Pacis     0419 A337778-D                       101 Re
+Marnie's World0514 AA9A324-E  N Lo Ni Wa           610 Re
+Endimyon      0516 X555434-5    Lo Ni           R  723 Re
+Seleen        0517 A310467-F    Lo Ni O:0316       204 Re
+Thingen       0518 A467998-E  N Hi                 505 Re
+Anomaly Five  0615 X100000-6    Lo Ni Va        R  423 Re
+Sevas Topol   0619 D9C3156-8    Fl Lo Ni           323 Re
+Amirante      0713 D210999-5  S Na Hi              102 Re
+Bahadur       0715 A326230-E  B Lo Ni              102 Re
+Rhinom        0717 B7768AB-A  N                    801 Re
+Cicus         0812 E310330-8    Lo Ni              521 Re
+Makeni        0813 E100542-9    Ni Va              302 Re
+Amritsar      0814 C897535-A    Ag Ni An           613 Re
+Pangumo       0815 C35249B-A    Lo Ni Po V:7       901 Re
+Coshecawat    0816 X100641-5    Na Ni Va        R  513 Re
+Jehun         0819 D667756-8    Ri                 201 Re

@@ -1,0 +1,49 @@
+@SUB-SECTOR: sec_F   SECTOR: vland
+#
+# Trade routes within the subsector
+$1011 0709 -1 -1
+$1011 1112 0 0
+$1112 1211 0 0
+$1211 1208 0 -1
+$1211 1414 0 0
+$1112 1414 0 0
+$1414 1114 0 0
+$1414 1717 1 0
+$1519 1520 0 0
+$1519 1717 1 0
+$1520 1120 0 0
+$1120 0921 0 1
+$1520 1323 0 1
+$1520 1822 1 1
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Iren          1011 A8C189E-B  N Fl                 814 Rv
+Askhu         1012 C554120-7    Lo Ni              402 Rv
+Vallae        1112 A897788-9    Ag An              810 Rv
+Thogho        1113 C898669-7    Ag Ni              920 Rv
+Gukhaga       1114 A877476-F    Ni                 310 Rv
+Darmagu       1116 B412312-E    Lo Ni Ic           901 Rv
+The Uris Belt 1117 B000464-E  N Ni As              911 Rv
+Daku          1119 C332620-C  S Na Ni Po           804 Rv
+Ideshe        1120 B969557-A  N Ni                 920 Rv
+Gagzoe        1211 A585320-B    Lo Ni              602 Rv
+Siruga        1215 C100559-E    Ni Va              201 Rv
+Estoff        1217 B6B6330-E  N Lo Ni Fl           620 Rv
+Ramir         1219 C66A222-C  S Lo Ni Wa           801 Rv
+Imik          1220 C263203-C  S Lo Ni              624 Rv
+Kema          1311 E100233-B    Lo Ni Va           810 Rv
+Taksar        1312 C432345-9    Lo Ni Po           110 Rv
+Hisus         1313 C7787BF-6  S Ag                 514 Rv
+Anik          1317 C441569-A    Ni Po              211 Rv
+Ganar         1319 E200527-7    Ni Va              821 Rv
+Karka         1412 C200876-7    Na Va              801 Rv
+Centra        1414 A592541-E  N Ni                 124 Rv
+Astira        1417 C55238C-A  S Lo Ni Po           820 Rv
+Luunbu        1515 E8A6255-B    Lo Ni Fl        A  810 Rv
+Duam          1516 E464769-7    Ag Ri              710 Rv
+Kagamira      1519 B477983-F  N Hi In Cp           525 Rv
+Shulishu      1520 A35249B-D    Ni Po              410 Rv
+Ersii         1612 E361431-8    Ni                 210 Rv
+Midku         1619 B764485-8  N Ni                 110 Rv

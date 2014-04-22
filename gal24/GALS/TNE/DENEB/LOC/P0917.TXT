@@ -1,0 +1,264 @@
+
+                            Kubishush System
+                               circa 1202
+
+              Christopher Griffen (chris.griffen@octel.com)
+
+
+Kubishush (Inar:  Deneb/0917)
+A8B6AAA-E  Fl Hi V:0  101 RE M3 V M8 V
+G=1.60, Day=43:14:01.68, Year = 46d 17:13:23.1*
+Atmo=6.10, Weather Control
+Temp= +41.88 (7/lat +21 to -49) (season +9 to -27.0, 27 deg lat)
+Daily temp range 565.24 (+471.86 to -93.38)
+Ores, Compounds; Metals, Non-Metals; None; Recordings, Software, 
+Documents
+Conservative/Indifferent, Unaggressive/Peaceable, Discordant/Friendly
+Legal: A-B77D6     Tech: EB-EFEFF-EFEE-BC-G 
+
+* Kubishush orbits a small gas giant, Oolvig Naseena. Oolvig Naseena 
+orbits the system's primary star, L'gnng Uuvon.  The "Year" entry shown 
+above is Oolvig Naseena's orbital period around L'gnng Uuvon.  Kubishush 
+orbits Oolvig Naseena at a rate of 9y 126d 19:23:43.36.
+
+[NOTE: DGP's article on Deneb Sector, featured in MegaTraveller Journal 
+#3, was used as a resource for this RICE paper.  I would like to 
+acknowledge the authors of the DGP article, James Holden, Mike Makesh 
+and Nancy Parker.  This RICE paper is intended to build upon the 
+information they have provided.]
+
+Kubishush, or Unan Olov as it is known to its natives, is one of the 
+more hostile places one may visit in the Regency.  The native minor 
+race, the Gl'lu, are friendly enough, but the buckling terrestrial 
+surface and corrosive nitrogen-rich, ammonia-tainted atmosphere of the 
+planet tend to make even a routine stopover an adventure.
+
+To get to know Kubishush, one need only get to know the Gl'lu.  The 
+Gl'lu have, at least to human perceptions, formed an entire civilization 
+based on planetary cataclysms.  Their world, a roiling hell by the 
+standards of any of the major races, is so subject to natural 
+catastrophes that its entire sentient culture is based upon surviving 
+its earthquakes, storms and volcanic explosions.
+
+With 11 tectonic plates and a seismic stress factor of over nine, 
+Kubishush is highly unstable.  Constant earthquakes and aftershocks rock 
+regions throughout the planet's dozens of major faultlines.  Kubishush 
+is known to have 13 to 16 continents at any one time, with occasional 
+continental separations and convergences increasing or decreasing the 
+number from time to time.  Immense mountain ranges crisscross the 
+planet's continents like a web.  While the geological and meteorological 
+upheavals of Kubishush are great enough to cause dozens of small 
+catastrophes every year throughout the globe, every decade or so, a 
+quake, storm or volcanic eruption hits that is so severe it warrants the 
+title of Yulangngol, or "Great Cataclysm."  These events are so 
+commonplace on Kubishush that they have been integrated into the Gl'lu 
+culture.  Many Gl'lu religious groups hail these events as signs from 
+otherworldly deities.  Secular Gl'lu groups look at these natural 
+disasters as opportunities to prove Gl'lu prowess in the areas of 
+environmental and disaster recovery technology.
+
+At the time of first contact by the IISS, the Gl'lu had independently 
+achieved a high-common technology level of 8.  After Kubishush was 
+incorporated into the Imperium in 188, IISS representatives offered 
+technological aid to lessen the impact of the planet's frequent 
+catastrophes.  The IISS was politely refused in the characteristic Gl'lu 
+way.  Such technological assistance, ruled Gl'lu leader Sananes Nuruva 
+Gogonas, would upset the balance of Gl'lu culture.  Most Gl'lu heartily 
+agreed.  The basis upon which one socially advances in Gl'lu society is 
+proving one's skill at averting the affects of natural disasters and 
+helping those less fortunate Gl'lu who are vicitimized by the whims of 
+nature.
+
+The Gl'lu Sananes, literally translated as "young one," is the solitary 
+ruler of the entire planet.  Sananes are elected by a council of elders 
+from among the dynastic families of the Unaga, or "exalted ones."  The 
+Sananes rules from early adolescence until it reaches maturity at about 
+the age of 32 human years.  Geriatric effects set in so quickly after 
+maturity for Gl'lu that their culture has developed the tradition of 
+bestowing leadership upon its youth.  The position of Sananes is an 
+honored one, but little fought over.  The 17 electoral gerontocrat 
+seats, however, are vehemently sought by Unaga who pass maturity.  A 
+gerontocrat electoral seat is held for the lifetime of the Gl'lu who 
+acquires it.  Because of the long lifespan of the Gl'lu (about 120 human 
+years), opportunities for gerontocrat positions are few and far between.  
+Selection of gerontocrat positions is determined by the outcome of a 
+peculiar tournament, in which all eligible mature Gl'lu compete with one 
+another for the available seat.  Humans visiting Kubishush during 
+gerontocrat selections have compared the game to "marbles," a game 
+commonly played by human children on low-tech worlds in which small 
+opaque glass spheres are rolled or hurled at each other.
+
+Perhaps the greatest Sananes ever was S'lmar Vovon, who lived from 
+1098-1192.  S'lmar developed and administered the global recovery 
+project following arguably the worst Yulangngol in Gl'lu history.  In 
+1108, over two billion Gl'lu died when the convergence of two tectonic 
+plates created a quake so severe that Kubishush's smallest continent 
+effectively sank below the surface of one of the planet's ammonia 
+oceans.  S'lmar Vovon directed the recovery project so efficiently that 
+other than the fatalities, little evidence of the catastrophe's effect 
+on Gl'lu society could be seen five years after the incident.
+
+Over the post-Imperial contact centuries, trade with the Imperials 
+inadvertantly raised Gl'lu technology to the point where they could not 
+help but develop better disaster recovery methods.  While most Gl'lu do 
+not enjoy the benefits of TL-14 technology, the elite Unaga developed 
+ways to protect themselves from planetary catastrophes.  The most 
+popular method utilizes borrowed elements of Vincennezi technology.  The 
+Unaga began to build floating cities with gravitic capabilities to lift 
+them into the upper reaches of Kubishush's atmosphere during times of 
+high seismic and/or meteorological activity.  Low-common technology 
+generally reflects the technology of the land-based Gl'lu, or Kilig 
+Gunati, who comprise the majority of the population.  The Kilig Gunati 
+on the whole do not benefit from the technological advancements made by 
+the Unaga and continue to be subjected to the violent upheavals of the 
+planet.  
+
+While only about 10 percent of the Gl'lu enjoy high-common technology, 
+the centuries of imbalance have allowed the Gl'lu to increase their 
+population from approximately 800 million at first contact with Imperial 
+surveyors to about 14.7 billion inhabitants at the present time.  
+Because of the disparity in technology levels between the Unaga and the 
+Kilig Gunati, however, the Gl'lu currently have a large surplus of 
+"elite" citizens.  One might think that the Kilig Gunati would resent 
+this arrangement.  Surprisingly enough, they do not.  Gl'lu on the whole 
+are extraordinarily accepting of ewang'vn or "fate."  Because of a 
+natural propensity for lending a helping hand to fellow Gl'lu, the Unaga 
+are known to do whatever they can to help the Kilig Gunati through the 
+turmoil of natural disasters.  This extensiveness seems to curtail 
+resentment of the social inequalities that exist on Kubishush.  Unaga 
+factions are surprisingly paternal and territorial over the groupings of 
+Kilig Gunati they protect, however, and are not likely to assist a rival 
+faction with disaster relief.  Parcels of Kilig Gunati territory are 
+unofficially under the protection of individual Unaga factions that 
+report to the Sananes.  So it is that the ambiguous traits of racial 
+extensiveness and internecine competition meet in Gl'lu society.
+
+Gl'lu possess unique physiological characteristics.  The Gl'lu are 
+hermaphroditic septapods whose metabolism is based on the oxidation of 
+ammonia in Kubishush's atmosphere.  Upon first meeting a Gl'lu, the 
+first feeling most humans have is revulsion.  Their porous mottled skin, 
+six slimy appendages and periscope-like eyestalk make them look like a 
+cross between a Terran octopus and a slug.  Upon first encountering the 
+race during the Grand Survey, scouts mistook them for a far-flung colony 
+of githiasko or genetically altered hivers.
+
+The Gl'lu consider Oolvig Naseena, the gas giant around which they 
+orbit, as sacred ground, not to be desecrated by travellers wanting to 
+skim for fuel.  A considerable fleet of Gl'lu SDBs enforces this holy 
+law, infraction of which is punishable by death.  Gl'lu SDBs will not 
+attempt to disable and board offenders of the interdiction, but rather 
+will destroy offenders' ships or blast them into Oolvig Naseena's 
+unforgiving gravity well.
+
+Kubishush's turbulent atmosphere, dense over-ocean grav traffic and high 
+number of floating cities make skimming its ammonia oceans a dangerous 
+task, effectively eliminating them as wilderness refueling sites as 
+well.  In addition, no other planets in the system have any hydrosphere 
+whatsoever.  In order to compensate traders for the lack of viable 
+wilderness refueling sites, the Gl'lu sell imported fuel at their 
+orbital and planetary starports for approximately 50 percent of the 
+normal price found throughout the Regency.  Political pressures from 
+outside the system and the need for trade have influenced the Gl'lu to 
+grant such generous dispensations of fuel.
+
+Gl'lu architecture is universally the most sound and durable one is 
+likely to find.  The Gl'lu mastery of materials technology gives them 
+the ability to produce TL-14 bonded superdense alloys.  The most common 
+shape for Gl'lu buildings is a flattened sphere with an interior 
+"rolling sphere."  During large quakes, the rolling sphere within 
+rotates on its transverse axis, thereby protecting the inhabited 
+interior structure from toppling onto its side.  The rounded edges, 
+spherical rooms, elliptical entryways and portals of the interior remind 
+many cosmopolitan travellers of aslan architecture.  A closer look, 
+however, will reveal numerous microstruts and jambs throughout the 
+interiors of Gl'lu buildings, intended to ensure the integrity of each 
+and every wall and doorway.
+
+The Gl'lu are nothing if not meticulous about safety and the strength of 
+their constructions.  Following punishing earthquakes and storms, Gl'lu 
+corporate buildings and housing complexes are frequently found intact 
+hundreds of meters from their original locations.  Their inhabitants may 
+be frightened and perhaps bruised, but most often protected by the 
+strength of the building hull.  So strong is the outer hull of these 
+buildings that they can often be recovered even after slipping into 
+crust fissures during particularly heavy quakes.  Cities on Kubishush 
+are generally regions dotted with hundreds or even thousands of these 
+flattened spheres, with nothing by dry rocky land in between.  Huge grav 
+tugs are employed to transfer buildings to other regions when a 
+corporate headquarters or factory requires relocation to another 
+Kubishushi region.  Because of the frequent movement of Kubishushi 
+buildings, both natural and unnatural, the planet has no "cities," per 
+se.  Regions are sometimes given unofficial names or nicknames, but due 
+to the everchanging nature of the Kubishushi landscape, the convention 
+of naming geographic regions is almost obsolete on Kubishush.
+
+Because of the Gl'lu obsession with safety and security, their starships 
+are also unique within the realm of Regency Space.  The Gl'lu are 
+accustomed to inhabiting small spaces and require only a fourth of the 
+space necessary to lodge the average human.  Staterooms, generally built 
+to house up to eight Gl'lu, displace only four metric tonnes.  Gl'lu 
+starships contain hardy ammonia filtration systems to keep the nitrogen 
+atmosphere comfortably tainted.  Humans visiting Gl'lu starships have 
+noted the constant meter-high fog that covers the floors of the ship.  
+Many humans marvel at the tight accommodations and seeming uniformity of 
+all rooms on the ship.  Many touring humans have been known to become 
+lost in Gl'lu ships, unable to differentiate one room from another, an 
+occurrence from which the Gl'lu derive great merriment.
+
+Perhaps the strangest feature of Gl'lu starships is their obsession with 
+backup systems.  All Gl'lu starships have two maneuver drives, one on 
+each end of the ship, negating the need for turnaround and retrofire.  
+Any ships built for planetary landing also employ two contra-gravity 
+units as well.  While these are the most common redundancies on Gl'lu 
+ships, many Gl'lu are known to install their ships with backup power 
+plants, jump drives, bridge workstations and large quantities of backup 
+hull material.  To a human, this lack of concern for wasted space is 
+ludicrous, but to a Gl'lu, humans are living on borrowed time in their 
+poorly backed up ships.  Most Gl'lu starships and spaceships are built 
+in the familiar flattened sphere configuration, with large ovular 
+openings for maneuver drive, jump drive and antenna surface space.  It 
+is currently popular to build modular ships with interlinked spheres.  
+Multiple-sphere modular ships look something like giant metallic 
+earthworms.
+
+Uplifted by Imperial and Regency technology, the Gl'lu have become a 
+minor starfaring race.  Thousands of Gl'lu traders can be found 
+throughout the region, selling their high-grade materials and innovative 
+environmental products.  Through years of study, the Gl'lu have found 
+ways to implement their knowledge of catastrophe-defying technology into 
+usable products by humans, vargr and droyne (the three most common races 
+in the region).  Though the Gl'lu have also invented high-tech 
+environment suits and PLSSs to protect them and nourish them with 
+ammonia-tainted nitrogen, they generally do not stray too far from home.  
+Few worlds present an atmosphere that is breathable in the long term for 
+the Gl'lu and even fewer are dense enough to provide a comfortably high 
+gravity level.
+
+Kubishush is a tumultuous world filled with mystery.  Geological and 
+political concerns make unravelling the mystery all the more difficult.  
+While the Gl'lu are an amiable and sociable minor race, eager to trade 
+and exchange ideas with their human and vargr neighbors, they often 
+appear secretive about their history or motivations.  People who know 
+the Gl'lu are aware that this apparent secrecy is not secrecy at all but 
+rather acceptance.  Living in an environment as harsh as Kubishush's, 
+the Gl'lu have learned to accept impending fate and the frequent death 
+of friends and family members.  Discussing such events at length or the 
+long history of Kubishush's cataclysms serves no purpose as far as the 
+Gl'lu are concerned, other than to prolong one's sorrow for lost 
+compatriots.
+
+Kubishush System Details
+
+Orbit	Name	UPP	Remarks
+Primary	L'gnng Uuvon	M3 V
+0	Oolvig Naseena	Small GG	Size 60
+	3	Ring System	YR00000-0
+	5	Sanunnga	Y20036B-C	Va
+	9	Kubishush	B8B6AAA-D	Fl Hi (Known as Unan Olov to the Gl'lu)
+	40	Gaumng Nol	Y400000-0	Va
+	60	Yil'anan	G100300-C	Va
+1-2	(Empty Orbits)
+3*	Magae' Nannga	M8 V
+4	A'man'a	Y200000-0	Va	
+*Companion Star.
+

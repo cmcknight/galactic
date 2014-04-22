@@ -1,0 +1,40 @@
+@SUB-SECTOR: Rego SECTOR: Amdukan
+#
+# Trade Routes
+#
+$1209 1507 0 0 11
+$1507 1404 0 0 11
+$1404 1502 0 0 11
+$1404 1205 0 0 11
+$1205 0905 0 0 11
+$0905 0707 -1 0 11
+$1209 1312 0 1 11
+$1507 1809 1 0 11
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UWP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Makhidkir     0904 C758774-3    Ag                 401 J-
+Oeksgvekh     0905 B752321-7  J Lo Ni Po           203 J-
+Ueloga        1003 D7A2300-5    Fl Lo Ni           424 J-
+Erskna        1005 C542420-9    Ni Po              802 J-
+Kaiser        1006 C655103-9    Lo Ni              103 J-
+Udamu         1009 B310589-9  F Ni                 711 Jo
+Rerur         1010 A42058A-E  F De Ni Po Cp        204 Jo
+Iken          1102 E756765-3    Ag                 404 J-
+Syunatu       1107 C569545-8  M Ni C5              500 J-
+Kanoghoun     1205 B7AA865-B  J Fl Wa              902 J-
+Goksukhs      1207 X265468-0    Ni              R  820 Jo
+Aener         1209 B366526-9    Ag Ni              624 Jo
+Sunabim       1302 C8B699C-B    Fl Hi              903 J-
+Agghatha      1304 E666569-4    Ag Ni           R  123 J-
+Imiishan      1307 C400620-9  M Na Ni Va           303 J-
+Zallaghz      1404 B150223-9    De Lo Ni Po        622 J-
+Rudza Egh     1407 C330555-A    De Ni Po           221 J-
+Mesim         1409 C500220-8  M Lo Ni Va           803 J-
+Ilage         1502 B300979-A  F Hi Na Va           113 J-
+Buladki       1507 B5489BC-8  M Hi In              503 J-
+Zugh Dhu      1510 C651656-8    Ni Po              704 J-
+Dukaa         1601 D572220-3    Lo Ni              703 J-
+Allue         1605 E5A8311-7    Fl Lo Ni           522 J-
+Kirrsuek      1606 C768633-6  M Ag Ni              103 J-
+Migigar       1608 C100841-9  M Na Va              602 J-

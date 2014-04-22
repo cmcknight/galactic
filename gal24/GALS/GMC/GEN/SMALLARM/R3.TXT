@@ -1,0 +1,113 @@
+r3 Combat Rifle, r7 Sniper Rifle & r8 Combat Rifle
+
+The r3 or M1707 rifle is the oldest small arm design still in current service
+with the Magellanic Empire. The rifle was was adopted as the standard IMSC
+longarm in 1707T and despite the recent introduction of the r17 rifle to
+replace it with the Patrol Service and Security Branch, there are no plans to
+replace it in general IMSC service. The r3 has a well deserved reputation for
+reliablity, accuracy and hitting power. The r3 was the 'standard' Magellanic
+small arm during the First Mwoah War and well over 60 million examples were
+produced during that conflict. Figures for total production are unknown, but
+they would run into the hundreds of millions. The r3 is also very popular
+with civilians and remains the de facto standard for lower tech Diadochi
+forces. The r3, r3b and r7 have been adopted by the Civtra Confederation; who
+produce them as the M1 rifle, M2 light machine gun and M3 sniper rifle.
+
+The r3 is a fully stocked TL 10 combat rifle firing cased 7mm (either ball or
+discarding sabot) ammunition. The r3 can fire in either semiautomatic, 3
+round burst or full cyclic (600rpm) modes. The r3 is fully gyrostabilised and
+fitted with an intergral laser sight. It uses detachable 30 or 50 round
+magazines and can be fitted with all standard Magellanic enhanced sighting
+devices and under barrel attachments. The r3 is capable of firing ammunition
+manufactured from TL 6 to TL 10 with no appreciable loss of performance (note
+the discarding sabot rounds can only be manufactured at TL 10) and spent
+cartridges are readily reloadable. Five common variants exist: the r3a, which
+is simply a standard r3 fitted with a collapasble stock; the r3b, a support
+version fitted with a bipod and fixed mounting points, and capable of using a
+200 round feedbox in addition to standard magazines; the r7 sniper rifle
+(detailed below); the r8, a version without the advanced electronics designed
+to be produced at tech level 6 (detailed below); and the Phoenix 707, a
+semiautomatic only civilian version (this version is actually produced by
+many different manufacturers under differing names, but the Phoenix 707 is
+representative).
+
+Weapon: r3 combat rifle
+Action: Gas - singleshot, burst (3), cyclic (600)
+Ignition: Percussion
+Tech Level: 10
+Calibre: 7mm IMSC cased or 7(4.5)mm DS IMSC cased
+Penetration: 4 (5 with TL 10 discarding sabot ammunition)
+Range: medium
+Malfunction: reliable
+Shots: 30, 50 or 200 (r3b only)
+Mass: 3.7kg (r3b: 4.0kg)
+Reloads: 0.5kg, 0.8kg or 3.6kg
+Length: 85.3cm (r3a: 56.6cm with stock collapsed)
+Cost: Cr 1000 (r3a: Cr 1050, r3b: Cr 1200, Phoenix 707: Cr 835)
+Incidentals: 10 rounds ball: Cr 1.5 (0.14kg)
+             10 rounds discarding sabot: Cr 7 (0.12kg)
+             5 hour rechargeable battery pack: Cr 3 (0.3kg)
+             20 hour disposable battery pack: Cr 1.5 (0.3kg)
+             empty 30 round magazine: Cr 25 (0.08kg)
+             empty 50 round magazine: Cr 35 (0.1kg)
+             empty 200 round feedbox: Cr 35 (0.8kg)
+
+
+The r7 sniper rifle was developed from the r3 in during the First Mwoah War.
+The r7 is a long barrelled accuratised r3 fitted with a bipod and an EIS-10
+sight (featuring a +1 HUD, thermal imaging and light amplification). The r7
+was replaced in Magellanic service by the r12 shortly before the Second Mwoah
+War, but it remains in use with many lower tech Diadochi states and has
+proved to be a popular civilian hunting rifle and is still produced by
+several manufacturers (of which the Phoenix 7000 is representative). Civilian
+versions are capable of semiautomatic fire only. The r7 is issued with a
+small lightweight 10 round magazine, but retains the capacity to use the
+standard 30 and 50 round magazines.
+
+Weapon: r7 sniper rifle
+Action: Gas - singleshot, burst (3), cyclic (600)
+Ignition: Percussion
+Tech Level: 10
+Calibre: 7mm IMSC cased
+Penetration: 4 (5 with TL 10 discarding sabot ammunition)
+Range: long
+Malfunction: reliable
+Shots: 10, 30 or 50
+Mass: 6.1kg
+Reloads: 0.15kg, 0.5kg or 0.8kg
+Length: 118.4cm
+Cost: Cr 4750 (Phoenix 7000: Cr 4400)
+Incidentals: 10 rounds ball: Cr 1.5 (0.14kg)
+             10 rounds discarding sabot: Cr 7 (0.12kg)
+             5 hour rechargeable battery pack: Cr 3 (0.3kg)
+             20 hour disposable battery pack: Cr 1.5 (0.3kg)
+             empty 10 round magazine: Cr 15 (0.01kg)
+             empty 30 round magazine: Cr 25 (0.08kg)
+             empty 50 round magazine: Cr 35 (0.1kg)
+             EIS-10 sight: Cr 3200 (1.1kg)
+
+Like the r7, the r8 was developed during the First Mwoah War. It is basically
+a low tech version of the basic r3. It is however designed to be capable of
+firing all standard r3 rounds (including the tech level 10 discarding sabot
+round). The r8 lacks the advanced electronics and gyrostabilisation of the
+standard r3 and is considerably heavier, however it is also considerably
+cheaper. Konig Arms MCC produce a semiautomatic only varient of the r8 (the
+Konig KLR-23) for the civilian market.
+
+Weapon: r8 combat rifle
+Action: Gas - singleshot, burst (3), cyclic (600)
+Ignition: Percussion
+Tech Level: 6
+Calibre: 7mm IMSC cased or 7(4.5)mm DS IMSC cased
+Penetration: 4 (5 with TL 10 discarding sabot ammunition)
+Range: medium
+Malfunction: reliable
+Shots: 30 or 50
+Mass: 4.2kg
+Reloads: 0.5kg or 0.8kg
+Length: 85.3cm
+Cost: Cr 500 (KLR-23: Cr 340)
+Incidentals: 10 rounds ball: Cr 1.5 (0.14kg)
+             10 rounds discarding sabot: Cr 7 (0.12kg)
+             empty 30 round magazine: Cr 25 (0.08kg)
+             empty 50 round magazine: Cr 35 (0.1kg)

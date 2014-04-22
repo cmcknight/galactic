@@ -1,0 +1,16 @@
+Ketola X3543M0-5
+
+Starport: None                 Size: Small (4000-5600 km)
+Atmosphere: Thin               Hydrographics: 40% water
+Population: 3,000              Govt: Tribal Government
+Law Level: No Prohibitions     Technology: Industrial         
+             
+
+The survivors on Ketola (1807) are the descendents of the two
+corporations that once governed the planet, Theedin Research and Tenia
+Incorporated. While these two companies were at one time quite
+antagonistic toward one another, in the New Era, the two clannish
+groups have found they must cooperate to survive the icy environment of
+their native planet.
+
+byfs Chris Griffen <cgriffen@cisco.com>

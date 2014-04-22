@@ -1,0 +1,11 @@
+Kropotkin  C44468B-9            
+Starport: Routine                Size: Small (5600-7200 km)
+Atmosphere: Thin, tainted        Hydrographics: 40% water
+Population: 2 million            Govt: Civil Service Bureaucracy
+Law Level: Extreme               Technology: Early Stellar
+                 
+	A roving pirate band recently set up operations at Kropotkin,
+attracted by the renewed commercial activity in this region (and the fact
+that they were kicked out of Magyar Sector by a stronger group of pirates).
+No raids have been conducted yet on shipping out of Iddamakur or Darrukesh,
+but reconnaissance missions are currently underway.

@@ -1,0 +1,32 @@
+@SUB-SECTOR: Ihtaois SECTOR: Ustral Quadrant
+#
+$0831 0832 0 0 11
+$0831 0931 1 0 11
+$0132 0230 0 -1 11
+$0732 0831 0 0 10
+$0732 0831 0 0 11
+$0732 0832 0 0 11
+$0831 0830 0 -1 11
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Eayeyo        0132 A5665K3-B    Ag Ni              924 TE 
+Iyyo          0135 D6694H7-4    Lo Ni              110 TE 
+Eahiywauhfe   0236 B222200-A  J Lo Po              300 Na 
+Lyuhalriywal  0240 B344635-8    Ag Ni              523 Na 
+Tiselea       0431 E433579-9    Ni Po              613 Na 
+Khowau        0434 C541797-5    Po                 703 Na 
+Ar            0436 D482611-3    Ni                 313 Na  
+Khakahah      0531 B413402-A  J Ic Ni Lo           814 Na 
+Uawoikhasa    0533 E250320-5    De Lo Ni Po        805 Na   
+AOEIKHTISIYR  0633 D662999-7    Hi                 604 Na 
+Yel           0639 B774452-B  M Lo Ni              303 Na 
+Oftouei       0640 E625224-7    Lo Ni              513 Na  
+IUIHEASEAR    0732 C588AJC-8    Hi                 700 If 
+Htewua        0735 C6477AC-6  M Ag                 504 Na 
+Ilreaw        0736 D8B7472-8    Fl Lo Ni           503 Na 
+Takhisihoah   0737 C333100-C    Lo Ni Po           215 Na 
+Hro           0831 B7C84M4-C  M Fl Lo Ni           703 If  
+IHTAOIS       0832 C375AKA-8  M Hi In              503 If  
+Asis          0839 C579351-6    Lo Ni              303 Na 
+

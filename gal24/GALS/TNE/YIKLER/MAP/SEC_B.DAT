@@ -1,0 +1,36 @@
+@SUB-SECTOR: sec_B   SECTOR: yiklerzd
+#
+# Trade routes within the subsector
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Vrjde Biavr   0902 C979523-6    Ni                 504 Zh
+Dratsinj      0904 B85A414-9    Ni Wa Lo           324 Zh
+Fishieshnianj 0906 B98A768-7  Z Ri Wa An O:0708    524 Zh
+Zhreyikr      0908 D203378-7    Ic Lo Ni Va        712 Zh
+Dlensh Zhdevl 0909 A100787-D    Na Va              813 Zh
+Pevlaarvlints 1001 E565411-6    Ni Lo              112 Zh
+Kechiabrnz    1004 C5868C7-9                       504 Zh
+Stoans Zhibr  1005 B110448-C    Ni Lo              115 Zh
+Plaezhsaed    1009 C350568-A    De Ni Po O:1011    603 Zh
+Shtansh Shikl 1010 B86A567-C    Ni Wa O:1011       603 Zh
+Fiplkledensh  1104 A500ACA-D  Z In Na Va Hi        304 Zh
+Braiebl       1109 X446000-0    Ba              F  024 Zh
+Shintsdlr     1110 C350465-8    De Ni Po Lo 1011   205 Zh
+Reentschti    1206 A235767-F  Y O:1308             300 Zh     f
+Dretl Chtaons 1208 CA8A357-B    Lo Ni Wa           722 Zh
+Zhistieiprnzh 1302 C312533-A    Ic Ni              412 Zh
+Dliiepr Plenz 1303 E47579C-6    Ag C3              814 Zh
+Rievrniprkl   1307 C000435-9    As Ni Lo           214 Zh
+Viadl Rirnch  1308 A673989-B  Z In Hi Cp           405 Zh
+Zditsatlans   1310 B545421-B    Ni Lo              200 Zh
+Pilfiech      1401 D79A851-9    Wa                 223 Zh
+Jerzrtchil    1402 B57398B-B    In Hi              213 Zh
+Zhiefnach     1404 X671000-0    Ba An           F  013 Zh
+Vrikl Zhosiezh1405 A4876BB-D  Z Ag Ni              405 Zh
+Stiech Ienj   1406 B57246B-9    Ni Lo O:1308       510 Zh
+Zhdabl        1410 C1209B9-B  Z De Hi In Na Po     114 Zh
+Flienshoch    1504 C65668D-6    Ag Ni              712 Zh
+Zdiadr Zhezh  1506 A538999-D    Hi                 710 Zh
+Blier'lezh    1605 A589511-C  Z Ni                 702 Zh

@@ -1,0 +1,18 @@
+Nindaro D9896WC-6
+
+Starport: Poor                   Size: Large (13600-15200 km)
+Atmosphere: Dense                Hydrographics: 90% water
+Population: 3 million            Govt: Self Perpetuating Oligarch
+Law Level: Extreme               Technology: Pre-Stellar
+ 
+The world is governed by a self-perpetuating oligarchy descended from
+Imperial nobles and Corporate Executive Officers from Hortalez et Cie, who
+took over all the available resources after the Collapse. The world is
+technophobic, and so Technological Level has stabilized 4 levels under the
+original one. Nevertheless, population has experienced a slight recovery.
+	Nindaro has been recontacted by scouts from the Geonee Confederation, but
+the ruling oligarchy is keeping this fact secret from the general
+population. The confederation has still not decided its policy with the
+Nindaro government.
+
+by Carlos Alos-Ferrer (Alos@merlin.fae.ua.es)

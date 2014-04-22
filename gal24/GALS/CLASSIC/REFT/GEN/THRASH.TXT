@@ -1,0 +1,46 @@
+Date: Fri, 08 May 1998 16:21:08 -0600
+From: Christopher Thrash <thrash@io.com>
+Subject: Galactic Submission
+
+Jim:
+
+I've downloaded your Galactic program and started to implement it
+to keep track of my Traveller campaign.  What a wonderful system!
+Thanks for making it available.
+
+In return, I'd like to pass along some descriptive information to
+add to your files.  My campaign is set in the Islands Clusters -
+Old Islands and New Islands Subsectors (J and K), Reft Sector. 
+It is based on material published in Supplement 5, Trillion
+Credit Squadron, p. 40-47.  They properly belong to the
+classic\reft\loc directory.
+
+The descriptions themselves are all quotes from the supplement,
+with three exceptions:  
+
+(1) some minor rephrasing and repeating to have the quotes make
+sense out of context, 
+
+(2) one or two dates that are conjectural (the founding of
+Esperanza, for example) but pretty conservatively extrapolated
+from known data, and 
+
+(3) the definitions for the world names.  These last I researched
+myself, with help from the TML - any flaws, however, are my own.
+
+The details in your file for these subsectors come from Trillion
+Credit Squadron (CT), by way of The Regency Sourcebook (TNE). 
+The UWPs are valid for 1106-1117 Imperial; the PBG extensions
+come from The Regency Sourcebook, but directly contradict
+material from the original (e.g., Zufluct is listed in TCS with
+planetoid belts; in TRS and your data the value for "B" is 0).
+
+I'll send along some more data as I get the opportunity; this was
+simply what I already had on hand, plus some minor reformatting.
+
+Cheers,
+
+Chris Thrash
+thrash@io.com
+
+

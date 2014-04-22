@@ -1,0 +1,36 @@
+@SUB-SECTOR: Veran SECTOR: Newlands
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Waverley      0921 C774856-A  D                    803 Br
+Jedberge      0923 C432324-8    Lo Ni Po           604 Br
+Yert          0924 A435984-C  4 Hi In              813 Br
+Uraletz       0927 C475474-A    Ni                 303 Ma
+Dhu'lek       0929 X432520-2    Ni Po              503 Ma
+Moorhouse     1023 D442346-6    Lo Ni Po           801 Br
+Zoltar        1024 C547652-8    Ag Ni              405 Ma
+Jontar        1025 B446877-8                       211 Ma
+Sutlej        1029 E777100-A    Lo Ni              514 Ma
+Cressey       1030 E410633-3    Na Ni              904 Ma
+Hogue         1122 B44358D-B    Ni Po           A  200 Ma
+Aboukir       1124 D77A221-6    Lo Ni Wa           100 Ma
+Bacchante     1127 C644687-5    Ag Ni              723 Ma
+Euryalus      1221 C87A99B-8    Hi In Wa           320 Ma
+Rissaldar     1222 C996444-5  S Ni                 504 Ma
+Cuzco         1223 A480788-B  D De Ri              904 Da
+Frederix      1224 D446161-3    Lo Ni              103 Da
+Souster       1321 E5647BF-5    Ag              A  720 Ma
+Iwate         1322 C120622-A  S De Na Ni Po        824 Ma
+Bordiel       1323 D000263-5    As Lo Ni           213 Da
+Gayundah      1325 B777357-C    Lo Ni              603 Ma
+Pulaski       1330 C889214-9    Lo Ni              315 Ma
+Keokuk        1421 D577220-8  N Lo Ni              614 Ma
+Galena        1422 D9A0422-8    De Ni              404 Ma
+Juniata       1423 C510311-7    Lo Ni              321 Ma
+Neew Home     1425 E23457B-5    Ni                 902 Ma
+Iosco         1428 E66875A-4    Ag Ri              400 Ma
+Mordred       1524 D85A879-6  S Wa                 804 Ma
+Sardinia      1525 E7A1004-6    Fl Lo Ni           504 Ma
+Tuscany       1526 E200126-A    Lo Ni Va           603 Ma
+Amalfi        1626 B000677-C  I As Na Ni           300 Ma

@@ -1,0 +1,26 @@
+@SUB-SECTOR: sec_g   SECTOR: oldexpan
+#
+#--------1---------2---------3---------4---------5-----f----6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Sharrif       1717 X9B7000-0    Ba Fl              005 Un
+Jrack         1718 D74A6N3-9    Ni Wa              604 Wi
+Bonsher       1719 X865969-7    Hi              B   620 W
+Layor         1817 D7686Q7-6    Ag Ni C:4          120 Wi
+Mnash         1911 X200000-0    Ba Va              013 Un
+Cenno         1920 X97A8T8-4    Wa              B  102 Wi
+Pashintor     2013 X528000-0    Ba                 010 Un
+Leblion       2019 X000000-0    Ba As              010 Un
+Chenek        2114 X9857RE-6    Ag              B  905 Wi
+Amwold        2116 D6583M0-3    Lo Ni              300 Wi
+Maazel        2120 X110000-0    Ba                 005 Un
+Gauras        2211 X5655R9-5    Ag Ni C:4          323 Wi
+Cimabue       2212 X438000-0    Ba                 002 Un
+Kuznets       2215 X210000-0    Ba                 003 Un
+Kantord       2218 X510000-0    Ba                 022 Un
+Atul          2315 X331000-0    Ba Po              000 Un
+Sulpt         2411 X410000-0    Ba                 002 Un
+Bourj         2413 X500000-0    Ba Va              004 Un
+Khar          2416 X6597R9-3    D:4             B  204 Wi
+Khe           2417 X63A000-0    Ba Wa              002 Un
+Khyme         2418 X120000-0    Ba De Po           024 Un

@@ -1,0 +1,18 @@
+@SUB-SECTOR: Mukusi   SECTOR: Antares
+#
+# Trade routes within the subsector
+#
+$3129 0128 1 0 11
+$3129 0132 1 1 11
+$2730 3129 0 0 11
+$2730 2427 -1 0 11
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Agar          2630 C510377-A    Lo Ni              715 Im
+Guukhi        2730 A528789-D  N                    503 Im 
+Vavkuk        2922 D9A5737-3    Fl                 320 Cs 
+Seixlagla     2930 A638223-C  N Lo Ni              815 Im 
+Mukusi        3129 C4579EG-C    Hi                 412 Im 
+Taukanumo     3230 C000688-7    Na Ni As           523 Im 
+

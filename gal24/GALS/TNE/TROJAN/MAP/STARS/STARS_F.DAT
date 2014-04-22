@@ -1,0 +1,25 @@
+@SUB-SECTOR: stars_F   SECTOR: trojan
+#
+# Trade routes within the subsector
+#
+#--------1---------2---------3
+#PlanetName   Loc. Stars(s)
+#----------   ---- ---------
+Solaria       0914 F8 V
+Dpres         0915 G5 V
+Konnaat       1015 M8 V M8 V
+291-540       1018 K2 II M2 V
+Gabriel       1114 G8 V M8 V
+Dostoevsky    1118 F4 V
+Janus         1216 M9 V
+Peroi         1219 F0 V
+Hkaohuiw      1220 K6 V M3 V
+Kaldos        1317 F2 V
+Lakidaeus     1319 M9 V
+Sagan         1417 F1 V
+Tlazolteotl   1513 M6 V A2 D
+Tyr           1518 F0 V M5 V
+Hekarda       1519 F5 V
+Thalassa      1613 F8 V M9 V
+Tktk          1618 F5 V M3 V
+Akis          1619 F7 V M2 V

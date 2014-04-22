@@ -1,0 +1,43 @@
+Si72 Survival Rifle
+
+Whilst the Si72 Survival Rifle is an item of standard issue Imperial
+Magellanic equipment, it is not officially a weapon but rather an item of
+survial equipment (hence it's designation). The Si72 was first introduced to
+the IMSC in 1842T as the M1842 Survival Rifle to replace the venerable M1335
+(now known as the Phoenix SR6). The Si72 is also frequently encountered in
+the regulation survival kits carried by commrcial starships.
+
+The Si72 is a conventially stocked breakaction single shot shotgun firing a
+12.5mm cased round. The round can either be a single solid slug, 21 x 5.5mm
+pellets or 16 x 2.5mm hardened steel flechettes. The rifle itself can be
+disassembled into 3 parts (barrel, action and stock) all of which can then be
+stored in the stock. The stock itself is constructed of high impact plastic
+and is fully watertight. Due to it's lightweight hollow contruction, the Si72
+will actually float. Most Si72's found in standard survival kits come with
+25 rounds of ammunition (15 pellet, 5 slug and 5 flechette) in a lightweight
+disposable waterproof case.
+
+Weapon: Si72 Survival Rifle
+Action: Single Shot - Break
+Ignition: Percussion
+Tech Level: 5
+Calibre: 12.5mm IMSC Cased
+Penetration: Slug: 3, Pellet: 2, Flechette: 3
+Range: Slug or Flechette: Short, Pellet: Very Short
+Malfunction: reliable
+Shots: 1
+Mass: 1.46kg
+Reloads: 0.04kg
+Length: 78.1cm (37cm dismantled)
+Cost: Cr 400
+Incidentals: 20 rounds slug: Cr 2.5 (0.8kg)
+             20 rounds pellet: Cr 2.5 (0.8kg)
+             20 rounds flechette: Cr 3.5 (0.8kg)
+             Standard survial kit ammunition pack: Cr 3.2 (1.0kg)
+
+Pellet and flechette rounds inflict 5D and 4D worth of damage (dropping by 1D
+per range band over effective range) if they penetrate. Also their damage
+against flexible armours is based on their damage not their penetration (e.g.
+if a flechette round strikes 1 point flexible armour it will inflict 3D plus
+1 damage; if a pellet round strikes 3 point flexible armour it will inflict
+5 points of damage).

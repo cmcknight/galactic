@@ -1,0 +1,55 @@
+@SUB-SECTOR: sec_m   SECTOR: glimdrft
+#
+#Jump Routes
+$0132 0333 0 0
+$0224 0333 0 0
+$0236 0333 0 0
+$0236 0339 0 0
+$0331 0229 0 -1
+$0331 0333 0 0
+$0331 0432 0 0
+$0333 0433 0 0
+$0337 0436 0 0
+$0339 0101 0 1
+$0339 0637 0 0
+$0432 0433 0 0
+$0433 0534 0 0
+$0433 0435 0 0
+$0435 0436 0 0
+$0435 0635 0 0
+$0436 0637 0 0
+$0534 0733 0 0
+$0534 0635 0 0
+$0635 0637 0 0
+$0731 0730 0 -1
+$0731 0733 0 0
+#
+#--------1---------2---------3---------4---------5----------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- --
+Messara       0131 E452300-5                       100 Im
+Mou           0132 A000576-C    As                 901 Im
+Yagawa        0134 B110830-A    Na                 601 Im
+Galnor        0139 B357649-A    Ni                 600 Im
+Hangstar      0234 D221320-6    Ni                 900 Im
+Phasis        0236 D453744-5    Ag                 700 Im
+Pindare       0331 AAA1974-A  2                    801 Im
+Sterling      0333 A000799-A    As                 901 Im
+Zucko         0337 B120163-C    Ni                 201 Im
+Taji          0338 C232566-9    Ni                 801 Im
+Sugarbush     0339 C564223-8    Ni                 200 Im
+Parda         0340 EAB1449-A    Ni                 500 Im
+Frisney       0432 B554A66-B                       901 Im
+Valdai        0433 A000349-B    As                 801 Im
+Verona        0435 A675356-9    Ni                 400 Im
+Franklin      0436 C130AA4-B    In                 501 Im
+Halsey        0534 D200727-8  S Na                 901 Im
+Giyul         0539 EAC2000-0                       000 Im
+Andorus       0540 X0008B9-8    As                 601 Im
+Icewind       0635 A100115-C    Ni                 601 Im
+Khartago      0637 B210944-B  N In                 401 Im
+Herot         0731 X000888-8    As                 601 Kx
+Kildonovan    0733 CAA9AD9-C                       900 Na
+Halifax       0738 C786677-8    Ri Ag              800 Im
+Imbabura      0739 E000886-8    As                 101 Im
+Istok         0834 X110400-8    Ni                 401 Na

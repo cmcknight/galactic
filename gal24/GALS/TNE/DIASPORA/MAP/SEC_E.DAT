@@ -1,0 +1,40 @@
+@SUB-SECTOR: sec_e   SECTOR: Diaspaora
+#
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Mosul         0111 E5868WB-8                       401 Wi
+Toga          0113 X6742R9-1    Ni Lo              312 Wi
+Ainor Lisea   0114 X7775RE-4    Ni Ag           B  204 Wi
+Karaguuka     0116 D7896S4-5    Ni C:3          B  114 Wi     f
+Zeranga       0117 X100000-0    Ba Va              004 Un
+Tomsk         0120 X424000-0    Ba                 013 Un
+Emma          0211 X5A0000-0    Ba De              002 Un
+Khaavu        0213 X327000-0    Ba                 004 Un
+Baanis        0214 X100000-0    Ba Va              003 Un
+Jalhoun       0215 X210000-0    Ba                 004 Un
+Yidii         0218 X435000-0    Ba                 012 Un
+Kyzyl         0220 X5763N5-5    Ni Lo              403 Wi
+Chengtu       0315 X537000-0    Ba                 013 Un
+Allenwald     0413 X110000-0    Ba                 003 Un
+Kashaashii    0414 X5744M0-3    Ni Lo              203 Wi
+Ninja         0415 E6658WE-8    C:5             B  303 Wi
+Terra Far     0416 X4446R8-4    Ni Ag              613 Wi
+Kosmo         0417 X5497RA-4                       503 Wi
+Cuttack       0418 E2755U9-5    Ni Ag              610 Wi
+Quota         0511 X100000-0    Ba Va              013 Un
+Ferry         0512 X6477RA-6    Ag              B  903 Wi
+Kovuu         0514 X4422N0-1    Ni Lo              300 Wi
+Gai           0515 X6A0000-0    Ba                 034 Un
+Niilushaga    0516 X7735TD-4    Ni              B  403 Wi
+Khuugar       0518 D6875RA-6    Ni Ag              215 Wi
+Futatsu       0519 X4422N0-1    Ni Po Lo           110 Wi
+Sudan         0616 X6A0000-0    Ba De              025 Un
+Vaasa         0617 X323000-0    Ba                 005 Un
+Thea          0712 X100000-0    Ba Va              002 Un
+Renaasha      0713 X3413R8-2    Ni Po Lo           404 Wi
+High Point    0719 X100000-0    Ba Va              010 Un
+Martina       0813 X110000-0    Ba                 014 Un
+Miilo         0819 X100000-0    Ba Va              004 Un
+Beeridashal   0820 X100000-0    Ba Va              010 Un

@@ -1,0 +1,43 @@
+@SUB-SECTOR: sec_D   SECTOR: corridor
+#
+# Trade routes within the subsector
+$2906 2806 0 0
+$2806 2908 0 0
+$2908 3208 0 0
+$3208 0107 1 0
+$2908 2710 0 0
+$2710 2511 0 1
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Ackaeck       2502 B586757-9  H Ag Ri              314 Vh
+Kidagir       2503 X242324-5    Lo Ni Po        R  522 Vh
+Plunge        2505 B2409CC-E  H Hi In Po De        824 Vh
+Jed           2506 C757863-6  C                    913 Vh
+Chosen        2603 C534544-8    Ni RsA             303 Vh
+Nuplae        2606 B64A236-D  G Lo Ni Wa           502 Vh
+Hesaim        2701 B424451-E    Ni                 801 Vh
+Brytsee       2710 A79A237-B    Lo Ni Wa           704 Rv
+Blustar       2801 E9B3531-8  H Ni Fl              123 Vh
+Neghu Oug     2804 C63A641-9    Ni Wa              602 Vh
+Uughrae       2806 A766367-D    C2 Lo Ni           210 Rv
+Atudew        2810 C595000-8  H Lo Ni Ba           620 Rv
+Oqwee         2901 B223462-D  G Ni Po              404 Vh
+Shinaashag    2902 D410456-8  H C3 Ni              602 Vh
+Uerrgno       2903 D867996-4    Hi                 601 Vh
+Krroughf      2904 D577522-3    Ag Ni              302 Va
+Oegoerrvu     2905 D5438A8-6  H Po                 211 Rv
+Kifrusis      2906 A568235-E  H Lo Ni              812 Rv
+Seplus        2907 C797698-9    Ag Ni              112 Rv
+Twophur       2908 B653797-7    Po Cp              424 Rv
+Russaura      3004 C400102-B  H Lo Ni Va           812 Rv
+Habretic      3010 C663110-9  H D0 Lo Ni           812 Rv
+Salite        3104 B454300-B    Lo Ni              910 Rv
+Long Shot     3106 C00069C-B  C Na Ni As           214 Rv
+Desiver       3107 C470421-B    Ni De              820 Rv
+Esuto         3201 A272674-9    Ni                 401 Rv
+Ko-tring-dfr  3202 C544697-6    Ag Ni              301 Rv
+Gerbetord     3207 B75A512-C  H Ni Wa              102 Rv
+Dilub Rou     3208 A220573-F    Ni Po De           213 Rv
+R'tinh Kills  3209 B646110-C  H Lo Ni              620 Rv

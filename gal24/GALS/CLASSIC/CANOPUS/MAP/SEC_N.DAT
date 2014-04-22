@@ -1,0 +1,35 @@
+@SUB-SECTOR: sec_N   SECTOR: canopus
+#
+# Trade routes within the subsector
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Wier          0932 C523420-9  S Lo Ni Po           924 Na
+Vladimeer     0933 C100453-A    Lo Ni Va           802 Na
+Chauncey      0935 D848451-8  S Ag Lo Ni           523 Na
+Dubhloach     0938 C35089D-7    De Po              402 Tb
+Hicks         1031 D0008CC-A  S As Na Va           802 So
+Gertrut       1035 C252633-6  M Ni Po              502 Tb
+Trita         1036 A663A88-D  2 Hi                 302 Tb
+Thorstan      1037 C765455-B    Ag Lo Ni           905 Tb
+Atte Lane     1132 C257373-8    Ag Lo Ni           213 So
+Joram         1136 B525431-A    Lo Ni              202 Tb
+Shelby        1140 C98A976-9  S Hi Wa              220 Na
+Poe           1238 X744000-0    Ba                 014 Un 
+Emil          1332 C73A440-8    Lo Ni Wa           713 So
+Brie          1334 C3228A9-B  S Na Po              800 Na
+Darry         1335 D421556-B    Lo Ni Po           304 Na
+Monica        1338 B100140-A    Lo Ni Va           804 Na
+Zinn          1339 A4739BA-E    Hi In              602 Na
+Sparta        1438 C678321-5  S Ag Lo Ni           805 Na
+Doria         1440 B110A7A-E  M Hi Na              604 Jn
+D'aal         1532 BAD9344-D  N Lo Ni              803 So
+Michelanglo   1535 A575673-A  N Ni                 103 Na
+Willlelmo     1536 D150459-8  S De Lo Ni Po        404 Na
+Tronge        1537 C96A201-C  S Lo Ni Wa           704 Na
+Avernus       1540 D220300-5    De Lo Ni Po        820 Jn
+Eneas         1631 B526134-9  N Lo Ni              600 So
+Krank         1632 C534668-8    Ni                 404 So
+Echule        1636 A564653-E  S Ni Ri              402 Na
+Payne         1639 C542653-7    Ni Po              403 Jn

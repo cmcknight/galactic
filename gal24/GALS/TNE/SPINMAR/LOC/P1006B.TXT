@@ -1,0 +1,32 @@
+
+System Information
+
+Orbit           Name            UPP             Remarks
+-------------------------------------------------------
+Primary         Lustre          M1 V
+0               Emerald         B766555-B       Ag Ni
+1               Phantome        Large GG
+        1       Ring System     YR00000-0
+        2       Ring System     YR00000-0
+        6       Mitchell        Y300267-B       Qb
+        7       Ruapehu         Y200000-0
+        9       Sacrist         Y410000-0
+       10       Alcharam        Y732000-0
+       25       Dervish         Y510000-0
+       40       Minime          YS00000-0
+       45       Stoly           YS00000-0
+2               Planetoid Belt  Y000000-0
+3               Siishisha       Large GG
+        2       Ring System     YR00000-0
+        5       Khudalin        YS00000-0
+       40       Gakhidar        Y100000-0
+       55       Khuulamdiir     Y401000-0       Ic
+      300       Gamuur          Y320000-0
+4               Planetoid Belt  Y000000-0
+5               Ashakha         Small GG
+        7       Shimgeru        YS00000-0
+6               Planetoid Belt  Y000000-0
+7               Karaku          Small GG
+        1       Ring System     YR00000-0
+8.4             Chasseur        Y100000-0
+

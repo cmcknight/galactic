@@ -1,0 +1,44 @@
+@SUB-SECTOR: sec_P   SECTOR: reft
+#
+# Trade routes within the subsector
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Quiver        2534 X310000-0    Ba                 004 --
+Argus         2536 C755976-8  S Hi                 103 Na
+Boneyard      2537 X220000-0    Ba De Po           014 --
+Delinski      2538 C45377A-7    Po              B  114 Wi
+Valentorn     2539 E55656A-3    Ag Ni           B  400 Wi
+Halibun       2540 C56579C-7    Ag                 714 Wi
+Stock Point 3 2636 X336000-0    Ba                 000 --
+Grecorn       2638 X7A8000-0    Ba Fl              000 --
+Filentred     2731 D548536-7  S Ag Ni              204 Wi
+G'haenbaz     2733 X557445-5    Lo Ni              400 Wi
+Bouvrier      2737 X230000-0    Ba De Po           010 --
+Cyril         2738 X7A6000-0    Ba Fl              022 --
+Chateau       2739 X450222-4    De Lo Ni Po        314 Wi
+Dead End      2740 X576000-0    Ba                 002 --
+Debica        2832 E645622-5    Ag Ni           B  700 Wi
+Gundamoor     2833 X311000-0    Ba Ic              024 --
+Bokilbom      2834 X57356D-7    Ni              B  304 Wi
+Angsturm      2837 X545734-5    Ag              B  214 Wi
+Vlad          2838 X55486C-6                       804 Wi
+Vleeck        2931 E76246B-3    Lo Ni           B  104 Wi
+Pamraeltan    2932 X537000-0    Ba                 003 --
+P'hakar       2934 X220000-0    Ba De Po           023 --
+Harmony       2935 X65389A-3    Po              B  833 Wi
+Numeron       2939 X432000-0    Ba Po              013 --
+Mynez         3035 X627000-0    Ba                 004 --
+Seville       3036 C657445-6    Lo Ni              204 Wi
+Dagu          3037 X100000-0    Ba Va              004 --
+Transit       3038 X987000-0    Ba                 020 --
+Elphintrax    3040 D374433-6    Lo Ni C:4          213 Wi
+Alexander     3132 X323000-0    Ba Po              004 --
+Breezy        3133 X100000-0    Ba Va              004 --
+Dlaekan       3134 X383568-5    Ni                 402 Wi
+Good Home     3135 X74576A-5    Ag              B  303 Wi
+Alverik       3136 X150531-3    De Ni Po        B  300 Wi
+Unseren       3140 X452557-2    Ni Po              303 Wi
+Roger         3231 X424000-0    Ba                 000 --
+Zurshu        3237 CA7A6BD-8    Ni Wa           B  813 Wi

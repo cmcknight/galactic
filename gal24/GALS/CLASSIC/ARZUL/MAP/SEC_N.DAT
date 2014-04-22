@@ -1,0 +1,31 @@
+@SUB-SECTOR: Ambro SECTOR: Arzul
+#
+$0935 1235 0 0 11
+$0935 0735 -1 0 11
+$0939 0738 -1 0 11
+$0939 1140 0 0 11
+$1140 1103 0 1 11
+$1232 1228 0 -1 11
+$1232 0935 0 0 11
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Dwycawlowm    0931 X222000-0    Ba Lo              004 Hl    
+Iririi        0932 X334000-0    Ba Lo              034 Hl    
+Siirgikagigaa 0934 X000000-0    As Ba Lo           003 Hl    
+Stij          0935 A24577A-B  N Ag                 103 Hl    
+Dede          0939 A999648-A    Ag                 505 Hl    
+U             1033 A446300-C  N Lo                 922 Hl    
+Unmakhimshim  1035 E345120-6    Lo                 103 Hl    
+Khakuukhimka  1038 X200000-0    Ba Lo Va           000 Hl    
+Beprannein    1132 X300000-0    Ba Lo Va           000 Hl    
+Aerafa        1140 A66AABA-D    Hi Wa              404 Hl    
+Mir           1232 C695223-8    Lo                 924 Hl    
+Mudadiikadu   1233 X270000-0    Ba De Lo           004 Hl     
+Aegvenuth     1234 D439200-7    Lo                 410 Hl    
+Ada           1235 A878447-B  S Ni                 105 Hl  
+Inadimkhishir 1238 X100000-0    Ba Lo Va           023 Hl    
+Emimgadii     1332 X341257-5    Lo                 302 Hl    
+Gakha         1432 X401000-0    Ba Ic Lo Va        000 Hl    
+Ashila        1540 B7857A9-9  N Ag                 903 Na    
+

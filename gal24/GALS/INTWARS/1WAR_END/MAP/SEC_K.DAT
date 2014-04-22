@@ -1,0 +1,27 @@
+@SUB-SECTOR: sec_K   SECTOR: 1war_end
+#
+# Trade routes within the subsector
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Nusku         1822 C569955-7    Hi                 114 Zs
+Agidda        1824 C972758-9                       701 Zs
+Deir Yassin   1826 *1 Deep Space Base           A      Tc
+Terra         1827 A867A75-A  T Hi Cp              114 Tc
+Fenris        1830 CA98768-4  S Ag                 120 Tc
+Barnard       1926 C200462-A  S Ni Va           A  534 Tc
+Europa        1928 *1 Deep Space Base                  Tc
+Junction      1929 C975765-3    Ag                 202 Tc
+Ishimshulgi   2021 E200214-3    Lo Ni Va           302 Zs
+Prometheus    2027 C785873-7  S Ri                 223 Tc
+Peraspera     2028 D7A2567-6    Fl Ni              220 Tc
+Midway        2029 D699665-6    Ni                 722 Tc
+Hades         2030 E432565-7    Ni Po              612 Tc
+Lagash        2121 B667797-6    Ag Ri              724 Zs
+Ninkhur Sagga 2222 CAA7454-A    Fl Ni              200 Zs
+.             2227 X412000-0    Ba Ic Lo Ni        012 Us
+.             2228 X9CA000-0    Ba Fl Lo Ni Wa     002 Us
+Mukhaldim     2323 C533788-9    Na Po              220 Zs
+Kaguk         2325 C648524-8    Ag Ni              301 Zs
+.             2330 X421000-0    Ba Lo Ni Po        012 Us

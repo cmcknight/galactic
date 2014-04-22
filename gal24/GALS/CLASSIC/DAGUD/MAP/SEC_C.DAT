@@ -1,0 +1,44 @@
+@SUB-SECTOR: Arnakhish   SECTOR: dagudash.sec
+#
+# Trade routes within the subsector
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Gekae         1702 C6A47BA-7  S Fl                 905 St
+Diu           1703 C835442-C  S Ni                 603 St
+Liikirba      1705 B687200-9    Lo Ni              604 Li
+Rusadaa       1709 B555555-C  A Ag Ni              504 Li
+Line's End    1710 D457353-A  S Lo Ni              514 Li
+Gursa         1801 C54737B-B    Lo Ni              203 St
+Kilasir       1803 C200755-8  S Na Va              604 St
+Kimaria       1809 D343210-5    Lo Ni Po           614 Li
+Imga          1901 C663020-8    Lo Ni              602 St
+Kua           1903 C9B4331-9    Lo Ni Fl           420 St
+Kemnagii      1904 C25359A-C    C2 Ni Po           412 Li
+Morian Khama  1905 C77A777-A  S Wa                 800 Li
+Nukaush       1906 B684400-9  N Ni                 923 Li
+Sadiikashe    1910 E7C48BE-8    Fl              A  323 Li
+Arkhuu        2002 B54966A-D  N Ni                 420 St
+Guru          2005 B51077B-9    Na                 600 Li
+Khalan        2007 B677525-D    Ag Ni              821 Li
+Shakuur       2010 C523565-8    Ni Po              104 Li
+Dilaaii       2104 C320853-8    Na Po De           213 Li
+Masiruu       2106 B0006B7-A  N Na Ni As           411 Li
+Umnudar       2108 A130643-F    Na Ni Po De        713 Li
+Kua           2110 D472359-7  S Lo Ni              720 Li
+Misaruu       2202 C527747-7                       413 St
+Khumsada      2203 C7698B8-7                       221 Li
+Likhukam      2204 B200953-F  A Hi Na In Va        501 Li
+Ki            2205 C627556-A  S Ni                 304 Li
+Ninlakim      2208 A100866-F  N Na Va              601 Li
+Anka          2302 B546444-8  A Ni                 103 St
+Drogheda      2304 B8A879A-C  A Fl                 410 Li
+Oracle        2308 D351645-4  S C2 Ni Po           511 Li
+Ishkaa        2309 C33346A-C    Ni Po              401 Li
+Rabir         2402 B986445-9    Ni                 402 St
+Uurku         2405 C140777-C    Po De              222 Li
+Khaem         2406 C300777-B    Na Va              104 Li
+Anshir        2408 C365876-9    Ri                 724 Li
+Eshsii        2409 C46267A-8    Ni Ri              924 Li
+Suakan        2410 C591423-8  S Ni                 112 Li

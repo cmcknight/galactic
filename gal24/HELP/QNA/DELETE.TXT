@@ -1,0 +1,22 @@
+
+[Q] How do I delete a galaxy from the galaxy menu or a sector
+from the sector menu?
+
+[A] Hit the <delete> key at either the galaxy menu or the galaxy
+map. If you want to know the internals of what's going on when
+you do this, take a look at gals\gal.lst which is a file in the
+main Galactic directory. This file contains a list of the galaxies
+that the program knows about. By removing one of the lines from
+this file, you effectively remove the program's knowledge that a
+specific galaxy exists.
+   Likewise, you will notice that in each of the galaxy
+directories, there is another .LST file, and that it contains a
+list of the sectors in that galaxy. To remove knowledge of a
+specific a sector, remove the line pertaining to that sector.
+   In each case, you might also want to delete the directory tree
+pertaining to that galaxy or sector, just to save some hard drive
+space and so that you can create a new one using the same name if
+you so desire. Galactic will do this for you automatically when
+you use the <delete> key, but now that you know the process, you
+can also do it manually from the dos-prompt.
+

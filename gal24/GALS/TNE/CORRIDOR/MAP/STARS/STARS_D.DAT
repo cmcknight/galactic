@@ -1,0 +1,37 @@
+@SUB-SECTOR: stars_D   SECTOR: corridor
+#
+# Trade routes within the subsector
+#
+#--------1---------2---------3
+#PlanetName   Loc. Stars(s)
+#----------   ---- ---------
+Ackaeck       2502 K7 V
+Kidagir       2503 M8 V
+Plunge        2505 G7 V
+Jed           2506 M4 V G1 III
+Chosen        2603 M1 V
+Nuplae        2606 M0 V
+Hesaim        2701 M6 V
+Brytsee       2710 M5 V
+Blustar       2801 A8 V
+Neghu Oug     2804 M9 V
+Uughrae       2806 K5 V M1 V
+Atudew        2810 M7 V
+Oqwee         2901 M4 V
+Shinaashag    2902 K0 V
+Uerrgno       2903 K9 V K5 D
+Krroughf      2904 M0 V M1 D
+Oegoerrvu     2905 F2 V K6 V
+Kifrusis      2906 K6 V
+Seplus        2907 M0 V
+Twophur       2908 G7 V
+Russaura      3004 M9 V
+Habretic      3010 M1 V
+Salite        3104 M3 V F0 D
+Long Shot     3106 M5 V
+Desiver       3107 G1 V
+Esuto         3201 F5 IV M1 V
+Ko-tring-dfr  3202 F4 V M2 D
+Gerbetord     3207 K7 V
+Dilub Rou     3208 F5 V K8 D
+R'tinh Kills  3209 M5 V

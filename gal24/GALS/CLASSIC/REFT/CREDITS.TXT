@@ -1,0 +1,24 @@
+Reft Sector - Credits
+---------------------
+
+The Reft Sector data was ftped from Sunbane.
+
+Similar data seems to have been published in issue 20 of
+The Travellers' Digest put out by Digest Group Publications
+in July of 1990. The people involved in the Trojan Reach
+write-up from that issue were James Holden, John Meyers,
+and Mike Mikesh.
+
+Christopher Thrash <thrash@io.com> wrote up some brief
+world descriptions for the Islands clusters (in the Old
+Islands & New Islands subsectors). These write-ups are
+based on material published in Supplement 5, Trillion
+Credit Squadron, p. 40-47. The descriptions themselves
+are all quotes from the supplement, with three exceptions:  
+(1) some minor rephrasing and repeating so the quotes make
+sense out of context, (2) a few dates that are conjectural
+(the founding of Esperanza, for example) but pretty
+conservatively extrapolated from known data, and (3) the
+definitions for the world names (Chris researched these
+with help from the TML).
+

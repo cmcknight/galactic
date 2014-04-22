@@ -1,0 +1,24 @@
+@SUB-SECTOR: sec_F   SECTOR: canopusc
+#
+# Trade routes within the subsector
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Cutberto      0913 X455201-7    Ag Lo Ni           110 Wi
+Donkan        1012 D642122-8  S Lo Ni Po           312 Wi
+De Blaktoft   1020 X613000-0    Ba Ic              004 --
+Teddy         1113 X333000-0    Ba                 012 --
+Sadyngton     1114 X300000-0    Ba Va              002 --
+Candace       1117 D875384-5    Ag Lo Ni           212 Wi
+Galis         1120 X98A86D-3    Ri Wa           B  213 Wi
+Toke          1213 X573301-4    Lo Ni              203 Wi
+Agnew         1217 X98A359-6    Lo Ni Wa           303 Wi
+Bolthorn      1316 X432000-0    Ba                 010 --
+Eaton         1317 X232000-0    Ba                 024 --
+Ekeri         1412 X110000-0    Ba                 003 --
+Myers         1414 D443521-6    Lo Ni Po           123 Wi
+Afzal         1420 X8C7000-0    Ba Fl              005 --
+Wylie         1512 X874476-5    Ag Lo Ni           100 Wi
+Dawnwind      1516 D447142-4  S Ag Lo Ni           020 Wi
+Keal          1614 X100000-0    Ba Va              000 --

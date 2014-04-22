@@ -1,0 +1,33 @@
+System: Jewell
+Subsector: Jewell
+Sector: Spinward Marches
+Coordinates: 1106 (B0306)
+UWP: A777999-C
+
+Starport: Excellent
+Size: Medium (10400-12000 km)
+Atmosphere: Standard, tainted
+Hydrographics: 70% water
+Population: 6 billion
+Govt: Impersonal Bureaucracy
+Law Level: High
+Technology: Average Stellar
+
+Bases: Navy & Scout
+Trade Codes: Hi In Cp        
+Travel Zone: Green
+Planetoid Belts: 2
+Gas Giants: 3
+Allegiance: Imperial
+
+Extended Stats:
+A777999-C A Hi In Cp       623 DD G7 V          <---- 1117 data
+A777A99-F A Hi In Cp Rw:Z  123 Re G7 V          <---- 1202 data
+G = 1.22, Day = 1d 9:16:12.00, Year = 227d 21:01:26.44
+Atmo = 1.20, Controlled weather
+Temp = +29.9 (6/lat +18 to -42)(season +16.8 to -28.0, 40 deg lat)
+Daily temp range 17.9
+Ores, Radioactives, Crystals, Metals, Parts, Consumables, Weapons
+Progressive/Enterprising, Unaggressive/Militant, Harmonious/Friendly
+Legal: 9-6767A  Tech:  F9-FFEFF-FCFF-FF-G
+

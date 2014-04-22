@@ -1,0 +1,21 @@
+System: Kadar
+Subsector: Lagan
+Sector: Gushemege Sector
+Coordinates: 2839 (P0409)
+UWP: A442948-F
+
+Starport: Excellent
+Size: Small (5600-7200 km)
+Atmosphere: Thin, tainted
+Hydrographics: 20% water
+Population: 6 billion
+Govt: Representative Democracy
+Law Level: High
+Technology: High Stellar
+
+Bases: None
+Trade Codes: Hi In Po Cp     
+Travel Zone: Green
+Planetoid Belts: 2
+Gas Giants: 0
+Allegiance: Imperial

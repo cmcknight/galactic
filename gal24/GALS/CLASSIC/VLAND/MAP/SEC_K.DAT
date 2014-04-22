@@ -1,0 +1,62 @@
+@SUB-SECTOR: sec_K   SECTOR: vland
+#
+# Trade routes within the subsector
+$1822 1520 -1 -1
+$1822 1625 -1 0
+$1825 1820 0 -1
+$1825 2225 0 0
+$1825 1928 0 0
+$2225 2426 0 0
+$2426 2728 1 0
+$2227 2225 0 0
+$2227 1928 0 0
+$2227 2329 0 0
+$1928 1930 0 0
+$1930 2132 0 1
+$2329 2531 1 1
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Asanik        1722 D454256-9    Lo Ni              204 Rv
+Kalimgar      1725 B799667-D  W Ni                 824 Rv
+Gunavarum     1726 E553551-A    Ni Po              304 Rv
+Ashok         1728 B698100-9  N Lo Ni              920 Rv
+Kargem        1729 E110654-B    Na Ni              420 Rv
+Lurkha        1730 B6747AA-B  S Ag An              120 Rv
+Iikhok        1821 B33449A-F    Ni                 724 Rv
+Kasear        1822 A5479AE-F    Hi In Cp           220 Rv
+Karfir        1825 A753A66-F    Hi Po              923 Rv
+Sindal        1830 C9B8332-A    Lo Ni Fl           801 Rv
+Sagida        1923 C223965-E  S Hi Na In Po        802 Rv
+Nimmer        1928 B420100-C  N Lo Ni Po De        324 Rv
+Sakhem        1929 B404474-F    Ni Va Ic           710 Rv
+Ziirkago      1930 A878554-B  A Ag Ni              613 Rv
+Emrim         2022 D100442-8  S Ni Va              501 Rv
+Zhattar       2023 B88A140-A    Lo Ni Wa           410 Rv
+Gaarluzargu   2027 B775699-7  S C6 Ag Ni           820 Rv
+Gabik         2029 B512100-F  A Lo Ni Ic           833 Rv
+Duusan        2030 B9CA65A-C    Ni Fl Wa           922 Rv
+Lekkon        2122 B440510-A  S Ni Po De           902 Rv
+Blikig        2123 C5A4634-9    Ni Fl              801 Rv
+Razzun        2124 A472668-A  N Ni                 910 Rv
+Shib          2125 E799687-6    Ni                 310 Rv
+Dekhuun       2126 B478697-D  N Ag Ni              120 Rv
+Gunnar        2129 D000788-9  S Na As              910 Rv
+Karlum        2221 B5AA000-E  N Lo Ni Fl Wa Ba     920 Rv
+Markassar     2222 E7787CA-3    Ag                 923 Rv
+Gurzish       2223 D76A226-A  S Lo Ni Wa           401 Rv
+Iamone        2225 C110A9A-F  S Hi Na In           624 Rv
+Zikurag       2227 A536585-F    Ni                 524 Rv
+Munakhiin     2229 D2027BB-A  S Na Va Ic           910 Rv
+Gikarlum      2321 C432476-9    Ni Po              133 Rv
+Hefas         2322 C775861-7  S                    615 Rv
+Zruub         2323 E353431-A    Ni Po              603 Rv
+Firdakh       2324 D332451-A    Ni Po              120 Rv
+Derkhuun      2325 E310224-A    Lo Ni              205 Rv
+Fharnas       2328 D8A8A97-A  S Hi Fl              901 Rv
+Tobrun        2329 B400554-F    Ni Va              410 Rv
+Umzgaa        2330 C000311-C    Lo Ni As           710 Rv
+Martle        2425 C14099B-E  S Hi In Po De        424 Rv
+Khanaddar     2426 A000302-F    Lo Ni As           112 Rv
+Irgar         2429 E120478-7    Ni Po De           912 Rv

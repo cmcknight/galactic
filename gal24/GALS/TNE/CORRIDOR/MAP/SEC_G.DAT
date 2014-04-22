@@ -1,0 +1,18 @@
+@SUB-SECTOR: sec_G   SECTOR: corridor
+#
+# Trade routes within the subsector
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Naadi         1711 X578510-3    Ag Ni           B  202 Wi
+Getz          1712 X553230-2    Lo Ni Po           310 Wi
+Denlaar       1713 X6A5000-0    Fl Ba              022 --
+Antezeno      1811 X637000-0    Ba                 024 --
+Enrick Down   1912 D342448-5    Lo Ni Po           310 Wi
+Shargishu     1913 X000000-0    Ba As              013 --
+Faplion       2012 X525000-0    Ba                 010 --
+Darkmoon      2111 X78A656-5    Ni Wa           B  612 Wi
+Farplace      2116 X150336-4    Lo Ni Po De        420 Wi
+Sent'ere      2212 X400000-0    Ba Va              010 --
+Hishumaki     2311 X545568-1    Ag Ni           B  110 Wi

@@ -1,0 +1,39 @@
+@SUB-SECTOR: Perite SECTOR: Core
+#
+# Trade routes within the subsector
+$0901 1037 0 -1
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+.             0903 E000300-8    Lo Ni As           613 Li
+Shazeku       0905 B553A88-F  N HI Po              100 Li
+.             0906 B77659D-D  S Ag Ni              902 Li
+.             0907 B778687-9  S Ag Ni              930 Li
+.             0910 D567125-4    Lo Ni              505 Li
+Mishaar       1002 B140AA8-F  N Hi In Po De        620 Li
+.             1008 B302301-E    Lo Ni Va Ic        404 Li
+.             1009 B536488-C  N Ni                 113 Li
+.             1101 D120233-B    Lo Ni Po De        202 Li
+.             1102 B594344-B  A Lo Ni              724 Li
+.             1104 E580859-6    Ri De              323 Li
+.             1108 B765895-B  A Ri                 414 Li
+.             1109 C987246-7    Lo Ni              114 Li
+.             1202 B569651-D    Ni Ri              305 Li
+.             1204 B447047-D  N Lo Ni              302 Li
+.             1205 B590886-B  A De                 404 Li
+.             1302 B778477-B    Ni                 204 Li
+.             1307 C88A553-A    Ni Wa              310 Li
+.             1308 D557013-5  S Lo Ni              604 Li
+.             1309 B94A432-B  N Ni Wa              701 Li
+.             1403 E896200-6    Lo Ni              621 Li
+.             1407 B200320-B  S Lo Ni Va           520 Li
+.             1410 B21069C-9  A Na Ni              803 Li 
+.             1503 C536831-7                       304 Li 
+.             1505 B667546-8  S Ag Ni              514 Li
+.             1506 C486796-8    AG Ri              404 Li 
+.             1508 D697226-4    Lo Ni              500 Li
+.             1510 E110232-B    Lo Ni              203 Li
+.             1605 A446445-C  N Ni                 400 Li
+Sirma         1609 C22498A-E    Hi In              502 Li
+.             1610 B645623-C    Ag Ni              403 Li

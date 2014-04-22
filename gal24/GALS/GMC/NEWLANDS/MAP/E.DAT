@@ -1,0 +1,34 @@
+@SUB-SECTOR: Firstfall SECTOR: Newlands
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Sparticus     0116 C410423-8  S Ni                 705 Ma
+Leonardo      0211 CA9848B-5    Ni                 524 Ma
+Bueneroti     0213 D8A5546-5    Fl Ni              803 Ma
+Titian        0214 E459014-8    Lo Ni              404 Ma
+Telefon       0217 CAD7200-A    Fl Lo Ni           203 Ma
+Gauguin       0311 D635200-8    Lo Ni              313 Ma
+Munch         0312 E100544-8    Ni Va              813 Ma
+Warhol        0313 X300014-8    Lo Ni Va           104 Ma
+Manet         0315 C484979-B    Hi                 304 Ma
+Movistar      0319 B472667-9  3 Ni                 604 Th
+Rokstar       0320 C443768-9    Po                 604 Th
+Botticelli    0413 B54768A-6    Ag Ni              104 Ma
+Bernoulli     0416 CA8A544-6    Ni Wa              400 Ma
+Lloyds        0511 C625562-8    Ni                 102 Tz
+Bernini       0513 C646232-7    Lo Ni              100 Ma
+Andrew        0515 B244532-9  N Ag Ni              502 Ma
+Rose          0517 C49377A-8  S                    923 Ma
+Tzu Hui       0611 A100994-B  4 Hi Na Va           114 Tz
+Juncker       0613 E130447-6    De Ni Po           700 Ma
+Sabastian     0614 B254514-A    Ag Ni              924 Ma
+Moffatt       0620 C460554-B    De Ni              823 Br
+Oedipus       0711 E957777-4    Ag                 315 Tz
+Electra       0712 C330566-8    De Ni Po           203 Tz
+Tvashtri      0714 C77536B-7    Lo Ni              812 Tz
+Karl          0715 C332AAD-C  S Hi In Na Po     A  602 Ma
+Breakout      0720 A666A98-C  5 Hi                 403 Br     f
+Dii           0814 E569761-8    Ri                 524 Mr
+Emily         0815 B322636-8    Na Ni Po           924 Ma
+Vallance      0819 B55679A-C    Ag                 522 Br

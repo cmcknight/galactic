@@ -1,0 +1,28 @@
+@dir=gals\gmc\newlands\map
+@Light Yellow
+
+Newlands / Data Files
+
+@Light Cyan
+      Sector Data                    @..\newlands.dat
+      Credits                        @..\credits.txt
+
+@Light Green
+      Subsector Data
+@Light Cyan
+       A: Lango                      @a.dat
+       B: Efpora                     @b.dat
+       C: Mitre                      @c.dat
+       D: Mehrtz                     @d.dat
+       E: Firstfall                  @e.dat
+       F: Strali                     @f.dat
+       G: Caro                       @g.dat
+       H: Empty Quarter              @h.dat
+       I: Starlane                   @i.dat
+       J: Veran                      @j.dat
+       K: Wertya                     @k.dat
+       L: Diska's Folly              @l.dat
+       M: Jnisck                     @m.dat
+       N: Dilly                      @n.dat
+       O: Britannia                  @o.dat
+       P: Monta                      @p.dat

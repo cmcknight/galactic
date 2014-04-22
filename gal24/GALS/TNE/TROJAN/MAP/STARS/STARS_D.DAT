@@ -1,0 +1,23 @@
+@SUB-SECTOR: stars_D   SECTOR: trojan
+#
+# Trade routes within the subsector
+#
+#--------1---------2---------3
+#PlanetName   Loc. Stars(s)
+#----------   ---- ---------
+Labora        2501 M1 V M1 V
+Belt-9        2602 M1 V M5 V
+Corben        2704 F5 V M9 V M7 V
+Gazulin       2708 F3 V
+O'Keefe       2709 F4 V
+MacDermont    2801 F1 V
+Junction      2804 M8 V M9 V
+Peridot       2805 F3 V K8 D
+Fintor        2807 F9 V
+Bleak         2902 M2 V
+Iscand        2904 K6 V
+Mirage        2909 F0 V
+Susanawo      2910 F0 V
+627-301       3003 F3 V
+Neumann       3105 G3 V
+Ploderash     3107 F1 V M9 V

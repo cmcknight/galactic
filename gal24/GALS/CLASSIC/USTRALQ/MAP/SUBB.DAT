@@ -1,0 +1,65 @@
+@SUB-SECTOR: Heasairlui SECTOR: Ustral Quadrant
+#
+$1307 1308 0 0 10
+$1308 1408 0 0 10
+$1408 1608 0 0 10
+$1004 1203 0 0 10
+$1203 1403 0 0 10
+$1403 1503 0 0 10
+$1503 1501 0 0 10
+$1401 1501 0 0 10
+$1503 1703 1 0 10
+$1403 1404 0 0 10
+$1501 1740 1 -1 10
+$0906 0706 -1 0 10
+$0906 1004 0 0 10
+$1106 1004 0 0 10
+$1106 1307 0 0 10
+$1408 1507 0 0 10
+$1507 1605 0 0 10
+$1605 1404 0 0 10
+$1605 1705 1 0 10
+$1605 1705 1 0 10
+$1503 1703 1 0 10
+$1004 0904 0 0 10
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Hlyutehewour  0903 B8683K6-C  R Lo Ni              404 As 
+Keawiyrleahai 0904 B69A5L8-E    Ni Wa              302 A0     
+Hwealr        0906 B1205J5-E    De Ni Po           320 As      
+Toilearauoi   0907 C5946H5-8    C0 Ag Ni           600 As     
+Iyi           0908 EA8A5H7-8    Ni Wa              523 As     
+Atlilriyrl    0909 E6937M9-8    C5                 304 As     
+Ekekhalea     1002 CAB86L9-9    Fl Ni              804 A7     
+Ausei         1004 B9D95NC-9    Ni                 232 As  
+Eihiy         1006 D8A68JB-8    Fl                 100 As     
+Ekhaofya      1101 C4028J7-D  R Ic Na Va           803 As     
+Ewu           1102 E2522N7-5    Lo Ni Po           623 As 
+Ealrawyarlal  1103 E3255M6-7    Ni                 420 As     
+Roihoa        1105 C4215MC-7  R Ni Po              115 As     
+Khteasarlahei 1106 B7547M8-E  R Ag                 322 As 
+ISEI          1203 A75A9N7-E    Hi Wa              800 As     
+Eihkyele      1204 C5676L9-7  T Ag Ni Ri T1        724 A8     f
+Sastu         1207 C4464L5-7    Lo Ni              604 A5     
+Orlaoharoasoi 1208 C3665N7-C  T Ag Ni              813 A5     
+Eheisarl      1302 C8C06H7-9    De Ni              104 As     
+Tiwauwiykh    1304 C4222H8-A    Lo Ni Po           201 As     
+Ahaikhtawauhi 1307 B0004H8-B    As Lo Ni           103 As 
+FE            1308 AAF59MA-C  R Hi                 910 As       
+HLAYO         1401 E456AL7-A    Hi                 514 A1       
+Eaheiairaw    1402 D7767L7-B    C3 Ag              103 A5     
+Yulais        1403 B67A6MA-A  R Ni Wa              305 As     
+Uaoahueh      1404 A3435J4-C  R C2 Ni Po           301 As     
+Hkor          1407 CAE65J2-A    Ni T6              300 As     f
+Uisi          1408 A6A14H8-E  U Fl Lo Ni           900 As     
+Eaktakhiyhyu  1409 C3001G7-D    Lo Ni Va           500 As 
+Wuih          1501 A1304L8-A  T De Lo Ni Po        414 A1     
+HEASAIRLUI    1503 A894AK9-E    Hi In              304 As     f
+Eieaua        1507 B3325M3-D    Ni Po              702 As 
+Hrai'aoeti    1602 C7762H7-6  T Lo Ni              203 As      
+Elaulrah      1604 C3454H3-A  R Lo Ni              204 As      
+Yal           1605 BAA36JB-E    Fl Ni              304 As     
+Tosauhiy      1606 D7837KB-9  R Ri                 703 As      
+Khya          1608 B2464HA-E  R Lo Ni              805 As     
+Htawao'ea     1609 E6934K8-A    Lo Ni              200 As     

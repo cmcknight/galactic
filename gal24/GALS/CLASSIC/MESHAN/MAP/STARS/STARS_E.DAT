@@ -1,0 +1,28 @@
+@SUB-SECTOR: stars_E   SECTOR: meshan
+#
+# Trade routes within the subsector
+#
+#--------1---------2---------3
+#PlanetName   Loc. Stars(s)
+#----------   ---- ---------
+Gvikse        0115 F1 V M9 D
+Khalokh       0116 F3 V M5 D
+Ungoe         0120 F0 V M6 D M6 D
+Lavras        0312 F7 V M0 D
+Odessa        0313 M6 V M1 D
+Urulaekhs     0314 M2 V
+Khongaegh     0316 M2 D M3 D
+Addar         0317 F3 II M0 V
+Guegnaek      0412 F6 D
+Arrgh Sue     0416 F9 V
+Engkfaslo     0511 F9 V
+Dzingogz      0513 F7 D
+Wallace       0519 F1 D M1 D
+Uthogh        0520 M0 V
+Aerru         0611 F9 V
+Gvekngo       0617 K7 V
+Athol         0714 F2 V
+Gzoekogh      0811 G3 V
+Voedzgzong    0816 G9 D
+Agen          0818 F7 V
+Ounnaz        0819 F5 D M1 D

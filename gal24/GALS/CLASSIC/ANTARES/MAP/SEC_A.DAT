@@ -1,0 +1,55 @@
+@SUB-SECTOR: Pelusium   SECTOR: Antares
+#
+# Trade routes within the subsector
+#$0109 3211 -1 1
+#
+$0410 0213 0 1 11
+$0410 0609 0 0 11
+$0609 0806 0 0 11
+$0403 0507 0 0 11
+$0507 0609 0 0 11
+$0806 1109 1 0 11
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Riry          0102 D756553-7  S Ag Ni              814 Im 
+Khadiraash    0103 E000110-6    Lo Ni As           323 Im 
+Sag           0108 BABA455-A  N Ni Fl Wa           115 Im 
+Llupi         0110 E798400-5    Ni                 203 Im 
+Occulun       0203 C2429DA-A  S Hi In Po           900 Im
+Anashakila    0204 E6747AA-6    Ag                 803 Im 
+Gii           0206 C364620-8    Ag Ni              304 Im 
+Uran          0207 A98975A-F  N Ri                 602 Im 
+Luolilali     0210 C566375-8    Lo Ni              205 Im 
+Utenowhu      0302 A000545-C    Ni As              123 Im 
+Amam          0304 B646022-9  N Lo Ni              302 Im 
+Urlulimiim    0307 C549412-9    Ni                 312 Im 
+E             0309 B344541-A    Ag Ni              902 Im 
+Rakupii       0310 C686667-4  S Ag Ni Ri           104 Im 
+Fo            0402 E553359-5    Lo Ni Po           513 Im 
+Kakuwhi       0403 B544778-7    Ag                 214 Im 
+Kiida         0404 E100521-9    Ni Va              813 Im 
+Ukam          0406 C428532-B    Ni                 702 Im 
+Pomstedonn    0408 C332667-7    Na Ni Po           213 Im 
+Irke          0409 E463300-7    Lo Ni              512 Im 
+Omwyf         0410 B75968A-C  N Ni                 604 Im 
+Barimagu      0503 B88A140-9  A Lo Ni Wa           803 Im 
+Umokara       0505 D536884-3                       105 Im 
+Kuz           0507 B758766-6    Ag                 410 Im 
+Iiruda        0508 C858455-8  S Ni                 724 Im 
+Kievi         0602 A8A7586-B    Ni Fl              801 Im 
+Kuk           0603 C38055A-C    Ni De              224 Im 
+Uur           0604 D100410-6    Ni Va              301 Im 
+Thylif        0605 X33677A-4                    R  503 Im 
+E             0607 A364635-B    Ag Ni              622 Im 
+Shaam         0609 A736688-E  N Ni                 904 Im 
+Likimar       0702 C365510-5    Ag Ni              134 Va 
+Dika          0704 C46468D-7    Ag Ni Ri           503 Na 
+Errdougillo   0707 B563855-9    Ri                 913 Im 
+Aggiki        0801 E948100-7    Lo Ni              503 Na
+Lesham        0804 D895556-7    Ag Ni              214 Cs 
+Shakam        0806 A5869CA-C    Hi                 121 Im 
+Inungae       0808 B643743-7  S Po                 605 Im 
+Derbly        0809 B310467-C  S Ni                 113 Im 
+Hekklulkyg    0810 A974469-9    Ni                 310 Im 
+

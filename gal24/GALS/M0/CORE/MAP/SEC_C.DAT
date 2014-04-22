@@ -1,0 +1,42 @@
+@SUB-SECTOR: Ameros SECTOR: Core
+#
+# Trade routes within the subsector
+$2101 2040 0 -1
+$2101 2240 0 -1
+$2401 2540 1 -1
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Kama          1701 E99A456-6    Wa Lo              724 Im
+Iski Kuu      1702 E463000-0    Ba                 002 Ba
+Irkhiide      1703 C645300-A    Lo                 900 Im
+Erdi          1707 B6866AA-6    Ag Ni              400 Im
+Uunnagirluu   1708 B000443-9    As Lo              104 Im
+Kherip Ag     1710 E000000-0    As Ba              011 Ba
+Kind          1801 E451000-0    Po Ba              025 Ba
+Gamgiigela    1808 B1008B8-A    Na Va              623 Im
+Zaniin        1901 B694586-8    Ag Ni              700 Im
+Irbi          1902 B889000-0    Ba                 003 Ba
+Iiska Ashgi   1909 E433000-0    Po Ba              000 Ba
+Amur Isark    2006 B21078A-7    Na                 912 Im
+Khekaa        2008 A110120-C  N Lo                 505 Im
+Maashsha      2010 E8B7000-0    Fl Ba              005 Ba
+Khizuuuum     2101 A85A435-C    Lo Wa              303 Im
+Ravla         2102 B554210-7    Lo                 210 Im
+Inlun Ra      2103 D000300-9  S Lo Ni As           305 Im
+Nuudle        2104 C88487A-7    Ri                 902 Im
+Shiza         2105 C461867-A    Ri                 603 Im
+Andkag Pa     2203 E338000-0    Ba                 000 Ba
+Daash         2205 C538654-A    Ni                 823 Im
+Edirkisdii    2206 B444100-A    Lo                 113 Im
+Nimluin       2209 A476AA9-C  A Hi In              410 Im
+Gis           2210 D562464-3    Lo                 105 Im
+Erem Dash     2306 D645331-7    Lo                 703 Im
+Erkiim        2401 A52A111-B  N Lo Wa              103 Im
+Aaruu Zi      2403 B469325-8    Lo                 623 Im
+Gemi          2404 E400000-0    Va Ba              004 Ba
+Luunni Miu    2405 E576000-0    Ba                 013 Ba
+Lagaashin     2407 E767348-3    Lo                 910 Im
+Arnaki        2408 A20098C-C    Na In Hi Va        513 Im
+Uungip        2410 C000576-9    Ni As              912 Im

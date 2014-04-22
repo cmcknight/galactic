@@ -1,0 +1,50 @@
+@SUB-SECTOR: sec_H   SECTOR: gush
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Gurdadusu     2511 X736000-0    Ba                 003 --
+Andelech      2512 X336000-0    Ba                 004 --
+Masa          2513 X221000-0    Ba Po              000 --
+Rutkowski     2514 X637000-0    Ba                 003 --
+Royef         2517 E242202-8    Lo Ni Po           205 Wi
+Maru          2612 X8C5000-0    Fl Ba              024 --
+Nourm         2613 E647445-7    Lo Ni           B  102 Wi
+Upllor        2614 E3587B8-6    Ag                 420 Wi
+Erdousse      2615 X785567-2    Ag Ni           B  224 Wi
+Une           2617 X338000-0    Ba                 004 --
+Courtesy      2618 X647220-0    Lo Ni           B  104 Wi
+Guumishmak    2619 X334000-0    Ba                 014 --
+Akushis       2620 X000000-0    Ba As              004 --
+Kinshasa      2713 D868887-5  S                 B  512 Wi
+Bruyrkna      2715 X8B1000-0    Fl Ba              004 --
+Shakhamash    2716 X94A768-7    Wa              B  503 Wi
+Lallvi        2717 X58786B-4                    B  504 Wi
+Koinunmatie   2812 E466203-2    Lo Ni           B  404 Wi
+Lumu          2813 X553322-5    Lo Ni Po           403 Wi
+Tuuttka       2814 X87666B-3    Ag Ni           B  702 Wi
+Liigash       2815 X688873-4                    B  402 Wi
+Teklemos      2820 X89586B-5                    B  103 Wi
+Lohme         2912 X84816C-6    Lo Ni              401 Wi
+Twele         2914 X000000-0    Ba As              010 --
+Jasper        2915 X463553-6    Ni                 100 Wi
+Tinisutta     2916 X679400-6    Lo Ni              103 Wi
+Aran          2917 X242874-4    Ni Po              402 Wi
+Oneria        2919 E444100-7  S Lo Ni              400 Wi
+Mezregh       2920 X000000-0    Ba As              004 --
+Fuqui         3012 E7898B8-6                       214 Wi
+Amda          3013 X632000-0    Ba Po              000 --
+Vell          3014 X667644-6    Ag Ni           B  204 Wi
+Asylum        3015 X6B3000-0    Fl Ba              024 --
+Dartus        3016 X340475-5    Lo Ni Po De        124 Wi
+Kaagaarkha    3017 X835000-0    Ba                 003 --
+Sykell        3112 X210000-0    Ba                 010 --
+Alp           3116 X403000-0    Ba Va Ic           013 --
+Eskstant      3117 X9B7000-0    Fl Ba              003 --
+Koustorm      3118 X537000-0    Ba                 010 --
+Gudak         3211 X45776A-2    Ag              B  300 Wi
+Sktrassui'ia  3212 X26156C-0    Ni                 104 Wi
+Leut          3214 X310000-0    Ba                 000 --
+Salliatt      3217 D886010-6    Lo Ni              213 Wi
+Senlis        3218 X447567-5    Ag Ni              403 Wi
+Merchant      3219 X444315-5    Lo Ni              503 Wi

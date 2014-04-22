@@ -1,0 +1,11 @@
+# Star System / General Nature
+#
+# double systems involve two star systems in gravitational lock
+# each of the primaries is a far companion to the other
+single system: 80%
+double system: 20%
+# for each star system there are 1-3 stars at the hub
+single star: 75%
+double star: 20%
+triple star: 05%
+

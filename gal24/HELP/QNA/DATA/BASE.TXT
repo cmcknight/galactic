@@ -1,0 +1,31 @@
+
+[Q] In the gals\classic\spinmar\spinmar.dat file, the basic sector
+data file for the Spinward Marches sector of the Classic Traveller
+galaxy, you have the following:
+
+                    Bases:
+                    N = Navy
+                    S = Scout
+                    A = Navy & Scout
+                    B = Navy & Marine
+                    Z = Navy & Marine
+                    D = Navy & Marine
+                    M = Planetary Guard
+                    W = Way Station
+                      = None
+
+What does this mean?
+
+[A] This table simply defines the bases codes used by worlds within
+the subsector. Going to the gals\classic\spinmar\map\rhylanor.dat
+file, we see a whole subsector of worlds. Rhylanor, the capital,
+looks like this:
+
+  #PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+  #----------   ---- ---------  - --------------- -  --- -- --- -
+  Rhylanor      2716 A434934-F  A Hi Cp              810 Im     m
+                                ^
+
+As you can see, the Base Code is "A", meaning that Rhylanor has
+both a Naval and a Scout base.
+

@@ -1,0 +1,17 @@
+@dir=gals\gmc\newlands\loc\
+@Light Yellow
+
+          MCN-378290 System
+
+@Light Green
+   IMSC Navigation Notice
+@Red
+   *******WARNING*******
+@Light Green
+   PROHIBITED ACCESS ZONE
+   MCN-378290, Newlands 1315
+
+@Light Cyan
+      Public Data                  @p1315.txt
+      Classified Information       @p1315b.txt
+

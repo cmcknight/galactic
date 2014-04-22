@@ -1,0 +1,26 @@
+Fija  D553754-A
+
+          Size: Large : D=8000km                Atmosphere: Thin
+          Hydrographics: 30%                    Population: 70 million
+          Government: Feudal Technocracy        Law Level: Moderate
+          Tech Level: Early Stellar             Star port: Poor
+
+         The people of Fija crave order.  They are uncomfortable with things
+which do not follow detailed plans.  This enabled them to survive the Collapse
+without the patterns of mass riotings, martial law, and mass executions which 
+many worlds suffered under.  The people simply refused to fall under the sway
+of such chaos.  Fija was an original member of the Dawn League and 
+the earliest proponent for creating the Reformation Coalition.  
+Most residents feel that the RC has not gone far enough, too much is still left
+to chance.  Without careful planning, many efforts will be wasted and lives 
+will be thrown away for little gain.  If the Coalition would restructure 
+itself, it could apply precious resources for maximum gain. 
+        The governing of Fija is divided up into small bureaus each charged
+with a specific task.  Each bureau is run by a different group of technocrats.
+The bureaus come under review each ten years.  At this time any group can
+bid for control of the bureau.  The selection is decided by an impartial
+group of judges.  A great deal of political intrigue surrounds the 
+selection process.
+
+Lewis Roberts (lewis@chara.gsu.edu)
+

@@ -1,0 +1,28 @@
+@dir=gals\tne\alpha\map
+@Light Yellow
+Alpha Crucis Sector / Data Files
+
+@Light Cyan
+      Sector Data                  @..\alpha.dat
+      Credits                      @..\credits.txt
+      Known Stars                  @..\known.txt
+
+@Light Green
+      Subsector Data
+@Light Cyan
+       A: Lazzerton                 @sec_a.dat
+       B: McKenzie                  @sec_b.dat
+       C: Dagir                     @sec_c.dat
+       D: Alba                      @sec_d.dat
+       E: Orichalc                  @sec_e.dat
+       F: Auva                      @sec_f.dat
+       G: Orbdir                    @sec_g.dat
+       H: Fervore                   @sec_h.dat
+       I: Denebola                  @sec_i.dat
+       J: Veracruz                  @sec_j.dat
+       K: Vald                      @sec_k.dat
+       L: Addison                   @sec_l.dat
+       M: Ziusudra                  @sec_m.dat
+       N: Regulus                   @sec_n.dat
+       O: New Holland               @sec_o.dat
+       P: Galloway                  @sec_p.dat

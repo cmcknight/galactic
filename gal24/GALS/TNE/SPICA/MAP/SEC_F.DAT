@@ -1,0 +1,28 @@
+@SUB-SECTOR: sec_f   SECTOR: Spica
+# 
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Wargast       0913 X211000-0    Ba Ic              000 Un
+Devitrific    0914 E1505Q8-6    Ni Po De           410 Wi
+Juess         0917 X7405RF-3    Ni Po De        B  200 Wi
+Kashaharun    1014 E6889S5-2    Hi              B  110 Wi
+Tobken        1016 X100000-0    Ba Va              002 Un
+Stronghold    1017 X326000-0    Ba                 025 Un
+Issachar      1019 X301000-0    Ba Va Ic           010 Un
+Farihna       1020 D5522M3-3    Lo Ni Po           104 Wi
+Bevin         1111 X432000-0    Ba Po              014 Un
+Circassia     1116 X201000-0    Ba Va Ic           013 Un
+Rhiza         1120 X2643O1-3    Lo Ni Hp           500 Wi
+Holy Place    1211 D6A52N5-5    Fl Lo Ni Nh        503 Wi
+Hale          1212 D7968S9-6                    B  800 Wi
+Talmud        1216 E3461Q3-6    Lo Ni Hp           410 Wi
+Lupine        1219 E2413N0-5    Lo Ni Po           514 Wi
+Sephor        1311 X4443Q5-6    Lo Ni Hp           102 Wi
+Lucullan      1318 X7975S5-4    Ag Ni              100 Wi
+Quatre        1319 B5439I6-6    Hi In Po Hp     A  314 Hv
+Distal        1416 C2412O5-5    Lo Ni Po           320 Wi
+Duomo         1417 X532000-0    Ba Po              003 Un
+Sabbatha      1517 X7455R8-3    Ag Ni           B  100 Wi
+Diva          1519 E598403-6    Lo Ni              814 Hv

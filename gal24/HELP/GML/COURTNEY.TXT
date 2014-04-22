@@ -1,0 +1,88 @@
+From: Jim Vassilakos <jimv>
+Subject: GAL: Yakkin' w/ Courtney
+Date: Tue, 7 Jan 1997 23:54:53 -0800 (PST)
+
+Just to let you folks know, there is a remote possibility that we
+might actually be able to get Galactic distributed by the folks at
+Sweetpea. It's very much a long-shot, but with Courtney scrambling
+to engender good customer-relations, it's not out of the question.
+Here is some recent correspondence which I haven't yet followed up
+on. Opinions regarding how we should proceed would be most welcome.
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+
+From: Jim Vassilakos
+Sent: Saturday, December 14, 1996 11:29 PM
+To: Courtney Solomon
+Subject: Traveller software offer
+
+Hiya. Joe Walsh (of the Traveller Mailing List) said I should talk
+to you about this, so here goes:
+
+For the past year or so, I've been working on a software package
+called "Galactic" which does starmaps for the Traveller RPG. I
+made this package freely available over the Internet and
+received very positive feedback from both people on Usenet and
+from the mailing list. Here is a short bio of the current
+version of the program:
+
+        PROGRAM NAME: "GALACTIC" [v2.1] {August 1996}
+        GAME SYSTEM: Traveller/MegaTraveller
+        AUTHOR: Jim Vassilakos  (jimv@empirenet.com)
+        FUNCTION: Sector Viewer/Generator
+        OPERATING SYSTEM: IBM (MS-DOS)
+        COMMENTS: Allows user to randomly generate sectors,
+	      displays the maps in VGA, translates the UWP code
+	      to English, and keeps campaign notes in text files
+	      which can be accessed directly from the map. The
+	      maps all mesh seemlessly. Thirteen Classic
+	      Traveller sectors are included complete with jump
+	      routes as well as another without. Several world
+	      descriptions by various Traveller Mailing List
+	      members also also included. Contains enough online
+	      help that it can be used by someone who has never
+	      before played Traveller and is just getting into
+	      it. Note, you must use "-d" option when unzipping:
+              >>>>>>>>    pkunzip -d gal21.zip    <<<<<<<<
+        AVAILABLE: http://www.cs.ucr.edu/~jimv
+        ftp://ftp.funet.fi/pub/doc/games/roleplay/programs/mapping/gal21.zip
+        ftp://ftp.cs.pdx.edu/pub/frp/util/gal21.zip
+
+I'm currently working on version 2.2, incorporating contributions
+from several of the list members, and I was wondering if you guys
+would like to include ver 2.2 with the Traveller Atlas book due to
+be coming out whenever. I am not asking for any money for this, and
+I'm practically certain that I could secure statements of permission
+to publish from all the people who have contributed material to the
+program. The only thing is that I doubt any of them would surrender
+their rights to future use of their contributions (what you'd get,
+I imagine, is free one-time distribution rights), and I would want
+the program itself to remain in the Public Domain (complete with
+source). Anyway, please let me know if you are interested. I live
+in San Bernardino, which isn't too far from your headquarters. I
+could schedule to meet with you if you want to discuss things
+further or need a demonstration of the program. Even if you don't
+think it's feasible to include actual diskettes with the atlas,
+it might be nice to just provide the URL for the program somewhere
+in the atlas so as to give the consumer some added value if they
+have net-access. Just some ideas for you to consider. Please
+contact me if you're interested.
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+
+Date: Sun, 22 Dec 96 03:31:11 UT
+From: Courtney Solomon <Sweetpea10@msn.com>
+To: Jim Vassilakos <jimv@empirenet.com>
+Subject: RE: Traveller software offer
+
+Dear Jim,
+
+Thanks for your E-mail.  We will have a look at your letter over the holidays 
+and we will get back to you after the first of the year.  Thanks again.
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+
+[The follow-up produced only a polite brush-off. I'm assuming as of
+now that they don't want to distribute the program, but the offer
+(at least on my part) is still open. Comments welcome.]
+

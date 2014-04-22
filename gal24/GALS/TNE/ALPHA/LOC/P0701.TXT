@@ -1,0 +1,32 @@
+
+Kazan           X4415R9-0 Po Ni         (1201)
+                C441748-B Po            (1110)
+
+Starport: None                          Size: Small (5600-7200 km)
+Atmosphere: Thin, tainted               Hydrographics: 10% water
+Population: 500,000                     Govt: TED
+Law Level: High                         Technology: None/Primitive
+
+Pre-Collapse Population: 10 million     Pre-Collapse TL: Average Stellar
+Objective Classification: IIIb
+
+        Previously a refuelling stop for traders along the Antraillian
+Main, Kazan lost over 95% of its population in a Vampire raid which
+literally bombed it back into the stone age. Kazan quickly degenerated
+into chaos and lawlessness as the remaining people struggled desperately
+to survive. Eventually, the dictator Samark managed to restore order 
+and began the arduous task of rebuilding a technological society. However,
+upon his death rival lieutenants struggled for power, plunging Kazan back 
+into chaos again and destroying all that Samark had struggled for. The
+planet was only reunited again in 1189, by one of the great dictator's many
+grandsons. Unfortunately, the new ruler is more in the mold of a classic
+TED than his illustrious forebear, using his superior TL-5 weaponry to 
+maintain his power over the struggling peasants.
+
+KAZAN GOVERNMENT VALUES:
+        Corruption:             Moderate
+        Talent:                 Low
+        Cruelty:                High
+        Aggression:             Moderate
+        Paranoia/Xenophobia:    Moderate
+

@@ -1,0 +1,41 @@
+If I recall correctly, Idiot/Savant <idiot@sans.vuw.ac.nz>
+sent me this version of the Core Sector, not necessarily
+for inclusion into Galactic, but just for advice on how
+to fix some things that were going wrong with it. I went
+ahead and included it even though it's far from being in
+a finished state. -jimv
+
+Jo Grant, jaymin@maths.tcd.ie merged in the names from
+T4's First Survey.
+
+Date: Mon, 16 Mar 1998 18:07:30 -0500
+From: "Commander X (aka Arcanus)" <cmdrx@magicnet.net>
+Subject: Year 0 Core sector now available
+
+A side project I've been working on.  I have input core sector from M:0
+into a Gal2.3 file. 
+
+Implemented in the data are:
+Volker's Core Sector Corrections
+Some personal corrections based on CT Core sector Data
+Chanestin Kingdom and Interstellar Confederacy worlds hilighted
+Sylean Federation Worlds hilighted, data from CT used
+Santry and Cordova placed using Jo Grant's TML suggeestions.
+Barren Worlds hilighted in grey, and are not included in any polity
+Barren worlds which had a Scout base upgraded to D clss starport, given
+1d3 population and 1d6 pop multi. Scout bases are only present on world
+with type 'D' or better starports according to the rules.
+
+The worlds selected for the CK and IC are based on worlds mentioned by
+Volker, which in turn were refrenced from Traveller Digests, and by the
+M:0 information.  The Ck had up to 25 worlds, the IC 32.  Most worlds
+follow a main.  Barren worlds were not included.
+
+In all a rather decent sector.  And its a compatible Gal2.3 directory.
+
+Go to my new FTP site.  http://www.magicnet.net/~cmdrx/ftp  the file is
+year0.zip.  Download and unzip it. place the year0 directory in your
+Gal2.3 directory.  You will have to edit the gal.lst file to include the
+year0 directory.  Once thats done, you have the whole of core sector
+ready for play.
+

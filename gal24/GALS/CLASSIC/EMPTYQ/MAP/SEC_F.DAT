@@ -1,0 +1,27 @@
+@SUB-SECTOR: sec_F   SECTOR: emptyq
+#
+# Trade routes within the subsector
+#
+$1211 1411 0 0
+$1411 1608 0 -1
+$1211 0813 -1 0
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Kaa Eshiisagii0912 A333331-B    Lo Ni Po        A  711 Jr
+Chalcis       1013 D353569-4    Ni Po O:0912       103 Jr
+Urusi         1211 B697154-8    Lo Ni              911 Jr
+Nidakha       1213 C7B0575-9    De Ni           A  511 Na
+Nalaki        1214 B69988A-7                    A  801 Na
+Mishiguggekhi 1311 CAB0899-8    De                 611 Na
+OUTPOST       1315 E869987-8    Hi                 905 Jr
+TOKITRE       1411 B780953-8  N De Hi              203 Cs
+St. Dimurra   1413 E242110-3    Lo Ni Po        A  800 Na
+Enaniirshad   1415 B8B0430-D    Lo Ni De           513 Cs
+Dipkusulimir  1515 E626334-8    Lo Ni              901 Na
+Pons Aelius   1520 C748355-8    Lo Ni              322 Na
+Guarda        1611 D530122-7    De Lo Ni Po        403 Cs
+Smaointe      1616 D99A586-6    Ni Wa              502 Na
+Togo          1619 A000898-B    As Na              610 Na
+

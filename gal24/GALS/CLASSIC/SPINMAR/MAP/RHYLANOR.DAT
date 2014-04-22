@@ -1,0 +1,48 @@
+@SUB-SECTOR: Rhylanor  SECTOR: Spinward Marches
+#
+# Trade routes within the subsector
+$2712 2510 0 -1
+$2712 2814 0 0
+$2716 2913 0 0
+$2913 3212 0 0
+$3212 0302 1 0
+$2913 3010 0 -1
+$2716 2417 -1 0
+$2520 2418 -1 0
+$2520 2621 0 1
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Kinorb        2512 C449433-9    Ni                 502 Im
+Gileden       2514 C483103-6    Lo Ni              203 Im     f
+Plannet       2519 E9C5677-7    Ni Fl              224 Im
+Garrincski    2520 B632520-7  S Ni Po              410 Im
+Macene        2612 B000453-E  N Ni As              911 Im     f
+Fulacin       2613 A674210-D    Lo Ni              810 Im
+Natoko        2620 C8879AB-9    Hi                 204 Im
+Risek         2712 A325579-A  N Ni                 401 Im
+Porozlo       2715 A867A74-B    Hi                 201 Im
+Rhylanor      2716 A434934-F  A Hi Cp              810 Im
+Loneseda      2720 C86A215-7    Lo Ni Wa           705 Im
+Valhalla      2811 E365432-5    Ni                 622 Im
+Zivije        2812 C6B199C-B    Hi Fl           A  421 Im
+Jae Tellona   2814 A560565-8  N Ni De              913 Im
+Gerome        2818 X573000-0    Lo Ni Ba        R  701 Im
+Henoz         2912 A245543-B    C0 Ag Ni           824 Im
+Celepina      2913 B434456-9  A Ni                 201 Im
+Gitosy        2918 B000676-9    Na Ni As           620 Im
+Belizo        3015 B895646-5    Ag Ni              923 Im
+Kegena        3016 E869569-3    Ni              A  224 Im
+Heroni        3017 E7A0614-3    Ni De              820 Im
+457-973       3019 X372215-4    Lo Ni           R  534 Im
+Somem         3020 C301340-B    Lo Ni Va Ic        201 Im
+Vinorian      3111 B879610-9    Ni                 610 Im
+Nutema        3112 B864310-8  N Lo Ni              822 Im
+Huderu        3114 X575000-0    Lo Ni Ba        R  920 Im
+Cipatwe       3118 B35879A-6    Ag                 623 Im
+Vanejen       3119 C686854-5    C4 Ri              520 Im
+Margesi       3212 A576257-C  A Lo Ni              920 Im
+Bevy          3216 D4209CC-A  S Hi Na In Po De     224 Im
+Tacaxeb       3218 C230411-B    Ni Po De           801 Im
+Powaza        3220 C787566-5    Ag Ni              332 Im

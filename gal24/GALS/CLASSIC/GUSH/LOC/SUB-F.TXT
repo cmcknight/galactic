@@ -1,0 +1,100 @@
+
+    HIWG
+
+    HIWG Document #:  HD3415  revision 1               Date: 17-11-1992
+
+    From:     Leighton Piper
+              11 Skeffington Rd.
+              Preston
+              LANCS, PR1 5UP.
+
+    To:       David Burden, Gushemege Sector Analyst
+              J. Duncan Law-Green, Vland Domain Editor
+              Kevin Parry, HIWG UK
+              Clayton R. Bush, Quadrant 1 Editor
+
+    Subject : Rure subsector
+
+    Abstract: Basic system information on Rure subsector (Gushemege F)
+
+
+
+    RURE SUBSECTOR
+
+    This subsector holds the sector capital  Usdiki (1015) and was moved to
+    its  present site  following an  abortive rebellion  against Paulo I in
+    760.  Usdiki  also  holds  the  centre  (not  astrographically)  of the
+    Rurevayn sub-culture although not officially recognised as being within
+    the Rurevayn boundaries (and  usually associated with the Archipelago).
+    The  original  name  of  Usdiki  was  Rure,  hence  the subsector name.
+    Following a popular uprising in 421  (riding on the back of the Ilelish
+    Revolt  in  Truax  and  Laeth  in  420)  the  name  was changed and the
+    administrative  capital switched  to Munnarn  (1013) in  an attempt  to
+    dilute  the Rurevaynese  will. This  earlier short-lived  rebellion had
+    followed several previous attempts at  gaining independence for a large
+    cluster  of   solomani-colonised  worlds  bordering  F,   G,  J  and  K
+    subsectors. Usdiki  is the home  of the subsector  Duke as well  as the
+    Vacational fief of the Emperor Strephon.
+
+    The  population  of  Munnarn  is  almost  exclusively composed of civil
+    servants  and   naval  personnel  -  the   naval  base  was  originally
+    established   to   enforce   Imperial   rule   at   the   time  of  the
+    pro-independence  uprisings in  Rure. The  current naval  presence (the
+    8184th  cruiser  squadron  of  the  231st  Penetration  Fleet)  is  now
+    concerned  with  dissauding  Ilelish  encroachments  into  the  core of
+    Gushemege as  well as forestalling any  further unilateral declarations
+    of independence by the Rurevaynese worlds.
+
+    In  recent times,  the systems  of Rurevayn  and of  Rure subsector  in
+    particular have  taken a leading  role in the  development of cyberware
+    and the biotech  industries. Much of the original  base technology came
+    from  Lancia, which  has had  close economic  and industrial  ties with
+    Rurevayn. Unfortunately the subsector government has failed to halt the
+    growth  of an  extensive black  market in  cyberware systems. There has
+    been an alarming spread of this sensitive and controversial technology.
+
+    Divkar  (1518)  is  the  home   of  the  Traypih,  a  semi-intelligent,
+    squid-like race of amphibians. They are  found in the shallow and warm,
+    lagoon-like equatorial seas of the world. The Traypih are currently the
+    subject of an extensive survey by a resident scout team.
+
+    The system  of Lanaas (1414)  has seen recent  conflict associated with
+    the Rebellion.  Remnants of an  Ilelish squadron apparently  mis-jumped
+    into the system.  Elements of the local defense  fleets intercepted the
+    squadron,  destroying  one  vessel  and  capturing  another  before the
+    Ilelish ships could refuel, regroup  and jump out-system. Their fate is
+    unknown.
+
+    Name          Hex  UWP        B Remarks        Z  PBG Al Stell.Data
+
+    Gakhamesh     0912 C683623-A    Ni                100 Im M7III
+    Chulesh       0914 C575666-6    Ag Ni          A  213 Im K4V M9D
+    Drayrk        0920 B150578-C    Ni Po De          403 Im M4V M0D
+    Munnarn       1013 A410553-F  N Ni Cp             802 Im M3V M5D
+    USDIKI        1015 A6649EF-F    Hi Cs             813 Im K0V M8D
+    Toraago       1018 D244412-A  S Ni                700 Im M0V M3D
+    Lishuggi      1019 A565640-A  N Ag Ni Ri          814 Im M0V M2D
+    Shir          1020 A100656-F    Na Ni Va          304 Im M4V
+    Heffone       1118 B333578-C    D6 Ni Po          700 Im K5III
+    Aintri        1119 B637653-D    Ni                914 Im M3V M6D
+    Vlu'da'rin    1120 E504567-8    Ni Va Ic          604 Im M5D M2D M8D
+    Ushamdidishar 1213 B8D06A9-C N  Ni De             625 Im M1III
+    Chansingol    1319 B570697-9 N  Ni De             312 Im K3V
+    Platon        1412 A83A468-G W  Ni Wa             820 Im M3V
+    Lanaas        1414 B9A9453-F A  Ni Fl             904 Im K0V
+    Guzrin        1417 C836275-7    Lo Ni             925 Im K8V
+    Gagushilaag   1512 B471534-C    Ni                302 Im G1V
+    Divkar        1518 D382566-6 S  Ni                114 Im M3V
+    Higli         1519 C5618C7-8                      200 Im M3V M7D
+    Mentule       1520 A651898-D    Po                103 Im K4II M1D
+    Booce         1612 D899476-7 S  Ni                500 Im M2V
+    Lendaarii     1613 E7A8475-5    Ni Fl             702 Im A4V
+    Abir          1615 B445668-8 S  Ag Ni             503 Im F0V
+    IMAPARLU      1616 B5569A7-A N  Hi                304 Im G1V
+    Gabradio      1618 A610756-D    Na                135 Im M0V M7D
+    Engellent     1619 C150853-D    Po De             121 Im K9VI
+    Kerek         1620 B000651-C    Na Ni As          803 Im G5III M8D
+
+    Highest Population  = 9, Kamurinmur (8.74  billion), and Imaparlu (3.24
+    billiion);  Highest tech  level =  G, Platon;  Total population = 12.66
+    billion.

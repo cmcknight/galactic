@@ -1,0 +1,3 @@
+This circa 1120 Spica data was created by Leroy Guatney
+(lwlguatn@ouray.cudenver.edu). It was later converted to
+Galactic format by Lewis Roberts (lewis@chara.gsu.edu).

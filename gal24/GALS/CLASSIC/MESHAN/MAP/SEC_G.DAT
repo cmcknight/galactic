@@ -1,0 +1,32 @@
+@SUB-SECTOR: sec_G   SECTOR: meshan
+#
+# Trade routes within the subsector
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Siisharemmir  1712 C55A653-A  C Ni Wa              424 V5
+Uerrsegha     1714 C557469-5  G Ni                 823 V5
+Omoysheb      1716 C887546-4    Ag Ni C3           800 V5
+Daslon        1812 E5479CA-7    Hi In              403 V5
+Uekhuvur      1814 C779150-8  C Lo Ni              624 V5
+Kakagshu      1815 E667302-3  C Lo Ni              623 V5
+Aetna         1819 B8DA334-B    Fl Lo Ni Wa        604 V5
+Uguza         1911 C2009DB-9    Hi Na Va           410 V5
+Highball      1916 D7746A9-3    Ag Ni              102 V5
+Egzing        1919 C699889-5  G                    813 V5
+Ueksek        2019 C300000-8  G Ba Lo Ni Va        024 V5
+Knugogh       2112 E67A8DD-4  C Wa                 434 V5
+Serkur        2114 X364983-4  C Hi                 722 V5
+Ugolakhs      2116 B799599-7  G Ni                 404 V5
+Thaellarrgh   2117 C987553-7  C Ag Ni              513 V5
+Kugod         2118 C964AFG-B    Hi                 122 V5
+Khuerkfan     2119 E976598-5  C Ag Ni              402 V5
+Tutag         2213 C6669BA-9  C Hi                 304 V5
+Uenglelon     2219 C644777-3  C Ag                 512 V5
+Egellaekh     2312 C353112-8    Lo Ni Po           420 V5
+Galam         2313 D000558-A    As Ni              922 V5
+Vakugo        2317 A522986-B  G Hi In Na Po Cp     200 V5
+Odh Zizats    2318 C77569C-3  H Ag Ni              313 V5
+Ogngaks       2319 C546400-8  G Ni                 720 V5
+Ironside      2418 D78A438-5    Ni Wa              824 V5

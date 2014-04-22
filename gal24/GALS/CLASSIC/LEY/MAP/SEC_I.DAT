@@ -1,0 +1,58 @@
+@SUB-SECTOR: sec_i   SECTOR: ley
+#
+#Jump Routes
+$0221 0320 0 -1
+$0221 0223 0 0
+$0223 0423 0 0
+$0223 0226 0 0
+$0226 0428 0 0
+$0229 0330 0 0
+$0330 0231 0 1
+$0330 0428 0 0
+$0330 0529 0 0
+$0423 0624 0 0
+$0428 0529 0 0
+$0529 0827 0 0
+$0529 0530 0 0
+$0530 0730 0 0
+$0621 0721 0 0
+$0621 0723 0 0
+$0624 0724 0 0
+$0624 0625 0 0
+$0721 0520 0 -1
+$0721 1019 1 -1
+$0721 0723 0 0
+$0723 0724 0 0
+$0827 1027 1 0
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Winnasin      0122 D8AA211-7    Ni                 800 Im
+Serift        0127 D310421-8    Ni                 101 Im
+Towermorn     0221 A100AA9-C    In                 501 Im
+Temperis      0223 C576737-7    Ag                 700 Im
+Berthel       0226 B755778-8    Ag                 800 Im
+Gravemark     0229 B677AA9-A    In                 401 Im
+Thirdof       0322 XACA000-0    Ba                 001 Im
+Vilhelm       0325 E623488-8    Ni                 300 Im
+Aron          0326 X120100-0    Lo                 601 Im
+Anselm        0329 X8CA000-0    Ba                 000 Im
+Havelock      0330 B684863-9    Ri                 301 Im
+Obeliskcol    0422 E422110-0    Lo                 300 Im
+Persifaris    0423 C858967-C                       301 Im
+Langhorne     0428 B685734-9    Ag                 400 Im
+Irial         0521 D9CA520-A    Ni                 501 Im
+Vermillion    0525 X9AA000-0    Ba                 000 Im
+Warlock       0529 A767986-C  N Ca                 400 Im
+Weirdrath     0530 D6675A7-6    Ag                 401 Im
+Eamonash      0621 CA86424-A    Ni                 200 Im
+Onud          0624 B856AA9-A                       800 Im
+Agidius       0625 C968845-9                       900 Im
+Carsten       0629 X430000-0    Ba                 000 Im
+Woart         0721 B696969-B    In                 701 Im
+Falkiner      0723 D588641-7    Ri                 100 Im
+Elswyth       0724 C758768-9    Ag                 901 Im
+Goldsnake     0730 D866522-9    Ag                 300 Im
+Egonar        0825 DAAA310-A    Ni                 801 Im
+Frisking      0827 B89A979-B  S In                 401 Im

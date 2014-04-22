@@ -1,0 +1,59 @@
+@SUB-SECTOR: Petrula SECTOR: Gythios Sector
+#
+# Jump-routes
+$0311 0209 0 -1
+$0511 0409 0 -1
+$0517 0616 0 0
+$0811 0809 0 -1
+$0812 0810 0 -1
+$0218 0220 0 0
+$0218 0317 0 0
+$0220 0121 0 1
+$0220 0123 0 1
+$0220 0323 0 1
+$0317 0418 0 0
+$0418 0517 0 0
+$0418 0620 0 0
+$0616 0918 1 0
+$0620 0720 0 0
+$0713 0812 0 0
+$0720 0723 0 1
+$0811 0911 1 0
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Torial        0112 BADA363-9    Lo Wa              204 Im 0C0
+Melchizidek   0117 D776655-7  S Ag                 104 Im 291
+Symon         0118 X340000-0    Ba De Lo           010 Im 000
+Graves        0120 X242000-0    Ba Lo              010 Im 320
+Ravisher      0214 C423323-8  S Lo                 713 Im C50
+Pyrle         0215 X243000-0    Ba Lo              021 Im 310
+Walden        0218 B9D7200-7  N Lo                 923 Im 190
+Akio          0220 A765A6A-D    Hi                 905 Im B8C
+Reyes         0311 A552A77-F    Hi                 803 Im 740
+Ritter        0312 X000000-0    As Ba Lo           004 Im 000
+Petrula       0317 A782659-9  S                    113 Im 195
+Adair         0318 B544746-5  N Ag                 500 Im 4A1
+Mesozoic      0418 A364AAC-G    Hi                 503 Im 86Y
+Sydney        0420 X250000-0    Ba De Lo           013 Im 000
+Midkemia      0511 A655ADB-8    Hi                 902 Im 39J
+Laurence      0512 D52A473-A    Wa                 203 Im 270
+Cormach       0513 E120100-9    De Lo              700 Im 700
+Baltic        0516 C442221-6    Lo                 404 Im 230
+Peppi         0517 B560314-8  2 De Lo              704 Im 330
+Unix          0611 X110000-0    Ba Lo              023 Im 000
+Terencio      0612 D260757-5  S De                 123 Im 030
+Russo         0616 A898697-B  N Ag                 804 Im 0A5
+Userbe        0620 B629875-C  2                    825 Im 19E
+Moonfriend    0712 X300000-0    Ba Lo Va           004 Im 040
+Howm          0713 B555644-7  N Ag                 403 Im 291
+Burch         0714 E688530-5    Ag                 714 Im 620
+Rockford      0718 D557261-4    Lo                 612 Im 010
+Shinto        0719 C555420-7  S                    804 Im 260
+Scranton      0720 A789620-C    Ag                 915 Im 0A5
+Kletus        0811 A656A76-G    Hi                 903 Im 19R
+Grady         0812 A443866-9                       203 Im 25V
+Angelika      0815 C435543-9  S                    312 Im 76P
+Camelthorp    0818 C526312-8    Lo                 704 Im 140
+Aitken        0819 D667988-7  S Hi                 813 Im 25I

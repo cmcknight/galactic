@@ -1,0 +1,45 @@
+@SUB-SECTOR: sec_J   SECTOR: sorted
+#
+# Trade routes within the subsector
+$0921 0919 0 -1
+$0921 1222 0 0
+$1222 1320 0 -1
+$1222 1523 0 0
+$1523 1822 1 0
+$1523 1526 0 0
+$1526 1827 1 0
+$1222 1224 0 0
+$1224 1127 0 0
+$1127 0929 0 0
+$1127 1429 0 0
+$1429 1533 0 1
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Oudh          0921 A341669-D    Ni Po              622 Im
+Ishmael       0922 C232310-B    Lo Ni Po           723 Im
+Sebasta       0923 A666ABD-F    Hi                 920 Im
+Alsatia       0924 E53216D-F    Lo Ni Po           920 Im
+Ishumled      0926 C577634-9    Ag Ni              211 Im
+Langelos      0929 A3249A6-F  N Hi In              505 Im
+Herakles      1022 B535769-D                    A  811 Im
+Fomalhaut     1024 B8C8469-F    Ni Fl           A  802 Im
+Khulampu      1026 B9A7869-C    Fl                 422 Im
+Gashidda      1127 A36A969-E  N Hi Wa           A  923 Im
+Ishkur        1129 A562997-D    Hi                 613 Im
+Dingir        1222 AA89A98-F  B Hi                 105 Im
+Kinunir       1224 B532799-C    Na Po Cp           105 Im
+Shulgi        1324 B512855-C    Na Ic              303 Im
+Shilgiili     1326 A67A945-E    Hi In Wa           902 Im
+Enki Kalamma  1327 C200365-E    Lo Ni Va           613 Im
+Karkhar       1424 B675769-D    Ag                 913 Im
+Shuruppak     1427 A000769-9    Na As              833 Im
+Iilike        1429 A455969-F  N Hi                 424 Im
+Altair        1522 X000000-0    Lo Ni As Ba     R  420 Im
+Zaggisi       1523 A79998C-E    Hi In              401 Im
+Meshan        1526 A4359CF-E  N Hi                 801 Im
+Markhashi     1529 A3018CB-D    Na Va Ic        A  705 Im
+Shulimik      1530 A783969-E    Hi                 502 Im
+Apishal       1622 B633641-C    Na Ni Po           824 Im
+Sirius        1629 A000769-E    Na As           A  200 Im

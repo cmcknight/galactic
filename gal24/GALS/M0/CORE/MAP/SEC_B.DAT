@@ -1,0 +1,39 @@
+@SUB-SECTOR: Perite SECTOR: Core
+#
+# Trade routes within the subsector
+$0901 1037 0 -1
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Dis           0903 E000000-0    As Ba              013 Ba
+Shazeku       0905 B553ADB-A    Hi Po              100 Im
+Muumuu        0906 C7766AE-9    Ag Ni              402 Im
+Gish          0907 C778734-6    Ag                 230 Im
+Gisid         0910 E567000-0    Ba                 005 Ba
+Mishaar       1002 B140544-C    Ni Po De           420 Im
+Uusla         1008 C302422-B    Lo Va Ic           704 Im
+Luumiiliiplen 1009 B536433-9    Lo                 313 Im
+Kiimi Di      1101 E120000-0    Po De Ba           002 Ba
+Gipirkash     1102 C594120-8    Lo                 124 Im
+Rae           1104 E580543-3    Ni De              923 Im
+Uurruu E      1108 B7657AA-7    Ag                 414 Im
+Uuruun Kuu    1109 E987000-0    Ba                 014 Ba
+Kargi         1202 C569412-9    Lo                 805 Im
+Limashimii    1204 E447000-0    Ba                 002 Ba
+Miilapkhas    1205 B590476-7    De Lo              404 Im
+Uumaad Nurir  1302 E778000-0    Ba                 004 Ba
+Ashduuma      1307 C88A6AB-8    Ni Wa              310 Im
+Akpussagna    1308 D557200-5  S Lo Ni              604 Im
+Uuniluu       1309 B94A564-9    Ni Wa              401 Im
+Gag           1403 E896000-0    Ba                 021 Ba
+Imguu         1407 B200499-9    Lo Va              820 Im
+Uurgin        1410 C210596-7    Ni                 903 Li
+Zepdind Ir    1503 C5368A6-5                       104 Im
+Kuum          1505 C667100-6    Lo                 414 Im
+Kakaaguur     1506 E486000-0    Ba                 004 Ba
+Asmi          1508 D697223-3    Lo                 500 Im
+Kinuu         1510 E110369-7    Lo                 503 Im
+Giiar E       1605 B446241-A    Lo                 300 Im
+Sirma         1609 C2249A8-A    Hi In              502 Im
+Nagan         1610 C645145-9    Lo                 103 Im

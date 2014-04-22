@@ -1,0 +1,53 @@
+@SUB-SECTOR: sec_n   SECTOR: glimdrft
+#
+#Jump Routes
+$0935 1134 0 0
+$0935 0936 0 0
+$1134 1135 0 0
+$1134 1335 0 0
+$1331 1229 0 -1
+$1331 1430 0 -1
+$1331 1333 0 0
+$1333 1434 0 0
+$1335 1434 0 0
+$1434 1534 0 0
+$1434 1536 0 0
+$1534 1633 0 0
+$1536 1537 0 0
+$1537 1736 1 0
+$1633 1733 1 0
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Gorizia       0931 C000894-9    As                 401 Kx
+Fuime         0932 E100421-9                       401 Kx
+Kali          0935 A222963-8    In                 201 Za
+Ko Hu         0936 BABA511-8    Wa                 600 Za
+Carla         0940 C000755-B    As                 901 In
+Maceio        1035 C897775-9    Ag                 301 Za
+Madidi        1036 E1209C9-8    In                 601 Za
+Keewat        1133 X230AB9-8    In                 101 Za
+Chutes        1134 AAC5751-9                       800 Za
+Schneider     1135 B000443-A    As                 101 Za
+Prospect      1137 C130A77-9    In                 801 Za
+Skagway       1231 D200555-9    Ni                 901 Za
+Rhin          1235 EAA1144-C    Ni                 501 Za
+Zipple        1238 E948AD9-B                       200 Za
+Bethguerra    1331 A000677-A    As                 701 Za
+Sivash        1333 B100674-B    Na                 801 Za
+Hyde          1335 A665966-E                       800 Za
+Suddengrave   1338 D210AA6-9    In                 301 Za
+Szolnok       1339 EAB2111-8    Ni                 700 Za
+Taor          1431 X000226-A    As                 100 Za
+Liberty       1434 A1106B9-D    Na                 801 Za
+Sheboygan     1435 B220132-D    Ni                 501 Za
+Trebic        1438 CAC9466-9    Ni                 900 Za
+Pasak         1532 D000110-A    As                 401 Za
+Swift         1533 DA5AAA7-A    Wa                 900 Za
+Cheetah       1534 X120400-C    Ni                 901 Za
+Vale          1536 C657594-A    Ag                 800 Za
+Yamdrok       1537 B787879-B    Ag                 501 Za
+Treslin       1538 E654554-9    Ag                 901 Za
+Joes Hermtage 1633 C432321-6    Ni                 301 Za
+Lecht         1638 E543100-7    Ni                 500 Za

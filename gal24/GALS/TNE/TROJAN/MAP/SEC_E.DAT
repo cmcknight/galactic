@@ -1,0 +1,29 @@
+@SUB-SECTOR: sec_E   SECTOR: trojan
+#
+# Trade routes within the subsector
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Daruf         0116 D340308-5    Lo Ni Po De     R  413 Fl
+Bolsush       0119 D485741-9    Ag Ri              211 Fl
+Floria        0213 A467942-F  F Hi An              804 Fl     f
+Vorn          0218 E611650-9    Na Ni Ic           613 Fl
+Thrush        0220 A2364L6-D    Lo Ni              112 A7
+Insec         0317 A121642-F  F Na Ni Po           103 Fl
+Fissolon      0318 E69A742-A    D:2 Wa             105 Fl
+Kabal         0319 B387147-C  F Lo Ni              714 Fl
+Kimmen        0320 E7C0264-9    Lo Ni De O:0319    801 As
+Tibolt        0415 C575833-9                       100 Fl
+Lucind        0416 B860642-9    Ni Ri De           902 Fl
+Picard        0417 D679646-A    Ni Tp              602 Fl
+Tefsi         0418 BA94449-B  F Lo Ni              315 Fl
+Garnl         0516 E884940-9    Hi Tp St           904 Fl
+Boronu        0614 B966741-B    Ag Ri Tn Re        102 Fl
+Ilnest        0616 B686447-B  F Lo Ni Tp           103 Fl
+Zimt          0713 C147545-A    Ag Ni              413 Fl
+Forandin      0716 AA89746-9  F Ri                 112 Fl
+Odin          0811 B20149B-A    Lo Ni Va Ic        704 Na
+Thor          0813 D669577-5    Ni Tp           B  902 Na
+Yggdrasil     0815 B3507BA-A  J Po De              410 Na
+Sif           0820 A7658M9-9    Ri Tn St           212 As

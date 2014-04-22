@@ -1,0 +1,46 @@
+@SUB-SECTOR: Dunea SECTOR: Core
+#
+# Trade routes within the subsector
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+.             1732 B758454-B    Ni                 504 Li 
+.             1733 B865400-B    Ni                 314 Li 
+.             1736 B420853-F  N Na Po De           600 Li 
+.             1737 B374476-A    Ni              A  600 Li
+.             1738 C8A6203-A    Lo Ni Fl           213 Li 
+.             1739 B6A6764-C    Fl                 612 Li 
+.             1831 C663410-6  S Ni                 225 Li 
+.             1833 D464874-9    Ri                 204 Li
+Khea          1836 B340955-F    Hi In Po De        303 Li 
+.             1837 BA9A201-F  N Lo Ni Wa           700 Li
+.             1838 D989620-7  S Ni                 603 Li
+.             1839 B782455-A  S Ni                 301 Li 
+.             1840 E7437BC-5    Po                 200 Li 
+.             1933 B599775-D                       604 Li 
+.             1934 B886879-7  N Ri                 300 Li 
+Keshi         1938 B5669D8-8    Hi                 314 Li 
+.             1940 B548844-C                       820 Li 
+.             2034 B324579-E    Ni                 503 Li 
+.             2036 A410856-F  N Na                 304 Li 
+.             2037 B333211-C  A Lo Ni Po           620 Li 
+.             2038 B476450-C  N Ni              A  502 Li
+.             2040 A240745-A    Po De              202 Li 
+.             2133 E88A654-8    Ni Ri Wa           210 Li 
+.             2135 D749121-6    Lo Ni              513 Li 
+.             2136 A77A5AD-G    Ni Wa              504 Li
+.             2138 E88866A-5    Ag Ni Ri           100 Li 
+.             2139 B565200-C  W Lo Ni              502 Li
+.             2140 C20079D-A    Na Va              710 Li 
+.             2232 B538836-B                       802 Li 
+.             2237 B203212-C  N Lo Ni Va Ic        200 Li 
+.             2334 B233000-E  N Lo Ni Po Ba        603 Li 
+.             2335 B555222-D    Lo Ni              203 Li 
+.             2336 D661696-6    Ni Ri              603 Li 
+.             2338 B455620-D    Ag Ni           A  614 Li 
+.             2431 D7A8678-6  S Ni Fl              812 Li
+.             2433 C794798-8  S Ag                 914 Li
+.             2435 BAB4423-9  N Ni Fl              300 Li 
+.             2437 D636650-7  S Ni                 802 Li
+.             2439 B384000-B    Lo Ni Ba           123 Li

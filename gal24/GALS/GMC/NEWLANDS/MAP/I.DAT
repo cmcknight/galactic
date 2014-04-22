@@ -1,0 +1,32 @@
+@SUB-SECTOR: Starlane SECTOR: Newlands
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Thebes        0121 A54695A-A  D Ag Ni              313 Th
+Greystoke     0125 C200666-8    Na Ni Va           222 Co
+Moriaty       0221 C753765-7  S Po                 103 Th
+Siberia       0223 D9CA415-7    Fl Ni Wa           610 Ma
+Krokodil      0225 C484163-5    Lo Ni              300 Co
+Skjold        0226 B766894-8    Ri                 804 Ma
+Mei Yuan      0322 C333303-A    Lo Ni Po           200 Ma
+Miaoulis      0324 C557667-5    Ag Ni              704 Co
+Corinth       0325 A6A3884-B  D Fl                 723 Co
+Tramontane    0328 C33558A-6    Ni                 703 Ma
+Novara        0422 C7A4695-7    Fl Ni              804 Ma
+Katahdin      0423 E324430-7    Ni                 210 Ma
+Pamiat        0425 C7B5410-5    Fl Ni              800 Ma
+Gambetta      0525 C6648CA-8  S                    703 Ma
+Zola          0621 C775620-9    Ag Ni              224 Br
+Gorronomah    0624 D5985AA-4    Ag Ni              221 Ma
+Muratha       0626 E550200-6    De Lo Ni Po        832 Ma
+Amon          0628 D200200-A    Lo Ni Va           103 Ma
+Akola         0629 C384351-8    Lo Ni              105 Ma
+Lazarus       0721 A57699B-C  5 Hi In              601 Br
+Zaragosa      0722 B000597-C    Ag Ni              513 Br
+Nyanza        0724 A773623-C    Ni                 804 Br
+Frithjof      0728 A100452-B  I Ni Va              500 Ma
+Myg           0730 B775543-B  N Ag Ni              205 Ma
+Sheldrake     0824 CAC8655-7    Fl Ni              604 Br
+Iltis         0827 X1005AF-6    Ni Va           A  704 Ma
+Mikasa        0828 C0009AF-A    As Hi Na        A  801 Ma

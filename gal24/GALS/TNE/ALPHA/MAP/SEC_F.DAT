@@ -1,0 +1,40 @@
+@SUB-SECTOR: Auva       SECTOR: alphaleo
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Water         0912 X000000-0    Ba                 005 Un
+Perdu         0913 X5498RA-A                       312 Wi
+Eden          0916 E5588Q2-9                    B  100 Wi
+Kranak        0917 D5597T6-9                       204 Wi
+Freiwelt      1018 D657846-4  M                 B  504 Be     f
+Werldt        1019 D888658-8    Ag Ni Ri        B  120 Be     f
+Janer         1111 C7644Q7-8    Ni Lo              103 Wi
+Auva          1113 X200000-0    Ba Va              004 Un
+Abide         1114 X9997RE-6                    B  513 Wi
+Zanzumah      1117 X200000-0    Ba Va              000 Un
+Blenkinsop    1119 E95A4C7-6    Ni Lo Wa        B  504 Be     f
+Darukaash Zen 1120 D43468C-7    Ni                 705 Be     f
+Drydock       1211 X332000-0    Ba                 014 Un
+Grkaan Loc    1212 X7A1000-0    Ba Fl              014 Un
+Alexandria    1216 C674465-A  N Lo Ni Mr           804 Be     f
+Sarmqir       1217 E110000-0    Ba              R  010 Be     f
+Beltan        1218 B76A8CB-B  N Cp Wa Ri           103 Be     f
+Verdant       1314 X410000-0    Ba                 022 Un
+Garnadon      1316 X110000-0    Ba                 000 Un
+Peltier       1319 E8A5000-9    Ba                 002 Be     f
+Clerkson      1320 DA994A2-9    Ni Lo           B  304 Be     f
+Greisine      1416 X3414TB-5    Ni Po Lo           604 Wi
+Arctech       1417 X327000-0    Ba                 000 Un
+Faslane       1418 E524161-9    Cm Mr              614 Be     f
+Leiby         1419 C656460-9    Ni Lo              604 Be     f
+Miaplacidus   1511 X100000-0    Ba Va              010 Un
+Ammamet       1512 X5716P5-6    Ni              B  304 Wi
+Karden        1515 X437000-0    Ba                 002 Un
+Flanders      1517 E7423M0-8    Ni Po Lo        B  214 Wi
+Altantes      1519 X9AA000-0    Ba Wa              010 Un
+Agryx         1520 X100000-0    Ba                 003 Un
+Chiang        1615 X110000-0    Ba                 002 Un
+Newton        1616 X326000-0    Ba                 010 Un
+Ganer's Wld   1618 X110000-0    Ba                 004 Un
+Zarifim       1619 X4665R8-8    Ag Ni              313 Wi

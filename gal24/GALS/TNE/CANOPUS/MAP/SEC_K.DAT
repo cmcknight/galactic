@@ -1,0 +1,36 @@
+@SUB-SECTOR: sec_K   SECTOR: canopusc
+#
+# Trade routes within the subsector
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Alcoa         1724 X234000-0    Ba                 023 --
+Alayne        1725 D44466C-8    Ni                 325 Wi
+Bahrair       1726 X244210-5    Ag Lo Ni           100 Wi
+Ouerton       1728 X54566D-0    Ni              B  703 Wi
+Tung          1824 X431000-0    Ba                 024 --
+Chani         1826 X000000-0    As Ba              000 --
+Giorgia       1828 X78276A-3    Ri              B  720 Wi
+Ellison       1829 E775348-6    Ag Lo Ni        B  314 Wi
+Dostoevsky    1830 D457305-6    Ag Lo Ni           413 Wi
+Stagger       1923 X615000-0    Ba Ic              001 --
+Feron         1926 D978668-4    Ni              B  315 Wi
+Ness          2024 X88456A-6    Ag Lo Ni           132 Wi
+Erin          2025 X000000-0    As Ba              004 --
+Hamid         2125 X876943-6    Hi In           B  403 Wi
+Mimi          2126 E245587-5    Ag Lo Ni           112 Wi
+Coalan        2127 X320000-0    Ba De              003 --
+Balorak       2129 E685776-8    Ri                 104 Pe
+Quaan         2224 X443477-3    Lo Ni Po           314 Wi
+Fulton        2228 BAE1638-D    Ni                 824 Pe
+Scala         2229 X421000-0    Ba                 004 --
+Euphemia      2230 D587623-7  S Ni                 112 Pe
+Sadus         2321 X141567-2    Lo Ni Po        B  113 Wi
+Aryeh         2322 X100000-0    Ba Va              005 --
+Bellamy       2326 X577548-4    Ag Lo Ni           224 Wi
+Keluin        2330 A968A83-B    Hi Cp              100 Pe
+Kraemer       2422 X424000-0    Ba                 004 --
+Calldwr       2425 X486100-0    Ag Lo Ni        B  413 Wi
+Krystal       2429 E343600-4    Ni Po              614 Pe
+Pingeala      2430 X58586C-6                    B  110 Wi

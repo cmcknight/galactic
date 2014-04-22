@@ -1,0 +1,31 @@
+c5 Snub Machine Carbine
+
+The c5 snub machine carbine is the standard issue Magellanic zero-g weapon.
+The term machine carbine is a little misleading as the weapon is closer to
+an assault grenade launcher; however it is employed in the traditional
+machine carbine role, hence it's designation.
+
+The c5 is a bullpup machine carbine firing 15mm low velocity HEAP rounds from
+a detachable 150 round drum magazine. The c5 is gyrostabilised and fitted
+with an intergral laser sight. It may fire in either single shot, 5 round
+burst or full cyclic (750rpm, giving a +1DM autofire attack per 75 rounds
+fired) mode; and is treated as a low recoil weapon for zero-g combat. The c5
+is not currently available to civilians.
+
+Weapon: c5 snub machine carbine
+Action: Blowback - singleshot, burst (5), cyclic (750)
+Ignition: Electric
+Tech Level: 11
+Calibre: 15mm HEAP MSO caseless
+Penetration: 6
+Range: short
+Malfunction: reliable
+Shots: 150
+Mass: 3.1kg
+Reloads: 1.1kg
+Length: 48cm
+Cost: Cr 1875
+Incidentals: 50 rounds HEAP: Cr 300 (0.3Kg)
+             5 hour rechargeable battery pack: Cr 2.5 (0.3kg)
+             20 hour disposable battery pack: Cr 1.25 (0.3kg)
+             empty 150 drum magazine: Cr 150 (0.2Kg)

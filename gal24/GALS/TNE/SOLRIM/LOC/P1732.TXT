@@ -1,0 +1,14 @@
+Ys C84786A-8     
+Starport: Routine              Size: Large (12000-13600 km)
+Atmosphere: Thin, tainted      Hydrographics: 70% water
+Population: 600 million        Govt: Captive Government
+Law Level: Extreme             Technology: Pre-Stellar
+               
+Ys is the site of a Terran Republic outpost (named Outpost Beowulf). The
+citizens of Ys were less than enthusiastic about the arrival of Terran
+Republic Naval and Marines forces on a permanent basis in their system,
+and initially there was some friction between the military and the
+civilian populace. Fortunately, a program was started by Outpost Beowulf's
+commander to assist the population of Ys in their efforts to rebuild their
+world. The program was such a success, it became a model for similar
+programs elsewhere.

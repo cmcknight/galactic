@@ -1,0 +1,31 @@
+@SUB-SECTOR: sec_a   SECTOR: Spica
+#
+# 
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Meridian      0102 E550887-5    Po De              135 So
+Naav          0103 A53288B-B  G Na Po Cp           114 So
+Skyserpentine 0106 E6A2300-8    Fl Lo Ni           711 So
+Feldon        0107 C9A4121-9    Fl Lo Ni           704 So
+Elk Grove     0108 B597550-9    Ag Ni              300 So
+Grimaldi      0109 C550240-8    Lo Ni Po De        704 So
+Antairtic     0202 B3018BE-7    Na Va Ic           920 So
+Nadir         0204 A522420-A    Lo Ni Po           900 So
+Craterville   0208 E731268-6    Lo Ni Po O:0204    925 So
+New Colchis   0209 C3337AB-6    Na Po              314 So
+700-210       0210 E211000-0    Ba Ic              003 So
+Dandee        0307 B674424-8    Lo Ni Tp           303 So
+Nagg'Astphay  0309 C42287A-6    Na Po              702 So
+Clan McCracken0401 A4545A9-B    Ag Ni              703 So
+Spairn        0405 B358698-6  G Ag Ni              702 So
+Altus III     0502 B4508CD-8    Po De              510 So
+Lowell        0507 B411646-A    Na Ni Ic           104 So
+Innerlocken   0509 D233159-9    Lo Ni Po           501 So
+Talbot        0601 C301678-6    Na Ni Va Ic        300 So
+Shelby        0602 E899212-6    Lo Ni Tp           320 So
+Milano        0608 C475851-5                       504 So
+Ben Gunn      0610 E572875-3                       310 So
+Turaak        0701 C201632-A    Na Ni Va Ic        900 Na
+Transitaal    0710 B47A440-A  G Lo Ni Wa           904 So
+Hyborea       0803 A54699C-A  F Hi In              403 Na

@@ -1,0 +1,43 @@
+@SUB-SECTOR: sec_B   SECTOR: deneb
+#
+# Trade routes within the subsector
+$1006 0805 -1 0
+$1006 1309 0 0
+$1309 1609 0 0
+$1609 1808 1 0
+$1609 1613 0 1
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Ghatsokfe     0902 BA8669D-8    Ag Ni Ri           304 Va
+Matsa         0903 A234453-F    Ni                 102 Cs
+Aksofouta     0905 D55677A-4    Ag                 612 Va
+Waalikii      0906 B525586-B  N Ni                 834 Dd
+Malkei        0907 B659866-8                       610 Dd
+Gyrfal        0910 C8B6545-7    Ni Fl              103 Dd
+Kfathvaedal   1001 B000661-C    Na Ni As           224 Va
+Sisi          1004 B8D0610-8    Ni De              624 Va
+Kamisaraki    1006 C354467-A  S Ni                 703 Dd
+Lengighdzuerz 1202 A300520-B    Ni Va              923 Va
+Naimar Station1203 B000347-A  N Lo Ni As           912 Cs
+Haniiwa       1208 XA9A643-4    Ni Wa           R  210 Dd
+Latros        1301 B688227-B    Lo Ni              501 Na
+Kantra        1302 C301698-9    Na Ni Va Ic        622 Na
+Qi'iri        1303 E454323-7  C Lo Ni              410 Va
+Lome          1306 E32487B-9                       101 Dd
+Lamas         1309 B7AA585-C  N Ni Fl Wa Cp        701 Dd
+Qi'ire        1403 A657377-A    Lo Ni              402 Na
+Anatre        1405 D5788A7-6                       401 Dd
+Borlund       1406 E454AAA-9    Hi                 701 Dd
+Krisna        1409 C84A651-A    Ni Wa              812 Dd
+Mur           1502 C100733-A    Na Va              120 V6
+Gila          1504 E663674-6    Ni Ri              201 Na
+Lagut         1505 C312555-B    Ni Ic              932 Dd
+Pek'e         1508 C441325-7  S Lo Ni Po           412 Dd
+Prolam        1509 B769436-A  N Ni                 223 Dd
+Gzigorlloe    1601 A311677-A    Na Ni Ic        A  801 V6
+Gzonksoeg     1603 D567200-7  C Lo Ni              401 Va
+Yef           1606 E243342-4    Lo Ni Po           202 Dd
+Gaashushnu Li 1608 X744255-4    Lo Ni           R  404 Dd
+Ansirk        1609 B100100-F  N Lo Ni Va           122 Dd

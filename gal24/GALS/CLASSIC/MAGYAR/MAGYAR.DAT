@@ -1,0 +1,70 @@
+Magyar
+
+A: Meritan                   sec_a.dat
+B: Dosgud                    sec_b.dat
+C: Kobayashi                 sec_c.dat
+D: Gadarur                   sec_d.dat
+E: Lore                      sec_e.dat
+F: Kiang                     sec_f.dat
+G: Callahan                  sec_g.dat
+H: Walpurgis                 sec_h.dat
+I: G'ronshe                  sec_i.dat
+J: Iirakai                   sec_j.dat
+K: Breland                   sec_k.dat
+L: Fugue                     sec_l.dat
+M: Sartarak                  sec_m.dat
+N: Bobbo                     sec_n.dat
+O: Sullivan                  sec_o.dat
+P: Morency                   sec_p.dat
+
+Bases:
+A = Navy & Scout Bases
+D = Naval Depot
+N = Naval Base
+S = Scout Base
+W = Way Station
+  = None
+
+Allegiance:
+12 Im = Imperial
+11 So = Solomani
+07 Na = Non-aligned
+04 Am = Amon/Imperial
+04 Au = Austa/Imperial
+04 Re = Reynold/Imperial
+10 Ac = Acara/Solomani
+10 Al = Alto/Solomani
+10 Bl = Blackjack/Solomani
+10 Bo = Bobbo/Solomani
+10 Da = Daftnew/Solomani
+10 De = Deriabar/Solomani
+10 Ek = Ekar/Solomani
+10 Et = Ethlum/Solomani
+10 Gu = Gursky/Solomani
+10 Ha = Hachiman/Solomani
+10 He = Hessoun/Solomani
+10 Hr = Harpring/Solomani
+10 Ic = Icenogle/Solomani
+10 Kl = Kline/Solomani
+10 La = Lachlan/Solomani
+10 Lg = Landgrebe/Solomani
+10 Mi = Minsk/Solomani
+10 Mo = Morsen/Solomani
+10 Nu = Nubtar/Solomani
+10 Oc = Ock/Solomani
+10 Ra = Randzo/Solomani
+10 Sa = Sapphire/Solomani
+10 Sh = Sharn/Solomani
+10 Sk = Stanko/Solomani
+10 Sr = Stansifer/Solomani
+10 St = Stancombe/Solomani
+10 Tl = Tolson/Solomani
+10 To = Tooma/Solomani
+10 Wa = Wair/Solomani
+10 Wi = Wilkerson/Solomani
+10 Wu = Wu/Solomani
+10 Xi = Xianjin/Solomani
+10 Zo = Zongwu/Solomani
+13 En = Unknown
+14 Po = Unknown
+08    = Unknown

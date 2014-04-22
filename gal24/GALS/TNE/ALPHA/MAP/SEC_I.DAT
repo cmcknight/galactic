@@ -1,0 +1,35 @@
+@SUB-SECTOR: Denebola   SECTOR: alphaleo
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Leisz         0121 X000000-0    As Ba              004 Un
+Panunzio      0123 X000000-0    As Ba              004 Un
+Lundvall      0124 X9A4000-0    Fl Ba              015 Un
+Beta Pictoris 0125 X200000-0    Va Ba              021 Un     f
+Sturken       0128 D6456P2-8    Ni Ag              402 Wi
+Denebola      0129 X83A000-0    Wa Ba              012 Un
+Arreguin      0130 X333000-0    Ba                 004 Un
+Phoenix       0221 X2659WA-8    Hi                 114 Wi
+Koz           0230 E7867UA-7    Ag                 823 Wi
+Ayling        0326 E5738XB-6                    B  802 Wi
+Piltch        0327 X200000-0    Va Ba              003 Un
+Herbig        0421 X100000-0    Va Ba              024 Un
+Muhoberac     0424 XA99000-0    Ba                 013 Un
+Tennen        0425 X52A000-0    Wa Ba              014 Un
+Salcedo       0427 X100000-0    Va Ba              013 Un
+Haimrl        0430 X89A3M0-0    Lo Wa           B  500 Wi
+Bali          0524 B98876C-8    Ri Ag              510 Na     f
+Geetus        0526 X535000-0    Ba                 023 Un
+Baughba       0527 X334000-0    Ba                 025 Un
+Sikken        0528 X554200-3    Ni Lo              302 Wi
+Dassano       0529 X633000-0    Ba                 020 Un
+Keith         0626 X7968S5-6                    B  504 Wi
+Turin         0630 X623000-0    Ba                 012 Un     f
+Lifson        0723 X6624M2-1    Lo              B  514 Wi
+Arsenal       0725 X424000-0    Ba                 001 Un
+Gersh         0727 X335000-0    Ba                 000 Un
+Lourdes       0730 X6767Q6-8    Ag                 114 Wi
+Piersa        0821 X100000-0    Va Ba              004 Un
+Kottke        0822 X4433RA-2    Ni Po Lo           902 Wi
+Assisi        0830 X7436Q5-4    Ni Po              203 Wi

@@ -1,0 +1,54 @@
+@SUB-SECTOR: sec_D   SECTOR: hinter
+#
+# Trade routes within the subsector
+$2504 2404 -1 0
+$2607 2404 -1 0
+$2504 2705 0 0
+$2705 3003 0 0
+$2607 2806 0 0
+$2806 2804 0 0
+$2806 2907 0 0
+$2907 2909 0 0
+$2909 3009 0 0
+$3009 3111 0 1
+$2506 2306 -1 0
+$2506 2504 0 0
+$2608 2907 0 0
+$3009 3110 0 0
+$3110 0109 1 0
+$3003 3102 0 0
+$3003 3104 0 0
+$3102 0102 1 0
+$3104 0104 1 0
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Vaughn        2504 A79A343-A  F Ni Wa              403 Ac
+Remik         2506 B789127-8    C1 Ni              713 Ac
+Nagikare      2607 C54248C-7    Ni Po              914 Cu
+Goore         2608 B4336A8-C  J Ni Po Na           522 Cu
+Dashimev      2610 E747303-7    Ni              A  200 Cu
+Cessinyv      2705 D697537-3    Ni Ag              604 Na
+Verganeg      2708 BA9A566-9    Ni Wa              902 Cu
+Darunne       2709 C300775-A    Va Na              502 Cu
+Kikove        2802 C457231-6    Ni              A  904 Na
+Maggiv        2804 B110733-9  J Na                 405 Cu
+Terpunne      2806 C559210-6    Ni                 113 Cu
+Baliev        2901 D689563-4    Ni                 204 Cu
+Cikuek        2907 B658433-B  M Ni                 102 Cu
+Gigivere      2909 C222484-A    C2 Ni Po           913 Cu
+Varmuki       3001 E7767AA-4    Ag                 721 Cu
+Hetriame      3002 D555772-6    Ag                 320 Cu
+Alike         3003 A53898A-D  N Hi                 603 Cu
+Darun         3004 D9D1320-7    Ni                 203 Cu
+Lerive        3005 D551764-2    Po                 401 Cu
+Twohoy        3009 C596775-3    C7 Ag              811 Cu
+Beedrav       3101 E6A6665-3    Ni              A  603 Cu
+Nemini        3102 B334100-E    Ni                 612 Cu
+Bachev        3103 BAC4333-A  F Ni                 303 Cu
+Civerimu      3104 C693567-7    Ni                 423 Cu
+Gavarisu      3110 C100572-9    Ni Va              200 Cu
+Catek         3206 D10049D-6    Ni Va              614 Cu
+Frumurev      3209 C200666-9    Ni Va Na           704 Cu
+Bage          3210 E8A4512-6    Ni                 602 Cu

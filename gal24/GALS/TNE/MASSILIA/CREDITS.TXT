@@ -1,0 +1,30 @@
+Massilia Sector - Credits
+-------------------------
+
+The Massilia Sector data was ftped from Sunbane.
+
+This sector was also covered to some extent in issue 11 of
+The Travellers' Digest put out by Digest Group Publications
+in 1988. The people involved in the Massilia write-up from
+that issue were Nancy Parker and Robert Parker.
+
+One interesting tidbit about this sector is that while
+DGP spells it "Massilia", GDW seems to prefer the spelling
+"Massila". I wrote the TML asking for an explanation, and
+Mark Seemann (mark@dk-online.dk) wrote me back with the
+following:
+
+     Massilia is the Latin word for the French city of
+     Marseilles. It makes good sense that Solomani
+     conquerers would name a sector after a Terran city,
+     and the name would then have stuck. I don't think
+     Massila means anything, and having heard about DGP's
+     Gary Thomas' fondness for ancient Terran languages,
+     this explanation makes the most sense to me.
+
+For this reason, and for the reason that DGP (not GDW) did the
+development of this sector, I decided to go with their version
+of the name.
+
+The TNE-RCES mailing list lead by Nicolas Lejeune() collapsed
+and created the 1200 version of Massilia Sector.

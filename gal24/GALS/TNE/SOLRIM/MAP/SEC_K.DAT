@@ -1,0 +1,23 @@
+@SUB-SECTOR: sec_k   SECTOR: solrim
+#		   
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Nusku         1822 C56996C-7    Hi                 114 TR        
+Agidda        1824 C972867-6  N                    701 TR
+Terra         1827 A867AA9-C  N Hi Cp              414 TR     f
+Fenris        1830 CA9XX66-6                       320 TR
+Barnard       1926 C200400-A    Lo Ni As Ba        334 TR
+Junction      1929 C975867-8                       102 TR
+Ishimshulgi   2021 E200163-9    Lo Ni Va Cm        202 TR
+Prometheus    2027 A785965-B  N Hi                 623 TR
+Peraspera     2028 X7A2000-0    Ba Fl              020 TR
+Midway        2029 D699569-7    Ni                 522 TR
+Hades         2030 X432100-8    Lo Ni Cm        A  312 TR     f
+Lagash        2121 E66796A-3  O Hi              A  224 TR     f
+Ninkhur Sagga 2222 XAA7000-0    Ba Fl              013 TR
+Ember         2227 E412310-0    Lo Ic Ni Cm        212 TR
+Loki          2228 X9CA000-0    Ba FI           R  002 TR     f
+Mukaldim      2323 D533112-8    Lo Ni Po Cm        520 TR
+Kaguk         2325 B648615-C  O Ag Ni              601 TR     f
+Dismal        2330 X421100-8    Lo Ni Po Cm        412 TR

@@ -1,0 +1,17 @@
+
+Tavonni (Vilis/Spinward Marches 1520)
+
+E-567000-7     Lo Ba Ni  434  DD  G6 II  <----- 1120 data
+B-567642-D  S  Ag Ni Ri  434  Re  G6 II  <----- 1201 data
+
+G = 0.7, Day = 23h 59m 2s,
+Year = 32y 53d 7h (around Ryzel), 455y 21d 3h (around primary)
+Atmo = 1.0, No weather control
+Temp = +13 (=B15.5/lat, Season +10 To -16)
+Daily Temp Range = +6 To -12
+Native life present
+Nat. Agricultural, Ores, Radioactives, Gems & Crystals,
+Petrochemicals, Weapons (esp.), Electronics (esp.), Gravitics (some)
+Progressive/Enterprising, Passive/Militant, Harmonious/Friendly
+Legal: Territorial 2-20341  Tech: DD-FEFFD-FFFF-EF-F
+

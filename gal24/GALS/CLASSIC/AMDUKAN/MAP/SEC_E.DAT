@@ -1,0 +1,50 @@
+@SUB-SECTOR: Sakas SECTOR: Amdukan
+#
+# Trade Routes
+#
+$0122 3010 -1 -1 11
+$0213 3216 -1 0 11
+$0213 0112 0 0 11
+$0120 3119 -1 0 11
+$0112 0209 0 -1 11
+$0213 0516 0 0 11
+$0516 0815 0 0 11
+$0120 0223 0 1 11
+$0120 0216 0 0 11
+$0216 0516 0 0 11
+$0815 1114 1 0 11
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UWP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Daghoull      0112 B79A110-C  F Lo Ni Wa           220 J-
+Adzang        0113 C459666-8  M Ni                 403 J-
+Aghzoghz      0115 B375853-9                    A  603 J-
+Chaput        0116 C9C537A-8    Fl Lo Ni           701 J-
+Ko Vaedza     0117 E8CA204-9    Fl Lo Ni Wa        404 J-
+Lisinar       0120 A32569A-A  M Ni Cp              410 Ja
+Packer        0211 C899863-6  M                    623 J-
+Ueghuekh      0212 B876331-8  J Lo Ni              400 J-
+Oekhel        0213 A352423-C  J Ni Po              803 J-
+Gukuus        0216 C4337A7-6  M Na Po           A  525 J-
+Ugzue         0219 E679665-4    Ni                 404 Ja
+Tukhsaell     0313 B000331-A  M As Lo Ni           315 J-
+Tulloz        0315 E66A841-7    Wa                 724 J-
+Rongu         0316 A550599-8  M De Ni Po        A  522 J-
+Uelith        0411 C6A6425-5  M Fl Ni              204 J-
+Waboosa       0412 C464554-A    Ag Ni              103 J-
+Aagiis        0413 D88A345-5    Lo Ni Wa           421 J-
+Ananir        0420 X4539A5-2    Hi Po           R  411 Ja
+Angikaeg      0515 C510547-9    Ni                 323 J-
+Aethiks       0516 B542510-A  J Ni Po              201 J-
+Erdut         0520 E958963-4    Hi                 623 Ja
+Umugin        0611 C6BA654-A    Fl Ni Wa           903 J-
+Lagaglorr     0618 C568576-6  M Ag Ni              422 J-
+Kuzoghu       0619 E84858D-6    Ag Ni              604 J-
+Gueghu        0714 E58A8AB-8    Wa                 702 J-
+Khaedz        0717 B674316-A    Lo Ni              320 Jo
+Zunanash      0811 BA68653-9  J Ag Ni Ri           624 Jo
+Onguegagh     0813 C59A425-7    Ni Wa              124 Jo
+Tokgu         0814 C3479CE-6    Hi In              801 Jo
+Arbug         0815 B6428AC-9  J Po                 401 Jo
+Kaekuks       0817 E5A7221-7    Fl Lo Ni           504 Jo
+

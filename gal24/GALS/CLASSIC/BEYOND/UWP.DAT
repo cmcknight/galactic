@@ -1,0 +1,45 @@
+# Notes:
+# There was a "+" Tech level given as Occasional non-Imperial, but as there
+# already was a "G" in the The Traveller Book (which is what I'm using), I
+# decided to remove it. Maybe it wasn't in the original set of three booklets.
+# "V" may appear under any UWP characteristic, indicating that it varies,
+# either naturally or artificially, from point to point or from time to
+# time. This should of course call for the GM to explain this phenomenon,
+# if indeed it is one. The reasons could be as varied as accelerated
+# development to civil war or simply a factor of the environment or
+# civilisation, not unlike what happens on Helliconia in Aldiss' books.
+#
+# Michel Boucher <alsandor@netcom.ca>
+
+Starport
+V = Variable
+
+Size
+B = Very Large (16800-19300 km)
+C = Very Large (19300-20900 km)
+J = Ringworld
+V = Variable
+
+Atmosphere
+D = Carbon Dioxide
+M = Methane
+R = Radioactive
+V = Variable
+
+Hydrographics
+V = Variable
+
+Population
+V = Variable
+
+Govt
+E = Patriarchal Warrior Elite
+F = Select Military Elite
+V = Variable
+
+Law Level
+V = Variable
+
+Technology
+G = Occasional Non-Imperial
+V = Variable

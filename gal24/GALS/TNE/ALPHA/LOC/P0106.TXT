@@ -1,0 +1,43 @@
+
+Bolivar         E9766Q4-5 Ni Ag         (1201)
+                D976678-8 Ni Ag         (1110)
+
+Starport: Frontier Quality              Size: Large (13600-15200 km)
+Atmosphere: Standard, tainted           Hydrographics: 60% water
+Population: 6 million                   Govt: Charismatic Oligarchy
+Law Level: Moderate                     Technology: Industrial
+
+Pre-Collapse Population: 4 million      Pre-Collapse TL: Pre-Stellar
+Objective Classification: IIb
+
+        Originally a balkanised agricultural world exporting mainly to
+Ximenes and Rith, Bolivar was only mildly affected by the Collapse. While
+there was some damage, as the few ships in the system went wild or crashed,
+there was no breakdown of governmental authority, no mass die-off, no 
+descent into disorder and chaos. The lack of offworld imports has forced 
+Bolivar to rely on its own (lower-tech) production capabilities, but the 
+loss of technology has not been significant (and critical technologies - 
+eg the ability to manufacture filter masks to deal with the atmosphere's 
+excess CO2 - have not been lost).
+
+        Bolivar's national governments were dissolved when the planet was
+forcibly integrated into the Solomani Confederation during the Second Rim
+War; since then, the world has been governed by the Solomani Party. 
+Suffrage is universal, but only Party members (who must be of Solomani 
+descent) are eligible for election. Despite this undemocratic setup, the 
+party enjoys almost universal public support. 
+
+        The benefits of Party Membership are not restricted to the 
+politically active - the Party forms a kind of "old boy network", thus 
+membership is also advantageous to those in buisness or seeking government 
+contracts. However, more overt corruption is almost unheard of in Bolivarian
+society. Racism, on the other hand, is common - the Party's doctrine of
+inherant Solomani superiority having been retained.
+
+Bolivar Goverment Values:
+Corruption:             Moderate
+Talent:                 High
+Cruelty:                Moderate
+Aggression:             Low
+Paranoia/Xenophobia:    Moderate
+

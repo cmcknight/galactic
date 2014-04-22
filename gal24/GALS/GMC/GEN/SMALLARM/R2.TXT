@@ -1,0 +1,40 @@
+r2 Laser Rifle
+
+The r2 laser rifle was first designed in 1689T for the IMSC as the M1689
+laser rifle, as their standard issue weapon for vacuum use. During the early
+stages of the First Mwoah War, it was found that since the Mwoah had never
+developed lasers for ground combat, the r2 could be employed as a highly
+effective standard infantry weapon. All reports indicate that the silent,
+undetectable nature of the r2 had a considerable morale effect on the Mwoah.
+However later in the war, the Mwoah developed ablative body armours; and the
+r2 was relegated to it's original role. None the less, the r2 remained the
+standard issue zero-g weapon until replaced by the r13 laser rifle in 2312T;
+and is still a very popular weapon with civilains and Diadochi forces alike.
+
+The r2 is a conventionally stocked laser rifle firing a 1230j 5mm pulsed beam
+in single pulse mode. The r2 contains an internal superconductor magazine
+containng 50 shots. It can recharged from either a battery backpack (capable
+of recharging 1 shot per second) or any standard high energy power coupling.
+The r2 is fitted with an intergral laser sight with a 5 hour rechargeable
+battery (an apparently redundancy in the design). Some variants of the r2
+allow for an emergency recharge of the weapons magazine from the sight
+battery (the battery can recharge up to four shots, taking 24 seconds per
+shot).
+
+Weapon: r2 laser rifle
+Action: Single frequency (UV) - single pulse
+Ignition: Electric
+Tech Level: 10
+Calibre: 5mm pulse
+Penetration: 4
+Range: short
+Malfunction: reliable
+Shots: 50
+Mass: 3.8kg
+Reloads: 4.4kg
+Length: 47.6cm
+Cost: Cr 600
+Incidentals: 100 shot rechargeable battery pack: Cr 35 (4.4kg)
+             400 shot disposable battery pack: Cr 17.5 (4.4kg)
+             5 hour rechargeable sight battery pack: Cr 1.5 (0.2kg)
+             20 hour disposable sight battery pack: Cr 0.75 (0.2kg)

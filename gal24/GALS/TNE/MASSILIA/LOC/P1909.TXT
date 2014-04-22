@@ -1,0 +1,33 @@
+Ektorr X4638R8-6
+
+Starport: None            Size: Small (5600-7200 km)
+Atmosphere: Standard      Hydrographics: 30% water
+Population: 200 million   Govt: TED
+Law Level: High           Technology: Pre-Stellar
+       
+
+
+Ektorr (1909) is governed by the same monarch who ruled the world
+during pre-Collapse times. King Aevan Thodd is now some 127 years in
+age, at the mercy of addictive anagathics. The early years of the
+Collapse were hard on the Ektorrians. Raised with strong
+conservationist ethics due to the planet's very limited resources and
+aridity, they had to a point become dependent upon the world's
+technology to soften the harshness of their environment. This situation
+was exacerbated by the fact that many of the "Tatoos" (the landed
+gentry, so named because of their ritual wearing of tatoos to mark
+their status) united in an insurrection called "The Awakening." King
+Thodd managed to put down this revolution in 1146, but only at great
+cost to the world's civil liberties. Thinking himself an enlightened
+dictator, Thodd has slowly honored his commitment to return civil
+freedoms to the populace, but still maintains considerable military
+defenses. His army has been maintained at approximately TL 8, giving
+them a distinct advantage over the TL 5 masses.
+
+
+Ektorrians celebrate the defeat of the Tatoos on "Royal Day." On this
+day, the people don their most garish outfits and celebrate with all
+forms of debauchery. The other 364 days of the year, they are as dour a
+people as you're likely to find.
+
+by  Chris Griffen <cgriffen@cisco.com>

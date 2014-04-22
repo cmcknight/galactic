@@ -1,0 +1,31 @@
+@SUB-SECTOR: sec_c   SECTOR: oldexpan
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Oudh          0921 B34159C-9    Ni Po              322 DL         
+Ishmael       0922 X232000-0    Ba                 032 DL
+Sebasta       0923 C666ABD-9  S Hi                 120 DL
+Alsatia       0924 X532000-0    Ba                 020 DL
+Ishumled      0926 D5776A9-7    Ag Ni              111 DL
+Langelos      0929 X324000-0    Ba                 005 Un
+Herakles      1022 E535364-6    Lo Ni O:1222       711 DL
+Fomalhaut     1024 X8C8000-0    Ba Fl              002 DL
+Khulampa      1026 X9A7000-0    Ba Fl              022 DL
+Gashidda      1127 E36A86C-6    Wa Ri O:1222       423 DL
+Ishkur        1129 B5629C9-9    Hi                 113 Na     f
+Dingir        1222 AA89A98-C  N	Hi Cp              105 DL     f
+Kinunir       1224 X532000-0    Ba                 005 DL
+Shulgi        1324 X512000-0    Ba Ic              003 DL
+Shilgiili     1326 X67A7RA-6    Wa              B  902 Wi
+Enki Kalamma  1327 X200000-0    Ba Va              013 Un
+Karkhar       1424 E675768-5    Ag O:1222          713 DL
+UV Ceti       1427 X000000-0    Ba As              033 Un
+Iilike        1429 E455769-5    Ag                 224 TR
+Altair        1522 X000000-0    Ba As              020 DL
+Zaggisi       1523 D7998BB-8                       501 DL
+Meshan        1526 X435000-0    Ba                 001 Un     f
+Markhashi     1529 X301000-0    Ba Va Ic           005 TR
+Shulimik      1530 E783986-2    Hi                 202 TR
+Apishal       1622 X633000-0    Ba                 024 DL
+Sirius        1629 C000368-C  O Lo As Ni Cm	   700 TR     f

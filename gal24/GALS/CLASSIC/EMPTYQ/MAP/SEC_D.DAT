@@ -1,0 +1,45 @@
+@SUB-SECTOR: sec_D   SECTOR: emptyq
+#
+# Trade routes within the subsector
+#
+$2708 2410 -1 0
+$2708 2804 0 0
+$2804 3202 0 0
+$3202 0201 1 0
+$3202 3140 0 -1
+$2804 2701 0 0
+$2701 2539 0 -1
+$2708 2810 0 0
+$2810 3012 0 1
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Titanic       2503 E85A336-6    Lo Ni Wa           600 Hl
+Isatetiri     2504 A7368BF-A                    A  803 Hl
+Nagaoka       2508 C567521-7    Ag Ni Sw        A  700 Hl
+Capel Celyn   2605 D523352-7    Lo Ni Po           312 Hl
+Ysidote       2606 D310677-5    De Na Ni        A  602 Hl
+Odalacec      2701 C444874-7                       101 Hl
+Nimmety       2703 B444013-8    Lo                 404 Hl
+Perseus       2704 B418444-B    Lo Ni Ic           625 Hl
+Deciyana      2707 C94A427-8    Lo Ni Wa           111 Hl
+Monolith      2708 B565587-9    Ag Ni              410 Hl
+Coincident    2710 D5327BA-9    Na Po Sw        R  803 Hl
+Omerinese     2803 BA7A663-6    Ni Wa O:2804       700 Hl
+Parolles      2804 A8688D7-A    Cp                 104 Hl
+Negev         2810 B7A05AB-A    De Ni              813 Hl
+Cocktail      2903 C401101-9    Lo Ni Ic Va     A  303 Hl
+Ab Sinecal    2904 B547674-9    Ag Ni              203 Hl
+Kyushu        2906 A2306BD-A    De Na Ni Po An     702 Hl
+Takeshima     2909 B131337-8    Lo Ni Po        A  924 Hl
+Mirabilia     3001 E3318CC-6    Na Po              614 Hl
+Akkeshi       3005 B9996BD-6    Ni An              823 Hl
+Koyasan       3007 B8788B9-7                    A  200 Hl
+Aegypt        3008 B877897-5                    R  805 Hl
+Flutewind     3101 C150432-A    De Ni Po Lo        103 Hl
+Acesymak Caya 3104 B201423-C    Ic Ni Va Lo     A  605 Hl
+Shepherd Moons3201 C679154-7    Lo Ni              630 Hl
+Toyeloci      3202 B78A8BA-A    Wa Sw              202 Hl
+Waterstone    3206 B79A8AB-6    Wa                 203 Hl
+Marugame      3208 C100210-9    Na Ni Va           314 Hl

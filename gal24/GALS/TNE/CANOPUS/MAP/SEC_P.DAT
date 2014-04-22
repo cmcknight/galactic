@@ -1,0 +1,34 @@
+@SUB-SECTOR: sec_P   SECTOR: canopusc
+#
+# Trade routes within the subsector
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Pompeii       2534 X647755-1                    B  314 Wi
+Hughson       2537 X300000-0    Ba Va              010 --
+Karp          2538 XA9A100-3    Lo Ni Wa        B  303 Wi
+Gaarn         2631 X225000-0    Ba                 000 --
+Flatt         2634 X758786-3                    B  500 Wi
+Cantse        2635 X510000-0    Ba                 000 --
+Harven        2638 X536000-0    Ba                 002 --
+Salaidh       2639 C66646E-5    Ag Lo Ni           414 Wi
+Hyrim         2732 X568553-5    Ag Lo Ni           200 Wi
+Wilkie        2734 D786679-7    Ni Ri              124 Wi
+Tolde         2735 D795679-4    Ni              B  513 Wi
+Cabot         2833 X85A865-0    Wa              B  304 Wi
+Owle          2836 X9B8000-0    Ba Fl              003 --
+Edmonton      2837 X100000-0    Ba Va              023 --
+Witner        2838 X130000-0    Ba De              000 --
+Leopold       2839 X244347-6    Ag Lo Ni           413 Wi
+Nixon         2932 X423000-0    Ba                 012 --
+Midwest       2937 C689310-7    Lo Ni              404 Wi
+Idun          2940 X7C7000-0    Ba Fl              000 --
+Mansfield     3032 X475867-3                    B  104 Wi
+MacAllus      3038 X77A86C-3    Wa              B  125 Wi
+Wilfred       3132 X222000-0    Ba                 002 --
+Kasey         3231 X545269-3    Ag Lo Ni           005 Wi
+Gimli         3236 EA8AAC9-6  S Hi Wa           B  303 Wi
+Montrachet    3237 D679357-6    Lo Ni              004 Wi
+Helring       3239 X200000-0    Ba Va              004 --
+Kalem         3240 X5447BC-6                       212 Wi

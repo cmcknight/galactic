@@ -1,0 +1,39 @@
+@SUB-SECTOR: sec_I   SECTOR: trojan
+#
+# Trade routes within the subsector
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Attye         0122 A8605M3-D    Ni De              513 As
+Ahaikhea      0126 B4224K3-9  R Lo Ni Po           101 As
+Eawatrye      0127 A8B57K6-D  R Fl                 903 As
+Tyea'ih       0129 B5488M9-E                       705 As
+Olauh         0130 B1018L8-E    Na Va Ic           802 A8
+Dalfi         0222 C750445-A    Lo Ni Po De        110 As
+Khtelatloilr  0223 A2235J6-C  R Ni Po              404 As
+Ewoiftoil     0224 B5468K6-A                       210 As
+H'a           0227 D6574K9-6    Lo Ni Tp           802 As
+Hreahrya      0229 B333AH9-D    Na Hi Po        B  124 As
+Nora'a        0321 A485645-9    Ag Ni Ri           900 As
+Iryao         0322 A5588K8-E  R                    420 As
+Suiaoir       0328 B6513G7-E    Lo Ni Po           404 As
+Hkaha         0329 C8976K6-A    Ag Ni Tp           703 As
+Khtyekt       0425 B2006H5-8  R Na Ni Va        B  613 As
+Osototail     0426 D5508N7-C    Po De              504 As
+Aowaih        0429 B5868K7-C  R Ri                 523 As
+Khi           0430 B9875N8-C  U Ag Ni Tp           911 As
+Vadada        0523 A4109L6-F  T Na Hi In           802 A1
+Elihfoirl     0525 A1532K6-D  R Lo Ni Po           201 As
+Ftaleirl      0528 B6303JA-6    Lo Ni Po De        502 As
+Oihyeti'he    0529 B7798H5-E    Tp              B  703 As
+Souflea       0530 A2517K4-D  R Po                 801 As
+Sei'eal       0628 B5108M6-A    Na                 500 As
+Tanar         0722 D787740-8    Ag Ri Tp An        120 Na
+Lafkin        0724 D77A846-8    Wa                 602 Na
+Woilreawau    0727 B1008N5-E  R Na Va              503 As
+Uao           0729 C6A25L6-8  T Fl Ni              702 A5
+Eahaw         0823 B5233N7-D    Lo Ni Po        R  413 As
+Yaeawaokh     0824 B1307LB-E  T Na Po De           400 A9
+Alirar        0825 A3555HA-C  R Ag Ni           B  913 As
+Ehaealir      0829 B6365HB-9    Ni              B  210 As

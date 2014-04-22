@@ -1,0 +1,30 @@
+@SUB-SECTOR: sec_E   SECTOR: corridor
+#
+# Trade routes within the subsector
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Shinku        0111 E879102-8    Lo Ni              422 Vf
+Kiran         0112 A354856-F  G                    901 Vf
+Aga Sugek     0113 A9B8356-D    Lo Ni Fl           401 Vf
+Khikhuushir   0115 D676534-4    Ag Ni              624 Vf
+Ka Eto        0119 B615345-D  G Lo Ni Ic           502 Vf
+Erlu          0213 B7C0626-8  G Ni De              404 Vf
+Lobok         0218 C582876-9    Ri                 335 Vf
+Jubal         0311 X300497-2    Ni Va              823 Vf
+Muugagen      0312 D453465-9    Ni Po              601 Vf
+Yubitty       0313 C96A987-7    Hi Wa              932 Vf
+Daban         0411 C514858-8    Ic                 802 Vf
+Ian           0416 A5A88BE-C    Fl Cp              303 Vf
+Irasumshu     0417 E554A74-6    Hi                 801 Vf
+Linix' Cha    0511 E322578-8    Ni Po              822 Vh
+Beta Regilis  0512 D543567-3  H Ni Po              714 Vh
+Kumorle       0513 B331758-C  C Na Po              225 Vh
+Raiga         0516 X664532-3    Ag Ni           R  714 Va
+Ikhur         0611 B756532-B    Ag Ni              301 Vh
+Dywosik       0614 C247547-A    Ag Ni              921 Na
+Vom           0617 C223578-9  S Ni Po              302 Va
+Teras         0714 B438247-B  N Lo Ni              410 Na
+Lysio         0815 B494546-9  S Ag Ni              901 Va
+Antiquity     0816 A223420-C  N Ni Po An           214 Na

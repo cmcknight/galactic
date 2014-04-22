@@ -1,0 +1,12 @@
+Alpha Ophiuchus X000260-8
+Starport: None              Size: Asteroid Belt
+Atmosphere: None            Hydrographics: No liquid water
+Population: 200             Govt: Captive Government
+Law Level: No Prohibitions  Technology: Pre-Stellar
+	The Alpha Ophiuchi system was the site of an Imperial naval depot. 
+During the Second Solomani Rim War, Depot served as the primary service 
+center for many Imperial starships. This support was critical in allowing 
+Imperial and Vegan forces to hold off the numerically superior Solomani 
+fleets.
+
+                          

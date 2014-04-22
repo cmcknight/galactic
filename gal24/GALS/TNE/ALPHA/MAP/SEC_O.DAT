@@ -1,0 +1,34 @@
+@SUB-SECTOR: New Holland       SECTOR: alphaleo
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Ameland       1732 X200000-0    Va Ba              000 Un
+Hoorn         1733 X556104-7    Lo Ni              303 Wi
+Tilburg       1737 C6747U7-7    Ag              B  402 Wi
+Neubund       1738 X6938SA-4                    B  203 Wi     f
+Ijsselmeer    1832 X85A4R5-3    Ni Wa           B  410 Wi
+Waal          1834 X100000-0    Va Ba              000 Un
+Terschelling  1836 X100000-0    Va Ba              003 Un
+Nijmegen      1934 X532000-0    Ba                 033 Un
+Maas          1935 X732000-0    Ba                 014 Un
+Zealand       2034 E6786V9-8    Ni Ag              204 Wi
+Abelard       2037 X4544R6-7    Ni Lo              400 Wi
+Cyclades      2039 X7992P5-1    Ni Lo              500 Wi
+Keine         2132 X100000-0    Va Ba              024 Un
+Thales        2138 X200000-0    Va Ba              002 Un
+Lough Ree     2139 X97A5R6-7    Ni Wa           B  404 Wi
+Burton        2234 X210000-0    Ba                 023 Un
+Narnia        2236 X5599T4-6    Hi              B  800 Wi     f
+Melos         2237 E6466R9-7    Ni Ag           B  603 Wi
+Eldritch      2239 E8487Q3-8    Ag                 202 Wi     f
+Dawkins       2333 X110000-0    Ba                 020 Un
+Kalahari      2334 X4613R5-5    Ni Lo              204 Wi
+Caldron       2335 X000000-0    As Ba              003 Un
+Elton         2339 X445000-0    Ba                 000 Un
+Luigi         2431 X335000-0    Ba                 010 Un
+Onega         2433 X67A7R9-2    Wa                 104 Wi
+Brookwall     2435 X100000-0    Va Ba              003 Un
+Osmond        2437 X4663P0-6    Ni Lo              412 Wi
+Connemara     2439 X410000-0    Ba                 023 Un
+Shannon       2440 X7544Q2-6    Ni Lo              503 Wi

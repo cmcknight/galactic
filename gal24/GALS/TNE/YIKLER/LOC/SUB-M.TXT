@@ -1,0 +1,144 @@
+   
+String of Pearls (Yiklerzdanzh Subsector M) as at 1201
+    by Grant Sinclair
+    Date: 20 January 1995
+    
+     _________________________________________________________________
+   
+   The String of Pearls subsector contains 31 worlds with a total
+   population of 23.960 billion. The highest population is at Zdalzi,
+   with 9.1 billion. The highest tech level is E at Plafrezhdish and
+   Bliazheprvlaf, while the lowest is 1 at Didtayinzhial. The population
+   is comprised of about 38% Zdalzi, 32% Talpaku, 28% human of Zhodani
+   stock and 2% other (e.g. Dliatlirets, Carillon, Izrats Kriezhlas and
+   Solomani/Vilani).
+   
+   Worlds generated according to World Tamer's Handbook where applicable
+   and World Builders Handbook otherwise. Note that atmospheric taints
+   generated using WBH, since World Tamer's is intended only for worlds
+   already known to be habitable.
+   
+   This document is not intended to infringe on any rights of the
+   copyright owner of Traveller. The owner of the copyright of Traveller
+   may use any material contained herein at whim, without need for
+   payment (though acknowledgement would be nice!).
+
+String of Pearls Subsector Overview
+
+   Demography: "String of Pearls" is a backwater subsector. The three
+   main powers of the subsector are the Talpaku Communality (see HD
+   7C01), with three settled worlds and considerable influence; the
+   Zhodani Consulate, with two scientific research bases and enough
+   visits to remind the locals of its power; and Sitiefladr, a powerful,
+   expansionist world, with one colony world already.
+   
+   Trade Routes: There is a jump-2 "main" from Zdalzi (0237) to
+   Dranshiqlbi' (0239) to Quicksilver (0439) to Sitiefladr (0638) and
+   ending at Qriensh Jdazh (0837). The worlds along this "main" were
+   dubbed the "String of Pearls" and the subsector is now known by this
+   name. This "main" extends via Dlarashtsalash subsector to the Izrats
+   Kriezhlas Unity, Talpaku Communality, Meichntid Ibl and the Zhodani
+   Consulate.
+   
+   A short cut to the Talpaku Communality exists from Qriensh Jdazh
+   (0837) to Chezh Daznish (0833) via Zdoblze (0835). Since pirates
+   sometimes take advantage of the fact that Zdoblze is uninhabited to
+   prey on such shipping, it is used less frequently than the normal
+   "main".
+   
+   Talpaku involvement: The Talpaku regard the subsector as their "back
+   yard" and object to Zhodani meddling, particularly the Zhodani
+   "research stations". They repeatedly demand their closure. Note that
+   the Talpaku worlds are named for the Galanglic translations of the
+   meaning of their actual Talpaku names.
+   
+   Zhodani involvement: The Zhodani have no apparent territorial
+   intentions, excepting that they wish to curb any that the Talpaku
+   might have. The main interests are scientific and commercial.
+   
+Library Data
+
+   Lost Treasure: Rumours of lost treasure hoards and private mines on
+   the barren worlds have been circulating for centuries, supposedly
+   established by smugglers, pirates and/or merchants attempting tax
+   avoidance. Occasionally, a treasure hunter will set up an expedition
+   to seek such a find, but these are usually fruitless. It is a standing
+   joke that there is at least one person in every starport of the
+   subsector who makes a living solely by selling treasure maps.
+   
+   Piracy: There has always been piratical activity in the subsector.
+   Some pirates lay in wait in barren or low tech systems, waiting for a
+   merchant ship to stop for refuelling; merchants have responded by
+   travelling in groups where possible. In times of particularly bad
+   pirate activity, some groups hire mercenary cruisers to protect them.
+   
+   The most famous pirates are the "professionals", who make most of
+   their living that way. The most frequent are apparently normal
+   merchants who do a bit of piracy on the side, when money is short.
+   
+   The most famous pirate operating in the area at the moment is
+   Khetwhachi Blackeye, a dark eccentric Talpak inspired by stories of
+   buccaneers on ancient Terra. He dresses up in full regalia, complete
+   with black patch over one eye, cutlass and a plastic parrot on his
+   shoulder. His operations are so unpredictable that he has never been
+   captured. His personality fluctuates widely, including a psychopathic
+   Bluebeard type, a bumbling, jocular Walter Mitty type and a debonair
+   Errol Flynn type. People tell jokes about him, partly because few
+   survive the Bluebeard phases to tell the tale and partly as a way of
+   psychologically coping with danger.
+   
+   Referees may play him for fun or danger as they desire.
+   
+   Driantia Sitiefladr: After the First Frontier War (589-604), elements
+   of the Iadr Nsobl province wanted intelligence regarding the sectors
+   to rimward. This led to explorations into various rimward sectors,
+   particularly the Vanguard Reaches. In 626, a state called the Driantia
+   Steblenzhtia in the Vanguard Reaches was established to further these
+   aims.
+   
+   In 631, the Zhodani Consulate decided to set up another such state,
+   further to spinward. In addition to the aims of the Driantia
+   Steblenzhtia, this state (to be known as the Driantia Sitiefladr)
+   would also be a buffer state to prevent expansion of the Talpaku
+   Communality. The worlds of Sitiefladr and Friaprchivzhdo were
+   colonised in 633, with the former to be the industrial heart and
+   capital of the state and the latter the breadbasket. It was intended
+   that the state would expand further into subsector M and then
+   spinward/rimward into nearby parts of Tsadra, Shiants (Astron) and
+   Chtedrdia (Fulani) sectors.
+   
+   By the mid 600's, the Consulate had second thoughts. It was decided
+   that the Unity would be an excellent buffer state (at least for the
+   short term), so the Driantia Sitiefladr project was abandoned.
+   Resources were diverted from it to the Seventh Core Expedition (then
+   in planning stages) and the two systems were left virtually alone, to
+   expand as best they could.
+   
+   Small colonies were established on various worlds in the rimward part
+   of this subsector and the coreward part of Fulani subsector A by 687.
+   In that year, a coup on Sitiefladr replaced the government with a
+   harsh dictatorship, which quickly became corrupt and influenced by
+   criminal elements. Over the centuries that followed, criminal elements
+   increasingly gained control.
+   
+   The government began directing its energies on shorter term projects
+   and personal gain, abandoning the still heavily dependant smaller
+   colonies in 695 to the fate. No attempt was made to rescue the
+   inhabitants and so each colony collapsed, usually to oblivion. In 861,
+   the economy of Friaprchivzhdo collapsed and triggered great problems
+   in that of Sitiefladr. The Driantia Sitiefladr, if it had ever truly
+   existed, was dead.
+   
+   Alnlinam: This B0 1a star, also known as Epsilon Orionis, is the
+   central star of the "belt" of the Terran constellation of Orion (the
+   Hunter). It lies about 460 parsecs rimward of Terra. The name is
+   Arabic, referring to the belt of Orion as a "string of pearls". There
+   is obviously no connection with the name of the subsector.
+   
+   This fact could be worked into an adventure somehow. Perhaps a patron
+   is a linguist looking at the original of some old documents and
+   realises that an entry has been mistranslated to Epsilon Orionis, too
+   far away to be worth worrying about, when in fact the reference is to
+   this subsector. He or she could decide to mount an expedition, hiring
+   the party.
+   

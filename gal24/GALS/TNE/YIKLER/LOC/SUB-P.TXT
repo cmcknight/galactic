@@ -1,0 +1,266 @@
+   
+Rom's Loch (Yiklerzdanzh Subsector P) as at 1201
+    by Geoff Kelly (with Grant Sinclair)
+    Date: 2 February 1996
+    
+     _________________________________________________________________
+   
+   
+   The Rom's Loch subsector contains 21 worlds with a total population of
+   11.376 billion. The highest population is at Brianchvrench, with 9.5
+   billion. The highest tech level is E at the Forbidden world Rodebr
+   Rifia, while the lowest is 0 at Vlados. The population is comprised of
+   about 84% racial Zhodani, 3% Solomani/Vilani, 12% Izrats Kriezhlas
+   Vlazhdumecta, 1% other races (notably Aslan). Note that since most of
+   the racial Zhodani and Izrats Kriezhlas Vlazhdumecta live on red zoned
+   worlds, the influence of these people is far less than would otherwise
+   be the case. Due to the nature of the subsector, there are no capitals
+   present.
+   
+   Note: The minor corrections to the stats for the five Driantia
+   Steblenzhtia ("Zh") worlds were made in conjunction with Chuck
+   Kallenbach, the author of the Vanguard Reaches material in which these
+   worlds were described.
+   
+Library Data
+
+   Corsairs: Although there do not seem to be organised fleets of pirates
+   in the subsector, there are occasional raids. These pirates are
+   believed to come from Wyld Worlds subsector, using caches of supplies
+   and parts maintained in obscure parts of the subsector. Bounties are
+   offered by most worlds on both the pirates and these caches.
+   
+   It is also suspected that pirates do not base themselves locally in
+   order to disguise their use of the Dushegadaar shipyards. Dushegadaar
+   asks no questions of its clients and Dushegadaar shipping is rarely
+   molested. It is suspected that the pirates have their ships altered
+   when they arrive in the subsector and repaired when they leave.
+   
+   Driantia Steblenzhtia: This Zhodani client state, which claims several
+   worlds in the trailing part of the subsector, is mainly situated in
+   the Vanguard Reaches and Afachtiabr (Far Frontiers) sectors. See those
+   sectors for details of this state. The worlds in this subsector of
+   Zhodani stock were originally part of the Driantia Steblenzhtia.
+   
+   Glenauran Signatorate: Glenauran mercenaries, having been employed by
+   most major states and organisations in the Iareflonzal cluster over
+   the centuries, were in a unique position to notice the increasingly
+   strident attempts at expansion by neighbouring powers. Offers of
+   military aid and trade incentives had often been used to woo some of
+   the worlds from the cluster into their sphere of influence. These
+   efforts were often thwarted by nearby worlds engaging in diplomatic,
+   trade and espionage missions to convince the subject world to postpone
+   such moves.
+   
+   By 1185, the mercenaries had convinced their government that more
+   permanent measures were necessary. A draft paper was submitted to the
+   governments of the Iareflonzal cluster region and (after modifications
+   requested by the Zhodani bloc) it was signed on Glenaura in 1187. The
+   main statement of the paper is that each member should consider the
+   other worlds of the cluster as more important than any other world or
+   state outside it. This has stimulated trade within the cluster and (to
+   varying degrees) improved the economies of each member world.
+   
+   Ancona has now proposed that a statement be added that would change
+   the Signatorate into an interstellar government. This proposal has not
+   met with the wide scale agreement of the original paper and a score or
+   more years are likely to pass before the issue is resolved. Possibly
+   the best thing for the formation of a single state would be an attempt
+   at terrorism on or aggressive act against one of the cluster systems.
+   
+   The main offices of the Signatorate are centred around the stock
+   brokerage districts of the starports in the cluster.
+   
+   The Signatorate logo is of three interlocking rings (representing
+   cooperation of the Scottish, Zhodani and aligned blocs) within a grey
+   circle (representing neutrality), overlaying eight outward pointing
+   arrows (arranged like an asterisk), representing resistance to outside
+   influences.
+   
+   Gordon's Legion: This mercenary troop began on Glenaura under Lt.
+   Colonel Robert Gordon as just one of a score or so of mercenary
+   battalions. An increase in demand followed successful actions on
+   Kusiahatai and Odreitsvoz, and the battalion had grown to about a
+   division in size by the eve of the Signing. It is now the largest
+   employer on Glenaura, is the largest and most experienced military in
+   the subsector and has the prize of being the ready reaction force for
+   the Signatorate.
+   
+   A battalion of the Legion which had been operating on a cadre ticket
+   on Brianchvrench at the time of the recent rebellion is apparently
+   still being employed there, by the original government.
+   
+   Grant: Abraham Grant is a philanthropist and mining magnate who owns
+   extensive holdings in Duneed and Ancona-based companies. Grant made
+   his fortune when his own company (Clarey, Robbins & Vrenshlaqitch, a
+   stock exchange power in MacLeod on Ancona) made a series of choice
+   offworld investments. His investments now tend to concentrate in
+   primary industries.
+   
+   Grant donates a considerable amount of money and time to the MacLeod
+   Interplanetary Society. Clarey & Co have often financed M.I.S.
+   expeditions, hoping for future investment opportunities.
+   
+   Guardians of Tradition: (Vishlietlbiedr Anz' Dinchpliad) is a semi
+   religious order on Brianchvrench (2537), set up to preserve a system
+   of rule that was, to them at least, divinely inspired. The order was
+   suppressed several centuries ago, but it continued to exist as a
+   secret society. Under the present leadership (an intendant named
+   Chtozjel Polanshsints), it is now in the process of wresting control
+   of the world.
+   
+   Iareflonzal Cluster: The cluster of systems accessible by jump-1 from
+   Iareflonzal.
+   
+   The cluster includes the six giant and sub-giant stars around empty
+   hex 2833. Some speculate that the region may have been manipulated at
+   some stage in the past (probably the Ancients) by a process related to
+   the Darrian apparent "Star Trigger". Most astronomers dismiss this,
+   maintaining that these stars are a natural, if rare, occurrence.
+   
+   MacCormick Carriers: Originally, this merchant line was based in
+   Duneed and specialised in cargo and freight. Now, it is found
+   throughout Iareflonzal Cluster (and occasionally beyond it), primarily
+   carrying passengers.
+   
+   A subsidiary, "Tan Travels Inc.", possesses quasi-military ships that
+   are sometimes used for convoy protection duty. However, it is most
+   famous for events which ended over a century ago, when it was
+   frequently chartered by Glenauran mercenaries, to transport them and
+   their equipment to war zones.
+   
+   MacCure Pty Ltd: This mercenary company is the largest in the
+   subsector to specialise in high guard operations. The largest vessel
+   of their squadron is a surplus 20 000 ton armoured escort, while the
+   smallest are found in their squadrons of light fighters. MacCure deals
+   in such activities as piracy suppression, customs enforcement,
+   blockading and blockade running, light strikes and deep penetrations.
+   They have also worked in conjunction with other mercenary units for
+   commando insertions. MacCure ships were responsible for the
+   pre-emptive strike ordered by the Duneed government on Odreitsvoz
+   (2934), and their leased SDBs defended against the subsequent
+   retaliatory strike.
+   
+   The number of starships the company can field is limited, since
+   contracts have mainly required spaceships. Since current economic
+   trends indicate that long-distance trade is continuing to build, the
+   company is now investing on escort ships. This will bring it into
+   direct competition with MacCormick Carriers, who are also attempting
+   to dominate this new market.
+   
+   The MacCure family still have a majority of shares in the company, but
+   are now involved in only the financial side of the business. The
+   current head of Operations is Liam Sciaretta, who served previously
+   with the national forces of MacKinnon in their orbital and system
+   defence forces.
+   
+   Merchants' Track: The name given to the mercantile run around the
+   Iareflonzal Cluster.
+   
+   Due to the close proximity of the nine systems, ships have a lower
+   jump capability than found elsewhere in ships of comparable size.
+   
+   With the guarantee of cheap, easy and reliable access to the produce
+   of other worlds, some systems in the cluster have been able to develop
+   specialist tertiary industries normally possible only in worlds of
+   higher technological capability.
+   
+   Settlement: The first settlers in the subsector were the Ancients,
+   though (as usual) no details of this time are known.
+   
+   The subsector was then empty until about six millennia ago, when the
+   Vlazhdumecta established three small bases to support establishment
+   of their colonies to spinward. Ruins of two of these bases have been
+   found (on Ancona and Glenaura), but ruins of the third (from
+   historical records, believed to be Eblplons) are still to be
+   discovered. A fourth base on Frikriyip (2334), in adjacent
+   Dlarashtsalash subsector, provided the final link to the colonies.
+   Unlike the spinward colonies, which became the Izrats Kriezhlas Unity,
+   the settlements here were too small to survive the collapse.
+   
+   Modern settlement began in the late 500s and early 600s. First, the
+   last spinward surge of Imperial colonisation into Far Frontiers
+   brought Solomani Scots to Ancona and then Duneed and other systems.
+   This was closely followed by the Zhodani establishment of the Driantia
+   Steblenzhtia, which populated the systems in the trailing/rimward part
+   of the subsector, and a small number of other Imperial settlers.
+   
+   Both groups of colonies went well initially, but the Zhodani colonies
+   in the subsector were left behind when they seceded on an individual
+   basis from the Driantia Steblenzhtia over the Nedlkel Reforms of 666.
+   Each world lost trade opportunities and turned its attention inward.
+   
+   Shrinchlieltsqun Transport: This is the largest commercial carrier
+   based on Iareflonzal and is the largest Zhodani owned line in the
+   subsector. Shrin. even has its own orbital yards over Iareflonzal,
+   where it fits out hulls and jump units purchased from Duneed.
+   
+   Shrin. holds many contracts from the Zhodani worlds in the subsector,
+   fulfilled by regular runs to the Izrats Kriezhlas Unity (to spinward),
+   the Driantia Steblenzhtia (to trailing) and the jump-4 trade route to
+   the Zhodani Consulate (to coreward). Each of the large ships used in
+   these runs is accompanied by a small escort vessel, giving Shrin. an
+   enviable reputation for security.
+   
+   While onboard security is no less intense, the routes of the Shrin.
+   line are ideal for covert agents to move from state to state. Bodies
+   have sometimes appeared on its ships, to the surprise of the security
+   officers.
+   
+   Treaty Monitoring Group: An organisation set up to observe the
+   signatories of the Glenauran Signatorate. This group is to determine
+   if any party is not following the spirit of the paper, delivering
+   reports to all signing governments.
+   
+   The T.M.G. has a difficult task, since the paper deliberately gives
+   the member states a great deal of latitude (to lay out the treaty in
+   precise terms would have taken years of further negotiation). The
+   T.M.G. has limited funding and has only one or two people on each
+   member world, so it obtains information by letting it be known that it
+   will pay for it. Such reports are kept confidential until evidence is
+   obtained, since the Signatorate is so young that mistaken allegations
+   could tear it apart.
+   
+   In an attempt to give some executive power to the group, each T.M.G.
+   member has been assigned a Glenauran mercenary as a bodyguard and
+   assistant. T.M.G. members and their bodyguards are immune to any
+   prevailing weapon restrictions.
+   
+   Vraq-Sieldrents: Vraq-Sieldrents Chanchrints is one of the richest
+   persons of Zhodani origin in the subsector. He is a notorious gambler
+   and lover of fine things of all sorts, never shy to invest in
+   something new or to spend his wealth in whatever catches his fancy.
+   The mainstay of his wealth is his robotics business, centred on
+   Chejieb, Duneed and Kusiahatai.
+   
+   Vraq-Sieldrents is of high birth on Chejieb, and tries to spend as
+   much time there as possible to administer and live on the lands his
+   forebears claimed for the family.
+   
+   Zhodani Refugees: Refugees fleeing the troubles in the Zhodani
+   Consulate began to arrive in the subsector in the late 1190's. The
+   worlds of Chejieb and Iareflonzal, since they comprise the Zhodani
+   bloc of the Glenauran Signatorate, were the natural destination of
+   most of these refugees. Even at the beginning of 1201, only these two
+   worlds had any details of the troubles of the Zhodani Consulate.
+   
+Referee's Information
+
+   Driantia Steblenzhtia: Until relatively recently, the Colonade
+   Administration District of subsector M of Far Frontiers sector was an
+   independent state (see TTC 3 for a description). It has now merged
+   with the Driantia Steblenzhtia, a Zhodani client state previously
+   based in the core-rimward parts of Vanguard Reaches. The merged state
+   now has allegiance code Zh (see Solomani and Aslan 1120 map, pp
+   50-51).
+   
+   Vraq-Sieldrents: His main problem of the moment is the disruption of a
+   large project by the fighting on Brianchvrench. Though the failure of
+   even this large project wouldn't harm the company, it would pain
+   Vraq-Sieldrents to learn of the demise or harm of his people. There
+   are rumours of a rescue mission, but it is said to be hopeless due to
+   personnel being trapped at over fifteen different sites.
+   
+   Zhodani Refugees: Some information regarding the Empress Wave will
+   begin to circulate towards the end of 1201.
+

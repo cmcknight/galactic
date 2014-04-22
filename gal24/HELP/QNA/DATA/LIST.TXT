@@ -1,0 +1,69 @@
+
+In order for the program to know what galaxies are available and
+what sectors are available within those galaxies, it uses a series
+of list (.lst) files. The primary file is gals\gal.lst:
+
+Directory of Galaxies
+--------------------------------------------------------
+classic      Semi-Official Traveller Galaxy
+tne          New Era Galaxy
+var1         Variant 1
+gmc          Greater Magellanic Cloud
+
+If you want to get rid of one of these galaxies, so that the
+program no longer knows it exists, you have the delete its line
+from this file (Galactic can also do this automatically from
+the galaxy menu).
+
+Every galaxy directory (classic, tne, var1, gmc) contains a list
+file, which is a directory of the sectors contained by the galaxy.
+The list file for the Classic galaxy is gals\classic\classic.lst:
+
+Directory of Sectors
+-------------------------------------------------------------
+core         Core Sector                          4    1    K
+beyond       The Beyond                           -1   1    L
+corridor     Corridor Sector                      2    0    K
+deneb        Deneb Sector                         1    0    K
+glimdrft     Glimmerdrift Reaches                 6    2    L
+gush         Gushemege Sector                     2    1    L
+lishun       Lishun Sector                        4    0    K
+oldexpan     Old Expanses                         5    3    K
+reft         Reft Sector                          1    1    L
+solrim       Solomani Rim                         4    4    K
+spica        Spica Sector                         6    4    L
+spinmar      Spinward Marches                     0    0    L
+trojan       Trojan Reach                         0    1    K
+vanguard     Vanguard Reaches                     -2   1    L
+vland        Vland Sector                         3    0    K
+alphacru     Alpha Crucis                         5    4    I
+daibei       Daibei Sector                        3    3    I
+fornast      Fornast Sector                       5    1    I
+reaversd     Reaver's Deep                        2    3    I
+
+Here, the story is much the same, except we have three extra stats.
+The two numbers (X,Y) determine the location of the sector. The
+idea here is that X gets bigger as you go to the right (east). Y
+gets bigger as you go down (south). Negative numbers are
+perfectly acceptable.
+
+The letter at the end (Color) determines the color used to
+display the sector:
+
+    A  Black    E  Red       I  Dark Grey     M  Light Red
+    B  Blue     F  Magenta   J  Light Blue    N  Light Magenta
+    C  Green    G  Brown     K  Light Green   O  Light Yellow
+    D  Cyan     H  White     L  Light Cyan    P  Bright White
+
+I've been using "L" (light cyan) for sector that are developed
+(which have world write-ups, etc). "K" (light green) has been
+used for sectors that have been generated but not developed (the
+sector data exists, but there are no world write-ups). "I" (dark
+grey) has been used for sectors that do not exist except in name
+(no data has been generated for them).
+
+You can use any of the colors to represent your sectors, and they
+can mean whatever you want them to mean, however, "I" (dark grey)
+is a reserved color in the sense that Galactic will assume that
+all dark grey sectors do not exist except in name.
+

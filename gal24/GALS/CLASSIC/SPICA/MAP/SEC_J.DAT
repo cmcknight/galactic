@@ -1,0 +1,36 @@
+@SUB-SECTOR: sec_j   SECTOR: Spica
+#
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Crestmont     0922 E301410-7    Lo Ni Va Ic        210 So
+Bairable      0923 C311131-9    Lo Ni Ic           704 So
+Wormwood      0927 D8C1557-9    Fl Ni              703 So
+Thalassa      0928 B97A453-9    Lo Ni Wa           822 So
+Painted       0929 C340325-6    Lo Ni Po De        302 So
+Uggi          0930 E48AAFC-D    Hi Wa              103 So
+Xur Alliance  1021 D698379-5    Lo Ni Tp           802 So
+Buenos Aguas  1022 E996200-5    Lo Ni Tp           602 So
+Leighton      1023 B686126-6    Lo Ni Tp           100 So
+Nax'Nor       1024 C7B5885-8    Fl                 504 So
+Stratonimbus  1029 E79A504-7    Ni Wa              302 Hv
+Seaspots      1030 E221415-8    Lo Ni Po           504 So
+Domecile      1123 C533565-7    Ni Po C:1024       803 So
+Aequine       1126 A75A68B-D    Ni Wa Cp           300 So
+Evermore      1128 A864320-8  G Lo Ni Tp St        824 So
+Portends      1129 A66321C-E  G Lo Ni Tp           502 So
+Nestlands     1224 B5658I5-E    Ri                 220 Hv
+Drake         1225 E47A444-6    Lo Ni Wa           400 So
+One World     1230 B568413-8    Lo Ni              600 Hv
+Gropie        1322 C799313-7  M Lo Ni Tp           305 Hv
+Nax'Hah'Nor   1323 C7B476B-7    Fl C:1024          804 So
+Border        1324 BA9A9J4-F    F:7 Hi In Wa       223 Hv
+Regal         1325 E201642-7    Na Ni Va Ic        400 So
+Tiring Antes  1327 B989466-C  M Lo Ni Tp O:1831    813 Hv
+Xezelfarb     1423 D344723-C    Ag                 610 Hv
+Aow'Post      1427 C7B0062-4    Lo Ni De Nh     A  310 Hv
+Waft          1522 B5419J5-F  M F:4 Hi In Po       114 Hv
+House Lu      1527 B301463-F    Lo Ni Va Ic        800 Hv
+Raxt Durb     1528 B000761-E    Na As O:1831       412 H*
+Adub (Bath)   1629 B25A765-D    Wa O:1831          414 Hv

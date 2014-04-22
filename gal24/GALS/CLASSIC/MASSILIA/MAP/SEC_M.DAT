@@ -1,0 +1,55 @@
+@SUB-SECTOR: sec_M   SECTOR: massilia
+#
+# Trade routes within the subsector
+$0839 1040 1 0
+$0839 0736 0 0
+$0736 0933 1 0
+$0736 0434 0 0
+$0434 0134 0 0
+$0434 0130 0 -1
+$0834 0530 0 -1
+$0733 0933 1 0
+$0134 3233 -1 0
+$0239 0301 0 1
+$0839 0502 0 1
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Forever       0134 A000100-G  N Ni As Lo           503 Li
+Kenbine       0138 C321123-C    Ni Po Lo           903 Li
+Sekeltin      0140 B633447-B  N Ni Po           A  101 Li
+Annari        0231 A9A2878-E    Fl Cp              832 Li
+Lumbian       0234 E100200-C    Ni Va Lo           802 Li
+Inger         0235 B794776-9  N Ag                 512 Li
+Tencrux       0239 A553346-E  N Ni Po Lo           924 Li
+Sarabin       0240 E84A430-9    Ni Wa              405 Li
+Staalun       0331 B434872-D                       111 Li
+Gusson        0335 B568100-D  N Ni Lo              521 Li
+Ledstat       0336 B3007CC-C    Va Na              114 Li
+Hunberri      0339 B884622-A    Ni Ag              504 Li
+Pocker        0432 B338254-E    Ni Lo              303 Li
+Rigold        0434 A264000-E    Ni Ba Lo           413 Li
+Dax           0436 B565877-B  S Ri                 103 Li
+Shanell       0437 E695840-7                       402 Li
+Crater        0440 D300645-8    Ni Va Na           604 Li
+Hadie         0532 B664856-B    Ri                 104 Li
+Beeson        0534 E11089B-A    Na                 503 Li
+Firman        0536 B87A225-C    Ni Wa Lo           400 Li
+Orichalc      0539 B78A974-E    Hi Wa              705 Li
+Nilrebmah     0540 B889653-C    Ni Ri           A  214 Li
+Plaacen       0631 B225888-C                       402 Li
+Monapoan      0632 A562435-D  N Ni                 313 Li
+Lumbine       0732 B200887-C    Va Na              804 Li
+Crussel       0733 A451246-D    Ni Po Lo           723 Li
+Sorrento      0734 B798640-A    Ni Ag              424 Li
+Block         0736 A561101-E  N Ni Lo              800 Li
+Teradd        0737 B6758AA-A                       102 Li
+Rarderger     0738 E79A766-8    Wa                 713 Li
+Kiggens       0739 B531323-D    Ni Po Lo        A  603 Li
+Matila        0740 A100684-F    Ni Va Na           902 Li
+Secorra       0834 A698767-C    Ag                 102 Li
+Ryson         0836 B668300-B    Ni Lo              812 Li
+Leam          0837 E110A83-D    Hi In Na        A  722 Li
+Lowisa        0839 A100576-G    Ni Va              804 Li
+Kilarn        0840 B41089A-C    Na                 114 Li

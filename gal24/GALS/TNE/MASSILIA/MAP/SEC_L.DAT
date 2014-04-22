@@ -1,0 +1,41 @@
+@SUB-SECTOR: sec_a   SECTOR: massilia
+#
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Logol         2521 X5735RA-1    Ni                 213 Wi
+Gernice       2522 X6847Q4-5    Ag Ri           B  110 Wi
+Barden        2523 X3557R9-0    Ag              B  601 Wi
+Feiths        2529 X310000-0    Ba                 024 Un
+Shigeko       2530 D3638WB-8                    B  210 Wi
+Lendining     2621 X5457R9-8    Ag                 404 Wi
+Goematt       2622 X8C7000-0    Ba Fl              020 Un
+Lorfee        2624 X8654QA-4    Lo Ni           B  302 Wi
+Rolando       2630 X100000-0    Ba Va              002 Un
+Baetrin       2724 X688565-7    Dw Ag Ni           222 Dr
+Seneca        2727 X2653P7-4    Lo Ni              210 Wi
+Rinkenbine    2729 X110000-0    Ba                 001 Un
+Ferron        2730 D4916RA-7    Ni                 403 Wi
+Macaw         2822 X726000-0    Ba                 003 Un
+Jobi          2827 X100000-0    Ba Va              014 Un
+Gilafill      2828 X4842Q0-1    Lo Ni              300 Wi
+Giirsha       2925 X87A9Q6-7    Hi In Wa           110 Wi
+Nova          2926 X200000-0    Ba Va              011 Un
+Haterbur      2927 X110000-0    Ba                 002 Un
+Varglen       2929 X110000-0    Ba                 000 Un
+Danmer        2930 X525000-0    Ba                 001 Un
+Haela         3021 X5534Q7-9    Lo Ni Po           203 Wi
+Erro          3026 X729000-0    Ba                 012 Un
+Poorstar      3027 X100000-0    Ba Va              002 Un
+Glerum        3122 X000000-0    As Ba              000 Un
+Mingle        3123 X100000-0    Ba Va              014 Un
+Tooka         3124 X2415RB-5    Ni Po An           202 Wi
+Noplace       3125 X100000-0    Ba Va              024 Un
+Whidden       3127 X4665R7-0    Ag Ni           B  213 Wi
+Lensfer       3128 X331000-0    Ba                 000 Un
+Gelornamite   3129 X8A1000-0    Ba Fl              023 Un
+Tichette      3221 X551203-0    Lo Ni Po        B  501 Wi
+Goldazax      3222 XAA4000-0    Ba Fl              002 Un
+Nystrom       3225 X5682O5-8    Lo Ni              405 Wi
+Shallow       3228 X87A300-4    Lo Ni Wa        B  202 Wi

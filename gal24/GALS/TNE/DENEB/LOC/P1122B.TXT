@@ -1,0 +1,32 @@
+System: Vincennes
+Subsector: Vincennes
+Sector: Deneb Sector
+Coordinates: 1122 (J0302)
+UWP: A899AA6-G
+
+Starport: Excellent
+Size: Large (12000-13600 km)
+Atmosphere: Dense, tainted
+Hydrographics: 90% water
+Population: 10 billion
+Govt: Charismatic Dictatorship
+Law Level: Moderate
+Technology: High Stellar
+
+Bases: None
+Trade Codes: Hi In Cp        
+Travel Zone: Green
+Planetoid Belts: 1
+Gas Giants: 3
+Allegiance: Domain of Deneb
+
+Extended Stats:
+A899AA6-G   Hi In Cp  213  RE  K7 V  M7 V  G1 V
+G=1.50, Day=33:32:15, Year = 199d 06:28:48
+Atmo=1.50, Weather Control
+Temp= +24.7 (7/lat +21 to -49) (season +66.0 to -20.0, 5.32 deg lat)
+Daily temp range:  Special
+Ores, Radioactives; Parts, Durables, Weapons; Recordings, Software
+Progressive/Enterprising, Competitive/Neutral, Harmonious/Aloof
+Legal:  6-6A665     Tech  GG-GHHGH-FGGG-GE-G
+

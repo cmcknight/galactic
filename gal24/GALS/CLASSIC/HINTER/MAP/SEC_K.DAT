@@ -1,0 +1,53 @@
+@SUB-SECTOR: sec_K   SECTOR: hinter
+#
+# Trade routes within the subsector
+$1924 1822 0 0
+$1924 1622 -1 0
+$1822 1622 -1 0
+$1822 1820 0 -1
+$1924 1928 0 0
+$1928 2029 0 0
+$2029 1931 0 1
+$1826 1625 -1 0
+$1726 1730 0 0
+$1730 1531 -1 1
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Hood          1723 CA96122-6    Ni                 603 Na
+211-111       1726 B656313-7    Ni              A  904 Ow
+Shista        1728 C000788-6    As Na           A  520 Ow
+Keratl        1730 A110658-A    Ni Na           A  303 Ow
+Greene        1822 C787586-9    Ni Ag              412 Na
+211-902       1826 E210235-8    Ni              A  903 Ow
+Givan         1829 B665488-7    Ni                 404 Na
+Kiree         1830 B8B0323-8    Ni De              205 Na
+Orphan        1923 B656565-7    Ni Ag              302 Na
+Branch        1924 E655540-4    Ni Ag              412 Na
+Rouen         1925 D765366-5    Ni                 711 Na
+Green Lip     1926 E744444-5    Ni                 504 Na
+Sponge        1928 C2008A7-6    Va Na              403 Na
+DN-4457       1930 D300410-4    Ni Va              324 Na
+Turnstyle     2026 D410476-8    Ni                 224 Na
+Archambault   2027 B955012-5    Ni                 804 Na
+Pulfenex      2029 A76A313-C  F C1 Ni Wa           704 Na
+Plant         2127 C100436-6    Ni Va              201 Na
+Lorbin        2128 B100533-B    Ni Va           A  302 Na
+Pusan         2129 B21098B-B    Hi In Na           701 Na
+Ry Deena      2130 E435434-7    Ni                 114 Na
+Perseus       2222 B692400-7  M Ni                 505 Na
+Gured         2223 C548100-7    Ni                 704 Na
+Allaqua       2224 B4546AA-9  M Ni Ag              504 Na
+Scarab        2225 B100449-C    Ni Va              214 Na
+Barks' Pebbles2226 B000510-A    Ni As              903 Na
+Garmill       2228 C345568-8    Ni Ag              214 Na
+Ariadne       2230 C454669-4    Ni Ag              124 Na
+Dreead'n      2322 A000100-D  F Ni As              923 Na
+Hardball      2330 E300653-4    Ni Va Na           413 Na
+Nermiss       2421 A464544-B    Ni Ag              801 Na
+Stessull      2423 E100647-7    Ni Va Na           604 Na
+Cepnu         2424 C7A0485-7    Ni De              404 Na
+Serifia       2425 X3337C8-0    Po Na           R  304 Na
+Hyrexim       2428 B21077B-B  M D1 Na              800 Na
+Pyfis         2429 D867556-5    Ni Ag           A  804 Na

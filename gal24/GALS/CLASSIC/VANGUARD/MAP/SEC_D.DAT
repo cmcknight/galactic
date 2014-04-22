@@ -1,0 +1,36 @@
+@SUB-SECTOR: sec_D   SECTOR: vanguard
+#
+# Trade routes within the subsector
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+VAREN'S PLANET2503 A940A99-B  A De Hi In Po Xb  G  110 Td     f
+Trelyn Vrra   2504 A510678-C  B Na Ni Cx Xb     G  812 Td     f
+Dorff 2       2506 B677432-6  N Ni Re Xb        G  605 Td
+Lannistort    2507 C677796-8    Ag Xb           A  103 Td
+Woonona       2510 C75A102-8    Lo Ni Wa        G  831 Na
+Obykla        2601 X270520-9    De Ni           R  702 Td
+Swyssylyn     2603 D565884-6    Ri              G  600 Td
+Joandrose     2604 C4677A8-9    Ag Xb           G  404 Td
+TITIHIRA      2607 C528976-B    Hi In Xb        A  902 Td
+Ellaris IV    2608 C98A349-7  S Lo Ni Wa Xb     G  923 Td
+Voxarl        2701 X453343-7    Lo Ni Po        R  404 Td
+Bauxia        2703 X566000-0    Ba Lo Ni Re     R  101 Td
+Drogobycho    2705 A447777-8    Ag Xb           A  803 Td
+Cozumel       2708 B874468-7  M Ni Xb     2607  G  741 Td
+Skraill       2710 C000578-A  S Ag Ni              922 Co
+Loomis 92     2804 C485449-6    An Ch30% Ni     A  341 Td
+Quillon       2806 X205653-8    Ic Ni Va        R  100 Td
+Nadsat        2807 E726441-7    Ni              A  823 Td
+Blijan        2809 D4376BC-8    Ni                 713 Co
+Luzader       2810 B7B3756-C  N                    423 Co
+Narthex       2902 E106315-5    Ic Lo Ni        G  104 Na
+Besesi        2910 C575522-9  S Ag Ni              224 Co
+Seven Odovacar3003 C9A2498-6  M Ni              G  214 Na
+Jyvaskyla     3007 C1607B9-7    De              A  210 Na
+Akrida        3009 C458557-B  S Ag Ni              404 Co
+Halfpint      3102 E140435-8    De Ni Po        G  902 Na
+Quathlamba    3106 X622355-1    Lo Ni Po        R  523 Na
+Eufalag       3204 D6A4656-3    Fl Ni           A  120 Na
+Orik          3209 C351668-8    Ni Po     2913     200 Co

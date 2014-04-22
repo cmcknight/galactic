@@ -1,0 +1,28 @@
+@dir=gals\tne\spinmar\map
+@Light Yellow
+
+Spinward Marches / Data Files
+
+@Light Cyan
+      Sector Data                  @..\spinmar.dat
+      Credits                      @..\credits.txt
+
+@Light Green
+      Subsector Data
+@Light Cyan
+       A: Chronor                  @cronor.dat
+       B: Jewell                   @jewell.dat
+       C: Regina                   @regina.dat
+       D: Aramis                   @aramis.dat
+       E: Querion                  @querion.dat
+       F: Vilis                    @vilis.dat
+       G: Lanth                    @lanth.dat
+       H: Rhylanor                 @rhylanor.dat
+       I: Darrian                  @daryen.dat
+       J: Sword Worlds             @sword.dat
+       K: Lunion                   @lunion.dat
+       L: Mora                     @mora.dat
+       M: Five Sisters             @fivesis.dat
+       N: District 268             @plankwel.dat
+       O: Glisten                  @glisten.dat
+       P: Trin's Veil              @trin.dat

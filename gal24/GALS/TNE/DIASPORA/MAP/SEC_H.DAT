@@ -1,0 +1,37 @@
+@SUB-SECTOR: sec_h   SECTOR: Diaspaora
+#
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Medora        2501 X422000-0    Ba                 003 Un
+Clarksphere   2519 X324000-0    Ba                 013 Un
+Westfir       2613 X326000-0    Ba                 001 Un
+Teeque        2614 X545567-1    Ni Ag C:9          113 Dr
+Samar         2615 X4765Q4-6    Ni Ag              303 Wi
+Dema          2618 X200000-0    Ba Va              000 Un
+Feme          2711 X4563RD-0    Ni Lo           B  212 Wi
+Geso          2713 X000000-0    Ba As              021 Un
+Campobello    2714 X000000-0    Ba As              013 Un
+Jeddel        2716 X434000-0    Ba                 015 Un
+Jodhpur       2717 X332000-0    Ba                 004 Un
+Riishu        2720 X225000-0    Ba                 014 Un
+Aarishuu      2814 X9955RA-5    Ni Ag           B  300 Wi
+Icestar       2911 X7997N3-8    Ba                 014 Wi
+Konya         2914 X200000-0    Ba Va              004 Un
+Bail 4        2917 E7997N3-8  s                    805 Wi
+La Motte      2918 X63A000-0    Ba Wa              004 Un
+Razlira       2919 E866002-7    Ni Lo              400 Wi
+Hice          2920 X7952O6-1    Ni                 304 Wi
+Shamaar       3012 X5443M0-5    Ni Lo              202 Wi
+Karroo        3012 X6673Q5-0    Ni Lo           B  224 Wi
+Mohler        3015 X8A5000-0    Ba Fl              013 Un
+Ifuwanta      3016 E5984P0-8    Ni Lo              114 Wi
+Asmera        3020 X110000-0    Ba                 015 Un
+Khedas        3112 X7A4000-0    Ba Fl              014 Un
+Farris        3115 X536000-0    Ba                 024 Un
+Cadiz         3116 X7994Q3-5    Ni Lo              302 Wi
+Ephraim       3118 E7898P5-7    Ri C:4             210 Wi
+Gashilla      3211 X8794O6-1    Ni Lo           B  214 Wi
+serege        3212 XAD9000-0    Ba Fl              020 Un
+Nantes        3219 X200000-0    Ba Va              002 Un

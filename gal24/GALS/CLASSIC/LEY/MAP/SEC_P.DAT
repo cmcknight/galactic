@@ -1,0 +1,50 @@
+@SUB-SECTOR: sec_p   SECTOR: ley
+#
+#Jump Routes
+$2536 2538 0 0
+$2931 3032 0 0
+$2939 2940 0 0
+$2939 3039 0 0
+$2940 3039 0 0
+$3032 3132 0 0
+$3039 3239 0 0
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Annuis        2531 D720413-9    Ni                 601 Cs
+Boguet        2533 X000000-0    Ba                 001 Na
+Baphomet      2535 X100000-0    Ba                 001 Na
+Oberitis      2536 D768530-6    Ag                 900 Cs
+Jadian        2538 C694412-7    Ni                 800 Cs
+Kian          2631 X9AA000-0    Ba                 001 Na
+Monad         2634 EAAA210-9    Ni                 700 Cs
+Diable        2638 E923210-8    Ni                 201 Cs
+Spiegel       2639 D634321-8    Ni                 201 Cs
+Dawnlord      2733 E9A6210-9    Ni                 301 Cs
+Shrew         2734 X9A4000-0    Ba                 000 Na
+Othilia       2736 XACA000-0    Ba                 001 Na
+Arleona       2833 X000100-0    Lo                 701 Na
+Emira         2834 E835211-9    Ni                 100 Na
+Dusking       2836 E798321-8    Ni                 100 Na
+Koelnar       2837 X225000-0    Ba                 001 Na
+Shealis       2838 X110000-0    Ba                 000 Na
+Makadmeris    2839 X200100-0    Ba                 401 Na
+Vernalisa     2931 D588452-5    Ag                 301 Na
+Protaucus     2935 X5A7000-0    Ba                 000 Na
+Devradan      2936 X312000-0    Ba                 001 Na
+Hermarix      2938 E6A5214-7    Ni                 701 Na
+Unelmis       2939 E964376-4    Ni                 701 Na
+Yaridar       2940 C857421-6    Ni                 200 Na
+Blendisan     3032 B868675-7    Ag                 400 Na
+Spyris        3039 D878315-7    Ni                 601 Na
+Irumgar       3131 E6A9100-0    Lo                 100 Na
+Trin          3132 D878421-5    Ni                 700 Na
+Fawn          3134 X244000-0    Ba                 001 Na
+Eslingirth    3135 X8CA000-0    Ba                 000 Na
+Akelos        3139 X100000-0    Ba                 001 Na
+Retek         3231 X200000-0    Ba                 000 Na
+Dalgstar      3232 X120000-0    Ba                 000 Na
+Swarmis       3233 E236210-7    Ni                 400 Na
+Vagadond      3235 E5A7314-8    Ni                 800 Na
+Moramines     3239 X130000-0    Ba                 000 Na

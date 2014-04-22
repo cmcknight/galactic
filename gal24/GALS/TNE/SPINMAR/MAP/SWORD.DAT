@@ -1,0 +1,35 @@
+@SUB-SECTOR: sword   SECTOR: spinmar
+#
+# Trade routes within the subsector
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Hrunting      0921 B463747-9  M Ri                 413 Gc
+Tizon         0922 B386887-A  M Ri                 423 Gc
+Narsil        0927 B574A55-A  M Hi In              224 Nu
+Flammarion    0930 A623514-B  B Ni Po              710 Re
+Colada        1022 B364685-B  M Ag Ni Ri        A  311 Gc
+Anduril       1026 B985855-B  M Ri Tp              322 Nu
+Mjolnir       1121 B530544-A  M Ni Po De           522 Gc
+Joyeuse       1123 B464778-A  M Ag Ri           A  601 Gc
+Orcrist       1126 B8A6833-A  M Fl                 101 Nu
+Enos          1130 E25059B-4  J Ni Po De           710 Na
+Gungnir       1221 B444879-8  M                 B  132 Gc
+Gram          1223 A895957-B  M Hi In Tp Cx        803 Gc
+Excalibur     1225 B324755-A  M                    602 Nu
+Tyrfing       1324 B637835-A  M                    101 Ns
+Sacnoth       1325 B775956-C  M Hi In Tn           801 Ns
+Caladbolg     1329 B365876-A  S Ri              B  110 Re
+Beater        1424 B685786-A  M Ag Ri Tp Cx        110 Sw
+Gunn          1429 E344110-8    Lo Ni           A  602 Re
+Caliburn      1430 E000514-A    Ni As              924 Re
+Dyrnwyn       1522 B958412-A  M Lo Ni Tp           201 Sw
+Durendal      1523 B687334-B  M Lo Ni Tp           714 Sw
+Hofud         1524 B666553-A  M Ag Ni Tp           501 Sw
+Sting         1525 B645896-A  M Tp                 402 Sw
+Biter         1526 B354623-A  M Ag Ni              401 Sw
+Steel         1529 E655000-7    Lo Ni Tp           324 Re
+Iron          1626 E529000-9    Lo Ni              714 Re
+Bronze        1627 E201000-9    Lo Ni Va Ic        510 Re
+Mithril       1628 E568000-0    Lo Ni              301 Re

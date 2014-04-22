@@ -1,0 +1,111 @@
+
+I figured, just for the sake of organization, that we'd better figure
+out what sectors are out there and who's working on them. Here is a list
+of sectors that are either available as DGP raw sector data or are being
+created whole by various people on the list. If I've screwed up anywhere
+and need to amend this list, please let me know.
+
+alphacru       TNE (alpha leonis) version contributed by Idiot/Savant & Lewis
+amdukan        Classic version contributed by Jeff Zeitlin
+antares        Classic version contributed by Jeff Zeitlin
+arzul          Classic version contributed by Jeff Zeitlin
+beyond         Was originally published by Paranoia Press
+               Converted to Galactic format (thanks to Michel Boucher)
+canopus        Classic & TNE versions contributed by Rupert Boleyn
+core           Classic version (still undetailed) contributed by idiot/savant
+               Milieu 0 version by "Commander X" & Jo Grant.
+corridor       Classic version done (Data from DGP archive)
+               TNE version contributed by Chris Griffen
+crucis         Was originally published by Judges Guild
+               JG version in progress by Andrew Vallance
+               see also Leroy Guatney
+dagudash       Classic version by Jae Campbell, Duncan Law-Green, etc.
+daibei         Missing World Names
+               Partial TNE version in progress by Derek Stanley
+darknebu       Missing World Names
+               MT version in progress by Stuart Dollar
+delphi         Missing World Names
+deneb          Classic version done (data from DGP archive)
+               TNE version done (data from Planet III)
+diaspora       Missing World Names
+               Undetailed TNE version sent to me by Lewis Roberts
+               CT/MT/TNE versions in progress by Stuart Dollar
+ealiyasi       Classic version done (data from DGP archive)
+emptyq         Classic version contributed by Jeff Zeitlin
+foreven        See Allen Shock
+fornast        Missing World Names, see James Burdick
+gateway        Classic version contributed by Jens Maskus
+glimmerd       DGP data Missing World Names
+               non-JG version in progress by Rob Beck
+               JG version in progress by Andrew Vallance
+gushemeg       Classic version contributed by David Burden
+               TNE version contributed by Michael Koehne
+gvurrdon       Classic & TNE versions contributed by Roger Myhre
+hadji          See Scott Galliand
+hinter         Classic version done (Data from DGP archive)
+hlakhoi        Missing World Names
+ilelish        Missing World Names
+iwahfuah       Missing World Names
+langere        See Leroy Guatney
+leonidae       See Leroy Guatney
+ley            Missing World Names
+               JG version in progress by Andrew Vallance
+lishun         Classic version done (Data from DGP archive)
+magyar         Classic version done (contributed by Dakin Burdick)
+               See also John Watts
+massilia       Classic version done (Data from DGP archive)
+               MT version in progress by Stuart Dollar
+mendan         Classic version contributed by Jeff Zeitlin
+meshan         Classic version contributed by Martin Rait
+neworld        See Scott Galliand
+oldexpan       Classic version done (Data from DGP archive)
+               TNE version done (contributed by Lewis Roberts)
+phlask         See Leroy Guatney
+reaversd       Missing World Names
+               version in progress by Stuart Dollar
+               partial TNE version in progress by Derek Stanley
+reft           Classic version done (Data from DGP archive)
+               TNE version done (Data from Planet III)
+riftspan       Classic version done (Data from DGP archive)
+solomani       Classic version done (Data from DGP archive)
+               See Andrew Boulton for Campaign Diary
+               See also John Watts
+spica          Missing World Names
+               Undetailed TNE version sent to me by Lewis Roberts
+               see also Leroy Guatney
+spinward       Classic version done (Data from DGP archive)
+               TNE version done (Data from Planet III)
+staihaia       Missing World Names
+starsend       Classic version contributed by Jeff Zeitlin
+trojanre       Classic version done (Data from DGP archive)
+               TNE version contributed by Chris Griffen
+ustralq        Classic version contributed by Doug Snyder
+vanguard       Originally published by Paranoia Press
+               Classic version contributed by Michel Boucher
+verge          Missing World Names
+vland          Classic version done (Data from DGP archive)
+               TNE version contributed by Chris Griffen
+yiklerzd       TNE version contributed by Grant Sinclair & HIWG Australia
+zarushag       Missing World Names
+
+If you're interested in doing sector development from raw DGP data,
+keep in mind that you can get the raw sector files from:
+
+   http://deceased.hb.north.de/hosts/bakunin/traveller
+   ftp://elendor.sbs.nau.edu/pub/rpg/traveller/sectors
+
+Or I can email them to you. There are two version to be aware of,
+DPG-original and DGP-updated. I'm not too clear on the difference,
+but I've got both sets. I've been using DGP-updated for the
+sectors which I included with Galactic, and I think that's the
+version that bakunin has (since I emailed them to him so he
+could put them online).
+
+You may also want to check out the contents of the section2
+directory which was included with this software package.
+Section2.exe will help you disect the raw DGP sectors into
+galactic-format subsectors. Keep in mind, however, that all the
+worlds in the DGP sector file you are processing need to be
+named in order for the program to work properly. Please write
+me if you have any questions about it.
+

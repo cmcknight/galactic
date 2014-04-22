@@ -1,0 +1,319 @@
+
+Nutema (Rhylanor: Spinward Marches/3112) / circa 1201
+Jeff Zeitlin (jeff.zeitlin@execnet.com)
+
+B864310-8  N Lo Ni           822Im       (Classic Era)
+A864543-A  N Ag Ni           822Re M3V   (RISS 1201)
+g=1.0600 day=23:03:00; year=51d 00:29:05.37 std/53d 02:50:05.37 lcl
+atmo=1.00, natural weather
+temp=+6 (7/lat +27 to -43) (season -23 to +14, 16 deg lat)
+daily temp range 15
+Agri, Crys, Comp; AgriProd, Met, NonMet; Parts, Dur, Cons; Docs
+Prog/Adv; Comp/Neut; Har/Xphil
+Legal 3-34432, Tech AA-AAAAC-AAAC-BB-D
+
+Nutema's claim to fame in the Spinward States is as an exporter of
+meats and meat products that are without equal on any known Spinward
+planet.  Everyone knows of dragon steaks by reputation, and many are
+lucky enough to have had the opportunity to eat some in a luxury
+restaurant.
+
+The traveller to Nutema will notice a significant difference between
+Nutema and the nearby worlds as soon as he debarks from his ship.
+Starports on planets that have direct commerce with Nutema are all
+strongly influenced by Vilani and Sylean attitudes.  They tend to be
+orderly places, with a clear demarcation between administration,
+security, and service personnel.  Not so on Nutema.  Administrators are
+likely to be directly interacting with passengers and carrying bags or
+teamstering cargo, service personnel shout out orders to each other
+with abandon, and there are no security guards anywhere in sight.
+That's not to say that your arrival will be chaotic.  The efficiency of
+the Nuteman system is surprising, and you'll be ready to depart the
+starport for the planet's surface within a standard day - including
+processing by CHI (Customs - Health - Immigration).  The apparent lack
+of security at Nutema Skyside (the _only_ starport at Nutema - there
+are no "dirtside" facilities for starships) is also no reason for
+concern - each and every Nuteman you see will be armed (an effect of
+Nuteman attitudes toward government, and of the needs of the ranching
+industry), and they all know how and when to use their weapons.
+
+Nuteman Startown is right there in the Starport.  The organized chaos
+of the port area extends here as well, with commercial, governmental,
+and residential units intermixed in whatever way the various owners
+felt was most immediately useful, and people doing whatever needs to
+be done whenever it needs doing, without regard for whether they are
+the "proper" person to be doing the job.  Note that although the
+entire starport is considered to be the extraterritoriality zone,
+Nuteman notions of what is right and proper are the ones that are
+enforced, not those of the interstellar powers.  The result is a much
+more anarchic atmosphere, where the cardinal rules are to look out
+for oneself, expect others to do the same, and be careful to avoid
+giving offense.  For this reason, travellers are advised to contact the
+Imperial Tourism Bureau office before exiting their ship.  This office
+has the de facto status of Consulate, but its ability to intervene on
+behalf of an offworld citizen is limited.  The office maintain close
+contact with personnel based planetside, and the traveller who
+remembers to file an itinerary with the Bureau will find that almost
+any unexpected problems can be quickly cleared up.  The exception to
+this is encounters with the legal system, where the most that can be
+done by the Bureau is to arrange for competent Nuteman legal
+assistance, and "affairs of honor", where the Bureau's ability to act
+is limited to ensuring appropriate medical attention and legal
+assistance, or, in extreme cases, arranging for the traveller's body to
+be shipped back home, along with timely and appropriate notifications
+to next-of-kin and other designated persons.
+
+Conducting business on Nutema is a matter of "let the buyer beware",
+and of contracts where "every piddling detail" is spelled out in
+full.  Regardless of the respective addresses of the parties to a
+contract on Nutema, disputes over contractual matters are always
+settled according to Nuteman protocols, which means plenty of
+negotiation and arbitration, optionally assisted by third parties
+(for a fee) before it gets to a Nuteman court.  The court will look
+only at the language of the contract and the facts of the case;
+"intentions" not spelled out in the contract count for as much as the
+color of the sky - which is to say, not at all.  That's not to say
+that Nuteman businessmen are out to fleece the unwary; rather, they
+bend over backwards to ensure that any contract is fair to both
+parties - doing otherwise is, in general, a sure way to get called
+out in an affair of honor.
+
+Beyond that caveat, doing business on Nutema is very much a social
+activity.  Count on "working lunches" and "working dinners" in which
+little work and much "schmooze" gets done.  Nuteman are willing to
+exchange anecdotes about various occasions in their lives at the drop
+of a hat; be prepared to do the same - Nuteman businessmen want to
+"know who they're doing business with", and won't be satisfied with
+the arm's-length relationship common on most worlds.  Also, it is
+considered entirely proper on Nutema to address an acquaintance,
+either business or social, by his/her first name, or by an unadorned
+family name, omitting any titles or honorifics.  Deadlines are less
+important than agreement on the essentials; expect that an attempt to
+pressure a Nuteman businessman to be counterproductive.
+
+Most business with Nuteman concerns can be conducted at the Starport,
+and there are definite advantages to doing so - for example, no taxes
+or import/export duties are levied on transactions at the Starport,
+and many businesses receive subsidies from profits from berthing
+fees, allowing prices on goods and (non-berthing-related) services to
+be relatively low.  The down side is that many courtesies that are
+provided free of charge at other starports are available only for a
+fee at Nutema - shuttle service to the surface is one such.
+Nevertheless, you'll be encouraged by your Nuteman business contacts
+to "c'mon down and visit", and such a visit is not to be missed.
+
+In spite of the hustle and bustle that you'll find at the starport,
+and on the planet's surface, the pace of life on Nutema is relaxed.
+Things get done "when they're done", and firm schedules are viewed
+almost as an imposition on personal freedom.  You'll find that proper
+care is taken on all matters, however, and that includes quick
+completion of a task when appropriate.
+
+Nutema uses two calendars and two clocks - one of each is synchronized
+with the standard Imperial time measurements; the second calendar is
+synchronized with the local revolutional periods. The second clock (the
+"decimal" clock, in Nuteman terms) is a strictly Nuteman invention; the
+Nuteman day is divided into 100 "centads", each of which is divided
+into ten "mills". Each "mill" is thus 83 seconds long.  The Starport
+operates according to the Imperial clock and calendar, as does the
+local government in terms of financial matters and interaction with the
+Imperium.  Most other matters are handled on the basis of the local
+calendar, measured in local days.  Note that a local day, when
+described using the standard clock, starts at 0000 (midnight) and ends
+at 2302 - 2303 is the same as midnight, and starts the next day.  The
+decimal clock starts at 000 (midnight) and runs to 999 - one minute
+later, it is 000 again, and the next day begins.  The distinguishing
+factor between the clocks is that decimal time is always written with
+three digits, while standard time is always written with four; when
+speaking, standard time is always suffixed by "standard" or "hours",
+and times before 1000 are always pronounced with a leading "oh" -
+"oh-six-hundred standard" refers to six hours after midnight; "six
+hundred" refers to a time nearly eight standard hours later (13
+standard hours and 50 standard minutes after midnight).  It is highly
+recommended that the traveller become familiar with the decimal clock,
+although many clocks on the planet give times in both the decimal form
+and the standard form.
+
+There is one shuttle port at each of Nutema's 82 cities, with
+commercial air-raft (the "bus", in local parlance) or maglev service
+from the shuttle port (Class F, universally) to the nearby smaller
+towns and larger ranches, and commercial air-raft ("bus") and shuttle
+service between the shuttle ports.  Most shuttle ports are also bases
+for fleets of chauffeured air-rafts ("taxis") that provide reasonably
+priced door-to-door service between any two points within a certain
+distance from the center of the city, and generally to other nearby
+cities as well. Travellers should note that the shuttle ports are not
+considered extraterritorial.
+
+Nuteman cities are compact conglomerations of buildings interspersed
+with parks and other recreational open areas.  Zoning, per se,
+doesn't exist, any more than it does in the Starport, but unspoken
+informal agreements have resulted in most heavy industry (meat
+processing and manufacturing, mostly) being concentrated, usually a
+short distance away from the city proper, and most of the more
+raucous forms of commercial enterprise are concentrated in the center
+of the city, away from residential concentrations.  While almost any
+needs within a city can be met within walking distance, each city is
+home to at least one, and most likely several, enterprising
+individuals or organizations that provide the visitor - or resident -
+with transportation (like "taxis") to more distant parts of the city.
+
+When you visit a Nuteman restaurant, you'll be steered toward some of
+the more exotic "special of the day" dishes, almost none of which use
+dragon meat.  They're all good, but if this is your first visit to
+Nutema, ask for "a slab, dressed", regardless of whether or not you
+see it on the menu - it's available, and they'll be happy to prepare
+it for you.  Even if you've had dragon off-planet, you're in for a
+treat, and you'll realize that you've never really eaten dragon
+before.  You'll get a slab of dragon, five centimeters thick and
+easily twenty centimeters across, either grilled or roasted (your
+choice), the latter in its own juices, served with a collection of
+native fruits and vegetables.  The particular assortment of fruits
+and vegetables varies, depending on the time of year.  Nuteman drink
+beer with their dragon, and almost nothing else, but order an off-world
+brand if one is available (usually) - by almost any standards, a native
+Nuteman beer is as bad as the dragon is good, and even the Nuteman
+drink it only to prove that they can.
+
+Dress on Nutema is a matter of practicality, especially given the
+climate.  Most of the time, ranch staff will wear a "body sleeve"
+(really a space-suit liner) for routine work around the ranch,
+getting into combat armor when direct action against one or more
+dragon is needed.  In the cities, more attention is paid to "style",
+but again, practicality rules - the long, flowing garments frequently
+seen among Vilani traditionalists are nowhere to be seen on Nutema;
+neither are the ruffs and frills of the various noble courts and former
+noble courts.  In general, Nuteman expect their clothes to be quite
+comfortable and to stand up to "normal wear and tear" for whatever job
+they expect to be doing - generally no more than that, but certainly
+nothing less.
+
+Organized sports are arguably the most popular form of entertainment
+on Nutema, with free rugby (rugby in a zero-g field) and baseball
+being the most popular spectator sports, and baseball being the most
+popular participatory sport.  Most Nuteman can throw, hit, and catch
+competently, and a "pick-up" baseball game is almost compulsory at
+any large social gathering.  There are "company leagues" all over the
+planet, but no professional baseball organizations - the Nuteman feel
+that it would spoil the sport, and the only reason they tolerate
+professionals (many of whom are former offworlders with experience)
+for free rugby is because of the cost of the zero-g facilities.  Other
+sports are not unknown on Nutema; generally favored are football
+("soccer" in the local dialect) and an amorphous form of seemingly
+violent entertainment called "rodeo" which seems to have no fixed form.
+Most of Nutema's limited habitable land area (basically the tropical
+zone around the seas - most everything outside it is tundra or worse)
+is devoted to its primary industry, dragon ranching.  No matter which
+shuttle port you are headed for, your shuttle's route will be within
+easy sight of a dragon ranch. One look at a herd of dragon will explain
+why Nutema allows heavy military equipment to be owned and used by
+private citizens - it takes a tank and its weapons to make an
+impression on a 25-tonne beast, and when that beast, or a herd of them,
+is angry or confused, and stampeding, not even a tank can hope to do
+much.  In order to manage the herds, each of the ranchers maintains
+enough manpower and equipment to outfit a crack mercenary unit or
+three, and keeps both in top condition.
+
+The government provides three, and only three, services:  It
+maintains the starport and the shuttle ports, it provides command and
+coordination for planetary defense (with the ranchers providing the
+heavy equipment, and the population at large providing the manpower
+and infantry equipment), and it provides criminal and commercial
+justice services, including the Nuteman Marshalls, whose sole purpose
+is to investigate allegations of criminal acts and bring the accused
+to justice - they are not a patrol force in the traditional sense of
+a police department.  The basic philosophy of all Nuteman with
+respect to crime and justice is that the individual is responsible
+for maintaining his honor, and his own safety and that of his
+property, and may take any action he deems fit to protect them - but
+if in doing so, he becomes a danger to his neighbors, they have the
+same right to protect themselves against him.  This extends to
+protecting the planet itself, which is why the government does not
+maintain a standing army (nor would it be allowed to by the Nuteman -
+they take the position that a government that maintains a standing
+army has no checks, other than its own ethics, against oppressing its
+own people, or aggression against others), and is indirectly why
+taxes are absolutely minimal on Nutema (a government that is kept
+poor doesn't have the money to spend on standing armies - only on
+what the people feel they need from the government).
+
+The maintenance of honor effectively mandates honesty and respect
+between individuals; dishonesty or disrespect can be (and in the
+opinion of most Nuteman, should be) construed as an attack on the
+honor of the person lied to or treated with disrespect, and that
+person has the right to demand satisfaction, in the form of a duel,
+either to blood or death, depending on the perceived severity of the
+attack.  A challenge to a duel is not given lightly, and refusal to
+accept is tantamount to openly acknowledging that one knowingly
+attacked the honor of the challenger.  Duels are always performed in
+public, with witnesses; this is a courtesy to the Marshalls to ensure
+that any death is in fact identified as an affair of honor.  If the
+offense was severe enough to warrant a death challenge in the opinion
+of the challenger, refusing to accept the challenge can, and probably
+will, cost the refuser his life. One can avoid the necessity of
+responding to challenges by wearing an orange-and-black armband
+(available at the starport, or at any weapon shop), but this also
+marks the wearer as a "second class citizen" who does not feel that
+his honor is worth defending.  Such individuals are generally treated
+poorly by other Nuteman, but having renounced duelling, or indeed any
+"civilized" recourse to infringement of their rights, they have no
+real recourse against such treatment.
+
+Except when their honor is offended, the people of Nutema are open
+and friendly, and the visitor who interacts with them openly and
+honestly will have no trouble acquiring a "friendly native guide" who
+will, almost certainly, invite the visitor to a party, or to dinner
+with his (the native's) family, or to see a branding or butchering
+out at a ranch, or to some other form of friendly and informal
+entertainment. You'll also have no trouble getting your guide's
+opinions on the best places to eat and the best places to stay - but
+be warned, if your guide is one of the ranchers, you'll be invited to
+stay with him "out at the ranch", and "no" in any form is not an
+acceptable answer - unless you take him to meet the friend or
+business contact that you've already arranged to stay with.
+
+In order to avoid inadvertent offense, it is advisable for the
+prudent traveller to be aware of certain basic philosophical
+decisions that the Nuteman have made with respect to governance, and
+the effect on the society that those decisions have had.  Attention
+has previously been drawn to the custom of duelling, and the
+perceptions of personal honor behind it.  Defense of property and
+personal liberty is taken at least as seriously as defense of honor;
+a Nuteman will not hesitate to take strong, decisive action in the
+event that he believes that his property is being stolen or damaged;
+nor will he hesitate to act against anyone who attempts to restrict
+his "essential liberty" (which is generally taken to mean that a
+person can not be prevented from doing as he pleases, save that any
+such actions may not interfere with the similar right of another).
+It is for this reason, as well as for the defense of honor, that all
+Nuteman go armed, and there is a general belief that a person who is
+not armed is one who is not willing to defend his "essential liberty"
+or honor, and is not therefore worthy of being treated with the
+normal courtesies.  The visitor to Nutema is advised to get some
+rudimentary training in armed self-defense (if he/she does not
+already have such knowledge), and to purchase a weapon, before
+descending to the planet's surface; both may be obtained in startown.
+In addition, each shuttle port, and most towns, have at least one, and
+usually several, weapon shops where the citizen or visitor may purchase
+weapons or have weapons checked, cleaned, and repaired.
+
+An interesting effect of the minimalist philosophy with respect to
+government, plus the strong respect for individual liberty, has led
+to a governmental organization that would appear, at first glance, to
+be so totally unwieldly as to be ineffective at anything.  The basic
+assumption seems to be that any government with sufficient power
+unchecked will become oppressive relative to those it governs.  As a
+result, the government is divided against itself, with each branch
+having powers over the other two.  In addition, as perhaps the
+ultimate check on the powers of government, there is a power vested
+not in any official of the government, but individually in the people
+of the planet:  The people may respond to perceived excesses by most
+government officials in the same manner as they would respond to any
+offense against their "essential liberties" or their honor. Also, the
+only check on this power is that the person so acting may only be
+convicted of an illegal action if the effect of the action on the
+government official is "in nature excess of what response such
+official was deserving of".  It is instructive to note that death is
+not normally considered by the courts to be an excessive response to
+proposals to impose general and broad taxes or licensing fees.
+

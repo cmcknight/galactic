@@ -1,0 +1,10 @@
+@SUB-SECTOR: sec_H   SECTOR: corridor
+#
+# Trade routes within the subsector
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Naagasa       2511 X527000-0    Ba                 024 --
+Mee           2611 X9D8000-0    Ba                 020 --
+Kiiguuroesa   2811 X200000-0    Ba Va              001 --

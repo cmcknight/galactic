@@ -1,0 +1,42 @@
+@SUB-SECTOR: sec_N   SECTOR: sorted
+#
+# Trade routes within the subsector
+$0931 0833 -1 0
+$1034 0833 -1 0
+$1034 1035 0 0
+$1035 1538 0 0
+$1538 1540 0 0
+$1538 1435 0 0
+$1435 1332 0 0
+$1533 1429 0 -1
+$1538 1738 1 0
+$1540 1738 1 0
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Yenisei       0931 A113778-D    Na Ic              110 So
+Cicero        0938 C0007AE-9    Na As              102 So
+Chrysolite    1032 A547967-D    Hi In              311 So
+Twylo         1034 A551AA6-E  N Hi Po Cp           803 So
+Poictesme     1035 A468854-C    Ri                 601 So
+Tarsus        1136 A785867-D    Ri                 803 So
+Haddad        1137 X47A000-0    Lo Ni Wa Ba     R  522 So
+Labrys        1140 X976620-8    Ag Ni           R  205 So
+Luuru         1234 A9B7733-C    Fl                 820 So
+Aeneas        1237 C438649-9    Ni                 133 So
+Hibernia      1239 C647365-D    Lo Ni              814 So
+Mirabilis     1332 A453958-E  N Hi Po              605 So
+Sequoyah      1337 A487950-E    Hi                 502 So
+Aegir         1339 A76A885-D    Ri Wa              502 So
+Dirac         1340 C522200-C    Lo Ni Po           403 So
+Teucer        1435 A759966-E  N Hi                 302 So
+Saxe          1437 A763A78-E    Hi                 121 So
+Aquitaine     1439 A8879A7-E    Hi                 205 So
+Capella       1440 B000597-B    Ni As              323 So
+Sarpedon      1533 A312869-D  N Na Ic              601 So
+Polyph        1537 A358AA9-E    Hi                 214 So
+Vantage       1538 A8DA88A-E  N Fl Wa              634 So
+Vyborg        1540 A755787-E    Ag                 921 So
+Baraka        1636 A456976-D    Hi                 614 So
+Krokinole     1637 A211741-D    Na Ic              713 So

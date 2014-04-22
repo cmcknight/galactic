@@ -1,0 +1,30 @@
+@SUB-SECTOR: stars_A   SECTOR: gvurrdon
+#
+# Trade routes within the subsector
+#
+#--------1---------2---------3
+#PlanetName   Loc. Stars(s)
+#----------   ---- ---------
+Enjtodl       0104 M4 V M4 D
+Zhenchve'chip 0202 M7 V M9 D
+Matlmadl      0205 F0 V
+Dho Ega       0208 M4 V M7 D
+Zaerrg        0306 M3 V
+Unoldhasaellae0309 M7 V
+Angudh        0401 M7 V
+Knoelurzudal  0402 M7 VI
+Duduell       0403 F0 V
+Tarraekhs     0405 M4 V M2 D
+Uedhoelukhue  0407 K6 V
+Roeknughroe   0410 M4 III
+Gvuksdourrgh  0502 M3 V
+Songi         0503 M9 V M1 D
+Llaegh        0504 F0 V M4 D
+Torrvagve     0505 F3 V
+Dzukoun       0703 F6 V
+Onengoen      0709 M4 V
+Zangerr       0803 M4 V
+Ksaghae       0804 M2 V M6 D
+Tengerkukokhs 0807 A8 V
+Ellfoegoezou  0808 G7 VI
+Gantsugh      0809 M2 V

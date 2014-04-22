@@ -1,0 +1,27 @@
+@dir=gals\classic\mendan\map
+@Light Yellow
+
+Mendan / Data Files
+
+@Light Cyan
+      Sector Data                    @..\mendan.dat
+
+@Light Green
+      Subsector Data
+@Light Cyan
+       A: Zuugabish                  @sec_a.dat
+       B: Gainla                     @sec_b.dat
+       C: Armi                       @sec_c.dat
+       D: Mendan                     @sec_d.dat
+       E: Bammesuka                  @sec_e.dat
+       F: Kupid                      @sec_f.dat
+       G: Udinidir                   @sec_g.dat
+       H: Tozus Ganok                @sec_h.dat
+       I: Sarkan                     @sec_i.dat
+       J: Lumda                      @sec_j.dat
+       K: Valosak                    @sec_k.dat
+       L: Kaasam                     @sec_l.dat
+       M: Ikdalon                    @sec_m.dat
+       N: Lasla                      @sec_n.dat
+       O: Maidza                     @sec_o.dat
+       P: Naem                       @sec_p.dat

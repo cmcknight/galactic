@@ -1,0 +1,24 @@
+There are two planets orbiting the gas giant Benthall:
+
+System: Ip                           System: Gul
+Subsector: Mapepire                  Subsector: Mapepire
+Sector: Beyond                       Sector: Beyond
+Coordinates: 0207 (A0207)            Coordinates: 0207 (A0207)
+UWP: B542AD9-A                       UWP: EA5AA59-9
+
+Starport: Good                       Starport: Frontier Quality
+Size: Medium (7200-8800 km)          Size: Large (15200-16800 km)
+Atmosphere: Thin, tainted            Atmosphere: Thin
+Hydrographics: 20% water             Hydrographics: Water world
+Population:  0 billion               Population:  0 billion
+Govt: Religious Oligarchy            Govt: Feudal Technocracy
+Law Level: High                      Law Level: High
+Technology: Early Stellar            Technology: Early Stellar
+Resource: Rich                       Resources:
+
+Bases: Navy                          Bases: Scout
+Trade Codes: In Po                   Trade Codes: None
+Travel Zone: Green                   Travel Zone: Green
+Planetoid Belts:                     Planetoid Belts:
+Gas Giants: 1                        Gas Giants: 1
+Allegiance: Die Weltbund             Allegiance: Die Weltbund

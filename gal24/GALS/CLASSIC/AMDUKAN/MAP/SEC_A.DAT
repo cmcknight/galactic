@@ -1,0 +1,47 @@
+@SUB-SECTOR: Zimigsika SECTOR: Amdukan
+#
+# Trade Routes
+#
+$0305 3204 -1 0 11
+$0305 0308 0 0 11
+$0308 0209 0 0 11
+$0308 0707 0 0 11
+$0305 0503 0 0 11
+$0209 0112 0 1 11
+$0707 0905 1 0 11
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UWP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Akaerrg       0103 D400016-7    Lo Ni Va           200 J-
+Kashur        0104 C8B3144-8    Fl Lo Ni           723 J-
+Kiiminu       0105 D679340-5    Lo Ni              402 J-
+Mikag         0107 B895266-6  J Lo Ni              101 J-
+Egkhudide     0109 C000149-8    As Lo Ni           710 J-
+Udhon         0110 D10026A-5    Lo Ni Va        R  504 J-
+Geiger        0205 X240346-3    De Lo Ni Po     R  613 J-
+Kue Urzue     0207 C6568AB-5                    R  100 J-
+Zimigsika     0209 A77399B-C  J Hi In Cp           412 J-
+Ghaezaen      0210 A766542-9  J Ag Ni           R  933 J-
+Ongeg         0301 B669232-7    Lo Ni           A  900 Na
+Imanik        0304 E834965-5    Hi In              200 J-
+Ughikhs       0305 A367101-A  F Lo Ni           A  405 J-
+Saskwa        0308 B21077A-9    Na                 314 J-
+Sodhsiz       0309 E8478CB-5                       903 J-
+Farland       0401 C200757-9    Na Va           A  714 Na
+Ditto         0402 E530667-5    De Na Ni Po        623 J-
+Lagugga       0403 E223988-9    Hi In Na Po        720 J-
+Kibosh        0406 C3556AF-8  M Ag Ni              704 J-
+Puldoyp       0407 C454762-8    Ag C2              401 J-
+Uerrdor       0408 B651344-6  J Lo Ni Po        R  334 J-
+Urorr         0502 B37478B-9  F Ag                 625 J-
+Ounguerr      0503 B443100-9    Lo Ni Po           704 J-
+Piibumar      0504 B798166-9  J Lo Ni              601 J-
+Igakuda       0507 E330541-5    De Ni Po           104 J-
+Samush        0601 C777667-5    Ag Ni              305 J-
+Urinarii      0602 C4108A7-9  M Na                 513 J-
+Voukfou       0604 C322003-A    Lo Ni Po           400 J-
+Gishkha       0606 C99A66A-9    Ni Wa              604 J-
+Shisii        0609 D533477-4    Ni Po              911 J-
+Gagabid       0706 CAA6A65-9    Fl Hi              603 J-
+Kemaggi       0707 B735423-8  F Ni                 120 J-
+Gnokae        0810 B884100-A    Lo Ni              824 Jo

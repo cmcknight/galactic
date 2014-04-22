@@ -1,0 +1,7 @@
+
+Kemit Subsector
+---------------
+
+	The Kemit subsector contains 16 systems with a total population of
+23.3823 billion. The highest population is 22.6 billion at Kemit, and the 
+highest tech level is G at Kemit.

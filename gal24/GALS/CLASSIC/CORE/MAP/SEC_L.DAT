@@ -1,0 +1,43 @@
+@SUB-SECTOR: Dingtra SECTOR: Core
+#
+# Trade routes within the subsector
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+.             2521 E260463-6    Ni De              201 Li 
+.             2524 A576322-A  N Lo Ni              903 Li 
+.             2526 A7C6320-F    Lo Ni Fl           602 Li 
+.             2529 E5648A8-6                       914 Li 
+Gurdaan       2623 B3109DA-E  N Hi Na In           114 Li 
+Idas          2624 B4929AE-F  N Hi In              101 Li
+.             2625 B224337-D  N Lo Ni              704 Li 
+.             2628 B74A622-9  N Ni Wa              314 Li 
+.             2630 C000314-E    Lo Ni As           504 Li 
+.             2721 B551686-8    Ni Po              934 Li 
+.             2729 B360224-E    Lo Ni De           320 Li 
+.             2730 A241632-F    Ni Po              403 Li 
+.             2821 B552897-8    Po                 304 Li 
+.             2823 C553100-C    Lo Ni Po           303 Li 
+.             2825 B6838BA-7                       123 Li 
+.             2829 E100895-B    Na Va              424 Li 
+.             2830 EAC7457-8    Ni Fl              214 Li 
+Ekugush       2922 B652968-9    Hi Po              904 Li 
+.             2924 D564779-3  S Ag Ri              405 Li 
+.             2928 A494300-F    Lo Ni              214 Li 
+.             2929 B000578-B    Ni As              913 Li 
+.             3021 A45778C-A    Ag                 624 Li 
+Gurishi       3022 B756999-B  N Hi                 804 Li 
+.             3025 C200353-C  S Lo Ni Va           621 Li 
+.             3026 C363445-8    Ni                 102 Li 
+.             3027 B9D5769-8  N Fl              A  323 Li 
+.             3028 A37346B-F    Ni                 301 Li 
+.             3121 C5548AA-6                       502 Li
+.             3123 B4247A8-A  A                    814 Li 
+Kadushii      3125 D695973-A  S Hi In              713 Li 
+.             3127 B779333-D  A Lo Ni              304 Li 
+.             3128 B679885-D  S                    903 Li 
+.             3129 B867430-A  A Ni                 303 Li 
+.             3130 B557774-C    Ag                 420 Li 
+.             3226 B686576-C  N Ag Ni              600 Li 
+.             3227 B758577-9    Ag Ni              903 Li

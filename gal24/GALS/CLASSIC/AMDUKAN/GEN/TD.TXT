@@ -1,0 +1,72 @@
+The Julian Protectorate: The Tetusu-Dene Scale
+----------------------------------------------
+
+The Tetusu-Dene Scale was developed in the Imperial Spinward Marches as an
+aid to recognizing Vargr integration into Human societies on the Imperial
+Core-Spinward frontier.  It has been adopted (in slightly modified form) by
+the Julian Protectorate to recognize the level of integration of societies
+within the Protectorate.
+
+The Modified Tetusu-Dene Scale is interpreted as follows:
+
+0:  Insufficient Contact - The world has not had sufficient contact with
+    the other species for any attitude on interaction to have developed.
+    
+1:  Total Xenophobia - Members of the dominant species are bent on the
+    extermination of the other.  Attempts to extend extermination policies
+    to other worlds will be made.
+    
+2:  Passive Xenophobia - Murder of the other species when found on the planet
+    is routine, and generally government policy.  If political repercussions
+    are involved, deportation may occur.  Under no circumstances will an
+    ambassador of the other species be accepted, and relations with states
+    with less xenophobic attitudes are never warm.
+    
+3:  Enslavement - Members of the other species are regarded as fit only to
+    serve the dominant species as slaves.  Importation and breeding is
+    carefully controlled.
+    
+4:  Alienation - Members of the other species are generally confined to
+    reservations, except where it suits the convenience of the dominant
+    species to permit otherwise.  Crimes against the other species by the
+    dominant species are generally not prosecuted; crimes by the other
+    species against the dominant species generally are punished by long terms
+    of imprisonment or forced labor, by extremes of corporal punishment, or 
+    by death.
+
+5:  Strong Apartheid - Members of the other species are granted limited
+    rights.  Some prosecutions of serious crimes against the other species
+    may occur.  "Free" movement may be permitted, possibly under a system of
+    travel passes.  Participation in government by the other species is
+    barred, and franchise or equivalent is unavailable.
+
+6:  Weak Apartheid - Members of the other species are permitted to
+    participate in government, though they may be barred from many higher
+    offices.  Franchise or equivalent may be extended, but limited in scope.
+    Many occupations are closed to members of the other species, and
+    restrictions on social activities are common.  Facilities provided by
+    the government for use of the other species are inferior to those
+    provided for the use of the dominant species.  Segregation is mandatory
+    on the part of the other species, voluntary on the part of the dominant
+    species.
+
+7:  Legislative Equality - Members of the other species are not treated
+    differently at law.  Segregation of most activities occurs, and may
+    or may not be mandatory.
+
+8:  Formal Integration - Legal segregation is nonexistent, and forced
+    segregation of most activities may be illegal.  Segregation is either
+    nonexistent or very informal and very limited, and viewed with distaste.
+    Intimate relationships between members of different species are unusual,
+    and meet social resistance.
+
+9:  Total Integration - Both species participate in society on a fully equal
+    basis.  Deliberate segregation on any level is considered unacceptable,
+    and possibly provocative.  Intimate relationships between members of
+    different species are not considered unusual.
+
+The original Tetusu-Dene Scale assumed that, in an unequal relationship
+between the species, Humans were dominant.  As this may not be the case in
+the Julian Protectorate, Tetusu-Dene evaluations of 7 or less are suffixed
+with V for Vargr-dominated cultures, or H for Human-dominated cultures.
+

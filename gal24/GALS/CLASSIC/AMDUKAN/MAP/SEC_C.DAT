@@ -1,0 +1,34 @@
+@SUB-SECTOR: Bauk's Reach SECTOR: Amdukan
+#
+# Trade Routes
+#
+$1809 2107 0 0 11
+$2107 2408 0 0 11
+$2107 2304 0 0 11
+$2304 2102 0 0 11
+$1809 1507 -1 0 11
+$2304 2605 1 0 11
+$1809 1812 0 1 11
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UWP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Nugeziku      1701 X656021-0    Lo Ni           R  300 J-
+Oktoezkag     1703 C5A8547-9    Fl Ni              823 J-
+Cidtdtaa      1704 CAC87AC-5  M Fl                 524 J-
+Ongag         1707 C533499-7    Ni Po              904 J-
+Ueghzokh      1802 C769200-A  M Lo Ni              823 J-
+Valdak        1805 D778999-4    Hi In           R  104 J-
+Aer Dhon      1806 C140555-A    De Ni Po           523 J-
+Mohitoba      1809 B888321-9  J Lo Ni              802 J-
+Lakim         2001 C130400-C  M De Ni Po           901 J-
+Lubin         2006 C300410-9    Ni Va              603 J-
+Mishish       2102 B774789-8    Ag                 303 J-
+Yam           2103 C257744-6    Ag                 912 J-
+Chipinaw      2106 C233868-6    Na Po              910 J-
+Kuseg         2107 AA98653-A    Ag Ni Cp           320 J-
+Amegii        2206 C331430-A  M Ni Po              524 J-
+Noronak       2302 E589968-4    Hi                 533 J-
+Ueralong      2304 C544467-7  M Ni                 504 J-
+Arrathall     2405 D342103-7    Lo Ni Po           423 J-
+Goukaerr      2406 C563320-4    Lo Ni              400 J-
+Ukhough       2408 B668422-9    Ni                 810 J-

@@ -1,0 +1,47 @@
+@SUB-SECTOR: Saregon SECTOR: Core
+#
+# Trade routes within the subsector
+$3140 2906 0 1
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Mie Uur       2532 C110337-A    Lo Ni              603 Im
+Mid           2534 C648224-5    Lo                 402 Im
+Duunpigamuur  2536 D511766-7    Na Ni Ic           424 Im
+Duuind        2538 B768340-8    Lo Ni              202 Ck
+Uumda         2540 C553100-6    Lo Po              220 Im
+Uurkuumluu    2631 E245000-0    Ba                 013 Ba
+Arvlaa Gam    2635 E889377-3    Lo                 704 Ba
+Vled          2636 C998200-8    Lo Ni              914 Im
+Suuashuur     2639 C100100-B    Lo Va              403 Im
+Dishadshii    2640 B614ACA-C  N Hi In Ic           804 Im
+Miip          2731 E631000-0    Po Ba              004 Ba
+Uurkhir       2732 E9E7000-0    Fl Ba              002 Ba
+Gaen Luum     2736 C324365-9    Lo                 513 Im
+Sinad         2832 C458744-A    Ag                 802 Im
+Khuir         2836 B478ABA-9    In Hi              204 Im
+Igla          2837 B414553-D    Ni Ic              904 Im
+Gaeshme       2839 E783000-0    Ba                 003 Ba
+Gumir Gaeg    2840 B8C07BA-8    De                 914 Im
+Dinenruum     2931 E332641-3    Na Ni Po           122 Im
+Ganad         2933 A656A96-B  N Hi                 604 Im
+Dishe         2934 E778000-0    Ba                 015 Im
+Amuur Keiir   2935 C472100-7    Lo Ni              113 Im
+Saregon       2936 A584522-C    Ag Hi              314 Im
+Uurigger      2937 C4347BD-8                       403 Im
+Shakiiga      2938 C867841-9    Ri                 310 Im
+Ashmelam      3033 A424636-D  N Ni                 903 Im
+Iishaanka     3034 B554977-A    Hi                 603 Im
+Lashupii      3037 E665100-4    Lo                 722 Im
+Kiiguuga      3039 B8B4200-A    Lo Fl              601 Im
+Unlakhar      3040 A629733-C  N                    703 Im
+Ashga         3131 A7C3424-A    Fl                 413 Im
+Kiir          3132 E462000-0    Ba                 010 Im
+Nin           3133 C362237-5    Lo                 402 Im
+Arla          3135 B58A687-8    Ni Ri Wa           700 Im
+Iimdii        3137 E493000-0    Ba                 003 Ba
+Kerumirgaa    3140 A562220-8    Lo                 110 Im
+Gau           3234 C433665-B    Na Ni Po           420 Im
+Daii          3235 C75A100-8    Wa Lo              613 Im
+Luushdeam     3238 E560100-3    De Lo              803 Im

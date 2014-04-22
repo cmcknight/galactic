@@ -1,0 +1,41 @@
+World: KEMIT
+Subsector: Kemit
+Sector: Ustral Quadrant
+Coordinates: 1928 (K0308)
+UWP: A776A43-G
+
+Starport: Excellent
+Size: Medium (10400-12000 km)
+Atmosphere: Standard, tainted
+Hydrographics: 60% water
+Population: 20 billion
+Govt: Representative Democracy
+Law Level: Low
+Technology: High Stellar
+Planetoid Belts: 3
+Gas Giants: 2
+
+Allegiance: Non-aligned
+Bases: Military and Naval bases
+Trade Codes: Hi In           
+Travel Zone: Green
+
+
+Extended Stats:
+A776A43-G F  Hi In                  232 Na G2 V M5 V
+G = 0.94, Day = 25:29:03, Year = 
+Atmo = 1.0, Weather control
+Temp = +28.41 C
+Daily temp range +6.438 to -12.75 C
+Native life present
+Agricultural, Ores, Radioactives, Compounds, Agroproducts, Metals, 
+Non-Metals, Parts, Consumables, Weapons, Recordings, Softwares.
+Progressive/Enterprising, Competitive/Neutral, Harmonious/ Friendly
+Legal: 3-71521  Tech:  GF-GGGFF-FFFF-GF-G
+
+Kemit Unusual Customs:
+     The population wear Aslan style clothing; loose robes with symbols showing
+the line of work the person is in.
+     All children receive free education paid for by the government.
+In game terms, all characters with a homeworld of Kemit, add +1 Edu to Edu less
+than A or raise Edu to 7 if less than 7.

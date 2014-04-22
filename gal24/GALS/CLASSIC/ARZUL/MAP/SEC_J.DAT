@@ -1,0 +1,36 @@
+@SUB-SECTOR: Gorzadi SECTOR: Arzul
+#
+$0928 0627 -1 0 11
+$0928 1228 0 0 11
+$1225 0928 0 0 11
+$1228 1232 0 1 11
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Liadyhwed     0923 C693873-6  S                    723 Hl    
+Vun           0922 E68A100-7    Lo Wa              503 Hl    
+Ugwontfeidd   0928 A45798B-D  S Hi                 203 Hl    
+Arzan         1024 X241000-0    Ba Lo              010 Hl    
+Keratapa      1026 B577223-9  S Lo                 523 Hl    
+Gulila        1122 C455484-6  S                    824 Na    
+Ston          1124 XAC7000-0    Ba Fl Lo           023 Hl    
+Rob           1128 X332000-0    Ba Lo              000 Hl    
+Akhuranududi  1226 E656787-2    Ag                 300 Hl    
+Tipai         1225 A433677-C                       203 Hl    
+Milinkhi      1227 B775675-8  N Ag                 414 Hl    
+Ush           1228 A794A9B-A  S Hi                 423 Hl    
+Nidnalag      1230 X333000-0    Ba Lo              014 Hl    
+Giapeimiwch   1321 X273000-0    Ba Lo              004 Na    
+Gharrgh       1323 A764AED-C    Hi                 814 Na    
+Miirkha       1322 B323464-B  2                    401 Na    
+Ligish        1329 C777585-9    Ag                 704 Hl    
+Sakimdurgani  1328 A673353-B    Lo                 304 Hl     
+Gijrmerins    1422 D659156-9  S Lo                 405 Na    
+Lasre         1424 A667872-8  2                    622 Na    
+Amli          1425 X100000-0    Ba Lo Va           002 Na    
+Iige          1426 X677000-0    Ba Lo              005 Na    
+Bednystek     1524 X100000-0    Ba Lo Va           004 Na    
+Katowuepe     1522 X648000-0    Ba Lo              000 Na    
+Dung          1523 C445267-5    Lo                 405 Na    
+Ab            1622 B84A964-9    Hi Wa              104 Na    
+

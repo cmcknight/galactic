@@ -1,0 +1,87 @@
+
+                       General Introduction
+
+
+This program is mainly for those types of Traveller referees who
+like to build big campaign settings. How often have you looked at
+all your notes on all the different worlds you've detailed
+(either in the official traveller universe or in your own variant
+campaign setting)? More likely than not, you've got a notebook
+full of such material. Now just imagine how nice it would be if
+all those world write-ups were right at your finger tips, so that
+you could open up a program, arrow over to a particular star
+system, hit <enter>, and all your notes would be right there in
+front of you.
+
+Well, that's exactly what this program will do for you.
+
+Not only will you be able to map out your campaign universe, but
+you'll also be able to access it quickly in the middle of the
+game session if you need to, and (best of all) you'll even be
+able to share it with other people on the net.
+
+How are you going to do all this?
+
+First, if you haven't yet done so, go look at the map of the
+Spinward Marches (in the Classic Traveller Galaxy) by selecting
+the Star Map option at the main menu. Take a look at the Glisten
+Subsector, for instance. You'll notice that many of the hexes
+there are red rather than blue. Red hexes are hexes where the
+starsystem has a write-up of some sort. Rob Dean
+(robdean@access.digex.net) has kindly donated most of the
+write-ups which you'll see there.
+
+Creating write-ups with this program is pretty easy. There are two
+ways you can do it. The first is to create a text file. You simply
+hit the <enter> key on top of a blue-hex star system and tell the
+computer you want to create a text file. It'll zap you right into
+one, and you can start writing the world description from there.
+
+The second method involves creating a menu (only suggested if you
+have a lot of material you need to break down by subject).
+Overnale (Glisten/1937) is a good example of this, and you can
+read about creating menus in the very next help file.
+
+One of the things you may want to try is creating your own star
+sector. To do that, you need to use <insert> key at the galaxy
+map. This will take you into a sector generation questionnaire
+(ready to answer a whole lot of questions) about the sector
+you want to create.
+
+I developed this program for two reasons. First, while the
+previous sector viewer/generators have been good, there seemed to
+be an awful lot of room for improvement. The second reason,
+however, is that I know there's an awful lot of Traveller
+referees out there on the Internet, and I really think it's a
+shame that we aren't pooling our creativity and coming up with a
+shared-universe of some sort. True, some people have branched off
+and started their own projects, but the rest of us have been
+essentially slaves to the official Traveller setting. While I
+have nothing in particular against that setting, I think it's
+only one of many possibilities, and that instead of watching
+what the "official" game designers are doing and trying to
+work around them, what we should be doing is developing our own
+completely original galaxy of sectors (or _galaxies_ of sectors
+if you prefer). With the number of people we have on the
+Traveller Mailing Lists, we could really create something awesome
+if we pooled our creativity, and with this program, it is very
+easy to put star sectors alongside one another and have them mesh
+seemlessly. This program is essentially a tool to allow us, as
+the long-time Traveller consumers, to start being Traveller-
+creators, developing a shared-universe for the game which is as
+rich and varied as even that which GDW, DGP, FASA, Gamelords,
+Judge Guild, Paranoia Press, and others have jointly designed.
+
+If you like this idea and want to take part in this sort of
+project, please write me, and I'll see if we can't get something
+organized. And if you have any questions at all about this
+program which aren't addressed here, please feel free to bug me.
+I'm one of those weirdos who actually likes getting email (even
+if I'm sometimes slow in responding).
+
+Jim Vassilakos
+jimv@empirenet.com
+
+
+   Hit <Q> to return to Help Menu
+

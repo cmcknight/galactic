@@ -1,0 +1,39 @@
+@SUB-SECTOR: Yewoiauehoah SECTOR: Ustral Quadrant
+#
+$2102 2140 0 -1 10
+$2004 2204 0 0 10
+$2204 2404 0 0 10
+$2404 2405 0 0 10
+$2405 2204 0 0 10
+$1910 1811 0 1 10
+$1705 1605 -1 0 10
+$1705 1703 0 0 10
+$1703 1503 -1 0 10
+$2102 2203 0 0 10
+$2203 2204 0 0 10
+$1910 1711 0 1 10
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Iyeiheihko    1703 B0008H5-C  R As Na              902 As     
+Hlefaiweaaow  1705 A7597M2-D  R                    301 As     
+Yohea         1706 D2646H9-6    Ag Ni Ri           203 As     
+Eitoawel      1710 C8673LA-A    Lo Ni              214 A8     
+Hfeifal       1802 D4345J9-8    Ni                 122 As 
+Osokhel       1806 C6861G7-E    Lo Ni              103 As 
+Htefte        1809 C6516KB-C  R Ni Po T0           303 As     f
+Eha'eikh      1905 C4854J7-8    Lo Ni              440 As  
+Eikhow        1910 A5560G9-E    Lo Ni              210 As 
+Iwaolahrya    2004 B5616N8-9  T Ni Ri              123 As     
+Htih          2007 D8785MB-6    Ag Ni              403 As     
+Khaftaohwfara 2008 C2001M6-7    Lo Ni Va           614 As 
+Ftyesa        2102 A5476MB-E  R Ag Ni              702 As     
+Kheiel        2107 C7888N6-C    Ri                 303 As     
+YEWOIAUEHOAH  2203 E212ANA-C    Hi Ic In Na        303 As     
+Aiyaiyu       2204 B7977K9-A    Ag T5              621 As     f
+Steae         2309 E0001K8-7    As Lo Ni           421 As 
+Iyheahoakteih 2403 C4471N4-B    Lo Ni              403 As     
+E'esteahelei  2404 B3647J3-B  R Ag Ri              505 As     
+Aiihaiououh   2405 B4717K8-C  R                    212 As     
+Tilden Belt   2409 B000799-9    As Na              115 So     f
+Ylasea        2410 B210454-A    Lo Ni              712 So 

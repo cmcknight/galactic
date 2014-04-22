@@ -1,0 +1,56 @@
+Trojan Reaches
+
+A: Menorial                  sec_a.dat
+B: Egryn                     sec_b.dat
+C: Pax Rulin                 sec_c.dat           f
+D: Gazulin                   sec_d.dat           f
+E: Florian                   sec_e.dat
+F: Tyr                       sec_f.dat
+G: Sindal                    sec_g.dat           f
+H: Tobia                     sec_h.dat           f
+I: Nora'a                    sec_i.dat           f
+J: Goertel                   sec_j.dat           f
+K: Tlaiowaha                 sec_k.dat
+L: Borderland                sec_l.dat
+M: Ranib                     sec_m.dat           f
+N: Silraaihe                 sec_n.dat
+O: Hkea'as                   sec_o.dat
+P: Binary                    sec_p.dat
+
+Bases:
+A = Navy & Scout Bases
+F = Florian Naval Base
+J = Independent Naval Base
+M = Military Base
+N = Naval Base
+P = Droyne Naval Base
+R = Aslan Clan Naval Base
+S = Scout Base
+T = Aslan Tlaukhu Naval Base
+U = Tlaukhu & Clan Naval Base
+W = Way Station
+  = None
+
+Allegiance:
+12 RE = Regency of Deneb
+13 A0 = Yerlyaruiwo Tlaukhu Bloc
+13 A1 = Khaukeairl Tlaukhu Bloc
+13 A2 = Syoisuis Tlaukhu Bloc
+13 A3 = Tralyeaeawi Tlaukhu Bloc
+13 A4 = Eakhtiyho Tlaukhu Bloc
+13 A5 = Hlyueawi/Isoitiyro Tlaukhu Bloc
+13 A6 = Uiktawa Tlaukhu Bloc
+13 A7 = Ikhtealyo Tlaukhu Bloc
+13 A8 = Seieakh Tlaukhu Bloc
+13 A9 = Aokhalte Tlaukhu Bloc
+14 As = Aslan Hierate/Colonies
+09 Bs = Belgardian Sojourn
+04 Cs = Client State
+10 Dr = Droyne
+11 Fl = Florian League
+15 Sf = Senlis Foederate
+14 Zh = Zhodani Consulate
+07 Na = Non-aligned
+08 -- = None
+08    = Unknown
+

@@ -1,0 +1,39 @@
+@SUB-SECTOR: sec_L   SECTOR: hinter
+#
+# Trade routes within the subsector
+$2821 2721 0 0
+$2821 2920 0 -1
+$3021 2920 0 -1
+$3021 3122 0 0
+$3122 3221 0 0
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Anador        2521 B555524-8  M Ni Ag              500 Na
+Kifynn        2523 D686455-5    Ni                 400 Na
+Benankas      2524 A7A3353-C    Ni                 903 Na
+Reeta Yuonn   2623 A100025-D    Ni Va              804 Na
+Kinji         2625 C774231-7    Ni                 110 Na
+Vyran         2626 B552520-9  M Ni Po              404 Na
+Ar-stoon'l    2721 A7B2547-9  J Ni                 703 Gi
+Nerfane       2725 B575645-5    C1 Ni Ag           604 Na
+Gardeel       2727 A7A2000-B    Ni Ba              501 Na
+PaGa          2728 B783787-6    Ri              A  603 Na
+Pru-grov      2821 D100788-7    Va Na              303 Gi
+Iaasiv        2829 EAC3AA9-B    Hi                 603 Na
+Pru-mavin     2924 D855887-2                       204 Gi
+Pru-berv      3021 A88A420-B    Ni Wa              203 Gi
+Gefry         3026 A6A378B-8                       603 Na
+Nils          3027 D859015-5    Ni              A  400 Na
+Byroon 67     3029 D300433-7    Ni Va              200 Na
+Deverya       3030 C995753-4    Ag                 501 Na
+Pru-buash     3122 C6A5473-9    Ni                 904 Gi
+Pru-ummur     3123 E425241-7    Ni                 603 Gi
+Weyloor       3128 A200248-B    Ni Va              204 Na
+Nyzch         3129 B200435-B    Ni Va              313 Na
+Lylol         3130 A775313-8    Ni                 202 Na
+Pru-goomh     3221 A100310-C    Ni Va              504 Gi
+Ghi-koord'l   3222 X3728A9-0                       200 Gi
+Pru-pasch     3223 B6A0488-C    Ni De              513 Gi
+Elyxis        3224 A65A551-D    Ni Wa              703 Na

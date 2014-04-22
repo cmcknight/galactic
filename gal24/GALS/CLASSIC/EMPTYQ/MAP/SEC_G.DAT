@@ -1,0 +1,22 @@
+@SUB-SECTOR: sec_G   SECTOR: emptyq
+#
+# Trade routes within the subsector
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Hanna         1811 C7A5459-7    Lo Ni              601 Cs
+Florianopolis 1816 B100511-C    Ni Va              204 Na
+Port Wsi      1911 C84859B-8    Ni                 210 Hl
+Talcanuano    1913 C573330-4    Lo Ni              401 Na
+Reptile       2016 A648679-6    Ag Ni              204 Na
+Dalnegovo     2111 E679633-6    Ni                 804 Cs
+Dannoura      2113 A1014CE-7    Lo Va Ic           900 Cs
+COTAN         2212 C4289AG-A    Hi In              313 Hl
+d'Anticosti   2313 C98A8A9-5    Wa              R  621 Hl
+Lothlorien    2314 D87369E-7    Ni                 324 Hl
+Gekko         2316 X413000-0    Ba Ic           R  024 Hl
+Suchan        2411 D5698DG-6                       905 Hl
+Cabal         2412 C3118AE-8    Na              A  701 Hl
+Valentin      2413 B5265AF-7    Ni              A  505 Hl
+

@@ -1,0 +1,26 @@
+@SUB-SECTOR: sec_F   SECTOR: trojan
+#
+# Trade routes within the subsector
+$1619 1621 0 1
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Solaria       0914 B665734-8    Ag                 614 Na
+Dpres         0915 B631689-A  N Na Ni Po           122 Cs
+Connaught     1015 D431153-9    Po Ni Lo           910 As
+291-540       1016 CABA000-0    Ba Fl Lo Ni Wa  R  404 As
+Gabriel       1114 C210100-B    Ni Lo              703 As
+Dostoevsky    1118 B678673-A    Ag Ni Rs An        220 As
+Janus         1216 C375321-7    Ni Lo              902 As
+Peroi         1219 E360256-4    De Ni Lo           631 As
+Delta Theta   1220 B701610-9    Ic Na Ni Va        732 As
+Caldos        1317 B630879-6    Na Ni Po De        824 As
+Lacidaeus     1319 D100786-5    Na Ni Va           502 As
+Sagan         1417 C796453-8    Ag Ni              204 As
+Tlazolteotl   1514 D5409CD-7    In Po De Hi        412 As
+Tyr           1518 A551557-B    Ni Po              804 As
+Hecarda       1519 B560332-9    De Ni Lo           503 As
+Thalassa      1613 B88A889-8    Wa Ri              505 As
+Tktk          1618 D142640-7    Po Ni              502 As
+Acis          1619 B885796-A    Ag Ri              603 As

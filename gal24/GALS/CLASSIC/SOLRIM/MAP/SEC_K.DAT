@@ -1,0 +1,32 @@
+@SUB-SECTOR: sec_K   SECTOR: sorted
+#
+# Trade routes within the subsector
+$1822 1523 -1 0
+$1822 2121 0 0
+$2121 2218 0 -1
+$2121 2521 1 0
+$1827 1526 -1 0
+$1827 2227 0 0
+$1827 1830 0 0
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Nusku         1822 A569943-F    Hi                 314 Im
+Agidda        1824 A972979-C    Hi In              801 Im
+Terra         1827 A867A69-F  B Hi                 414 Im
+Fenris        1830 AA98969-E  N Hi In           A  220 Im
+Barnard       1926 B200869-E    Na Va              534 Im
+Junction      1929 B975869-F                    A  302 Im
+Ishimshulgi   2021 E200478-7    Ni Va              702 Im
+Prometheus    2027 A785969-F  S Hi                 723 Im
+Peraspera     2028 B7A2536-D    Ni Fl              920 Im
+Midway        2029 B699552-D    Ni                 722 Im
+Hades         2030 B432366-E    Lo Ni Po           412 Im
+Lagash        2121 A667A8B-F  N Hi Cp              524 Im
+Ninkhur Sagga 2222 BAA7769-D    Fl                     Im
+Ember         2227 A412969-D  N Hi Na In Ic        312 Im
+Loki          2228 C9CA369-D    Lo Ni Fl Wa        702 Im
+Mukhaldim     2323 B533413-C    Ni Po              720 Im
+Kaguk         2325 C648669-A    Ag Ni              201 Im
+Dismal        2330 C421542-E    Ni Po              212 Im

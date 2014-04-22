@@ -1,0 +1,83 @@
+
+Variant 1  /  Introduction
+--------------------------
+
+Sorry for the unimaginative name. I guess I'm just the sort of
+person who writes the book first and then tries to think up the
+title. In any case, the point behind this little exercise is that
+I haven't refereed a Traveller game in years, and since I'm just
+now getting back into it, I figured I should write this little
+program to help me get my notes organized.
+
+The basic idea behind this particular setting is that we've got
+yet another empire-in-rebellion type of situation. I know, too
+reminiscent of MegaTraveller, but it's just as similar to
+StarWars, so what's your beef?
+
+In any case, what started this little shebang is that the
+Emperor's son got an itchy trigger-finger and decided to kill
+Daddy and make himself King of all Kings (never you mind what he
+did to his Mother). We might have called our little starling
+Oedipus, except that his name was actually Vesthar (Imperator
+Vesthar to you, Bucko!), and he had a very good reason for his
+actions (though we don't need to go into that either). The short
+of it is that this form of succession isn't quite universally
+recognized just yet, and since the Empire is still young (only
+seventy-one years to be exact), there are many starsystems which
+long for the golden age of the republic.
+
+Aha! So it _IS_ a StarWars take-off!
+
+Okay, ya got me. But hey, they always say: if you don't have
+anything original to say, quote somebody else.
+
+Right now, the war is just starting to get moving. The various
+dukes and business interests are busily choosing sides and/or
+placing bets as a wide assortment of star systems are
+simultaneously declaring mutual solidarity, independence, and
+allegiance to whomever has the scariest space fleet.
+
+As for some of the basic standards and assumptions:
+
+Religion: By and large, it doesn't exist too much anymore, though
+   occasionally there will be some freak who declares himself
+   the omnipotent one, and people being people tend to cower down
+   and make the best of it.
+
+Technology: We're talking pretty standard-Traveller except on a
+   few items.
+
+   * Making a hyperspace jump takes about a day instead of a
+     week. Basically 20+d8 hours. Time passes normally while in
+     transit.
+
+   * Jump-dampers are available at lower tech levels, allowing
+     big ships with the appropriate facilities to project a field
+     of particles so that enemy ships can't jump away when the
+     going gets tough.
+
+   * Bio-engineering is quite advanced so that the modification
+     of a life form's genetic code has become relatively simple
+     (still painstaking, but possible if you have lots of money).
+
+   * There are some super-tech artifacts which were created by
+     some alien civilization which disappeared long before humans
+     ever made it into space. Who the aliens were and where they
+     went is still quite a mystery.
+
+Aliens: On the topic of aliens, there aren't very many in this
+   setting, at least not starfaring ones, unless they attained
+   their technical expertise from human colonizers. It is assumed
+   that the hurdles to the stars are so difficult to surmount
+   that the galaxy is rather vacant in terms of technical
+   civilization. Lots of planets have full blown ecosystems, but
+   very few have "intelligent life".
+      However, humans have created other "strains" of humanity
+   via bioengineering. Most notable are the "waterfolk" who are
+   essentially amphibious mermen. Unfortunately, one of the
+   downsides of bioengineering is that the species created is
+   usually a little dumber and more prone to various illnesses.
+
+I'm sure I could go on for hours, but this seems like enough to
+get started.
+

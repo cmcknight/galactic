@@ -1,0 +1,39 @@
+Ealiyasiyw Sector
+
+A: Truiheiw                  sec_a.dat
+B: Airiyrlyu'                sec_b.dat
+C: Fye'iyra                  sec_c.dat
+D: Ihearu                    sec_d.dat
+E: Ktaiyoir                  sec_e.dat
+F: Hla'ei                    sec_f.dat
+G: Kilrya                    sec_g.dat
+H: Ehilao                    sec_h.dat
+I: Oeiykh                    sec_i.dat
+J: Tohai                     sec_j.dat
+K: Fearah                    sec_k.dat
+L: Tulrakh                   sec_l.dat
+M: Eiyhkihte                 sec_m.dat
+N: Kheasu'                   sec_n.dat
+O: Wasealya                  sec_o.dat
+P: Ouhtoh                    sec_p.dat
+
+Bases:
+F = Military & Naval Bases
+R = Clan Base
+T = Tlaukhu Base
+  = None
+
+Allegiance:
+12 A0 = Tlaukhu Bloc
+02 A2 = Tlaukhu Bloc
+03 A3 = Tlaukhu Bloc
+04 A4 = Tlaukhu Bloc
+05 A5 = Tlaukhu Bloc
+06 A6 = Tlaukhu Bloc
+09 A7 = Tlaukhu Bloc
+10 A8 = Tlaukhu Bloc
+11 A9 = Tlaukhu Bloc
+14 As = Aslan
+13 Id = Islaiat Dominate
+07 Na = Non-aligned
+08    = Unknown

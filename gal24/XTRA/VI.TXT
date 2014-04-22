@@ -1,0 +1,67 @@
+
+    Quick and Dirty Help File for "vi"
+    ----------------------------------
+
+    Basic idea: vi is a text editor, which, most likely, you won't
+       ever need to use. However, if for some strange reason you do
+       want to learn to use vi, here are some very brief notes on a
+       few commands you can use with this version of the program.
+
+    To get into vi.
+    vi <file>   (edits <file> where <file> is the name of your file.
+                if <file> doesn't exist, then vi creates it)
+
+    vi starts you in "escape mode".
+    There are three modes. Escape, Command, and Insert.
+
+    Escape Mode: Lets you move around the buffer or delete characters or lines
+      and perform other minor functions. This is the mode you start in. This
+      is the mode you should be in when you aren't actively entering text
+      or performing a command-mode command.
+
+    Insert Mode: Lets you enter text from the keyboard into the buffer.
+
+    Command Mode: Lets you save your buffer to the filename you
+      previously chose when you first went into vi. You can also bring
+      other files into the buffer from this mode. Oh, and you go to this
+      mode when you are ready to quit.
+
+      ESC Mode commands
+       j      go down        (you can also use
+       k      go up          the arrow keys in
+       l      go right       this DOS version
+       h      go left        of the program)
+       dd     delete line
+       5dd    delete 5 lines
+       x      delete character
+       5x     delete 5 characters
+       J      kill <carriage return> at end of line
+       i      go into insert mode at cursor
+       a      go into insert mode after cursor
+       :      go into command mode
+       ^g     shows line number
+       G      goto bottom
+       1G     goto top
+       .      repeat last command
+
+      Insert Mode commands
+       <esc>  the <Esc> key takes you back to escape mode
+              any other keys you type enters characters into the buffer
+              remember to hit <enter> at the end of each line!
+
+      Command Mode commands
+      q    quit if there are no changes to file
+      q!   quit w/o changing file
+      w    writes file w/o quitting
+      w!   damnit, i really want to save the file, and don't argue with me
+      wq   write & quit (i.e. save the file and then quit, this is the
+                       command you should generally use to get out of vi)
+      r <file2>         read the contents of "file2" into the buffer
+                        (when i say buffer, i mean editing-space)
+      /<string>         Searches file for occurance of <string>
+      /                 Searches file for occurance of last specified <string>
+      (when in command mode, you have to hit <enter> to execute your command)
+      (after the command is executed, you immediately go back to escape mode)
+
+That should do it... if you want more info, consult your local UNIX guru.
+

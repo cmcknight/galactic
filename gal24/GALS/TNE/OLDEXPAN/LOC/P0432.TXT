@@ -1,0 +1,26 @@
+Adrian D-426112-9
+Starport: None                    Size: Small (5600-7200 km)
+Atmosphere: Very thin, tainted    Hydrographics: 60% water
+Population: 10                    Govt: Corporate
+Law Level: Low                    Technology: 9
+ 
+
+CIN/Aubaine, 1/IV, 1202
+
+     McKenzie Holdings, a salvage company registered out of Aubaine, has
+     formally established a legal claim to Adrian (0432/Aubaine; new UWP is
+     D426112-9). The new starport is class D, and was expanded from a
+     former class G spaceport. The new starport has a few repair bays
+     capable of handling small ships (200 tons or less). Refined fuel is
+     available at the starport, as well as lodging and food. Currently,
+     about 30 sentients permanently live at McKenzie Station.
+
+     McKenzie Holdings has provided RCES with a small facility for use as a
+     scout base, at no cost to RCES. They have also formally petitioned for
+     status as a client-state of the RC.
+
+---------------------------------------------------------------------------
+McKenzie Holdings makes most of its money at Adrian by salvaging the relic
+TL-14 equipment. They also make some money servicing the ships going
+between Fija and Eos and Nike Nimbus (as the shortest route from Fija to
+either of these worlds is by way of Adrian).

@@ -1,0 +1,31 @@
+@SUB-SECTOR: sec_i   SECTOR: solrim
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  ----------------- -  --- -- --- -
+Oz            0121 X1537RB-4     Po                213 Wi
+Jarslav       0123 E8879RA-7     Hi             B  923 Wi
+Kishakhpap    0125 X410000-0     Ba                004 Un
+Beal          0126 D457756-9     Ae                222 Na
+Shaalgar      0224 E6667RB-7     Ag             B  100 Wi
+Limenck       0226 D579755-7                       204 Na
+Alizarin      0230 B4668A9-9                       100 Na
+Eneldun       0326 X314000-0     Ba Ic             020 Un
+Krypton       0330 X9A4000-0     Ba Pi             014 Un
+Gustav        0424 E7985R7-6     Ag Ni             803 Wi
+Eyck          0426 X130000-0     Ba De             002 Un
+Irashdaa      0524 E6898R8-2                       213 Wi
+Passe Terre   0527 X6699RA-7     Hi                123 Wi
+Kidashi       0528 X4577R5-5     Ag                924 Wi
+York          0624 X8A3000-0     Ba Pi             023 Un
+Albrecht      0606 E7422P3-7     Lu Ni Po Cm       203 Wi
+Bajavanang    0628 X5898RA-5                       405 Wi
+Akhamin       0721 E662785-7     Ri                503 DL
+Gaea          0722 C9869DA-9     Hi                203 DL
+Tonopah       0723 A866AAA-A     Hi                423 DL
+Halo          0726 X000000-0     Ba As             035 Un
+Edaazun       0729 D46A748-7 C   Wa                820 Na     f
+Colmar        0822 X427000-0     Ba                002 DL
+Shiransar     0823 XAA5000-0     Ba F1             014 DL
+Ranulf        0824 E642643-7     Po Ni             301 DL
+Duriim        0825 B488867-8 N   0:1222 Ri         800 DL

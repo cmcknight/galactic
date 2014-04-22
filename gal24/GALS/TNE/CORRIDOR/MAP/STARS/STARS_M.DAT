@@ -1,0 +1,9 @@
+@SUB-SECTOR: stars_M   SECTOR: corridor
+#
+# Trade routes within the subsector
+#
+#--------1---------2---------3
+#PlanetName   Loc. Stars(s)
+#----------   ---- ---------
+Ishirdu       0338 M9 V
+Esi-obe       0638 G4 V

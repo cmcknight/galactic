@@ -1,0 +1,274 @@
+In February of 1993, I posted an article to the Traveller Mailing
+List (TML), bitching and moaning about Traveller's world generation
+system. This kicked off a discussion on the topic which led to a
+modified system for world generation which is incorporated into
+Galactic's sector generation program (to be utilized at the user's
+option).
+
+This is the initial bitch/moan:
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+
+Date: Wed, 10 Feb 93 11:48:21 PST
+From: jimv (james vassilakos)
+Subject: UWP Generation
+
+First, I want to thank everybody for helping me out on that
+allegiance code question. I guess I must have slept through the
+5th frontier war or something.
+
+Anyway, I'm continuing to mull over the sunbane data on the
+spinward marches despite my limited knowledge concerning the
+region's recent history, and (at the risk of getting into a
+really long discussion) I have to admit that I keep thinking the
+same thing over and over: "There's something wrong here." What
+I'm talking about is UWPs (formerly UPPs) which don't make a
+whole lot of sense to me. Sonthert/Lanth is a decent example of
+what I mean.
+
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al.
+#----------   ---- ---------  - --------------- -  --- --
+Sonthert      1918 X6266AB-3    Ni              R  314 Im
+ 
+Here we have a couple million folks making a living with their
+19th century technology, and look what they have to breathe: a
+very thin (and tainted) atmosphere. For all intents and purposes,
+a vacuum. I know... I know... they can get by with combination
+respirators/filtermasks, right? All couple million of them? With
+technology which is over a century old? I can just see it now.
+"Don't go outside, son. Yer might have to breathe or somethin'."
+Hey, at least TAS had the sense to classify it as a red zone
+(don't go there if you're addicted to oxygen).
+
+Okay, all kidding aside, the thing that gets me about planets
+like this is that anybody decided to colonize them in the first
+place. Agreed, with a bit of technology, people can survive just
+about anywhere they want to survive, but why bother? I see a nice
+dirtball only five parsecs trailing.
+
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al.
+#----------   ---- ---------  - --------------- -  --- --
+La'Belle      2416 C564112-4    Lo Ni              701 Im 
+
+Now this is sweet. We're talking primo-atmosphere (none of that
+chewable Los Angeles gunk). And lo and behold, who shows up to
+catch the view? A whopping seventy people. We have more folks on
+the TML than this. Yes... I know... the planet is corporate
+owned, but who really cares? Why waste a virtual paradise (at
+least compared to that other place) on seventy stinking corporate
+losers (or maybe corporate winners in this case). Ah, yes... I
+can see some cool scenarios... the corporate paradise. The wooing
+ground for potential investors. Perhaps it's just one big golf
+course. You tee-off from orbit.
+
+But the fact is, this would never happen. When the place gets
+colonized way back when, people are gonna zoom in on this little
+speck of rock like nothing you've ever seen, and any corporation
+that wants it is gonna have to pay through the nose (and a few
+other choice orifices) to get it.
+
+My point: this situation shouldn't happen. It goes not only
+against intuition and common sense, it goes against the principle
+of greed, the fundamental root of human nature (yes, I'm down on
+humanity, but that's not the point here). The point is that this
+rule system is... flawed. No other way to put it. (I can see
+several people shaking their heads and saying "You mean you just
+figured this out?") Hey, I've always been a big believer in
+Classic Traveller, and the Spinward Marches are about as classic
+as you can get. But the point stands, there's something rotten in
+the Lanth subsector, and it most likely extends from the whole
+set of rules on UWP generation.
+
+Let's take a closer look. What's going on in the rules to produce
+these sort of unwelcome results? I think one of the problems is
+real obvious. Just take a look at the order in which UWP stats
+are being generated.
+
+1. Starport       5. Population
+2. World Size     6. Government
+3. Atmosphere     7. Law Level
+4. Hydrographics  8. Technology
+
+The first thing wrong with this is actually the very first thing
+we see. Why are we generating the starport first? Shouldn't starport
+be determined by traffic, and shouldn't traffic be determined by
+population? Hence, let's move starport after population (not in
+the UWP listing, but in the order of stat generation).
+
+Now (making this one change) let's start looking at cause and
+effect in the rules.
+
+The Stat        What modifies it
+/------\        /--------------\
+1. Size         (nil)
+2. Atmosphere   (Size)
+3. Hydro        (Size, Atmosphere)
+4. Population   (nil)
+5. Starport     (nil)
+6. Government   (nil)
+7. Law Level    (nil)
+8. Technology   (everything but law level)
+
+Now this is cute. Again, I always was a big believer in the
+classic rules (maybe because I wanted to crawl in a hole when MT
+came out), but let's take a look here. Specifically, let's look
+at population. The rules would have us believe that you take any
+given system, and regardless of its features, the primary world
+or asteroid belt in one system is just as likely to have X amount
+of people as the primary world or asteroid belt in the other
+system. This, my friends, is way way out of line.
+
+Think about it. You roll up some dinky little ice-ball as the
+main world in your star system and then you try telling me that
+the fact that this tiny speck of crud has no atmosphere, that it
+has no liquid water, and that it hasn't even a modicum (I like
+the word) of elbow room.... and then you try telling me it's just
+as likely to have 50 billion people on board as that garden
+terra-prime paradise just a couple of parsecs down the road. I
+don't think so. Yes... you can explain it away. You can say, "Oh,
+there's this wonderful lanthanum mine." Or you can say. "These
+people live here... because it's their home" (and then smile
+convincingly). But it doesn't work. This isn't a little
+inconsistency. This is whopping big one. It's gigantic. It's
+glaring. It's pesky and annoying (like me), but most of all, it's
+just plain stupid.
+
+Time for Jim's 1st Law on main-world generation (hey, if Newton
+can do it, why not me?): Given that everything else is more or
+less equal, people will tend to migrate to the place that is
+"nicer". What I'm saying is that worlds with a nice atmosphere,
+some actual water, and so forth are gonna attract large
+populations which will in turn build nice jumbo starports.
+Planets that aren't so nice (you know the ones I'm talking
+about)... those planets will not attract people, and hence, they
+aren't very likely to have lots of traffic or nice starports.
+Jim's 2nd Law is likewise easy to grasp: People will attain the
+resources (technology) that they need to survive such that those
+resources are available. I.e., if you're really sure that you're
+going to live on Sonthert, then you're gonna work damn hard to
+acquire the technology you need to survive. TL3 doesn't cut it on
+a near-vacuum planet. You need a little bit more (And I've never
+bought into the philosophy of high and low tech worlds living
+side by side. For a short duration such as a few decades, I can
+see it. Given special poltical or social circumstances, I can see
+it. But in general, over the course of centuries, eventually
+there will either be a leveling process or the low TL regions
+will be brought up to snuff... and this is exactly what's
+happening on our world).
+
+Okay... now since I try not bitch about something unless I'm
+willing to work to fix it, here's my proposed modified-rules on
+main world generation (if this begins to look like pseudo-code,
+it's probably because it is).
+
+1. World Size. Roll 2d6-2.
+
+2. Atmosphere. Roll 2d6-7+Size.
+   if size=0 then atmosphere=0.
+   confine range to 0-F.
+
+3. Hydrographics. Roll 2d6-7+Size.
+   if atmosphere is 1 or less, then DM -4
+   if size is 1 or less, then Hydro=0
+   if atmosphere is A-C then DM -4
+   if atmosphere is E then DM -2
+   confine range to 0-A
+
+4. Population. Roll 2d6-2.
+   if size is 2 or less, DM -1
+   if atmosphere is 3 or less, DM -3
+   if atmosphere is A, DM -2
+   if atmosphere is B, DM -3
+   if atmosphere is C, DM -4
+   if atmosphere if greater than C, DM -2
+   if atmosphere is 6, DM +3
+   if atmosphere is 5 or 8, DM +1
+   if hydro=0 and atmos>3, DM -2
+   confine range to 0-A
+
+5. Starport. Roll 2d6 (use whichever table suits the locality
+                       but remember that high rolls result in
+                       a lower quality starport).
+   if pop=0 then starport=X
+   if pop=1, DM +2
+   if pop=2, DM +1
+   if pop is 6-9, then DM -1
+   if pop is A, then DM -2
+   confine range to A-X
+
+6. Government. Roll 2d6-7+population.
+   if pop=0 then gov=0
+   confine range to 0-F
+
+7. Law Level. Roll 2d6-7+government.
+   if gov=0 then law=0
+   confine lower bound of range to 0
+
+8. Tech Level. Roll d6. Modify as per the standard chart.
+   if pop=0 then tech=0
+   otherwise, if hydro is 0 or A and pop is at least 6,
+                 then tech must at least be 4.
+              if atmos is 4, 7 or 9,
+                 then tech must at least be 5.
+              if atmos is 3 or less or A-C,
+                 then tech must at least be 7.
+              if atmos is D or E and hydro is A,
+                 then tech must at least be 7.
+   confine lower bound of range to 0
+
+There, that wasn't so bad. I think you folks (at least those who
+are interested) should be able to make sense of all of this. I'm
+throwing down some example UWP's to show you what sort of worlds
+this modified system tends to create.
+
+X211000-0    E475100-8    D86A6BB-7    X410000-0    A410446-B
+C66266B-6    E98A237-8    X573220-5    A748483-C    A85A766-C
+A867657-B    C310235-7    B220532-D    X473000-0    A665ADD-E
+A8599A8-C    C738475-8    A5588B7-9    C634523-8    B332334-9
+D545456-5    C575553-7    C110221-8    A667785-7    E75A466-4
+D795679-5    C754575-9    E678112-6    X311000-0    X528211-8
+B471322-B    C874663-6    D453643-4    C668989-9    B5438AE-8
+C87A564-6    C474278-8    X226000-0    C410230-7    X303156-8
+B9B4230-7    A5949C9-A    A685876-7    C594100-8    C539343-7
+X9A8000-0    X120000-0    B457867-6    B2518CD-B    A631453-F
+
+Note that there are some conspicuous differences between this
+data and "normal" UWP listings. We get quite a few uninhabited or
+very low-population star systems under the modified rules. Not so
+under the original rules. I haven't checked yet, but I suspect
+that this will probably bring down the average starport rating
+for any given region (which is fine with me). Further, we don't
+see lots of low-tech star systems. The lowest I see here is TL4,
+and in both cases, we've got a breathable atmosphere attached to
+each planet (no assistance required, hence no technology required
+in order to breathe). As we'd expect, the yucky-foo worlds tend
+to have lower populations and seedier starports. I'm a bit
+surprised that we have quite a few lush (atmos=6) worlds with
+under ten million inhabitants. On other runs, I usually see very
+high populations clustered on those worlds. Of course, when we
+look at the highest population world in this run, we see that it
+has a standard atmosphere, just as we'd expect, so all in all,
+it's not giving us really strange results on that count.
+
+Now what I'd like to do with this modified rule-set is get some
+comments and criticism from you folks. Even though the TML
+comprises a *very* small corner of the internet, it also has some
+of the most devoted Traveller players I've ever laid electronic
+eyes on. So tell me... what do you think about the modified
+rules? What problems do you see? What needs fixing?
+
+I'd like to "perfect" the program before distributing it, but if
+you'd like a copy for "experimental purposes", I can email the
+QB45 source and/or the MS-DOS executable. What I'm really looking
+for here are suggestions. Do you like the modified system? Do ya
+hate it? What about it needs improving? Probably a lot! From
+reading this mailing-list in the past, I know that there is
+*never* going to be a consensus on the TML regarding something
+this broad-based and as fundamental to the rules of Traveller.
+That's okay with me. I'm not trying to please everyone (or even
+the majority). I'm just trying to get some ideas and a fair
+critique (and what better place than the TML?).
+
+Thanks for tuning in. Now back to the regularly scheduled
+program.
+

@@ -1,0 +1,45 @@
+#--------1---------2---------3
+#PlanetName   Loc. Star(s)
+#----------   ---- --------
+@SUB-SECTOR: Chant SECTOR: Core
+Duusikiim     1721 
+Guurma Sa     1724 
+Angairkshak   1725 
+Demla         1726 
+Khirar        1727 
+Laik Girkki   1730 
+Shar          1821 
+Anga Ke       1822 
+Gerar Khashii 1823 
+Likamish      1824 
+Rarkan        1825 
+Shis          1829 
+Medishvlaas   1921 
+Mar           1924 
+Naauup Emrim  1925 
+Khiri         1927 
+Shakiisiir    1929 
+Kegi And      1930 
+Shaashsha     2021 
+Amuum Kuu     2027 
+Iipshimun     2028 
+Ragni         2030 
+Vlaakier      2121 
+Iirkkhu       2122 
+Urish         2125 
+Iruies        2130 
+Miium         2221 
+Miiidkhig     2222 
+Muun          2223 
+Kuula Iish    2224 
+Duur          2225 
+Skeen         2226 K1 V
+Lider         2227 
+Shusa         2322 
+Lezaar        2323 
+Limeshuurgi   2326 
+Riias         2327 
+Raami         2330 M2 V
+Geiish        2422 
+Diki Shi      2425 
+Arka Uum      2429 

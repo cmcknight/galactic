@@ -1,0 +1,11 @@
+@SUB-SECTOR: a SECTOR: Gateway
+#
+# Jump-routes
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Isolation     0407 C7C0200-C    Lo Ni De           714 Na
+Winternight   0502 C516254-A    Lo Ni Ic           522 Na
+Glee          0801 B130679-A    Na Ni Po De        310 Na
+Fornook       0804 C100403-A    Na Va              102 Na

@@ -1,0 +1,40 @@
+
+DASHI  1723  C15098B-D  HI PO DE 404 IMP M2 V
+
+PRIMARY: Hemen. Spectral class M2 V, mass 0.426, luminosity 0.386.
+
+DASHI: Mean orbital radius 0.20 AU. Period 111.9 Std Days. Diameter 1,120 Km.
+Mass 0.003 terra. Molten core, density 1.35. Mean surface  gravity 0.19g.
+Rotation period 35h 13m 10s. Axial inclination 17o01'15".  Energy absorption
+0.90.
+
+Satellites: One. Splinter, orbit 17, 16km.
+
+Surface atmospheric pressure 0.48. Composition oxygen-nitrogen mix.
+Hydrographic percentage 0.1%. Mean surface temperature 32.07oc.  Native life
+- amino acids, bacteria and algae present. Total system Population
+4,540,000,000.
+
+Primary cities: No orbitals. Ground;[Naasirka] Shagukaar, 830,000,000
+Corporate Starport Facilities only (CSF), [Makhidkarun] Kadaka, 750,000,000
+(CSF), [Delgado] Lantau, 608,000,000 (CSF), [Independant] Ki Phlaem,
+702,000,000 Starport C, [Sternmetal] Hei ling, 503,500,000 Spaceport F,
+[Interstellarms] Clearwater, 401,500,000 Starport C, [Ling-Standard Products]
+Junk, 311,000,000 Spaceport F, [SuSAG] Cleops, 230,000,000 (CSF)/Spaceport F,
+[GTL] T'suen, 104,000,000 No port, [Independants] Shek-Chu 40,000,000,
+Shahtin 33,000,000, Xuen Tu 20,000,000. 11,000,000 classified as without city
+allegiance.
+
+World Government is a Civil Service Bureaucracy paid for by the seven
+companies/cities known as the Combine. Law enforcement is primarily related
+to acts of theft or criminal damage and varies according to location. The law
+is enforced by private security paid for by the various corporations.
+
+POPULATION BREAKDOWN: 77% Humaniti, mixed, Eurasian. 12% Humaniti, Vilani. 6%
+Humaniti, mixed, Medurman. 4% Aslani. 1% S'mrii.
+
+Social Outlook: Conservative, indifferent, competitive, peaceful, harmonious,
+   friendly.
+Legal Profile: B-A7A46.
+Technology Profile: ED-EBBBE-E0EB-EB-F.
+

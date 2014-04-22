@@ -1,0 +1,70 @@
+@SUB-SECTOR: sec_f   SECTOR: ley
+#
+#Jump Routes
+$1014 1114 0 0
+$1014 1016 0 0
+$1016 1217 0 0
+$1019 0721 -1 1
+$1019 1119 0 0
+$1019 1320 0 0
+$1019 1120 0 0
+$1113 1212 0 0
+$1113 1114 0 0
+$1119 1218 0 0
+$1120 1320 0 0
+$1211 1010 0 -1
+$1211 1401 0 0
+$1211 1312 0 0
+$1212 1312 0 0
+$1217 1317 0 0
+$1217 1218 0 0
+$1312 1411 0 0
+$1312 1412 0 0
+$1317 1416 0 0
+$1320 1620 0 0
+$1320 1222 0 1
+$1411 1509 0 -1
+$1411 1611 0 0
+$1411 1513 0 0
+$1412 1513 0 0
+$1416 1615 0 0
+$1513 1611 0 0
+$1513 1514 0 0
+$1513 1714 1 0
+$1514 1615 0 0
+$1620 1921 1 1
+#
+#--------1---------2---------3---------4---------5----------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- --
+Matochkin     0917 XACA000-0    Ba                 001 Im
+Paradanis     0918 XAC9200-6    Lo                 600 Im
+Heraklion     1014 D9647B9-9    Ag                 900 Im
+Freiworld     1016 X312000-0    Ba                 001 Im
+Salenik       1019 A587896-B    Ri                 900 Im
+Jumhuriyah    1112 C200445-A  S                    601 Im
+Gheelis       1113 B000511-C    As                 101 Im
+Palma         1114 X300000-0    Ba                 001 Im
+Rygate        1119 EAA9577-6                       100 Im
+Taizz         1120 D976979-7    In                 900 Im
+Canonis       1211 B955632-8    Ag                 900 Im
+Musandim      1212 E221566-9    Po                 200 Im
+Kagima        1217 D423511-A  S                    700 Im
+Calabris      1218 D430675-7    Po                 101 Im
+Argeleb       1312 D545322-8    Ag                 501 Im
+Nasung        1317 X9C9000-0    Ba                 001 Im
+Permia        1320 C968699-8  S Ri                 400 Im
+Aldernis      1411 A642687-C  N Ca                 400 Im
+Sakmara       1412 C223853-8                       200 Im
+Wouverman     1414 E520599-7    Ni                 500 Im
+Cakloten      1415 E331342-7    Po                 300 Im
+Aeglis        1416 D665897-6    Ri                 300 Im
+Council       1419 EAAA687-8                       800 Im
+Stalker       1420 X200000-0    Ba                 000 Im
+Helena        1513 C644AB9-B    In                 300 Im
+Kalarien      1514 CA9A667-9    In                 100 Im
+Kzimus        1519 DAC9477-7                       800 Im
+Molinkan      1611 E873834-3                       600 Im
+Embasar       1615 C6757A6-7                       500 Im
+Drelis        1617 CAB9443-8    Ni                 100 Cs
+Crownwing     1620 B876995-9  S In                 101 Im

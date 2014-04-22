@@ -1,0 +1,12 @@
+
+Meshan Sector - Credits
+-----------------------
+
+This version of the Meshan Sector (circa 1120) was created by Mike Mikesh
+with corrections by Clay Bush (27-Apr-94) and/or Leroy Guatney (14-Jun-94)
+in order to convert all type VI stars to type V as per TNE. Don't know who
+named the majority of the worlds.
+
+Martin Rait (fspace@ihug.co.nz) confirmed on 28-Sep-94 that the data
+matches DGP's dot map in Vilani & Vargr.
+

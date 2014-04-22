@@ -1,0 +1,55 @@
+   
+Bruce
+-----
+
+Position: Surveyor       UPP: 385BCD
+Age: 34                  Height: 6'5"
+Race: Zhodani            Allegiance: Zhodani
+Hair: Blonde             Eye Colour: Blue
+Complexion: Fair         Build: Lithe
+
+Skills (value in brackets are what everybody thinks you have)
+-------------------------------------------------------------
+Surveying-1 (3)
+Vacuum Suit-1
+Forward Observer-0
+Lying-2 (-)
+ATV-1
+Computer-3 (0)
+Pilot-0 (-)
+Bribery-1
+Laser Rifle-0
+Navigation-0 (-)
+
+   
+   You are a Zhodani spy. You've been infiltrating the service for many
+   years. Your mission is to provide advance notification of possible
+   threats to the consolidate. The exact definition of threat is very
+   much at your discretion but it usually includes major fleet actions,
+   unusual troop buildups, new scientific discoveries. You should report
+   and/or neutralise any such threat. You are totally loyal to the
+   consulate and will never betray it. You are a quite strong psionic
+   (strength 10). Your identification papers and history are forged
+   (level 5). You don't like talking about yourself in case you botch it.
+   
+   Travil is a decent enough commander. He doesn't trust you fully.
+   
+   Sherina is a great pilot but very typically Vargr.
+   
+   Grindle and Aryven are both pretty good blokes, although Grindle keeps
+   to himself too much.
+   
+   Hanit has the right attitude but the race is wrong (Zhos are the
+   best!). he does tend to be a little over the top with his political
+   babble. You suspect he might be onto your lack of surveying skill, but
+   nobody believes him when he says he's better.
+   
+   Grog is like a child, easily lead. His simplistic attitude is a
+   refreshing change to all the typical closed minded, lying imperials.
+   He doesn't cook well, but you'd never let it onto him.
+   
+   Bob is like Grindle, too quite and self centric. You don't trust him.
+   
+   You have four doses of psi booster, and one of psi double. Your psi
+   talents are: awareness-10, teleportation-10, telepathy-4.
+

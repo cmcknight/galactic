@@ -1,0 +1,29 @@
+@SUB-SECTOR: sec_I   SECTOR: canopusc
+#
+# Trade routes within the subsector
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Zix           0123 X410000-0    Ba                 005 --
+Selkirk       0124 X400000-0    Ba Va              003 --
+Dafyd         0126 X422000-0    Ba                 003 --
+Abad          0221 E444455-6    Ag Lo Ni           203 Wi
+Fike          0222 X254874-5                       100 Wi
+Gorky         0224 X7B2000-0    Ba Fl              003 --
+De Stowe      0225 X486858-7    Ri                 502 Wi
+Batsel        0227 D56599B-4    Hi              B  123 Wi
+Elaine        0326 X330000-0    Ba De              001 --
+Yolande       0327 X300000-0    Ba Va              003 --
+Juliana       0422 D98A410-2  S Lo Ni Wa           304 Wi
+Hrugan        0425 D646401-3    Ag Lo Ni           200 Wi
+Hyksos        0427 X633000-0    Ba                 005 --
+Guant         0428 X564540-4    Ag Lo Ni           200 Wi
+J'Tal         0429 X304000-0    Ba Ic Va           024 --
+Hirga         0622 X444200-4    Ag Lo Ni           003 Wi
+Marcurades    0629 X5A1000-0    Ba Fl              004 --
+Yarmouth      0729 X386567-2    Ag Lo Ni           023 Wi
+Pollux        0730 X999413-6    Lo Ni              114 Wi
+Bartholomew   0822 D69477B-4                    B  110 Wi
+Alhambra      0825 D5848AB-7                       124 Wi
+Tazoe         0828 X510000-0    Ba                 013 --

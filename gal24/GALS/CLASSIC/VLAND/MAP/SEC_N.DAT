@@ -1,0 +1,61 @@
+@SUB-SECTOR: sec_N   SECTOR: vland
+#
+# Trade routes within the subsector
+$0934 0831 -1 0
+$1332 0834 -1 0
+$0934 1136 0 0
+$1332 1530 0 -1
+$1136 1339 0 0
+$1339 1202 0 1
+$1136 1235 0 0
+$1235 1533 0 0
+$1533 1530 0 -1
+$1533 1735 1 0
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Arluk         0933 C41198B-E    Hi Na In Ic        613 Rv
+Imdakhun      0934 A20348D-F    Ni Va Ic           401 Rv
+Rhyolite      0938 C360342-B    Lo Ni De           224 St
+Gashumu       0939 D76A55A-9    Ni Wa              102 St
+Umaanshar     1032 D432566-9  S Ni Po              823 Rv
+Komirex       1033 C200263-8  S Lo Ni Va           820 Rv
+Isle          1038 E68AA87-A    Hi Wa              901 St
+Neegak        1131 B537662-D    Ni                 422 Rv
+Jupset        1134 B8C3466-A    Ni Fl              923 Rv
+Abalakova     1135 C4657CD-A  S Ag                 822 Rv
+Daangiilu     1136 A565444-F    Ni Cp              703 Rv
+Usaamkirkhiir 1137 E36446A-B    Ni                 314 St
+Chrysantheum  1138 C1307A8-8  S Na Po De           401 St
+Uureg         1139 B253759-C    Po                 412 St
+Hiroshi       1140 C675666-5    Ag Ni              201 St
+Lekziika      1232 C885566-A    Ag Ni              620 Rv
+Themistocles  1235 B333562-C  S Ni Po              701 Rv
+Fymur         1236 C35178B-9    Po                 610 Rv
+Kanumshikaa   1237 C755401-8    Ni                 620 St
+Iplukaddesh   1238 D000323-8    Lo Ni As           411 St
+Nelson        1240 E200200-C    Lo Ni Va           120 St
+Nii Khu       1332 A55487B-B  N C6                 501 Rv
+Lukham        1334 A464ABE-G    Hi                 602 Rv
+Pygmy         1336 E140423-8    Ni Po De           111 Rv
+Borealis      1337 C5116BD-8    Na Ni Ic           504 Rv
+Darm          1339 A100362-F    Lo Ni Va           924 St
+Anishda       1340 E614310-A    Lo Ni Ic           902 St
+Daalurge      1431 C558532-9    Ag Ni              410 Rv
+Agagir        1432 C330588-D  S Ni Po De           110 Rv
+Dakeshir      1435 C401400-B    Ni Va Ic           102 Rv
+Igikuuni      1437 A797799-C  N Ag                 522 Rv
+Zaal          1438 A896511-F    Ag Ni              301 Rv
+Kolrado       1531 C322462-9  S Ni Po              910 Rv
+Samotk        1533 A100410-F    Ni Va              901 Rv
+Senkon        1534 D510100-A    Lo Ni              623 Rv
+Malapaan      1535 C326841-9                       620 Rv
+Pamiimkhi     1536 C000400-D  S Ni As              320 Rv
+Zarurza       1539 B95A000-A    Lo Ni Wa Ba        812 St
+Limed         1540 B330689-A    Na Ni Po De        413 St
+Imdur         1632 E240100-B    Lo Ni Po De        810 Rv
+Darkishar     1633 B42058B-E  S Ni Po De           910 Rv
+Isuugi        1634 E756446-4    Ni                 413 Rv
+Preserve      1637 D451222-7    Lo Ni Po           501 Rv
+Twana         1638 C353433-C    Ni Po              120 St

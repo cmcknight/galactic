@@ -1,0 +1,45 @@
+@SUB-SECTOR: sec_I   SECTOR: massilia
+#
+# Trade routes within the subsector
+$0524 0526 0 0
+$0526 0327 0 0
+$0327 0130 0 0
+$0130 0231 0 1
+$0327 0631 0 1
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Meridian      0121 B657453-B    Ni                 904 Li
+Albion        0123 D565326-7    Ni Lo              525 Li
+K'Zass        0124 B246965-C    Hi In Cp           714 Li
+Lant          0125 D11067C-9    Ni Na              200 Li
+Dalsam        0130 A9B2456-E    Ni Fl              913 Li
+Aymon         0221 E657322-7    Ni Lo              814 Li
+Huon          0223 B100948-G    Hi In Va Na     A  221 Li
+Kiholm        0226 D200656-9    Ni Va Na           303 Li
+Dezik         0228 A9C8333-F    Ni Fl Lo           605 Li
+Viiman        0321 B887655-A    Ni Ri Ag           210 Li
+Kirgis        0325 B95A010-B    Ni Wa Lo           323 Li
+Droyna Four   0327 A588844-B    D5 Ri              304 Li
+Dirac         0330 B7B59BB-E  N Hi Fl              812 Li
+Zaibeth       0425 D110000-9    Ni Ba Lo           624 Li
+Rocks         0426 C000495-D    Ni As An           304 Li
+Savisz        0428 B977646-9  N Ni Ag              822 Li
+Kingston      0430 EACA76A-9    Wa Fl              214 Li
+Marach        0522 B48487A-C    Ri                 704 Li
+Bloom         0524 A566535-D    Ni Ag              604 Li
+Damber        0525 B473553-C    C2 Ni              103 Li
+Nowell        0526 A441321-F    Ni Po Lo           610 Li
+Reon          0528 C9A7532-A    Ni Fl              402 Li
+Xarian        0529 B768733-B    Ag                 523 Li
+Quuke         0530 A100579-G    Ni Va              801 Li
+Kinnas        0621 EAC7446-8    Ni Fl              310 Li
+Nananana      0624 B8C1349-C    Ni Fl Lo           804 Li
+Beoff         0627 B7A1300-E    Ni Fl Lo           105 Li
+Crian         0630 B527472-C    Ni                 103 Li
+Mura          0725 B9D3743-B    Fl                 312 Li
+Goglus        0726 E446538-8    Ni Ag              303 Li
+Bathy         0728 B300555-D    Ni Va              503 Li
+Phlox         0825 B652445-A  N Ni Po              401 Li
+Hervey        0826 B554400-D    Ni              A  420 Li

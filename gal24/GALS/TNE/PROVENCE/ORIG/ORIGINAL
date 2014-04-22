@@ -1,0 +1,1822 @@
+
+                                  PROVENCE
+
+This sector lies completely within Vargr space. As such, the majority
+populations listed in the UWP of these worlds are Vargr. Humans, if
+present, will be in the minority and listed in the Remarks column with an
+M.
+
+                     A          B         C          D
+                 Llaezgaen   Vorvoun    Grnouf    Tsaegag
+
+                     E         F          G          H
+                  Anghikh   Kaegrogz    Gveghz      Thon
+
+                     I         J          K          L
+                 Dzarrvaer   Aenkuk    Karrdzae   Kaerfoz
+
+                     M         N          O          P
+                  Lighoz    Voudzeur   Uekhourg  Daekvagul
+
+Allegiance Codes:
+Dr Droyne World
+KV Knokseng Confederation (TNE)
+Va Independent Vargr World
+Ve Empire of Varroerth
+Vf Dzarrgh Federate
+Vg Glory of Taarskoerzn
+Vh Irrgh Manifest
+Vi Llaeghskath Interacterate
+Vj Jihad of Faarzgaen
+Vl Lair Protectorate
+Wi Wilds (TNE)
+
+Bases:
+G Vargr Naval Base
+C Corsair Base
+H Naval & Corsair Bases
+
+Sector Notes: I ran into a bit of a problem when generating the subsectors
+for this sector. I used DGP's "Vilani & Vargr." The dot map (pg.48) and the
+library info provided did not always match up. I've had to do some
+modifications to get everything to make some sort of sense. These changes
+are as follows:
+
+   * Dzarrvaer, the capital of the Dzarrgh Federate, is listed in the
+     library data (pg.53) as being at 224. There isn't a world at this
+     location on the dot map. Instead, I made it the world at 225.
+
+   * Ouskathoerz is listed in the library data (pg.54) as being at 405.
+     There isn't a world at this location on the dot map. Instead, I made
+     it the world at 406.
+
+   * Ghaez-Larrgh is listed in the library data (pg.54) as being at 803.
+     There isn't a world at this location on the dot map. Instead, I made
+     it the world at 903.
+
+   * Kirg is listed in the library data (pg.53) as being at 731. There
+     isn't a world at this location on the dot map. Instead, I made Kirg to
+     be the world at 831.
+
+   * Igunfaksa, the capital of the Irrgh Manifest, is listed in the library
+     data (pg.53) as being at 1731. On the dot map, this would place it in
+     the territory of the Glory of Taarskoerzn. The library data (pg.54)
+     also states that the Glory of Taarskoerzn split the Irrgh Manifest in
+     two with Igunfaksa in the "larger trailing half." The dot map clearly
+     shows that the spinward portion of the Irrgh Manifest is larger.
+     Therefore, I've decided to put Igunfaksa in the spinward portion at
+     1431, which is closer to 1731 than the trailing portion.
+
+   * According to the library data on pg.54 of "Vilani & Vargr", there are
+     only 9 worlds to the Lair Protectorate in 1120. The dot map shows 10
+     (8 in Provence, 2 in Ngathksirz). I went with the dot map.
+
+
+LLAEZGAEN
+
+PROVENCE Subsector A: New Era Data, as of 001-1202 / Imperial Era Data, as
+of 001-1120.
+
+HEX World Name     UWP       BS Trade               PPG  ALStellar
+101 Ngulruedukh    X8A10000     Fl,Ba               012  --M1 III  M2V
+                   B8A1552C     Fl,Ni               112  Vi
+102 Gzaerzserorgh  X69A4374     Wa,Ni               B301 WiG9V MD
+                   A69A444D     Wa,Ni               701  Vi
+103 Thurraekh      X8A10000     Fl,Ba               003  --M3V
+                   B8A1752C  G  Fl                  303  Vi
+107 Kuerrgoeng     X7886424     Ag,Ni               214  WiF5V
+                   C7886428     Ag,Ni,Ri            214  Ve
+108 Gaeksuergh     X5616983     Ni                  622  WiG4V M3V
+                   C5616987     Ri,Ni               622  Ve
+109 Adzoeknogh     X4240000     Ba                  003  --M4V M5V
+                   B424224A     Ni,Lo               103  Ve
+110 Ang Aeth       E4443005     Ni,Lo               325  WiF1V FD
+                   D4443316  C  Ni,Lo               625  Ve
+203 Aellorr        X7568975                         215  WiG7V GD
+                   A7569A7D  G  Hi                  315  Vi
+204 Kunag          X3000000     Va,Ba               012  --M6V
+                   B300745D  G  Va,Na               212  Vi
+205 Kota           X1000000     Va,Ba               011  --M1V M8V
+                   A100954E  G  Va,In,Hi,Na         411  Vi
+210 Ath Aghe       X6856334     Ag,Ni,Ri            124  WiF8V
+                   B685633A     Ag,Ni               224  Ve
+302 Ae Uer         D7875238     Ag,Ni               513  WiG1V
+                   B787523C  G  Ag,Ni               913  Vi
+303 Vaggvuek       X5350000     Ba                  002  --G8 IV
+                   B535230B     Ni,Lo               502  Vi
+304 Kath           X1100000     Va,Ba               004  --M1V
+                   A110757E  G  Va,Na               804  Vi
+305 Taktelugh      X55866D2     Ag,Ni               B222 WiG7V
+                   A558675B     Ag,Ni               422  Vi
+306 Sa Thaen       D68A5447     Wa,Aq,Ni            113  WiK0V M1V
+                   B68A574C     Wa,Aq,Ni            113  Vi
+308 Llaes          D7647996     Ag                  B904 WiG5V M0V
+                   C76478C6     Ag,Ri               904  Ve
+309 Oghzourr       X5150000     Va,Ic,Ba            024  --F9V
+                   C5153379     Va,Ic,Ni,Lo         824  Ve
+401 Urr Orr        D5584565     Ag,Ni               324  WiG9V MD
+                   B558444B     Ag,Ni               724  Vi
+402 Ardhaer        X2330000     Po,Ba               013  --K2V K7V
+                   B233421D     Po,Ni               713  Vi
+403 Klur           X3100000     Va,Ba               024  --F4V M4V
+                   A310758F  G  Va,Na               124  Vi
+406 Ouskathoerz    D5586358     Ag,Ni               822  WiK0V K2V
+                   A558625E     Ag,Ni               822  Vi
+409 Ranghou        C4445456     Ag,Ni               420  WiF8V MD
+                   A44459CB     Ag,Ni               520  Ve
+410 Founeghen      X3816250     Ni                  B904 WiF3V
+                   A381876B  G                      304  Ve
+502 To Oukan       C6426349     Ni                  714  WiG9V
+                   A642744C  G                      714  Vi
+507 Nurugholi      X6340000     Ba                  022  --K9V
+                   B6346A9C     Ni                  322  Vi
+508 Zekhghe        X7793744     Ni,Lo               B315 WiG5V
+                   A779336D     Ni,Lo               815  Vi
+603 Vo Dikh        C2445568     Ag,Ni               322  ViK3V
+                   A244556D     Ag,Ni               322  Vi
+604 Llaegharrgh    C666855A                         824  ViG2V
+                   A666958G  G  Hi,Cx               224  Vi
+606 Ung Uksa       D6868467                         423  WiG1 IV  M8V
+                   A686879C  G                      523  Vi
+608 Khid           X2100000     Va,Ba               014  --K8V MD
+                   E210212B  C  Va,Ni,Lo            714  Ve
+701 Urerknun       D95A4126     Ni                  503  WiF0 IV  F5V
+                   C95A47A7     Ni                  903  Ve
+702 Okhoe          X5240000     Ba                  024  --M3V MD
+                   C5246A79  C  Ni                  124  Ve
+704 Faarzgaen      X0000000     As,Va,Ba            014  --M0V M0V
+                   B0009EJE  G  As,Va,In,Hi,Na,Cx   A414 Vj
+705 Vo Oeg         X66486B4     Hi                  B404 WiF0V F2V
+                   B664AEJB  G  Hi                  A204 Vj
+706 Arri           X6486574     Ag,Ni               B134 WiG6V
+    Inggvuenloek   B64866J7     Ag,Ni,O:707         A234 Vj
+707 Vrraknog       X6788743                         B104 WiK9V
+                   C6789EJ9  G  In,Hi               A604 Vj
+709 Ngekhong       X7A40000     Fl,Ba               023  --M4V M4V
+                   C7A44009  C  Fl,Ni               623  Ve
+710 Errokdzor      X5390000     Ba                  004  --M9 II
+                   C539220B     Ni,Lo               204  Ve
+801 Vungeketh      X7597462     Aq                  103  WiK4V
+                   B759777A     Aq                  203  Ve
+805 Tughghorr      X4567764     Ag                  B323 WiK9V M0V
+                   B456AEJB  G  Hi                  A223 Vj
+809 Rothksigho     X88A57B3     Wa,Aq               B901 WiF6V
+                   B88A67BA     Wa,Aq               101  Ve
+810 Alloghz        X9C60000     Fl,Ba               012  --F4 IV  F8V FD
+                   D9C65229     Fl,Ni               212  Ve
+
+Llaezgaen Subsector: The Llaezgaen Subsector has an estimated population in
+1202 of approximately 2.0 billion, a decline of 96.6% from its Pre-Collapse
+population. Llaegharrgh has the highest population (800 million) as well as
+the highest tech level rating (10). The Llaezgaen subsector had an
+estimated population in 1120 of approximately 60.1 billion. Its highest
+population was 20 billion at Tughghorr and Vo Oeg. Llaegharrgh had the
+highest tech level (16).
+
+Subsector Notes:
+(Refer to Vilani & Vargr pg.54-55) In 1114, unhappy with the menacing
+attitude of Faarzgaen (704), the Llaeghskath Interacterate was formed by
+Llaegharrgh (604) and Ouskathoerz (406). Believing in technology and
+scientific thought, these worlds sought to pursue an independent course
+from the Empire of Varroerth. Many of their spinward neighbors joined them.
+
+The religious leaders of Faarzgaen were so outraged by this development
+that they too seceded from the Empire to form the Jihad of Faarzgaen. The
+leaders despised the Interacterate for their "ungodly" beliefs and felt
+that they needed to be eradicated from existence. Enlisting the aid of some
+of their trailing neighbors, they went to war against the Llaeghskath
+Interacterate. Those worlds which would not willingly join with the Jihad
+were forcibly annexed.
+
+The religion is centered around the god Faarzgaen. His worshippers believe
+that he communicates to them through feelings. If you felt hungry, you were
+supposed to eat. If you wanted to kill someone, you were being commanded by
+Faarzgaen to do just that. The Jihad was brutal, even to its own citizens.
+Heretics were put to death. No personal entertainment devices were
+permitted nor was there any money. Off-worlders were paid in hard assets
+such as precious metals, finished goods, and even slaves from captured
+worlds.
+
+With the exception of a temporary cease-fire in 1118, enacted when word of
+Strephon's death reached the region, the war was non-stop. The Jihad's
+devotion to eradicating the Interacterate was relentless. They might even
+have won the war were it not for a crucial mistake. The turning point came
+in 1125 when they decided that further expansion trailward was necessary
+(see Vorvoun for more details). The new regional governor, Gen Rungakh, was
+already annoyed with the ongoing feud. She issued a proclamation stating
+that neither group be allowed to expand any further. While the
+Interacterate complied, the Jihad did not. When the Jihad began to forcibly
+convert more worlds over to Faarzgaen, Rungakh began to retaliate by
+ordering all Jihad warships found outside of their 1125 boundaries to be
+attacked. Forced to fight a war on 2 fronts, the Jihad weakened.
+
+In 1128, the Jihad agreed to another cease-fire. Negotiators stepped in to
+try and find a way to reintegrate both sides back into the Empire. During
+this time, the Jihad began to build more ships to recoup their losses.
+After 3 years of negotiating, the Jihad killed the peace negotiators from
+the Empire and the Interacterate and renewed the war.
+
+The madness of the Jihad finally came to an end in 1135. The massive
+Vampire Fleet from Anghikh and Kaegrogz invaded and annihilated Faarzgaen.
+The planetoids themselves were pounded so heavily that they shattered into
+pieces. Even the inhabitable Jihad worlds suffered heavily. The death toll
+was in the tens of billions.
+
+The Llaegskath Interacterate also took a beating from Virus. However,
+unlike the Jihad of Faarzgaen, it survived. Only Llaegharrgh (TL10) and Vo
+Dikh (TL8) remained intact enough to carry on the name of the state. Other
+worlds have begun to rebound from the devastation. Before the end of the
+decade, it is hoped that Ae Uer (302), Taktelugh (305), Sa Thaen (306), Urr
+Orr (401), To Oukan (502), Ouskathoerz (406), and Ung Uksa (606) will be
+able to, and want to, rejoin the Interacterate.
+
+
+VORVOUN
+
+PROVENCE Subsector B: New Era Data, as of 001-1202 / Imperial Era Data, as
+of 001-1120.
+
+HEX  World Name        UWP      BS Trade            PPG  AL Stellar
+901  Aktsthungso       X88A7554    Wa,Aq            422  Wi G3V MD
+                       B88A753D G  Wa,Aq,Ri         922  Ve
+903  Ghaez-Larrgh      X5845225    Ag,Ni            104  Wi F9V
+                       B58466J8    Ag,Ni,O:704      A204 Vj
+904  Aedzuedza         X3240000    Ba               023  -- M0V M7V
+                       B32436JB    Ni,Lo,O:704      823  Vj
+906  Doughaerr         XAA90000    Fl,Ba            022  -- F9V
+                       DAA956J7    Fl,Ni            322  Vj
+908  Kuzllonge         D3464235    Ni               304  Wi G6 IV  M6V MD
+                       C3464739 C  Ni               604  Ve
+1002 Kugh              X0000000    As,Va,Ba         022  -- A2V G8V
+                       B000674B    As,Va,Ni,Na      222  Ve
+1003 Aelues            D4537758                     922  Wi G4V
+                       C453975A    Hi               922  Ve
+1008 Vuegva            X5564253    Ni               303  Wi M1 III
+                       B556443B    Ni               803  Ve
+1009 Viksougu          E5471005    Ni,Lo            514  Wi M3V
+                       C5471007 C  Ni,Lo            914  Ve
+1103 Edhsaza           X7873473    Ni,Lo            B313 Wi G9V
+                       B787347A    Ni,Lo            713  Ve
+1106 Aekaedho          X9978564                     B503 Wi K4V KD
+                       B997978B G  In,Hi            303  Ve
+1108 Eg Orrou          X5000000    Va,Ba            003  -- M8V
+                       C5003007 C  Va,Ni,Lo         903  Ve
+1110 Aersathun         D5436556    Ni               101  Wi K6V K9V
+                       B5438769                     101  Ve
+1201 Adhkfurral        XAD41255    Ni,Lo            801  Wi M2V
+                       CAD42258 C  Ni,Lo            201  Ve
+1204 Kerro             X0000000    As,Va,Ba         013  -- M3V
+                       A000847D G  As,Va,Ni,Lo      313  Ve
+1205 Un Gzang          X9B80000    Fl,Ba            003  -- F8 IV  F0V
+                       B9B8367A    Fl,Ni,Lo,O:1204  703  Ve
+1208 Sondhuen          X7946222    Ag,Ni            B134 Wi F7V
+                       B794622B    Ag,Ni            334  Ve
+1209 Daethrrorrg       X4735473    Ni               B202 Wi G8V
+                       B473579A    Ni               602  Ve
+1301 Guekouzaeks       E3722564    Ni,Lo            101  Wi F6V
+                       D3722007    Ni,Lo            301  Ve
+1302 Llonknarrluts     X3504553    De,Ni            101  Wi F0V F6V
+                       B350479B    De,Ni            201  Ve
+1304 Knak              X3000000    Va,Ba            014  -- A5 IV  G4V
+                       A3009A9D G  Va,In,Hi,Na      914  Ve
+1306 Gaengael          X5447464    Ag               233  Wi F7V M2V
+                       B544874A G                   433  Ve
+1403 Farrurgneng       D5446527    Ag,Ni            625  Va G7V
+                       B544652B    Ag,Ni            725  Ve
+1404 Uengngil          X5754001    Ni               403  Wi G4V
+                       B575456C G  Ni               803  Ve
+1405 Gunog             X78A4313    Wa,Aq,Ni         304  Wi F6V
+     Ksarthangtsouts   B78A49BA G  Wa,Aq,Ni         704  Ve
+1410 Kathae            X2210000    Po,Ba            022  -- M6V M5V
+                       B221136A    Po,Ni,Lo         322  Ve
+1505 Vorvoun           C778845A                     403  Wi G0V
+                       A7789A5F G  In,Hi,Cp         503  Ve
+1507 Oungrroll         X8A40000    Fl,Ba            011  -- M4V KD
+                       B8A4552C    Fl,Ni            611  Ve
+1509 Dhoradhue         X5765561    Ag,Ni            B104 Wi F1V FD
+                       C5765569 G  Ag,Ni            204  Ve
+1601 Zaeghaego         D7537587                     403  Va G5V
+                       B753758A                     403  Ve
+1602 Dhurrg            X8637774                     B403 -- F6V
+                       B8637779                     503  Ve
+1605 Kaengku           C3687578    Ag,Ri            103  Va F2V M3V
+                       A368757D G  Ag,Ri            103  Ve
+1608 Dholgva           X4702244    De,Ni,Lo         203  Wi F3V F6V
+                       B4702059    De,Ni,Lo         403  Ve
+
+Vorvoun Subsector: The Vorvoun Subsector has an estimated population in
+1202 of approximately 1.2 billion, a decline of 95.7% from its Pre-Collapse
+population. Aekaedho has the highest population (500 million)while Vorvoun
+has the highest tech level rating (10). The Vorvoun subsector had an
+estimated population in 1120 of approximately 27 billion. Its highest
+population was 9 billion at Knak and Aelues. Vorvoun had the highest tech
+level (15).
+
+Subsector Notes:
+From 1115-1120, the Jihad of Faarzgaen invaded and enslaved three worlds:
+Ghaez-Larrgh (903), Aedzuedza (904), and Doughaerr (906). By 1120, 75% of
+the population of Ghaez-Larrgh had either been enslaved or killed (Vilani &
+Vargr pg54). By 1121, the entire population of Aedzueda had been killed. By
+1122, the entire population of Doughaerr had either been enslaved or
+killed. The butchering and enslavement of Ghaez-Larrgh continued until only
+a few hundred thousand people remained. This became the breeder pool for
+future slaves.
+
+In need of more "hard assets," the Jihad began to expand trailward in 1125.
+They began to attack Kugh (1002) and Aeleus (1003). Gen Rungakh, the newly
+appointed regional governor, put a stop to it. As the first step towards
+re-integrating the two warring factions back into the Empire, further
+expansion had to be halted. Forced to fight a war on two fronts, the Jihad
+weakened. Although the Jihad resumed their attacks after the peace
+negotiations failed in 1131, they were not able to capture any other worlds
+before Virus wiped them out in 1135.
+
+Local corsairs which traded with the Jihad of Faarzgaen often received
+unusual forms of payment: gems, precious metals, and even slaves. The bases
+at Viksougu (1009), Eg Orrou (1108), and Adhkfurral (1201) profited from
+this arrangement. Today, they're in bad shape. The base at Eg Orrou was
+completely wiped out by Virus. The downport at Viksougu came alive and
+kills anyone that tries to enter it. The support structure for the base in
+the mountains of Adhkfurral was blasted by Vampire ships. Those present
+fell with it as it slid down into the crushing pressures of the lower
+elevations. The population at Viksougu is 55 and the population at
+Adhkfurral is 85. Neither of these populations is large enough to sustain a
+healthy gene pool. Without an influx of Vargr, or escape, these populations
+will gradually die off.
+
+Gunog (1405), formerly known as Ksarthangtsouts, was once run by a
+restrictive, almost stifling bureaucracy. In an effort to preserve some
+semblance of unity after the capital city sank, the surviving government
+officials drafted up several reforms. Each island was permitted to rule
+itself so long as those rules did not conflict with rules established by
+the world government. Representatives from the islands convene to run the
+world government. As noted by the drastic difference in pre and
+post-Collapse law levels, there has been very little legislation enacted to
+curb the islands' freedom. As such, it has allowed the islands a chance to
+concentrate on rebuilding. So far, the inhabitants have not abused their
+new level of freedom.
+
+Vorvoun (1505) has remained somewhat intact though nowhere near the level
+it once was. In recent years trade has resumed with a couple of other
+worlds: Kaengku (1605) and Farrurgneng (1403). A pair of survey vessels are
+scheduled to begin exploration of the Grnouf Jump-1 Main from Aekaedho
+(1106) to Foukakh (2405) later this year (1202).
+
+
+GRNOUF
+
+PROVENCE Subsector C: New Era Data, as of 001-1202 / Imperial Era Data, as
+of 001-1120.
+
+HEX   World Name        UWP       BSTrade         PPG      ALStellar
+1701  Dhuellzugza       X7555245    Ag,Ni         221      WiG8V
+                        C755524A    Ag,Ni         321      Ve
+1703  Odhrrigh          X7B20000    Fl,Ba         022      --M6V
+                        B7B2411C    Fl,Ni         122      Ve
+1706  Anur              X5848436    Ag            B513     WiM4 III  M0V
+                        A5949BF7    In,Hi         513      Ve
+1707  Hoenguel          X6714400    Ni            B922     WiK2V
+                        B671532B    Ni            222      Ve
+1708  Tsueghogruglloz   X9964691    Ag,Ni         903      WiF9V
+                        A996575B  G Ag,Ni         203      Ve
+1709  Gzoerghaen        X5946897    Ag,Ni         B424     WiK3V K9V
+                        B594689B  G Ag,Ni         524      Ve
+1802  Oegninong         X4250000    Ba            001      --M4V
+                        A4259AAC  G In,Hi         101      Ve
+1804  Kfaege            X2020000    Va,Ic,Ba      011      --M8V
+                        B202633A    Va,Ic,Ni,Na   111      Ve
+1805  Grnouf            X8698534                  B402     WiK0V KD
+                        A86989AC    Ri            702      Ve
+1806  Sastsuks          X24466B6    Ag,Ni         B522     WiF4V
+                        A2447A7C    Ag            722      Ve
+1810  Udhagaksuen       X5453107    Ni,Lo         404      WiF6 IV
+                        B545333A    Ni,Lo         704      Ve
+1904  Kfakfug           X2000000    Va,Ba         011      --M0V
+                        A2008A7C  G Va,In,Hi,Na   911      Ve
+1905  Kfeks             X1000000    Va,Ba         025      --G9V
+                        B1006A8C    Va,Ni,Na      525      Ve
+1906  Gnerr             X7556598    Ag,Ni         514      VaK9V MD
+                        A755659C    Ag,Ni         614      Ve
+1907  Ueksouk           X7C20000    Fl,Ba         002      --F2V
+                        B7C2976C  G Fl,In,Hi      102      Ve
+1909  Uengoz            X3566305    Ni            B204     WiF1V MD
+                        B356679B    Ni            304      Ve
+2001  Zargvaetsr        C76A6A79    Wa,Aq         912      VlG7V
+                        A76A7A7C  G Wa,Aq         112      Vl
+2004  Kfaengzuen        X2120000    Ic,Ba         013      --M5V
+                        C212576A    Ic,Ni,Lo      113      Ve
+2005  Otsaerghuerr      X88A4534    Wa,Ni,Lo      903      WiG9 IV
+                        B88A522C    Wa,Ni,Lo      203      Va
+2006  Voukifaerrg       X5330000    Po,Ba         005      --F1V
+                        B533745B    Po            605      Ve
+2101  Aertsvad          C49478B9    Ag            605      VlK1V K6V
+                        A49478BB  G Ag            705      Vl
+2102  Oeghzvar          C486876A                  104      VlG4V
+                        A486876C  G               104      Vl
+2107  Kfasaegerr        X2230000    Po,Ba         012      --F3V M3V
+                        A2239C9D    Po,In,Hi      112      Ve
+2108  Egzan             X4586553    Ag,Ni         B902     WiG6V
+                        A458977C  G Hi            202      Ve
+2109  Uengva            D4815308    Ni            402      VaF1V
+                        B481530A    Ni            702      Ve
+2206  Daekhs            X7A10000    Fl,Ba         013      --M2V
+                        B7A1422B  C Fl,Ni         213      Ve
+2208  Saellok           D5978528                  704      VaM0V
+                        A597852C  G               804      Ve
+2301  Zhorurn           C884773B    Ag            213      VlF9V
+                        A884773D  G Ag            313      Vl
+2302  Fraets-Vog        B685755C  G Ag,Ri         103      VlK1V
+                        A685755E  G Ag,Ri         203      Vl
+2305  Arrunoer          D4967448    Ag            704      VaF8V F8V
+                        B496744A    Ag            704      Ve
+2306  Geksoen           D4566568    Ag,Ni         600      VaG0V
+                        B456656B    Ag,Ni         700      Ve
+2308  Vaesan            X5A10000    Fl,Ba         003      --M1V
+                        A5A1454C    Fl,Ni         203      Ve
+2310  Koeldoun          X4000000    Va,Ba         003      --K0V
+                        A400751E  G Va,Na         703      Ve
+2401  Firgvaar          A667987C  G Hi            214      VlG0V
+                        A667987E  G Hi            214      Vl
+2402  Lair              A8859A8C  G Hi,Cx         213      VlG5V
+                        A8859B9F  G Hi,Cx         213      Vl
+2405  Foukakh           X5557867    Ag            B304404  WiK3V K8V
+                        B555779A    Ag                     Ve
+2410  Uk Olou           X8846425    Ag,Ni         B211     WiG4V
+                        B884650C    Ag,Ri,Ni      411      Ve
+
+Grnouf Subsector: The Grnouf Subsector has an estimated population in 1202
+of approximately 6 billion, a decrease of 60% from its Pre-Collapse
+population. Lair and Firgvaar have the highest population (2 billion) while
+Lair has the highest tech level rating (13). The Grnouf Subsector had an
+estimated population in 1120 of approximately 15 billion. Its highest
+population was 5 billion at Anur. Lair had the highest tech level (15).
+
+Lair Protectorate Notes:
+In 777, Lair (2402) declared its independence from the Empire of Varroerth.
+It was accompanied by Khvhaergvaetsorrgh (2501), Firgvaar (2401),
+Fraets-Vog (2302), Zhorurn (2301), and Kaarlag (Ngathksirz 2440).
+"Embracing everything that is truly Vargr, the Lair Protectorate is based
+on the basic precepts of charisma and responsible change." (Vilani & Vargr
+pg.54). The Empire just shrugged and ignored the Protectorate. The
+Protectorate ignored the Empire in return. Over the next 300+ years,
+Aertsvad (2101), Oeghzvar (2102), Zargvaetsr (2001), and Khaevu (Ngathksirz
+2240) joined the Protectorate. As the Protectorate began to really prosper,
+the regional governor grew somewhat envious but took no action. The
+Protectorate is also technologically minded and would have quite an
+advantage if a civil war broke out.
+
+Unlike their brethren, the Vargr of the Lair Protectorate did not join in
+the great feast in Corridor. Their resources were focused on internal
+matters. Civil unrest on Lair threatened to break apart the Protectorate.
+Reform minded Ulurs Otsunga stabilized matters with legislation designed to
+curtail restrictions over personal freedoms. His timing was fortunate as he
+soon had to face an even greater threat, Virus.
+
+When word reached the Protectorate about the coming of Virus, decisive
+action was immediately taken. Worlds prepared for war. Caches of technology
+were created and hidden deep underground. While representatives of the
+Empire scoffed at what they felt was a hoax, the Protectorate secured its
+borders and remained alert for any possible sign of contamination. In 1136,
+Virus came.
+
+A large vampire fleet, mostly consisting of ships from Kaegrogz and
+Anghikh, barreled its way into Grnouf in 1136 after forays into Llaezgaen
+and Vorvoun. Spies for the Protectorate returned with reports of carnage
+all along the Grnouf Main. Taking a gamble, the Protectorate put the bulk
+of its forces in Zargvaetsr, since it is the only Protectorate world
+seperated by 2 parsecs to the Grnouf Main. It paid off.
+
+The Vampire fleet jumped in 2 weeks after the Protectorate Navy had put
+themselves into positions throughout the system. Despite being outnumbered,
+the Protectorate Navy had the element of surprise and superior technology
+on their side. They destroyed the bulk of the fleet as most of the ships
+did not have the extra fuel to jump out of the system. Those that did, went
+coreward into Ngathksirz sector. Protectorate casualties were moderate but
+the naval base and Zargvaetsr itself were the unfortunate recipients of
+suicide impacts from dying vampire ships.
+
+Over the next two decades, several major battles were fought. The most
+decisive came in 1156 when a large Vampire fleet tried invading the
+Protectorate through its coreward jump 1 neighbors in Ngathksirz. This was
+a successful maneuver. Although the Protectorate was patrolling these
+worlds and received enough advance notice from their scouts, they did not
+know which world the fleet was going to strike. Over a period of several
+months, Vampire squadrons would jump in to a system, hit it, and jump back
+out before the Vargr had a chance to strike. A few of these missions were
+suicide runs designed to take out a starport or a naval base to soften up
+the system before the larger force jumped in. The Protectorate was forced
+to divide up its fleet among several worlds as most were within striking
+distance. The entire Vampire fleet finally struck at Aertsvad. Defending
+all 5 gas giants would have spread their forces too thin so only a few
+ships had been sent to each gas giant. When the Vampire fleet jumped in,
+the ships radioed the main fleet and then jumped to rejoin the main fleet.
+Upon receiving the warning, couriers were sent out to warn their neighbors.
+The battle, known as the Siege of Aertsvad, was fierce. Vargr fighter
+pilots adopted the suicide tactics of the Vampires. The Vampire fleet
+didn't consider the fighters much of a threat. This enabled the fighters to
+within meters of them where they were able to detonate their nuclear
+payloads. Casualties were heavy for both sides at Aertsvad but the Vargr
+held their ground. The Vampire fleet was forced to flee.
+
+With their coreward neighbors a liability, the Protectorate decided that it
+would annex them. The Protectorate Recovery Program (PRP) began in 1158.
+Advisors and troops were sent in to assess the situation of each of these
+worlds and recommend the best course of action to bring these worlds back
+to pre-Collapse levels. Although the work has been slow, definitive
+progress has been made. All worlds in the Protectorate have at least a D
+starport or better.
+
+Virus brought out something unusual in the Vargr of the Lair Protectorate:
+homeworld pride. Virus has been perceived as an attack on the Vargr way of
+life. Virus has no charisma. The Vargr of the Protectorate feel greatly
+insulted and, as such, will not suffer it. When dealing with Viral threats,
+these Vargr fight with the tenacity of an Aslan defending the honor of his
+clan and have not hesitated to lay down their lives in defense of the
+Protectorate.
+
+Other Subsector Notes:
+The tech level for Anur (1706) in the UWP for 1120 is misleading. The
+monarchy enjoyed the fruits of their subjects' labor. They imported high
+tech goods from offworld while their subjects lived at tech level 7.
+Working in the factories was mandatory. Conditions tended to be poor.
+Dissidence was forbidden. The police made sure that the people remained in
+line. Rebellion came when Virus sent the starport crashing down into the
+capital city. As cities and industrial parks were being bombarded, the
+people fled, often taking advantage of the confusion to attack local law
+enforcement.
+
+Uengva (2109), Saellok (2208), Arrunoer (2305), and Geksoen (2306) managed
+to keep stripped down versions of their downports functional. All 4 worlds
+lie on the Grnouf Main. While it is unknown why Vampires no longer make
+their way down to the Uengva-Saellok arm, Geksoen's lack of gas giants
+could be the reason why the Vampires don't travel down the Arrunoer-Geksoen
+arm. They might be operating under the assumption that the starport is gone
+from Geksoen, leaving only ocean refuelling as the means for leaving the
+system. In either case, each pair of worlds has maintained light trade with
+the other.
+
+
+TSAEGAG
+
+PROVENCE Subsector D: New Era Data, as of 001-1202 / Imperial Era Data, as
+of 001-1120.
+
+HEX   World Name            UWP        BS Trade     PPG   AL Stellar
+2501  Khvhaergvaetsorrgh    C346733A      Ag        104   Vl G8V
+                            A346733E   G  Ag        204   Vl
+2509  Ugouksnge             D6455418      Ag,Ni     113   Va M5 III  M1V
+                            B645541A      Ag,Ni     113   Ve
+2603  Okhdzueg              D8866538      Ag,Ri,Ni  615   Va G1V G4V GD
+                            C886653A      Ag,Ri,Ni  615   Ve
+2604  Tsaegag               C5568557                B314  Wi K2V K7V
+                            A556879D   G            414   Ve
+2706  Oekh Dal              X5738544                B622  Wi F6V MD MD
+                            C573979A      In,Hi     822   Ve
+2810  Gvoghaellthoe         X3340000      Ba        002   -- M3V
+                            B334555C   G  Ni        602   Ve
+2903  Kugk                  X2000000      Va,Ba     002   -- M4V
+                            C2001019   C  Va,Ni,Lo  502   Ve
+3003  Khok Ae               X2030000      Va,Ic,Ba  022   -- M7V M7V
+                            B203532B      Va,Ic,Ni  222   Ve
+3101  Larrothaegan          X5573042      Ni,Lo     303   Wi F5V
+                            B557336A      Ni,Lo     803   Ve
+3108  Uedh Kal              X3100000      Va,Ba     004   -- M2V MD
+                            B310314D      Va,Ni,Lo  104   Ve
+3201  Gzorrksaerr           X7887334      Ag,Ri     214   Wi G6V
+                            A788787C   G  Ag,Ri     614   Ve
+
+Tsaegag Subsector: The Tsaegag subsector has an estimated population in
+1202 of approximately 936 million, a decline of 89% from its Pre-Collapse
+population. Oekh Dal has the highest population (600 million) while
+Khvhaergvaetsorrgh has the highest tech level rating (10). The Tsaegag
+subsector had an estimated population in 1120 of approximately 8.5 billion.
+Its highest population was 8 billion at Oekh Dal. Khvhaergvaetsorrgh had
+the highest tech level (14).
+
+Subsector Notes:
+A backwater subsector of the Empire of Varroerth, the Tsaegag subsector
+encountered less Vampire attacks than the average subsector. This was
+probably due to the low stellar density in the area. While in many cases,
+it only takes one attack to render catastrophic results (Gvoghaellthoe,
+Kugk, Khok Ae, Uedh Kal) some worlds did not suffer greatly
+(Khvhaergvaetsorrgh, Ugouksnge, Okhdzueg, and Tsaegag).
+
+Khvhaergvaetsorrgh (2501) was one of the worlds that joined Lair (2402)
+when it seceded from the Empire of Varroerth in 777.
+
+Okhdzueg (2603) and Tsaegag (2604) continue to carry out a small amount of
+trade with one another. Okhdzueg is an agricultural world while Tsaegag
+conducts a limited amount of manufacturing. Although a huge market awaits
+them at Oekh Dal (2706), they are fearful of accidentally encountering a
+Viral egg.
+
+Uedh Kal (3108), owned by the company of the same name, served as a reverse
+engineering/research institute. Although only legally permitted to deal
+with the Empire, the owners realized that a diversified client base was
+much more preferrable. As such, they traded with regional governors in the
+Empire as well as cosairs and other interstellar states. Being somewhat
+remote, they were able to avoid getting hit with Virus for some time.
+Expecting to be attacked by warships, a much needed supply ship did not
+receive a thorough inspection. It contained an egg which, when hatched,
+went right to the environmental controls. Whether or not it is still
+present is unknown. Its remote location has been an inconvenience to
+privateers.
+
+
+ANGHIKH
+
+PROVENCE Subsector E: New Era Data, as of 001-1202 / Imperial Era Data, as
+of 001-1120.
+
+HEX  World Name        UWP        BS Trade          PPG   AL Stellar
+112  Dhotsaeng         D4772227      Ni,Lo          703   Wi F9V
+                       C477222A      Ni,Lo          703   Ve
+115  Koudhgzaen        X46378D4                     912   Wi A5V
+                       B4639ABA   G  Hi             112   Ve
+119  Nogh              C3666369      Ag,Ni          405   Wi K3V K6V
+                       A366636C      Ag,Ni          905   Va
+120  Zadz              X88A5454      Wa,Aq,Ni       B405  Wi G2V MD
+                       C88A5789      Wa,Aq,Ni       805   Va
+212  Ghoghzsorgh       X6350000      Ba             004   -- M0V
+                       B635121D      Ni,Lo          404   Ve
+216  Rataetaenrar      C3483156      Ni,Lo          405   Wi M0V
+                       A348359C      Ni,Lo          805   Ve
+219  Oughdzak          X7A60000      Fl,Ba          025   -- M5V M7V
+                       C7A63008   C  Fl,Ni,Lo       625   Va
+314  Dorrar            X4737405                     213   Wi G0V
+                       B47397B8      In,Hi          313   Va
+414  Oeksaegh          X6120000      Ic,Ba          004   -- M4V
+                       D6121229   C  Ic,Ni,Lo       404   Ve
+415  Anghikh           X4567362                     B204  Wi K5V
+                       A456A75F   G  Hi,Cp          204   Ve
+416  Uedzaell          X2210000      De,Ni          402   Wi F5V
+                       A2217A7D      De,Ni          702   Ve
+418  Khaghdaeksong     D6746318      Po,Ba          003   -- M3V M8V
+                       C6746218   G  Po             503   Va
+419  Ughfangkhoeg      D4942445      Ni,Lo          423   Wi A7 IV  G7V
+                       C4942008   C  Ni,Lo          623   Va
+516  Oeghzdharok       X9793330      Ni,Lo          B304  Wi K0V
+                       B979320B      Ni,Lo          804   Ve
+612  Aengour           X3120000      Ic,Ba          022   -- M5V M5V
+                       B312952D   G  Ic,In,Na,Hi    422   Ve
+614  Ksungkath         X4815515      Ni             903   Wi F1V
+                       B481646C      Ri,Ni          103   Ve
+618  Llorz             D8774006      Ni             401   Wi G0V M8V
+                       B8774779   G  Ni             801   Va
+712  Okhuers           X6260000      Po,Ba          003   -- M2V MD
+                       D6261027   C  Po,Ni,Lo       303   Ve
+718  Dhaen             X5786434      Ag,Ni          B605  Wi F8 IV
+                       B578643C   G  Ag,Ni          805   Va
+815  Zeng              X64A6305      Wa,Aq,Ni       B404  Wi G3V
+                       B64A7798      Wa,Aq          504   Ve
+820  Dhaen             X3425561      Po,Ni          204   Wi F8V
+                       C342976C   G  Po,In,Hi       204   Vh
+
+Anghikh Subsector: The Anghikh Subsector has an estimated population in
+1202 of approximately 146 million, a decline of 99.6% from its Pre-Collapse
+population. Koudhgzaen has the highest population (90 million) while Nogh
+has the highest tech level rating (9). The Anghikh subsector had an
+estimated population in 1120 of approximately 35.1 billion. Its highest
+population was 20 billion at Anghikhwhich also had the highest tech level
+(15).
+
+Subsector Notes:
+Virus hit this subsector especially hard. The infected fleets from Kaegrogz
+plowed through the area leaving death and destruction in their wake. Worlds
+with organics were a scourge and needed to be reduced in numbers if not
+completely eradicated.
+
+Dhotsaeng (112) was ignored by the Kaegrogz Fleets. It is assumed that it
+was too small a target. They have managed to keep their ships running by
+occasionally foraging through the ruins of Ghoghzsorgh (212) for equipment.
+With such a small gene pool (711 inhabitants in 1200), long term survival
+will require an influx of fresh DNA. It is unaminously agreed that a more
+aggressive search for other survivors is in order.
+
+Nogh (119) is arguably the most intact world in the subsector (C starport
+TL 9). Occasionally, a ship will travel to Zadz (120) to trade in a few
+goods and raw materials but this is extremely limited as Zadz's starport
+was destroyed and the tech level has been knocked down to 4. Nogh's other
+neighbor, Oughdzak (219), was rendered lifeless.
+
+At first, Rataetaenrar (216) suffered only moderate losses. The orbital
+starport was destroyed but the downport remained intact. Recoverable tech
+level, thanks to the forethought of the technocracy, was down to about 9.
+After the Vampire attacks died down, a few ships were sent out to check the
+status of Rataetaenrar's closest neighbors: Koudhgzaen (115), Uedzaell
+(416), and the subsector capital, Anghikh (415). They found only
+destruction. A second expedition was sent out to explore further but never
+returned. All further explorations were cancelled. The technological
+decline continued as society fragmented into numerous tribes. The starport
+is run by a tribe of engineers and technicians who feel that it is their
+purpose in life to keep it running for the day when starfarers return. In
+the meantime, the knowledge is passed down from one generation to the next.
+
+Anghikh (415) was a crown jewel in the former Empire of Varroerth. Like
+Kaegrogz, they too were under orders to begin expansion. Corsairs in the
+area were enlisted and encouraged to raid the rimward worlds to soften them
+up. It was while the Anghikh fleet was amassing that Virus struck and
+turned the big ships guns on the world below.
+
+Uedzaell (416) always relied on outside support to keep their starport
+going. When the supply ships stopped coming in, they began to run out of
+replacement parts and materials. The downport lost its usefulness as it
+became nothing more than just a large building with a large cement field.
+The settlements continue to be near the North Pole, where moisture can be
+collected during the long nights of winter. The "tainted" atmospheric
+rating is due to the sandstorms which plague the planet.
+
+The corsairs at Ughfangkhoeg (419) have become the "official" government of
+their world. They've managed to keep the downport functional. A couple of
+forays to Khaghdaeksong (418) have been helpful for spare parts.
+
+
+KAEGROGZ
+
+PROVENCE Subsector F: New Era Data, as of 001-1202 / Imperial Era Data, as
+of 001-1120.
+
+HEX  World Name         UWP      BS Trade              PPG  AL Stellar
+911  Gveurghak          XA6A5596    Wa,Aq,Ni           B904 Wi G5V
+     Ozkhakhstoul       BA6A668A    Wa,Aq,Ri,Ni,O:912  104  Ve
+912  Ozkhakh            X54676A6    Ag                 715  Wi F0V MD MD
+                        A546778C G  Ag                 915  Ve
+913  Anngang            X6879784    Hi                 B712 Wi G3V
+                        C6879788 C  Hi                 812  Ve
+915  Athoekhuerrg       X5270000    Ba                 004  -- M0V
+                        C527211B C  Ni,Lo              904  Ve
+916  Gaentsiroell       X9994124    Ni                 B122 Wi K5V
+                        D9994588    Ni                 322  Ve
+920  Aeraerir           X6837205                       602  Wi F2V
+                        B683720A                       602  Vh
+1012 Thursou            X5A20000    Fl,Ba              001  -- K4V
+                        A5A2974C G  Fl,In,Hi           401  Ve
+1013 Llurang            X9884412    Ni                 B202 Wi K4V
+                        C9884006 C  Ni                 502  Ve
+1020 Ghakong            XA9735A3    Ni                 913  Wi G6V
+                        BA97423B G  Ni                 113  Vh
+1111 Algoranong         X4557562    Ag                 104  Wi F9V
+     Ouksdzaenouk       A4559B9B G  Hi                 304  Ve
+1112 Khoengaen          X4714300    Ni                 924  Wi F4V
+                        B471521C    Ni                 324  Ve
+1113 Aegh Rong          D6746318    Ag,Ni              324  Wi K9V
+                        C6746218    Ag,Ni              324  Ve
+1115 Oesaevang          X99A4034    Wa,Ni              323  Wi F5V
+                        C99A4877 C  Wa,Ni              723  Ve
+1117 Koenalor           C8647468    Ag                 802  Wi G2 IV
+                        A8647AAA    Ag                 902  Va
+1214 Kaegrogz           X3100000    Va,Ba              003  -- M5V
+                        A3109A6E G  Va,In,Hi,Cp        203  Ve
+1217 Lloedh             D97A4447    Wa,Ni              324  Wi G9V M1V
+                        B97A479A    Wa,Ni              624  Va
+1314 Gvighue            X8A50000    Fl,Ba              024  -- M4V MD
+                        A8A5999C G  Fl,In,Hi           124  Ve
+1316 Rousurgeks         X2737435                       213  Wi F4V M7V MD
+     Igzinghuell        A2739DEA G  In,Hi              313  Va
+1317 Vifueks            D7865347    Ni                 B301 Wi F8 III  FD
+     Igzinghuellstoul   C78656B8    Ni,O:1316          501  Va
+1413 Ueng Fak           X4514532    Ni                 101  Wi F3V MD
+                        B451433A    Ni                 401  Ve
+1419 Uerelodza          X5835851    Ni                 B213 Wi M6 III
+                        B583522D    Ni                 613  Vh
+1613 Foungdaeghz        X5475723    Ni                 103  Wi A4V K5V KD
+                        B547572B    Ni                 203  Ve
+
+Kaegrogz Subsector: The Kaegrogz Subsector has an estimated population in
+1202 of approximately 7.2 billion, a decline of 65.9% from its Pre-Collapse
+population. Anngang has the highest population (7 billion) while Aegh Rong
+and Koenalor have the highest tech level rating (8). The Kaegrogz subsector
+had an estimated population in 1120 of approximately 21.2 billion. Its
+highest population was 8 billion at Anngang. Kaegrogz had the highest tech
+level (14).
+
+Subsector Notes:
+Athoekhuerrg (915) was named after the company that owned it. Although the
+law level of the world itself was low during the Rebellion, entrance to the
+world was difficult. A band of corsairs helped to maintain security and
+limit access. Information about the company and the work they did is
+difficult to find. Rumors and speculations about the business conducted
+there range from bioweapons to reverse engineering of Imperial technology.
+Although the corsair base and all surface structures were destroyed, it is
+not known whether or not the submerged facilities are still intact. With
+the corsairs removed, there is nothing to stop an aggressive band of
+privateers from investigating.
+
+As the corsair outpost at Llurang (1013) began to thrive, it spawned
+various service industries: Food, Entertainment, Healthcare, Starship
+Maintenance, etc. Without any central authority to manage operations,
+equity of services varied considerably. This is reflected in the tech level
+6 rating for 1120. In some instances, available technology reached 9 and
+even 10. With Virus eliminating off-world concerns, an effort has been made
+to organize what's left (not much) and rebuild a more ordered society.
+
+Bewildered by the ruins reaped upon Ghakong (1020) by Virus, the citizenry
+lost hope. No one could decide what action to take to start the rebuilding
+process and those few who tried, failed miserably. A group, calling
+themselves the Zoloutsitsaekh, offered a plan of renewal but the price
+would be to turn over the reins of government to them. Having encountered
+nothing but failure, the people voted (by a 3:1 margin) to be ruled by the
+Zoloutsitsaekh. Since coming to power, they have curtailed many personal
+freedoms, including weapon ownership, yet haven't provided anything more
+than meager infrastructure improvements and the appearance of order.
+Although they have been strict, the Zoloutsitsaekh have not abused their
+power.
+
+The naval base at Ouksdzaenouk (1111) was completely surprised by a Vampire
+fleet that was mostly composed of ships from the Empire (see Kaegrogz
+below). Unable to muster up a defense fast enough, their forces were either
+destroyed or infected in less than an hour. The starport and orbital cities
+were pulverized. Ground cities were bombarded relentlessly. Nothing
+remained that even remotely resembled civilization. Decades later, the
+survivors have recovered enough to build towns and small cities but are
+nowhere near their old tech level (currently a TL of 2). In the spirit of
+rebuilding the world has been renamed Algoranong.
+
+Koenalor (1116) and Lloedh (1217) were not hit too hard by Virus (For
+Pre-Collapse history see Igzinghuell below). Granted both worlds had their
+starports damaged, lost some ships, and had their infrastructure shaken
+down, but for the most part they're intact. Each world at least has a
+functioning starport (2 of the 4 in the subsector) and their tech levels (8
+& 7 respectively) are such that they're able to maintain spaceflight
+capable ships. The current dictator on Koenalor, Zoedhae Gvaenglang, has
+instituted several reforms increasing personal freedoms for the people. On
+Lloedh, the 23 nations agreed to be ruled a single leader whose job is to
+make sure that cooperation exists on all possible levels between them.
+
+Kaegrogz (1214) was a regional capital for the Empire of Varroerth. Several
+corsairs were allowed to operate in the area on behalf of Kaegrogz and the
+other Empire of Varroerth worlds. They teamed up with the Windhorn Alliance
+for the raids on Corridor. They weren't above attacking other corsairs and
+the Irrgh Manifest either. As a precursor to expansion for the Empire,
+naval ships from Kaegrogz began to raid non-empire worlds in the rimward
+half of the subsector in 1129. In 1135, despite warnings of the coming of
+Virus, which was scoffed at as being an Imperial hoax, a naval squadron set
+out for Igzinghuell (1316). They arrived in time to find the world already
+under bombardment by the world's own navy (see Igzinghuell below). Although
+hardened warriors themselves, they were nonetheless thrown off guard by
+this sight. The Empire Builder strain of Virus in control of the
+Igzinghuell navy quickly grabbed control of the Kaegrogz squadron. With
+"juicier" targets lying spinward and coreward, the ships were refuelled and
+sent back to Kaegrogz where they infected the rest of the Kaegrogz navy and
+nuked the planet.
+
+Igzinghuell (1316) was a world ruled by the Church of the Chosen Ones. They
+initially enjoyed the support of the people as they truly had the welfare
+of the people in mind. They reached TL 10 in 1109 and then decided to
+spread the Word of the Church to others. Their first, and only, conquest
+was Vifueks (1317) in 1115, which was renamed Igzinghuellstoul. Pleased by
+their initial success, they set out to take Lloedh (1217) in 1118. They
+were defeated by joint Lloedh and Koenalor (1117) forces. This joint force
+went on to liberate Vifueks and then humble Igzinghuell. The naval base was
+seriously damaged and the world was bombed from orbit. Rather than
+finishing the job, the Lloedh-Koenalor task force returned home. The
+humiliation angered the Church but the High Priest decided that perhaps a
+path of peace was more appropriate. His popularity waned within the ranks
+of the Akufar (the name of the body of high level clergy) who wanted
+revenge. The High Priest was assassinated in 1120 by a bomb planted by the
+Akufar, who in turn blamed it on terrorists backed by Lloedh and Koenalor.
+The new High Priest avowed revenge. The Priesthood instituted extreme laws
+and began a military buildup. Between 1125 - 1126, Igzinghuell's military
+fought and eventually retook Igzinghuellstoul, whose natives had revolted
+against the occupational government. From 1129 - 1135, the Igzinghuell navy
+was forced to defend the homeworld from raiders (see Kaegrogz above), who
+were hiding within the Empire of Varroerth, while trying to build up their
+forces to go after Lloedh and Koenalor to exact a revenge that the public
+was starting to lose interest in. The crushing blow came in 1135 when the
+entire Igzinghuell navy became infected by an Empire Builder strain of
+Virus. Those who managed to crawl out of the rubble felt that the
+Priesthood had angered the gods and were punished. No known members of the
+Priesthood are believed to have survived. The world has been renamed
+Rousurgeks in an effort to start anew.
+
+Vifueks (1317): (For pre-Collapse history see Igzinghuell above) Liberated
+once and for all from Igzinghuell, the coming of Virus turned out to only
+be a mixed blessing, rather than a horrible calamity. There was some damage
+done to infrastructure and the starport but overall the Vargr of Vifueks
+weathered Virus quite well. The starport still functions and a limited
+amount of trade is conducted with its neighbors Lloedh and Koenalor.
+
+
+GVEGHZ
+
+PROVENCE Subsector G: New Era Data, as of 001-1202 / Imperial Era Data, as
+of 001-1120.
+
+HEX    World Name          UWP         BS  Trade       PPG   AL Stellar
+1711   Koudzhsakhgo        X6486774        Ag,Ni       B604  Wi F0V MD
+                           B6486779        Ag,Ni       704   Ve
+1712   Aeghvoekogz         X5648333                    B521  Wi G3V MD
+                           A564875C        Ri          721   Ve
+1920   Ongrro              A787676B    G   Ag,Ni       303   Va F4 IV
+                           A787676B    G   Ag,Ni       203   Va
+2116   Togikhtsurzall      D6455008        Ag,Ni       612   Wi K3V KD
+                           C645523A        Ag,Ni       612   Va
+2211   Kfaenggzon          X3300000        De,Po,Ba    005   -- M3V
+                           B330576A        De,Po,Ni    905   Ve
+2220   Gegllurirse         B586674A        Ag,Ni       213   Va G3V MD
+                           C5866749        Ag,Ni       113   Va
+2319   Farr                B798878A                    113   Va K7V
+                           C7987789        Ag          813   Va
+
+Gveghz Subsector: The Gveghz Subsector has an estimated population in 1202
+of approximately approximately 677 million, an decrease of 21% from its
+Pre-Collapse population. Aeghvoekogz has the highest population (560
+million) while Ongrro has the highest tech level rating (11). The Gveghz
+Subsector had an estimated population in 1120 of approximately 857 million.
+Aeghvoekogz had the highest population (765 million) and the highest tech
+level (12).
+
+Subsector Notes:
+Most of this subsector lies within the Windhorn. Ongrro (1920) and
+Togikhtsurzall (2211) have a 5 parsec cushion seperating them from the
+ruins of Vargr space. In the past, this cushion hindered development. When
+Vampire fleets came through the area, this gap became a security blanket
+for them, Gegllurirse (2220), Farr (2319), and Naeztir (2920). These 5
+worlds saw a brief influx of refugees and then nothing. Except for 2
+occasions when Vampires jumped in at Ongrro (and were subsequently
+destroyed), there has not been any contact with worlds outside of the
+Windhorn.
+
+The naval base at Ongrro remains intact. Most ships (75%) are stationed
+here to defend Ongrro though some do patrol the other Windhorn worlds.
+Realizing that they could not go it alone, the nation states of Ongrro have
+been assisting Gegllurirse and Farr with their technological progress. It
+has paid off as both worlds have taken big steps towards self-sufficient
+navies.
+
+The largest portion of Ongrro naval ships sent out on patrol go to
+Togikhtsurzall. If it were attacked, it would not be able to defend itself.
+The isolation of this world, even from the other Windhorn worlds, has
+helped to perpetuate stagnation and decay within the infrastructure.
+Originally, it served as a home for idealists who established a direct
+democracy so that everyone's voice could be heard. It worked for a while
+but soon social outcasts of a different sort (criminals pretending to be
+victims of politics) wound up here. Their numbers quickly rose to become
+the majority. As the crime rate rose, the idealists saw the writing on the
+wall and moved on. Some wound up at Naeztir and decided to handle things
+differently. After Virus "incapacitated" the civilized governments that had
+declared them criminals, there was no longer any need to hide behind the
+guise of political refugees. A vote was made to abolish the government
+altogether. At first, there was no noticeable change but as resources
+started to become scarce, violence returned.
+
+Aeghvoekogz (1712) was the subject of an article entitled "Wolf Sport"
+which appeared in Challenge issue #58. "It is a rich world typical of the
+decaying Empire of Varroerth. Though its six independent nations (Aeghvoe,
+Kogz, Gzargig, Vorkez, Nullu Vaer and Zoertsu Vaer) rarely agree on
+anything, hostilities are extremely rare. The citizens of Aeghvoekogz seem
+content with taking care of business matters and seeing to their own
+personal entertainment. Because of Aeghvoekogz' long daylight and night
+periods, each 60-hour day is broken up by five strictly controlled siestas
+of five ours each, equally spaced throughout the day. It is a criminal
+offense to work during these periods, and businesses (except essential
+sevices) are mandated to completely cease operations during siestas."
+
+
+THON
+
+PROVENCE Subsector H: New Era Data, as of 001-1202 / Imperial Era Data, as
+of 001-1120.
+
+HEX     World Name       UWP          BS  Trade    PPG    AL  Stellar
+2611    Laeghkag         E9979893         In,Hi    B703   Wi  F1V
+                         C99797B6         In,Hi    703    Ve
+2920    Naeztir          C785572A         Ag,Ni    302    Va  F0V
+                         C785472A         Ag,Ni    702    Va
+
+Subsector Notes:
+Naeztir (2920) lies a full 6 parsecs away from it's closest neighbor, Farr
+(2319). Lying within the depths of the Windhorn, it has become a haven for
+those seeking refuge from the tumultuousness of Vargr society. It is a
+haven for political fugitives, religious heretics, hermits, and other
+ideological misfits. Despite the fact that the ideologies of the refugees
+range all over the spectrum, each group respects the others' rights to
+sovereignty and access to the starport. During the Collapse, those seeking
+to escape the reach of Virus began to arrive. Immigration alone has tripled
+the world's population.
+
+All new arrivals seeking to establish a homestead must apply for
+citizenship, which is then voted upon by each of the nation states. The
+process can take anywhere from 2 weeks to 3 months and helps to weed out
+those whose "agenda" would directly interfere with the rights of other
+nation states. In the meantime, applicants remain at the starport, which
+lies within neutral territory.
+
+Naeztir has continued to conduct an extremely limited amount of trade with
+the worlds in the Uzasuen subsector. There is a communal pool of starships,
+bolstered by the influx of refugees. These starships are maintained by the
+Engineers Union and are loaned out on a first come, first serve basis. Only
+25% of these ships are allowed out at a time and only the modified Jump 3
+ships (gutted for double fuel tanks) at that. Being impractical to operate
+on a commercial basis, they tend to only be used for important ventures.
+The 4 remaining jump 6 ships are for emergency use only.
+
+
+DZARRVAER
+
+PROVENCE Subsector I: New Era Data, as of 001-1202 / Imperial Era Data, as
+of 001-1120.
+
+HEX  World Name       UWP        BS Trade          PPG   AL Stellar
+127  Thagaers         X4537797                     B823  Wi M2V
+                      B453879A                     923   Vf
+130  Ghourknodz       X79A4160      Wa,Ni          301   Wi G7V
+                      B79A400B      Wa,Ni          901   Vf
+222  Llaedkher        X5463552      Ni,Lo          315   Wi G7V
+                      C5463206      Ni,Lo          615   Vf
+225  Dzarrvaer        X7668446                     B903  Wi G4 IV
+                      A766A74F   G  Cx,Hi          203   Vf
+227  Ghourrgadz       X2566301      Ni             903   Wi F9V
+                      A256844E   G                 303   Vf
+230  Oetsorkeda       X9B70000      Fl,Ba          014   -- K3V
+                      C9B7321B   C  Fl,Ni,Lo       314   Vf
+321  Rrukagae         X5290000      Ba             014   -- M4V M4V
+                      C529220A   C  Ni,Lo          914   Vf
+325  Oth Uegaen       C6885427      Ag             513   KV G0V M6V
+                      B688542A      Ag             913   Vf
+328  Ughtuerz         X7591012      Ni,Lo          301   Wi F8V
+                      C759126B   C  Ni,Lo          601   Vf
+329  Gvousaegh        DA983675      Ni,Lo          323   Wi K8V
+                      CA983216      Ni,Lo          623   Vf
+421  Okhskhun         D3546366      Ag,Ni          901   KV F8V FD
+     Knunguegaegn     B3449CDA   G  In,Hi          101   Vf
+422  Knokseng         B785988A      Hi,Cx          402   KV K2V KD
+                      A7859A8D   G  Hi             502   Vf
+423  Lugh             CA8A4579      Wa,Ni          B212  KV G4V
+                      BA8A475A   C  Wa,Ni          412   Vf
+427  Turz             X5447442      Ag             223   Wi G1V
+                      B544720C   G  Ag             523   Vf
+428  Tuerrg           X5659983      Hi             114   Wi K8V KD
+                      A575A77F   G  In,Hi          114   Vf
+430  Aezorr           X3547797      Ag             512   Wi M2V
+                      A354979C      Hi             612   Vf
+523  Anakae           D66A5407      Wa,Ni          325   KV A6V
+                      C66A520A      Wa,Ni          725   Vf
+526  Oksruenvae       D65446E4      Ni             B304  KV A9 IV
+                      C6544427   C  Ni             704   Vf
+527  Gnerang          C8979987      In,Hi          B702  KV K3V
+                      B897978A   G  In,Hi          802   Vf
+624  Gvae             B5446458      Ag,Ni          814   KV F9V
+     Thezroendzang    A5446888      Ag,Ni          814   Vf
+627  Kas              X0000000      As,Ba          014   KV F6V MD
+                      B000322C      As,Ni          514   Vf
+628  Ungokhton        B5716209      Ni             100   KV K3 III  M4V
+                      A5716209      Ni             100   Vf
+629  Kvae             X1000000      Va,Ba          004   -- M7V
+                      C1001219   C  Va,Ni          304   Vf
+723  Fakor            X4656102      Ag,Ni          901   Wi F6V
+                      A465734E   G  Ag             201   Vh
+728  Darz             C6548429                     B722  KV K6V MD
+                      A654973D   G  Hi             822   Vf
+729  Rruefaez         X75A1003      Wa,Ni,Lo       402   Wi G1V
+                      B75A100A   C  Wa,Ni,Lo       902   Vf
+822  Khsa             X1210000      Po,Ba          004   -- M7V
+                      C121956C   G  Po,In,Na       404   Vh
+823  Kouk             X2100000      Va,Ba          012   -- M5V
+                      C2105677   G  Va,Ni,O:723    612   Vh
+826  Knoekhs          X2240000      Ba             004   -- M3V
+                      B224255A      Ni,Lo          804   Vh
+828  Aruekhoe         D6767548      Ag             303   KV G0V
+                      C6767548      Ag             303   Vf
+829  Dhoenggo         X6788963                     704   Wi F7V F7V
+                      C6788965                     804   Vf
+830  Kvoen            X1110000      Va,Ic,Ba       011   -- M6V M6V
+                      C111101D      Va,Ic,Ni,Lo    711   Vf
+
+Dzarrvaer Subsector: The Dzarrvaer Subsector has an estimated population in
+1202 of approximately 16 billion, a decline of 85.5% from its Pre-Collapse
+population. Gnerang has the highest population (7 billion). Knokseng has
+the highest tech level rating (10). The Dzarrvaer subsector had an
+estimated population in 1120 of approximately 114 billion. Its highest
+population was 60 billion at Tuerrg, which shared highest tech level honors
+with Dzarrvaer (15).
+
+KV allegiance code impact upon government code in UWP:
+ 0 Anarchy
+ 1 Tribal Government
+ 2 Direct Democracy
+ 3 Charismatic Dictatorship (Low Law Level tendencies)
+ 4 Representative Democracy
+ 5 Technocratic Oligarchy
+ 6 Technologically Elevated Dictator (Law Level DM corresponds accordingly)
+ 7 Balkanization (no clear "leading" nation)
+ 8 Charismatic Dictatorship (High Law Level tendencies)
+ 9 Charismatic Oligarchy
+ A Civil Service Bureaucracy
+ B Self-Perpetuating Oligarchy
+ C Impersonal Bureaucracy
+ D Religious/Mystic Dictatorship/Autocracy (any of 4 possible combinations)
+
+The dual appearance of Charismatic Dictatorship reflects the local Vargr
+preference to follow governments of this type.
+
+B in the PPG column continues to stand for Balkanized.
+
+Subsector Notes:
+The home of the Dzarrgh Federate during the last decades of the Third
+Imperium, this subsector enjoyed prosperity through trade with its
+neighboring states and the Imperium itself. When the Rebellion broke out
+and the Corridor fleet was removed, the Vargr interpreted this as a sign of
+weakness. Greed overcame them and their neighbors. They drove rimward and
+began their plunder of Corridor. Imperial booty was hauled back home and
+prosperity continued in a different way. This greed was their undoing as
+the raiders brought back infected equipment and ships. Virus consumed these
+worlds just as these worlds had consumed the Imperial worlds in Corridor.
+
+Amazingly enough, many worlds in this subsector fought successfully against
+Virus. Although 100 billion Vargr died, the population today is over 16
+billion. 12 worlds have functional starports. After a couple of decades of
+defending their homeworlds, these worlds, isolated from the next by no more
+than 2 parsecs began to cooperate with one another. In the spirit of the
+old Dzarrgh Federate, a new interstellar state was formed, the Knokseng
+Confederation.
+
+The Knokseng Confederation isn't much more that a support group in the year
+1202. Member worlds trade with one another and share in the patrol duties,
+ever alert for possible Vampire fleets. The links between these worlds is
+tenuous at best. A patrol even monitors the dead Kas (627) system in case
+any Vampire ships attempt to refuel at the gas giants.
+
+A critical juncture in this chain lies at Oksruenvae (526). This world is
+the coreward link to the rimward portion of the chain. It lies 2 parsecs
+away from both Oth Uegaen (325) and Gvae (624). If it were to fall, the
+rimward chain would be seperated from the coreward portion by 3 parsecs.
+Ships that can make that leap are even fewer in supply than the Jump 2
+ships. For this reason, the oppressive T.E.D. in command of this world is
+tolerated. The Knokseng Confederation maintains a non-interference policy.
+So long as the T.E.D. keeps the starport open and doesn't attack any
+off-worlders, they'll leave him alone. There are several factions that war
+on and off with the T.E.D. but none has been successful enough in defeating
+him.
+
+Knunguegaegn (421), an industrial world, was run by a conservative
+(detractors say rigid) council which believed that strict discipline was
+the proper way to run their world and the workplace. For a time, it was
+successful and the council enjoyed the overwhelming confidence of its
+citizens, who enjoyed prosperity. Virus changed all that. Millions died
+during the initial onslaught and subsequent attacks in the years to come.
+The government was able to maintain control for many years due to the fact
+that the populace had come to trust its judgement. When food became scarce
+and millions more died from starvation, an insurrection took place.
+Millions more died during the struggle. Eventually, the rebels were won.
+The world was renamed Okhskhun. With a billion dead, the great industrial
+complexes silent, and environmental toxins neutralized, the relatively few
+(9 million as opposed to 1 billion) survivors felt like they were on a
+completely different world.
+
+Dzarrvaer (225) was the capital of the Dzarrgh Federate, a successful,
+though short-lived, interstellar state. 95% of the 20 billion plus populace
+died when Virus ran amok. Dzarrvaer's technological superiority (TL-15)
+made for a fertile environment in which Virus could bloom. At first, grav
+cities crashed, infected ships bombed the world, and vehicles hunted down
+pedestrians. The survivors, the small fraction living outside of major
+urban areas, went to war with the Vampires. After several decades, the last
+of the Vampire machinery was defeated. The old cities are still shunned.
+The Vargr won't rule out the possibility that something may still be
+lurking there. Before these cities can be reclaimed, or scrapped, the Vargr
+need to regather their strength.
+
+Contact with representatives of the Knokseng Confederation has gone well.
+It is likely that in a few years, Dzarrvaer will be ready to join the
+Knokseng Confederation. It will be a long time, if ever, before they are
+able to return to their former glory.
+
+Future Plans of the Knokseng Confederation:
+
+  1. Scout out and survey an area of 5 parsecs in all directions and look
+     for survivors and reestablish contact with them.
+  2. Invite recovered worlds (those still not heavily infested with Virus)
+     into the Confederation, i.e. Dzarrvaer.
+  3. Establish a permanent presence at Kas to support area patrols.
+  4. Upgrade infrastructure and education of current member worlds to TL-8,
+     9, & 10.
+  5. Upgrade all starports to at least a "C" rating.
+
+
+AENKUK
+
+PROVENCE Subsector J: New Era Data, as of 001-1202 / Imperial Era Data, as
+of 001-1120.
+
+HEX    World Name        UWP          BS Trade        PPG   AL  Stellar
+921    Ous Foroe         D88A4774        Wa,Ni        B301  Wi  K7V K9V
+                         C88A455C     C  Wa,Ni        601   Vh
+923    Kaegh             X1000000        Va,Ba        013   --  F2V
+                         B100975B     H  Va,In,Hi     913   Vh
+924    Ukhsarsoeghe      XA6A7434        Wa,Aq        223   Wi  F9 IV
+                         CA6A743B     G  Wa,Aq        423   Vh
+926    Oengdaksuvue      X7390000        Ba           024   --  F5V
+                         C7394347     C  Ni           424   Vh
+1028   Tuegu             X56399B5        Hi           B104  Wi  K5V KD
+                         B563A79A     G  Hi           204   Vh
+1122   Okhaeg            X4330000        Po,Ba        002   --  M1V
+                         B433343D        Po,Ni,Lo     402   Vh
+1126   Fueghz            X2220000        Po,Ba        011   --  M2V
+                         D2221007     C  Po,Ni,Lo     911   Vh
+1224   Nokoegz           D4698785        Hi           603   Va  F2V
+                         C4699797        Hi           603   Vh
+1226   Llokhaegueg       D6766757        Ni           404   Va  F8 IV
+                         C6766758        Ni           404   Vh
+1227   Angaergh          X8896785        Aq           B901  Wi  G6V MD
+                         B8897C8B        Aq           201   Vh
+1229   Okfuegh           X7B40000        Ba           014   --  M5V
+                         A7B4357B        Ni,Lo        214   Vh
+1322   Kuz               X0000000        As,Ba        011   --  M6V M7V
+                         D0006779     C  As,Ni        411   Vh
+1328   Aenkuk            X6648334                     B913  Wi  G2V
+                         A674A74F     G  Cp,Hi,In     213   Vh
+1421   Suerz             X6483043        Ni,Lo        124   Wi  K6V
+                         B648321A        Ni,Lo        424   Vh
+1422   Killagthoghz      X3040000        Va,Ic,Ba     004   --  M1V
+                         C3047749        Va,Ic        904   Vh
+1424   Nurrok            D2514205        Po,Ni        414   Wi  F6V
+                         B2514369        Po,Ni        914   Vh
+1427   Klag              X1300000        De,Po,Ba     013   --  M4V M4V
+                         A130420D     G  De,Po,Ni     213   Vh
+1428   Agkuz             X4260000        Ba           004   --  M3V
+                         C426320C        Ni,Lo        204   Vh
+1522   Foedargh          X8739DF5        In,Hi        B805  Wi  M4 II
+                         C8739DF5        In,Hi        A805  Vh
+1525   Ezksog            D4495307        Aq,Ni        423   Wi  K3V K4V
+                         B449577B     G  Aq,Ni        923   Vh
+1527   Uznukhozots       E7963383        Ni,Lo        122   Wi  F6V MD
+                         C7963449        Ni,Lo        422   Vf
+1629   Naetsarraluz      X4976247        Ag,Ni        B924  Wi  G7V
+                         A497A77D     G  In,Hi        224   Vh
+
+Aenkuk Subsector: The Aenkuk Subsector has an estimated population in 1202
+of approximately 10.5 billion, a decline of 87.3% from its Pre-Collapse
+population. Foedargh has the highest population (8 billion). 3 worlds share
+the highest tech level rating (7): Naetsarraluz, Ezksog, and Llokhaegueg.
+The Aenkuk subsector had an estimated population in 1120 of approximately
+83 billion. Its highest population was 20 billion at Naetsarraluz, Aenkuk
+and Tuegu. Aenkuk had the highest tech level honors (15).
+
+Subsector Notes:
+The Aenkuk subsector has been dominated by the Irrgh Manifest for
+centuries. Although the boundaries of this state has waxed and waned
+through the years, it has steadfastedly held the majority of the worlds in
+this subsector. Virus succeeded in loosening that grip.
+
+Little interstellar trade continues today. Only Nokoegz (1224), Llokhaegueg
+(1226), Nurrok (1424), and Ezksog (1525) are able to maintain enough ships
+to continue trade. The starports are considered neutral territory on
+Nokoegz and Llokhaegueg. Off-worlders should exercise caution on these 2
+worlds. The nation states of these worlds are desperately trying to hold
+onto what remaining bits of technology they can scrounge and will not
+hesitate to attack a perceived weakness.
+
+A local chapter of the Church of the Chosen Ones has come to power on Tuegu
+(1028). Before the Collapse, the Church held little power. With the dozen
+nation-states humbled, the Church began to preach that an era of rebirth
+and spirituality had begun. "The sinners have been punished and it is now
+time for the Church to guide our lives." Tens of millions of Vargr were
+swayed and have joined the Church. Sufficiently strong, the Church has
+announced that a Crusade will begin to convert the whole world. Those that
+will not convert will be slain. Needless to say, the remnants of the
+nation-states are not too pleased by this proclamation.
+
+Aenkuk (1328), an industrial, high tech world (15), was the subsector
+capital for the Irrgh Manifest since its beginning. A suicider strain of
+Virus brought it all crashing down. Orbiting cities spaced their
+inhabitants and plummeted to the world below. The cities on the ground
+became death traps in their own right as everything with a computer chip in
+it ran amok. To this day, they are still shunned.
+
+The Church of the Chosen Ones ruled Foedargh (1522) with an iron fist. None
+dared to oppose the Church. Off-worlders who were found to be participating
+in activities that countermanded the Church were arrested. The people did
+not get to enjoy the fruits of their labors (hence TL5). The commodities
+they manufactured were exported. Profits were used to build great temples
+and equipment and weapons that strengthened the Church's control. There
+wasn't much for Virus to infect here. The starport was knocked out of
+commission along with the few high tech devices the Church imported. In
+remote regions, insurrectionists have broken free of the Church's grip.
+Civil war continues to this day.
+
+The various nations of Ezksog (1525) put aside their differences and formed
+a world government to pick up the pieces after Virus. The starport remains
+open in neutral territory and technology is shared equally between nations.
+
+The downport at Uznukhozots (1527) was not destroyed when Virus hit this
+world. However, it has broken down due to lack of maintenance. It lies idle
+and abandoned as the inhabitants have wandered elsewhere.
+
+Naetsarraluz (1629) was a prosperous, high tech, industrial world in the
+Irrgh Manifest. This made it fertile ground for Virus to take root. It has
+thrived. The UWP stats listed are for the surviving Vargr. For decades, the
+great industrial complexes of the various nations, churned out robots whose
+sole purpose was to exterminate Vargr. After wiping out over 99.9% of the
+population, the killing stopped. The "Machine" was satisfied that the
+remaining Vargr were no longer a threat and switched its focus to building
+starships for itself. This decision may have been a bit hasty. Although the
+Vargr survivors have put the cease fire to good use by building a
+successful agricultural base, they have not given up on revenge.
+
+KARRDZAE
+
+PROVENCE Subsector K: New Era Data, as of 001-1202 / Imperial Era Data, as
+of 001-1120.
+
+HEX    World Name     UWP         BS  Trade             PPG  AL Stellar
+1729   Karrdzae       X4577335        Ag                223  Wi K9V
+                      B457A77C    G   Hi                423  Vh
+1828   Oudzkharz      X4666X49        Ag,Ni,Ri,Dw       124  Dr G8V K0V
+                      B466659B        Ag,Ni,Ri,D:5      624  Vh
+2230   Aegerri        X7753005        Ni,Lo             104  Wi K7V KD
+                      C775321A    C   Ni,Lo             204  Va
+
+Karrdzae Subsector: The Karrdzae Subsector has an estimated population in
+1202 of approximately 21 million, a decline of 99.9% from its Pre-Collapse
+population. Karrdzae has the highest population (20 million). The highest
+tech level rating (7) belongs to the Droyne on Oudzkharz. The Karrdzae
+Subsector had an estimated population in 1120 of approximately 40 billion.
+Its highest population was 40 billion at Karrdzae, which also had the
+highest tech level (12).
+
+Subsector Notes:
+Karrdzae (1729), like Naetsarraluz (1629), was a prosperous, high tech,
+industrial world in the Irrgh Manifest. It shared a similar fate.
+
+The Droyne on Oudzkharz (1828) were kept confined to 1 small continent by
+the Vargr. Having no starships of their own. All offworld contact was
+through the Vargr. Besides their physical isolation, the Droyne
+infrastructure was isolated from the Vargr as well. The Droyne also did not
+share the same technological level (7 as opposed to 11) as the Vargr.
+Despite this, interracial relations were fairly good. There was even a fair
+amount of trade. All that changed when Virus hit. As a result of those
+factors, the Droyne computer systems were spared from infection. The Vargr
+survivors mistook this to mean that the Droyne were somehow allied with
+Virus and declared war. The Vargr caught the Droyne offguard at first but
+they soon recovered. After several years of brutal warfare, the few Vargr
+remaining surrendered. They were forced to leave their irradiated homelands
+and were exiled to a remote, yet sizable, island chain. Their numbers today
+hover around 30,000. The Droyne have advanced to TL 9 and have a small
+space program.
+
+
+KAERFOZ
+
+PROVENCE Subsector L: New Era Data, as of 001-1202 / Imperial Era Data, as
+of 001-1120.
+
+HEX    World Name       UWP          BS  Trade        PPG  AL  Stellar
+2826   Dhorue           C334357A         Ni,Lo        201  Va  M3V M6V
+                        C334257A         Ni,Lo        701  Va
+3227   Kaerfoz          B78A220B         Wa,Ni,Lo     823  Va  G6V
+                        B78A220B         Wa,Ni,Lo     423  Va
+
+Subsector Notes:
+Dhorue and Kaerfoz were more populous before the Rebellion started.
+Millions of Vargr emigrated to member worlds of the Windhorn Alliance to
+get a "piece of the action." Those that stayed behind missed out on the
+spoils that the raiders grabbed. They also missed out on the ravages that
+Virus brought to those worlds as well. News of the carnage has leaked in
+through Vozoekeng (2832), which managed to avoid getting the full brunt of
+Virus.
+
+A very small amount of trade continues between these worlds and Vozoekeng.
+Due to the scarcity of jump 4 ships, most ships carry drop tanks or
+collapsible fuel tanks in order to make the long journey between worlds.
+The patrols at Dhorue are quite thorough in examining ships for possible
+Viral contamination. They realize that one mistake means death for their
+world. Both worlds have also seen population increases due to immigration
+as well as through natural reproduction.
+
+
+LIGHOZ
+
+PROVENCE Subsector M: New Era Data, as of 001-1202 / Imperial Era Data, as
+of 001-1120.
+
+HEX  World Name       UWP         BS Trade       PPG   AL  Stellar
+131  Dzaegkaek        X3220000       Ba,Po       021   --  G0V M6V
+                      D3221158       Ni,Po,Lo    321   Vf
+132  Uevoto           X5837793                   B101  Wi  K4V M4V
+                      B583779A    G              201   Vf
+137  Anthonkfoers     X3000000       Va,Ba       023   --  M1V
+                      C3004239    C  Va,Ni       823   Vf
+140  Aenggvug         X0000000       As          013   --  M0V
+                      B000489B    G  As          213   Vf
+232  Kuronraer        X5567892       Ag          B102  Wi  G1V
+                      B556789B    G  Ag          502   Vf
+237  Gingrue          X5020000       Va,Ba       021   --  F9V
+                      C50249A9    C  Va,Ni       421   Vf
+238  Lloezoers        XAC30000       Fl,Ba       003   --  F4V
+                      BAC3312B    G  Fl,Ni,Lo    503   Vf
+240  Aeghzisung       X2000000       Va,Ba       022   --  F2 II  M2V
+                      A200776C       Va          422   Vf
+331  Errkous          X5572115       Ni,Lo       105   Wi  G4V MD
+                      C5572426    C  Ni,Lo       105   Vf
+335  Lighoz           C3557769       Ag          702   Wi  G4V
+                      A355976C    C  Hi          702   Vf
+432  Dzirrsrue        X9B30000       Fl          003   --  F0V
+                      C9B3233A    G  Fl,Ni,Lo    903   Vf
+532  Ugzugu           X7735714       Ni          224   Wi  F8V
+                      D7735715       Ni          424   Vf
+533  Kaghoekne        E79935A7       Ni,Lo       214   Wi  F2 III  M4V
+                      C7993339       Ni,Lo       514   Vf
+537  Ug Kanek         X6689B83       Hi          B623  Wi  G5V M3V
+                      B66899E9    C  Hi          823   Vh
+631  Aenloegin        X3745717       Ag,Ni       114   Wi  G0V
+                      C3745719       Ag,Ni       114   Vf
+632  Thueni           X4741122       Ni          503   Wi  F7V
+                      B4743468    G  Ni          103   Vf
+634  Arerzthoe        X57599A3       Hi          B303  Wi  F4V
+                      A565A76B    G  Hi          503   Vh
+635  Uedtzon          X4340000       Ba          001   --  K2V MD
+                      B434524D       Ni          701   Vh
+637  Kalongourr       X78A8775       Wa          B923  Wi  F6 IV
+                      C78A977A    C  Wa,Hi       923   Vh
+733  Okfaeng          X7556454       Ag,Ni       901   Wi  F2V MD
+                      A75577BA       Ag          101   Vf
+735  Ongvoerrg        X5250000       Ba          004   --  M3V
+                      B525670B    G  Ni          904   Vh
+736  Irr Zouth        X57969B4       Aq,Ni       503   Wi  G4V
+                      B579678A    G  Aq,Ni       703   Vh
+737  Toulingitsa      X9A40000       Fl          001   --  M6V
+                      B9A4332B       Fl,Ni       201   Vh
+739  Duethrang        X7886216       Ag,Ni       504   Wi  G4V
+                      A788621B       Ag,Ni       604   Vh
+740  Kukhou           X5360000                   003   --  M0V
+                      B536555B    G  Ni          603   Vh
+831  Kirg             X98A7564       Wa,Aq       B222  Wi  K7V
+                      A98A733D    G  Wa,Aq       622   Vf
+837  Tarrthek         X6726663       Ni          B712  Wi  F9V M1V
+                      C672676A    H  Ni          812   Vh
+838  Orsaethvok       X7370000                   023   --  F7V M5V
+                      B737405C    G  Ni          123   Vh
+
+Lighoz Subsector: The Lighoz Subsector has an estimated population in 1202
+of approximately 10.0 billion, a decline of 86.5% from its Pre-Collapse
+population. Ug Kanek has the highest population (6 billion). Lighoz has the
+highest tech level rating (9). The Lighoz subsector had an estimated
+population in 1120 of approximately 74.2 billion. Its highest population
+was 50 billion at Arerzthoe, and its highest tech level was 13 at Uedtzon
+and Kirg.
+
+Subsector Notes:
+The large number of asteroid belts in otherwise habitable zones in a few
+systems (Dzaegzaek, Anthonkfoers, Aenggvug, Gingrue, Aeghzisung and
+Orgukung in Voudzeur subsector) has led Vargr researchers to conclude that
+these worlds were once whole. They believe that these worlds were destroyed
+during the War of the Ancients. No evidence has yet been found to back up
+this claim.
+
+Virus hit this subsector hard and the Vargr themselves are partly to blame.
+The eagerness of the Dzarrgh Federate, Irrgh Manifest, and numerous corsair
+groups to plunder the undefended Corridor and weakened Imperium was their
+own undoing. Infected ships and systems would return to their bases and
+starports and unwittingly spread the contagion to their comrades and
+allies. Only 1 (Lighoz) of the 28 systems in this subsector still has
+anything resembling a functional starport by 1202.
+
+Despite 7 billion deaths, Lighoz (335) has managed to survive. A
+benevolent, yet mystic, dictator, Tongkaeng, has united the survivors and
+managed to inspire them to preserve as much of their old way of life as
+possible. It has worked. As noted above, Lighoz has the one functional
+starport (C) and highest tech level (9) in the subsector.
+
+The infected machinery on Thueni (632) are intent upon eradicating all
+other sentient life. A shipment of robots, en route to the naval base from
+Arerzthoe (634), was diverted to the planet just as the naval base was
+committing suicide. Although activated to defend the planet, these robots
+turned on their owners. With only a handful of Vargr left, it would appear
+that these robots will soon accomplish their goal.
+
+Arerzthoe continues to be a mess. 47 billion have died from the
+technological collapse, orbital bombardment from infected ships, and
+warfare amongst the survivors for the remaining scraps. The amount of dust
+and radiation still present in the atmosphere accounts for the tainted
+rating for its 1202 UWP.
+
+In 1119, Kirg (831) was the site of treaty of non-aggression between the
+Dzarrgh Federate and the Irrgh Manifest (Vilani & Vargr pg.53). This treaty
+enabled each state to focus on plundering Corridor rather than having to
+waste resources worrying about the other.
+
+
+VOUDZEUR
+
+PROVENCE Subsector N: New Era Data, as of 001-1202 / Imperial Era Data, as
+of 001-1120.
+
+HEX   World Name      UWP        BS Trade          PPG   AL Stellar
+931   Oruzoefu        X56269C4      Ni             403   Wi F2 II
+                      A562663B   G  Ri,Ni,O:831    503   Vh
+935   Sughanduerr     X7659754      Hi             B501  Wi F7V
+                      A765975C   G  Hi             601   Vh
+937   Okfae           D7535538      Ni             104   Va F2V M9V
+                      B753553B      Ni             304   Vh
+939   Khuekhsgor      X5110000      Ba             022   -- M6V
+                      C5114667      Ni,Lo          522   Vh
+1039  Voudzeur        X88A8B80      Hi             B711  Wi G6V
+                      A88AA74F   G  Hi             111   Vh
+1040  Aerragvull      X7370000      Ba             004   -- F0V
+                      A737465A      Ni,Lo          104   Vg
+1132  Gnethogh        X2424754      Ni,Po,Lo       811   Va M3V KD
+                      B242575B      Ni,Po,Lo       111   Vh
+1140  Oerrg           X8370000      Ba             002   -- K9V
+                      B837221A      Ni,Lo          202   Vg
+1233  Urueng          X7684725      Ni,Lo          201   Wi G2 II  M9V
+                      B7684347      Ni,Lo          401   Vh
+1236  Oez Uekhae      X2320000      Ba             001   -- M3V MD
+                      C232556D   G  Ni             121   Vh
+1237  Orgukung        X4200000      De,Ba          024   -- F0 III  M1V
+                      C4201008   C  De,Ni,Lo       724   Vh
+1331  Thoelksor       D3436458      Ni             404   Wi M0V KD
+                      B3437459                     804   Vh
+1332  Aengksegz       X6270000      Ba             013   -- M3V MD
+                      C6272007   C  Ni,Lo          113   Vh
+1337  Gvoesaer        X35356D5      Ni             304   Wi K7V
+      Gastsukhaksi    B353533D      Ni             804   Vh
+1431  Igunfaksa       X6678973                     B914  Wi F7V MD
+                      A6679A6D   G  In,Hi,Cx       214   Vh
+1432  Thigha          X87A55A6      Wa,Ni          314   Wi G2V
+                      C87A55A8   C  Wa,Ni          614   Vh
+1433  Gvaedzueth      X5933454      Ni,Lo          113   Wi K1V
+      Kfueghoeror     B59338B5      Ni,Lo          113   Vh
+1434  Knaerghgvou     X77A7756      Wa,Aq          411   Va F8 IV
+                      B77A775A   G  Wa,Aq          411   Vh
+1439  Gaghkuelek      X2526A97                     211   Va K8V
+                      B2527A9A   C                 211   Vg
+1440  Gherrg          X6558744                     B402  Wi F3V
+                      A655974A   G  Hi             502   Vg
+1533  Ue Rrava        X2000000      Va,Ba          001   -- M6V M6V
+                      C200310C   C  Va,Ni,Lo       701   Vh
+1540  Ksousuek        X4596797      Aq,Ni          723   Va G1V MD
+                      B4596798      Aq,Ni          723   Vg
+1637  Ouraesothk      X7686762      Ag,Ni          823   Va M0 III  M0V
+                      C7686765      Ag,Ni          923   Vg
+
+Voudzeur Subsector: The Voudzeur Subsector has an estimated population in
+1202 of approximately 7.0 billion, a decline of 69.5% from its Pre-Collapse
+population. Sughanduerr has the highest population (5 billion). Okfae and
+Thoelksor have the highest tech level rating (9). The subsector had an
+estimated population in 1120 of approximately 23.2 billion. Voudzeur had
+the highest population (10 billion) and its highest tech level (15).
+
+Subsector Notes:
+Virus hit this subsector hard and the Vargr themselves are partly to blame.
+The eagerness of the Irrgh Manifest, Glory of Taarskoerzn, and numerous
+corsair groups to plunder the undefended Corridor and weakened Imperium was
+their own undoing. Infected ships and systems would return to their bases
+and starports and unwittingly spread the contagion to their comrades and
+allies. Only 2 (Okfae & Thoelksor) of the 23 systems in this subsector
+still has anything resembling a functional starport by 1202.
+
+Oruzoefu (931) was being run by the Irrgh Manifest navy after it had been
+captured from the Dzarrgh Federate during their brief scuffle prior to the
+Treaty of Kirg ("Vilani & Vargr" pg53). After Virus scuttled the occupying
+naval forces, a branch of the Church of the Chosen Ones slowly came to
+power. Their rule has been strict.
+
+Okfae (937) managed to salvage enough technology, due to the government's
+steadfast belief in preserving it, to keep their starport functional.
+
+Over 9 billion people perished on Voudzeur (1039). Being a waterworld,
+there wasn't much land for the Vargr to build on. Through the wonders of
+technology (TL15) they were able to build great cities in orbit and above
+the surface of the waters. When Virus struck, cities in orbit plummeted to
+the world below. Cities floating above the waters sank, drowning their
+denizens. Today, the survivors live primitively on the many island chains
+which dot the globe. A brave few have chosen to live on the ruined hulks of
+those cities that jut out from the shallower water. Most view these places
+as haunted and shun them.
+
+Thoelksor (1331) has their new leader, Grrak, to thank for their starport.
+While the elected representatives debated about what course of action to
+follow, Verrok, Grrak's father, organized the technical guilds into putting
+the pieces together. Although he died before he could see the starport
+functional again, Grrak has finished the work his father started. The
+people were so pleased that they abandoned the government, without
+bloodshed, and made him their leader.
+
+Igunfaksa (1431) was once the capital of the Irrgh Manifest. It was their
+leaders' hope that after successfully plundering Corridor, they would have
+enough firepower to vanquish the Glory of Taarsokoerzn and their allies and
+reunite with the trailing portion of their divided state. Before this could
+be accomplished, Virus struck. A billion people died and the survivors have
+divided into dozens of states.
+
+The oppressive bureaucrats at Kfueghoeror (1433) were killed in a bloody
+coup once their support structure collapsed. The world has been renamed
+Gvaedzueth by the people in order to sever any associations with the
+preceding rulers of their world.
+
+
+UEKHOURG
+
+PROVENCE Subsector O: New Era Data, as of 001-1202 / Imperial Era Data, as
+of 001-1120.
+
+HEX    World Name     UWP         BS  Trade      PPG    AL Stellar
+1731   Khungorr       X9897781        Aq         B303   Wi G0V MD
+                      A989778D    G   Aq         603    Vg
+1732   Gangoulaerr    XA8A5202        Wa,Aq,Ni   322    Wi F6V
+                      BA8A557C    G   Wa,Aq,Ni   822    Vg
+1735   Kfuega         X4340000        Ba         001    -- G3 III  M9V
+                      C4344209        Ni,Lo      101    Vg
+1738   Ruegvoerr      E7826894        Ni         B712   Wi G5V
+                      C7826897        Ri,Ni      712    Vg
+1834   Urregzang      X1340000        Ba         001    -- M3V
+                      B134255C        Ni,Lo      101    Vg
+1835   Taarskoerzn    X8889DG4        Hi         B302   Wi F4V M7V
+                      A8889ABC    G   Hi,Cx      502    Vg
+1836   Khgouk         X5627425                   B203   Wi F8 III  M1V
+                      B56277A9    C              303    Vg
+1933   Khvusu         X65976E6        Aq         802    Wi F6V
+                      B659720A        Aq         902    Vg
+1936   Ang Vueng      X3554327        Ni,Lo      312    Wi K0V MD MD
+                      B3554898    C   Ni,Lo      712    Vh
+2034   Koen           X0000000        As,Ba      011    -- F5V M8V
+                      C0003258    C   As,Ni,Lo   311    Vg
+2036   Kuegh Dan      X8B00000        Ba         024    -- F4V
+                      B8B0333A        Ni,Lo      124    Vh
+2037   Tsaerzouth     E7968884                   B214   Wi K6V
+                      D7968BD5    C              214    Vh
+2131   Kfaegh         X5447225        Ag         722    Wi F8 II  M1V
+       Uedzodhaeg     B5447BB7        Ag         822    Va
+2135   Aknae          X2230000        Ba         004    -- M2 II
+                      C223543B    C   Ni,Po      604    Vg
+2139   Kughoelvor     X6578784                   B303   Wi F6V
+                      A657978C    G   Hi         503    Vh
+2236   Arrgarrg       X5816775        Ni         B402   Wi F0V
+                      C5816778        Ni         402    Vh
+2240   Arr Laen       X7968584                   B524   Wi K1V
+                      B7969ACA    H   In,Hi      724    Vh
+2332   Gvalur         D6562229        Ni,Lo      303    Va K3V
+                      C6562269        Ni,Lo      303    Va
+2337   On Uenlang     X5467772        Ag         B503   Wi F2V
+                      B5467779        Ag         603    Vh
+2339   Aerraekoukh    X8685466        Ag,Ni      304    Wi G0V
+                      A868553C    G   Ag,Ni      604    Vh
+2437   Uekhourg       X6778744                   B523   Wi F1 IV
+                      A677A74D    G   In,Hi      723    Vh
+
+Uekhourg Subsector: The Uekhourg Subsector has an estimated population in
+1202 of approximately 4.76 billion, a decline of 94.6% from its
+Pre-Collapse population. Taarskoerzn has the highest population (3
+billion). Gvalur has the highest tech level rating (9). The subsector had
+an estimated population in 1120 of approximately 87.5 billion. Uekhourg had
+the highest population (70 billion) and shared the highest tech level (13)
+with Khungorr.
+
+Subsector Notes:
+Virus hit this subsector hard and the Vargr themselves are partly to blame.
+The eagerness of the Irrgh Manifest, Glory of Taarskoerzn, and numerous
+corsair groups to plunder the undefended Corridor and weakened Imperium was
+their own undoing. Infected ships and systems would return to their bases
+and starports and unwittingly spread the contagion to their comrades and
+allies. Only 1 (Gvalur) of the 21 systems in this subsector still has
+anything resembling a functional starport by 1202.
+
+Taarskoerzn (1835) was the capital of the Glory of Taarskoerzn, a state
+which only consisted of 7 member worlds prior to 1116. Jealous of their
+rivals, the Irrgh Manifest, they enlisted the aid of corsairs to go against
+them. The Church of the Chosen Ones provided moral support to their cause.
+In 1116, they plowed their way into Corridor, splitting the Irrgh Manifest
+in two. Riding high on their success, they began plotting the next phase of
+their expansion. They were caught by surprise when a united fleet of
+corsairs overwhelmed Depot. As a result, they soon found themselves taking
+orders rather then giving them. (Vilani & Vargr pg.53-54)
+
+The next blow to Taarskoerzn came from Virus. Two billion people died as
+the world was thrown into chaos. Emerging from this chaos was the Church.
+Feeling betrayed by what they saw as self-serving pompousness, they turned
+on the government seeking to punish them for what befell their world. They
+have been merciless. They now dominate most of the planet. A few splinter
+groups are trying to resist the Church, claiming that the world has
+suffered enough and it is now time to heal. Offworlders should exercise
+extreme caution when visiting Taarskoerzn. The Church will not hesitate to
+blame offworlders for the current plight of their world.
+
+A TED has come to power on Khvusu (1933). He blames the fall of his world
+upon a perceived lack of security and law enforcement and extravagant
+personal freedom. With the backing of the Church of the Chosen Ones, he and
+his henchmen have sought to put order back into society. Offworlders should
+exercise extreme caution when visiting Khvusu. The TED will not hesitate to
+accuse them of introducing perverse ideas to society.
+
+Uedzoghaeg (2131) was named after the ruler of the world. He lost
+popularity with the citizenry when he failed to unite himself with the
+Glory of Taarskoerzn. Too strong to overthrow, he remained in power. He was
+present at the starport when Virus struck and died when it plummeted to the
+world below. Thinking it was just a prelude to invasion by Taarskoerzn
+forces, a new government formed and the citizenry voted to rename the
+world, Kfaegh. No invaders have ever come. Succeeding generations of Vargr
+have kept the name but not the desire to join the Glory.
+
+The relative isolation of Gvalur (2332) has helped it to weather the storm
+that is Virus. Lying just inside Windhorn Rift, it received few attacks.
+Their society has remained intact as has their government. As a result,
+they've been able to maintain a tech level of 9. It is also the site of the
+one functional starport in this subsector.
+
+Uekhourg (2437) has suffered terribly from Virus. The computerized assembly
+lines of this industrialized world turned into slaughterhouses. Those not
+killed outright from the technological collapse were rounded up by vampire
+robots and vehicles and herded like cattle into the machinery. Offworlders
+should exercise extreme caution when visiting Uekhourg. The Kfurr Ugae,
+"killing machine" in the Gvegh Vargr dialect, does not care what feeds it.
+
+
+DAEKVAGUL
+
+PROVENCE Subsector P: New Era Data, as of 001-1202 / Imperial Era Data, as
+of 001-1120.
+
+HEX   World Name     UWP        BS  Trade          PPG   AL Stellar
+2537  Aeltsigaez     X8B60000       Fl,Ba          001   -- A6V MD
+                     C8B64209       Fl,Ni,Lo       301   Vh
+2538  Voukonaekhs    X3300000       De,Po,Ba       013   -- F0V MD
+                     B330336A       De,Po,Ni,Lo    713   Vh
+2539  Knol           X0000000       As,Ba          013   -- M1V
+                     D0001008   C   As,Ni,Lo       813   Vh
+2540  Daekvagul      X7699763       Hi             B502  Wi G6V K6V MD
+                     A769AAAD   G   Hi             802   Vh
+2634  Okhsilo        X6738724                      424   Wi G5V
+                     B673956A   G   In,Hi          624   Va
+2636  Angoer         X8A30000       Fl,Ba          014   -- M0V M0V
+                     A8A3343C       Fl,Ni,Lo       214   Vh
+2638  Theksas        X66699A4       Hi             B804  Wi F0V
+                     C6669867   C   Hi             904   Vh
+2640  Anglorr        X5467774       Ag             B612  Wi G5 III  M2V
+                     C5468777   C                  612   Vh
+2737  Koezla         X2340000       Ba             001   -- M2 III
+                     C2343049   C   Ni,Lo          201   Vh
+2740  Gzong          X6986877       Ag,Ni          223   Wi K2V MD
+                     B698658A       Ag,Ni          323   Vh
+2832  Vozoekeng      D3878428       Ri             703   Va G0V
+                     C387842A       Ri             803   Va
+2839  Garogag        X7648695                      B501  Wi F9V MD
+                     B7648DA9                      701   Vh
+2840  Thuezou        X66A7347       Aq,Ri,M:1      202   Wi K1V
+                     B66A755B   G   Aq,Ri,M:0      302   Vh
+2939  Vugkaer        XA894351       Ni             B305  Wi G8 II
+                     CA8947C5   C   Ni             605   Vh
+2940  Gnoersuk       X6370000       Ba             004   -- M2V M6V
+                     B6376209   G   Ni             604   Vh
+3039  Eghgvun        X7B50000       Fl,Ba          002   -- F7V
+                     C7B53009   C   Fl,Ni,Lo       902   Va
+3139  Utsi           X3625333       Ni             325   Wi K1 III
+                     C3625588       Ni             725   Va
+3140  Aeson Sog      E5854106       Ni,M:1         203   Wi G5V
+                     C5854367       Ni,M:1         403   Va
+3238  Alang          X8965434       Ag,Ni          B224  Wi K2V
+                     B896543B       Ag,Ni          624   Va
+
+Daekvagul Subsector: The Daekvagul Subsector has an estimated population in
+1202 of approximately 14.7 billion, a decline of 84.9% from its
+Pre-Collapse population. Theksas has the highest population (8 billion).
+Vozoekeng has the highest tech level rating (8). The Daekvagul subsector
+had an estimated population in 1120 of approximately 97.1 billion.
+Daekvagul had the highest population (80 billion) and the highest tech
+level (13).
+
+Subsector Notes:
+Virus hit this subsector hard and the Vargr themselves are partly to blame.
+The eagerness of the Irrgh Manifest and numerous corsair groups to plunder
+the undefended Corridor and weakened Imperium was their own undoing.
+Infected ships and systems would return to their bases and starports and
+unwittingly spread the contagion to their comrades and allies. Only 1
+(Vozoekeng) of the 19 systems in this subsector still has anything
+resembling a functional starport by 1202.
+
+Approximately 75 billion people died on Daekvagul (2540) as a result of
+Virus contaminated equipment. The carnage was so great that the world
+received a "tainted" atmospheric rating for a few decades. Cities in orbit
+spaced their inhabitants and plunged to the world below while cities
+hovering over the oceans sank. Legends among the survivors tell of these
+cities engaging in Oukskfalok, the Vargr equivalent of jousting or
+"chicken" in Anglic slang. In a few spots, several cities piled up to form
+artificial islands. Eventually, the submerged portions were colonized by
+coral organisms. Other aquatic and avian species then began to make their
+homes in and on these islands. Pursuing the supply of game, many people
+have abandoned the mainland and surrounding natural islands for these new
+habitats.
+
+Due to its relative isolation in the Windhorn Rift, Vozoekeng (2832),
+managed to survive Virus relatively intact. It has the sole functional
+starport and the highest tech level in 1202. They plan on sending out
+scouting parties soon to look for survivors and relics.
+
+Garogag (2839) was a balkanized world for centuries. Priests from the
+Church of the Chosen Ones somehow managed to unite the people under a
+single government, them. They were fairly strict and after a couple of
+decades prohibited viewpoints that disagreed with the Church. Virus was
+more than the Church could handle. A self-proclaimed atheist TED has arose
+during the chaos and quickly took advantage of the situation. Although the
+Church still rules a portion of the world, along with a few other splinter
+groups, they no longer dominate.
+
+Thuezou (2840) is in the process or rebuilding a starport. They will have
+an E by the end of 1202 partly due to cooperation with the Human
+population. By treaty signed in 1033, a human colony on a remote sub-arctic
+island was tolerated by the Vargr majority. Very little interaction took
+place beyond trading. When the Irrgh Manifest began raiding the Imperium,
+the humans here could do nothing but watch. In the aftermath of Virus,
+Vargr-Human interaction increased. In 1187, as a gesture of goodwill, the
+newly formed Vargr government granted representation to the human
+population.
+

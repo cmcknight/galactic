@@ -1,0 +1,49 @@
+@SUB-SECTOR: sec_M   SECTOR: emptyq
+#
+# Trade routes within the subsector
+#
+$0132 3129 -1 -1
+$0132 0334 0 0
+$0334 0535 0 0
+$0535 0338 0 0
+$0338 3139 -1 0
+$0338 0201 0 1
+$0535 0834 0 0
+$0834 1233 1 0
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Asaklon V     0132 B400377-8    Lo Ni Va           614 Im
+El Quahira    0134 B26138C-B    Lo Ni              914 Im
+Rundeau       0138 A787777-6    Ag Ri              821 Im
+ZUKHISA       0139 B556998-A    Hi                 713 Im
+Longshot      0140 D435364-3  S O:0139             614 Im
+Toyama        0231 C557550-6    Ag Ni              603 Im
+Ci Xian       0232 D664003-4    Lo Ni              113 Im
+Iternum       0234 D328578-6    Ni                 201 Im
+Iigaashigiri  0238 B200244-8    Lo Ni Va           200 Im
+GUDINA        0334 C53499B-5    Hi In Sw           513 Im
+Carthage      0337 B654724-7    Ag                 213 Im
+NULINAD       0338 A455986-B    Hi Cx              504 Im
+Kashima       0339 C96A864-9    Wa Ri O:0338       602 Im
+Ossa Dal      0340 B344573-8    Ag Ni           A  304 Im
+Miser         0435 A213611-A    Na Ni Ic           302 Im
+Nyambii Dal   0439 C75A462-A    Lo Ni Wa O:0338    902 Im
+ENINSISH      0535 C000ABB-9    As Hi In Na        113 Im
+SASHAR        0536 D59799C-6    Hi In              204 Im
+Huifa         0537 C120322-8    De Lo Ni Po        424 Im
+Pacifica      0632 A367788-B    Ri Ag              813 Im
+Gigdubarga    0633 B5688BB-4                       134 Im
+Blackglobe    0636 D7C0353-8    Lo De Ni           122 Im
+RASU          0637 C760997-6    De Hi              304 Im
+Cleon         0638 A98879B-A    Ag Ri           A  305 Im
+Shiikuus      0640 D539849-6                       813 Im
+Ayachuco      0732 C890515-8  S De Ni              914 Im
+Simon's Ball  0738 C66468A-5  S Ni Ag Ri           913 Im
+ARAKAAD       0833 E4659BC-7    Hi                 502 Im
+Province      0834 B6157B7-9  N Ic              A  104 Im
+Isii Shiikuus 0836 D512367-A    Lo Ni Ic O:0638    613 Im
+Tungokl       0837 A253432-9    Lo Ni Po           404 Im
+Chubu         0839 C7A0646-8    De Ni              405 Im
+Kyogasaki     0840 C775467-3  S Lo Ni O:Ley 1002   303 Im

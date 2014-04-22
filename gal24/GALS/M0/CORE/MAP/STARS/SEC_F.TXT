@@ -1,0 +1,31 @@
+#--------1---------2---------3
+#PlanetName   Loc. Star(s)
+#----------   ---- --------
+@SUB-SECTOR: Mekee SECTOR: Core
+Kiked Iig     0911 
+Mupisar       0915 
+Heraldia      0916 
+Marpi Ka      0919 
+Uurmu Kuu     1012 
+Urshra        1016 M3 V
+Liga Ka       1019 
+Kish          1112 
+Adguu Uun     1114 
+Kelpo         1116 
+Eorvin        1120 
+Guun          1214 
+Amed          1219 
+Aruu          1220 
+Mukirurguum   1314 
+Shibasiim     1316 
+Belicose      1317 
+Adkaash       1320 
+Imdi Mi       1416 
+Kishdush      1418 
+Aman Urk      1511 
+Ansham        1512 
+Uugnii        1518 
+Sher          1519 
+Shauug        1611 
+Marlakasi     1615 
+Vluurvlash    1616 

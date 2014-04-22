@@ -1,0 +1,21 @@
+System: St'iyha
+Subsector: Monta
+Sector: Newlands
+Coordinates: 3235 (P0805)
+UWP: C755743-A
+
+Starport: Routine
+Size: Medium (10400-12000 km)
+Atmosphere: Thin
+Hydrographics: 50% water
+Population: 20 million
+Govt: Representative Democracy
+Law Level: Low
+Technology: Early Stellar
+
+Bases: Diadochi
+Trade Codes: Ag           
+Travel Zone: Amber
+Planetoid Belts: 0
+Gas Giants: 1
+Allegiance: Imperial Diadochi

@@ -1,0 +1,45 @@
+@SUB-SECTOR: Lunion    SECTOR: Spinward Marches
+#
+# Trade routes within the subsector
+$1824 1526 -1 0
+$1824 1924 0 0
+$1824 2124 0 0
+$2124 2323 0 0
+$2323 2324 0 0
+$2323 2621 1 0
+$2324 2726 1 0
+$2124 2125 0 0
+$2125 1826 0 0
+$2125 2327 0 0
+$1826 2327 0 0
+$2327 2228 0 0
+$2228 2231 0 1
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Arba          1721 C200200-C    Lo Ni Va           610 Im
+Wardn         1727 B756486-B  S Ni              A  502 Im
+Olympia       1728 C328342-7    Lo Ni              120 Im
+Smoug         1729 C14078A-9    Po De              902 Im
+Rabwhar       1822 D5448BA-6  S                    313 Im
+Adabicci      1824 A57189B-B  N                    801 Im
+Zaibon        1825 B000544-B    Ni As              512 Im
+Tenalphi      1826 A774102-E    Lo Ni              610 Im
+Ianic         1924 E360697-5    Ni Ri De           924 Im     f
+Spirelle      1927 C766846-8  S D1 Ri              715 Im
+Derchon       2024 C512799-8  S Na Ic              901 Im
+Lunion        2124 A995984-D  A Hi In Cp           810 Im
+Shirene       2125 B984510-B  S Ag Ni           A  901 Im
+Penkwar       2128 X978310-1    Lo Ni           R  320 Im
+Harvosette    2129 C330737-9    Na Po De           910 Im
+Carse         2224 C463325-9    Lo Ni              601 Im
+Persephone    2228 B775833-A  W                    922 Im
+Quiru         2321 B365300-8    Lo Ni              323 Im
+Gorram        2322 X554220-0    Lo Ni           R  801 Im
+Resten        2323 B310100-B  S Lo Ni              501 Im
+Capon         2324 B747748-A  N Ag                 610 Im
+Sharrip       2325 C575101-A    Lo Ni              503 Im
+Strouden      2327 A745988-D  N Hi In              920 Im
+Gandr         2425 E000347-8    Lo Ni As           813 Im
+Drolraw       2426 EAB6311-5    Lo Ni Fl           904 Im

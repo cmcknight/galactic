@@ -1,0 +1,37 @@
+Glimmerdrift Reaches
+
+A: Darkling                  sec_a.dat           f
+B: Thorstone                 sec_b.dat           f
+C: Tri-Empire                sec_c.dat           f
+D: Marla                     sec_d.dat           f
+E: Glowing                   sec_e.dat           f
+F: Kraxin                    sec_f.dat           f
+G: Williamsburg              sec_g.dat           f
+H: Tasman                    sec_h.dat           f
+I: Even                      sec_i.dat           f
+J: Poonch                    sec_j.dat           f
+K: Sosie                     sec_k.dat           f
+L: Ryazan                    sec_l.dat           f
+M: Verge                     sec_m.dat           f
+N: Zairae                    sec_n.dat           f
+O: Sepik                     sec_o.dat           f
+P: Daro                      sec_p.dat           f
+
+Bases:
+A = Navy & Scout Bases
+N = Naval Base
+S = Scout Base
+2 = Navy & Scout Bases
+  = None
+
+Allegiance:
+10 Im = Imperial
+11 Za = Zarian Realm
+14 Mn = Mandanin Co-Dominion
+09 Ma = Marlan Primate
+15 Gl = Ginlenchy Concordance
+06 Kx = Krax Confederation
+03 Rn = Rm Nai
+12 Cs = Client State
+13 Na = Non-aligned
+07    = Unknown

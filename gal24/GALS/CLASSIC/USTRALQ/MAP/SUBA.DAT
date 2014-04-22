@@ -1,0 +1,33 @@
+@SUB-SECTOR: Alrirleih SECTOR: Ustral Quadrant
+#
+$0502 0601 0 0 2
+$0707 0708 0 0 2
+$0601 0502 0 0 10
+$0707 0708 0 0 10
+$0708 0808 0 0 10
+$0808 0810 0 0 10
+$0601 0940 1 -1 10
+$0502 0504 0 0 10
+$0707 0706 0 0 10
+$0706 0906 1 0 10
+$0810 0711 0 1 10
+$0810 1011 1 1 10
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Awitiykos     0109 E67A4N9-8    Lo Ni Wa           620 As     
+Oaeaaw        0110 B9898L6-B  T Ri                 500 As     
+Yes           0206 C3304M0-A    De Lo Po           215 As  
+Fyuwul        0409 C9686H8-A  U Ag Ni Ri           502 As     
+Uihiwiysear   0501 E2758H6-A                       114 As     
+Erlou'a       0502 B6763G5-E    Lo Ni              402 As     
+Hwyawalehoarl 0504 B3357K6-B  R                    903 As     
+Weiaofta      0601 D6644H6-7    C3 Lo Ni           200 As 
+Keahei        0603 C6992LB-8  T Lo Ni              704 A3      
+Khtekhteirl   0706 A6152M7-E  R Lo Ni Po           402 As 
+Riyaihta      0707 B8A75L7-E  U Fl Ni              403 A1     
+ALRIRLEIH     0708 A8599N9-E    Hi                 204 As 
+Yuhaoewoiyeu  0709 E5733L6-6    Lo Ni              920 A7     
+Ourakhoai     0803 B6B01GB-D    De Ni              700 As     
+Aoowyelrisaia 0808 B7465NB-9  T Ag Ni              203 As     
+Hkourlaiw     0810 A4101K3-E  R Lo Ni              225 As 

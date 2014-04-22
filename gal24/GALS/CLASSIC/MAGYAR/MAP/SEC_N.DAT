@@ -1,0 +1,39 @@
+@SUB-SECTOR: sec_N   SECTOR: magyar
+#
+# Trade routes within the subsector
+$0931 0930 0 -1
+$0931 1134 0 0
+$1134 1136 0 0
+$1136 1238 0 0
+$1238 1438 0 0
+$1438 1537 0 0
+$1537 1735 1 0
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Dewal         0931 BA98978-E  W Hi In              712 So
+Cea           0934 C864768-8    Ag Ri              904 Bo
+Red           0939 D20159A-A    Ic Ni Va           314 So
+Maxwell       1036 E99A115-A    Lo Ni Wa           420 So
+Arid          1040 B349330-E    Lo Ni              920 So
+Bobbo         1134 A997526-D  N Cp Xb Ag Ni        602 Bo
+Krupp         1136 C69A767-B    Wa                 300 Bl
+023-876       1139 X536400-6    Ni                 915 So
+Manta         1140 C653434-9    Ni Po              900 So
+Chuvo         1236 B366245-E    Rs Lo Ni           810 So
+Zuppe         1238 B6A468A-C  S Fl Ni              211 So
+Drizz         1240 C69A546-C    Ni Wa              124 So
+Falstaff      1332 C89A798-B    Wa                 405 So
+Spectrum      1333 E258999-B    Hi                 500 So
+Blackjack     1438 A5119BD-E    Hi Ic In Na        712 Bl
+Acqua III     1440 B66A211-E  W Lo Ni Wa           303 So
+Behave        1531 D344443-8    Ni                 601 So
+New Ico       1532 C431577-C    Ni Po              410 So
+Kolin         1534 B244552-D  W Ag Ni              202 So
+Selig         1535 E79A985-B    Hi In Wa           420 So
+Bois          1537 A201100-E    Xb Ic Lo Ni Va     603 So
+Xuber         1631 D563433-8    Ni                 512 So
+Free          1632 C201675-B    Ic Na Ni Va        722 So
+Brellik       1637 C67A110-D    Lo Ni Wa           104 So
+Diaque        1638 C599878-A                       803 So

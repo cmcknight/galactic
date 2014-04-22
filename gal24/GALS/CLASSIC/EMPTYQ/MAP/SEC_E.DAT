@@ -1,0 +1,35 @@
+@SUB-SECTOR: sec_E   SECTOR: emptyq
+#
+# Trade routes within the subsector
+#
+$0213 3010 -1 -1
+$0213 0514 0 0
+$0514 0511 0 0
+$0511 0208 0 -1
+$0511 0709 0 -1
+$0514 0813 0 0
+$0813 1211 1 0
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Nightraven    0111 D581402-5    Lo Ni              800 Jr
+Shockwave     0116 C7A0637-8    De Ni              101 Jr
+Vrafavgag Tak 0213 B777643-4    Ag Ni           A  614 Jr
+T'Pring       0216 E584679-0    Ag Ni Ri           201 Jr
+Kamakura      0311 C9A049C-9    Lo Ni De        A  102 Jr
+Heian-Kyo     0314 B200548-7    Ni Va           A  212 Jr
+Nushiimga     0414 C525235-7    Lo Ni           A  400 Jr
+Shirakawa     0511 A9B0695-9    De Ni           A  512 Jr
+Kaadlushuur   0514 A535111-B    Lo Ni Cp        A  704 Jr
+Lirumriish    0515 A45075A-A    De                 501 Jr
+Tsu           0613 C55289B-5    Po                 602 Jr
+Turas Mor     0616 C231350-7    Lo Ni Na Po        911 Jr
+Janowski      0617 C549412-8    Lo Ni              104 Jr
+Azetbur       0620 A211534-C    Ni                 803 Na
+Isumo         0711 A888878-7    Ri              A  204 Jr
+Afer Ventus   0715 E643786-1    Po              R  513 Jr
+Gashige       0811 A3384BJ-C    Lo Ni              912 Jr
+Itsukushim    0812 D453320-6    Lo Ni Po           101 Jr
+Igura Shiim...0813 C413111-5    Ic Lo Ni           304 Jr     f
+

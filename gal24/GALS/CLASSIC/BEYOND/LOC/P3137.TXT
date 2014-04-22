@@ -1,0 +1,9 @@
+System: Boeing
+
+This system is an outpost.
+
+An outpost is similar to an Imperial Way Station but is, of course,
+non-Imperial.  The base has been established for the storage, maintenance,
+refitting, and refuelling of equipment belonging to the political faction
+which has final authority over the outpost or subsector.  (from BEYOND,
+Paranoia Press, 1981, p. 2).

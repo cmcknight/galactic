@@ -1,0 +1,16 @@
+Thorwald X559867-1
+Starport: None               Size: Medium (7200-8800 km)
+Atmosphere: Thin             Hydrographics: 90% water
+Population: 600 million      Govt: Captive Government
+Law Level: Moderate          Technology: Pre-Industrial
+Planetoid Belts: 0           Gas Giants: 2
+
+Thorwald is the home of one of the most unusual plant forms known: the leyden
+tree. The tree secretes an internal metal lightning rod, and when lightning
+strikes, the charge is deflected through a net of filaments into cellular
+capacitors, where it is used to convert organic molecules from low to high
+energy forms, supplementing photosynthesis as an energy source. An electrical
+storm over a leyden forest is a spectacular sight, best viewed from a safe
+distance.
+
+       

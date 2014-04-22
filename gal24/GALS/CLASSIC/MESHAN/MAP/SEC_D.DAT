@@ -1,0 +1,34 @@
+@SUB-SECTOR: sec_D   SECTOR: meshan
+#
+# Trade routes within the subsector
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Eghthudza     2509 C331249-9    Lo Ni Po           105 V5
+Keniir        2601 A455584-B  G Ag Ni C4 Cp        203 V5
+Uunush        2605 C510100-A  C Lo Ni              302 V5
+Urgush        2610 X857AB9-1  C Hi                 205 V5
+Munikhu       2702 C977486-8    Ni                 304 V5
+Gimar         2703 C2207AB-9    De Na Po           522 V5
+Aimliin       2704 C6239BB-8  C Hi In Na Po        104 V5
+Iishla        2705 C200662-9    Na Ni Va           500 V5
+Igam          2706 C589135-8  G Lo Ni              304 V5
+Uudum         2802 C647249-7    Lo Ni              404 V5
+Khisgurmakii  2804 E210120-7  C Lo Ni              405 V5
+Dardur        2806 C756957-7  G Hi                 103 V5
+Diramlii      2807 C347153-8  C Lo Ni              503 V5
+Lepidopter    2808 B487388-A  G Lo Ni D8           903 V5
+Umurzikuu     2810 D355412-6    Ni                 323 V5
+Erarki        2901 B663962-9    Hi                 623 V5
+Ikmepushkii   2902 B699745-7  G                    500 V5
+Shasukar      2908 C323425-8  G Ni Po              220 V5
+Gnolrar       2909 D432356-6    Lo Ni Po           803 V5
+Nurlim        3003 B641744-5  G Po                 701 Va
+Dikugus       3006 B554100-A  G Lo Ni              203 Va
+Firecracker   3102 B226889-A                       100 Va
+Ferrer        3105 X968678-0  C Ag Ni              500 Va
+Goethukh      3109 C100586-9  G Ni Va              405 Va
+Urkakhi       3204 C797A87-8  G Hi In              404 Va
+Sotla         3206 B000532-D  G As Ni              610 Va
+Gughars       3209 D87727A-2  C Lo Ni              900 Va

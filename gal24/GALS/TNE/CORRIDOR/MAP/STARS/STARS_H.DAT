@@ -1,0 +1,10 @@
+@SUB-SECTOR: stars_H   SECTOR: corridor
+#
+# Trade routes within the subsector
+#
+#--------1---------2---------3
+#PlanetName   Loc. Stars(s)
+#----------   ---- ---------
+Naagasa       2511 F4 IV
+Mee           2611 M6 V
+Kiiguuroesa   2811 M7 V

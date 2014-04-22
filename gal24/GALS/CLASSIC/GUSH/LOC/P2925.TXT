@@ -1,0 +1,21 @@
+System: Hkeakewoirea'
+Subsector: Shire
+Sector: Gushemege Sector
+Coordinates: 2925 (L0505)
+UWP: C998956-D
+
+Starport: Routine
+Size: Large (13600-15200 km)
+Atmosphere: Dense, tainted
+Hydrographics: 80% water
+Population: 8 billion
+Govt: Feudal Technocracy
+Law Level: Moderate
+Technology: Average Stellar
+
+Bases: None
+Trade Codes: Hi In           
+Travel Zone: Green
+Planetoid Belts: 0
+Gas Giants: 2
+Allegiance: Imperial

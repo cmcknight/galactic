@@ -1,0 +1,35 @@
+@SUB-SECTOR: sec_C   SECTOR: deneb
+#
+# Trade routes within the subsector
+$1808 1609 -1 0
+$1808 1910 0 0
+$1910 2111 0 1
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Graek         1704 D7879C7-4    Hi              A  101 Cs
+Dunant        1706 B311320-E  S Lo Ni Ic        A  523 Dd
+Remsen        1708 B788676-9  S C7 Ag Ni Ri        524 Dd
+Uakari        1710 C5348AA-6                       912 Dd
+Dzoungdzi     1802 A457353-E    Lo Ni              624 V6
+Cilnodan      1805 B342221-9    Lo Ni Po           632 Dd
+Antra         1808 A53789C-E    Cp                 501 Dd
+Syr Darya     1810 E55769C-5    Ag Ni              922 Dd
+Noscius       1902 C222201-7    Lo Ni Po        A  511 V6
+Fursuelgigz   1903 B200787-8    Na Va              901 V6
+Marnig        1904 E241101-5    Lo Ni Po           301 V6
+Ostov         1905 C768532-6    Ag Ni              422 Dd
+Uramid        1910 B345568-A  A Ag Ni              621 Dd
+Filangger     2001 A76A654-C    Ni Ri Wa           823 V6
+Torrens       2105 C100238-D    Lo Ni Va           104 Dd
+Bangwe        2109 D78A302-A    Lo Ni Wa           112 Dd
+Gounuerz      2202 B235330-A  C Lo Ni              510 Va
+Dofil         2204 E59368B-5  C Ni                 710 Va
+Mazirbe       2210 D5537A6-4    Po                 124 Dd
+Malory        2309 C320774-6  S Na Po De           223 Dd
+Tchien        2403 B696266-A  N Lo Ni              610 Cs
+Gagaridir     2405 B220310-A  N Lo Ni Po De        201 Dd
+Insi Kar      2406 B211454-B    Ni Ic              624 Dd
+Syrenaica     2407 C669464-9    Ni                 503 Dd
+Haggard       2409 C777224-6  S Lo Ni              613 Dd

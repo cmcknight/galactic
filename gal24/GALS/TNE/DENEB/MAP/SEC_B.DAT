@@ -1,0 +1,38 @@
+@SUB-SECTOR: sec_B   SECTOR: deneb
+#
+# Trade routes within the subsector
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Ghatsokie     0902 CA8687A-7    Vw                 404 Wi
+Matsa         0903 X234000-0    Ba                 002 --
+Aksofouta     0905 E556779-4    Ag Vw              212 RF
+Waalikii      0906 B525566-B  N Ni O:1006          134 RF
+Khoengirrgh   0907 A659873-B    Vw Rw:1         A  810 Re
+Gyrfal        0910 C8B6545-8    Fl Ni              803 Re
+Kfathvaedal   1001 X000000-0    Ba As              024 --
+Erarzong      1004 B8D0613-9  S De Ni Vw           324 RF
+Kamisaraki    1006 C354588-C  S Ag Ni              103 Re
+Lengighdzuerz 1202 X300000-0    Ba Va              023 --
+Naimar Station1203 X000000-0    Ba As              012 --
+Rrourring     1208 XA9A772-6    Wa Vw           A  310 Re
+Latros        1301 X688258-2    Lo Ni              101 Wi
+Kantra        1302 X301000-0    Ba Va Ic           022 --
+Ngouksarsvorr 1303 X454333-4    Lo Ni Vw           110 Wi
+Lome          1306 E32477B-8                       501 RF
+Lamas         1309 A7AA685-E  N Fl Ni Wa Cp        501 Re
+Qi'ire        1403 C657301-8    Lo Ni              202 Wi
+Anatre        1405 E5788A7-6    V:2                201 RF
+Borlund       1406 D454AAA-9  S Hi                 201 RF     m
+Krisna        1409 B84A757-C    Wa V:1             312 Re
+Mur           1502 X100000-0    Ba Va              020 --
+Gila          1504 X663698-5    Ni                 301 Wi
+Lagut         1505 C312256-A  S Ic Lo Ni           332 RF
+Pek'e         1508 C441254-7  S Lo Ni Po           212 RF
+Prolam        1509 B769436-A  N Lo Ni              123 RF
+Gzigorlloe    1601 X311000-0    Ba Ic              001 --
+Gzonksoeg     1603 E567200-5    Lo Ni Vw           201 Wi
+Arkan's Shame 1606 X243000-3    Lo Ni Po           102 RF
+Gaashushnu Lil1608 X744000-0    Ba                 004 --
+Ansirk        1609 A100357-F  N Lo Ni Va        A  722 RF

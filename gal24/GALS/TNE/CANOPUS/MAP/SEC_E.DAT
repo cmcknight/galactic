@@ -1,0 +1,24 @@
+@SUB-SECTOR: sec_E   SECTOR: canopusc
+#
+# Trade routes within the subsector
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Sensai        0111 X130000-0    Ba De              004 --
+Everhart      0112 X77A243-1    Lo Ni Wa        B  204 Wi
+Krispos       0118 X423000-0    Ba                 010 --
+Sawer         0213 E549100-3  S Lo Ni              202 Wi
+Slyngkesby    0218 X322000-0    Ba                 011 --
+Illyana       0311 X300000-0    Ba Va              000 --
+Aylwin        0320 X987442-0    Ag Lo Ni        B  114 Wi
+Zervicit      0412 E657975-7  S Hi              B  303 Wi
+Viet          0414 X200000-0    Ba Va              022 --
+Nustre        0517 X438000-0    Ba                 003 --
+Spitel        0518 X693327-5    Lo Ni           B  424 Wi
+Amherst       0613 X210000-0    Ba                 000 --
+Zanzibar      0615 X697455-4    Ag Lo Ni        B  304 Wi
+Secgleah      0715 E75677C-5                       113 Wi
+Coventry      0716 X100000-0    Ba Va              004 --
+Jacinth       0718 X200000-0    Ba Va              003 --
+Solon         0812 D76A795-5    Ri Wa           B  112 Wi

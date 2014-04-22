@@ -1,0 +1,25 @@
+@SUB-SECTOR: sec_l  SECTOR: solrim
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- - 
+Ikuk	      2521 X77976A-2	                B  613 Wi
+Cymbeline     2527 B9E486B-C                       112 VC     f
+Tewfik	      2528 X524000-0    Ba                 003 Un
+Hathor        2623 E78A865-8    Wa Ri              614 VC     f
+Melchior      2626 X4567RA-1    Ag              B  303 Wi
+Scandia       2628 X6588RA-7                       802 Wi
+Tunguska      2722 X422000-0    Ba                 014 Un
+Anenerkuk     2723 X56A7R8-4    Wa                 913 Wi
+Tamarind      2729 X9A2000-0    Ba Fl              020 Un
+Jael          2821 X3577RC-6    Ag                 623 Wi
+Arcturus      2921 X000000-0    Ba As              020 Un
+Epirus        2928 X138000-0    Ba                 022 Un
+Lamarck       3024 B763843-7    Ri                 904 Na     f
+Thorwald      3026 X5598R7-1                    B  602 Wi     f
+Harappa       3028 X875000-0    Ba                 021 Un
+Kurland	      3029 X6879R8-2    Hi              B  422 Wi
+Bolivar	      3127 X526000-0    Ba                 013 Un
+Strackenz     3130 X423000-0    Ba                 023 Un
+Heraklion     3221 X343000-0    Ba                 003 Un
+Jorjor        3225 C64188B-7    Po                 100 Na

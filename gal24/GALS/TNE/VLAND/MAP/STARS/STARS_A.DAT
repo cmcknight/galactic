@@ -1,0 +1,43 @@
+@SUB-SECTOR: stars_A   SECTOR: vland
+#
+# Trade routes within the subsector
+#
+#--------1---------2---------3
+#PlanetName   Loc. Stars(s)
+#----------   ---- ---------
+Aakhorn       0101 F7 V G0 V
+Rokii         0102 M2 V
+Maluuf        0104 A9 III K8 D
+Gikkon        0105 G6 IV M2 V
+Taraddiin     0107 M2 V
+Hakkat        0109 G7 V
+Ossin         0110 M6 V
+Kalkako       0202 F6 II F6 D
+Bannon's World0203 M2 V K4 V
+Khankari      0205 M2 V
+Lankhi        0209 M2 V
+Khalgun       0210 M6 V
+Anert         0303 G8 V
+Skathi        0306 M6 D F8 D
+Enard         0307 M2 V M0 V
+Kuk           0402 F6 V A9 D
+Apkeraas      0403 G7 V
+Katti         0404 M9 V
+Shaddukan     0408 G2 V
+Lugaluru      0502 M3 V
+Gamibuu       0506 K4 V M0 V
+Kharta        0507 K0 V B5 D
+Arfaan        0508 M0 V
+Athanuez      0601 K3 V M6 V
+Sheshat       0605 F9 V
+Rakurram      0610 G6 V
+Taegzdueg     0701 A0 D M4 V
+Khigapka      0703 M7 V
+Shukhuge      0705 M3 V
+Lenordi       0707 M7 V
+Voskhod       0708 M6 V B3 D
+Kharzet       0709 M5 V A7 D
+Ogerrgh       0801 M7 V
+Kegirrur      0804 M0 V
+Gadiga        0806 F5 V M7 V M2 V
+Kunumi        0807 A0 V

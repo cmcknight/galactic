@@ -1,0 +1,23 @@
+@SUB-SECTOR: sec_D   SECTOR: trojan
+#
+# Trade routes within the subsector
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Labora        2501 B533582-8    Ni Po              203 RE
+Belt-9        2602 B000323-F    Lo Ni As           123 RE
+Corben        2704 B545510-9    Ag Ni              114 RE
+Gazulin       2708 AA86996-C  A Hi An              313 RE
+O'Keefe       2709 D879640-7    Ni Tp              804 RE
+MacDermont    2801 D200786-7    Na Va           A  404 RE
+Junction      2804 B763873-7  W Ri Tp St        B  105 RE
+Peridot       2805 B989994-B  N Hi Tp              300 RE
+Fintor        2807 B440493-1    Lo Ni Po De        103 RE
+Bleak         2902 C9C6242-9  S Fl Lo Ni           404 RE
+Iscand        2904 B795553-B  N C:4 Ag Ni Tp       201 RE
+Mirage        2909 A560783-B    Ri De              103 RE
+Susanawo      2910 D68A430-6    Lo Ni Wa           111 RE
+627-301       3003 E000220-B    Lo Ni As           111 RE     f
+Neumann       3105 A876AA9-E  N Hi In Tn           223 RE
+Ploderash     3107 D303651-8    Na Ni Va Ic        720 RE

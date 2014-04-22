@@ -1,0 +1,40 @@
+# Planets
+#
+# S                   = Size (radius)
+# C                   = Color Code
+#
+#    A  Black    E  Red       I  Dark Grey     M  Light Red
+#    B  Blue     F  Magenta   J  Light Blue    N  Light Magenta
+#    C  Green    G  Brown     K  Light Green   O  Light Yellow
+#    D  Cyan     H  White     L  Light Cyan    P  Bright White
+#
+# Description         = see galhelp\sysmap\planets.txt
+# Inner/Biozone/Outer = Shares of likelihood by orbital zone
+# Moons               = # of moons
+#
+#        1         2         3         4         5
+#23456789012345678901234567890123456789012345678901234
+# S C Description         Inner  Biozone  Outer  Moons
+A 5 O Solar Companion       1       1       1     2d6
+B 4 M DI: Brown Dwarf       -       -       -     2d6
+C 4 M Gas Giant             1       1      10     2d6
+D 2 E Magma Ball            6       -       -     d2-1
+E 3 E Primordial            3       2       -     d4-1
+F 0 I Asteroid Belt         2       3       4     0
+G 1 I Planetoid             2       2       2     0
+H 3 H Vacuum Ball           2       2       2     d4-1
+I 2 H Snow Ball             -       -       2     d3-1
+J 3 H Ice Planet            -       -       2     d4-1
+K 3 E Shallow World         2       2       2     d4-1
+L 3 G Barren World          -       2       2     d4-1
+M 3 L Garden World          -       3       -     d4-1
+N 3 J Water World           -       2       -     d4-1
+O 3 G Desert World          -       2       -     d4-1
+P 3 G Marginal World        -       2       -     d4-1
+Q 3 C Belch Ball            2       2       2     d4-1
+R 3 K Greenhouse            3       2       -     d4-1
+S 3 N Exotic                -       2       -     d4-1
+T 3 N Liquid World          -       2       1     d4-1
+U 3 H Gas Core              -       -       -     2d6
+Z 3 N Special               -       1       -     d4-1
+0 3 A Empty                 4       6       8     0

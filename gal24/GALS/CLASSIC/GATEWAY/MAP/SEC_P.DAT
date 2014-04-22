@@ -1,0 +1,29 @@
+@SUB-SECTOR: p SECTOR: Gateway
+#
+# Jump-routes
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Icestation    3034 C10A569-9    Ni Va Ic           911 Re
+Castlemaine   2940 C230225-9    Lo Ni Po De        312 Na
+Setnil Navarok2539 C400265-A    Lo Ni Va           710 Na
+Rios          2937 C424664-7    Ni                 322 Na
+Kent          3131 D4346AC-7    Ni                 111 Re
+Povan         3235 B430666-A    Na Ni Po De        723 Re
+Megucorp Beta 2531 C53999A-9    Hi In              203 Me
+Red Grolland  2535 C511358-A    Lo Ni Ic           714 Na
+Besarbian     2733 C534899-6                       513 Me
+Garther       2738 C536422-A    Ni                 914 Na
+Trondelm      3137 C53A789-A    Wa                 211 Na
+Baretnit      2537 B629034-8    Lo Ni              801 Na
+Njorni        3038 C651754-9    Po                 432 Na
+Neomantel     3233 C65A769-A    Wa                 211 Re
+Hepler        3239 C687200-7    Lo Ni              921 Na
+Kolan         2831 C757887-9                       314 Me
+Akabar        3031 C76766B-9    Ri                 824 Re
+Celeste       3040 C85A876-8    Wa Ri              311 Na
+Silveron      2635 E978552-6    Ag Ni              523 Na
+Barristar     3132 B964360-9    Lo Ni              511 Re
+Megas         2639 EA9A547-8    Ni Wa              724 Na
+Jasper's Ring 2836 DR00779-C                       114 Na

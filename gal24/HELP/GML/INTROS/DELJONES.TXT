@@ -1,0 +1,54 @@
+
+From: D Jones <dojones@whitestar.u-net.com>
+Date: Sun, 12 Jan 1997 21:57:09 +0000
+Subject: Introduction
+
+Greetings,
+
+My name is Del Jones, I live in St Helens, Lancashire, UK. I am an ex-army
+telecoms engineer by trade, but now working as an IT manager for my sins..
+
+My interests lie in comms, astronomic stuff, and gaming ( oh yes and
+computing, my cocker spaniel and my wife, not necessarily in that order.
+;-)   )
+
+I have been playing and reffing traveller for 12 years now, from the *little
+black book days* ( well the Deluxe Version was about, but I have the black
+books). My main interest took off with the introduction of Mega Traveller,
+which I still use ( I didn't like the idea of the black future bits - after
+all civil wars come and go - it didn't have to be so extreme.)
+For this reason I didn't get the TNE source (FF&S was ok however.)
+but proceeded to develop my MT rules, after all it was a good system, it
+just needed a lot of work.....!
+
+My favourite stuff was the DGP material, they really had their finger on the
+pulse of what I saw as Traveller. Then it all fell down...
+
+I've gamed on in isolation since then, developing ny own campaign ideas, and
+building all the sunbane data into an Access Database, until 1 month ago, I
+got connected at home, & I've not looked back since...
+
+Congrats, Jim, on a fine setup,
+
+I really would like to work on a real-time TNS project, ie, A world
+originates a news item on day x, when do other worlds get it. This is
+something I've been thinking about for some time, as the first thing players
+ask on entering a new system is *whats on the telly!*. I would like my news
+service to be consistent, ie people not knowing things until they feasibly
+are able to... Working with jump routes from Galactic, it shouldn't prove
+*too* difficult.
+
+Any comments anyone? Yes I know I could just do it manually (mentally) but
+why have a PC?????
+
+Thanks for listening, 
+
+Any ideas mail direct to me: dojones@whitestar.u-net.com
+or via this ML or TML.
+
+TTFN
+
+Del Jones
+Lancashire, UK
+
+

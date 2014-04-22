@@ -1,0 +1,45 @@
+@SUB-SECTOR: Zeda   SECTOR: Dagudashaag
+#
+# Trade routes within the subsector
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Nueva Esperanz0123 A555200-F    Lo Ni              123 Im 
+Coroico       0126 C665357-8    Lo Ni              514 Im 
+Ushkhir       0129 C724664-7    Ni                 303 Im 
+Maq'appav     0222 B200310-F  S Lo Ni Va           914 Im 
+Shammud       0223 C446154-9    Lo Ni              603 Im
+Ekhor         0227 C7A9588-9    Ni Fl              203 Im 
+Kaattji       0228 C545230-A  S Lo Ni              603 Im 
+Hu            0229 C8B6410-C    Ni Fl              903 Im 
+Dudin         0230 B9CA9CE-F    Hi Fl Wa           900 Im 
+Hoaz          0321 C445422-A  S Ni                 500 Im 
+Tsuchi        0322 B210225-B    Lo Ni              815 Im 
+Biik          0323 D557AFG-9    Hi                 523 Im 
+Khadda        0324 C221210-9    Lo Ni Po           703 Im 
+Giirakh       0325 B986768-C    Ag Ri              720 Im 
+Syrna         0329 B9668CC-B  N                    613 Im 
+Mirkan        0421 C322241-A    Lo Ni Po           721 Im 
+Maudhii       0423 C250853-B  S Po De              904 Im 
+Sagan         0425 B877212-C  A Lo Ni              704 Im 
+Aksa          0426 C8C3403-8    Ni Fl              102 Im 
+Ashes         0521 D3405AE-9  S Ni Po De           903 Im 
+Bhuur         0523 D899303-9    Lo Ni              802 Im 
+Ghaedzaekh    0524 C115330-C    Lo Ni Ic           814 Im 
+Ekha          0526 C86A358-A    Lo Ni Wa           704 Im
+Nidavellir    0528 C683104-7  S Lo Ni              420 Im 
+T'azhqava     0530 C23027B-9  S Lo Ni Po De        802 Im 
+Rais'qanaa    0621 D120445-D  S Ni Po De           804 Im 
+Mai           0622 D530624-8    Na Ni Po De     A  422 Im 
+Keshga        0625 B666441-8  N Ni                 724 Im 
+Iur           0628 E796442-8    Ni                 402 Im 
+Zeda          0721 B873967-E  S Hi In Cp           524 Im 
+A'niaqoro     0723 C9AA333-C    Lo Ni Fl Wa        104 Im 
+Guan          0724 C510410-7    Ni                 501 Im 
+Sumuu         0725 C300500-B    Ni Va              213 Im 
+Shogun        0729 B89A545-D  N Ni Wa              711 Im 
+Derla         0821 D8B2557-9  S Ni Fl              313 Im 
+Urgu          0823 EA8A9DG-8    Hi Wa              115 Im 
+Akish         0825 B37577C-8    Ag                 105 Im 
+Asimisiske    0828 A100757-F    Na Va              912 Im 

@@ -1,0 +1,325 @@
+LIBRARY DATA
+
+[The data in this sector is valid for the date 052-1107]
+
+The following information is intended as a brief background for several
+important concepts in Beyond.
+
+BEAUFORT LINES, LIMITED: Established 984 by Samuel, later Sir Samuel,
+Beaufort of Guildheim/Liberty Hall.  Beaufort Lines is unique in the fact
+that its ships are all Imperial-crewed and, while registered in Beyond,
+all of its masters are reserve officers in the Imperial Navy.  Beaufort
+is one of the major shipping lines operating in Beyond with established
+routes from the Mal'Gnar Radiant through die Weltbund and Liberty Hall
+and rimward into Metchi'Alagwa and the Northeast Middle Beyond.  It
+connects with Parallel Lines, Unlimited, at Xeres/Zydar, at the extreme
+coreward edge of Zydar Subsector.
+    Sir Samuel's policies of subtle Imperial influence and paternal advice
+resulted in Beaufort being the sole line granted entrance into the Mal'Gnar
+Radiant, which fact probably influenced Emperor Gavin in his decision to
+bestow the title of Knight of the Imperium in 1000 upon Beaufort.  To this
+date, Sir Samuel's policies remain in effect and ho commercial line has
+succeeded in entering the Radiant.
+    Most of Beaufort Lines is composed of ex-Imperial navy vessels,
+especially those of larger tonnages.  But there is a new tendency towards
+the utilization of the Delta Research Type SX Wind Class Scout/Couriers,
+no doubt a continuance of Sir Samuel's unique sense of humor.  To date,
+some twelve Type SX's have been delivered and have been christened, rather
+whimsically: Calm; Light Air; Light Breeze; Gentle Breeze; Moderate Breeze;
+Fresh Breeze; Strong Breeze; Moderate Gale; Fresh Gale; Whole Gale; Storm;
+and Hurricane.
+    Beaufort Lines remains a family company with stock divided approximately
+as follows: Beaufort Family--60%; investment trusts--15%; corporate
+employees--15%; Imperial Family--2.5%; and public (individuals)--7.5%.
+
+BELLAKCHAN/PALDORAN ENTERPRISES, GmbH: An interworld conglomerate registered
+in 1037 at Intercourse in Delta.  BPE maintains controlling interests in
+several businesses.  Notable among these are Parallel Line, Unlimited, of
+Intercourse/Delta; Sorenson Arms Group, Limited, of Beaumonde/Mapepire;
+Precision Research Aeronautics and Navigation Group of Guildheim/Liberty
+Hall; and Trondheim Aeronautics, Incorporated, of Varen's Planet/Trelyn
+in the Vanguard Reaches.  Ownership seems to be divided between Sharlec
+hault-Bellakchan (50%) and Padua P. Paldoran (50%).
+
+CHURCH OF RESURGENT ANTHROPOMORPHIC PHILOSOPHY: Founded in 3 F.S. at Paradise
+in Subsector Delta by Louis Farbes.  The church now controls Paradise and
+seeks to convert others to its tenets through the use of loud arguments,
+threats, promises, kidnappings, psychological intimidation, and other less
+subtle means.  The primary tenet is that God created all "true sentients"
+in His physical image.  the fact that there are over twelve known sentient
+races, not including the various races of Humaniti, seems to have no bearing
+upon the church's adherence to the first tenet.  Throughout Beyond, the
+followers are derogatively referred to as "Crappies".
+
+COMSENTIENT ALLIANCE: From "com", in equal combination; and "sentient", a
+person or thing which feels.  The Comsentient Alliance, or "Alliance" as it
+is popularly called, was conceived in 705 as an equitable answer to the
+admittedly arbitrary major race/minor race theory embraced by the Imperium.
+It encompasses an area some 37 parsecs in diameter, largely in Beyond and
+the Vanguard Reaches, although member worlds may be found in other sectors
+as well.  The Alliance recognizes both in theory and in practice the concept
+of equal rights and responsibilities of all sentient races, regardless of
+technological level or achievement.  Each member or associate member world
+is represented in the Grand Council of the Great Hall at Rabanitas/Zydar
+based upon its population expressed in exponential terms.  Thus a world
+with a population of 1.5793 x 10(6) would be represented by six councilbeings.
+In simplest terms, the number of councilbeings in residence may be expressed
+by the UPP population index.  At this date, there are approximately 800 +
+worlds represented in the Grand Assembly by over 6,400 councilbeings.
+
+DARK GODDESSES: A shipping/transport line owned and operated by females of
+every known race within Beyond, with the exception of Sred*Ni.  The Dark
+Goddess ships ply the uncharted routes, usually in the Storm Subsector,
+the Darkling Regions, the I-Glathriel and the Zydar Subsectors.  While
+there is no definitely established link, as yet, it is generally supposed
+that the Dark Goddesses work in concert with the Webrunners--as pirates
+and freebooters--although the Goddesses do not bother with such niceties
+as Letters of Marque.
+
+DELTA CEPHEI/SPINWARD DRIFT: (pronounced "cee-fee-eye") A double star, the
+brighter component of what is the historically important variable star which
+gave its name to the class of stars known as the "cepheids".  Delta Cephei
+was discovered in -2737, or 1784 A.D. in Terran dating.  Thirty times the
+diameter of Sol, its apparent magnitude varies from a maximum of 3.3 to a
+minimum of 4.5 in highly regular periods of 5 days, 8 hours, 47 minutes
+and 39 seconds T.S. (Terran Standard).  It is the oldest of the known
+cepheids.  Orbiting Delta Cephei and its companion in a highly eccentric
+orbit is Delta Cephei Base/Spinward Drift (0402-B85232D-A), established as
+a research station to determine whether Humaniti can adapt to such variations
+in a primary.  Delta Cephei's dim companion is a blue star, nicknamed "Old
+Blue" by the base's chief astronomer, which has an apparent magnitude of
+7.5.
+
+DELTA RESEARCH: Established in 437 at Sha'anoe/Delta as Delta Products
+Corporation, it was purchased in 1086 by Storm and renamed Delta Research.
+From approximately 705, Delta Products specialized in the production of
+vessels based upon their 100- to 1000-ton hulls.  With its purchase by
+Storm, Delta's product lime underwent a dramatic metamorphosis.  Added to
+the standard line of hulls was a 150 ton "stretched" or "extended" hull.
+Storm also diversified: maneuver drives designed and built by Delta Research
+replaced the older, contracted LSP units; computer peripherals were
+announced in 1088; the Types S and SX Scout/Couriers were laid down in 1090;
+and the Type A2 Far Trader was first flown in 1094.  Storms uncontrolled
+enthusiasm drove the company to the edge of receivership, but in 1101, at
+Delta Centre/Metchi'Alagwa, a major breakthrough in computer technology
+was made when "Mad" Marvin Hauk successfully grew organic brain cells in
+vitro making possible the Logical Heuristic Processor (Organic) series of
+computers.  The LHeP(Or)s proved the turning point in Delta's fortunes.
+    In 1104, using a specially augmented version of their own LHeP(Or)IX/Imp,
+Delta Research turned out the first successful E-Circuit Modules.  The
+testing and subsequent installation of the seventh E-Circuit Module on an
+Imperial courier in 1106, "Suki", resulted in the title of Noble Baron being
+bestowed upon Storm, now hault-Storm.
+    Delta Research continues to be rigidly controlled by hault-Storm with
+stock ownership as follows: hault-Storm--70%; investment trusts--15%;
+corporate employees--10%; Imperial Family--2.5%; and public (individuals)--
+2.5%.
+
+ESLYAT MAGISTRACY: Ruled by the Selyin Nobility since formal establishment
+in 657, this interstellar government includes all known Eslyat. The race
+is on good terms with the Comsentient Alliance, and all members of the
+Magistracy are also members of the Alliance.  The Eslyat received
+interstellar drives from the Imperium exploration craft in approximately
+600.  Numerous clashes between the Trelyn Domain and the Magistracy have
+occurred as a result of territorial disputes in Trelyn Subsector/Vanguard
+Reaches.
+
+HAULT-BELLAKCHAN, SHARLEC: Sharlec hault-Bellakchan (1058--) first came
+to the attention of the Imperium in 1083, during the so-called "False War".
+The then-lieutenant Sharlec Bellakchan distinguished himself in the many
+skirmishes between Imperial Naval Forces and those of the Zhodani.  While
+there were those at court no doubt jealous of young Bellakchan's successes
+who maintained the daring lieutenant was a Zhodani sympathizer, the Emperor
+would hear none of it.  Bellakchan was awarded a barony in Beyond,
+Trayfowen/Mapepire, where he resides.
+
+IDENTIDISC: A subminiaturized micro-circuitry, device, usually installed
+in a service-issued belt buckle, which positively identifies the individual
+to whom it was issued.  Among the most widely recognized of these in Beyond
+are the winged serpent of the Scout Service; the crossed spaceship and
+fouled anchor of the Merchant Service; the crossed lance and laser of the
+Marines; the Navy's famous ringed anchor on a stylized sunburst; and the
+battle helmet-surmounted crest of crossed lasers of the Army.
+
+INTERWORLD DIVISION OF ENFORCEMENT SERVICES: Founded in 832 during the
+enlightened reign of Empress Paula II by Sir Robert Leslie Ian Alexander
+March, it is knownb throughout the Imperium as "The IDES of March".  IDES
+was conceived as a private organization operating strictly on a contractual
+basis in those areas where the only laws are local (planetary) mores, taboos
+and laws--i.e., beyond the effective range of the Imperium.  Functioning as
+a performance or results oriented contractual organization, IDES operates
+independently of but in conjunction with the Imperium or with bona fide
+government factions: planetary, subsector and sector.  The major advantages
+of IDES are readily apparent: the standardization of policies and procedures;
+the development and use of the most recent technology; a centralized office
+or ioffices for the filing, indexing and cross-reference of data; unified
+control; and a pride in profession which serves to eliminate once and for
+all the alleged "police mentality".  IDES is financed solely through its
+Imperial contracts and through service contracts with other law enforcement
+agencies and companies throughout the sentient worlds.
+    Operating in Beyond, IDES is forced to engage the services of skilled
+operatives, known as "Marchers".  IDES Central keeps the identities and the
+number of its operatives shrouded in secrecy.  It is rumored that several
+are, in fact, actively serving the Imperium and the Alliance in the various
+service arms.
+    IDES facilities may be found on worlds with a law level of 8+ and a
+technological level of A+.
+
+I'SRED*NI HEPTAD: (pronounced "ee-shred-knee") The seven-worlded capital
+of the I'Sred*Ni Web of Worlds in the Middle Beyond and the Subsector known
+as the I'Sred*Ni Heptad.  The Heptad maintains three subcapitals, or
+consulates, as well: at Beriel/Northeast Middle Beyond; at Lesser Dismal/
+Darkling Regions; and at Stormedge/Storm (although the latter two are the
+subject of a long-standing dispute in the Great Hall of the Comsentient
+Al;liance).  The Heptad worlds are all considered interdicted and carry
+TAS Red Zone clasifications, as do the six (artificially created?) asteroid
+belts which surround I'Sred*Nispr/I'Sred*Ni.
+
+MAL'GNAR: (pronounced "mal-nyar") Descendants of early Terran homo pekinensis
+transported to the Mal'Gnar Radiant by the Ancients according to legend.  The
+Mal'Gnar were the subjects of a lengthy experiment in genetoevolutionary
+engineering, the results of which were the development of long, supple,
+feathered wings and retractable-taloned feet.  This manipulation no doubt
+accounts for the intense desire exhibited by the Mal'Gnar to remain aloof
+from the rest of Humaniti and their equally intense dislike of the Droyne.
+While they are incapable of lifting their own body weight from the planetary
+surface by their wings alone, once airborne the Mal'Gnar are masters of
+soaring.
+    The Mal'Gnar social structure centers arounf the concept of an Echelon
+Quintad: five individuals who function together as a single, multi-purpose,
+unit.  Each of the five members of an Echelon Quintad is drawn from one or
+more of the six echelons which divide the Mal'Gnar society: Advisors,
+Hunters, Leaders, Multi-Echeloned Ones, Priests and Technicians.  Only two
+of these echelons are sexually restrictive: Priests are always male, while
+the Advisors are always female.  Each Quintad must contain one and only one
+Advisor from which the Quintad takes its name.
+    Like the Zhodani, the Mal'Gnar are a race of Humaniti, inter-fertile
+with the so-called "Six Known Races of the Imperium".
+
+MAPEPIRE CLUSTER: (pronounced "mah-pay-pee-ray") A loose coalition of worlds
+grouped more as a tourist delight than as a political faction.  The Cluster
+receives its name from the fact that each of its worlds are accessible to
+vessels with only jump-1 capability and the snake-like commercial route
+which connects them.  The cluster is considered de rigueur for Beyond's
+wealthier citizens.
+
+NORTHSTAR INTERWORLD TECHNOLOGICAL SERVICES: Founded by Marcus Gozpodon
+Smyth in 594, during the expansion of the Rimward Fringe under Empress
+Jacqueline II, as a cost-effective service for the gathering, collation,
+extrapolation and dissemination of data relating to the Empress' economic
+policies.  This was accomplished largely through the development of the
+Licensed Information/Communication Exchanges established on Imperial worlds
+with technological levels of 9+.  Today, NITS maintains facilities on most
+Imperial worlds and on many non-Imperial worlds as well (throw 11+ on NITS
+facility to exist, DMs apply: +1 for every tech level above 10).
+    Each NITS facility contains eight information sections, each of which
+is designated by a distinguishing color: red for Research and Development;
+yellow for Financial Services; blue for General Information Retrieval; green
+for Xenological Services; orange for Personnel and Recruiting Services;
+purple for Imperial Resources and Services; silver for Non-Imperial Resources
+and Services; and black for Security Information Retrieval.  A voice-actuated
+computer link in the lobby of each NITS facility, programmed in Common and
+the local languages and dialects, will assist any traveller who might be
+unsure of the services or section required.  Charges for inquiries are
+standardized throughout the NITS network and will vary due only to the
+fluctuation of the Imperial Credit based upon the local planetary rate of
+exchange.  Simple inquiries cost CR25, a more detailed inquiry with accesses
+to more than a single data base may run as high as CR2,000.  A hardcopy
+printout of the inquiry will cost CR10 per page or portion thereof, plus
+an additional CR50 for each fotofac required.  A security request, provided
+a need to know has been adequately established, will cost between CR1,000
+and CR5,000; however, the establishment of NTK clearance will result in
+automatic security inquiries into the requesting individual's personal file
+and an automatic logging of the individual's name, UPP, personal
+identification data, query and response to the query with both NITS and IDES.
+    Analysis of NITS charges since accessibility was granted to individuals
+in 703 shows the average cost of an inquiry to be CR137.2193 and the average
+charge per inquiry to be CR143.9788.  This gives NITS a profit of CR6.7595
+per inquiry, of 4.69%.
+
+PALDORAN, PADUA P.: few facts are known of Paldoran.  He maintains a
+residence at Paldoran/Middle Beyond; he is formally recognized as the lover
+of the Lady Lysilph Kunseba; and he has never served in either Imperial or
+Alliance branches of any service arms.  Rumors link Paldoran with the
+notorious Paldoren Family of Port Xanatath in the Ventura Quadrant (Xanatath
+is a widely known "free port", i.e., a sanctuary for pirates and rogues
+of all kinds).  Paldoran is believed to be of Mal'Gnar descent, a rogue
+hunter of approximately 44 TS years of age.  The Lady Lysilph, five years
+his senior, is very obviously human.
+
+PARALLEL LINES, UNLIMITED: Established in 1037, Parallel Lines is a relative
+newcomer to Beyond's shipping industry.  It services only Subsector Delta,
+Liberty Hall and the Mapepire Cluster.  While other lines also serve
+Subsector Delta, Parallel Lines provides the only service to Paradise/Delta.
+The corporate headquarters are located on Intercourse/Delta, the subsector
+capital.
+    Parallel Lines is controlled by a conglomerate, registered on
+Intercourse/Delta under the name of Bellakchan/Paldoran Enterprises, GmbH.
+Stock ownership is as follows: BPE--97.5% and Imperial Family--2.5%.
+
+SORAG: (pronounced "soar-ag") A special-purpose, para military division
+of the Zhodani Consulate Combined Interstellar Forces.  The name is an
+acronym for Study and Operations Recording Activities Group.  The stated
+purpose of SORAG is to observe the progress of emerging interstellar
+societies, using overt surveillance methods.  Most of the activities of
+the organization consists of gathering civilian transmissions of various
+types and recording and cross-referencing the data therein.  By this method,
+SORAG is able to keep the Zhodani abreast of the changes in government and
+technological levels within the Consulate and its Client States.  Although
+employees are paid via a pay scale similar to most military systems, SORAG
+is not directly affiliated with any military organization.
+
+SRED*NI: (pronounced "shred-knee") An arachnid-like mammalian lifeform native
+to I'Sred*Ni and similar to the "trappers" of Fulacin/Rhylanor in the
+Spinward Marches.  The Sred*Ni are fully sentient, although they evidence
+a conmmunal mind which is telepathically linked and augmented.  Due to
+their mental communality, the Sred*Ni are unable to recognize and appreciate
+the subtleties of such concepts as: "free will"; "individuality"; "personal
+property"; "individual rights and responsibilities"; and similar
+individual-oriented concepts.
+    Sred*Ni society is octamerous, consisting of three i-Zreen ("classes"),
+subdivided into eight percipiences: The Tertiary i-Zreen consisting of
+Breeders and Technicians; The Secondary i-Zreen of Merchants, Hunters and
+Warriors; and The Primary i-Zreen consisting of Leaders, Sages and
+Coalescers.  Any decision made, in order to be binding to all, must be
+sponsored and arbitrated by a selected "consciousness" composed of one
+of each of the latter seven percipiences, breeders having no decision-making
+responsibilities.
+
+STARBASE ARCTURUS II/I-GLATHRIEL: Established by the Imperium in 759 in
+order to observe the fluctuations of Delta Cephei from a distance of 7.5
+parsecs, or 24.45 light years, the starbase maintains communications with
+Capital via xboat through a 100-year leasing agreement, of sorts, with the
+Comsentient Alliance.
+    Arcturus II has a long and rather bloody history.  Originally established
+as Starbase Orion and later changed to Arcturus under the command of
+Commander Hlury Harog, it was the scene of one of the Imperium's bloodiest
+mutinies in recorded history.  Although the mutiny was quelled, Commander
+Harog was removed from his position for "insubordination and gross
+disobedience" and exiled to a frontier post in the Out Rim Void.  The
+starbase was renamed Arcturus II in 1106 and placed under Commodore
+vice-Aaron's command.
+    Interestingly enough, Starbase Arcturus II is located within I-Glathriel
+and occupies a strategic location between the Aslan Hierate Colonial States
+and the Comsentient Alliance: thus while able to observe the fluctuations
+of Delta Cephei, it also keeps an eye on the combined threat of an
+expanding Aslan colonial thrust and the cohesive anti-Imperium influence
+of the Alliance.
+
+STORM: Owner of Delta Research at Sha'anoe/Delta.  Recently knighted by the
+Emperor Strephon and granted the title of Noble Baron of the Imperium,
+his full title is Senior Master Scout Sir Storm, Baron Cahokia, OC, ODM
+(although he prefers his close friends simply refer to him as "Storm").
+
+WEBRUNNERS: A group of free- and far-traders, acting in concert, providing
+shipping and communications within the I'Sred*Ni Heptad and among its
+colonies.  IDES have been investigating several well-founded charges that
+the Webrunners are in reality a highly organized coalition of freebooters
+and pirates operating under Letters of Marque granted by the Zydarian
+Codominium.
+
+ZYDARIAN CODOMINIUM: A confederation of some 20 worlds located at the
+junction of the Zydar and I-Glathriel Subsectors, the Middle Beyond, and
+the Spinward Drift.  Too small to directly challenge the Comsentient
+Alliance, it is nevertheless known to be a haven for criminals, malcontents,
+rebels, and pirates.

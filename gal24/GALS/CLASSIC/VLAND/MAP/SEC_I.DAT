@@ -1,0 +1,16 @@
+@SUB-SECTOR: sec_I   SECTOR: vland
+#
+# Trade routes within the subsector
+$0422 0619 0 -1
+$0530 0333 0 1
+$0530 0831 0 1
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Keshiil       0221 C530833-A    Na Po De           220 Rv
+Niirka        0422 A300757-F    Na Va              922 Rv
+Khulekii      0430 E677799-5    Ag                 222 Rv
+Pirrom        0530 A884589-D  N Ag Ni              511 Rv
+Beshe         0622 E8B8888-5    Fl                 115 Rv
+Giraran       0630 D455142-5    Lo Ni              524 Rv

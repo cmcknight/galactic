@@ -1,0 +1,48 @@
+@SUB-SECTOR: sec_N   SECTOR: emptyq
+#
+# Trade routes within the subsector
+#
+$1233 0834 -1 0
+$1233 1230 0 -1
+$1139 1235 0 0
+$1235 1233 0 0
+$1139 1540 0 0
+$1540 1738 1 0
+#
+$1540 1502 0 1 12
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Li Yichang    0931 A889435-A  N Lo Ni              103 Im
+Sarbaz's Tomb 0932 C773000-0    Ba                 011 Im
+Delta Three   0936 D401598-8  S Ic Ni Va        R  311 Im
+Bakimidiim    0940 E4537A9-5    Po C:1          A  330 Im
+Kushiro       1031 C86A578-9  S Ni Wa              604 Im
+Sao Sapele    1035 AAC0458-B    Lo De Ni RsB    R  413 Im
+Ming Po Toi   1036 C462226-7    Lo Ni              224 Im
+Urpirur       1037 B7B0349-7    De Lo Ni           400 Im
+Emblem        1038 CAA0441-8    Lo De Ni           114 Im
+Micomicon     1039 E645442-5    Lo Ni              704 Im
+Old Shire     1040 C140201-6    De Lo Ni Po        900 Im
+Davenport     1133 A868878-A    Ri              A  520 Im
+Fair Haven    1137 C459756-6    Ni                 602 Im
+Oboda         1139 A6A5655-9    Fl Ni              401 Im
+LAZISAR       1233 B887974-9  N Hi Cp              512 Im
+Asia          1235 A337441-A    Lo Ni           A  204 Im
+Decius        1236 C774000-0    Ba                 000 Im
+Gusshi E      1237 C1136BG-8    Na Ni Ic        A  604 Im
+Nahur         1238 C86778B-7    Ag Ri              913 Im
+Higashiosaka  1239 B140113-7    Lo Ni De Po        402 Im
+Tuscany       1331 A9C0364-A    De Lo Ni O:1228    403 Im
+Capercaillie  1332 D413754-7    Na Ic           A  624 Im
+Delmar        1337 C140310-8    Lo Ni De Po        100 Im
+GIMUSHI       1431 D54AAA9-8    Hi In Wa           124 Im
+O'Donnell     1436 B500385-6    Lo Na Ni Va        615 Im
+Fur Elise     1531 C221032-7    Lo Ni Po           604 Im
+Mu            1533 B677666-6    Ag Ni C:5 O:1537   804 Im
+PAMUSHGAR     1537 C680986-6    De Hi              202 Im
+Khal I        1539 E57468C-5    Ag Ni C:2          603 Im
+Ryukyu        1540 B7A0478-9    Lo De Ni           522 Im
+Schulz        1631 B545422-7    Lo Ni Ex        A  312 Im
+Timark City   1633 C472564-6    Ni O:1733          703 Im
+Saint Ashley  1635 B230666-7    De Na Ni Po        302 Im

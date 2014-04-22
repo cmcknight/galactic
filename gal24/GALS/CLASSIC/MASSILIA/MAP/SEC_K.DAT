@@ -1,0 +1,33 @@
+@SUB-SECTOR: sec_K   SECTOR: massilia
+#
+# Trade routes within the subsector
+$2130 2529 1 0
+$2130 1731 0 1
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Ven           1721 E362621-7    Ni                 903 Li
+League        1724 D252983-8  S Hi Po              502 Li
+Ri Trios      1726 B57255A-B  N Ni                 504 Li
+Lurun         1728 B6357BA-A                       814 Li
+Kindstrom     1730 C884034-8  S Ni Lo              200 Li
+Herzog        1823 B547531-B    Ni Ag              314 Li
+Star Triven   1921 B481321-D  S Ni Lo              913 Li
+Rahum         1924 D8A6000-8    Ni Ba Fl Lo        113 Li
+Gober         1927 B768455-B    Ni                 301 Ma
+Rarian        2029 B271120-C    Ni Lo              214 Ma
+Hexum         2030 B461525-B    Ni                 900 Ma
+Ugdukida      2127 C33199A-B    Hi Na Po Cp        413 Ma
+Bern          2130 A343413-F  N Ni Po              910 Ma
+Muimarir      2224 D657972-7    Hi                 913 Ma
+Independent   2228 C252599-B    Ni Po              600 Ma
+Imaean        2230 E627788-7                       714 Ma
+Noward        2323 B5A5200-D    Ni Fl Lo           114 Ma
+Hezeltine     2324 B84A436-E  N Ni Wa           A  921 Ma
+Hermes Station2328 E100579-B    Ni Va              404 Ma
+Braemere      2421 B310322-E    Ni Lo              713 Ma
+Gurd          2422 B8D06A9-B    Ni De              700 Ma
+Flassen       2425 D000434-B    Ni As              813 Ma
+Silas         2428 B310543-C    Ni                 500 Ma
+Cheresa       2430 B655300-C  N Ni Lo              302 Ma

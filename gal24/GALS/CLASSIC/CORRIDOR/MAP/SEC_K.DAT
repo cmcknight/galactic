@@ -1,0 +1,9 @@
+@SUB-SECTOR: sec_K   SECTOR: corridor
+#
+# Trade routes within the subsector
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Rill          1923 E889662-4    Ni Ri C6           602 Na
+Atu'l         2121 C898234-8    Lo Ni              704 Na

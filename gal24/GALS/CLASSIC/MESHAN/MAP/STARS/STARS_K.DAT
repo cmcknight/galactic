@@ -1,0 +1,30 @@
+@SUB-SECTOR: stars_K   SECTOR: meshan
+#
+# Trade routes within the subsector
+#
+#--------1---------2---------3
+#PlanetName   Loc. Stars(s)
+#----------   ---- ---------
+Usozaedh      1721 F4 D M6 D
+Utsuesu       1722 F2 D
+Igguk         1727 F0 V
+Sazur         1728 F6 D
+Angamni       1824 F0 V
+Anull         1829 F3 V
+Khakong       1922 M5 D
+Oursghae      1926 M9 V M0 D K1 D
+Lazar         1927 F6 V M3 D
+Ing Zae       1929 F5 V M5 D M1 D
+Ikke          2022 K9 V
+Rigver        2023 F5 D M5 D
+Aedouves      2128 M5 V M7 D
+Rranuell      2129 M0 V
+Aer Angae     2221 G0 V
+Ongats        2223 K4 V
+Kusuez        2224 M8 D
+Akfe Ae       2227 M3 II
+Ushlidmap     2230 F6 V M3 D
+Gnoerrla      2324 K2 V M0 D
+Doghzgvaz     2330 G6 V
+Oraekne       2424 F9 V M7 D
+Ngaerr        2428 K4 V

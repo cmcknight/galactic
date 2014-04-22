@@ -1,0 +1,46 @@
+@SUB-SECTOR: Cemplas SECTOR: Core
+#
+# Trade routes within the subsector
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Umda          0921 E6A7427-4    Fl Ni              310 Ic
+Guba Ak       0922 E375000-0    Ba                 002 Ba
+Sheduu        0929 E649000-0    Ba                 000 Ba
+Kaplir        1022 E473545-4    Ni                 513 Ic
+Irkkha        1023 B323688-9    Na Ni Po           900 Ic
+Miim          1028 C250222-6    Po De Lo           801 Im
+Ye-Lu         1123 A100000-D    Va Ba              025 Ic
+Imkhasham     1124 A8AA677-C    Ni Fl Wa           312 Ic
+Ishiira       1125 D652100-6    Po Lo              110 Im
+Aruur         1129 E6A4000-0    Ba Fl              004 Ba
+Merkaakhu     1130 D79A535-A    Ni Wa              501 Im
+Shuukha Zuush 1221 BAD5100-7    Lo Fl              113 Ic
+Armi          1222 C577653-6    Ag Ni              613 Ic
+Muguu         1223 E556000-0    Ba Lo Ni           030 Ba
+Irmi Khi      1225 E341662-4    Ni Po              210 Im
+Shanii Arduu  1226 E485000-0    Ba                 022 Ba
+Lishiruud     1228 B697313-6    Lo                 413 Im
+Bais Si       1229 E354136-3    Lo                 613 Im
+Nuur          1321 B664100-6    Lo Ni              500 Ic
+Keplo         1322 C675AEE-7    In Hi              323 Ic
+Kushur Naa    1323 B310200-C    Lo Ni              303 Ic
+Santry        1328 B6478AC-C  N                    102 Im
+Shidkar       1330 B685200-6    Lo                 200 Im
+Eorvin        1421 B436767-8                       222 Ic
+Ashbikuu      1422 E7C2000-0    Fl Ba              011 Ba
+Khusgurlu     1424 B652569-9    Ni Po              614 Ic
+Vlaarvla Akha 1428 A656542-9    Ag Ni              100 Im
+Uukzi Giish   1430 E100000-0    Va Ba              003 Ba
+Gaashi Ash    1522 C7C0133-7    De Lo Ni           200 Ic
+Belicose      1523 A596123-A    Lo Ni              213 Ic
+Shibashliim   1524 A626A88-C  N Hi In              912 Ic
+Gikakhii      1526 E403210-6    Lo Va Ic           923 Im
+Niin          1529 E210000-0    Ba                 024 Ba
+Arvli Khaan   1530 E563000-0    Ba                 002 Ba
+Heraldia      1622 C120553-A    Ni Po De           201 Ic
+Velpare       1623 A567123-7    Lo                 824 Ic
+Gakirvli      1625 C885330-7    Lo                 114 Im
+Amshakshe     1628 C633654-8    Na Ni Po           904 Im
+Kuusuu Uur    1630 C130376-B    Lo Po De           203 Im

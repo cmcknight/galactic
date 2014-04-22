@@ -1,0 +1,37 @@
+Deneb Sector
+
+A: Pretoria                  sec_a.dat
+B: Lamas                     sec_b.dat
+C: Antra                     sec_c.dat
+D: Million                   sec_d.dat
+E: Sabine                    sec_e.dat
+F: Inar                      sec_f.dat
+G: Dunmag                    sec_g.dat
+H: Atsah                     sec_h.dat
+I: Star Lane                 sec_i.dat
+J: Vincennes                 sec_j.dat
+K: Usani                     sec_k.dat
+L: Geniishir                 sec_l.dat
+M: Gulf                      sec_m.dat
+N: Zeng                      sec_n.dat
+O: Kamiar                    sec_o.dat
+P: Vast Heavens              sec_p.dat
+
+Bases:
+N = Naval Base
+D = Naval Depot
+S = Scout Base
+W = Scout Way Station
+A = Navy & Scout Bases
+C = Corsair Base
+  = None
+
+Allegiance:
+12 Dd = Domain of Deneb
+05 V6 = Assemblage of 1116
+09 Va = Vargr (independent)
+10 Vf = Dzarrgh Federate
+11 Vu = United Followers of Augurgh
+07 Na = Non-aligned
+04 Cs = Client State
+08    = Unknown

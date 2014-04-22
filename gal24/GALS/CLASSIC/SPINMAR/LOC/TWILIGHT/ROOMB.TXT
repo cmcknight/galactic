@@ -1,0 +1,38 @@
+   
+      Room B
+      ------
+   
+   These rooms are cells. The door will open as characters approach from
+   either side. However, psionic characters will not be able to open the
+   door from the inside - they will have to make a run for it once a
+   non-psion has opened the door (check dex on 2D for success).
+   
+   Each cell contains a zero-gravity sleeping and resting area. Anything
+   placed into this area will float gently; objects thrown into the area
+   will gradually reduce in speed and hover where they stop. Of course,
+   bullets and the like are not slowed down very much by the field. Any
+   player caught in the area will have to make a a roll against their
+   zero-gee combat skill or have external assistance to escape.
+   
+   Each cell also contains a waste disposal unit. It is a small dark
+   disc flush with the floor (read: seamlessly joined to the surrounding
+   floor). Anything inanimate placed onto the disc is teleported away
+   for later disposal. There is no way to cause harm to something
+   (robots) or somebody (other players) using this device.
+   
+   Each cell also includes a table/eating area. Initially this will be
+   a dark half-inch-wide line located about three feet above the floor
+   running horizontally for the width of the table. Touching this line
+   will cause the table to gently slide out. The upper surface of the
+   table is special, nothing can slip off it - no lateral movement of
+   objects on the surface is possible; however, lifting things off the
+   table top is easy. In the middle of the table is a white circle and
+   touching this will cause the day's meal to appear: assorted unknown
+   vegetable leaves and a decent sized dead animal that looks rather
+   spider-like in the middle. The meal is very filling, quite tasty and
+   very crunchy. Sherina has no problems eating the (apparently) freshly
+   killed animal, the other characters will all feel quite queasy about
+   eating it. However, the food is good and no harm will come from eating
+   it. Closing the table is done by gently pushing the table into the
+   wall when there is nothing on the top of the table.
+

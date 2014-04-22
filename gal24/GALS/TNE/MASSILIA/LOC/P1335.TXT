@@ -1,0 +1,12 @@
+Scole E436311-8
+
+Starport: Frontier Quality             Size: Small (5600-7200 km)
+Atmosphere: Very thin                  Hydrographics: 60% water
+Population: 4,000                      Govt: Company/Corporation
+Law Level: Low                         Technology: Pre-Stellar
+     
+Colony set up by Zunarsha Corporation, from Nagiida. In practice, Zunarsha
+Scole is a subsidiary of the main company which operates with a fair degree
+of autonomy.
+
+by Carlos Alos-Ferrer <alos@merlin.fae.ua.es>

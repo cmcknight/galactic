@@ -1,0 +1,39 @@
+@SUB-SECTOR: plankwel   SECTOR: spinmar
+#
+# Trade routes within the subsector
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Asteltine     0931 B7A7402-A    Fl Lo Ni           210 Cs
+Inchin        0938 D12035C-A    Lo Ni Po De        823 Re
+Singer        0940 D553874-6    Po              B  201 Re
+567-908       1031 E532000-8    Lo Ni Po           310 Na
+Avastan       1037 C433520-A    Ni Po              724 Re
+Kwai Ching    1040 C503758-A    Na Va Ic           620 Re
+Faldor        1131 E5936A7-2    Ni                 720 Na
+Bowman        1132 D000300-9  S Lo Ni As           811 Cs
+Squallia      1133 C438779-9                    B  120 Na
+Tarsus        1138 B584620-A    Ag Ni              302 Re
+Walston       1232 C544338-8  S Lo Ni              302 Cs
+Flexos        1233 E5A1422-6    Fl Lo Ni           610 Na
+Collace       1237 B628943-D  S Hi In              201 Cs
+Pavabid       1238 C6679D8-6    Hi Tp           A  201 Cs
+Datrillian    1331 E227733-8                       301 Na
+Nirton        1332 X600000-0    Ba Va           R  011 Na
+Judice        1337 E9B2000-8    Fl Lo Ni RsH       321 Cs
+Trexalon      1339 B361951-C    Hi                 123 Cs
+Motmos        1340 B68478B-5  N Ag Ri Tp           210 Cs
+Noctocol      1433 E7A5847-6    Fl                 202 Cs
+Tarkine       1434 C466662-7  S Ag Ni Ri O:1435 A  810 Cs
+Dallia        1435 B8B5883-9    Fl                 810 Cs
+Talos         1436 E333532-9    Ni Po              820 Na
+Dawnworld     1531 E885000-0    Ba Tp St           025 Re
+Elixabeth     1532 B426467-8  N Lo Ni Mr           201 Re
+Forine        1533 D312AB8-A    Na Hi In Ic        210 Re
+Mertactor     1537 B262732-B  S Cp                 610 Re     m
+Talchek       1631 C7B1462-5    Fl Lo Ni O:1532 A  601 Re
+Milagro       1632 E21188A-7    Na Ic              120 Re
+Pagaton       1634 C769973-4    Hi Tp           B  113 Cs
+Binges        1635 A800231-A    Lo Ni Va           720 Cs
+Mille Falcs   1637 B9A2469-C  A Fl Lo Ni Mr        301 Re

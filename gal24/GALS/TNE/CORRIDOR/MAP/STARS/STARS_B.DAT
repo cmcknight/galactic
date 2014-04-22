@@ -1,0 +1,44 @@
+@SUB-SECTOR: stars_B   SECTOR: corridor
+#
+# Trade routes within the subsector
+#
+#--------1---------2---------3
+#PlanetName   Loc. Stars(s)
+#----------   ---- ---------
+Rexus V       0901 F0 V
+Yopogirp      0906 M8 V G7 D
+Drayne        0910 F3 V M4 V
+Tylupa        1003 M4 V
+Mount         1005 M5 V M8 D
+Wieresh       1006 M5 V
+Byla Hoso     1010 F1 D
+Senizuu       1103 F9 III
+Goseppi       1104 M1 V
+Formation     1107 K0 III M6 D
+Shushaka      1109 M0 V K2 D
+New Vland     1201 M7 V
+Voorghish     1203 M5 V G0 D
+Tetraggoe     1204 M0 V
+Durima        1205 A7 V
+Courage       1207 M0 V
+Kaasu         1209 A6 V
+Latu          1210 M4 V K4 D
+Nakeremma     1301 M6 V
+Iceball       1304 F4 V
+Sebastion     1307 K1 V
+Naasakiira    1309 K7 V
+Oegongrek     1401 G6 V
+Zontra'Lee    1402 M9 V
+Vwogeck       1404 F0 V
+Sluru         1405 M7 V
+Xinox         1408 M4 III
+Draack Elka   1409 G6 V M2 D
+Gwam          1501 M5 V M5 V
+Buianah       1504 G9 V K7 III
+Errd Lomon    1506 K5 V
+Koorfagh      1602 M1 V
+Gagh Veth     1603 F2 V
+Silibast Ti   1605 M5 V F3 V
+Khukish       1606 G9 V
+Shishkala     1607 A2 V
+Veu Belle     1609 M9 V

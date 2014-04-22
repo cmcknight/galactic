@@ -1,0 +1,39 @@
+@SUB-SECTOR: sec_D   SECTOR: vland
+#
+# Trade routes within the subsector
+$2605 2308 -1 0
+$2605 2806 0 0
+$2806 3107 0 0
+$3107 0309 1 0
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Khugan        2501 B623520-9  C Ni Po              623 Va
+Rhodes        2502 B413534-B  N Ni Ic              902 Cs
+Shunisar      2507 D556402-A    Ni                 301 Rv
+Nii           2508 E42558C-6    Ni                 110 Rv
+Daztsoun      2602 C456230-A    Lo Ni              911 V7
+Kaengtsaelzon 2603 B100857-9    Na Va              201 V7
+Fongknoe      2604 C300877-7    Na Va              801 V7
+Raltaedz      2605 B130264-F    Lo Ni Po De       *504 V7
+Malokh        2610 E57167B-6    Ni                 801 Rv
+Ongvaturr     2804 B989642-6    Ni Ri              402 V7
+Paval         2806 B581212-B  N Lo Ni              724 Rv
+Spinport      2808 C575984-B  S Hi In              820 Rv
+Zupilak       2905 D453253-7    Lo Ni Po           634 V7
+Akkunat       2907 C878401-B  S Ni                 101 Rv
+Goobsfol      2909 D344200-9  S Lo Ni              623 Rv
+Ksuerrgh      3002 D32788D-7  C                    914 V7
+Khughfudz     3003 E9A95AC-8  C Ni Fl              220 V7
+Shupin        3004 A511375-A    Lo Ni Ic           434 V7
+Mukata        3006 B310456-D    Ni              A  101 Rv
+Shishaldin    3008 D320652-A  S Na Ni Po De        103 Rv
+Arga          3106 C300999-E  S Hi Na In Va        910 Rv
+Theton        3107 BABA663-B  N Ni Fl Wa Cp        510 Rv
+Thoegzknaedz  3201 C676532-9  C Ag Ni              603 V7
+Vutsarrgh     3202 D665887-4    Ri                 720 V7
+Argonos       3206 D8AA235-7    Lo Ni Fl Wa        620 Rv
+Sardia        3208 D236554-B    Ni                 433 Rv
+Veppim        3209 E684424-9    Ni                 704 Rv
+Tasho         3210 E225300-B    Lo Ni              722 Rv

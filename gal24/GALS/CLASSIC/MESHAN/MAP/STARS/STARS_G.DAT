@@ -1,0 +1,32 @@
+@SUB-SECTOR: stars_G   SECTOR: meshan
+#
+# Trade routes within the subsector
+#
+#--------1---------2---------3
+#PlanetName   Loc. Stars(s)
+#----------   ---- ---------
+Siisharemmir  1712 G0 V
+Uerrsegha     1714 F4 V
+Omoysheb      1716 F3 D
+Daslon        1812 F1 D M1 D
+Uekhuvur      1814 F1 V
+Kakagshu      1815 F3 D M1 D
+Aetna         1819 M2 V
+Uguza         1911 F1 D
+Highball      1916 F7 D M3 D
+Egzing        1919 G1 V M8 D
+Ueksek        2019 M7 V
+Knugogh       2112 F4 D
+Serkur        2114 G3 V
+Ugolakhs      2116 F7 D
+Thaellarrgh   2117 K7 D M5 D
+Kugod         2118 F4 D M5 D
+Khuerkfan     2119 F1 V
+Tutag         2213 F9 V M6 D
+Uenglelon     2219 F4 V M1 D
+Egellaekh     2312 M6 V M7 D M3 D
+Galam         2313 K7 V
+Vakugo        2317 K4 D
+Odh Zizats    2318 F5 V
+Ogngaks       2319 G1 V
+Ironside      2418 F6 D M7 D

@@ -1,0 +1,28 @@
+@SUB-SECTOR: sec_K   SECTOR: yiklerzd
+#
+# Trade routes within the subsector
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Yuss          1725 X564000-0    Ba                 003 Na
+Kakariki      1726 D463650-7    Ni Ri D2           201 Na
+Mivlzhits     1823 XAE9000-0    Ba                 010 Na
+Stelsodr      1830 X463521-3    Ni C7              223 Na
+Storm         1922 A967777-C  M Ag Ri An           833 Na
+Waikikamukau  1926 D243677-7    Ni Po              701 Na
+Fiaf          1928 D8B7300-8    Lo Ni Fl           603 Na
+Flekriabr     2023 C9A8532-8    Ni Fl              230 Na
+Kansh         2028 C8A5979-B  M Hi Fl              304 Na
+Ovdash        2121 E849655-7    Ni                 601 Na
+Ebria         2124 D746976-9    Hi In              402 Na
+Ilosha        2125 E65469C-3    Ag Ni              402 Na
+Mukir         2126 D210421-7    Ni Lo              335 Na
+Shte'drabliech2221 X250644-1    De Ni Po           500 Na
+Sakigu        2224 B000576-A    As Ni              630 Na
+Kishka        2326 D555246-3    Lo Ni              320 Na
+Tiqa          2328 E776777-3    Ag                 811 Na
+Edjinsja      2329 X785464-2    Ni Lo O:2330       403 Na
+She'qil       2330 C9C9201-9    Lo Ni Fl           503 Na
+Sandvyk       2423 B98676B-A  A Ag Ri O:2620       904 AU
+Feilis        2430 X66567A-4    Ag Ni Ri           204 Dr

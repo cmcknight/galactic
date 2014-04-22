@@ -1,0 +1,10 @@
+@SUB-SECTOR: sec_E   SECTOR: riftspan
+#
+# Trade routes within the subsector
+$0711 0507 0 -1
+$0711 0913 1 0
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Eao           0711 C94A4H5-C    Ni Wa              304 As

@@ -1,0 +1,19 @@
+@SUB-SECTOR: Stiy SECTOR: Ustral Quadrant
+#
+$0212 0214 0 0 10
+$0711 0810 0 -1 10
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Ftafiykhokhua 0111 D3517MC-D    Po                 410 As     
+Sei           0113 E79A3M6-9    C2 Lo Ni Wa        604 As 
+Stiy          0212 A6665K8-C    Ag Ni              403 As 
+Touukhaurl    0214 B4664LB-9  T Lo Ni              213 A8     f
+Susteaeakh    0313 X7786L7-5    Ag Ni              214 A2     f
+Stuilyoei     0412 D5812H7-8    Lo Ni              603 As 
+Firlyelyerlar 0413 E4685M8-8    Ag Ni              124 As 
+Hruaryulraiw  0414 CA884H3-7    Lo Ni              120 As 
+Wafai         0519 C5117J9-9  R Ic Na              900 As     
+Hkelrasah     0614 C9844L8-C  T Lo Ni              903 A2      
+Uaeahlaoiykh  0711 A96A4LC-C  T Lo Ni Wa           212 A2     
+Khuiheftah    0717 A5434J8-B  R Lo Ni Po           211 As 

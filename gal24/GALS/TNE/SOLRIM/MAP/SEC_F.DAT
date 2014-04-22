@@ -1,0 +1,36 @@
+@SUB-SECTOR: sec_f  SECTOR: solrim
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Fafhrd        0912 X620000-0    Ba De              005 Un
+Kitchener     0913 XAC8000-0    Ba Fl              022 Un
+Alphanor      0914 X9888R6-8                    B  821 Wi
+Lompoc        0918 D4446RB-8    Ag Ni V:2          310 Wi
+Cuchulain     0919 BA569CA-9    Hi V:1             723 Na     f
+Anacreon      1011 X5627R8-5                       713 Wi
+Tisiphone     1020 X624000-0    Ba                 004 Un
+Dimmurak      1111 X6578RC-4                       204 Wi
+Esperance     1116 X4688UC-7    V:3                311 Wi     f
+Mashaddun     1117 X994000-0    Ba                 020 Un
+Muan Irraudh  1119 X66A7Q5-6    Wa Vg              600 Wi
+Hsuishlesh    1120 X6449CC-A    Hi In Vg           223 Dc     f
+Alpha Indi    1214 X000000-0    Ba As              002 Un
+Ludmilla      1216 X4567U5-7    Ag                 913 Wi     f
+Tunshaon Tyo  1218 X554965-4    Hi Vg(f)        B  312 Wi  
+Umieh         1219 X100000-0    Ba Va              022 Un
+Boqueron      1311 X000000-0    Ba As              001 Un
+Hieronymus    1316 X530000-0    Ba De              013 Un
+Ahhunsal      1318 X521000-0    Ba                 002 Un
+Hsivyu        1320 X133000-0    Ba                 020 Un
+Hokchor       1417 X6475RA-4    Ag Ni Vg(f)        702 Wi
+Muan Ialour   1418 X5567RA-6    Ag Vg(f)           812 Wi
+Ninshien      1419 X59A8TF-8    Wa Vg(f)           724 Wi
+Oort          1511 X5638RA-7    V:1                524 Wi
+Ymir          1512 X6A6000-0    Ba Fl              002 Un
+Dzim Zhia Gwi 1515 X4569R7-0    Hi Vg(f)        B  900 Wi
+Ewmiak        1516 X4529RB-2    Hi Po Vg(f)     B  305 Wi
+Flanders      1517 X7558RB-0                    B  402 Wi     f
+Bellerophon   1519 E88A9Q8-5    Hi Wa           B  533 Wi     f
+Orruiltan Tyu 1616 X121000-0    Ba                 004 Un
+Tyudhuar      1619 D5997RC-7    Ag Vg              512 Wi

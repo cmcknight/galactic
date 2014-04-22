@@ -1,0 +1,40 @@
+Solomani Rim
+
+A: Ultima                    sec_a.dat           f
+B: Suleiman                  sec_b.dat           f
+C: Concord                   sec_c.dat           f
+D: Harlequin                 sec_d.dat           f
+E: Alderamin                 sec_e.dat           f
+F: Esperance                 sec_f.dat           f
+G: Vega                      sec_g.dat           f
+H: Banasdan                  sec_h.dat           f
+I: Albadawi                  sec_i.dat           f
+J: Dingir                    sec_j.dat           f
+K: Sol                       sec_k.dat           f
+L: Arcturus                  sec_l.dat           f
+M: Jardin                    sec_m.dat           f
+N: Capella                   sec_n.dat           f
+O: Gemini                    sec_o.dat           f
+P: Kukulcan                  sec_p.dat           f
+
+Bases:
+N = Naval Base
+O = Terran Outpost
+C = Corsair Base
+D = Naval Depot
+S = Scout Base
+W = Scout Way Station
+A = Navy & Scout Bases
+B = Navy & Scout Way Station
+  = None
+
+Allegiance:
+15 VC = Virus Controlled
+03 TR = Terran Republic
+13 DL = Dingir League
+09 Tc = Terran Client
+05 Dc = Dingir Client
+08 Un = Unpopulated
+04 Wi = Wilds
+02 Na = Non-aligned
+

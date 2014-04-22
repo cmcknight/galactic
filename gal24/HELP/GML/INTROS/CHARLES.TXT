@@ -1,0 +1,42 @@
+
+From: Charles Collin <charles@hebb.psych.mcgill.ca>
+Date: Thu, 9 Jan 1997 08:35:41 -0500 (EST)
+Subject: Hello Fellow Galacticans.
+
+Hi everybody.  I'm glad to see so many people interested in Jim's program,
+it's been a big help to me.  Well, I'm new to this list, and I'm told it's
+good netiquette to introduce one's self:
+
+Charles Collin, Scientist, 2 terms.
+864AD7.  Gaming-3, Psychology-2, Vision Science-2, Computer-2,
+Boomerang-1, Curling-1, Video games-1. 
+
+I'm from Montreal (originally born in the arctic regions of Quebec) and
+I've been playing Traveller for over a decade now.  The original Traveller
+was a godsend when I started getting tired of D&D, but I have to admit
+that after three screwed up versions (IMHO) I'm switching to my own
+system.  My most recent campaign started a couple of months ago, but has
+gone on hiatus for the holidays.  I'm going to start it up again soon with
+my own homegrown rules.
+
+Oh, but don't worry, I'm still using the good ol' Traveller system
+generator and the Traveller history and background, so I'll have plenty to
+contribute to this list.  My main contribution to Galactic has been a set
+of data files containing randomly-generated alien world names and a couple
+of small programs to scramble them up (this last was necessary because to
+the way Galactic sequentially takes names from the files). If memory
+serves, there are now files for Zhodani, Aslan, Vargr (two varieties),
+Darrian, Droyne, and K'Kree.  If anyone wants to make files for other
+races, I can tell them how. 
+
+Well that's itfrom me for now...
+
+Happy Travelling!
+Charles.
+
+Can anything truly meaningful be said in just a single line?  Maybe, maybe
+not.    -Charles Collin. (charles@hebb.psych.mcgill.ca)
+        -Psych. Dept., McGill U., 1205 Dr. Penfield, Montreal, QC. H3A 1B1
+        -http://www.psych.mcgill.ca/labs/cvl/home.html   
+
+

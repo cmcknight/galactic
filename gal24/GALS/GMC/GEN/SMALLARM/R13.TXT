@@ -1,0 +1,47 @@
+r13 Laser Rifle
+
+The r13 laser rifle was introduced into Magellanic service in 2312T, as a
+replacement for the venerable r2. The r13 features a variable discharge
+magazine. Each full power 'shot' actually consists of ten seperate banks of
+superconductors. The firer can also select to discharge one (penertration 3),
+two (penetration 4), or five (penetration 5) banks for each shot. The r13's
+internal magazine contains 200 individual banks (20 full power shots). The
+r13 is also capable of being used as a laser sight/designator and contains an
+intergral 10 hour rechargeable battery for this function (this battery can
+not be used to recharge the magazine). The r13 has been superceaded by the
+c5 snub machine carbine as the standard zero-g weapon in Magellanic service
+but remains a popular weapon with forward observers. The r13 is not currently
+available for sale to civilians.
+
+The r13 is capable of firing either in either single pulse or 4 pulse burst
+mode. At full power the r13 fires a 5mm 7000j pulsed beam, which is downrated
+in proportion to the number of banks discharged in the shot. In sighting mode
+the r13 functions as a 0.01j continuous beam laser. Firing the weapon does
+not disrupt the designator/sight as long as the target is not shifted. The
+r13 can be conected to a variety of standard battery backpacks, all capable
+of recharging up to 1% of their capacity per second. The r13 can also be
+recharged from any standard high energy power connection.
+
+Weapon: r13 laser rifle
+Action: Single frequency (Vis) - single pulse, burst (4)
+Ignition: Electric
+Tech Level: 11
+Calibre: 5mm pulse
+Penetration: 6
+Range: short
+Malfunction: reliable
+Shots: 20
+Mass: 4.8kg
+Reloads: 20.1kg
+Length: 49.4cm
+Cost: Cr 2630
+Incidentals: 1000 bank rechargeable battery pack: Cr 140 (20.1kg)
+             4000 bank disposable battery pack: Cr 70 (20.1kg)
+             500 bank rechargeable battery pack: Cr 70 (10.1kg)
+             2000 bank disposable battery pack: Cr 35 (10.1kg)
+             250 bank rechargeable battery pack: Cr 35 (5.1kg)
+             1000 bank disposable battery pack: Cr 17.5 (5.1kg)
+             200 bank rechargeable battery pack: Cr 28 (4.0kg)
+             800 bank disposable battery pack: Cr 14 (4.0kg)
+             100 bank rechargeable battery pack: Cr 14 (2.0kg)
+             400 bank disposable battery pack: Cr 7 (2.0kg)

@@ -1,0 +1,48 @@
+@SUB-SECTOR: Ftea SECTOR: Ustral Quadrant
+#
+$0821 0822 0 0 10
+$0330 0230 0 0 11
+$0230 0132 0 1 11
+$0821 0921 1 0 10
+$0421 0621 0 0 10
+$0621 0822 0 0 10
+$0822 0923 1 0 10
+$0830 0929 1 0 11
+$0830 0831 0 1 11
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Yekta         0125 B566434-A  F Lo Ni              912 Na 
+Hao           0130 C8A35K7-8  M Fl Ni              502 TE 
+Ouye          0224 C87987B-8                       814 Na    
+EUEAWIYS      0226 EA999MC-7    Hi In              724 TE 
+Ualawekh      0227 C2005M6-9    Ni Va              200 TE 
+Hkuil         0228 E5915KB-5    Ni                 722 TE 
+Earlrao       0230 A3105J3-E  J                    502 TE 
+IRISTAORLEIH  0323 X776976-0    Hi In           R  600 Na     f
+Ftoileieah    0328 E4227J2-7    Na Po              920 TE 
+Ayoreisti     0330 B4535H2-A  F Ni Po              500 TE 
+EISYUH        0421 E6679H9-9    C2 Hi              503 As  
+Eakhei        0422 C76A669-5  M Ni Ri Wa O:(0524   800 Na
+Ktao          0425 A233000-E    Ba Lo Ni Po        202 Na 
+Kakhuhauwaih  0427 B200330-D  J C0 Lo Ni Va        312 Na  
+Ei            0429 E4443G2-5    Lo Ni              124 TE 
+Hweilea'ei'   0523 C302345-B  M Ic Lo Ni Va        804 Na 
+Uh            0524 A130313-E  M De Lo Ni Po        605 Na 
+Aowi'oi'iy    0525 E535799-7                       313 Na 
+Hta           0526 B6A0611-B    De Ni              523 Na 
+Ftaoeaor      0621 B2008NB-E    Na Va              303 As 
+Hlaiuakti     0623 A250568-C  J De Ni Po O:(0625   800 Na
+Keaaikhtiyah  0625 A629430-D  J Lo Ni              214 Na 
+Ihealul       0626 B6B4411-9  J Fl Lo Ni           303 Na  
+Saryehiy      0629 CA5A5M2-B    Ni Wa              300 If 
+Ealeafeatreis 0723 B240203-8  J De Lo Ni Po        410 Na 
+U'eihyoesea   0724 C88A633-9    Ni Wa              203 Na 
+Aftyakhteia   0725 E668556-6    Ag Ni              102 Na 
+Fahlya'ya     0728 A400332-E  F Lo Ni Va           720 Na 
+Ehreasil      0730 D4754J7-7    Lo Ni              620 If 
+FTEA          0821 D1409H3-8    De Hi In Po        200 As  
+Eau           0822 A5280G9-E    Lo Ni              903 As 
+Aowawuheistea 0824 B302345-B  J Ic Lo Ni Va        303 Na  
+Uiryeh        0827 C884342-8    Lo Ni              924 Na 
+IWYAKHIYRASEI 0830 B5969KC-A  M Hi In              114 If 

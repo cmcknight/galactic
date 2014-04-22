@@ -1,0 +1,65 @@
+
+From: lwlguatn@ouray.cudenver.edu (Leroy W.L. Guatney)
+Date: Sun, 5 Jan 1997 14:25:16 -0700
+Subject: Hello...
+
+Hi, my personal bio is as follows:
+
+Leroy W.L. Guatney
+lwlguatn@ouray.cudenver.edu
+
+I have been a Traveller enthusiast from the beginning. I published several
+articles in the _Journal of the Traveller's Aid Society_ (#22,24) and assisted
+Marc Miller with the development of the _Atlas of the Imperium_. I am credited
+in MegaTraveller, and developed the baseline Spinward Marches and Deneb sector
+data for the T:TNE Regency Sourcebook. I still referee my campaign from a
+(primarily) Classic Traveller rules base with my own background setting. I
+generically call this T++, in lieu of T1, T2, T3 and T4, but I am willing to
+look at anything published.
+
+I am the Quadrant IV coordinator for the History of the Imperium Working Group,
+a Traveller fan organization. I am presently working on sector development of
+Crucis Margin, Leonidae, Phlask, and Langere. I have a number of Hiver sectors
+in progress as well. I have just started a "fresh" Traveller campaign in the
+Crucis Margin and Leonidae as well as adjacent sectors already fleshed out.
+
+The HIWG Quadrant IV includes all sectors rimward, trailing, or in between,
+and including Massilia in the Imperium. As editor for HIWG, I facilitate the
+development of sectors in the region through sector analysts.
+
+In support of Traveller sector development, I have written TrdB: 2.0, a
+Traveller database family of programs. TrdB: 2.0 mechanizes ALL Traveller
+rules as related to world generation (with one exception) and provides the
+developer with a software support system to develop and evolve sectors through
+the course of adventures in a campaign. While TrdB: 2.0 uses its own unique
+internal storage representation, a utility exists to create a sector listing
+dump of the data into the standard "SEC" format available on the internet and
+used by the original data files GDW/DGP published from.
+
+One program in TrdB: 2.0 serves well as a part of the database or as stand-alone
+and I have made it public domain. It should be downloadable from my web page
+if anyone would like to use. I say "should" because the HIWG ftp site in Norway
+recently underwent some drastic changes and may not be accessible. Interested
+parties should contact me if they can not get the ZIP file. The program is
+TrWords and contains ALL of the published language tables and mechanizes their
+generation (saving an immense number of die rolls). The program's parameters
+allow the user to customize such things as maximum word length, syllable count,
+number of words (generated to the screen or a DOS text file), etc.
+
+Present expansion of the software is in two areas: minor enhancement and the
+addition of full support for Scouts expanded world generation, which is at
+present only supported by the user's manual intervention. All published alien
+world generation from Classic Traveller's Alien Modules are included in that
+support as well.
+
+I have been publishing the rules development of an Update for the Scouts
+expanded world generation on my web page, reachable at:
+
+  http://ouray.cudenver.edu/~lwlguatn
+
+I believe my Spica sector development is to be/is included in Galactic.
+
+Leroy Guatney                           http://ouray.cudenver.edu/~lwlguatn/
+lwlguatn@ouray.cudenver.edu               `I say, nuke the site from orbit.'
+
+

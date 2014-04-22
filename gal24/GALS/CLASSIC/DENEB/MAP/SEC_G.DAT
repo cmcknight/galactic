@@ -1,0 +1,37 @@
+@SUB-SECTOR: sec_G   SECTOR: deneb
+#
+# Trade routes within the subsector
+$2111 1910 0 -1
+$2111 2413 0 0
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Petrarch      1712 B554853-8  A                    210 Dd
+Stoyben       1713 D21356A-8  S Ni Ic              211 Dd
+Andalia       1714 C87A447-6    Ni Wa           A  903 Dd
+Reims         1716 C624779-6                       601 Dd
+Kennebec      1717 E978552-6    Ag Ni              523 Dd
+Polizzi       1719 B402532-E    Ni Va Ic           823 Dd
+Karst         1814 B87679B-6    C2 Ag              133 Dd
+Donu-na       1917 C460850-B    Ri De              525 Dd
+Shinorasus    1918 A410200-E    Lo Ni              203 Dd
+Orenberg      2011 B130678-E    Na Ni Po De        201 Dd
+Twinian       2013 C40447B-7  S Ni Va Ic           702 Dd
+Zinuun        2014 E2367BA-5                       911 Dd
+Ugrik         2016 E300000-7    Lo Ni Va Ba        321 Dd
+Ruwenzori     2017 E749024-7    Lo Ni              303 Dd
+Namidshur     2019 B2106A9-D  S Na Ni              215 Dd
+Diiski        2111 C66A200-8    Lo Ni Wa           812 Dd
+Kadidun       2114 D5A2003-9  S Lo Ni Fl           220 Dd
+Piram         2116 E311777-4    Na Ic              611 Dd
+Cunha         2117 C62677C-7                       324 Dd
+Teatro        2120 C8A78CA-7    Fl                 903 Dd
+Imlaar        2212 D677551-6  S Ag Ni              423 Dd
+Torm          2220 C456445-9  S Ni                 134 Dd
+Giikusu       2316 E647ABC-B    Hi In              105 Dd
+Lan-chou      2317 D855788-7  S Ag                 120 Dd
+Nibel         2411 E688303-4    Lo Ni              701 Dd
+Pagamin       2412 C371114-8    Lo Ni              502 Dd
+Dunmag        2413 A427138-C  N Lo Ni Cp           201 Dd
+Jurburk       2414 B454033-B  N Lo Ni              802 Dd

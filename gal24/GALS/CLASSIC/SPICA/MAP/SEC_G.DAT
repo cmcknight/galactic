@@ -1,0 +1,32 @@
+@SUB-SECTOR: sec_g   SECTOR: Spica
+# 
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Foreseven     1712 C5678A8-4    H:0                200 Na
+Xoar Zeta     1714 C31156B-8    Ni Ic Nh C:2003    402 Xh
+Nehndil       1717 C550205-A    Lo Ni Po De        105 Hv
+Egesta        1718 E7B4306-8    Fl Lo Ni           720 Hv
+Upsilon       1811 C4017BB-9    Na Va Ic           904 Na
+Tsent         1818 A765961-A    T:5 Hi Tn St       103 Hv
+Lelihr        1819 B7986I4-9    Ag Ni Tp           323 Hv
+Raral         1820 E58A562-B    Ni Wa O:1721       510 Hv
+Delea I       1913 C231675-9    Na Ni Po           600 Na
+Caldor        1914 C377547-5    Ag Ni              214 Na
+Sorgho        1919 B6A4852-C    Fl                 803 Na
+Aesop         2015 C895356-7    Lo Ni Tp           600 Na
+Adamantium    2113 A201354-D    Lo Ni Va Ic        300 Na
+Rasomb        2117 B464202-C    Lo Ni              602 Hv
+Deru Nooq     2118 A8628I2-C    Ri                 210 Hv
+Zokel         2120 C6348I3-C                       534 Hv
+Nandan        2218 B440204-E    Lo Ni Po De        614 Hv
+Dapan         2219 C411106-9    Lo Ni Ic           320 Hv
+Raphael       2312 C550545-6    Ni Po De           303 Na
+Gabriel       2313 C7C5444-B    Fl Lo Ni           804 Na
+Cache         2314 C8B59BA-A    Fl Hi              704 Na
+Triarchos     2317 C520477-9    Lo Ni Po De        412 Na
+Baren         2318 A6519I4-B  E Hi Po              100 Hv
+Piyrul        2320 E5305I4-8    Ni Po De           700 Hv
+Michael       2412 B00078A-C    Na As              122 Na
+Nyebal        2420 B231104-A    Lo Ni Po           713 Hv

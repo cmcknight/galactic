@@ -1,0 +1,33 @@
+@SUB-SECTOR: sec_H   SECTOR: canopusc
+#
+# Trade routes within the subsector
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Sumter        2516 X7B7000-0    Ba Fl              004 --
+Klerak        2518 X9E3A6A-6    Hi              B  123 Wi
+Beltene       2612 X410000-0    Ba                 004 --
+Sandra        2616 X210000-0    Ba                 023 --
+Berlin        2618 X789456-2    Lo Ni           B  224 Wi
+Tampa         2712 D4635A6-7    Lo Ni              402 Wi
+Rowland       2713 E87378B-1                    B  504 Wi
+Daynelman     2714 E668554-6    Ag Lo Ni        B  111 Wi
+Plomber       2715 D374137-7    Ag Lo Ni           213 Wi
+Sibilla       2716 X444000-8    Ag Ba              012 Wi
+Sourte        2719 X000000-0    As Ba              004 --
+Morag         2811 X200000-0    Ba Va              004 --
+Quasar        2815 X56A343-0    Lo Ni Wa        B  013 Wi
+Ydonea        2816 X512000-0    Ba Ic              001 --
+Mayflower     2819 X79A736-8    Wa                 214 Wi
+Lysenko       2912 X463010-7                       012 Wi
+Wavenhair     2914 X300000-0    Ba Va              022 --
+Bertie        2915 X47836D-2    Ag Lo Ni        B  303 Wi
+Mehos         2919 X300000-0    Ba Va              004 --
+Vaymo         3012 X969A66-7    Hi              B  111 Wi
+Tatoria       3014 D582650-5    Ni Ri           B  714 Wi
+Cayvell       3019 X95887C-9                    B  304 Wi
+Hubbell       3112 X758003-4    Ag Ba              033 Wi
+Sarna         3115 X536000-0    Ba                 002 --
+Engoliothil   3214 X120000-0    Ba De              015 --
+Tylleson      3216 X400000-0    Ba Va              024 --

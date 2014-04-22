@@ -1,0 +1,33 @@
+@SUB-SECTOR: sec_D   SECTOR: canopusc
+#
+# Trade routes within the subsector
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Propera       2503 D585579-5    Ag Lo Ni           124 Wi
+Falthane      2505 E758769-6                    B  412 Wi
+Moncaire      2506 X482569-3    Lo Ni           B  002 Wi
+Ided          2508 D494412-5    Ag Lo Ni           400 Wi
+Tall Tree     2509 X693668-6    Ni              B  124 Wi
+Erik          2603 X555301-4    Ag Lo Ni           304 Wi
+Infelice      2605 C9D6754-6  S                 B  423 Wi
+Siegmund      2606 D776331-5    Ag Lo Ni           213 Wi
+Giacomo       2610 C9789AD-6    Hi In           B  203 Wi
+Methuselah    2702 X638000-0    Ba                 010 --
+Peale         2802 C457473-7    Ag Lo Ni           103 Wi
+Ijaz          2808 X330000-0    Ba De              004 --
+Greneake      2810 X9C0000-0    Ba De              000 --
+Silverman     2901 D66A348-6    Lo Ni Wa           404 Wi
+Apmond        2906 C545613-7    Ni                 102 Wi
+Adalbeort     2908 X320000-0    Ba De              015 --
+Callipygia    2909 X658888-8                       102 Wi
+Unteel        3003 X120000-0    Ba De              000 --
+Yar           3101 E897AAB-8    Hi In           B  103 Wi
+Ramada        3102 X99A565-2    Lo Ni Wa        B  304 Wi
+Sargent       3108 X330000-0    Ba De              003 --
+Simmons       3109 X525000-0    Ba                 004 --
+Khan          3201 X728000-0    Ba                 023 --
+Giorsal       3203 X523000-0    Ba                 003 --
+Ruel          3207 DA9A547-9  N Lo Ni Wa        B  304 Wi
+Elliot        3208 X568301-1    Ag Lo Ni        B  115 Wi

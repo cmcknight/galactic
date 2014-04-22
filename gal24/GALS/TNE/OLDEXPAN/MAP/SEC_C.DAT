@@ -1,0 +1,33 @@
+@SUB-SECTOR: sec_c   SECTOR: oldexpan
+#
+#--------1---------2---------3---------4---------5-----f----6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Dredel        1702 X257100-3    Lo Ni              323 Wi
+Shilhen       1709 E5652O0-4    Lo Ni              421 Wi
+Yestor        1710 D6674U9-3    Lo Ni C:1       B  404 Wi
+Simblent      1802 X57A6RA-6    Ni Wa              901 Wi
+Ahri          1803 X3577UC-4    Ag                 903 Wi
+Lhmoore       1804 X122000-0    Ba Po              023 Un
+Zell          1805 X8A6000-0    Ba Fl              023 Un
+Abeare        1806 D4535Q7-7    Ni Po           B  412 Wi
+Louks         1809 X9DA6V7-7    Fl Ni Wa        B  604 Wi
+Fulinara      1904 D5663M3-5    Lo Ni              323 Wi
+Debruler      1906 X9A6000-0    Ba Fl              004 Un
+Algren        1907 X6538Q7-7    Po D:4             112 Wi
+Silvis        1909 D3445P7-6    Ag Ni              403 Wi
+Biros         1910 X5942N5-5    Lo Ni              204 Wi
+Ince          2003 E465100-5 S  Lo Ni              500 Wi
+Arend         2004 XAB8000-0    Ba Fl              000 Un
+134-635       2005 X6A5000-0    Ba Fl              013 Un
+Dese          2006 X57A7T6-5    Wa              B  624 Wi
+Phoub         2008 X4473M2-4    Lo Ni           B  203 Wi
+Drand         2103 C5447TA-8 S  Ag D:3             701 Wi
+Yeaph         2105 E6752M2-4    Lo Ni              404 Wi
+Thal          2203 D5991M3-6    Lo Ni              201 Wi
+Imdra         2204 X8673M1-2    Lo Ni           B  402 Wi
+Millington    2210 D48A7O0-5    Wa C:4          B  901 Wi
+Vate          2305 X221000-0    Ba Po              003 Un
+Tesb          2403 X77A5SA-6    Ni Wa           B  303 Wi
+Calan         2405 X834000-0    Ba                 004 Un
+Kize          2410 X100000-0    Ba Va              010 Un

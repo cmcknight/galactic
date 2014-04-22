@@ -1,0 +1,52 @@
+@SUB-SECTOR: sec_F   SECTOR: ealiyasi
+#
+# Trade routes within the subsector
+$1112 0712 -1 0
+$1112 1010 0 -1
+$1112 0911 0 0
+$0911 0912 0 0
+$0911 1010 0 -1
+$1112 1311 0 0
+$1311 1410 0 -1
+$1311 1412 0 0
+$1414 1410 0 -1
+$1118 1318 0 0
+$1318 1619 0 0
+$1619 1819 1 0
+$1617 1619 0 0
+$1619 1521 0 1
+$1519 1716 1 0
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Hla'ei        0911 A5559HB-E    Hi                 914 As
+Iykhiyea      0912 A6635J8-B    Ni                 113 As
+Khisktoeea    0914 C1003N6-9    Lo Ni Va           104 As
+Uahoar        0915 E5106L5-7    Na Ni              102 A5
+Hwuarloauilr  0920 C2001J8-8    Lo Ni Va           104 As
+Ohaiyu'o      1012 E6474N7-5    Ni                 703 As
+Laaisea       1016 E8689N7-A    Hi                 423 As
+Alausiy       1017 C8944N6-7    Ni                 504 As
+Areaolrrealr  1019 D6654L9-8    Ni                 102 A3
+Khihaua       1111 E8691KA-9    Lo Ni              714 As
+Ahhyoe        1112 A5353G6-C  T Lo Ni              604 As
+Eakhta        1118 A677ANA-E  R Hi In              903 As
+Hkoikheaoha   1212 E3100GB-9                       704 As
+Eawkta'a      1218 C8665H5-A    Ag Ni              603 As
+Syiauhktaorl  1220 A7826J6-E    Ni Ri              813 As
+Esyah         1311 A110AH3-E    Hi In Na           204 As
+Iylarlyawsieae1318 B6776H2-B    Ag Ni              104 As
+Eaealearl     1319 C3236MB-C    Na Ni Po           414 As
+Oirleea       1412 B4534J5-D    Ni Po              505 As
+Eaeayaah      1414 A6582G7-9    Lo Ni              704 As
+Aihktiyuahkhei1415 C3005H9-C    Ni Va              513 As
+Sahkhaiyar    1417 E1002K8-8    Lo Ni Va           500 As
+Yorloai       1511 C3514K8-7    Ni Po              804 As
+Aolraaaleahaw 1512 C9C26K5-A    Fl Ni              324 As
+Eyeolyoawtear 1517 C6873NA-C    Lo Ni              513 As
+Iwouhstayes   1519 A2106M4-E  R Na Ni              400 As
+Aihoalr       1614 C3108M6-A    Na                 305 As
+Aoeilrau      1617 A1006J5-D    Na Ni Va           200 As
+Khehoirl      1619 A7773G4-E    Lo Ni              814 As
+Ahroaea       1620 C5346M8-A    Ni                 514 As

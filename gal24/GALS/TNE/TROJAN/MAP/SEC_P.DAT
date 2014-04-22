@@ -1,0 +1,9 @@
+@SUB-SECTOR: sec_P   SECTOR: trojan
+#
+# Trade routes within the subsector
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Sarage        2938 B440623-D  J Ni Po De Rs        302 Na     f
+Auitawry      3140 A5668XA-F  P Ri An           R  514 Dr     f

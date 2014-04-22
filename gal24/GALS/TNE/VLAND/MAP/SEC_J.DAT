@@ -1,0 +1,24 @@
+@SUB-SECTOR: sec_J   SECTOR: vland
+#
+# Trade routes within the subsector
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Ganiir        0921 X423000-0    Ba Po              005 --
+Gazzum        0923 X54966D-2    Ni                 420 Wi
+Shugandarsii  0924 X745512-6    Ag Ni              101 Wi
+Havland       0927 X793857-6                    B  201 Wi
+Gokodeyo      0930 X581888-3                    B  110 Wi
+Apurshish     1028 C55586A-9                       723 Na     f
+Shakshim      1128 XAD4000-0    Ba                 001 --
+Sumabaal      1227 X232000-0    Ba Po              001 --
+Robbuun       1323 X524000-0    Ba                 002 --
+Ilma          1523 X510000-0    Ba                 001 --     f
+Bakog         1530 X8A9000-0    Fl Ba              032 --
+Etsur         1623 X410000-0    Ba                 020 --
+Zushar        1624 X631000-0    Ba Po              011 --
+Bashimus      1625 X542410-5    C:5 Lo Ni Po       520 Wi
+Lalazim       1626 X8C4000-0    Fl Ba              010 --
+Akumid        1628 X867325-7    Lo Ni              323 Wi
+Kanoka        1630 X7B0000-0    Ba De              003 --

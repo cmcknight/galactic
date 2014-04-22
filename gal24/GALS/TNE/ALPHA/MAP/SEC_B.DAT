@@ -1,0 +1,32 @@
+@SUB-SECTOR: McKenzie   SECTOR: alphaleo
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Endyf         0903 X7A7000-0    Ba                 003 Un 
+Ychanon       1002 X100000-0    Ba Va              010 Un
+Leeds         1004 X322000-0    Ba                 005 Un
+Phaedrus      1006 X89A3Q2-3    Lo Ni Wa        B  420 Wi     f
+Patrent       1101 X8A0000-0    Ba                 011 Un
+Winona        1104 X9A7000-0    Ba                 024 Un
+Chapman       1109 X000000-0    As Ba              002 Un
+Pickwick      1205 X310000-0    Ba                 004 Un
+Dixie         1208 C54A2M2-9    Lo Ni Wa           303 Wi     f
+Sevastopol    1209 X5691M0-5    Lo Ni              514 Wi
+Wabash        1210 E5567O4-6    Ag                 804 Wi     f
+Fairday       1303 X100000-0    Ba                 023 Un     f
+Seward        1304 E4456U8-7    Ag                 204 Wi
+New Paris     1305 E7857O4-6    Ri Ag           B  200 Wi
+Chaptoye      1401 X110000-0    Ba                 005 Un
+Marguerite    1402 X100000-0    Ba                 004 Un
+Grady         1406 X000000-0    Ba As              000 Un
+Shade         1408 X300000-0    Ba                 002 Un
+Hastings      1409 X9974O4-8    Lo Ni              212 Wi
+Ruskin        1505 X200000-0    Ba                 000 Un
+Port Royal    1506 X210000-0    Ba                 003 Un
+Savah         1508 X6662N3-7    Lo Ni              300 Wi
+Eby           1602 X110000-0    Ba                 012 Un
+Hartford      1603 X6767RB-5    Ag              B  200 Wi
+Colfax        1605 D654200-8  S Lo Ni              411 Wi     f
+Surrey        1606 X300000-0    Ba                 012 Un
+Morningside   1608 X792000-0    Ba                 013 Un     f

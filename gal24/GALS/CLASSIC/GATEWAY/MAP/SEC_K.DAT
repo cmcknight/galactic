@@ -1,0 +1,44 @@
+@SUB-SECTOR: k SECTOR: Gateway
+#
+# Jump-routes
+$2329 2429 0 0 9
+$2429 2630 1 0 9
+$1721 1520 -1 -1 14
+$1721 1921 0 0 14
+$1921 2020 0 -1 14
+$1921 2022 0 0 14
+$2022 1924 0 0 14
+$1924 2125 0 0 14
+$2125 2224 0 0 14
+$2224 2423 0 0 14
+$2022 2222 0 0 14
+$2222 2423 0 0 14
+$2423 2624 1 0 14
+$1725 1622 -1 0 11
+$1725 1424 -1 0 11
+$1725 1527 -1 0 11
+$1725 1924 0 0 11
+$1725 1926 0 0 11
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Trindel       1725 B565989-C  N Hi                 214 Tr
+Viyard        1829 B76A788-A    Wa                 311 Vi
+Gravin        2424 E654100-8    Na In           A  902 Na
+Starbelt      1924 A000447-7    Ni As              911 Tr
+Tangist       1930 C336256-3    Ni                 802 Vi
+Lanu          1721 C410410-8    Ni                 213 Na
+Desdemone     2022 C454033-A    Lo Ni              812 Na
+Hopewell      2224 D584800-1                       712 Na
+Ashton        1926 B67377B-5                       914 Tr
+Oceanis       2125 B67A799-7    Ri Wa              201 Na
+Bonnhelm      1921 B650345-A  N De Ni Po           922 Na
+Red Gulf      1928 D637784-A                       103 Na
+Marina        1724 E77A669-7    Ni Ri Wa           712 Tr
+Megucorp Aplha2429 C77999A-9    Hi In              312 Me
+Archipelago   1726 B78A657-A  N Ni Ri              516 Tr
+Agramenx      2127 D837897-5                       815 Na
+Dover         2423 A8999A6-9    Hi In              113 Na
+Dolmen        2329 D942987-7    In                 412 Me
+Vole          2222 C9919B9-A    In Hi              111 Na

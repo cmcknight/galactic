@@ -1,0 +1,34 @@
+@SUB-SECTOR: sec_L   SECTOR: sorted
+#
+# Trade routes within the subsector
+$2521 2121 -1 0
+$2521 2821 0 0
+$2821 2920 0 -1
+$2821 3024 0 0
+$3024 3029 0 0
+$3026 2628 0 0
+$3026 0126 1 0
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Ikuk          2521 A779769-E                       813 Im
+Cymbeline     2527 A9F4840-E    Fl                 612 Im
+Tewfik        2528 A524945-D    Hi In              303 Im
+Hathor        2623 A78A997-8    Hi Wa              414 Im
+Melchior      2626 A4569CC-D    Hi                 203 Im
+Scandia       2628 A658969-F  N Hi                 502 Im
+Tunguska      2722 C422720-D    Na Po              614 Im
+Anenerkuk     2723 A56A764-F  N Ri Wa              813 Im
+Tamarind      2729 C9A2869-E    Fl                 620 Im
+Jael          2821 A35789A-F  W Cp                 423 Im
+Arcturus      2921 C000364-F    Lo Ni As           320 Im
+Epirus        2928 B1387B4-E                       322 Im
+Lamarck       3024 A763886-D    Ri                 804 Im
+Thorwald      3026 A559869-E                    A  702 Im
+Harappa       3028 D87516A-E    Lo Ni              721 Im
+Kurland       3029 A6879CA-E  N Hi                 722 Im
+Bolivar       3127 B526448-E    Ni                 813 Im
+Strackenz     3130 D423110-F    Lo Ni Po           923 Im
+Heraklion     3221 D343312-E    Lo Ni Po           903 Im
+Jorjor        3225 B641888-7    Po                 100 Im

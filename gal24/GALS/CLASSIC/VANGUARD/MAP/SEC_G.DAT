@@ -1,0 +1,23 @@
+@SUB-SECTOR: sec_G   SECTOR: vanguard
+#
+# Trade routes within the subsector
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+BUXOMWORLD    1720 C95A9A6-7    Hi Wa           A  112 Na
+Claudet       1811 A114836-B  J Ic              G  305 Na
+Sadowa        1813 B86A322-A  J Lo Ni Wa        G  415 Na
+Billingsgate  1911 B645889-B  F                 G  812 Na     f
+New Harmony   1916 B565766-8    Ag Ri     2015     824 Na
+Corymb        1918 E677636-5    Ag Ni              514 Na
+Constance     2014 B96A7A4-8    Wa                 823 Na
+HARMONY       2015 A4039C9-9  F Hi Ic Na Va        823 Na     f
+Enterprise    2016 B7668A5-5  J                    323 Na
+Naturalin's W.2120 E696214-4    Lo Ni           G  603 Na     f
+Anhinga       2211 B9B7248-7  M Fl Lo Ni           803 Na
+Digenis Ak.   2217 E250410-7    De Ni Po           704 Na     f
+Calabash      2315 D692777-2                       502 Na
+Phalarope     2319 C310525-6    Ni                 503 Na
+Temnikov      2413 C868200-9    Lo Ni              505 Na
+Ffestinog     2420 D110200-6    Lo Ni              103 Na

@@ -1,0 +1,22 @@
+@SUB-SECTOR: sec_h  SECTOR: oldexpan
+#
+#--------1---------2---------3---------4---------5-----f----6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Dorp          2511 X433000-0    Ba Po              015 Un
+Warner        2611 X5646SA-6    Ag Ni C:4          602 Wi
+Pradock       2711 E5677P2-5    Ag                 913 Wi
+Fentel        2811 DA786SA-7  S Ag Ni              822 Wi
+Doerr         2814 X110000-0    Ba                 004 Un
+Barron        2816 X300000-0    Ba Va              003 Un
+Torrel        2818 E3578U8-6  S                    404 Wi
+Nash          2911 X122000-0    Ba Po              003 Un
+Garz          2914 X8A6000-0    Ba Fl              014 Un
+Kalemn        2916 D4535S9-7    Ni Po              414 Wi
+Paro          2917 X9CA000-0    Ba Fl Wa           003 Un
+The Edge      2920 X7A6000-0    Ba Fl              012 Un
+Quen          3012 E5663M5-4    Lo Ni C:3          422 Wi
+Yesta         3015 C3577W9-9    Ag                 302 Wi
+Carris        3111 X9A6000-0    Ba Fl              004 Un
+Srzilkrozia   3212 X6537P0-7    Po C:1          B  623 Wi
+Kresh         3213 E6413Q5-7    Lo Ni Po           405 Wi

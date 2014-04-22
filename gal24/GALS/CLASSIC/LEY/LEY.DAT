@@ -1,0 +1,32 @@
+Ley Sector
+
+A: Ikhnaton                  sec_a.dat           f
+B: Nightmare                 sec_b.dat           f
+C: Noir Deep                 sec_c.dat           f
+D: Zagrathian                sec_d.dat           f
+E: Spearhead                 sec_e.dat           f
+F: Guadix Drift              sec_f.dat           f
+G: Titanstorm                sec_g.dat           f
+H: Osiris Deep               sec_h.dat           f
+I: Highlord                  sec_i.dat           f
+J: Matarishan Fed            sec_j.dat           f
+K: Frontier Wrlds            sec_k.dat           f
+L: Sydymic Empire            sec_l.dat           f
+M: Satyressia                sec_m.dat           f
+N: Outreaumer                sec_n.dat           f
+O: Diamond-Prince            sec_o.dat           f
+P: Outworld                  sec_p.dat           f
+
+Bases:
+A = Navy & Scout Bases
+N = Naval Base
+S = Scout Base
+2 = Navy & Scout Bases
+  = None
+
+Allegiance:
+10 Im = Imperial
+11 Sy = Sydymic Empire
+12 Cs = Client State
+13 Na = Non-aligned
+07    = Unknown

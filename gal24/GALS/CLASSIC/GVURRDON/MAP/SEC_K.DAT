@@ -1,0 +1,48 @@
+@SUB-SECTOR: sec_K   SECTOR: gvurrdon
+#
+# Trade routes within the subsector
+#
+$2030 2232 0 1 2
+$2030 2129 0 0 2
+$2129 2025 0 0 2
+$2025 2123 0 0 2
+$1721 1919 0 -1 4
+$1721 1623 -1 0 4
+$1724 1623 -1 0 4
+$1724 2023 0 0 4
+$1830 1631 -1 1 9
+$1830 1631 -1 1 8
+$1830 1930 0 0 4
+$1728 1527 -1 0 9
+$1728 1830 0 0 9
+$1728 1726 0 0 9
+$1726 1623 -1 0 9
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Ungan         1721 B402122-D  G Lo Ni Ic Va        423 Vq
+Tsounduekfegun1722 B246455-C    Ni                 201 Vq
+Ouse Faeg     1724 A69476A-B  G Ag                 222 Vq
+Aengvoung     1726 A682766-B    Ri                 620 Va
+Ankhir        1728 C6869BB-7    Hi                 613 Va     f
+Tirrokoelaegz 1821 B463645-A    Ni Ri              312 Vq
+Lurraengfangno1823 E476232-8    Lo Ni              210 Vq
+Vaersngurr    1830 A99A873-C    Wa Cp              503 Vr
+Gnoengungag   1923 B759623-7    Ni                 734 Vq
+Dzenzaega     1924 B20189B-7    Na Ic Va           701 Vq
+Asurrorr      1930 C000526-B    Ni As              813 Vr
+Ueksgug       2022 A576235-A    Lo Ni              235 Vq
+Rredzutsaezoug2023 B100BAC-D    Na Va              122 Vq
+Angasaer      2025 B88A846-9    Ri Wa              201 Va
+Kfenkudhuegzo 2029 B656120-7    Lo Ni              320 Vr
+Gurzhvoursivaz2030 B642410-A    Ni Po              702 Vr
+Tagnaghoutsoza2123 B86A755-9    Ri Wa              201 Vq
+Aellaesgvarzat2128 A231355-G  C Lo Ni Po           210 Va
+Gaekloungoerza2129 A697A78-G    Hi In              834 Va
+Gnael Oer     2226 B10078C-7  C Na Va              403 Va
+Kueng         2229 A762116-D    Lo Ni              701 Va
+Orsesokhin    2323 A000874-F    Na As              110 Vt
+Gaelaeth      2329 C360AC9-A    Hi De An           614 Va
+Thoegzekkfak  2422 A483520-B    Ni                 801 Vt
+Llueng        2424 C511345-7    Lo Ni Ic           601 Vt
+Okhtous       2425 E355374-3    Lo Ni              301 Vt

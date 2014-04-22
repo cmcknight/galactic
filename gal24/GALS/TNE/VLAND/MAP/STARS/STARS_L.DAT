@@ -1,0 +1,50 @@
+@SUB-SECTOR: stars_L   SECTOR: vland
+#
+# Trade routes within the subsector
+#
+#--------1---------2---------3
+#PlanetName   Loc. Stars(s)
+#----------   ---- ---------
+Kakhashedir   2524 M7 V
+Daapuken      2526 G9 V M8 V
+Kaple         2527 K0 V
+Shummnish     2528 M2 V
+Thaggesh      2530 F8 V M2 V M6 V
+Malvar        2621 F7 V M0 V
+Shera         2624 M7 V
+Taluza        2627 M3 III
+Floranus      2628 M7 V M6 V
+Rikaan        2629 M4 V
+Nodden        2721 M6 V G8 IV
+Klidon        2723 K1 V
+Duranus       2725 M6 V
+Kenash        2728 M8 II
+Tektras       2823 M5 V M8 V
+Jana          2824 G7 V
+Arron         2825 F1 V
+Zafron        2826 F2 II
+Hannipur      2827 F5 IV M6 V
+Luukon        2829 M7 V K6 V
+Lezanerz      2830 M8 V
+Iton          2921 M0 V
+Zircon        2923 M3 V M3 V
+Kaanpush      2925 M0 V
+Sanderson     2926 K3 V
+Talama        3021 M2 V M9 V
+Arklin        3022 M0 II
+Bertrand      3024 M0 V
+Shervan       3025 G1 V K0 V
+Kamolad       3029 M5 V M7 V G6 V
+Ekum          3122 M0 D M4 V
+Thaar         3124 M2 V M7 V
+Inandir       3125 K9 III M1 V
+Renbad        3126 K4 V
+Xantril       3128 M8 V
+Wimorel       3129 F7 V
+Gamidan       3130 G4 V M2 V
+Sadkha        3221 G1 V
+Nemsa         3222 M0 V F3 V
+Anakod        3224 F3 V
+Eshdigi       3226 K6 V
+Nirnalur      3228 G6 V
+Diikaras      3229 M2 V

@@ -1,0 +1,38 @@
+@SUB-SECTOR: sec_N   SECTOR: oldexpan
+#
+# Trade routes within the subsector
+$1131 1229 0 -1
+$1333 1229 0 -1
+$1139 0738 -1 0
+$1139 1235 0 0
+$1235 1035 0 0
+$1235 1636 0 0
+$1636 1726 1 0
+$1235 1333 0 0
+$1333 1532 0 0
+$1532 1629 0 -1
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Herring       0931 X686110-2    Lo Ni              604 Im
+Dono          0932 C510611-A    Na Ni              602 Im
+Spires        0936 X894654-1    Ag Ni              903 Im
+Heppling      1032 CAAA762-B    Fl Wa              202 Im
+Saloga        1035 A430425-E    De Ni Po           904 Im
+Luhtala       1039 C474600-A    Ag Ni              932 Im
+Bestor        1131 A110663-E    Na Ni              904 Im
+Hoff          1139 B585441-A  S Ni                 604 Im
+Willow        1234 C648301-A    Lo Ni              110 Im
+Nemyer        1235 B8469CA-C  W Hi In              703 Im
+Corrig        1331 C622620-9    Na Ni Po           803 Im
+L'steich      1333 A9A4975-F  S Fl Hi              414 Im
+Spencer       1338 C89A355-9  S Lo Ni Wa           711 Im
+Kal           1339 C778400-A    Ni                 902 Im
+Nex           1431 A554720-C    Ag                 713 Im
+Junak         1432 B671789-D                       703 Im
+Teldora       1437 C554754-A    Ag                 803 Im
+Sarid         1532 B0007A5-D    As Na              604 Im
+Coast         1540 C400320-B    Lo Ni Va           913 Im
+Nimz          1633 C222664-B  S Na Ni Po           200 Im
+Tuer          1636 B8C2733-E  A Fl                 113 Im

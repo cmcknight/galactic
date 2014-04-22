@@ -1,0 +1,37 @@
+Riftspan Reaches
+
+A: Aulryakh                  sec_a.dat
+B: Hwiwuiyo                  sec_b.dat
+C: Tyehlai                   sec_c.dat
+D: Ewasya'                   sec_d.dat
+E: Trawo                     sec_e.dat
+F: Aokiylair                 sec_f.dat
+G: Ryuhleiea                 sec_g.dat
+H: Iyhaseakh                 sec_h.dat
+I: Yuhiyah                   sec_i.dat
+J: Jikhyrleirla              sec_j.dat
+K: Hryehkhtyei               sec_k.dat
+L: Aoheiroiao                sec_l.dat
+M: Ftyoauial                 sec_m.dat
+N: Ioihlehwa                 sec_n.dat
+O: Tuistao                   sec_o.dat
+P: Wahtoikoeakh              sec_p.dat
+
+Bases:
+R = Clan Base
+T = Tlaukhu Base
+  = None
+
+Allegiance:
+07 Na = Non-aligned
+02 A0 = Tlaukhu bloc
+03 A1 = Tlaukhu bloc
+04 A2 = Tlaukhu bloc
+05 A3 = Tlaukhu bloc
+06 A4 = Tlaukhu bloc
+09 A5 = Tlaukhu bloc
+10 A7 = Tlaukhu bloc
+11 A8 = Tlaukhu bloc
+12 A9 = Tlaukhu bloc
+14 As = Aslan
+08    = Unknown

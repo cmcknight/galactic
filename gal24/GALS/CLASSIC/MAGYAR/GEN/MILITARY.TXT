@@ -1,0 +1,173 @@
+              A LISTING OF MILITARY BASES IN MAGYAR SECTOR
+
+
+TOTALS:
+      1   Naval Depot
+     12   Naval & Scout Bases
+     18   Naval Bases
+     16   Scout Bases
+     29   Scout Way Stations
+
+
+                         LISTING BY SUBSECTOR
+
+A -- MERITAN
+
+     Naval & Scout Bases     Wu
+
+     Naval Bases             Clan
+                             Icolka
+
+     Scout Way Stations      Oasis
+                             Greenvald
+
+B -- DOSGUD
+
+     Naval & Scout Bases     Daftrew
+
+     Naval Bases             Bageakke
+
+     Scout Bases             Akludu
+
+     Scout Way Stations      Goodhurst
+                             Tarn
+                             Xian
+
+C -- KOBAYASHI
+
+     Naval & Scout Bases     Clown
+
+     Naval Bases             Seloo
+
+     Scout Bases             Rita's Place
+
+D -- GADARUR
+
+     Scout Bases             Pungitore
+
+E -- LORE
+
+     Naval & Scout Bases     Kaig
+                             Stanislav
+
+     Naval Bases             Bradley
+
+     Scout Bases             Jofil
+
+     Scout Way Stations      Joce
+
+F -- KIANG
+
+     Naval Depot             Landgrebe    
+
+     Naval & Scout Bases     Patterson
+
+     Naval Bases             New Winnipeg
+                             Roblig
+
+     Scout Way Stations      Al-Aziz
+                             Packard
+                             The Rock
+
+G -- CALLAHAN
+
+     Naval & Scout Bases     Namedih
+
+     Naval Bases             Frostfelter
+
+     Scout Bases             Ensley
+
+     Scout Way Stations      Nubtar
+
+H -- WALPURGIS
+
+     Naval & Scout Bases     Hrongding
+
+     Naval Bases             Gyurenek
+                             Sterchi
+
+     Scout Bases             Amelbar
+
+     Scout Way Stations      Dix
+
+I -- G'RONSHE
+
+     Naval & Scout Bases     Ock
+
+     Naval Bases             Iouo
+
+     Scout Bases             Shorne
+
+J -- IIRAKAI
+
+     Naval & Scout Bases     Uebelhor
+
+     Naval Bases             Antaeus
+
+     Scout Bases             Keyor
+                             Perrault
+
+     Scout Way Stations      Ithaqua
+                             Kriss
+                             Trull
+
+K -- BRELAND
+
+     Naval Bases             Ramaniam
+
+     Scout Bases             McNellen
+
+     Scout Way Stations      Langas
+                             Paxton
+
+L -- FUGUE
+
+     Naval Bases             Asorret
+
+     Scout Bases             Beta
+                             Onewen
+
+M -- SARTARAK
+
+     Naval Bases             Drang
+
+     Scout Bases             Xianjin
+
+     Scout Way Stations      Crecilius
+                             Rundle
+                             Ziarko
+
+N -- BOBBO
+
+     Naval Bases             Bobbo
+
+     Scout Bases             Zuppe
+
+     Scout Way Stations      Acqua III
+                             Dewal
+                             Kolin
+
+O -- SULLIVAN
+
+     Naval & Scout Bases     Viallalta
+
+     Naval Bases             Roen
+
+     Scout Bases             Shigetoshi
+
+     Scout Way Stations      Geb
+                             Ghoryana     
+                             Wolfram
+
+P -- MORENCY
+
+     Naval & Scout Bases     Teska
+
+     Naval Bases             Blackhawk
+
+     Scout Bases             Yukikyu
+
+     Scout Way Stations      Derjoulian
+                             Fatch
+                             Motao
+

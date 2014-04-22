@@ -1,0 +1,41 @@
+@SUB-SECTOR: sec_C   SECTOR: magyar
+#
+# Trade routes within the subsector
+$1807 1605 -1 0
+$1807 1907 0 0
+$1907 2106 0 0
+$2106 2103 0 0
+$2106 2406 0 0
+$2406 2706 1 0
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Alphard       1701 B88AAA9-E    Hi Wa              723 Im
+Phipps        1708 A611878-D    Ic Na              112 So
+Fase          1801 B111877-E    Ic Na              200 Im
+Clown         1807 B401975-E  A Hi Ic In Na Va     402 So
+Lowhorn       1808 C647775-9    Ag                 120 So
+Philpott      1904 D511522-A    Ic Ni           A  805 Im
+Arrid         1905 E300988-B    Hi In Na Va        804 Im     f
+Double        1907 A101500-E    Ic Ni Va           604 Im
+Esuan         2004 C245967-D    Hi In              810 Tl
+Justice       2007 C201897-C    Ic Na Va           101 Im
+Plage         2008 C432A64-E    Hi Na Po           120 Tl
+Brawley       2009 C46A120-E    Lo Ni Wa           614 Im
+Seloo         2102 A2319BA-E  N Hi Na Po           800 Im
+Kemper        2103 A1217A8-E    Cp Na Po           900 Im     f
+Cordle        2104 B11168D-E    Ic Na Ni           300 Im
+Tolson        2106 A232ADJ-E    Xb Hi Na Po     A  210 Tl
+Luoh          2110 C875430-B    Ni                 404 So
+Rita's Place  2205 C76689A-A  S Ri                 502 Im
+Reichmuth     2206 C234134-B    Lo Ni              225 Im
+Yatooma       2207 E223422-B    Ni Po              102 Im
+Leriss        2208 E5118B8-8    Ic Na              903 Im
+Brereton      2209 B346620-D    Ag Ni              912 Im
+Ziaeehezar    2302 D7B6366-9    Fl Lo Ni           200 Au
+Guskin        2303 E998220-9    Lo Ni              322 Im
+Douglas       2304 D101865-9    Ic Na Va           804 Au     
+Nahn          2403 B956867-C                       703 Au     
+Hagymasi      2406 C450867-A    De Po              304 Am     
+Trechier      2409 C8C948B-D    Fl Ni           A  813 Im

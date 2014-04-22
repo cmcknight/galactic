@@ -1,0 +1,21 @@
+@SUB-SECTOR: sec_P   SECTOR: vanguard
+#
+# Trade routes within the subsector
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Asgari        2534 X364767-3    Ag Ri              723 Na
+XVR-2540      2540 X520000-0    Ba De Lo Ni        004 Na
+Xiao          2633 E788344-3    Lo Ni              214 Na
+Saishigei     2638 E452634-4    Ni Po              113 Na
+Feandar       2736 X656543-0    Ag Ni              700 Na
+Geregad       2839 D336533-9    Ni                 604 Na
+Zandri        2931 E8A2545-8    Ni                 812 Na
+Ivery         2934 D486236-6    Lo Ni              602 Na
+Fuquay        3032 D0008BF-9    As Na              411 Na
+Yuska         3035 C685422-9    Ni                 211 Hc
+Kereq         3037 C6747BA-5    Ag                 611 Hc
+Brosius       3135 CA9A688-A    Fl Ni Wa           202 Hc
+Varanna       3136 B752475-B  S Ni Po              405 Hc
+Kathrit       3238 D579741-7                       100 Hc

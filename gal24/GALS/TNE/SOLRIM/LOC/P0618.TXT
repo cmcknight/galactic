@@ -1,0 +1,10 @@
+Alpha Cephei X000000-0
+Starport: None                       Size: Asteroid Belt
+Atmosphere: None                     Hydrographics: No liquid water
+Population: 0                        Govt: No government
+Law Level: No Prohibitions           Technology: None/Primitive
+            
+	The subsector is named for Alderamin (Alpha Cephei) a bright A7 main 
+sequence star that is visible from Terra. The Stralsund Belt, once a 
+prosperous belter colony, encircles Alpha Cephei and is a rich source of 
+many commercially valuable elements.

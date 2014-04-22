@@ -1,0 +1,28 @@
+
+From: Hugh Foster <100326.446@CompuServe.COM>
+Date: 08 Jan 97 23:59:01 EST
+Subject: Hexmap
+
+Hi! As a new subscriber, just saying my helloes. I hope we can all increase
+each others' collection of mapped, detailed, wonderful sectors to run games in.
+
+My first act will be to humbly draw attention to my own Hexmap program,
+available from the below URL. Illustrating splendidly the theory of parallel
+evolution, it is a Windows-based proggie which displays and prints subsectors
+from ASCII data files.
+
+I have tonight uploaded a new version, which copes with DAT files as found
+in Galactician. If you (like me) run Gal from Windows, this plugs the gap
+of printing the maps.
+
+If it craps out on you - unlikely but possible - please let me know. If you
+like it, also let me know!
+
+[------------------------------oOo-----------------------------]
+| Hugh Foster 100326,446                                       |
+| http://ourworld.compuserve.com/homepages/Hugh_Foster         |
+| There are several good protections against temptation, but   |
+| the surest is cowardice.                                     |
+[------------------------------oOo-----------------------------]
+
+

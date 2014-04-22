@@ -1,0 +1,37 @@
+@SUB-SECTOR: sec_b   SECTOR: massilia
+#
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Little Jupite 0901 X8B2000-0    Ba Fl              013 Un
+Transvaal     0904 X3575O0-5    Ag Ni           B  104 Wi
+Griku         0906 X4553O2-5    Lo Ni              222 Wi
+Sargashad     0908 X9A4000-0    Ba Fl              000 Un
+Monkota       1001 X100000-0    Ba Va              003 Un
+Jaspa         1002 X6758VB-3                    B  814 Wi
+Hallinsa      1003 X638000-0    Ba                 010 Un
+Quetcro       1004 XAA5000-0    Ba Fl              003 Un
+Seyers        1101 X2475RB-3    Ag Ni              402 Wi
+Arar          1104 X233000-0    Ba                 024 Un
+Dailra        1106 X110000-0    Ba                 001 Un
+Khipshunam    1108 X5447RE-7    Ag                 403 Wi     f
+Datrumna      1203 D362634-8    Ni                 603 Na     f
+Balfour       1303 X8A6000-0    Ba Fl              024 Un
+Barony        1304 X5695R7-5    Ni                 200 Wi
+Amulric       1305 X100000-0    Ba Va              004 Un
+Chaeolimin    1307 X6534S7-5    Lo Ni Po           501 Wi
+Lattaunist    1308 X4445S6-4    C9 Ag Ni           404 Wi     f
+Rynic         1310 X898300-6    Lo Ni           B  203 Wi
+Dalphta Three 1404 X9A9000-0    Ba Fl              011 Un
+Wondrous      1408 X7A6000-0    Ba Fl              012 Un
+Pytirsun      1503 X75A3N1-6    Lo Ni Wa        B  413 Wi
+Basolus       1506 X6946O0-7    Ag Ni              815 Wi
+Verifervid    1507 X310000-0    Ba                 020 Un
+Gasha         1508 X2505P5-0    De Ni Po           224 Wi     f
+Anamoni       1510 X99A4P8-8    Lo Ni Wa           403 Wi     f
+Suttas Belts  1601 X000000-0    As Ba              000 Un
+Drayton       1603 X2622M0-5    Lo Ni              403 Wi
+Stramentox    1605 X210000-0    Ba                 022 Un
+Wirz          1606 X727000-0    Ba                 015 Un
+Biloxi        1607 X5448T8-7                       122 Wi

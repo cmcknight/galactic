@@ -1,0 +1,37 @@
+@SUB-SECTOR: sec_E   SECTOR: sorted
+#
+# Trade routes within the subsector
+$0717 0919 1 0
+$0717 0814 0 0
+$0717 0317 0 0
+$0317 0215 0 0
+$0215 0214 0 0
+$0214 0612 0 0
+$0214 3214 -1 0
+$0214 0111 0 0
+$0111 0110 0 -1
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Grendel       0111 A96A98B-E    Hi Wa              802 Im
+Purdishi      0116 D610168-E    Lo Ni              834 Im
+Shulusish     0214 A584A22-F  W Hi Cp              304 Im
+Desdemona     0215 A76999C-E    Hi                 303 Im
+Sarmaty       0217 A889877-F    Ri                 403 Im
+Hayt          0313 B4219AF-E    Hi Na In Po        310 Im
+Finnegans     0316 C379533-B    Ni                 320 Im
+Bemishii      0317 A567988-E    Hi                 212 Im
+Seym          0319 A1009CB-C  N Hi Na In Va        423 Im
+Diomedes      0411 A8777A8-F    Ag                 700 Im
+Yrsai         0511 A663A9B-F    Hi                 402 Im
+Arukhur       0518 E200365-E    Lo Ni Va           522 Im
+Glaucas       0612 A8869A9-F  S Hi                 532 Im
+Hoatzin       0617 A967986-E    Hi                 534 Im
+Stralsund     0618 B0007BE-E    Na As              520 Im
+Omsk          0713 B511547-A    Ni Ic              103 Im
+Furioso       0717 A9C5761-D    Fl                 313 Im
+Ippuraash     0718 C200612-A    Na Ni Va           714 Im
+Weipu         0719 X543000-0    Lo Ni Po Ba     R  702 Im
+Thars         0720 B7A7797-D    Fl                 714 Im
+Upirzanu      0814 A9B5752-F  N Fl                 924 Im

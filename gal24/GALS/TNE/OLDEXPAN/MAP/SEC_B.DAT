@@ -1,0 +1,47 @@
+@SUB-SECTOR: sec_b   SECTOR: oldexpan
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Tarpeian      0908 XA834QA-4    Lo Ni           B  600 Wi
+Paragon       0909 X7666R9-9    Ag Ni              702 Wi
+Sternway      1002 C7846VB-9    Ag Ni           B  805 Wi
+Sidrat        1004 X122000-0    Ba Po              024 Un
+Serpila       1006 X6748RB-3                    B  203 Wi
+Safire        1007 X96A6R9-3    Ni Wa           B  900 Wi
+Kase          1008 D8877U7-7    Ag              B  811 Wi
+Montero       1010 B8656U9-9    Ag Ni              904 Wi
+Mizar-5       1101 X210000-0    Ba                 002 Un
+Talien        1104 X8489RE-5    Hi In           B  814 Wi
+Estrem        1105 X6727RE-5                       822 Wi
+Vaward        1106 X7958Q9-7                       102 Wi
+Quin          1201 X000000-0    Ba As              011 Un
+Tricard       1202 X7738RA-3                    B  314 Wi
+Margate       1203 X6897R7-8    D:2                120 Wi
+Jone          1205 X310000-0    Ba                 004 Un
+Khain         1206 X4656RB-4    Ag Ni              604 Wi
+Sygma         1208 X99A5O0-8    Ni Wa           B  510 Wi
+Tantal        1301 X000000-0    Ba As              010 Un
+Arzhent       1302 X000000-0    Ba As              011 Un
+Farina        1303 X7677R6-5    Ag              B  800 Wi
+Thurber       1305 XAA1000-0    Ba Fl              034 Un
+Veraq         1306 X8658RF-4                    B  603 Wi
+Issek         1307 X6796T7-5    Ni C:4          B  600 Wi
+Zetta         1309 X221000-0    Ba Po              020 Un
+Palique       1310 C4687P7-9    Ag C:3             200 Wi
+Pallad        1401 X000000-0    Ba As              014 Un
+Andicotte     1403 X626000-0    Ba                 023 Un
+Montro        1405 X5677RE-4    Ag                 501 Wi
+Levan         1408 X412000-0    Ba Ic              003 Un
+Antres        1502 X839000-0    Ba                 004 Un
+Terzin        1503 X4445UC-6    Ni                 404 Wi
+Scytha        1504 X4555Q9-5    Ag Ni              210 Wi
+Leome         1507 D6727RB-6                       901 Wi
+Trevor        1508 D3647P4-7    Ag C:3             800 Wi
+Fezzan        1510 D6506O3-8    De Ni Po           503 Wi
+Sardis        1602 X5548P7-6    C:2                200 Wi
+Chayne        1603 X211000-0    Ba Ic              005 Un
+Medallion     1604 X110000-0    Ba                 003 Un
+Krupp         1605 D5887N0-5    Ag              B  102 Wi
+Gryphon       1609 X124000-0    Ba                 001 Un
+Darius        1610 C4557S3-9    Ag              B  502 Wi

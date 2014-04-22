@@ -1,0 +1,19 @@
+@dir=gals\classic\beyond\gen
+@Light Yellow
+
+The Beyond / General Information
+
+
+@Light Cyan
+      Sector Data             @..\map\data.mnu
+      Credits                 @..\credits.txt
+      
+      Sector Overview         (Don Rapp)  @beyond.txt
+      Library Data            (Don Rapp)  @libdat.txt
+
+      Subsector Summaries     @subs.mnu
+
+
+@Light Green
+   See the Paranoia Press Homepage at:
+      http://www.inlink.com/~scoundrl/paranoia.htm

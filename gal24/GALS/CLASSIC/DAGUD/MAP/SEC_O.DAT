@@ -1,0 +1,44 @@
+@SUB-SECTOR: sec_O   SECTOR: dagudash.sec
+#
+# Trade routes within the subsector
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Kashni        1732 B222201-B  N Lo Ni Po        A  512 Im
+Bakhuma       1733 D5367A5-5  S                    203 Im
+Durgaarur     1735 D334A64-E  S Hi                 204 Im
+Amshu         1736 C674354-8    Lo Ni              600 Im
+Irrii         1737 C000100-B    Lo Ni As           502 Im
+Lamamni       1738 C437569-D  S Ni                 602 Im
+Piileir       1833 A78457A-E  N Ag Ni              814 Im
+Riimsha       1836 B502400-B  A Ni Va Ic           624 Im
+Uki           1839 C458512-9    Ag Ni              714 Im
+Mashuu        1840 D725413-9    Ni                 401 Im
+Dante         1931 B403472-C  S Ni Va Ic           613 Im
+Bountiful     1934 C547733-6    Ag                 204 Im
+Haakhai       1935 C8D5457-C    Ni Fl              624 Im
+Linara        1936 D8B6867-6  S Fl                 303 Im
+Shuulikh      1939 C88A585-9    C0 Ni Wa           602 Im
+Troy          1940 BA9A210-9  N Lo Ni Wa           802 Im
+Riiya         2035 C558868-A  S                    305 Im
+Sabhaash      2036 B799100-E  S Lo Ni              603 Im
+Hadraach      2037 BAE2353-C  S Lo Ni Fl           323 Im
+Gracilis      2038 A52077A-C  N Na Po De           904 Im
+Harlequin     2135 C233433-A    Ni Po              623 Im
+Sapphyre      2137 A977200-D    Lo Ni              804 Im
+Shaida        2139 E521742-9    C0 Na Po           615 Im
+Miana         2140 C649000-9    Lo Ni Ba           913 Im
+Guurdim       2232 C681105-A    Lo Ni              524 Im
+Emishuun      2234 B538230-D    Lo Ni              424 Im
+Mukira        2235 C440640-A    Ni Po De           824 Im
+Luukha        2237 D657332-9    Lo Ni              304 Im
+Aalimru       2239 B130000-F  N Lo Ni Po De Ba     303 Im
+Hashiikhi     2331 D475268-7  S Lo Ni              600 Im
+Bakhuma       2339 C65588B-8                       904 Im
+Eikhoifiruah  2433 B5676B6-A  N Ag Ni              113 Im
+Shaakhish     2434 D100335-C  S Lo Ni Va           601 Im
+Amamni        2436 D130300-C    Lo Ni Po De        411 Im
+Ghesaak       2437 D100400-C  S Ni Va              903 Im
+Gesalt        2439 D663422-8    Ni                 423 Im
+Silk          2440 C354377-A  S Lo Ni              703 Im

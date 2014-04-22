@@ -1,0 +1,21 @@
+Garency X6457TA-5
+
+Starport: None                 Size: Medium (8800-10400 km)
+Atmosphere: Thin, tainted      Hydrographics: 50% water
+Population: 40 million         Govt: Totalitarian Oligarchy
+Law Level: Extreme             Technology: Industrial
+    
+	Garency was nuked during the Rebellion, and extensive areas of the surface
+are still radioactive. This has caused a high mutation rate in the
+population during the last seventy years. Roughly one of every three
+newborns have at least some minor mutation, from face deformations to extra
+members.
+	Around one hundred major mutually independent cities hold half of the
+population of the world, with the rest living in small villages in rural
+areas or in nomadic tribes or ravager groups. In almost all of the cities,
+newborn mutants are either killed or expulsed out of the city. Some groups
+of mutants raise these children.
+	Most of the cities are governed by some totalitarian city council and keep
+numerous armed forces.
+
+by Carlos Alos-Ferrer <alos@merlin.fae.ua.es>

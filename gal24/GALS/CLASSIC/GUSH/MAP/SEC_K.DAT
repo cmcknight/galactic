@@ -1,0 +1,53 @@
+@SUB-SECTOR: sec_K   SECTOR: gush
+#
+# Trade routes within the subsector
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Guslas        1721 C0006A9-8    Na Ni As           200 Im
+Ethbray       1722 A87A332-D  N Lo Ni Wa           203 Im
+Uurgikhushi   1723 E362536-7    Ni                 303 Im
+Velte         1724 A772445-E  N Ni                 405 Im
+Stedeng       1727 E424620-9    Ni                 720 Im     f
+Iirshuur      1821 B244301-C  S Lo Ni              234 Im
+Ayltha        1822 B344302-D    Lo Ni              813 Im
+Tire          1823 AAF4326-B  N Lo Ni Fl           912 Im
+Dawru         1826 A89A522-F    Ni Wa              700 Im
+Khalun        1828 E200303-8    Lo Ni Va           205 Im
+Mezregh       1921 E726335-5    Lo Ni              203 Im     f
+Arsfest       1923 CA69644-6    Ni Ri              110 Im
+Toyusk        1924 D777300-7  S Lo Ni              903 Im     f
+Fay           1925 C77869C-9  S Ag Ni              421 Im     f
+Howarth       1926 B2628CB-D                       513 Im     m
+Yaektyu       1927 E75A644-5    Ni Wa              703 Im
+Unlardigard   1930 B3109AB-G    Hi Na In De        504 Im     m
+Vuyha         2021 D657644-8  S Ag Ni              602 Im     m
+Tahnidse      2022 B421679-C  N Na Ni Po           612 Im
+Trill         2029 A784977-F  N Hi                 315 Im     f
+Oyrnigh       2121 E67A412-6    Ni Wa              915 Im
+Thatbe        2122 B541679-7  N Ni Po              804 Im
+Mzimbe        2124 C220464-C  S Ni Po De           624 Im     f
+Nchena        2125 E200110-B    Lo Ni Va           105 Im
+Tlauwao       2127 D330A9C-9  S Hi Na Po De        504 Im
+Feaf          2128 E549200-7    Lo Ni              704 Im
+Fudaochoyrn   2130 A000420-F  N Ni As              403 Im
+K'ke Say      2221 C683550-7    Ni                 220 Im
+Deewaa        2223 X230320-5    Lo Ni Po De     R  603 Im     f
+Kamurinmur    2224 A260985-E    Hi De Cp           813 Im     m
+Elpple        2225 E210300-A    Lo Ni              203 Im
+Helge         2227 A693572-A    Ni                 510 Im
+Wrechner      2228 B43266A-E    Na Ni Po           305 Im
+Xanten        2229 C593524-9    Ni                 922 Im     m
+Syss          2323 C400746-8  S Na Va              510 Im
+Droun         2325 B543976-E  S Hi In Po           700 Im     m
+Rashiidaa     2326 C655400-B    Ni                 301 Im
+Idull Ra      2330 D260769-5  S Ri De              624 Im
+Vilk          2422 C785675-7    Ag Ni Ri           110 Im
+Plouraandva   2424 A33278A-F    Na Po              700 Im
+Kieaasu       2425 E430576-6    Ni Po De           714 Im     f
+Jazep         2426 A592543-A    Ni                 934 Im
+Twiga         2427 B502432-A  S Ni Va Ic           600 Im
+Llalnair      2428 D429498-7    Ni                 102 Im
+Chitete       2429 D120000-9  S Lo Ni Po De Ba     502 Im
+Aawn          2430 C334642-8    Ni                 705 Im

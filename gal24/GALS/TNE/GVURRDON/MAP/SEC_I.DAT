@@ -1,0 +1,40 @@
+@SUB-SECTOR: sec_I   SECTOR: gvurrdon
+#
+# Trade routes within the subsector
+#
+$0730 0929 1 0 9
+$0821 1023 1 0 9
+$0821 0720 0 -1 9
+$0329 0232 0 1 4
+$0329 0226 0 0 4
+$0821 0720 0 -1 8
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Tjenl         0130 A683875-C    Ri                 420 Zh
+Aersaedha     0221 B98A88A-8  G Ri Wa              622 Vb
+Aedhue        0223 A9C4000-B    Lo Ba Ni           824 Vb
+Qanstanze     0226 E73987A-3                       710 Zh
+Eblonzyerefl  0230 B334210-D    Lo Ni              403 Zh
+Llathoevaghoe 0323 B673878-A                       410 Vb
+Dzado         0325 B6A4896-8    Fl                 703 Va
+Iatl Iatl     0327 B685233-B    Lo Ni              322 Zh
+Enjqore       0329 A247245-A  Z Lo Ni              210 Zh
+Rarksagzvungou0422 A110100-D    Lo Ni              701 Vb
+Zulgziga      0425 C8B4854-8    Fl                 202 Va
+Ethue         0426 B254300-B    Lo Ni An           233 Va
+Vlazh Epr     0428 C5A179C-5  Z Fl                 524 Zh
+Zhdapl        0430 B63A58B-A    Ni Wa              201 Zh
+Gzughzuvulling0525 A693530-A    Ni                 433 Va
+Oenoukh       0528 C794459-9    Ni                 820 Va
+Khoeghersaeng 0529 B896455-7    Ni                 823 Va
+Foggzukoetsael0625 C5028CB-8  C Na Ic Va           610 Va
+Az            0629 B657445-6    Ni                 210 Va
+Taknarkag     0630 B370499-A  H Ni De              112 Va     f
+Gvoedhoeks    0725 B582574-9  C Ni                 801 Va
+Roegoukhaghoe 0727 B554853-7                       302 Va
+Oraedzaeng    0728 B436445-C    Ni                 302 Va
+Ghin Uerr     0729 B865253-7    Lo Ni              421 Va
+Kson          0730 B5A487A-A    Fl                 224 Va
+Gvurrdon      0821 B756986-C    Hi                 503 Vb
+Aerrigha      0824 B6888DE-7  C                    724 Va

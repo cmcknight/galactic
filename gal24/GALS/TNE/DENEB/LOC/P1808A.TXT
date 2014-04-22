@@ -1,0 +1,52 @@
+System: Antra
+Subsector: Antra
+Sector: Deneb Sector
+Coordinates: 1808 (C0208)
+UWP: A53789C-E
+
+Starport: Excellent
+Size: Medium (7200-8800 km)
+Atmosphere: Very thin
+Hydrographics: 70% water
+Population: 50 million
+Govt: Impersonal Bureaucracy
+Law Level: Extreme
+Technology: High Stellar
+
+Bases: None
+Trade Codes: Cp              
+Travel Zone: Green
+Planetoid Belts: 0
+Gas Giants: 1
+Allegiance: Domain of Deneb
+
+Extended Stats:
+A53789C-E S Cp  701  RE M0V M3V
+g=0.623 Day=19:26:42.00 Year (Imperial) 46d 17:13:23.10 (Local) 57d 15:52:12.34
+atmos=0.2312, controlled weather (special)  TNE weather +1
+Temp= +29 (5/lat +44 to -6)  (Season +27 to -45, 8 deg lat)
+daily temp range = (+8 noon, -78 midnight)
+Ores, Radioactives; Nonmetals; Recordings, Artforms, Software, Documents
+Conservative/Indifferent, Unaggressive/Concilatory, Harmonious/Xenoplobic
+Legal: C-9CHIB  Tech: EE-EEGEE-EEEE-FG-G
+
+   NOTE: due to the Worldroof - built as a major scientific experiment,
+   and an implicit example of Imperial power to the Vargr, by order of
+   Emperess Porfiria in 271, and finally completed in 883 - and extensive
+   weather control (possibly the best in the Galaxy):
+     * atmos should be changed to 1.000: thus, the air is breathable
+     * TNE Weather changed to +8 (almost always crystal-clear weather,
+       sometimes overcast)
+     * daily temperature range = -10 noon, -20 midnight (Lowering the
+       base temp to 19 degrees, but decreasing the severity of the
+       nighttime from -78 to -20)
+   
+   Antra, its worldroof one of the Seven Wonders of the Imperium, is a
+   must for any tourist of Deneb Sector. Despite the long, tedious and
+   invading antiViral procedures, Antra still is a busy port of call, for
+   its artworks and tourism sites, its vast radioactive mines - the
+   largest in 25 parsecs - and its political connections. Still, caution
+   is called for when among the xenophobic Antrans, and the beautiful
+   towers that support the famed Worldroof rest on some nasty
+   foundations...
+

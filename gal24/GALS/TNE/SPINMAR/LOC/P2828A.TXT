@@ -1,0 +1,36 @@
+
+These are the Classic Era Stats for Hexos:
+
+System: Hexos
+Subsector: Mora
+Sector: Spinward Marches
+Coordinates: 2828 (L0408)
+UWP: B534420-8
+
+Starport: Good
+Size: Medium (7200-8800 km)
+Atmosphere: Very thin
+Hydrographics: 40% water
+Population: 10,000
+Govt: Participating Democracy
+Law Level: No Prohibitions
+Technology: Pre-Stellar
+
+Bases: Navy
+Trade Codes: C3 Ni           
+Travel Zone: Green
+Planetoid Belts: 2
+Gas Giants: 3
+Allegiance: Imperial
+
+
+Extended Stats:
+
+Hexos/Spinward Marches (2828 B-534420-8) circa 1117
+                       (2828 X-534000-0) RED ZONE circa 1202
+
+Physical  Parameters:  Orbital Period:.644  years
+Rotational Period: 34 hours    Orbital Eccentricity: 0.015
+Avg Temperature:283K = 7C      Axial Tilt: 39 degrees
+Planet Density: High
+

@@ -1,0 +1,46 @@
+@SUB-SECTOR: sec_M   SECTOR: gush
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Sirir         0131 X79697A-6                    B  823 Wi
+Aapu          0132 E260303-5    Lo Ni De           100 Wi
+Maerol        0135 X200000-0    Ba Va              002 --
+Choltonrul    0136 X48736E-4    Lo Ni              424 Wi
+Ushulu        0137 E782774-5                    B  900 Wi
+Roolyz        0138 X333000-0    Ba Po              022 --
+Joutect       0140 X768135-3    Lo Ni              200 Wi
+Hentor        0231 X503000-0    Ba Va Ic           022 --
+Abaelou       0233 D695310-7    Lo Ni              403 Wi
+Gihmentahlish 0236 X8A5000-0    Fl Ba              022 --
+Strand        0237 D348356-0    Lo Ni              202 Wi
+Ounash        0239 X120000-0    Ba Po De           004 --
+Blezon        0332 X472400-5    Lo Ni              123 Wi
+Vaelouf       0333 X537000-0    Ba                 011 --
+Endran        0334 X515000-0    Ba Ic              003 --
+Phoenaeg      0338 E56079B-4    D7 De           B  913 Wi
+Sagal         0339 X887ACD-5    Hi              B  813 Wi
+Trichach      0432 D573410-7    Lo Ni              104 Wi
+Cemloch       0433 X646022-5    Lo Ni              105 Wi
+Nemeet        0434 X230000-0    Ba Po De           004 --
+Gwelbyph      0435 X423000-0    Ba Po              005 --
+Flaslousk     0436 D543543-8    Ni Po              410 Wi
+Jaeyelya      0437 C48469C-4    Ag Ni           B  702 Wi
+Lem           0438 X532000-0    Ba Po              000 --
+Dimkodrarn    0439 X453300-2    Lo Ni Po           403 Wi
+Rake          0531 X325000-0    Ba                 002 --
+Soel          0532 X8D5000-0    Ba                 002 --
+Imagalu       0536 C967899-6                    B  804 Wi
+Wols          0537 X764043-5    Lo Ni              400 Wi
+Homage        0631 C594658-8    Ag Ni              512 Wi
+Vipach        0632 X738000-0    Ba                 010 --
+Sern          0634 XAD6000-0    Ba                 000 --
+Asiilish      0639 X565326-5    Lo Ni              414 Wi
+Chezpan       0640 X200000-0    Ba Va              002 --
+Th'dir        0732 X100000-0    Ba Va              013 --
+Dendaash      0733 X9C7000-0    Fl Ba              004 --
+Zamashuug     0737 X585000-0    Ba                 000 --
+Dikaash       0738 X627000-0    Ba                 001 --
+Wilson        0740 X100000-0    Ba Va              000 --
+Tenraash      0831 X79A431-4    Lo Ni Wa        B  302 Wi
+Ginupa        0839 X55979C-6                    B  903 Wi
+Teuterom      0840 X502000-0    Ba Va Ic           013 --

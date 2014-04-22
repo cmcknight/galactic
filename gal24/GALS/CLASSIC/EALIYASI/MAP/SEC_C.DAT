@@ -1,0 +1,23 @@
+@SUB-SECTOR: sec_C   SECTOR: ealiyasi
+#
+# Trade routes within the subsector
+$2408 2410 0 0
+$2408 2510 1 0
+$2410 2510 1 0
+$2410 2610 1 0
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Fye'iyra      1707 A778AM6-D    Hi In              122 As
+Aeirlyekheal  1710 DAB33G6-8    Fl Lo Ni           914 As
+Khtektouh     1802 EA9A9L5-B    Hi In Wa           900 A4
+Oioayusoah    1808 C86A5NC-8    C1 Ni Wa           803 As
+Iouiiyl       1904 D5446M6-9    Ag Ni              902 As
+Yahaualiwilal 1908 C6350HA-C                       900 As
+Aorlkaakh     2101 C322421-3    Ni Po              303 Na
+Akhuaao       2205 C5A0651-4    De Ni              123 Na
+Fteielria     2301 EAB7663-1    Fl Ni              800 Na
+Khouleal      2308 C65A5KA-A    Ni Wa              302 As
+Ehiyliu       2408 B6545HB-9    Ag Ni              701 As
+Htehis        2410 B8975HB-9    Ag Ni              400 As

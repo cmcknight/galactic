@@ -1,0 +1,16 @@
+Noir Deep Subsector
+-------------------
+A frontier region with few resources to interest the Imperium. Noir Deep
+subsector has seen little development. Naval forces maintained a strong
+patrol force here until recently whe population buildup and starship traffic
+became such that local planetary forces could maintain the watch. Frequent
+rumours of rich mineral strikes in this subsector have proved to be unfounded.
+Forerunner artifacts have been found though in the Menanon System. Imperial
+scientists are investigating.
+
+The Noir Deep subsector contains 10 worlds with a total population of 100
+million. The highest population level is 8, at Howarth; the highest tech
+level is 8, also at Howarth.
+
+Admistered from Wolfstar, none of the worlds in this subsector are Imperium
+members but all are under Imperial protection.

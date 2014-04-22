@@ -1,0 +1,43 @@
+@SUB-SECTOR: sec_K   SECTOR: ealiyasi
+#
+# Trade routes within the subsector
+$1821 1820 0 -1
+$1821 1922 0 0
+$1922 2122 0 0
+$1922 1923 0 0
+$1823 1825 0 0
+$1823 2221 0 0
+$2221 2323 0 0
+$2425 2326 0 0
+$2425 2327 0 0
+$2326 2327 0 0
+$1728 1627 -1 0
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Yorlkar       1721 D9D84KA-7    C2 Fl Ni           812 As
+Osahkhteasoa  1727 C4392J7-8    Lo Ni              104 As
+Khieaohau     1728 B7857H5-B  T Ag Ri              702 As
+Oiah          1729 C63A2G8-B    Lo Ni Wa           223 As
+Htaistea      1821 C1009H8-D    Hi In Na Va        204 As
+Htiah         1823 CA79AH9-D    Hi In              905 As
+Iyskyar       1824 B5467M4-E    Ag                 803 As
+Yulriyyew     1825 B5286L7-C    Ni                 701 A5
+Khtaoiwe      1828 E4257N9-B                       114 As
+Ftairlya      1922 B4457M9-E  R Ag                 120 As
+Yoweaserl     1923 C100AH8-B    Hi In Na Va        315 As
+Khiewriaar    1926 C5764L8-B    Ni                 421 A9
+Htyeiylra     1927 C4346HA-A    D4 Ni              834 As
+Ihaaeaus      2025 D5874K5-8    Ni                 103 As
+Khaiheiiyaul  2122 B5264L8-D  T Ni                 323 A9
+Tehyo         2221 C321AH6-C    Hi In Na Po        100 As
+Okhayehauoil  2222 C3633G9-B    Lo Ni              904 As
+Uarla         2224 E3554L9-6    Ni                 112 A3
+Aoseie'       2225 X1009HA-A    Hi In Na Va        804 As
+Yewehhar      2323 B6454NA-B    Ni                 604 As
+Fearah        2326 A99AAH7-E    Hi In Wa           302 As
+Eiyehei       2327 B4584K9-B    Ni                 902 As
+Hlyeiyuikiy   2329 D8558JB-9                       102 As
+Yakyu         2425 B5859H8-E    Hi                 100 As
+Easai         2430 C5991G4-6    Lo Ni              702 As

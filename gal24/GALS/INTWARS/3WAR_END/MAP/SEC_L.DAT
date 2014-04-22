@@ -1,0 +1,28 @@
+@SUB-SECTOR: sec_L   SECTOR: 3war_end
+#
+# Trade routes within the subsector
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Ikuk          2521 C779740-6                       613 Zs
+.             2527 X9F4000-0    Ba Fl Lo Ni        012 Us
+.             2528 X524000-0    Ba Lo Ni           003 Us
+Ushkiidi      2623 E78A410-A    Ni Wa              414 Zs
+.             2626 X456000-0    Ba Lo Ni           003 Us
+.             2628 X658000-0    Ba Lo Ni           002 Us
+Shashadii     2722 D422238-8    Lo Ni Po           514 Zs
+Anenerkuk     2723 A56A458-B  N Ni Wa              913 Zs
+.             2729 X9A2000-0    Ba Fl Lo Ni        020 Us
+Kishkhikhi    2821 A357510-9    Ag Ni              723 Zs
+Arcturus      2921 X000000-0    As Ba Lo Ni        020 Zu
+.             2928 X138000-0    Ba Lo Ni           022 Us
+.             3024 X763000-0    Ba Lo Ni           004 Us
+.             3026 X559000-0    Ba Lo Ni           002 Us
+.             3028 X875000-0    Ba Lo Ni           021 Us
+.             3029 X687000-0    Ba Lo Ni           022 Us
+.             3127 X526000-0    Ba Lo Ni           013 Us
+.             3130 X423000-0    Ba Lo Ni Po        023 Us
+.             3221 X343000-0    Ba Lo Ni Po        003 Us
+.             3225 X641000-0    Ba Lo Ni Po        000 Us
+

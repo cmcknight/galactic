@@ -1,0 +1,31 @@
+@SUB-SECTOR: Kaskii SECTOR: Core
+#
+# Trade routes within the subsector
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+.             2511 C477497-8    Ni                 202 Li 
+Khuir         2513 B89AACA-D    Hi In Wa           802 Sy 
+.             2517 D444033-3    Lo Ni              602 Sy 
+.             2519 D000330-A  S Lo Ni As           604 Li 
+.             2611 B201885-A    Na Va Ic           503 Li 
+Ispumer       2615 E38197B-7    Hi                 905 Sy 
+.             2616 B5368CD-8                       903 Sy 
+.             2720 B42647C-A    Ni                 703 Li 
+.             2814 C223669-8    Na Ni Po           504 Sy 
+.             2816 B869323-C    Lo Ni              103 Sy 
+.             2912 A7B3699-D    Ni Fl              725 Li 
+.             2913 C8B3763-5    Fl                 703 Sy 
+.             2914 A668873-8    Ri                 213 Sy 
+.             2916 BAE6362-7    Lo Ni Fl           704 Sy 
+Laudum        3011 B352986-D  N Hi Po              101 Li 
+.             3015 B783351-8    Lo Ni              200 Sy 
+.             3019 B222552-F  N Ni Po              730 Li 
+.             3113 E342647-5    Ni Po              204 Sy 
+Markasher     3115 E1009CC-6    Hi Na In Va        420 Sy 
+.             3117 B200456-B    Ni Va              214 Sy 
+Lemik         3118 C56A98B-C    Hi Wa              711 Li 
+.             3211 C427535-D    Ni                 102 Li 
+.             3216 B964443-8    Ni                 913 Sy 
+Kaskii        3218 A300A98-F  N Hi Na In Va        504 Li 

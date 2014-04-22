@@ -1,0 +1,57 @@
+@SUB-SECTOR: sec_J   SECTOR: trojan
+#
+# Trade routes within the subsector
+$1121 1022 0 0
+$1022 1023 0 0
+$1023 0824 -1 0
+$1022 1221 0 0
+$1023 1223 0 0
+$1223 1324 0 0
+$1223 1220 0 -1
+$1026 0825 -1 0
+$1026 1126 0 0
+$1026 1028 0 0
+$1028 0929 0 0
+$0929 0931 0 1
+$0929 1030 0 0
+$1030 0931 0 1
+$1030 1230 0 0
+$1230 1429 0 0
+$1429 1630 0 0
+$1630 1631 0 1
+$1426 1626 0 0
+$1626 1728 1 0
+$1621 1619 0 -1
+$1621 1723 1 0
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Alr           0929 A7795K8-B    Ni                 102 As
+Ehrafou       0930 B0007KA-E  R As Na              904 As
+Ftulrois      1022 B4686LA-9    Ag Ni Ri           200 A4
+Oatre         1023 B5323N6-C  R Lo Ni Po           312 As
+Hea'a         1025 E8402LA-5    Lo Ni De Po        603 A7
+Eiaihiy       1026 B5001G2-A  R Lo Ni Va           923 As
+Syoakh        1027 A6968MC-C    Cp                 500 As
+Htourlao      1028 B3119H8-E  R Ic Na In Hi        512 As
+Keawoaw       1030 B4304J3-9    De Po Ni           413 As
+Asyuh         1121 B8C32N5-9  R Lo Fl Ni           912 As
+Yero'ilra     1124 D5008N7-B    Va Na              103 As
+Oihu          1126 B3004M4-9  R Va Ni              702 As
+Eikhaaw       1128 C8897NC-9    Ri                 903 As
+Colony Six    1221 A68A541-D    Wa Ni              303 As
+Goertel       1222 B6688DC-6                       122 As
+Hteakya       1223 B2234J6-E    Ni Po              413 As
+Khau          1226 C6875N8-C    Ag Ni              222 As
+Erasaso       1230 B68A1G6-C  T Lo Ni Wa           113 As
+Hrahraiu      1322 B4206LC-D  T De Na Po Ni        800 A9
+Hliyh         1323 B200AK7-E  R Va Na Hi In        102 As
+Eilaeah       1324 B8632G7-C    Lo Ni              414 As
+Yestahwye     1426 BAA06M6-C    De Ni              602 As
+Fiyleakh      1429 B4138MA-D  R Ic Na              604 As
+Tryaoke       1524 D5569H8-5    Hi                 801 As
+A'eouya       1530 B950000-0    Ba De Lo Ni Po  R  012 As
+Akhwohkyal    1621 BA956J8-9    Ag Ni An           113 As
+Ftiys         1626 C76A3K5-7  R Lo Wa Ni           714 As
+Eauhti        1630 B5404H9-D  R De Ni Po           432 As

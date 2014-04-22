@@ -1,0 +1,56 @@
+@SUB-SECTOR: sec_J   SECTOR: magyar
+#
+# Trade routes within the subsector
+$0930 0931 0 1
+$0921 0920 0 -1
+$0921 1022 0 0
+$0921 0722 -1 0
+$1022 1324 0 0
+$1324 1326 0 0
+$1324 1524 0 0
+$1326 1029 0 0
+$1029 0930 0 0
+$1521 1418 0 -1
+$1521 1720 1 -1
+$1524 1521 0 0
+$1524 1627 0 0
+$1627 1529 0 0
+$1627 1927 1 0
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Antaeus       0921 A779730-D  N                    202 So
+Feast         0923 C6788AC-9                       624 So
+Lavik         0924 XA9A355-6    Lo Ni Wa           201 So
+Shenski       0926 E550342-9    De Lo Ni Po        524 So
+Tsute         0928 E7988AA-8                       703 So
+Barland       0930 A5678A7-E    Cp                 210 So
+Kriss         1021 B787463-B  W Ni                 804 Ha
+Hachiman      1022 A140731-E    De Po              214 Ha
+Breck         1023 E4958A9-8                       100 So
+Ethlum        1027 B2018AB-C    Ic Na Va           700 Et
+Perrault      1029 A311846-E  S Ic Na              114 So
+Ithaqua       1030 AA89249-E  W Lo Ni              700 So
+Merida        1121 B898245-D    Lo Ni              812 So
+Hale          1123 B250154-D    De Lo Ni Po        413 So
+Issekhee      1128 C430669-B    De Na Ni Po        700 Et
+Rasilha       1129 C3758B6-B                       700 So
+Caldwell      1222 D487798-8    Ag Ri              300 So
+Girral        1230 E5307AE-8    De Na Po           200 So
+Truelock      1321 E848367-9    Lo Ni              223 Ha
+Yuehtsao      1323 X8C989D-5    Fl                 304 So
+Uebelhor      1324 A566877-C  A Cx Xb Ri           214 So
+Ramanar       1326 A643755-D    Rs Po              703 So     f
+Quinn         1329 AA74100-E    Lo Ni              413 So
+Vanus         1423 B422201-E    Lo Ni Po           704 So
+Enbaum        1427 C457675-B    Ag Ni              502 So
+Calvo         1429 B330444-E    De Ni Po           120 So
+Grimes        1430 E355100-A    Lo Ni              520 So
+Keyor         1521 A201889-E  S Xb Ic Na Va        324 So
+Vanauken      1522 A101430-E    Ic Ni Va           804 So
+Heather       1524 A698532-E    Ag Ni              814 So
+Trull         1529 B000654-E  W As Na Ni           503 So
+Buschfeld     1622 E698333-7    Lo Ni              300 So
+Mervyn        1624 C301325-B    Ic Lo Ni Va        210 So
+Acara         1627 B67999B-D    Hi In              505 Ac

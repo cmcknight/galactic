@@ -1,0 +1,24 @@
+@SUB-SECTOR: sec_G   SECTOR: trojan
+#
+# Trade routes within the subsector
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Homestead     1715 D5605K4-6    Ni De              624 As
+Ais           1719 E7A08J5-8    De                 600 As
+Salif         1816 B6236A6-A    Na Ni Po           401 As
+Number        1818 C9C68K5-9    Fl                 102 As
+Thebus        1919 A5345J7-D    Ni                 523 As
+Norikum       2018 D886876-1    Ri Tp           B  104 Na
+Oghma         2020 B2147LA-9    Ic                 504 A2
+Dolberg       2113 CAC8850-B    Fl                 400 RE
+Vume          2115 A100659-E    Na Ni Va An        223 RE
+Theev         2116 A434503-F    Ni              A  934 RE
+Marduk        2120 C3778MA-A                       203 As
+Albe          2211 A540A52-E  N Hi In Po De        113 RE
+Realgar       2213 B750435-B    Lo Ni Po De        403 RE
+Palindrome    2216 B433332-D  N Lo Ni Po           702 RE
+Borite        2219 E655796-5    Ag Tp              703 As
+Chalchiutlicu 2314 B76A787-8    Ri Wa              823 RE
+Cordillon     2411 C4313C9-E  S Lo Ni Po           322 RE

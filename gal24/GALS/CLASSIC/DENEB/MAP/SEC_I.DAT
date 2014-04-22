@@ -1,0 +1,42 @@
+@SUB-SECTOR: sec_I   SECTOR: deneb
+#
+# Trade routes within the subsector
+$0524 3124 -1 0
+$0524 0826 0 0
+$0826 0925 1 0
+$0826 0729 0 0
+$0729 0731 0 1
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Rena          0123 D596211-7  S Lo Ni              403 Dd
+Gulistan      0124 CAB2358-7  S Lo Ni Fl           820 Dd
+Chaosheo      0130 E87A788-1    Wa              A  625 Dd
+Mater Nova    0221 B575744-9    Ag                 314 Dd
+Breslow       0222 X440510-1    Ni Po De        R  902 Dd
+Daumier       0223 B88A452-E    Ni Wa              510 Dd
+Adapam        0224 E796442-8    Ni                 822 Dd
+Wroclaw       0226 C4667BF-7    Ag                 823 Dd
+Rimkuku       0228 D9A8872-7  S Fl                 324 Dd
+Aziziyah      0229 C86A475-B    Ni Wa              624 Dd
+Barbary       0327 C5717CF-4  S                    813 Dd
+Dunstan       0328 C649220-8    Lo Ni              523 Dd
+Canisus       0330 C4317BA-8  S Na Po              901 Dd
+Rouenet       0422 C362201-B    Lo Ni              705 Dd
+Isurkun       0524 A441334-A    Lo Ni Po           721 Dd
+Sejmal        0525 C210643-A    C0 Na Ni           534 Dd
+Moltke        0529 C646110-8  S Lo Ni              204 Dd
+Mushinag      0622 D575556-8  S Ag Ni              520 Dd
+Araa          0623 C566254-A  S Lo Ni              522 Dd
+Helmuth       0624 C846203-8  S Lo Ni              922 Dd
+Kemal         0626 B566786-7    Ag Ri              323 Dd
+Askigaak      0629 E549AA8-C    Hi In              901 Dd
+Shen-Yang     0727 C665520-5    Ag Ni              502 Dd
+Norg          0729 A000114-D  N Lo Ni As           710 Dd
+Sultana       0730 B649414-9    Ni                 521 Dd
+Tlaza         0824 C303100-A    Lo Ni Va Ic        913 Dd
+Imone         0826 A9C1555-F  N Ni Fl Cp           613 Dd
+Skopyeh       0827 B500534-C    Ni Va              902 Dd
+Burnham       0828 B664379-8  N Lo Ni              501 Dd
+Bukit Seng    0830 C442334-8    Lo Ni Po           404 Dd

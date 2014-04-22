@@ -1,0 +1,22 @@
+@dir=gals\classic\meshan\map\stars
+@Light Yellow
+
+Meshan Sector / Stars
+
+@Light Cyan
+       A: Raen                      @stars_a.dat
+       B: Lues                      @stars_b.dat
+       C: Ungersol                  @stars_c.dat
+       D: Dekesh                    @stars_d.dat
+       E: Yonder                    @stars_e.dat
+       F: Arena                     @stars_f.dat
+       G: Varson                    @stars_g.dat
+       H: Maramar                   @stars_h.dat
+       I: Mersol                    @stars_i.dat
+       J: Zisran                    @stars_j.dat
+       K: Tokho                     @stars_k.dat
+       L: Oraros                    @stars_l.dat
+       M: Khuulu                    @stars_m.dat
+       N: Faengfel                  @stars_n.dat
+       O: Ekso                      @stars_o.dat
+       P: Sudzum                    @stars_p.dat

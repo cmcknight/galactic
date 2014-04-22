@@ -1,0 +1,35 @@
+@SUB-SECTOR: sec_G   SECTOR: 2war_end
+#
+# Trade routes within the subsector
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Kasaan        1711 D78536A-1    Lo Ni              520 Zv
+Muan Gwi      1717 A45696A-A  N Hi                 322 Zv
+Hsuilzish     1718 C678562-7    Ag Ni              905 Zv
+Gwathui       1720 C000669-7    As Na Ni           620 Zv
+Wanish Tyo    1813 C630369-6    De Lo Ni Po        402 Zv
+Tsamis        1814 D547764-2    Ag                 613 Zv
+Muan Issler   1816 C354865-5                       334 Zv
+Ashtagz Tyui  1818 C34846A-9    Ni                 803 Zv
+Gammur        1911 E000000-0    As Ba Lo Ni        002 Zu
+Galishgu      1912 C222578-7    Ni Po              823 Zs
+Asterr Tyui   1917 B666562-8    Ag Ni              613 Zv
+Kemisinesilu  1919 C9428AF-5    Po                 300 Zs
+Andiirish     2011 D000457-7    As Ni              402 Zs
+Gukaa         2012 C8667BE-7    Ag                 925 Zs
+Duikin Tyui   2015 E310366-4    Lo Ni              123 Zv
+Hariksiat     2017 C349764-4                       420 Zv
+Sithuan Hsarr 2114 E8B6000-0    Ba Fl Lo Ni        003 Zu
+Dzadwahtyan   2118 C78566A-6    Ag Ni Ri           923 Zv
+Hsuarrdzan    2213 A000565-A  N As Ni              320 Zv
+Muan Kwoyen   2218 E666663-3    Ag Ni Ri           312 Zv
+Maardansiip   2312 C865796-5    Ag Ri              303 Zs
+Shulgiasu     2319 C758647-6    Ag Ni              922 Zs
+Ganrane       2411 E521000-0    Ba Lo Ni Po        004 Zu
+Isseydo       2414 D248366-2    Lo Ni              223 Zv
+Shani         2415 E412000-0    Ba Ic Lo Ni        005 Zu
+Khalikkam     2418 E610000-0    Ba Lo Ni           004 Zu
+Akhidnug      2419 E433000-0    Ba Lo Ni Po        001 Zu
+Arrukir       2420 E59A663-3    Ni Wa              200 Zv

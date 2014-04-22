@@ -1,0 +1,41 @@
+@SUB-SECTOR: sec_G   SECTOR: hinter
+#
+# Trade routes within the subsector
+$2316 2516 1 0
+$2316 2318 0 0
+$2318 2216 0 0
+$2318 2418 0 0
+$2318 1820 0 0
+$1820 1822 0 1
+$1820 1619 -1 0
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Glass         1711 B525856-A  M                    822 Na
+Strane        1712 D648865-1                       810 Na
+Helvo         1714 D200852-6    Va Na              404 Na
+Yellowtide    1719 C363226-9    Ni                 904 Na
+Annex         1720 B434300-C    Ni              A  104 Na
+Skigg         1816 A100120-D    Ni Va              213 Na
+Namillo       1817 C666341-9  S Ni                 220 Na
+Ipidina       1820 C3008B7-8    Va Na              711 Na
+Streeve       1915 C99A698-8    Ni Wa              314 Na
+Mey Tyro      1917 D534654-7    Ni                 102 Na
+Xavid         1920 C43579A-6                       102 Na
+Likugash      2011 C537477-A    Ni                 423 Na
+Effit         2015 A5936B6-A    Ni                 104 Na
+Kishir        2016 B73A344-A    Ni Wa              701 Na
+Hasvari       2111 C3245AC-7    Ni                 204 Na
+Jaris         2112 C354000-6    Ni Ba              704 Na
+Drygrass      2119 C546576-4    Ni Ag           A  214 Na
+Manak         2120 D433551-9    Ni Po              902 Na
+Jaffik        2216 C9B2453-A    Ni              A  904 Na
+Zisurar       2218 D522302-8    Ni Po              902 Na
+Tamrice       2313 B332496-A  M Ni Po              320 Na
+Khugili       2315 C445111-8    Ni                 304 Na
+Trial         2316 A363566-C  F Ni                 304 Na
+Scratch       2318 C546354-6    Ni                 522 Na
+Arctica Nova  2413 D529666-5    Ni                 604 Na
+Dar           2414 B666002-9    Ni                 623 Na
+Hypagg        2418 C474242-A  S Ni                 414 Cs

@@ -1,0 +1,29 @@
+@SUB-SECTOR: sec_F   SECTOR: provence
+#
+# Trade routes within the subsector
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Gveurghak     0911 XA6A559-6    Wa Aq Ni        B  904 Wi
+Ozkhakh       0912 X54676A-6    Ag                 715 Wi
+Anngang       0913 X687978-4    Hi              B  712 Wi
+Athoekhuerrg  0915 X527000-0    Ba                 004 --     f
+Gaentsiroell  0916 X999412-4    Ni              B  122 Wi
+Aeraerir      0920 X683720-5                       602 Wi
+Thursou       1012 X5A2000-0    Fl Ba              001 --
+Llurang       1013 X988441-2    Ni              B  202 Wi     f
+Ghakong       1020 XA9735A-3    Ni                 913 Wi     f
+Algoranong    1111 X455756-2    Ag                 104 Wi     f
+Khoengaen     1112 X471430-0    Ni                 924 Wi
+Aegh Rong     1113 D674631-8    Ag Ni              324 Wi
+Oesaevang     1115 X99A403-4    Wa Ni              323 Wi
+Koenalor      1117 C864746-8    Ag                 802 Wi     f
+Kaegrogz      1214 X310000-0    Va Ba              003 --     f
+Lloedh        1217 D97A444-7    Wa Ni              324 Wi     f
+Gvighue       1314 X8A5000-0    Fl Ba              024 --
+Rousurgeks    1316 X273743-5                       213 Wi     f
+Vifueks       1317 D786534-7    Ni              B  301 Wi     f
+Ueng Fak      1413 X451453-2    Ni                 101 Wi
+Uerelodza     1419 X583585-1    Ni              B  213 Wi
+Foungdaeghz   1613 X547572-3    Ni                 103 Wi

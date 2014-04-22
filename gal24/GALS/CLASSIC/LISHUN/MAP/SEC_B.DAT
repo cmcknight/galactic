@@ -1,0 +1,51 @@
+@SUB-SECTOR: sec_B   SECTOR: lishun
+#
+# Trade routes within the subsector
+$1006 0806 -1 0
+$1006 1307 0 0
+$1307 1408 0 0
+$1408 1609 0 0
+$1408 1511 0 1
+$1609 1908 1 0
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Kfe-gou       0904 C6987AA-7  C Ag                 624 Vv
+Amnuum        0906 B454796-9  H Ag                 203 Vv
+Gadiimkimi    0907 E78A020-7    Lo Ni Wa           500 Vv
+Mrmmun        1002 B324579-C    Ni                 303 Vv
+Makun         1005 D455300-7  C Lo Ni              522 Vv
+Ushra         1006 C524522-C  C Ni                 400 Vv
+Linuusgam     1009 C768003-8    Lo Ni              812 Li
+Shesapho      1010 C541444-8    Ni Po              111 Li
+Shimidan      1101 E264200-8  C Lo Ni              523 Vv
+Shikima       1106 C140463-C    Ni Po De           805 Vv
+Ersha         1108 B223542-C  G Ni Po              303 Vv
+Irdukhag      1110 D582511-7  N Ni                 414 Li
+Umnur         1202 B8D48B9-B    Fl                 314 Vv
+Zurr          1205 C84A215-B    Lo Ni Wa           803 Vv
+Phodonba      1207 E427875-6                       801 Vv
+Anokpad       1209 A866645-9  H Ag Ni Ri           900 Vv
+Laesa         1301 B423868-8  C Na Po              404 Vv
+Khoez-toeng   1304 A8C9740-9    Fl                 510 Vv
+Untida        1305 C355585-C    Ag Ni              920 Vv
+Radshasar     1307 A456459-C  C Ni                 920 Vv
+Jebiina       1308 B473400-F  C Ni                 110 Vv
+Gerrgh Vor    1406 C552625-6  C Ni Po              315 Vv
+Farstar       1407 B7A8678-A    Ni Fl              814 Vv
+Adawi         1408 A794AB9-F  M Hi In              313 Na
+Lada          1410 B212341-B  C Lo Ni Ic           103 Va
+Temple        1501 C461568-6    Ni                 710 Vv
+Raptix        1502 C2007CF-6    Na Va              400 Vv
+Gvroudz       1503 E100565-7    Ni Va              613 Vv
+Rraeghuz      1504 C666586-5  C Ag Ni              403 Vv
+Guugshiiku    1509 C244843-9  G                    904 Va
+Amshaaku      1510 C755220-9  C Lo Ni              200 Va
+Arikhii       1601 C437001-9    Lo Ni              701 Vv
+Datheern      1602 C668ABB-9    Hi                 104 Vv
+Idshu Shirdug 1603 E557685-2    Ag Ni              410 Vv
+Parkland      1605 D788424-6    Ni                 820 Vv
+Khoegzh       1608 A474113-B    Lo Ni              804 Va
+Giike Ruz     1609 A360224-F  C Lo Ni De           912 Va
+Uptas         1610 C300766-9    Na Va              300 Va

@@ -1,0 +1,33 @@
+@SUB-SECTOR: sec_A   SECTOR: sorted
+#
+# Trade routes within the subsector
+$0110 0809 -1 0
+$0110 0111 0 1
+$0110 0207 0 0
+$0704 1105 1 0
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Faiwyd        0105 E500589-7    Ni Va           A  712 Im
+Darrukesh     0106 A4859CF-D  N Hi                 823 Im
+Iddamakur     0110 A7799AB-7    Hi In              303 Im
+Basil         0207 A842731-E    Po                 334 Im
+Amkhalarug    0301 B4439BD-E    Hi In Po        A  604 Im
+Atalanta      0304 C476368-D    Lo Ni           A  503 Im
+Sidon         0308 B6B9521-C    Ni Fl              903 Im
+Gramercy      0405 B330525-8    Ni Po De           500 Im
+Urud          0407 B100543-E    Ni Va              802 Im
+Morgana       0501 BA9A861-C    Wa                 823 Im
+Ugarup        0502 B89A8BE-E    Wa                 102 Im
+Ixtloc        0509 B530487-D    Ni Po De           100 Im
+Rilke         0604 C59A368-B    Lo Ni Wa           520 Im
+Ishadar       0606 C000776-A    Na As              825 Im
+Goshen        0609 C577532-B    Ag Ni              300 Im
+Nukaash       0610 C247721-9    Ag                 320 Im
+Obrichenny    0701 C643657-C    Ni Po              105 Im
+Kropotkin     0703 C4446A6-D    Ag Ni              220 Im
+Thamber       0704 A454898-E  A Cp                 612 Im
+Athene        0706 D6B9110-F    Lo Ni Fl           125 Im
+Leonore       0807 C310576-B    Ni                 612 Im
+Azun          0809 B476ABC-B    Hi In              210 Im

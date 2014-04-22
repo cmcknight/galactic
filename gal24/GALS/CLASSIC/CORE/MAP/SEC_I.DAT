@@ -1,0 +1,41 @@
+@SUB-SECTOR: Bunkeria SECTOR: Core
+#
+# Trade routes within the subsector
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Trevor        0125 B664000-C    Lo Ni Ba           810 Li
+Deseca        0126 B241762-B    Po                 513 Li 
+Marsus        0127 B578598-B  A Ag Ni              314 Li 
+Protalus      0128 B559463-B  N Ni                 123 Li 
+Rollabon      0129 B984331-8    Lo Ni              522 Li 
+Katock        0130 E200301-C    Lo Ni Va           102 Li 
+Randar        0221 A789567-D  N Ni                 805 Li 
+Acmed         0222 E210669-8    Na Ni              705 Li 
+Domitar       0224 E234147-6    Lo Ni              103 Li 
+Hectalus      0228 B565301-A  N Lo Ni              920 Li
+Bentax        0322 B242275-E  W Lo Ni Po           204 Li 
+Oorpic        0324 B413777-B  N Na Ic              101 Li 
+Iacus         0325 B210757-C  S Na                 203 Li 
+Bellum        0326 B340401-B  N Ni Po De           704 Li 
+Ferot         0328 B253432-D    Ni Po              311 Li 
+Gishalam      0421 A887325-D    Lo Ni              822 Li 
+Hellhole      0423 B400555-F  S Ni Va              200 Li 
+Irlu          0428 B53598C-F  N Hi                 613 Li 
+Relle         0429 C9B9665-A    Ni Fl              704 Li 
+Simic         0522 E362554-8    Ni                 524 Li 
+Dinhe         0523 B590444-D    Ni De              203 Li 
+Asalam        0526 B200346-D    Lo Ni Va           121 Li 
+Rax           0527 A357110-B  N Lo Ni              115 Li 
+Irdu          0529 B386521-C  N Ag Ni              512 Li 
+Tarshii       0530 D433565-7  S Ni Po              504 Li
+Sketola       0622 A647789-E  S Ag                 304 Li 
+Ontar         0624 B100213-E  A Lo Ni Va           804 Li 
+Cromind       0721 D251579-9    Ni Po              601 Li 
+F'rnow        0722 B361576-A    Ni                 302 Li 
+Antar         0725 B411111-D  N Lo Ni Ic           203 Li 
+Dral          0727 B728967-F  S Hi In              912 Li 
+Lalandra      0821 A000322-F  S Lo Ni As           904 Li 
+Dunkle        0822 B140000-D  N Lo Ni Po De Ba     114 Li 
+Ess Nurr      0827 B350400-C    Ni Po De           613 Li 

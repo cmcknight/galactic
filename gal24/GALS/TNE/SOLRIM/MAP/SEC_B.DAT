@@ -1,0 +1,32 @@
+@SUB-SECTOR: sec_b   SECTOR: solrim
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Porlock       0902 X433000-0    Ba                 013 Un
+Bethe         0903 X422000-0    Ba                 012 Un
+Llewellyn     0907 X200000-0    Ba Va              022 Un
+Ganelon       0909 X430000-0    Ba De              012 Un
+Poseidon      0910 X8AA000-0    Ba Fl              022 Un
+Khedish       1002 X5568R9-7                       222 Wi
+Shaabipih     1007 X5538SB-8    Po                 914 Wi
+Coriolanus    1105 X237000-0    Ba                 011 Un
+Tammuz        1107 X7548RE-3                    B  623 Wi
+Quaver        1110 X111000-0    Ba Ic              035 Un
+Akimasi       1201 X8A5000-0    Ba Fl              012 Wi
+Sase          1202 D3477VA-8    Ag                 114 Wi
+Biggles       1205 X236000-0    Ba                 000 Wi
+Ascalon       1207 X5628U5-6                    B  823 Wi
+Vanefa        1304 E5639VE-8    Hi              B  412 Wi
+Rimmon        1306 X222000-0    Ba                 020 Un
+Gulimaru      1402 X7A6000-0    Ba Fl              012 Un
+Esterhazy     1404 X335000-0    Ba                 002 Un
+Azaremiid     1405 B7669A7-9 N	Hi                 412 Na     f
+Catseye       1406 X222000-0    Ba                 010 Un
+Suleiman      1504 EA649RC-7    Hi              B  902 Wi
+Rossyg        1505 E7857R9-3    Ag                 214 Wi
+Ai Jabry      1507 A765A53-A N	Hi                 120 Na
+Imarir        1510 X2503RE-2    Po Lo De Ni        634 Wi
+Dolfuss       1604 X100000-0    Ba Va              002 Un
+Madder        1607 X532000-0    Ba                 002 Un
+Okefenokee    1609 X337000-0    Ba                 025 Un

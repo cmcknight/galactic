@@ -1,0 +1,52 @@
+@SUB-SECTOR: sec_A   SECTOR: massilia
+#
+# Trade routes within the subsector
+$0205 3203 -1 0
+$0205 0508 0 0
+$0508 0711 0 1
+$0809 0711 0 1
+$0809 0908 1 0
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Tahspek       0109 B5468BA-A                       613 Li
+Mond          0110 B737794-A                       721 Li
+Vilardi       0205 A8C6426-E    Ni Fl              813 Li
+Trostar       0206 B78A635-C  N Ni Wa              920 Li
+Kapabu Sepple 0207 B87888B-A  N                    604 Li
+Tanoo         0210 B78A452-D  N Ni Wa              202 Li
+Depot         0301 B78A777-C  D Ri Wa              300 Li
+Ralton        0303 C9B58A9-8  S Fl                 413 Li
+Fournier      0304 B641764-A    Po                 405 Li
+Yadro         0306 B35376A-A    Po                 404 Li
+Thallium      0307 B1008A7-C  S Va Na              502 Li
+Selenopod     0308 B331003-C    Ni Po Lo           114 Li
+Cronsis       0309 D75A310-A    Ni Wa Lo           604 Li
+Kaggushus     0402 A442AA7-G    Hi In Po Cp        904 Li
+Cleves        0403 A566422-E    Ni              A  512 Li
+Towering      0501 B6548AC-B                       600 Li
+Cronin        0502 B55205A-A  N Ni Po Lo           903 Li
+Ershur        0504 B386521-B  N Ni Ag              923 Li
+Lebensraum    0507 B544000-B  N Ni Ba Lo           904 Li
+Ticularosta   0508 A100654-G    Ni Va Na           322 Li
+Nedupon       0509 B100632-C    Ni Va Na           400 Li
+Cluseret      0510 B3627BD-C                       604 Li
+Tigma-tel     0601 E5536A9-5    Ni Po              424 Li
+Chamati       0602 B253364-D    Ni Po Lo           510 Li
+Gade          0604 B797021-9    Ni Lo              312 Li
+Munoch        0606 E868576-7    Ni Ag              313 Li
+Theodisus     0608 B11058B-D  S Ni                 902 Li
+Clausen       0609 A456002-D  N Ni Lo              204 Li
+Raldery IV    0701 D567466-8  S Ni                 602 Li
+Death         0703 B100300-E  N Ni Va Lo        A  612 Li
+Besholm       0704 B84A445-C  N Ni Wa              904 Li
+Dalsgaard     0706 B687100-D    Ni Lo              220 Li
+Yagas         0707 B566AFC-E    Hi                 502 Li
+Villana       0801 B677334-B    Ni Lo              305 Li
+Aagkhuur      0802 D100958-C    Hi In Va Na        224 Li
+Nasuga        0803 A300620-D    Ni Va Na           214 Li
+Soro          0805 B7A0684-C    Ni De              204 Li
+Observatory   0807 C531544-9    Ni Po              714 Li
+Resaca        0808 B452456-D    Ni Po              810 Li
+Golden Ring   0810 B698541-A  N Ni Ag              104 Li

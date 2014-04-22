@@ -1,0 +1,31 @@
+#--------1---------2---------3
+#PlanetName   Loc. Star(s)
+#----------   ---- --------
+@SUB-SECTOR: Apge SECTOR: Core
+Irkigkhan     0103 
+Shana Ma      0104 
+Niir          0106 
+Azimuth       0202 
+Khaur Ga      0203 
+Gekshiiuun    0208 
+Uras          0210 
+Khaam         0302 
+Kuunaa        0304 
+Muudeshi      0305 
+Kiid          0306 
+Pasliir       0307 
+Shar          0308 
+Mag           0310 
+Apge          0402 M2 V
+Irli Un       0403 
+Dake Ag       0405 
+Arkag Ka      0408 
+Gin           0409 
+Daa           0410 
+Niir          0502 
+Emiigaap      0505 
+Dashgad       0603 
+Khuumiam      0606 
+Maaruur       0707 
+Gaage         0806 
+Kikim         0808 

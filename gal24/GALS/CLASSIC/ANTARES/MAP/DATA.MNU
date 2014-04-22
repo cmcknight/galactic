@@ -1,0 +1,27 @@
+@dir=gals\classic\antares\map
+@Light Yellow
+
+Amdukan / Data Files
+
+@Light Cyan
+      Sector Data                    @..\antares.dat
+
+@Light Green
+      Subsector Data
+@Light Cyan
+       A: Pelusium                   @sec_a.dat
+       B: Ninik                      @sec_b.dat
+       C: Dartho                     @sec_c.dat
+       D: Oulduktak                  @sec_d.dat
+       E: Shurlarlem                 @sec_e.dat
+       F: Sarar                      @sec_f.dat
+       G: Gimgir                     @sec_g.dat
+       H: Kiirkandin                 @sec_h.dat
+       I: Urunishu                   @sec_i.dat
+       J: Urnadnim                   @sec_j.dat
+       K: Antares                    @sec_k.dat
+       L: Mukusi                     @sec_l.dat
+       M: Urgusap                    @sec_m.dat
+       N: Gaakish                    @sec_n.dat
+       O: Sakhag                     @sec_o.dat
+       P: Celebes                    @sec_p.dat

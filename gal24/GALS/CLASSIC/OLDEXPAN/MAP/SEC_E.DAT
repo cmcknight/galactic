@@ -1,0 +1,55 @@
+@SUB-SECTOR: sec_E   SECTOR: oldexpan
+#
+# Trade routes within the subsector
+$0311 0310 0 -1
+$0311 0516 0 0
+$0413 0114 0 0
+$0114 3014 -1 0
+$0413 0613 0 0
+$0516 0520 0 0
+$0516 0416 0 0
+$0416 0318 0 0
+$0416 0518 0 0
+$0419 0318 0 0
+$0419 0518 0 0
+$0817 0222 0 1
+$0817 0818 0 0
+$0717 0918 1 0
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Klan          0112 A79788E-E  S                    800 Im
+Wott          0113 B530655-D  A De Na Ni Po        724 Im
+Dachnis       0114 A212A85-F  S Hi Ic In Na        110 Im
+Xulfor        0117 D35A573-6    Ni Wa              122 Im
+Jenms         0118 C561659-9  S Ni Ri              102 Im
+Laurence      0212 A446867-A  A                    912 Im
+Ranb          0311 C766766-9    Ag Ri              502 Im
+Olxber        0312 C000505-B  S As Ni              604 Im
+Bede          0317 B201766-D  N Ic Na Va           500 Im
+Strat         0318 A9BA8A8-F  S Fl Wa              304 Im
+Sanlorthan    0412 C757663-A  S Ag Ni              104 Im
+Clersor       0413 A1009CC-F    Hi In Na Va        210 Im
+Exage         0416 AA85978-F  N Hi                 204 Im
+Seefare       0418 C31079A-8    Na                 610 Im
+Polei         0419 A86A814-F    Wa                 704 Im
+Waroh         0512 A789846-E  A Ri                 820 Im
+Yeroltoy      0513 BA43763-E    Po                 935 Im
+Frallsord     0516 A462A26-F  W Hi                 204 Im
+Ajjeig        0518 A3259AA-F    Hi In              504 Im
+Srys          0520 A767924-F    Hi                 202 Im
+Vinooks       0613 A440756-F  A De Po              103 Im
+Afrend        0614 B676876-D                       801 Im
+Marsol        0620 B122623-C    Na Ni Po           904 Im
+Sulthanbran   0712 B000732-E    As Na              304 Im
+Lidator       0713 C9CA735-9    Fl Wa              120 Im
+Vard          0714 X9BA997-7    Fl Hi Wa        R  204 Im
+Ilm           0715 B662936-D    Hi                 715 Im
+Sarcathon     0716 C963610-9    Ni                 804 Im
+Ritaboll      0717 A35A979-F  S Hi Wa              804 Im
+Zinorow       0811 B688844-E  S Ri                 704 Im
+Flanture      0812 B743735-E    Po                 905 Im
+Quan          0813 B530748-E    De Na Po           704 Im
+Inftow        0817 A2039A5-E    Hi Ic In Na Va     213 Im
+Yerhen        0818 A374779-F    Ag                 803 Im

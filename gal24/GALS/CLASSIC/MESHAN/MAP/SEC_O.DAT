@@ -1,0 +1,42 @@
+@SUB-SECTOR: sec_O   SECTOR: meshan
+#
+# Trade routes within the subsector
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Oesi Zoe      1738 B564311-8  G Lo Ni              311 Vv
+Rraerrgu      1740 C544553-8    Ag Ni              503 Vv
+Missionary    1833 C422865-7    Na Po              223 Vo
+Digar         1838 CA95114-8    Lo Ni              810 Vv
+Gutu          1839 B879ABD-A    Hi In              720 Vv
+Kanal         1840 C330998-A    De Hi In Na Po     814 Vv
+Oungvor       1933 C275323-8  G Lo Ni              103 Vo
+Gakaerrgh     1934 D7A8453-7  G Fl Ni              224 Vo
+Thoenou       1935 C300411-7    Ni Va              905 Vo
+Gzuenerr      1936 C222104-B    Lo Ni Po           101 Vo
+Kserrzarr     1937 B200753-A  G Na Va              724 Vo
+Galdas        1940 B385973-C  G Hi                 822 Vv
+Ishamzu       2034 A7B6567-D  G Fl Ni Cp           404 Vo
+Aekhsueng     2035 E210305-7    Lo Ni              804 Vo
+Shiishularar  2039 B410794-A    Na                 603 V1
+Ghaekarz      2131 C558400-6  C Ni                 204 Vo
+Oksen         2135 B667100-A    Lo Ni              620 Vo
+Unog          2136 B140100-A  G De Lo Ni Po        620 Vo
+Ukur          2139 C8A3ACE-9    Fl Hi              334 V1
+Dhonggo       2140 C858400-9    Ni                 803 V1
+Koksgoudh     2233 B52248C-B  G Ni Po              405 Vo
+Zaelgaell     2235 E323677-7    Na Ni Po           402 Vo
+Ujcik         2236 B746854-8  G                    103 Vo
+Un Vaeg       2240 C325579-7  G Ni                 600 V1
+Gvakfan       2331 E9D9345-6    Fl Lo Ni           610 Vo
+Lodzagna      2332 E445211-4    Lo Ni              700 Vo
+Aekhtan       2333 B4688A9-6                       403 Vo
+Aenguer       2334 B52057A-9  C De Ni Po           803 Vo
+Dha Knog      2338 C222444-6    Ni Po              901 V1
+Dassa         2339 B5679BB-7    Hi                 625 V1
+Khaegz        2431 B310689-A  G Na Ni              904 Vo
+An Tinor      2433 E537643-5  C Ni                 804 Vo
+Adhoen        2434 C445210-7    Lo Ni              612 Vo
+Aerth         2435 B787456-B  G Ni                 301 Vo
+Arrgho        2437 C457761-4    Ag                 403 V1

@@ -1,0 +1,29 @@
+@SUB-SECTOR: Al Mayadin SECTOR: Star's End
+#
+# Trade Routes
+#
+$0316 3116 -1 0
+#
+$0613 0316 0 0 11
+$0613 0710 0 -1 11
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Ikakaddu      0112 B5759C9-C  N Hi                 114 Hl    
+Dekulini      0113 D551653-5                       401 Hl    
+Suugirumir    0116 B674544-B    Ag                 613 Hl    
+Gakenud       0213 C401412-B  S Ic Va              504 Hl    
+Uushakinkush  0216 E230313-A    De Lo              521 Hl    
+Lekha         0311 A6A1667-7    Fl                 910 Hl    
+Tovo          0315 B7A0468-7  N De Lo              203 Hl      
+Ir            0316 AA89ACG-F    Hi                 724 Hl    
+Geshiimudush  0413 E612300-9    Ic Lo              515 Hl    
+Andorin       0511 X999000-0  S Ba Lo              022 Hl      
+Adishka       0513 X320000-0    Ba De Lo           003 Hl    
+Kiimshamiir   0613 A532ABC-D    Hi                 722 Hl    
+Amarga        0614 B475767-6    Ag                 903 Hl    
+Liniilir      0615 E582576-6                       603 Hl    
+Gugiim        0713 C6757AA-A    Ag                 810 Hl    
+Khurlazer     0814 B757410-7                       215 Hl    
+Arimiresh     0815 E578358-6    Lo                 902 Hl    
+

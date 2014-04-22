@@ -1,0 +1,17 @@
+Lagna D110369-9     
+
+Starport: Poor              Size: Small (800-2400 km)
+Atmosphere: Trace           Hydrographics: No liquid water
+Population: 5,000           Govt: Captive Government
+Law Level: High             Technology: Early Stellar
+                 
+	Around 27,000 million of Geonee died in the system in the Collapse, 
+when virus took over the systems of the orbital cities and the planet's
+environmental controls. A Permanent Salvaging Station of the Confederation
+has been established to obtain technological items from this once heavily
+populated, industrial, TL 16 system. Whole starships have been recovered 
+and refitted. The huge number of Geonee dead bodies found in the system 
+has caused many Geonee to refer to Lagna as "The Cemetery".
+
+
+by Carlos Alos-Ferrer (Alos@merlin.fae.ua.es)

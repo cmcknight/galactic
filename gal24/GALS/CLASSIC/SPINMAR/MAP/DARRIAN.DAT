@@ -1,0 +1,43 @@
+@SUB-SECTOR: Darrian   SECTOR: Spinward Marches
+#
+# Trade routes within the subsector
+$0223 0421 0 0 10
+$0223 0325 0 0 10
+$0325 0624 0 0 10
+$0624 0724 0 0 10
+$0325 0426 0 0 10
+$0426 0527 0 0 10
+$0527 0727 0 0 10
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Junction      0122 D150441-4    Ni Po De           210 Na
+Uniqua        0129 E62556B-4    Ni                 210 Na
+Garoo         0130 A2008CB-A    Na Va              210 Na
+Stern-Stern   0223 B321588-B    Ni Po              701 Da
+886-945       0230 D833000-3    Lo Ni Po Ba        504 Na
+Nomym         0321 C233898-A  G Na Po              623 Na
+Laberv        0325 B354443-7  M Ni                 834 Da
+Ektron        0326 C332652-9    Na Ni Po           423 Da
+Zamine        0421 E897977-A    Hi In              223 Da
+Engrange      0425 C554769-8    Ag                 701 Da
+Ilium         0426 B444831-9  M                    401 Da
+Roget         0427 B566777-9    Ag Ri              420 Da
+Kardin        0429 E453123-6    Lo Ni Po           410 Na
+Bularia       0430 C774622-5    Ag Ni              310 Cs
+Rorre         0526 D765657-3    Ag Ni Ri           103 Da
+Mire          0527 A665A95-B  M Hi Cp              110 Da
+Condaria      0528 E54779B-5    Ag                 901 Na
+Dorannia      0530 E42158A-8    Ni Po              510 Na
+Terant 340    0622 D1405A7-9    Ni Po De           523 Da
+Jacent        0624 A333644-D    Na Ni Po           710 Da
+494-908       0625 X893000-0    Lo Ni Ba        R  710 Da
+Darrian       0627 A463955-G    Hi                 225 Da
+Torment       0721 X233231-4    Lo Ni Po        R  820 Da
+Trifuge       0723 C446556-9    Ag Ni              210 Da
+Nosea         0724 B2326BB-C  M Na Ni Po           620 Da
+Spume         0727 C140200-A  M Lo Ni Po De        434 Da
+Ator          0729 D326258-6    Lo Ni              821 Na
+Cunnonic      0822 E65767A-3    Ag Ni              502 Da
+Debarre       0830 B854123-9    Lo Ni           A  822 Cs

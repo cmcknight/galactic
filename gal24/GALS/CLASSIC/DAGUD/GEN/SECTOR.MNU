@@ -1,0 +1,25 @@
+@dir=gals\classic\dagud\gen
+@Light Yellow
+
+Dagudashaag Sector / General Information
+
+@Light Cyan
+      Credits                      @..\credits.txt
+      Sector Data                  @..\map\data.mnu
+
+      Library Data                 @library.txt
+      Legends of Dagudashaag       @legends.txt
+      Null-G Kabbadi               @kabbadi.txt
+
+@Light Green
+      Aliens:
+@Light Cyan
+      Jala'Lak   @jalalak.txt
+      Malaach    @malaach.txt
+      Scanians   @scanian.txt
+
+@Light Green
+      Adventures:
+@Light Cyan
+      Gone Fishin'  @fish.txt
+      Tracers       @tracers.txt

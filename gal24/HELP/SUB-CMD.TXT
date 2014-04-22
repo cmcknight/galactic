@@ -1,0 +1,30 @@
+
+List of Commands for Subsector Map Screen
+-----------------------------------------
+
+ K/J/H/L/(Arrows)       Move to Neighboring Parsec
+    PgUp/PgDn           Move to top/bottom edge of subsector
+  Tab/Shift-Tab         Move to right/left edge of subsector
+     Ctrl-L             Redraw Map
+     Ctrl-U             UWP/WorldName Display Toggle
+ (Enter)/(Space)        View/Create World Write-up
+   (Ins)/(Del)          Insert/Delete World (or Non-World)
+       F1               View Subsector Write-up
+       F2               Edit or Create Subsector Write-up
+       F3               Edit World's UWP stats (or Non-World)
+       F4               Create/Edit/View World Map
+       F5               Strain Subsector
+       F6               Insert Jumproute
+       F7               Read Sector Notes
+       F8               Create/Edit/View Star System Map
+       F10              Dump Subsector Map to Bitmap
+        >               Edit or Create World Write-up
+        <               Edit Subsector Data File
+        E               View Extended UWP Code Definitions
+        G               Galaxy Dot-Map
+        M               Graphical Map of Entire Sector
+        T               View Trade Classification Codes
+        U               Edit Sector's UWP.DAT File
+     (Esc)/Q            Return to Sector Map Screen
+
+   Hit <Q> to return to Subsector Map

@@ -1,0 +1,32 @@
+@SUB-SECTOR: sec_j   SECTOR: Diaspora
+#
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Naknek        0927 XAC9000-0    Ba Fl              002 Un
+Palastrup     0928 X100000-0    Ba Va              000 Un
+Poldepi       0929 X667100-3    Ni Lo              203 Wi
+Gegaasha      1021 D76487A-7                    B  212 Na
+Shoehorn      1123 X200000-0    Ba Va              004 Un
+Wellun        1124 X99A7R9-8    Wa              B  913 Wi
+Pequot        1128 X7678RB-5                    B  403 Wi
+Ledge         1223 C6588WE-7                    B  501 Wi
+Nani          1229 X6574O6-3    Ni Lo              212 Wi
+Helena        1230 X532000-0    Ba                 003 Un
+Birii         1321 X100000-0    Ba Va              002 Un
+Chimborazo    1324 X200000-0    Ba Va              000 Un
+Iusea         1325 X4547RA-6    Ag                 214 Wi
+Hammett       1328 X200000-0    Ba Va              024 Un
+Rocha         1422 X6A2000-0    Ba Fl              003 Un
+Iqorr         1426 X435000-0    Ba                 012 Un
+St. James     1521 X5534U9-5    Ni Po Lo           112 Wi
+Cheetah       1522 X100000-0    Ba Va              010 Un
+Bezan         1524 X663103-0    Ni Lo              104 Wi
+Martinique    1525 X4653S6-6    Ni Lo              112 Wi
+Kennebunk     1530 E6946Q3-4    Ni Ag           B  901 Wi
+Nilaa         1621 X6977R8-3    Ag              B  704 Wi
+Wellfleet     1622 X100000-0    Ba Va              002 Un
+Whereitsat    1624 X100000-0    Ba Va              002 Un
+Ebekhar       1628 D9897T9-7                       802 Wi
+St. Denis     1630 X110000-0    Ba                 002 Un

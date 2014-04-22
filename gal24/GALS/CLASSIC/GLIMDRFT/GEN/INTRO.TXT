@@ -1,0 +1,29 @@
+Introduction to the Glimmerdrift Reaches
+----------------------------------------
+
+The Glimmerdrift Reaches sector was developed by Judges Guild in 1981.
+It was declared invalid by GDW in 1984.
+
+Since the sector was produced before it became common practice to give
+population multipliers, number of planetoid belts, or number of gas giants in
+sector data, these numbers have been left as 0, except with gas giants where 0
+indicates the absence of any and 1 indicates the presence of an indeterminate
+number. There were also a few subsectors where it was possible to have a
+reasonable guess at population multipliers. These have also been included.
+
+Whilst transcribing the data I have tried to preserve as much of the feel of
+the original product as possible. Please bear in mind that this sector was
+published in the early eighties, and as such is far 'rougher' than the sectors
+which are published today. In transcribing the data, I found many examples
+where the planetary data conflicted with the accompaning text. I have made no
+attempt to correct these conflicts.
+
+Andrew Moffatt-Vallance, 1997
+a.vallance@netaccess.co.nz
+
+------------------------------------------------------------------------------
+
+Update (17-July-97): Added random population multipliers (where popmult
+originally equaled 0) on recommendation from one of the users. Worlds with
+pop=0, law=0, and gov=0 got to keep their original popmult=0.   -jimv
+

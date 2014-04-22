@@ -1,0 +1,49 @@
+@SUB-SECTOR: sec_K   SECTOR: trojan
+#
+# Trade routes within the subsector
+$1723 1621 -1 0
+$1728 1626 -1 0
+$2029 1931 0 1
+$2221 2020 0 -1
+$2221 2621 1 0
+$2421 2520 1 -1
+$2424 2624 1 0
+$2425 2527 1 0
+$1723 1823 0 0
+$1823 2023 0 0
+$2023 2421 0 0
+$2123 2424 0 0
+$2226 2227 0 0
+$2226 2624 1 0
+$1928 1927 0 0
+$1928 1728 0 0
+$1928 2029 0 0
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Oiwoiieaw     1723 B7878M7-D    Ri                 711 As
+Asoieteal     1728 B6976J8-A  R Ag Ni              604 As
+Camoran       1823 A55167A-B    Ni Po              514 As
+Keaih         1830 CAA18J7-9    Fl                 202 As
+Ohaualr       1927 B4223G8-9  T Po Ni Lo           214 As
+Tlaiowaha     1928 B1209L4-E  T De Hi In Na Po     411 A1
+Khusai        2023 A5766M5-C  R Ag Ni              724 As
+Staha         2029 B7554K6-E  R Ni                 313 As
+Asim          2123 B867564-6    Ag Ni              205 As
+Kteiroa       2125 C4601K4-8    De Lo Ni           710 As
+Torpol        2221 B55A77A-8    Wa                 624 As
+Drinax        2223 A33645C-F    Ni                 714 As
+Tyokh         2226 B466AH7-E    Hi                 204 As
+Iroioah       2227 B6301G3-E    De Po Ni Lo        823 As
+Hleakhayes    2229 E4434KB-A    Po Ni              812 As
+Akoaft        2230 E898000-0    Ba Lo Ni        R  231 As
+Clarke        2322 B899753-8    C5                 820 As
+Pourne        2324 A9B2887-A    Fl                 902 As
+The World     2327 E100551-6    In Ni Va           223 As
+Vorito        2329 E595ABB-A    In Hi              105 As
+Blue          2421 B443487-C    Po Ni              702 As
+Hilfer        2424 BA5077A-6    De Po              600 As
+Paal          2425 B564679-6    Ag Ni Ri           603 As
+Sink          2426 D665220-5    Ni Lo              813 As
+Fantasy       2428 E788400-2    Ni                 331 As

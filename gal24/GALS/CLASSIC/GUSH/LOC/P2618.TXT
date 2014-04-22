@@ -1,0 +1,21 @@
+System: Courtesy
+Subsector: Isi Ahto
+Sector: Gushemege Sector
+Coordinates: 2618 (H0208)
+UWP: A647200-B
+
+Starport: Excellent
+Size: Medium (8800-10400 km)
+Atmosphere: Thin, tainted
+Hydrographics: 70% water
+Population: 600
+Govt: No government
+Law Level: No Prohibitions
+Technology: Average Stellar
+
+Bases: None
+Trade Codes: Lo Ni           
+Travel Zone: Green
+Planetoid Belts: 0
+Gas Giants: 4
+Allegiance: Imperial

@@ -1,0 +1,28 @@
+@dir=gals\classic\ealiyasi\map
+@Light Yellow
+
+Ealiyasiyw Sector / Data Files
+
+@Light Cyan
+      Sector Data                  @..\ealiyasi.dat
+      Credits                      @..\credits.txt
+
+@Light Green
+      Subsector Data
+@Light Cyan
+       A: Truiheiw                 @sec_a.dat
+       B: Airiyrlyu'               @sec_b.dat
+       C: Fye'iyra                 @sec_c.dat
+       D: Ihearu                   @sec_d.dat
+       E: Ktaiyoir                 @sec_e.dat
+       F: Hla'ei                   @sec_f.dat
+       G: Kilrya                   @sec_g.dat
+       H: Ehilao                   @sec_h.dat
+       I: Oeiykh                   @sec_i.dat
+       J: Tohai                    @sec_j.dat
+       K: Fearah                   @sec_k.dat
+       L: Tulrakh                  @sec_l.dat
+       M: Eiyhkihte                @sec_m.dat
+       N: Kheasu'                  @sec_n.dat
+       O: Wasealya                 @sec_o.dat
+       P: Ouhtoh                   @sec_p.dat

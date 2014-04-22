@@ -1,0 +1,27 @@
+
+Dagudashaag Sector - Credits
+----------------------------
+
+Jae Campbell (SignalGK@aol.com): Editor, Signal GK Traveller Fanzine
+Duncan Law-Green (dlg@ryouko.demon.co.uk): HIWG's Dag' Sector Analyst
+Leighton Piper (LeightonDP@compuserve.com)
+Nick Walker (CNW@globalnet.co.uk)
+Idiot/Savant (idiot@sans.vuw.ac.nz): Put sector into galactic-format
+
+Duncan writes:
+
+   I began working on Dagudashaag in the early days of HIWG, and 
+   published a number of articles in the HIWG database as Dagudashaag 
+   Sector Developer. I joined up with Jae and Leighton Piper sometime 
+   later (c. 1990), when I learned that they wanted to develop an entire 
+   sector in their fanzine 'Signal GK' and thought that my articles 
+   would be a reasonable start to work from. 
+
+   The world data used in our development of Dagudashaag was nearly, but 
+   not completely consistent with the official sector data we obtained 
+   from GDW.... the UWPs of a few important worlds were changed. The 
+   names of the worlds were created jointly by the members of the Signal 
+   GK team.
+
+1120 borders from the dot-maps in DGP's _Vilani and Vargr_.
+

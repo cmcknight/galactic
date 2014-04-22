@@ -1,0 +1,12 @@
+San Son X864300-5
+
+Starport: None                 Size: Large (12000-13600 km)
+Atmosphere: Standard           Hydrographics: 40% water
+Population: 3,000              Govt: No government            
+Law Level: No Prohibitions     Technology: Industrial
+           
+San Son is a jungle planet, with extremely dangerous flora and fauna. Only
+a few sparse, small communities survive, having lost all memory of
+pre-Collapse times.
+
+by Carlos Alos-Ferrer (Alos@merlin.fae.ua.es)

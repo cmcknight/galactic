@@ -1,0 +1,69 @@
+@SUB-SECTOR: sec_P   SECTOR: corridor
+#
+# Trade routes within the subsector
+$3232 3129 0 -1
+$3232 2933 0 0
+$3232 3136 0 0
+$2933 3136 0 0
+$2933 2733 0 0
+$2733 2632 0 0
+$3136 3139 0 0
+$3139 3040 0 0
+$3139 3240 0 0
+$3040 2701 0 1
+$2538 2701 0 1
+$2733 2634 0 0
+$2634 2335 -1 0
+$2634 2537 0 0
+$2537 2338 -1 0
+$2537 2538 0 0
+$3232 0234 1 0
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Zendiisica    2534 B4007B9-D  N Na Va              423 St
+Desolation    2535 C470000-B    Lo Ni De Ba        201 St
+Sorrock       2536 C30058D-A  S Ni Va              420 St
+Nowbee        2537 A55277B-8    Po              A  823 St
+Riyten        2538 D6A2332-6  S Lo Ni Fl           224 St
+Ression       2540 B400102-C  N Lo Ni Va           523 St
+Umaraag       2631 C4698CC-B  S C6                 633 St
+Sumeszu       2632 A10035A-F  N C0 Lo Ni Va        410 St
+Tant          2634 A573430-9  N Ni                 601 St
+Conn          2636 B4727B9-B  S                    202 St
+Sintoshee     2640 E656779-4    Ag                 703 St
+Kanorb        2733 C473976-C    Hi In              724 St
+Nart-roft     2735 C575886-9  S                    924 St
+Viewday       2738 C673324-6  S Lo Ni              901 St
+Tatsnank Defu 2740 B561348-9    Lo Ni              122 St
+Radical       2831 C559532-9    Ni                 110 St
+Starting      2833 C130404-A    Ni Po De           823 St
+Igudi         2836 D586643-2    Ag Ni Ri           914 St
+Sepstar       2837 B568400-A  B Ni                 520 St
+Ecktars Eckto 2932 C589310-A  S Lo Ni              222 St
+Sashrakusha   2933 AAB487A-C  N Fl Cp              201 St
+Yull-jettii   2934 B86A100-C  N Lo Ni Wa           123 St
+Trickster     2935 C120555-E    Ni Po De           824 St
+Hendrick      2937 C320342-9    Lo Ni Po De Rs     814 St
+United        2940 E66A696-7    Ni Ri Wa           210 St
+Stagers       3032 C443200-8    Lo Ni Po           924 St
+Sinist III    3033 E326238-5    Lo Ni              810 St
+Dialreck      3036 B585896-6  N Ri                 710 St
+Yur Hur Ged   3038 E211756-9    Na Ic              620 St
+Prefostered   3039 C420432-C  S Ni Po De           324 St
+Shishashu     3040 A312200-D  N Lo Ni Ic           522 St
+Xapoqoz       3131 E853724-2    Po                 401 St
+Unikeejaf     3132 D768540-5    Ag Ni              302 St
+Cafad         3135 E666554-6    Ag Ni              410 St
+Wenty-ruu     3136 A201755-C    Na Va Ic           701 St
+Idanchy       3137 D789333-8    Lo Ni              403 St
+Yigh          3138 D999653-6    Ni                 520 St
+Mappeh        3139 A997794-D    Ag                 924 St
+Creading      3140 A66A425-C  N Ni Wa              901 St
+Pink Sky      3231 C474588-A  S Ag Ni              401 St
+Above         3232 A726886-E  N                    403 St
+Seshotinam    3234 E200527-9    Ni Va              623 St
+Sharkhagu     3235 B341464-C    Ni Po              801 St
+Lesha         3238 B988168-9  N Lo Ni              522 St
+Palama        3240 A597100-F    Lo Ni              801 St

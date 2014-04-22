@@ -1,0 +1,34 @@
+System: Menorb
+Subsector: Regina
+Sector: Spinward Marches
+Coordinates: 1803 (C0203)
+UWP: C652998-7
+
+Starport: Routine
+Size: Medium (8800-10400 km)
+Atmosphere: Thin
+Hydrographics: 20% water
+Population: 3 billion
+Govt: Impersonal Bureaucracy
+Law Level: High
+Technology: Pre-Stellar
+
+Bases: None
+Trade Codes: Hi Po           
+Travel Zone: Green
+Planetoid Belts: 1
+Gas Giants: 0
+Allegiance: Imperial
+
+Extended Stats:   
+C652998-8   Hi Po    310  Re   M5II
+C7D-6 A10-9YA0-38 Re3
+g=.72, day=1d 5:06:00.51, year = 174,506d 9:10:07.38/143,922d 2:07:37.37
+atmo= .66, natural weather
+temp= +31 (5/lat +45 to -4) (season +11 to -44, 79 deg lat)
+daily temp range 53.5
+Agricultual, Radioactives, Compounds; Agroproducts, Non-Metals; Consumables, Re
+cord, Documents
+Conservative/Enterprising, Competitive/Neutral, Discordant/Aloof
+Legal 8-A8CA8    Tech  86-876A8-8674-D8-E
+

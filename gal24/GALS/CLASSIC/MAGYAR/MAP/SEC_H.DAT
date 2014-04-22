@@ -1,0 +1,44 @@
+@SUB-SECTOR: sec_H   SECTOR: magyar
+#
+# Trade routes within the subsector
+$2512 2810 0 -1
+$2512 2411 -1 0
+$3012 2810 0 -1
+$3214 0214 1 0
+$3012 3214 0 0
+$3219 3223 0 1
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Sinott        2512 A131742-E    Na Po              100 Im
+Pankow        2518 A361412-C    Lo Ni An           310 Im
+Veneet        2519 C441865-9    Po                 500 Ra
+Fornorb       2616 C997A85-A    Hi In              504 Im
+Dix           2617 E8CA343-A  W Fl Pr Lo Ni Wa  R  600 Im     f
+Byrley        2715 C687538-A    Ag Ni              700 Im
+Milbrath      2716 E450896-7    De Po              900 Im
+Randzo        2717 A101402-E    Ic Ni Va           423 Ra
+Beanland      2718 C8C6789-A    Fl                 710 Im
+Danko         2811 C777862-A                       210 Sk
+Lonelund      2813 C550320-A    De Lo Ni Po        110 Im
+Slota         2815 C6A5754-A    Fl                 523 Im
+Tyrrell       2816 C421663-A    Na Ni Po           403 Ra
+Hrongding     2817 B611511-D  A Ic Ni              202 Im
+Gyurenek      2912 B778458-C  N Ni An              615 Im
+Ramli         2913 C7B5114-C    Fl Lo Ni           204 Im
+Brand         2914 C101364-E    Ic Lo Ni Va        224 Kl
+Norkio        2915 C67578A-9    Ag                 224 Im
+Parperides    2917 C765335-A    Lo Ni              605 Im
+Kline         3012 A201987-E    Cp Hi In Na Va     902 Kl
+Gupta         3014 E101214-A    Ic Lo Ni Va        812 Im
+Amelbar       3019 C6A4775-B  S Fl                 604 Im
+Einkamp       3020 E8648BD-8                       102 Im
+Curson        3113 C350310-C    De Lo Ni Po        914 Im
+Melody        3114 D4578C8-8                       700 Im
+Carllan       3118 B588501-D    Ag Ni              500 Im
+Sterchi       3212 B697663-B  N Ag Ni           A  104 Kl
+Rouern        3213 D4568DC-6                       103 Im
+Unfried       3214 B577355-C    Lo Ni              303 Im
+Vallance      3219 A6B4598-E    Fl Ni           A  504 Im
+Doucette      3220 B6A78DD-9    Fl                 911 Im

@@ -1,0 +1,46 @@
+#--------1---------2---------3
+#PlanetName   Loc. Star(s)
+#----------   ---- --------
+@SUB-SECTOR: Capital SECTOR: Core
+Kaakhe Mirir  1711 
+Uushem        1713 
+Fornol        1715 K3 V M9 D
+Kasdaga       1717 
+Khiidkar      1812 
+Gaadvlu Ki    1813 
+Urair         1815 
+Unkuu         1819 
+Khamiila      1912 
+Irurk         1916 
+Aggii Ganaan  1917 
+Irmap Muu     1918 
+Nirinirk      1919 
+Kuma As       1920 
+Kikamaa       2011 
+Biin          2012 
+Bala          2014 
+Zuarkri       2016 
+Kain          2017 
+Kan           2020 
+Kiikagaiir    2111 
+Nappar        2112 
+Zimiin        2115 
+Sylea         2118 
+Gid           2211 
+Kiirri        2213 
+Lauursha      2214 
+Khash         2216 
+Shaak         2218 
+Ase           2219 M4 V M5 D
+Khishnar      2220 
+Giikkala      2312 
+Laairer       2314 
+Idmum         2316 
+Gikuu         2317 
+Kuunen Ish    2318 
+Ipduu In      2319 
+Unuli         2320 
+Kiur          2413 
+Khaashuu      2414 
+Argash        2416 
+Gash          2419 

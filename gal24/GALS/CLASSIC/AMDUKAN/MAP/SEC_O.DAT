@@ -1,0 +1,43 @@
+@SUB-SECTOR: Bordarnaa SECTOR: Amdukan
+#
+# Trade Routes
+#
+$2338 2138 0 0 11
+$2138 2140 0 0 11
+$2140 1940 0 0 11
+$2138 1835 0 0 11
+$1835 1533 -1 0 11
+$2338 2539 1 0 11
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UWP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Kfaenae       1731 C100232-7    Lo Ni Va           720 Jc
+Karli         1732 C657300-8    Lo Ni              224 Jc
+Kalinban      1735 A6AA440-E  J Fl Ni Wa           500 J-
+Vrije         1834 E576585-3    Ag Ni              710 J-
+Adakurar      1835 B537242-9  J Lo Ni              703 J-
+Oungegou      1838 D665236-4    Lo Ni              120 J-
+Zaengsollo    1839 C77A574-A  M Ni Wa              603 Hl
+Urgiin        1931 C5549C8-7    Hi                 824 Jc
+Legapir       1934 C100410-A    Ni Va              524 J-
+Winewan       1938 E534001-6    Lo Ni              920 J-
+Emarraan      1939 C795778-8  M Ag                 803 Hl
+Lovelace      1940 B200320-8    Lo Ni Va           601 Hl
+Vorzaeth      2035 D530579-7    De Ni Po        R  423 J-
+Wallich       2039 C488451-6    Ni                 923 Hl
+Kerka         2131 C7A2976-A    Fl Hi D1           420 Jc
+Llo Gvug      2134 C598798-3    Ag              R  423 J-
+Hyatt         2138 A998369-8    Lo Ni              322 Hl
+Lirsam        2140 B469200-C  J Lo Ni              420 Hl
+Ekhaeng       2231 CA8A766-6  M Ri Wa              223 Jc
+Fayssu        2235 D587755-6    Ag Ri D4           805 J-
+Lluerz        2236 E699424-3    Ni                 303 Hl
+Israrud       2332 A543366-9  J Lo Ni Po           705 Jc
+Gzarrgh       2333 C564220-4    Lo Ni              223 Jc
+Ngourro       2335 E777146-6    Lo Ni              400 J-
+Bardarna      2338 A4008A7-D  J Na Va Cp           704 Hl
+Fae Dhuekh    2431 C56A533-B    Ni Wa              300 Jc
+Ganele        2434 CA8A534-A    Ni Wa              303 J-
+Winslow       2436 C420110-A    De Lo Ni Po        604 Hl
+Llurrats      2437 C000432-7    As Ni              910 Hl
+

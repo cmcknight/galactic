@@ -1,0 +1,34 @@
+@SUB-SECTOR: sec_I   SECTOR: 4war_st
+#
+# Trade routes within the subsector
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Uggez         0121 C153348-7    Lo Ni Po           513 Zs
+Ensakur       0123 A887798-A  N Ag Ri              823 Zs
+Kishakhpap    0125 E410000-0    Ba Lo Ni           004 Zu
+Sherukhirus   0126 C457551-B    Ag Ni              322 Zs
+Shaalgar      0224 D666305-6    Lo Ni              600 Zs
+Rurirshuz     0226 C579998-8    Hi In              704 Zs
+.             0230 X466000-0    Ba Lo Ni           000 Us
+Eneldun       0326 C314313-8    Ic Lo Ni           720 Zs
+.             0330 X9A4000-0    Ba Fl Lo Ni        014 Us
+Umagark       0424 C798777-3    Ag                 603 Zs
+Kiirlike      0426 E130000-0    Ba De Lo Ni Po     002 Zu
+Irashdaa      0524 C689752-7    Ri                 113 Zs
+Ashimii       0527 E669673-5    Ni Ri              323 Zs
+Kidashi       0528 E4578A5-4                       324 Zs
+Ugikhi        0624 E8A2110-B    Fl Lo Ni           723 Zs
+Dakarkhad     0626 E742415-8    Ni Po              603 Zs
+Ashekhi       0628 A589755-B    Ri                 805 Zs
+Akhamin       0721 C662549-7    Ni                 803 Zs
+Apishlun      0722 B98689A-8    Ri                 603 Zs
+Shikashu      0723 C866675-5    Ag Ni Ri           523 Zs
+Gurip         0726 E000000-0    As Ba Lo Ni        035 Zu
+Edaazun       0729 D46A454-5    Ni Wa              320 Zs
+Shukam        0822 E427000-0    Ba Lo Ni           002 Zu
+Shiransar     0823 EAA5000-0    Ba Fl Lo Ni        014 Zu
+Gaagim        0824 C652415-7    Ni Po              201 Zs
+Duriim        0825 E488400-5    Ni                 100 Zs
+Minilgan      0826 C554867-9                       322 Zs

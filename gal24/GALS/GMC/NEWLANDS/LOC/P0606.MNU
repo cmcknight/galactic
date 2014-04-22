@@ -1,0 +1,17 @@
+@dir=gals\gmc\newlands\loc\
+@Light Yellow
+
+          Rasilon System
+
+@Light Green
+   IMSC Navigation Notice
+@Red
+   *******WARNING*******
+@Light Green
+   PROHIBITED ACCESS ZONE
+   Rasilon, Newlands 0606
+
+@Light Cyan
+      Public Data                  @p0606.txt
+      Classified Information       @p0606b.txt
+

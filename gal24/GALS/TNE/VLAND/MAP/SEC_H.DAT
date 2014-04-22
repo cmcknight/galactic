@@ -1,0 +1,53 @@
+@SUB-SECTOR: sec_H   SECTOR: vland
+#
+# Trade routes within the subsector
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Iigshuren     2511 X66A569-4    Ni Wa              423 Wi
+Imziinune     2512 X627000-0    Ba                 020 --
+Shiigus       2513 B271657-6    Ni                 701 Wi
+Gookir        2515 X9A7000-0    Fl Ba              022 --
+Khe           2518 X333000-0    Ba Po              001 --
+Muukakam      2519 X523000-0    Ba Po              011 --
+Ma            2520 X4855A5-3    Ag Ni           B  210 Wi
+Kimii         2611 X403000-0    Ba Va Ic           001 --
+Gaska Khiin   2612 X44456F-0    Ag Ni           B  523 Wi
+Kusu          2613 X44156B-3    Ni Po              202 Wi
+Malta         2615 X000000-0    Ba As              001 --
+St. George    2616 X7C5000-0    Fl Ba              020 --     f
+Dudid         2618 X510000-0    Ba                 001 --
+Mennoral      2620 C85879B-7    Ag              B  421 Wi
+Aanshi        2713 XA8A9AA-4    Hi Wa           B  201 Wi
+Eriston       2716 X6AA000-0    Fl Ba Wa           020 --
+Alkhaas       2812 X997669-6    Ag Ni           B  133 Wi
+Karmanidora   2815 X110000-0    Ba                 002 --
+Faranidon     2816 D6568AA-5                    B  810 Wi
+Tazaris       2818 X9B2000-0    Fl Ba              002 --
+Anzalits      2820 XA9A304-7    Lo Ni Wa           334 Wi
+Naalkin       2911 X555521-2    Ag Ni              201 Wi
+Damakho       2912 X99846B-3    Lo Ni           B  623 Wi
+Mimere        2914 X9B6000-0    Fl Ba              010 --
+Lormiza       2915 X335000-0    Ba                 010 --
+Iizmarna      2916 X227000-0    Ba                 020 --
+Beroni        2918 D563656-9    Ni              B  601 Wi
+Alanidon      2919 X454547-5    Ag Ni              220 Wi
+Sidenis       2920 X210000-0    Ba                 020 --
+Lourer        3011 X5948C8-6                    B  710 Wi
+Zaan          3014 X557369-4    Lo Ni              404 Wi
+Sikal         3018 X545630-3    Ag Ni              610 Wi
+Braldini      3019 X8A7000-0    Fl Ba              020 --
+Trilorn       3020 X100000-0    Ba Va              010 --
+Kalanuu       3111 E754422-6    Lo Ni              324 Wi
+Dusuurag      3115 X404000-0    Ba Va Ic           022 --
+Kirlasesh     3116 D5466AA-7    Ag Ni              923 Wi
+Altman        3117 B36166C-7  N Ni                 610 Wi
+Aarkhiin      3119 X577466-1    Lo Ni           B  425 Wi
+Urkimgar      3211 X577000-0    Ba                 010 Wi
+Amnukun       3212 X410000-0    Ba                 011 --
+Ami           3213 X567557-4    Ag Ni              402 Wi
+Khunimmam     3214 X9B7000-0    Fl Ba              002 --
+Shaia         3215 X64A655-B    Ni Wa              310 Wi
+Kigirgam      3216 E561350-4    Lo Ni              513 Wi
+Gisharu       3218 E556000-0  S Ba                 010 Wi

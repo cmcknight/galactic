@@ -1,0 +1,47 @@
+@SUB-SECTOR: sec_P   SECTOR: magyar
+#
+# Trade routes within the subsector
+$2539 2439 -1 0
+$2631 2728 0 -1
+$2631 2633 0 0
+$2633 2933 0 0
+$2933 3231 0 0
+$2933 3036 0 0
+$2940 2539 0 0
+$3036 0237 1 0
+$3036 2940 0 0
+$3040 2940 0 0
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Beldavs       2534 C431420-D    Ni Po              600 So
+Ledbetter     2536 X550856-5    De Po              422 So
+Piccione      2538 B550320-C    De Lo Ni Po        713 So
+McBain        2539 A89A626-E    Ni Wa              803 So
+Gerwalk       2631 C100941-E    Hi In Na Va        313 Im
+Teska         2633 B89A77A-D  A Xb Wa              503 So
+Lazog         2638 C898432-9    Ni                 702 So
+Bergvardt     2731 D200896-A    Na Va              110 So
+Fatch         2736 A611205-E  W Ic Lo Ni           104 So
+Winnenauer    2831 B756437-D    Ni              A  213 Im     f
+Motao         2836 B662513-D  W Ni                 510 So
+Derjoulian    2837 A674104-E  W Lo Ni              914 So
+Tatsuya       2839 C111264-D    Ic Lo Ni           700 Gu
+Bouzouba      2932 C586202-B    Lo Ni Rs           205 So
+VanBritson    2933 B56878B-B    Cp Ag Ri           404 So
+Aclavik       2934 C459734-B                       720 So
+Pardini       2936 B754432-D    Ni                 824 So
+Berardsly     2937 C656588-B    Ag Ni              113 So
+Hesselgrave   2939 CA98696-A    Ag Ni              415 So
+Gursky        2940 B10188B-E    Ic Na Va           300 Gu
+Chouli        3031 CAF8422-B    Fl Ni              910 So
+Hessoun       3036 C7BA779-C    Xb Fl Wa           400 He
+Wongxia       3037 C101337-E    Ic Lo Ni Va        702 So
+Blackhawk     3040 A6A568A-E  N Fl Ni              415 So
+Strom         3135 D23266A-8    Na Ni Po           901 He
+Mogeen        3231 A435575-E    Ni                 904 Im
+Phua          3234 X230312-6    De Lo Ni Po        204 So
+Aija          3235 E33558B-9    Ni                 615 So
+Cammon        3237 A886222-E    Lo Ni              502 So
+Yukikyu       3239 B5508BD-C  S De Po              414 So

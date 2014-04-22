@@ -1,0 +1,93 @@
+Design Notes
+------------
+The Greater Magellanic Cloud is a standalone game setting for the science
+fiction role playing game Traveller. Traveller is copyright to Far Future
+Enterprises (1995). This setting was designed with the 4th Edition of
+Traveller in mind, but can be used for "Classic Traveller", "MegaTraveller"
+or "Traveller, The New Era" with little or no alteration.
+
+This project is intended to be a seperate as possible from the traditional
+Traveller universe. However, some things remain. The Vilani still exist
+(under another name, the Glorani, and with some major differances); the
+Ancients are also still included (again with major differences); and the
+Interstellar Wars that lead to the Terran triumph over the Glorani (Vilani)
+are included in the background. The Travellers Aid Society is also retained,
+though it is renamed the Starfarers Guild.
+
+As yet I have one sector (Newlands) fairly well developed and another
+(Narrows) in progress.
+
+Directions
+----------
+Directions in the Cloud are Edgeward (North) or towards the edge of the
+Cloud, Coreward (South) or towards the Core of the Cloud, Homeward (East)
+or towards the Milky Way, and Voidward (West) or away from the Milky Way.
+  Directions:
+                   Edgeward
+             Voidward    Homeward
+                   Coreward
+
+Aliens
+------
+Since this is intended to be a completely seperate universe there are none
+of the traditional Traveller aliens. However, the traditional aliens seem
+to fill several "campaign niches", the honourable warriors (Aslan), the
+mysterious lost high tech civilisation (the Ancients), the unpredictable
+pack aliens (Vargr), the paranoid herbivores (K'kree) etc. I have attempted
+to create aliens to fill these niches whilst still being seperate from the
+traditional aliens. Therefore I'll give a quick sketch of some aliens.
+
+The Jneril - These fill the same niche as the Aslan, but they are democratic
+saurians. They have a strong sence of honour along with a fierce independent
+spirit. They have a long term world view.
+
+The Mwoah - These fill a similiar niche to the K'kree. They are decended from
+arborial intermittants. They do not have the same need for compainionship
+as the K'kree, nor are they total claustrophobes. They are extremely cautious,
+and quite paranoid of carnivores but do not seek to exterminate them, just
+conquer and control. Frequently refered to as "Squirrels" by humans. Their
+eyesight is very poor and they rely on a form of sonar as their major sense.
+
+The Dk'arek - These fill the same niche as the Vargr. They are decended from
+nocteral scavengers. They are frequently called "Jackels" by Humans. Their
+culture is based around strength and intimidation.
+
+The Sidhe - These fill the same niche as the Ancients. Not much evidence
+of them remains, far less than of the Ancients in traditional traveller.
+No current decendents of them are known. They appear to have always had
+a very tribal culture and to have wiped themselves out through warfare.
+One distingishing feature of their culture were the three sided pyramids
+that are found at all of their known sites. There have only been two Sidhe
+sites found in the Cloud (one at Breakout and one in Efrip space). Unlike
+the traditional Ancients they had a consistant technology base.
+   (NOTE: "Sidhe" is pronouned "Shee")
+
+The Magellanic Empire
+---------------------
+Three seperate colour codes are used to designate Imperial Magellanic
+worlds: Light Green = Independent Imperial worlds, Light Blue = Principality
+of Breakout and worlds under direct Imperial rule, Brown = Multiworld
+Diadochi states.
+   (NOTE: only the major Diadochi states are named, others are listed in
+          the subsector data files)
+
+The notes attached to the maps give a false impression as to the level of
+influence of the Empire. This is due to the fact that the star charts are
+prepared by the IMSC, which gives far greater weight to Imperial matters
+than would normally be the case.
+
+Maximum tech levels and tech modifiers
+--------------------------------------
+Magellanic Empire = TL 12 (no modifiers)
+Mwoah Unity = TL 11 (+1 to sensors, -1 energy weapons)
+Third Akhrini Commonality = TL 11 (+1 energy weapons, -1 maneuver drive)
+Jneril (generic) = TL 11 (+1 maneuver drive, -1 communications)
+Dk'arek (generic) = TL 10 (+1 power plants, -1 antigrav)
+Terran Empire (extinct) = TL 13 (+1 medical/biological, -1 jump drive)
+First Efrip Council (extinct) = TL 12 (+1 computers, -1 medical/biological)
+Second Akhrini Commonality (exitinct) = TL 11 (same modifiers as 3rd AC)
+Sidhe (extinct) = TL 30+ (no modifiers)
+
+Fusion plus is restricted to the Magellanic Empire and allies, the Third
+Akhrini Commonality, and the Dk'arek (who developed it first).
+

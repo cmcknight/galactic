@@ -1,0 +1,47 @@
+@SUB-SECTOR: Julian SECTOR: Amdukan
+#
+# Trade Routes
+#
+$0223 3122 -1 0 11
+$0127 3230 -1 0 11
+$0223 0120 0 -1 11
+$0223 0127 0 0 11
+$0223 0525 0 0 11
+$0127 0327 0 0 11
+$0327 0627 0 0 11
+$0525 0725 0 0 11
+$0725 1023 1 0 11
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UWP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Fedhueto      0123 A779746-8  J                    124 Ja
+Gho Ungzok    0124 B9D6855-7  J Fl                 103 Ja
+Ignaamar      0125 C476520-8    Ag Ni              522 Ja
+Aekhsoull     0126 A572102-A  F Lo Ni              303 Ja
+Panorama      0127 B66988A-7  M Ri                 910 Ja
+Nigigag       0128 C235545-7  M Ni                 523 Ja
+Amidu         0221 C644365-5    Lo Ni              502 Ja
+Fracas        0222 B22748B-C  M Ni                 304 Ja
+Asimikigir    0223 A684A87-E  F Hi Cx              300 Ja
+Aerr Ogo      0225 E3477A8-3    Ag                 423 Ja
+Ilus          0327 A663762-7  J Ri                 604 Ja
+Ongogu        0421 D130410-9    De Ni Po           704 Ja
+Vedzonga      0422 C130200-A  M De Lo Ni Po        504 Ja
+Teucria       0423 A853100-D  D Lo Ni Po           803 Ja
+Kinoshita     0427 C661499-6    Ni              A  804 Ja
+Sagamaha      0429 C689324-6  M Lo Ni              300 Ja
+Peleus        0430 A78A401-D  J Ni Wa              504 Ja
+Gangi         0521 D667303-3    Lo Ni              100 Ja
+Rakue         0524 C67479A-3  M Ag                 222 Ja
+Mudaliar      0525 B665220-6  M Lo Ni              900 Ja
+Gaskuzi       0526 D7A6411-5    Fl Ni              123 Ja
+Ullasoth      0623 C764321-6    Lo Ni           A  903 Ja
+Mukiip        0627 B5108AA-9  J Na                 423 Ja
+Khang Ken     0630 C853449-8  M Ni Po              624 Ja
+Akhag         0721 C334567-7  M Ni              R  223 J-
+Umada         0722 C0009CA-9    As Hi Na           810 Ja
+Kubagir       0724 D542356-7    Lo Ni Po           303 Ja
+Xanthus       0725 B77A423-A    Ni Wa              100 Ja
+Larrti        0728 D000302-9    As Lo Ni           620 J-
+On Ozorr      0828 E9887B7-5    Ag                 805 J-
+

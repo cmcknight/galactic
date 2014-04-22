@@ -1,0 +1,38 @@
+Vland Sector
+
+A: Voskhod                   sec_a.dat           f
+B: Vhodan                    sec_b.dat           f
+C: Anarsi                    sec_c.dat           f
+D: Theton                    sec_d.dat           f
+E: Lalaki Kharir             sec_e.dat           f
+F: Kagamira                  sec_f.dat           f
+G: Vland                     sec_g.dat           f
+H: Arshukaa Sagalaa          sec_h.dat           f
+I: Dusa                      sec_i.dat           f
+J: Apurshish                 sec_j.dat           f
+K: Kasear                    sec_k.dat           f
+L: Thaggesh                  sec_l.dat           f
+M: Answerin                  sec_m.dat           f
+N: Isle                      sec_n.dat           f
+O: Istuary                   sec_o.dat           f
+P: Kalaalit                  sec_p.dat           f
+
+Bases:
+A = Navy & Scout Bases
+C = Corsair Base
+N = Naval Base
+O = Outpost
+S = Scout Base
+  = None
+
+Allegiance:
+04 Cs = Client State
+05 Ic = Istuary Consolidat
+07 Na = Non-aligned
+11 Rv = Restored Vilani Empire
+10 V7 = Vargr (17th Disjuncture)
+06 Wi = Wilds
+07 Zs = Ziru Sirkaa
+08 -- = None
+08    = Unknown
+

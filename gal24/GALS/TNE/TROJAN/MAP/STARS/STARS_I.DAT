@@ -1,0 +1,39 @@
+@SUB-SECTOR: stars_I   SECTOR: trojan
+#
+# Trade routes within the subsector
+#
+#--------1---------2---------3
+#PlanetName   Loc. Stars(s)
+#----------   ---- ---------
+Attye         0122 F8 V
+Ahaikhea      0126 F7 III M7 V
+Eawatrye      0127 M1 V M7 V
+Tyea'ih       0129 K3 V M5 V
+Olauh         0130 F4 V
+Dalfi         0222 F4 V M3 V
+Khtelatloilr  0223 F7 V
+Ewoiftoil     0224 F3 V
+H'a           0227 F4 V
+Hreahrya      0229 K0 V
+Nora'a        0321 K4 V
+Iryao         0322 F1 V
+Suiaoir       0328 F6 V
+Hkaha         0329 M4 V M6 V
+Khtyekt       0425 M9 V
+Osototail     0426 F2 V
+Aowaih        0429 F1 V M4 V
+Khi           0430 F3 V
+Vadada        0523 F9 V M5 V
+Elihfoirl     0525 K0 V
+Ftaleirl      0528 M8 V
+Oihyeti'he    0529 F4 V
+Souflea       0530 F9 V M3 V
+Sei'eal       0628 F2 V M1 V
+Tanar         0722 K1 V
+Lafkin        0724 F4 V
+Woilreawau    0727 G0 V M6 D
+Uao           0729 M8 V
+Eahaw         0823 M7 V
+Yaeawaokh     0824 F6 V M8 V
+Alirar        0825 K4 V M4 V
+Ehaealir      0829 M4 V M8 V

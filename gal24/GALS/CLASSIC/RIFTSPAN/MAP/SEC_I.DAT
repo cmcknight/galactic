@@ -1,0 +1,10 @@
+@SUB-SECTOR: sec_I   SECTOR: riftspan
+#
+# Trade routes within the subsector
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Khtyeai       0124 A6455L6-B    Ag Ni              102 A8
+Uistihwoa     0630 A7671N9-E    Lo Ni              520 As
+Teirikh       0722 A5478HC-E  T                    311 As

@@ -1,0 +1,39 @@
+@SUB-SECTOR: sec_J   SECTOR: deneb
+#
+# Trade routes within the subsector
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Northammon    0921 B764767-A  A Ag Ri O:0917       220 Re     m
+Teyobald      0922 B8B3645-E    Fl Ni              122 Re
+Ibix Donora   0925 C332345-B    Lo Ni Po           201 Re
+Sipedon       0929 D3537AB-A    Po                 202 Re
+Arnyi         0930 B683757-B  A Ri                 723 Re
+Irumunu       1023 B7B3620-E  W Fl Ni              201 Re
+Frisgar       1025 D424752-B                       601 Re
+Burtrum       1026 C5387A9-A                       801 Re
+Prege         1030 B79A678-B    Ni Wa              902 Re
+Vincennes     1122 A899AA6-G    Hi In Cp           213 Re     m
+Erisis        1123 D679543-8    Ni                 113 Re
+Dekha         1128 A100A9A-F  S Hi In Na Va        510 Re     f
+Perez         1221 C536224-8    Lo Ni           A  201 Re
+Montane       1223 C683204-8    Lo Ni              222 Re
+Achemadon     1224 A3477BB-C    Ag                 901 Re
+Bishop        1226 B201553-F  S Ic Ni Va           724 Re
+Taburi Nen    1227 A44658A-E    Ag Ni              221 Re
+Djar          1229 C3007CE-A  S Na Va              702 Re
+Al-Uqayr      1323 D567459-7    Lo Ni              713 Re
+Jonkeer       1324 C4908CC-9  S De                 501 Re
+Medard        1327 B321425-D    Lo Ni Po           801 Re
+Sarden        1424 C552652-A    Ni Po              901 Re
+Kew           1426 C512103-B    Ic Lo Ni           213 Re
+Condamine     1428 B665678-9    Ag Ni              521 Re
+Ishiri        1429 D365A8A-B    Hi                 821 Re
+Eretaro       1430 C9C4200-C    Fl Lo Ni           501 Re
+Bumushe       1522 C68A657-9  S Ni Ri Wa C:7       524 Re
+Verd          1524 D150433-9    De Lo Ni Po        302 Re
+HRD           1623 A401775-F  N Ic Na Ni Va        220 Re     m
+Risir         1626 C230225-B    De Lo Ni Po        210 Re
+Alaungpaya    1628 C140794-A  S De Po              901 Re
+Brontitor     1630 B9C4310-A    Fl Lo Ni           204 Re

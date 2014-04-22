@@ -1,0 +1,11 @@
+Stenardee E110261-8
+
+Starport: Frontier Quality           Size: Small (800-2400 km)
+Atmosphere: Trace                    Hydrographics: No liquid water
+Population: 300                      Govt: Captive Government
+Law Level: Low                       Technology: Pre-Stellar
+        
+	Totally depopulated in the Collapse. A Confederation base is under
+construction.
+
+by Carlos Alos-Ferrer <alos@merlin.fae.ua.es>

@@ -1,0 +1,51 @@
+@SUB-SECTOR: stars_N   SECTOR: vland
+#
+# Trade routes within the subsector
+#
+#--------1---------2---------3
+#PlanetName   Loc. Stars(s)
+#----------   ---- ---------
+Arluk         0933 M5 V
+Imdakhun      0934 M7 V G7 V
+Rhyolite      0938 M3 V K2 III
+Gashumu       0939 G8 V
+Umaanshar     1032 A9 V K3 V
+Komirex       1033 G3 V F7 V
+Isle          1038 K3 V M3 V
+Neegak        1131 F4 V
+Jupset        1134 M7 V
+Abalakova     1135 F5 V
+Daangiilu     1136 G3 V M5 V
+Usaamkirkhiir 1137 K8 V
+Chrysantheum  1138 M6 V M2 V
+Uureg         1139 M8 V
+Hiroshi       1140 M6 V M3 V
+Lekziika      1232 A1 V
+Themistocles  1235 M6 V F1 V
+Fymur         1236 F4 V
+Kanumshikaa   1237 A6 V
+Iplukaddesh   1238 K5 V
+Nelson        1240 M5 V
+Nii Khu       1332 K7 V M6 V
+Lukham        1334 F4 V K1 V
+Pygmy         1336 F9 V K7 V
+Borealis      1337 F8 V M1 V
+Darm          1339 M0 V
+Anishda       1340 M2 V
+Daalurge      1431 M9 V M8 V
+Agagir        1432 M6 II
+Dakeshir      1435 M7 V
+Igikuuni      1437 G5 V
+Zaal          1438 K4 V M2 V
+Kolrado       1531 M4 V
+Samotk        1533 M5 V M6 V
+Senkon        1534 M6 V M5 V
+Malapaan      1535 K9 V
+Pamiimkhi     1536 M0 V
+Zarurza       1539 M5 V F0 V G4 V
+Limed         1540 M3 V
+Imdur         1632 M9 V
+Darkishar     1633 M3 V K4 V
+Isuugi        1634 G5 V G3 V
+Preserve      1637 M4 V
+Twana         1638 M7 II G9 V M2 V

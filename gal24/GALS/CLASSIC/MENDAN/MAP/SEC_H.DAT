@@ -1,0 +1,54 @@
+@SUB-SECTOR: sec_H   SECTOR: mendan.sec
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+$2719 2420 -1 0 11
+$2719 2615 0 0 11
+$2719 2918 0 0 11
+$2615 2814 0 0 11
+$2615 2612 0 0 11
+$2918 3216 0 0 11
+$2612 2510 0 -1 11
+$2918 3119 0 0 11
+$3216 0213 1 0 11
+$3119 0120 1 0 11
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX f
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Gushugan      2511 C464430-9  J Ni                 604 Jm 
+Gun Thang     2512 E6318AB-5    Na Po           A  102 Jm 
+Zh'goom       2520 X622864-1    Na Po           R  600 Ja 
+Retseck       2612 B773644-7    Ni                 703 Jm 
+Kaara         2615 B65A988-9  F Hi Wa Cp           403 Jm 
+Zoeno         2616 C453657-6  M Ni Po              920 Jm 
+Urnga         2617 C8BA888-6  J Fl Wa           R  202 Jm 
+Akkfon        2619 C378310-5    Lo Ni              414 Ja 
+Enukfudz      2620 C78A378-8    Lo Ni Wa           703 Ja 
+Ottumago      2711 X557446-2    Ni              R  400 Jm 
+Nankhaski     2715 B9BA320-9    Fl Lo Ni Wa        304 Jm 
+Giishanu      2716 D9AA565-9    Fl Ni Wa           413 Jm 
+Karrkhu       2719 C9A7342-7  M Fl Lo Ni           500 Ja 
+Loggvog       2813 E423ABD-7    Hi In Na Po     A  405 Jm 
+Larid         2814 B655322-6  J Lo Ni              223 Jm 
+Dinero        2815 B468798-8  F Ag Ri              804 Jm 
+Nikir         2818 C776997-8  M Hi In              324 Ja 
+Alkhae        2819 D8B3323-3  J Fl Lo Ni           501 Ja 
+Saeghou       2913 C955589-4  M Ag Ni              804 Jm 
+Gverrg        2916 C323433-6    Ni Po              712 J- 
+Milton        2917 C8A357C-9  M Fl Ni           A  723 J- 
+Ghueklors     2918 A543330-A    Lo Ni Po           813 J- 
+Ezouksou      3011 C400446-7  J Ni Va           R  122 Jm 
+Gvighzur      3012 C355101-8    Lo Ni              123 Jm 
+Gherghan      3013 C734444-8  J Ni                 720 Jm 
+Niimag        3016 C465731-7  M Ag                 500 J- 
+Miishuuki     3018 C300200-9    Lo Ni Va           620 Ja 
+Girong        3111 E110211-8    Lo Ni              605 J- 
+Urmarer       3115 E676100-6    Lo Ni              305 J- 
+Jyestha       3117 C330785-7  F De Na Po           303 J- 
+Raduun        3119 B310A88-D    Hi Na In           103 Ja 
+Irkasu        3216 A655312-9    Lo Ni              323 J- 
+Olzoes        3219 C777547-5    Ag Ni              200 Ja 
+Gumumaka      3220 D69A689-7    Ni Wa              704 Ja 
+

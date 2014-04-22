@@ -1,0 +1,28 @@
+@dir=gals\jud_guld\ley\map
+@Light Yellow
+
+Ley Sector / Data Files
+
+@Light Cyan
+      Sector Data                  @..\ley.dat
+      Credits                      @..\credits.txt
+
+@Light Green
+      Subsector Data
+@Light Cyan
+       A: Ikhnaton                 @sec_a.dat
+       B: Nightmare                @sec_b.dat
+       C: Noir Deep                @sec_c.dat
+       D: Zagrathian               @sec_d.dat
+       E: Spearhead                @sec_e.dat
+       F: Guadix Drift             @sec_f.dat
+       G: Titanstorm               @sec_g.dat
+       H: Osiris Deep              @sec_h.dat
+       I: Highlord                 @sec_i.dat
+       J: Matarishan Federation    @sec_j.dat
+       K: Frontier Worlds          @sec_k.dat
+       L: Sydymic Empire           @sec_l.dat
+       M: Satyressia               @sec_m.dat
+       N: Outreaumer               @sec_n.dat
+       O: Diamond-Prince           @sec_o.dat
+       P: Outworld                 @sec_p.dat

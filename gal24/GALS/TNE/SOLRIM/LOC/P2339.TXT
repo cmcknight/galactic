@@ -1,0 +1,5 @@
+Castor X000000-0                
+Starport: None                 Size: Asteroid Belt
+Atmosphere: None               Hydrographics: No liquid water
+Population: 0                  Govt: No government
+Law Level: No Prohibitions     Technology: No Technology

@@ -1,0 +1,61 @@
+@SUB-SECTOR: sec_k   SECTOR: ley
+#
+#Jump Routes
+$1823 1921 0 0
+$1823 2024 0 0
+$1823 1625 -1 0
+$1921 1620 -1 -1
+$1921 2221 0 0
+$2024 2123 0 0
+$2024 2027 0 0
+$2027 2227 0 0
+$2123 2222 0 0
+$2130 2227 0 0
+$2130 2031 0 1
+$2221 2422 0 0
+$2221 2323 0 0
+$2221 2222 0 0
+$2222 2323 0 0
+$2227 2326 0 0
+$2227 2228 0 0
+$2323 2422 0 0
+$2323 2326 0 0
+$2326 2424 0 0
+$2422 2522 1 0
+$2422 2423 0 0
+$2423 2424 0 0
+#
+#--------1---------2---------3---------4---------5----------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- --
+Ferech        1726 X7AA214-6    Ni                 401 Im
+Overberth     1729 D000575-9    As                 301 Im
+Halgorn       1822 E898643-5    Ag                 300 Im
+Amblegreen    1823 CA67873-8    Ri                 301 Im
+Westcutt      1921 C774AA9-9    In                 400 Im
+Journlinden   1923 BAA8500-7    Ni                 801 Im
+Throb         1929 D9A9676-A    Ni                 400 Im
+Kubera        1930 EACA213-A    Ni                 300 Im
+Zakutan       2021 D230679-B    Na                 101 Im
+Fountarden    2024 C886754-9    Ag                 200 Im
+Sheildbolt    2027 D757767-7    Ag                 300 Im
+Talimanor     2030 E300210-B    Ni                 301 Im
+Snarepoint    2121 D400643-A    Na                 701 Im
+Questra       2123 C877976-9    In                 100 Im
+Finsfind      2130 B958743-B  N Ag                 201 Im
+Inletazure    2221 B97A632-A    Wa                 100 Im
+Bewar         2222 C600412-9    Ni                 101 Im
+Garth         2223 E850300-6    Ni                 601 Im
+Flank         2224 XABA000-0    Ba                 000 Im
+Twain         2225 E7AA210-8    Ni                 400 Im
+Curly         2226 D334423-9    Ni                 801 Im
+Bastian       2227 A978982-C    In                 701 Im
+Cyrenius      2228 D754643-9    Ag                 400 Im
+Eberyard      2321 X9AA000-0    Ba                 001 Im
+Alameth       2323 A677944-C  N In                 500 Im
+Phytore       2326 B583743-B  N                    100 Im
+Hothtar       2329 X9BA210-9    Ni                 801 Na
+Xemir         2421 X413000-0    Ba                 000 Im
+Assir         2422 D589632-8                       800 Im
+Zephon        2423 C226413-8    Ni                 701 Im
+Bajith        2424 C747434-6    Ni                 601 Im

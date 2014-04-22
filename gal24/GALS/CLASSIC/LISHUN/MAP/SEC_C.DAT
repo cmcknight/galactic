@@ -1,0 +1,51 @@
+@SUB-SECTOR: sec_C   SECTOR: lishun
+#
+# Trade routes within the subsector
+$2107 1609 -1 0
+$2107 2309 0 0
+$2309 2509 1 0
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Futsae        1705 EA9A662-7    Ni Wa              405 Vv
+Gaengang      1801 E443479-7  C Ni Po              410 Vv
+Daerron       1802 C556457-6  C Ni                 700 Vv
+Ghouso        1803 B8476A6-A    Ag Ni              513 Vv
+Ushanghi      1804 E7A8998-9    Hi Fl              125 Vv
+Gosharapga    1805 B233574-F    Ni Po              402 Vv
+Thakhogu      1810 B500875-B  C Na Va              823 V1
+Velavik       1902 D534544-6    Ni                 404 Vv
+Tazaes        1907 E9D5769-4    Fl                 403 V1
+Aerok         1908 A37346B-F  H Ni                 423 V1
+Anga          1909 C558541-A  C Ag Ni              100 V1
+Nirran II     1910 B400444-C    Ni Va              705 V1
+Ouzkhoetue    2002 A488431-C  G Ni                 700 V1
+Duro          2003 E210642-6    Na Ni              834 V1
+Ueghu         2004 E769499-7  C Ni                 304 V1
+Anging        2007 BAC3544-E  G Ni Fl              913 V1
+Rusfong       2008 C789356-B  G Lo Ni              200 V1
+Ingha         2009 C764666-6    Ag Ni Ri           702 V1
+Lousaeksaz    2010 E649477-5    Ni                 604 V1
+Noungal       2104 B837323-9    Lo Ni              400 V1
+Uesa          2105 C978405-7  C Ni                 312 V1
+Thopoc        2106 E110977-D    Hi Na In           711 V1
+Gzungokon     2107 A665667-E  G Ag Ni Ri           501 V1
+Nera          2108 D8687BE-4  C Ag                 413 V1
+Tsarting      2109 E300663-5    Na Ni Va           602 V1
+Ksino         2203 A535100-E    Lo Ni              102 V1
+Fokulgvu      2207 A758695-E  C Ag Ni              203 V1
+Gallu         2208 C231487-C    Ni Po              503 V1
+Soghi         2209 E31059A-9    Ni                 724 V1
+Thung Huton   2301 C74A689-5    Ni Wa              903 V1
+Tiaga II      2302 B201487-8    Ni Va Ic           704 V1
+Zotak         2306 C3427BA-7  C Po                 524 V1
+Jagd          2307 C110655-A    Na Ni              304 V1
+Sotri         2309 B6739CD-E  G Hi In              212 V1
+Gusk Sohito   2401 E565754-4  C Ag Ri              102 V1
+Kougol        2404 C481787-6    Ri                 422 V1
+Thirarer      2406 D674655-6    Ag Ni              800 V1
+Slick         2407 B3037A9-D  C Na Va Ic           810 V1
+Rega Dungu    2408 C96A324-B    Lo Ni Wa           800 V1
+Bilam         2409 E9D5433-8    Ni Fl              602 V1
+Boatham       2410 B7A9102-E  G Lo Ni Fl           604 V1

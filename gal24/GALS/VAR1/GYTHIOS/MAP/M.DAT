@@ -1,0 +1,45 @@
+@SUB-SECTOR: Thrace SECTOR: Gythios Sector
+#
+# Jump-routes
+$0132 0235 0 0
+$0132 0332 0 0
+$0235 0334 0 0
+$0332 0334 0 0
+$0536 0638 0 0
+$0536 0737 0 0
+$0334 0536 0 0
+$0332 0428 0 -1
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Whitehorse    0132 A411522-D  N Ic                 113 Im 07Y
+Nastirh       0135 C594221-8  S Lo                 122 Im 220
+Mouton        0136 C763AAE-6  S Hi                 603 Im 5BH
+Atchison      0139 B68A741-C  N Ag Wa              605 Im 865
+Dionisio      0231 X301000-0    Ba Ic Lo Va        003 Im 060
+Tagge         0235 A886667-6  N Ag                 900 Im 1B1
+McDowell      0332 A420345-D  N De Lo              703 Im 040
+Indra         0333 B68A787-9    Ag Wa              924 Im 430
+Alixa         0334 A725400-C                       611 Im 380
+Yellowknife   0337 C587555-8  S Ag                 901 Im 730
+Jeremiah      0339 E787400-2                       411 Im 550
+Novak         0340 X000000-0    As Ba Lo           023 Im 000
+Nuallan       0434 X8B1000-0    Ba Fl Lo           024 Im 080
+Tart          0435 X9A5000-0    Ba Fl Lo           024 Im 090
+Ferg          0436 X452000-0    Ba Lo              013 Im 000
+Sevam         0437 X210000-0    Ba Lo              012 Im 000
+Indonesia     0439 X537000-0    Ba Lo              012 Im 480
+Addis         0531 X549000-0    Ba Lo              000 Im 760
+Mekong        0532 X330000-0    Ba De Lo           020 Im 000
+Kiril         0533 X535000-0    Ba Lo              003 Im 430
+Thrace        0536 A59367A-7                       421 Im 59O
+Pepin         0539 X110000-0    Ba Lo              003 Im 030
+Bismarck      0636 D638258-8  S Lo                 605 Im 080
+Maynard       0638 C346310-6  S Lo                 423 Im 040
+Krender       0640 C695550-8    Ag                 902 Im 054
+Kerim         0731 C548200-6    Lo                 704 Im 080
+Thurgudmen    0733 X420000-0    Ba De Lo           004 Im 000
+Ervin         0737 A7A5445-E  S Fl                 804 Im 060
+Seafoam       0739 X5A0000-0    Ba De Lo           013 Im 040
+Blaze         0832 D7545AB-4    Ag                 804 Im 320

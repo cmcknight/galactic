@@ -1,0 +1,46 @@
+@SUB-SECTOR: sec_J   SECTOR: deneb
+#
+# Trade routes within the subsector
+$0925 0826 -1 0
+$0925 1122 0 0
+$1122 1018 0 -1
+$1122 1522 0 0
+$1522 1520 0 -1
+$1522 1623 0 0
+$1623 1925 1 0
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Norhammon     0921 B764667-A  A Ag Ni Ri           620 Dd
+Teyobald      0922 B8B3545-D    Ni Fl              822 Dd
+Ibix Donora   0925 C332245-9    Lo Ni Po           901 Dd
+Sipedon       0929 E3536AB-8    Ni Po              902 Dd
+Arnyi         0930 B683697-8  A Ni Ri              723 Dd
+Irumunu       1023 B7B3620-C  W Ni Fl              101 Dd
+Frisgar       1025 E424752-9                       401 Dd
+Burtrum       1026 C5387A9-8                       501 Dd
+Prege         1030 B79A678-9    Ni Wa              702 Dd
+Vincennes     1122 A899AA6-G    Hi In Cp           113 Dd
+Eriris        1123 D679443-7    Ni                 913 Dd
+Dekha         1128 C100A9A-F  S Hi Na In Va        210 Dd
+Perez         1221 C536224-6    Lo Ni              801 Dd
+Montane       1223 C683104-7    Lo Ni              122 Dd
+Achemadon     1224 A3477BB-A    Ag                 701 Dd
+Bishop        1226 B201553-F  S Ni Va Ic           524 Dd
+Taburi Nen    1227 A44658A-B    Ag Ni              121 Dd
+Djar          1229 C3008CE-7  S Na Va              102 Dd
+Al-Uqayr      1323 E567259-5    Lo Ni              513 Dd
+Jonkeer       1324 C4908C9-9  S De                 401 Dd
+Medard        1327 B321425-C    Ni Po              701 Dd
+Sarden        1424 E552652-7    Ni Po              501 Dd
+Kew           1426 C512103-B    Lo Ni Ic           313 Dd
+Condamine     1428 C665578-7    Ag Ni              921 Dd
+Ishiri        1429 E36598A-7    Hi                 521 Dd
+Eretaro       1430 C9C4100-B    Lo Ni Fl           901 Dd
+Bumushe       1522 C68A657-6  S C6 Ni Ri Wa        324 Dd
+Verd          1524 E150433-6    Ni Po De           102 Dd
+HRD           1623 A401654-F  N Na Ni Va Ic        810 Dd
+Risir         1626 C230225-9    Lo Ni Po De        310 Dd
+Alaungpaya    1628 C140794-8  S Po De              601 Dd
+Brontitor     1630 B9C4210-8    Lo Ni Fl           904 Dd

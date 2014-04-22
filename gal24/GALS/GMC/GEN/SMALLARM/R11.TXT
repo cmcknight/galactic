@@ -1,0 +1,84 @@
+r10 Combat Rifle, r11 Combat Rifle & r15 Combat Rifle
+
+During the Second Mwoah War the deficencies of the r9 combat rifle rapidly
+became apparent. In an attempt to overcome these the r10 combat rifle was
+hastily designed and put into production (along with a reintroduction of the
+r3). Whilst the r10 was a definite improvement over the r9, it still proved
+to be unreliable under service conditions. However the design held promise
+and continued development work resulted in the r11 combat rifle. The r11 was
+introduced during the later stages of the Second Mwoah War and proved to be a
+very successful design; combining the accuracy, reliablity and hitting power
+of the older r3 with the lighter weight caseless ammunition of the r10. The
+r11 has been widely produced and is the defacto standard weapon with higher
+tech Diadochi forces. A slightly improved TL 11 version (the r15) remains the
+standard Magellanic combat rifle to this day. The r11 has been widely
+exported and is also produced under licence by several independent Diadochi
+states. Butlaar Small Arms also produce a semiautomatic only version (the BSA
+M2301) for the civilian market; there are currently no civilian versions of
+either the r10 or r15, though considerable quantities of the r10 have been
+disposed of on the surplus market.
+
+The r11 is a bullpup combat rifle firing a 7mm caseless discarding sabot
+ammunition with a 4.5mm tungsten penetrator from a 100 round detachable
+magazine. It is capable of either semiautomatic, 5 round burst or full cyclic
+(500 rpm) fire. The r11 is fully gyrostabilised and fitted with an intergral
+laser sight with power provided by two 5 hour rechargable battery packs (the
+r10 uses only one 5 hour battery pack; and the r15 uses a single 10 hour
+battery pack).
+
+Weapon: r11 combat rifle
+Action: Blowback - singleshot, burst (5), cyclic (500)
+Ignition: Electric
+Tech Level: 10
+Calibre: 7(4.5)mm DS MSO caseless or 7mm ball MSO caseless
+Penetration: 5 (4 with ball ammunition)
+Range: medium
+Malfunction: reliable
+Shots: 100
+Mass: 4.35kg
+Reloads: 0.9kg (1.1kg with ball ammunition)
+Length: 57cm
+Cost: Cr 1275 (M2298: Cr 1000)
+Incidentals: 100 rounds discarding sabot: Cr 160 (0.75kg)
+             100 rounds ball: Cr 40 (0.95kg)
+             5 hour rechargeable battery pack: Cr 3 (0.3kg)
+             20 hour disposable battery pack: Cr 1.5 (0.3kg)
+             empty 100 round magazine: Cr 70 (0.15kg)
+
+Weapon: r15 combat rifle
+Action: Blowback - singleshot, burst (5), cyclic (500)
+Ignition: Electric
+ech Level: 11
+Calibre: 7(4.5)mm DS MSO caseless or 7mm ball MSO caseless
+Penetration: 5 (4 with ball ammunition)
+Range: medium
+Malfunction: reliable
+Shots: 100
+Mass: 3.9kg
+Reloads: 0.9kg (1.1kg with ball ammunition)
+Length: 57cm
+Cost: Cr 1290
+Incidentals: 100 rounds discarding sabot: Cr 160 (0.75kg)
+             100 rounds ball: Cr 40 (0.95kg)
+             10 hour rechargeable battery pack: Cr 5 (0.5kg)
+             40 hour disposable battery pack: Cr 2.5 (0.5kg)
+             empty 100 round magazine: Cr 70 (0.15kg)
+
+Weapon: r10 combat rifle
+Action: Blowback - singleshot, burst (5), cyclic (500)
+Ignition: Electric
+Tech Level: 9
+Calibre: 7(4.5)mm DS MSO caseless or 7mm ball MSO caseless
+Penetration: 5 (4 with ball ammunition)
+Range: medium
+Malfunction: unreliable
+Shots: 100
+Mass: 4.6kg
+Reloads: 0.9kg (1.1kg with ball ammunition)
+Length: 57cm
+Cost: Cr 1265
+Incidentals: 100 rounds discarding sabot: Cr 160 (0.75kg)
+             100 rounds ball: Cr 40 (0.95kg)
+             5 hour rechargeable battery pack: Cr 5 (0.5kg)
+             20 hour disposable battery pack: Cr 2.5 (0.5kg)
+             empty 100 round magazine: Cr 70 (0.15kg)

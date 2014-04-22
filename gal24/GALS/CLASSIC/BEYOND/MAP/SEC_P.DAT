@@ -1,0 +1,53 @@
+@SUB-SECTOR: sec_P   SECTOR: beyond.sec
+#
+# Trade routes within the subsector
+$2535 2434 -1 0
+$2535 2635 0 0
+$2635 2536 0 0
+$2635 2735 0 0
+$2735 2834 0 0
+$2834 2935 0 0
+$2935 3033 0 0
+$2935 3035 0 0
+$3035 3236 0 0
+$3236 0137 1 0
+$3236 3137 0 0
+$3137 3138 0 0
+$3236 3235 0 0
+$3235 3233 0 0
+$3233 3033 0 0
+$3033 2933 0 0
+$2933 2832 0 0
+$2832 2732 0 0
+$2732 2730 0 -1
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Mal'Den       2531 C687558-6    Ag Ni           A  1   MF     f
+Station Four  2535 C6A3664-7  S Ni                 4   Na     f
+Gr'oller      2536 B86A974-A    Na                 3   As
+Pais d'Muerte 2538 D443969-8    In Po              7   As
+Grenour Om. IX2635 B898322-9  S Na Ni              9   As     f
+Simba         2636 CA9A777-6    Na                 8   As
+Garfield Stat.2638 E556A96-9                       2   As     f
+Codominium-BIV2732 B5605A9-9    Na Ni              1   Zc
+Murv          2735 C976321-4    Ni                 1   As
+Hoelle VII    2832 A99A744-A  I                 A  2   As     f
+Miracle       2834 B92A5A9-9    Na Ni              4   Na
+Sdravstoycha  2835 C654520-8    Ag Ni              2   Na     f
+0.5 Phast     2837 D562003-6  D                    7   As
+Tessla        2933 C6R4000-0                       9   Na     f
+Darabghird    2934 E643560-5    Ni Po              9   As
+Barton        2935 B7655FF-9    Ag Ni              8   As
+Ralf          2938 X322300-1    Ni Po           R  6   As
+Hezar Mun     3032 D22389B-5    Na Po              7   As
+Alhazred      3033 A996701-9    Ag              A  2   As     f
+Aslani'i      3035 B867872-A    Na Ri Ca           3   As     f
+Khur be Tesh. 3038 D846330-5    Na                 1   As     f
+Boeing        3137 AAAA8BE-C  T                 R  8   Na     f
+Khatai        3138 C100400-9    Na Ni              8   As
+Caravanserai  3233 A987440-A  S Ni                 8   As     f
+Sevenohfurr   3235 B704922-8    In                 3   As
+Larimoor      3236 B976731-8    Ag                 5   Na
+Latakia       3240 B669732-7  T                 A  5   As     f

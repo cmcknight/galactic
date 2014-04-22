@@ -1,0 +1,45 @@
+@SUB-SECTOR: sec_N   SECTOR: trojan
+#
+# Trade routes within the subsector
+$0934 0930 0 -1
+$0931 1030 0 -1
+$0934 1034 0 0
+$0934 0835 -1 0
+$1034 1038 0 0
+$1036 0835 -1 0
+$1036 0837 -1 0
+$1036 1733 1 0
+$1631 1630 0 -1
+$1631 1733 1 0
+$1534 1735 1 0
+$1235 1436 0 0
+$1436 1438 0 0
+$1438 1339 0 0
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Eoiw          0931 B3306K4-E  R De Na Ni Ag Po     803 As
+Earlyu        0933 B9898L9-D  T Ri                 801 A2
+Hkuikhekh     0934 B5323G6-E    Lo Ni Po           804 As
+Ewyeyal       0936 B4845HA-E  U Ag Ni              100 As
+Aisaoawi      0938 BAC5000-0    Ba Fl Lo Ni     R  023 As
+Eiyehwehakhea 1034 B79A5HB-B  R Wa Ni              103 As
+Haealroiea    1036 B5544M7-9  R Ni                 730 As
+Wuaki         1038 A1105K5-C  R Ni                 413 As
+Aoiyras       1235 B3406KC-9    De Ni Po           813 As
+Irlaiw        1236 C336AH5-D    Hi                 813 As
+Rileakh       1333 C2378N5-A                       702 As
+Eateaw        1334 B223000-0    Ba Lo Ni Po     R  004 As
+Yu'eal        1335 B2326L6-E  T Na Ni Po           524 A4
+Aiuiktiyr     1338 E7974M9-A    Ni                 204 As
+Htoihfui      1339 A3688H3-E  R Ri                 105 As
+Huaholr       1436 B4204NC-9  R De Ni Po           823 As
+Teiseirle     1438 BA9A3H7-8    Lo Wa Ni           703 As
+Ouiyloi       1533 C5747L9-C    Ag                 601 A8
+Stehasu       1534 A7206H7-C  R De Na Ni Po        800 As
+Sosuasaoh     1535 B1008N8-B  R Va Na              203 As
+Kheiyyo       1537 C5257J7-9                       803 As
+Yai'ilrao     1631 B8583GB-E    Lo Ni              604 As
+Aiuite        1634 B6457J7-E  R Ag                 223 As
+Awaweaw       1637 E8558N9-9                       121 As

@@ -1,0 +1,344 @@
+In May of 1994, a new discussion started on the TML concerning the
+issue of planetary generation. I saved this second discussion as an
+additional reference for people interested in delving further into
+the topic.
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+Date: Sun, 8 May 94 16:38:29 EDT
+From: William White <whitew@eden.rutgers.edu>
+Subject: Interstellar Politics, Of A Sort
+
+              The Political Economy of the Imperium
+
+I want to talk a little bit about the Imperium, and some of the
+assumptions that underlie its structure.  Let me begin by listing
+two of the problematic areas that I think merit consideration.
+
+1)  In UWP generation, world physical characteristics are
+independent both of Starport type and Population details.  As has
+been pointed out, this leads to cases where hostile, hellish
+worlds with millions or even billions of inhabitants sit next
+door to garden planets with populations measurable on the fingers
+of one hand.
+
+2)  Nearly every star system has a starport of one kind or
+another, no matter how useless the real estate in the area is. 
+In fact, since the starport code is generated _first_, there is
+no relation between the starport and anything else in the system
+except its tech level.
+
+One way to approach these "problematica" is to say, "Well,
+they're completely non-rational; let's change them."  That's a
+valid solution.  And that's been done here on this list, so I
+don't propose to go that route again.
+
+The other approach is to say, "Well, this doesn't seem to make
+sense.  But there are certain assumptions that I'm working with
+in making that judgement.  Okay, so what assumptions about an
+interstellar society are necessary to justify the approach that
+these rules take?"
+
+One answer, at least, was suggested by the writer who said that,
+essentially, "Third Imperial culture is a _starfaring_ culture." 
+(It consists, in other words, of _travellers_.)  
+
+This lets us decouple the mainworld characteristics from the
+value assigned to a system by Imperials.  They aren't looking for
+a garden world just like dear old Terra (or Sylea, or Vland). 
+They live in space, viewing planets as resource centers rather
+than places to colonize or settle down upon.
+
+Of course, that is not to suggest that there are no planet-bound
+or planet-centered cultural groups within the Imperium, or even
+non-travelling subcultures within Imperial culture -- there may
+be segments of the population of Capital/Core, perhaps, who view
+the rest of the Imperium the way some New York City dwellers look
+on the rest of the United States.  But the culture into which
+most Classic Traveller PCs mustered out may have been what can be
+called "mainstream Imperial culture".
+
+This rationalization only gets us part way, however.  It can be
+asserted that the main objection to the UWP generation sequence,
+all considerations of culture aside, is that, economically, some
+results are hard to justify.  I don't dispute that here.  But I
+do suggest that economic behavior exists within a political
+framework -- that is, a structure of regulations, laws, and power
+struggles and imbalances.  By attempting to rationalize some
+apparently illogical results within a political economy
+framework, the referee can "flesh out" the underpinnings of a
+world or a subsector and make it more real, interesting, and fun
+for his (or her) players.
+
+The lo-pop garden world next door to the hi-pop hellhole is a
+case in point.  Instead of calling this an irrational result of
+arbitrary die rolls, we can say that the lo-pop world is a
+tourist site or rest and recreation area for the teeming masses
+who labor on the surface, in orbital facilities, on the jovian
+moons, and out in the Oort clouds.  The world government has
+petitioned the subsector nobility to make sure that the garden
+planet next door is preserved for that purpose, and so the
+proclamations have been duly made.
+
+[Note that adventure hooks can be found here:  What if some
+outsiders decide that they do want to settle there?  The hi-pop
+world, with no authority outside its system, may hire PCs to
+investigate, negotiate, and/or evict.  Or the squatters can hire
+them to help defend the settlement (a la the Magnificent Seven),
+or to escort a spokesman to the subsector capital to plead their
+case.]
+
+The ubiquity of starports is another matter altogether.  It seems
+that some of these serve no good purpose -- why would someone
+spend their hard-earned credits to build a starport in the middle
+of nowhere?  The "if you build it, they will come" argument only
+goes so far, even if we assume a highly mobile and transient
+community of interstellar travellers.  
+
+It occurs to me, however, that just as the U.S. government
+subsidized the building of the interstate highway system, the
+Imperial government would subsidize (and otherwise encourage) the
+construction of starports.   Thus, while some starports would be
+built by megacorporations and smaller companies anticipating a
+profit, others would be financed by the Ministry of Commerce,
+still others by the Scout Service, and others by the Navy.  Some
+megacorporations might be induced to build a starport by virtue
+of a tax write-off they would then become eligible for.  Low tech
+worlds might contract with higher tech corporations to build a
+starport in exchange for certain concessions or rights upon the
+planet.
+
+[Adventure hook:  PCs become involved in the investigation of
+shoddy construction practices by a subsector-wide corporation,
+where substandard materials are used but assessed as more
+expensive so that the bill can be presented to the Ministry of
+Commerce, and the excess credits pocketed.] 
+
+It is not often noted, but the Imperium does in fact possess
+considerable power regarding megacorporations and smaller
+interstellar corporations down to at least the subsector level. 
+_The Imperium permits them to exist_.  That is, by virtue of the
+laws and regulations it promulgates, the Imperium makes it
+feasible for star-spanning corporations to function.  They are
+not natural or even inevitable constructs.  If the legal
+structure of the Imperium was altered so that only the capital of
+individual worlds or subsectors could be consolidated for
+business ventures, a very different economic environment would
+prevail, one perhaps more similar to the mercantile era of
+Terra's 17th and 18th centuries (or thenabouts).
+
+The assumptions I am making here are different from but no less
+valid than those made by advocates of changing UWP generation. 
+In a sense I am making the case for an "active Imperium" that
+acts on the worlds within its domain, indirectly, by governing
+the relationships between them.  In MegaTraveller terms, I
+suppose that would put me in Dulinor's camp.  And we all know
+what happened to him.
+
+Comments?  I'm all ears.
+
+Bill White
+whitew@eden.rutgers.edu
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+From: james vassilakos <jimv>
+Subject: politics and world rationalization
+Date: Sun, 8 May 1994 22:21:47 -0700 (PDT)
+
+William White <whitew@eden.rutgers.edu> writes:
+> main objection to the UWP generation sequence,
+> all considerations of culture aside, is that, economically, some
+> results are hard to justify.  I don't dispute that here.  But I
+> do suggest that economic behavior exists within a political
+> framework -- that is, a structure of regulations, laws, and power
+> struggles and imbalances.  By attempting to rationalize some
+> apparently illogical results within a political economy
+> framework, the referee can "flesh out" the underpinnings of a
+> world or a subsector and make it more real, interesting, and fun
+> for his (or her) players.
+
+I was somewhat astonished at the timing of this article, being that
+I'm currently mulling over this very subject in anticipation of
+releasing yet another program (this time a sector generator, or rather
+set thereof).
+
+Anyway, a little over a year ago, we had a long discussion about
+the problems in basic mainworld generation (pgs 24 and 25 of the
+megatraveller ref's manual). And needless to say, I was in favor of
+route #1 (change the damn system) whereas others were in favor
+of route #2 (rationalize the inconsistencies). I really have nothing
+new to add on this topic, except to say that I've just put a
+transcript of the old discussion up for ftp. Feel free to take a
+look at it, and if you do, let me know what you think.
+
+The node: ucrengr.ucr.edu (138.23.166.21)
+The directory: pub/trek
+The file: tml-93feb
+
+           _   /|       Jim Vassilakos
+           \`o_O'       jimv@cs.ucr.edu
+             ( )        jimv@wizards.com
+              U         Riverside, California, USA
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+Date: Mon, 9 May 94 22:38:40 CDT
+From: djohnson@geds01.jsc.nasa.gov (David Johnson)
+Subject: Traveller World Generation
+
+Jim:
+
+Been reading your past discussion - some great stuff (I'm only half-way
+through it).  Makes me feel a little sheepish about the variant generation
+tables I posted last week.
+
+In general I agree with many of the points you had made by the half-way
+point.  Thanks a bunch for making that discussion available.
+
+More later.  I've a final in eleven hours and haven't studied yet.  :-)
+
+Happy Travelling,
+
+David Johnson
+Houston, Texas, USA
+
+
+Date: Tue, 10 May 94 18:26:36 CDT
+From: djohnson@geds01.jsc.nasa.gov (David Johnson)
+Subject: TML World Generation Discussion
+
+Jim:
+
+Howdy.  Finished reading over the past world generation discussion you made
+available.  That was a lot of information to absorb.  My general feeling
+was that the discussion was starting to get a little too complicated.
+I guess I agree with your comment of 19 Feb 93:
+
+> Hmm... this is starting to entail lots
+> of variables.
+
+I'm not much for rules in the first place.  My approach to role-playing is
+to generally ignore the rules except when they can provide a lot of useful
+information with a relatively small amount of effort.  This is illustrated
+by the difference between the basic and extended canonical rules.  The
+basic rules give plenty of info on the main worlds for a relatively small
+amount of effort while the extended rules give lots of info for the (less
+important) rest of the system *and* requires a great deal more effort.
+
+That said, I do feel the basic rules need work which is why I developed
+variant world generation tables for the Earth Colonies campaign (but that only
+address the main world).
+
+The concern about spectral types interested the scientist in me (I was an
+engineering major) but pretty much bores the role-player in me (I'm now a
+humanities major).  I realize some `garden' worlds get generated about
+stars that sort of ruin the garden but I'm willing to deal with that on
+an individual basis.  (I realize though that this becomes an issue when
+you seek to expand the system to include some sort of random life generation.)
+
+I really liked the idea suggested by Bruce Pihlamae that proposed an
+approach to developing worlds similar to that used to generate characters.
+The generation of the geosphere, native biosphere, external cultural
+influences and subsequent interactions seems very interesting.  (I also
+like the `resonance' of this approach with the character generation scheme.
+This does begin to become a product of one's approach to one's particular
+gaming universe though - another important point raised in the discussion.)
+Unforunately, this particular stream of the discussion seems to have died
+out.  (I also agree with your sense that this is more `world building'
+than `world generation' - sort of like the `expanded' character generation
+rules - but I *do* like it.)
+
+I've jimmied (Oops!  Just realized you might not like that term.  :-) with
+the trade classifications myself.  (In addition to many of the points raised
+I've always found the fact that waterworlds - Hyd A - can't be agricultural
+to be more a product of our own land-lubber bias than objective consideration.)
+Generally, though I've never been satisfied with my limited attempts to
+rectify this situation.  This is probably due to the fact that trade codes
+don't really matter except in the trade and commerce rules.  Not being
+much for rules anyway I just don't encounter the trade codes that much.
+
+The other point I found of interest was the notion of some sort of `life
+scale' that details the sophistication of native life.  In general I come
+down on the side of this measure not addressing technological accomplishment
+(sentience is important regardless of TL, IMHO).  On the other hand I'm
+uncomfortable with randomly occurring sophonts but the idea of a code that
+will tell me whether the local life consists of water-borne single-cell
+organisms or highly sophisticated mobile predators does seem quite useful.
+I see no problem just adding this code to the `Remarks' section of the UWP.
+Say a code like `LX' where the `X' is the UWP digit.  (I've added columns
+under `Remarks' in the Earth Colonies campaign that address local defense
+battalions and system defense boats already.)
+
+I find the `Resource' measure of less use.  Planets are pretty large bodies
+and most will possess *some* sort of resources.  It seems to me that more
+important will be the *accessibility* of those resources which leads you
+back to `good' biospheres.  (No matter how much lanthanum there is on some
+`hell-hole' there is a price to be paid to extract that resource in such
+an environment - making it ultimately less valuable, unless you *can't* get
+it somewhere else - and if I can't get it anywhere else, how did I find it
+to be useful in the first place?)
+
+The last issue I feel I need to address is the suggestion that government
+and law level might influence tech level.  First off, you'll see from the
+variant world generation that I posted from the Earth Colonies that I've
+rejected the government types from Traveller (which were always problematic,
+IMHO) in favor of a government characteristic that attempts to address the
+nature of popular consent and the exercise of authority that is unrelated
+to the specific manifestation of that consent and exercise of authority.
+I also abandon the `weapons restrictions' guidelines for law level in favor
+of a more loosely defined level of government intrusiveness that primairly
+manifests itself in `encounter throws' for the local police - whether
+such an encounter occurs because of a weapons violation, expired license,
+or your haircut is up to the referee.
+
+That said, I would be very careful about any modification of tech level by
+government type or law level because such modification is highly susceptible
+to contemporary political views about the nature of technology and the
+practice of science that are extremely lacking in objectivity.  Even in
+the TML discussion there was a great deal more ideology than technology - both
+with respect to `oppressive vs. open' government types and with repsect to the
+nature of government intrusiveness (law level) into the practice of science
+and technology.  (I say this as a practicing engineer currently involved
+in the joint US-Russian space program *and* as a soon-to-be science and
+technology policy graduate student.)
+
+A very enjoyable read.  Thanks for making it available.  I've sent this
+directly to you but I will probably post it to the TML as well.
+
+Happy Travelling,
+
+David Johnson
+Houston, Texas, USA
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+From: erwin@fritz.cuug.ab.ca (Erwin Fritz)
+Date: Tue, 10 May 94 06:27:14 -0700
+Subject: Re: TML nightly: Msgs 7491-7491 V73#15
+
+William White <whitew@eden.rutgers.edu> writes:
+>Subject: Interstellar Politics, Of A Sort
+>              The Political Economy of the Imperium
+>I want to talk a little bit about the Imperium, and some of the
+>assumptions that underlie its structure.  Let me begin by listing
+>two of the problematic areas that I think merit consideration.
+
+[munch]
+
+>Comments?  I'm all ears.
+>Bill White
+
+Excellent article!  Exactly the kind of thing I subscribe to this list
+to read!  
+
+When I roll up systems, I don't muck with the starport or population 
+rules.  I like the challenge that results from having to explain why
+a world has 10 billion people on it when its temperature is 100 below
+zero and has an insidious atmosphere.
+
+If the rules change so that only garden worlds have high populations,
+then each worlds starts to look suspiciously the same.
+
+erwin@fritz.cuug.ab.ca
+

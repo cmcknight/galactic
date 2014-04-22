@@ -1,0 +1,14 @@
+@SUB-SECTOR: sec_B   SECTOR: reft
+#
+# Trade routes within the subsector
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Evet's World  0903 B201556-E  N Ic Ni Va        A  103 Re
+Ulnert        1002 B53779D-9    Ni                 103 Re
+Earl Center   1102 A998111-B    Lo Ni              304 Re
+Yvette        1103 A79A735-E  N Wa                 133 Re
+Oleiros       1204 B000357-D  S As Lo Ni           800 RF
+Sestao        1301 A120658-E  N De Na Ni Po        911 Re
+Gorod         1302 C66888A-A    Ri                 711 Re

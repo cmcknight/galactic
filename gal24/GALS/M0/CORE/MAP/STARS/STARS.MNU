@@ -1,0 +1,26 @@
+@dir=gals\m0\core\map\stars
+@Light Yellow
+
+Core Sector / Star Files
+
+@Light Cyan
+
+@Light Green
+      Subsector Data
+@Light Cyan
+       A: Apge                     @sec_a.txt
+       B: Perite                   @sec_b.txt
+       C: Ameros                   @sec_c.txt
+       D: Shinkan                  @sec_d.txt
+       E: Sanches                  @sec_e.txt
+       F: Mekee                    @sec_f.txt
+       G: Core                     @sec_g.txt
+       H: Kaskii                   @sec_h.txt
+       I: Bunkeria                 @sec_i.txt
+       J: Cemplas                  @sec_j.txt
+       K: Chant                    @sec_k.txt
+       L: Dingtra                  @sec_l.txt
+       M: Cadion                   @sec_m.txt
+       N: Ch'naar                  @sec_n.txt
+       O: Dunea                    @sec_o.txt
+       P: Saregon                  @sec_p.txt

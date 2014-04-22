@@ -1,0 +1,54 @@
+
+From: Jim Vassilakos <jimv>
+Subject: What is IG's copyright policy?
+To: traveller@NS.MPGN.COM
+Date: Mon, 2 Sep 1996 14:28:58 -0700 (PDT)
+
+Back in May, Ken Whitman of Imperium Games got on the Traveller
+Mailing List in order to publicize the coming of "Marc Miller's
+Traveller", the new edition of the game, otherwise known as T4
+(or Traveller, 4th edition). In order to generate interest over
+the game, he offered to deliver questions from TML members to
+Marc. Although I never got an answer to it (they've been rather
+busy during the past few months, and understandably so), this is
+the one that I sent. I decided to include it here as an open
+letter since it more or less concerns all of us.
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+From: Jim Vassilakos (jimv@empirenet.com)
+Subject: question for marc or whomever
+To: Ken Whitman (whitman@wisenet.net)
+Date: Sun, 19 May 1996 09:14:43 -0700 (PDT)
+
+Hi, Ken. You said on the TML that you were collecting questions
+for Marc Miller. Well, here's mine:
+
+As you are probably already aware, Traveller enthusiasts on the
+Internet have been creating and distributing various works which
+are compatible with (and in some cases might arguably be
+derivative of) professionally published Traveller material. These
+fan-authored works typically consist of computer programs, world
+write-ups, character write-ups, adventures, stories, and a wide
+assortment of other articles which are reminiscent of what one
+might find in an old JTAS. Nearly all the professional games
+publishers recognize that their fans are doing this, and except
+for the condition that this fan-authored material be made
+available free of charge, almost all of these publishers condone
+(and sometimes even assist) this activity on the part of their
+fans. I say "almost", because one roleplaying games publisher
+sticks out like a sore-thumb for its unwillingness to condone
+fan-authored works which are compatible with its game system (and
+this publisher has even threatened its own fans with legal
+action, although it has never been willing to openly discuss the
+legal specifics behinds its rationale). I am, of course, speaking
+of TSR, the great-granddaddy of RPG publishers. Now my question
+to you is, what is your/Imperium Games' policy toward
+fan-authored Traveller-compatible works which are distributed
+free of charge over the Internet?
+
+For more information on the TSR/Copyright controversy, please
+see ftp://ftp.cs.pdx.edu/pub/frp/tsr/debate.zip.
+
+Looking forward to hearing from you...   jimv@empirenet.com
+

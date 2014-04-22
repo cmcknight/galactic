@@ -1,0 +1,16 @@
+@SUB-SECTOR: sec_J   SECTOR: vanguard
+#
+# Trade routes within the subsector
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+TELLERIA      0926 A877944-A    Hi In              814 Tc     f
+Ralnn         1025 A987855-A  J Ri                 431 Tc
+ORYLLA        1026 AA65926-A  J Hi                 103 Tc     f
+DRIEN         1124 C847AE0-9    Hi In              410 Tc
+Zelos         1125 X8684A9-1    Ni                 421 Tc
+Necto         1224 C8587DA-8  V Ag                 801 Tc
+Divrigi       1227 B525457-A    Ni              G  202 Na     f
+Andwella      1422 B998356-B  J Lo Ni           G  300 Na
+Gateway       1530 X700000-0    Ba Lo Ni Va        030 Ac

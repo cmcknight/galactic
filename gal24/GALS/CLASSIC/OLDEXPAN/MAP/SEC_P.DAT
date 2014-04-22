@@ -1,0 +1,46 @@
+@SUB-SECTOR: sec_P   SECTOR: oldexpan
+#
+# Trade routes within the subsector
+$2633 2628 0 -1
+$2633 2832 0 0
+$2633 2835 0 0
+$2832 2835 0 0
+$2833 2733 0 0
+$2736 2835 0 0
+$2838 2739 0 0
+$2739 2701 0 1
+$2640 2740 0 0
+$2740 3039 0 0
+$3039 3001 0 1
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Surren        2533 C877610-9    Ag Ni              503 Im
+Lemos         2536 A8C5979-F    Fl Hi              404 Im
+Sontar        2537 BBC0923-C  N De Hi              114 Im
+Vleeman       2538 A000A67-D  S As Hi In Na        924 Im
+Aice          2631 B7C8552-B  N Fl Ni              804 Im
+Kodants       2632 A454720-F  N Ag                 104 Im
+Zi            2633 B211A74-F    Hi Ic In Na        403 Im
+An Cizow      2639 C000451-9  N As Ni              103 So
+Phront        2640 ACA0AC9-E    De Hi              914 So
+Caprica       2733 A120100-D  A De Lo Ni Po        514 Im
+Berlitzi      2736 A43A8B4-E    Wa                 605 Im
+Stech         2739 C000533-B  N As Ni              201 So
+Jeamasm       2740 AAC08B4-D  N De                 323 So
+Tanbeck       2832 B2208A9-A    De Na Po           413 Im
+Fletcher      2833 B211768-C    Ic Na              914 Im
+Syrim         2835 A86AA40-F  N Hi Wa              814 Im
+Lusky         2838 X9479C5-3    Hi In              514 So
+Dunashaap     2933 CBC4735-9    Fl                 104 Im
+Maurcam       2934 B84A700-B    Wa                 702 Im
+Hiland        2935 BCC4899-B  S Fl                 411 Im
+Roth          3031 X97A000-0    Ba Lo Ni Wa        202 Cs
+Ord           3036 C271522-9    Ni                 205 Na
+Stad          3039 A433A73-E  N Hi Na Po           301 So
+Markham       3040 B44A863-A  N Wa                 903 So
+Hendura       3131 AAC0A99-D  N De Hi              804 Na
+Melock        3136 XA30000-0    Ba De Lo Ni Po     212 Cs
+Andra         3233 D4458D9-5                       704 Cs
+Laste         3238 E715200-6    Ic Lo Ni           314 Cs

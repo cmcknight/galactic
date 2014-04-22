@@ -1,0 +1,45 @@
+@SUB-SECTOR: sec_F   SECTOR: hinter
+#
+# Trade routes within the subsector
+$0916 1115 0 0
+$1115 1315 0 0
+$1315 1316 0 0
+$1316 1519 0 0
+$1519 1710 1 0
+$1519 1521 0 1
+$1315 1413 0 0
+$1413 1212 0 0
+$1212 1210 0 -1
+$0916 0814 -1 0
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Hattop        0916 C846634-3    Ni Ag              124 Ra
+Cassius       0917 C97A631-7    Ni Wa              613 Na
+Khadi         0918 E453414-8    Ni Po              503 Cs
+Edmund        0919 E400798-3    Va Na              312 Na
+Khushudug     1012 C895687-3    Ni Ag           A  401 Na
+Agbi          1015 C23149B-9    Ni Po              603 Na
+Caliban       1020 E110343-7    Ni                 913 Na
+Ceearr        1115 E1006BE-6    Ni Va Na        A  214 Na
+Kanterovich   1116 D687313-3    Ni                 203 Na
+Carbaday      1117 B635788-8                       703 Na
+Undru         1120 C100125-9    Ni Va              904 Na
+Liibaar       1211 C666897-6  S Ri                 303 Cs
+Rotstern      1212 D351457-9    Ni Po              714 Na
+Lu            1313 B100668-9    Ni Va Na           624 Na
+Arkon         1315 C56999B-A    Hi              A  113 Na
+G-R           1316 C676200-5    Ni                 813 Na
+Early Frost   1413 E556552-5    Ni Ag              803 Na
+Varag         1417 A588762-8    Ri Ag              803 Na
+Normand       1420 C5436BG-3    Ni Po              904 Na
+Ikumm         1514 C110732-8    Na                 810 Na
+Mainline      1519 B6797AB-9  M                    814 Na
+Peterstadt    1520 B83769A-9  M Ni                 805 Na
+Deanne        1611 E99A300-5    Ni Wa              405 Na
+Hont          1613 C479355-9    Ni                 803 Na
+Zhreggeushi   1614 E434121-4    Ni                 922 Na
+Darny's Rock  1615 C100644-7    Ni Va Na           902 Na
+Thanas        1616 B763786-6    Ri                 604 Na
+Bucolia       1619 C87858C-7    Ni Ag              900 Na

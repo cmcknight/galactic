@@ -1,0 +1,36 @@
+@SUB-SECTOR: Apge SECTOR: Core
+#
+# Trade routes within the subsector
+
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Irkigkhan     0103 D9C359C-6    Ni Fl              223 Im
+Shana Ma      0104 E351000-0    Po Ba              003 Ba
+Niir          0106 B9C68A8-7    Fl                 404 Im
+Azimuth       0202 B847666-9    Ag Ni              200 Im
+Khaur Ga      0203 C234533-B    Ni                 400 Im
+Gekshiiuun    0208 D527200-4    Lo                 723 Im
+Uras          0210 A79788A-A                       801 Im
+Khaam         0302 E597000-0    Ba                 001 Ba
+Kuunaa        0304 E8B5000-0    Fl Ba              023 Ba
+Muudeshi      0305 B100AAA-B    Na In Hi Va        301 Im
+Kiid          0306 E786000-0    Ba                 022 Ba
+Pasliir       0307 B274446-7    Lo                 200 Im
+Shar          0308 C688114-7    Lo                 514 Im
+Mag           0310 E888000-0    Ba                 002 Ba
+Apge          0402 B772558-D    Ni                 110 Im
+Irli Un       0403 B000140-B    As Lo              604 Im
+Dake Ag       0405 E674000-0    Ba                 014 Ba
+Arkag Ka      0408 C4536BB-9    Ni Po              402 Im
+Gin           0409 C994313-B    Lo                 302 Im
+Daa           0410 B779134-9    Lo                 202 Im
+Niir          0502 B76A5AD-9    Ni Wa              120 Im 
+Emiigaap      0505 C130686-9    Na Ni Po De        124 Im
+Dashgad       0603 C140247-B    Lo Po De           601 Im
+Khuumiam      0606 C736788-7                       611 Im
+Maaruur       0707 E6A2000-0    Fl Ba              020 Ba
+Gaage         0806 A212533-C  N Ni Ic              800 Im
+Kikim         0808 E575000-0    Ba                 014 Ba
+

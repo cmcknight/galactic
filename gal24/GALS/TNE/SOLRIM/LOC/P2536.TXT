@@ -1,0 +1,13 @@
+Carchemish X778000-0       
+Starport: None                     Size: Medium (10400-12000 km)
+Atmosphere: Standard, tainted      Hydrographics: 80% water
+Population: 0                      Govt: No government
+Law Level: No Prohibitions         Technology: None/Primitive
+                          
+	Carchemish housed a Solomani Research Station prior to the Collapse. The
+nature of the experiments that went on there has never been fully ascertained,
+as records of such projects are now impossible to find, however it is known
+that GenAssist was involved. Extreme caution should be exercised when visiting
+this system.
+
+

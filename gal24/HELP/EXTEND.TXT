@@ -1,0 +1,134 @@
+Extended UWP Code Definitions
+-----------------------------
+
+If you've created any sectors using the variant world-generation
+rules supplied with this program, then you might have noticed
+three additional stats which are included in the Universal World
+Profiles of the various worlds being displayed.
+
+
+Life Stat
+---------
+
+The Life Stat doesn't really refer so much to life as to
+indigenous life. A world which is marked as Life:0 can have a
+teaming ecosystem, however, that ecosystem would have to have
+been entirely transplanted from elsewhere. In most cases, this
+probably wouldn't have happened, except in cases where the planet
+was purposely terraformed, a process which takes a lot of effort
+and a fair amount of time. While not of great use in determining
+the characteristics of the present ecosystem, this stat is useful
+for determining the ecological history of the world, as well as
+whether or not any sophonts originated on a particular world, and
+if so, whether or not they were still around when the first
+survey expedition arrived.
+
+   0: Sterile: No indigenous life. Atmosphere is not breathable
+         without substantial eco-engineering.
+   1: Proto-cellular: Indigenous life consisted of amino acids
+         and/or various primitive replicators. These may have
+         been wiped out by transplanted organisms.
+   2: Single-cellular: Transplants would have taken over.
+   3: Multi-cellular: Transplants would have taken over.
+   4: Complex microscopic: Lots of colorful ooze. Transplants
+         would have taken over for the most part, however, there
+         might be some indigenous bacteria still competing.
+   5: Macroscopic: Mainly small indigenous sea-life which would
+         be competing along side whatever transplants are
+         present.
+   6: Primitive ecosystem: Oceans are teaming with indigenous
+         organisms, but land-based life is just carving out its
+         niche. Transplants may have halted the advance of
+         indigenous life, assuming the two are bio-compatible.
+   7: Teaming ecosystem: Water/Land/Air-based herbivores and
+         predators. Transplants would have a hard time competing
+         in such an advanced ecosystem. Bio-compatibility would
+         be an important issue.
+   8: Proto-sentient: Tool-fabrication, mastery of fire.
+   9: Sentient: Agriculture, language, symbology.
+   A: Non-spacefaring: Planet may be a biological protectorate
+         (ala the Prime Directive).
+   B: Early Spacefaring: Indigenous race may have been given
+         technology or may even have been genetically uplifted.
+   C: Cataclysm: Result of either war, plague, or minor
+          environmental mismanagement. Survivors are in a state
+          of slow recovery.
+   D: Green Hell: Result of major environmental mismanagement.
+          World is transformed into a greenhouse.
+
+
+Resource Stat
+-------------
+
+Planets are fairly big places, and nearly all of them generally
+have something worth taking. The question is how to go about it.
+Some resources are difficult to exploit, even when you know where
+they are, and in most cases, a sizable population (100000+) is
+required before the resource can be transformed into an export
+commodity. This stat indicates mainly the relative wealth of the
+resource base. How economically it can exploited is up to the GM
+(as well as the other planetary attributes).
+
+   0: Barren
+   1-4: Poor: Basic chemical diversity necessary to support
+           indigenous life. Otherwise, no claim to fame.
+   5-8: Moderate: Moderate resource base capable of being
+           exploited for export.
+   9-C: Rich: Rich resource base, one of which could command
+           subsector-wide influence.
+   D+ : Extreme: Very rich resource base, one of which could
+           command sector-wide influence.
+
+
+Export Stat
+-----------
+
+Most populated planets export something, but in order for a world
+to have an export stat <> 0, that world has to be a fairly major
+player on the interstellar scene. In such cases, the planet will
+probably be involved in exporting dozens of commodities, perhaps
+even hundreds, but such worlds will also have an economic
+mainstay, a product for which they are known far and wide. The
+Export Stat helps the GM determine precisely what that product or
+product-category is. The Minimum Tech Level on the chart below
+shows the technology level required for the world to be a major
+player in any particular export category. Individual GMs can
+modify this requirement by editing the file: galdata\export.dat
+
+                           Minimum
+                          Tech Level  
+    0: None                   0
+    1: Textiles               5    Agro worlds only
+    2: Wood Products          4    Agro worlds only
+    3: Livestock              1    Agro worlds only
+    4: Agro-Consumables       4    Agro worlds only
+    5: Pharmaceuticals        9
+    6: Petrochemicals         6    Life 7+ only
+    7: Biologicals            1    Life 7+ only
+    A: Antimatter             H
+    B: Bio-engineering        D
+    C: Computers              D
+    D: Industrial Crystals    5
+    E: Electronics            C
+    F: Farm Machinery         5
+    G: Gemstones              1
+    H: Heavy Metals           5
+    I: Industrial Machinery   5
+    J: Synthetic Fabric       8
+    K: Synthetic Foods        8
+    L: Industrial Chemicals   7
+    M: Rare Minerals          5
+    N: Weaponry/Armor         A
+    O: Radioactives           6
+    P: Polymers               9
+    Q: Cybernetics            C
+    R: Robots                 D
+    S: Starships              B
+    T: Tools                  5
+    U: Underwater Equipment   7
+    V: Vehicles/Gravitics     8
+    W: Banking/Insurance      D
+    X: Entertainment          D
+    Y: Art/Publishing/News    D
+    Z: Information/Research   D
+

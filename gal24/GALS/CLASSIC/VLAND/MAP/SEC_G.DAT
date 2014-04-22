@@ -1,0 +1,58 @@
+@SUB-SECTOR: sec_G   SECTOR: vland
+#
+# Trade routes within the subsector
+$1717 1414 -1 0
+$1717 1509 -1 0
+$1717 1916 0 0
+$1717 1817 0 0
+$1717 1820 0 0
+$1916 2013 0 0
+$2013 2111 0 0
+$2111 1909 0 -1
+$2111 2409 0 -1
+$1820 1822 0 1
+$1817 2117 0 0
+$2117 2316 0 0
+$2117 2319 0 0
+$2316 2513 1 0
+$2316 2416 0 0
+$2416 2616 1 0
+$2319 2620 1 0
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Enaa          1716 B300859-A  N Na Va              402 Rv
+Vland         1717 A967A9A-F  N Hi Cx              320 Rv
+Kirma         1718 A797111-F  N Lo Ni              725 Rv
+Sazisi        1719 E586620-8    Ag Ni              703 Rv
+Anaam         1811 C424753-D                       510 Rv
+Khusher       1813 C6A6754-B  S Fl                 722 Rv
+Shinla        1816 C1608A9-B    De                 934 Rv
+Tauri         1817 A130998-E    Hi Na Po De        420 Rv
+Dusu          1819 C9E2487-9    Ni Fl              520 Rv
+Kha           1820 A86A542-C    Ni Wa              824 Rv
+Giinam        1915 C265003-C  S Lo Ni              304 Rv
+Kipii         1916 B130222-F  N Lo Ni Po De        202 Rv
+Kusheggi      1918 E496778-4    Ag                 420 Rv
+Khula         1919 B475977-F  N Hi In           A  510 Rv
+Inkha         1920 B797442-C    Ni                 310 Rv
+Isbudin       2013 C9C5984-C    Hi Fl              623 Rv
+Zurrian       2016 C463436-F  S Ni                 402 Rv
+Tahaver       2017 B769978-A    Hi                 110 Rv
+Lobode        2019 E554566-4    Ag Ni              510 Rv
+Shushguum     2020 B522577-A  N Ni Po              924 Rv
+Flire         2111 B779A77-F    Hi In              423 Rv
+Ishala        2113 C866651-B    Ag Ni Ri           404 Rv
+Zedu Gisla    2115 E533587-5    Ni Po              701 Rv
+Uri           2117 A313632-D    Na Ni Ic           220 Rv
+Pyam          2120 B799385-B  N Lo Ni              320 Rv
+Irila         2211 B568003-9  N Lo Ni              523 Rv
+Ashbakha      2216 A672000-A  N Lo Ni Ba           201 Rv
+Dangasha      2314 C350664-B    Ni Po De           801 Rv
+Kagush        2316 A736300-9    Lo Ni              724 Rv
+Shudi         2319 A7668BB-9                       525 Rv
+Gidapisek     2320 B200623-D    Na Ni Va           810 Rv
+Ansin         2412 E563A95-C    Hi                 820 Rv
+Liisurkhish   2416 A362688-B    Ni Ri              810 Rv
+Nasha         2419 E200001-8    Lo Ni Va           710 Rv

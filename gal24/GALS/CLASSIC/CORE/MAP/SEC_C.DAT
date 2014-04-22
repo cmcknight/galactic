@@ -1,0 +1,42 @@
+@SUB-SECTOR: Ameros SECTOR: Core
+#
+# Trade routes within the subsector
+$2101 2040 0 -1
+$2101 2240 0 -1
+$2401 2540 1 -1
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+.             1701 E99A489-8    Ni Wa              224 Li 
+.             1702 C4637B6-8                       802 Li 
+.             1703 B645367-D  N Lo Ni              700 Li 
+.             1707 B686745-9  N Ag Ri              800 Li 
+.             1708 B000868-B  S Na As              904 Li 
+.             1710 E000230-8    Lo Ni As           311 Li 
+.             1801 D451588-5  S Ni Po              725 Li 
+.             1808 B100544-D    Ni Va              223 Li 
+.             1901 B6945AB-C    Ag Ni              300 Li 
+.             1902 B88948A-B    Ni                 503 Li 
+.             1909 D433541-6  S Ni Po              800 Li 
+.             2006 B210867-9  N Na                 412 Li 
+.             2008 B110542-G  N Ni                 605 Li 
+.             2010 B8B7496-D  S Ni Fl              905 Li 
+.             2101 A85A69D-E    Ni Wa              503 Li 
+.             2102 B554240-8    Lo Ni              910 Li 
+.             2103 E000127-9    Lo Ni As           805 Li 
+.             2104 B884869-B    Ri                 902 Li 
+.             2105 B461542-E    Ni                 603 Li 
+.             2203 B338441-C    Ni                 800 Li 
+.             2205 B538545-C  A Ni                 923 Li 
+.             2206 B444310-E    Lo Ni           A  313 Li 
+NLiluin       2209 B476965-F  A Hi In              410 Li 
+.             2210 C562767-5  S Ri                 305 Li 
+.             2306 C645441-B  S Ni                 103 Li 
+.             2401 A52A231-C  A Lo Ni Wa           103 Li 
+.             2403 B4698C9-9                       723 Li 
+.             2404 B400442-D  W Ni Va              504 Li 
+.             2405 C576242-8    Lo Ni              113 Li 
+.             2407 E767664-5    Ag Ni Ri           810 Li 
+.             2408 A200524-F    Ni Va              413 Li
+.             2410 B000531-B  N Ni As              712 Li

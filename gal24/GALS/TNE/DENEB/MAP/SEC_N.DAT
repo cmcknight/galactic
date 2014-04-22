@@ -1,0 +1,42 @@
+@SUB-SECTOR: sec_N   SECTOR: deneb
+#
+# Trade routes within the subsector
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Echura        0933 C683789-9    Ri                 403 Re
+Inquar        0935 B8B5754-C  S Fl                 223 Re
+Tullyhome     0936 D66977A-7    Ri                 901 Re
+Sestos        0939 C5A6878-9    Fl                 903 Re
+Quinthept     1032 C521575-D    Ni Po              821 Re
+Storm         1035 CAD6223-7    Fl Lo Ni           314 Re
+Timmer        1038 C362652-A  S Ni Ri              814 Re
+Keirei        1133 C110330-D  S Lo Ni              934 Re
+Lilad         1135 A447A7B-F    Hi In           A  924 Re
+Third Mu      1137 BA7A210-D    Lo Ni Wa           525 Re
+Ushashin      1138 DA9A210-9    Lo Ni Wa           934 Re
+Oriryu        1140 B536434-9    Lo Ni              901 Re
+Point Ay      1231 C460624-C  S De Ni              302 Re
+Veldt         1235 A467754-9  S Ag Ri An           714 Re
+Muntgumree    1238 B253666-A  A Ni Po              403 Re
+Giffert       1332 B7A9557-F    Fl Ni              620 Re
+Shiiku        1333 C6507BD-6  S De Po              222 Re
+Giranima      1334 A7979C8-C  S Hi In              513 Re
+Dawn          1336 AA9A533-E  N Ni Wa              603 Re
+Unxava        1337 B677757-9    Ag Ni              123 Re
+Sorel         1338 C539113-D    Lo Ni              601 Re
+Zeng          1339 A226446-E  N Lo Ni Cp           911 Re
+Agdarmi       1340 B266899-B    Ri                 524 Re
+Depot Beta    1432 A232566-G  D Lo Ni Po RsZ       312 Re
+Atab          1433 C140999-B  S De Hi In Po        103 Re
+Quirinal      1435 B651754-B  S Po                 201 Re
+Isidor        1436 C371565-9    Ni O:1435          723 Re
+Breit-Tuve    1439 C325574-D  S Ni                 911 Re
+Fessenden     1440 C43579A-8                    A  601 Re
+Rajan         1532 C87A212-B    Lo Ni Wa           621 Re
+Pikha         1633 A738A86-E  N Hi                 712 Re
+Ibsen         1635 E434558-5    Ni                 510 RF
+Balzac        1636 A452879-D  N Po                 313 RF
+Uushadiiru    1639 A351445-B  N Lo Ni Po           221 RF
+Jecife        1640 A439567-F  N Ni O:1636          523 RF

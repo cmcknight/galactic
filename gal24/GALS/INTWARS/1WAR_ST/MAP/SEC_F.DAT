@@ -1,0 +1,38 @@
+@SUB-SECTOR: sec_F   SECTOR: 1war_st
+#
+# Trade routes within the subsector
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Mumigu        0912 E620315-6    De Lo Ni Po        705 Zs
+Mihuk         0913 EAC8000-0    Ba Fl Lo Ni        022 Zu
+Shipakage     0914 C988ADC-6    Hi                 221 Zs
+Maagkha       0918 B444631-6    Ag Ni              810 Zs
+Gundelun      0919 CA56879-6                       223 Zs
+Pikugdu       1011 E562788-5    Ri                 113 Zs
+Gimugikhegi   1020 E624000-0    Ba Lo Ni           504 Zu
+Dimmurak      1111 D657216-9    Lo Ni              704 Zs
+Digala        1116 C46893A-B    Hi                 511 Zs
+Mashaddun     1117 E994000-0    Ba Lo Ni           020 Zu
+Muan Irrzudh  1119 E66A465-2    Ni Wa              200 Zv
+Hsuishlesh    1120 C644569-6    Ag Ni              823 Zv
+Budarlagi     1214 E000000-0    As Ba Lo Ni        002 Zu
+Gizalur       1216 A456951-B  N Hi                 213 Zs
+Tunshaon Tyo  1218 C554669-8    Ag Ni              512 Zv
+Umieh         1219 E100300-9    Lo Ni Va           622 Zs
+Siruki        1311 E000000-0    As Ba Lo Ni        001 Zu
+Iunshle Zuhs  1316 E530468-4    De Ni Po           013 Zv
+Ahhunsal      1318 E521367-2    Lo Ni Po           002 Zv
+Hsivyu        1320 C133469-8    Ni Po              820 Zv
+Hokchor       1417 B64766B-A  N Ag Ni              702 Zv
+Muan Ialour   1418 D556663-5    Ag Ni              412 Zv
+Ninshien      1419 E59A000-0    Ba Lo Ni Wa        724 Zu
+Khii          1511 C563678-4    Ni Ri              924 Zs
+Zuneshush     1512 E6A6000-0    Ba Fl Lo Ni        002 Zu
+Dzim Zhia Gwi 1515 A45696B-A    Hi                 600 Zv
+Ewmiak        1516 B45256B-6    Ni Po              405 Zv
+Iniikiid      1517 E755A7A-A    Hi                 502 Zs
+Amikgu        1519 E88A436-5    Ni Wa              933 Zs
+Orruiltan Tyu 1616 D12156A-6    Ni Po              904 Zv
+Tyudhuar      1619 B599668-A    Ni                 812 Zv

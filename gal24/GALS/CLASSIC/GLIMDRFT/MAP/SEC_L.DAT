@@ -1,0 +1,38 @@
+@SUB-SECTOR: sec_l   SECTOR: glimdrft
+#
+#Jump Routes
+$2627 2628 0 0
+$2628 2827 0 0
+$2628 2829 0 0
+$2722 2822 0 0
+$2822 2824 0 0
+$3121 2920 0 -1
+$3121 0121 1 0
+$3121 3132 0 0
+#
+#--------1---------2---------3---------4---------5----------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- --
+Ryazan        2522 E59AA94-7    Wa In              701 Na
+Fitla         2524 C231300-9    Ni                 500 Na
+Sergy         2529 DABA546-8    Wa Ni              501 Na
+Sokolov       2622 X110100-8    Ni                 600 Na
+Spoleto       2625 XAAA878-A    Wa                 701 Na
+Staat         2626 D210894-7    Na                 701 Na
+Tai Hu        2627 AAA1483-C    Ni                 100 Na
+Turburan      2628 A542689-8    In                 900 Na
+Mali          2630 X120994-8    In                 901 Na
+Joyosa        2722 AAC9723-9                       401 Na
+Windover      2822 BAC2689-A    Ni                 901 Na
+Winooski      2824 A456272-C    Ni                 900 Na
+Weschester    2827 B5858A5-9    Ag                 300 Na
+Jeni          2829 A232694-9    Na                 601 Na
+Zamki         2926 CAB18A7-9    Ni                 100 Na
+Mergatroid    2929 EAC1A84-A                       300 Na
+Bartica       3023 C100797-8    Na                 401 Na
+Cork          3025 C130657-A    Na                 801 Na
+Iloilo        3029 CAB18A7-A                       601 Na
+Jauf          3121 C767200-4    Ni                 100 Mn
+Kara Su       3122 A110200-C    Ni                 401 Mn
+Ninaken       3125 B232472-A    Ni                 700 Na
+Sarowar       3227 AAC2647-9    Ni                 601 Na

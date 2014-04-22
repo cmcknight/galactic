@@ -1,0 +1,13 @@
+@SUB-SECTOR: stars_I   SECTOR: vland
+#
+# Trade routes within the subsector
+#
+#--------1---------2---------3
+#PlanetName   Loc. Stars(s)
+#----------   ---- ---------
+Keshiil       0221 M1 V
+Niirka        0422 M5 III
+Khulekii      0430 F6 V K3 V
+Pirrom        0530 G2 V
+Beshe         0622 M5 V
+Giraran       0630 A8 III

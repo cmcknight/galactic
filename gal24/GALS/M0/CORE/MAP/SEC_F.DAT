@@ -1,0 +1,34 @@
+@SUB-SECTOR: Mekee SECTOR: Core
+#
+# Trade routes within the subsector
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Kiked Iig     0911 C545312-7    Lo                 203 Im
+Mupisar       0915 E577000-0    Ba                 013 Ba
+Irshiish      0916 B95A346-9    Lo Wa              101 Im
+Marpi Ka      0919 E550000-0    Po De Ba           004 Ba
+Uurmu Kuu     1012 C424100-B    Lo                 824 Im
+Urshra        1016 B361758-B    Ri                 303 Im
+Liga Ka       1019 E783000-0    Ba                 003 Ba
+Kish          1112 C310111-7    Lo                 422 Im
+Adguu Uun     1114 A5206A7-9    Na Ni Po De        703 Im
+Vlaagesh Iirk 1116 B783420-6    Lo                 200 Im
+Shuunkha      1120 C340665-9    Ni Po De           103 Im
+Guun          1214 D585100-5  S Lo Ni              412 Im
+Amed          1219 C210535-9    Ni                 320 Im
+Aruu          1220 E100000-0    Va Ba              004 Ba
+Mukirurguum   1314 E859000-0    Ba                 002 Ba
+Shiirand      1316 D85A479-4  S Wa Lo              202 Im
+Gipkikhar     1317 C203324-B    Lo Va Ic           212 Im
+Adkaash       1320 E222000-0    Ba Po              002 Ba
+Imdi Mi       1416 B68A249-8    Wa                 204 Im
+Kishdush      1418 E646000-0    Ba                 003 Ba
+Aman Urk      1511 E445300-4    Lo                 123 Im
+Ansham        1512 B8C2120-7    Lo Fl              504 Im
+Uugnii        1518 A86A530-C  N Ni Wa              220 Im
+Sher          1519 D9D2322-5  S Lo Fl              303 Im
+Shauug        1611 B964442-D    Ni                 914 Im
+Marlakasi     1615 E779200-4    Lo                 904 Im
+Vluurvlash    1616 E9B4000-0    Fl Ba              014 Ba

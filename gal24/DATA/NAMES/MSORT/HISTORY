@@ -1,0 +1,27 @@
+                              MSORT and SSORT
+                         Changes since version 1.0
+
+1.12 December 26, 1994 MDK
+    Command Line:  The output file is not cleared until the program is ready
+                   to begin output. This helps avoid accidental removal of
+                   the input file.
+
+1.11 December 20, 1994  MDK
+    Bug fixed:     One of the speed improvements had a bug for large files.
+    Documentation: The file_id.diz was too wide for some BBS.
+
+1.1 December 11, 1994   MDK
+    Bug fixed:     MSORT would refuse to sort files under 512 bytes.
+    Appearance:    Improved consistency of the spinner (user feedback of
+                   work in progress).
+    Speed:         a)   Improved handling of files with many repeated lines,
+                        when the "Unique: option (-u) is set. The duplicate
+                        lines are discarded as soon as possible.
+                   b)   Minor fix to the algorithm for finding the end of
+                        blocks to sort.
+    Documentation: a)   Notice added that "Ignore short words" option (-t)
+                        substantially slows sorting.
+                   b)   Clarified the FILE_ID.DIZ and added notice that the
+                        programs are "Well behaved" for multitasking.
+                   c)   Added discussion of speeding up processing to
+                        MSORT.DOC.

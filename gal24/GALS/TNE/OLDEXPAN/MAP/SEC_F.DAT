@@ -1,0 +1,28 @@
+@SUB-SECTOR: sec_f   SECTOR: oldexpan
+#
+#--------1---------2---------3---------4---------5-----f----6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Dahlec        0913 X7866RB-5    Ag Ni C:3          902 Wi
+Rebields      0918 X7A8000-0    Ba Fl              013 Un
+Kestral       1011 B7588UC-7                       914 Wi
+Linnert       1013 X6424P4-8    Lo Ni Po           104 Wi
+Aneth         1111 X4567S4-3    Ag              B  800 Wi
+Sveinel       1114 D4547WG-5    Ag D:0          B  421 Wi
+Czerniak      1118 X989AU9-5    Hi              B  100 Wi
+Wileth        1211 X737000-0    Ba                 004 Un
+Mofare        1212 X7A3000-0    Ba Fl              020 Un
+Ultraneta     1213 X000000-0    Ba As              014 Un
+Indigo        1215 X7497R8-6                       222 Wi
+Phoru         1311 X3757R8-5    Ag              B  402 Wi
+Marejen       1312 X2456RD-4    Ag Ni C:1          402 Wi
+Walager       1318 X9746VA-2    Ag Ni D:2       B  504 Wi
+Skerry        1320 X334000-0    Ba                 002 Un
+Chrimarko     1412 X4917T5-4    D:5             B  200 Wi
+Kata          1414 X9977R9-6    Ag                 703 Wi
+Thanatos      1415 C6536N0-8    Ni Po              814 Wi
+Lyart         1512 X200000-0    Ba Va              010 Un
+Krag          1517 X737000-0    Ba                 003 Un
+Galines       1519 C7679T7-9    Hi              B  204 Wi
+Kunni         1520 X8746O7-5    Ag Ni C:3       B  414 Wi
+Anirl         1611 X131000-0    Ba Po              005 Un

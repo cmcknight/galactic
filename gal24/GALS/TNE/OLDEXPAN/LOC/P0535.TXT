@@ -1,0 +1,328 @@
+Aurora B576646-B
+
+          Size: Medium : D=8000km               Atmosphere: Standard tainted
+          Hydrographics: 60%                    Population: 7 million
+          Government: Representative Democracy  Law Level: Moderate
+          Tech Level: 11 (Avg Stellar)          Star port: Good
+
+Physical Description:
+     Aurora is a fairly pleasant world. It has a rather mild weather pattern, 
+with only occasional tropical storms. Its low axial tilt give it a fairly 
+mild seasonal pattern.  The temperature only drops around 10 degrees in the 
+winter.  
+
+     The one draw back of the planet is the high carbon dioxide levels in the
+atmosphere.  This requires all offworld species to wear oxygen masks.  
+Humans can survive without a mask for a few minutes, but after that most 
+people tend to pass out, and eventually die of oxygen deprivation.  All 
+native buildings and vehicles are sealed, so that masks are only required 
+when going outside.  Most vehicles are stored in sealed garages, connected 
+to the main dwelling, so that most residents don't have to go outside, 
+unless that is their destination.  The residents don't fear the outdoors, 
+many of them do go outside to take walks and to enjoy nature.  
+     
+      The increased carbon dioxide has lead to a greenhouse effect where the
+sun's rays are trapped in the atmosphere and heat it.  This has raised the 
+average temperature about 10 degrees.  The median temperature for the planet
+is 26 C (79 F).
+
+      Travellers landing at the capital's starport, will find a planet that
+is sunny, with mild winters.  Most days the temperature is in the upper 
+twenties, and humid.  (This is very close to the weather in Florida or 
+Southeast US in the summer.)
+
+      The planet is several billion years old, and has had enough time to 
+develop a fairly sophisticated ecosystem.  There is no sentient life, but 
+there are many species of mammalian life.  The biosphere is quite similar 
+to human norms.  Humans are able to eat most native lifeforms with little 
+worry.  This is very fortunate, because most Terran stock animals don't 
+take well to having to wear oxygen masks.  A few off-world species have 
+been genetically engineered to survive the native air.  Most of these 
+species are capable of breathing either Auroran or Terran air levels.  
+
+      Other than the atmosphere, the planet resembles a Terran standard 
+planet.  There are tree like plants, the sky is blue and clouds are white 
+and puffy.  There is no local equivalent of grass, most yards are covered 
+with a green moss like plant.  It does have the advantage of not growing 
+very fast and needing little maintenance.  
+
+History:
+    Before the Final War Aurora was a colony of Macis, which is now called 
+Apollo.  The Collapse severed ties between the two worlds.  Resenting the 
+fact that their planet was formerly owned by the Macins, Aurora became a 
+democracy, and to this day they resent strong governmental controls.  The 
+effects of the Collapse were severe, but the Aurorans banded together and
+by making a concerted effort were able to rebuild.  By 1170 Aurora had 
+regained her old Tech Level, and had begun to advance past it. The planet
+reached TL-10 around 1189 and reached its current state at TL-11 only in 
+the last few years.  If the economy sustains itself at current levels, the 
+planet should be able to reach a global technological level of 12 sometime 
+around 1210.   It didn't have the capacity to build jump drives, so it was 
+forced to remain isolated.  In 1192, the Hivers made contact, and Aurora was
+able to purchase jump drives.  It was a charter member of the Dawn League, 
+and an early proponent of the Reformation Coalition.  Aurora has become a 
+staunch supporter of the Federalists, feeling that a strong extra-planetary 
+government would take away the freedoms that individual worlds now possess.
+
+Government												 
+    After the collapse, when Galos was cut off from Macis, the newly
+freed people created a government which they hoped was as close to a pure 
+democracy as is possible. Voting is required in all elections of all people 
+who have reached a majority. The voting age is 17 standard years.  The 
+mandatory voting requires that each voter go to the polling place, but they 
+can enter a vote for no one.  The founders wanted everyone to think about 
+who should run the government, even if they decided no one was worthy. 
+Candidates for public office are given free time on the government owned 
+holovid channel. When there is no election, this channel broadcasts
+legislative sessions, news conferences and other public affairs.  Candidates
+also make use of the worldwide computer network, uploading transcripts of
+speeches, position papers, and even digitized video of rallies.  There are
+no campaign donations.  All the work of the campaign must be done by 
+volunteers.  The founders figured if a candidate can't get a few hundred
+people to help him out, then the candidate probably couldn't win an 
+election anyway.
+
+     To get on the ballot, a candidate much have a petition signed. The 
+number of signatures required, depends on the office being sought.  These
+petitions are circulated electronically.  Each signature is authenticated
+by a electronic stamp, which each signer attaches to the petition.  The
+stamps are a two step process, with the government holding one part, and
+the citizen holding the other part.  No one has ever successfully managed
+to forge a stamp.  The penalties for attempting to do so are extremely 
+harsh, since such an attempt attacks the very foundation of Auroran society.
+
+    Most candidates are members of a political party, these parties help
+their candidates organize volunteers and the members of the party are a key
+to filling out the petitions.  There are three major parties, the People's 
+Party, the Democratic Front, and the Union of Freedom.  These make up 70% 
+of the voters, the exact division can fluctuate, but is usually fairly even.
+There are six minor parties which make up 25% of the vote. These are the
+Blue & White Party, the Liberty Party, the Saldorian Party, the People's
+Democratic Party, the Free Democrats and the Worker's Union.  All these
+parties have Federalist Sympathies, except for the Blue & White party. It 
+advocates that the Reformation Coalition needs a strong central government 
+and that all member states of the Coalition should be required to be run by 
+democratic governments.  The party has organized several trips to worlds 
+that have much less of a democratic tradition, in an effort to create a 
+grass roots movement.  They sent a mission to Ra, which was thrown off 
+planet.  In 1200 they sent a mission to Oriflamme, which was denied 
+entrance.  Their mission to Phoebus in 1201, was allowed to land, but the 
+natives of Phoebus, are too concerned with their next meal to worry about 
+politics.  The Blues & the Whites use these failures to raise money back 
+home on Aurora.  Secretly they expect them to fail and only initiate them 
+to create publicity.  They have much more quietly sent mission to Fija and 
+Aubaine.
+
+     The central Auroran government is set up as a parliamentary system.
+It has one legislative chamber made up of the people's chosen 
+representatives.   The chamber is known as the senate. The ruling coalition 
+chooses a prime minister, who chooses a cabinet and sets policy.  The ruling 
+coalition also selects a Senate President, who is charge of running the 
+senate's legislative agenda.
+
+      Currently the ruling coalition is made up of the Union of Freedom, 
+the Democratic Front, the Saldorian Party and the Free Democrats.  In total
+they hold a slim 3% majority.  Assemblyman MacBaen, Aurora's representative
+in the Assembly of Worlds is a member of the Union of Freedom. Planetary
+elections are held every three standard years. The campaigning season 
+starts approximately six months before the elections. The last election was 
+held in 1200. There are 210 members of parliament.  The planet is divided 
+into districts of equal population. Each district elects its own member of 
+parliament.  The districts are redrawn every nine years, to take account of 
+any population movements. These are usually fairly small changes, and they 
+don't effect politics to any significant degree.  The Auroran populace is 
+fairly stable and doesn't seem to move around a great deal. Municipal 
+elections are held at the same time as planetary elections. The exact 
+details of these depend on the municipality.  The representative to the 
+Assembly of Worlds is also chosen at this time, in the only planet-wide 
+election.
+
+Society:
+     Popular culture on Aurora is dominated by the extreme technophilia
+of its citizens.  As soon as a new technological innovation is developed
+or readied for market, it instantly becomes the next hot item.  To fulfill
+this craving for technological gizmos, hundreds of small labs and 
+engineering firms have sprung up to try to create the next hot item.
+Many of these labs, merely redevelop items that were common on high tech 
+worlds in the old Imperium.  Most of the plans for these were destroyed in 
+the Collapse.  To get working examples of high tech goods, these firms send 
+buyers to the Auction. The buyers try to find useful consumer goods that they
+can purchase, and have their labs copy.  Items that have proven useful in 
+the past include Triton Technologies' portable holophone, where not just 
+voice, not just image, but a full holographic image of the sender is beamed 
+to the user's wrist unit.  Another is Donner & Associates 80x holographic 
+data crystal system. One of the more popular recent items to hit the market 
+is Verotech's Proton Motorcycle.  This item is on the very cutting edge of 
+technology, it uses the next level in fusion+ technology, allowing the 
+motorcycle to reach speeds in excess of 700kph.  
+
+     The pace of these developments has accelerated since the creation of 
+the Dawn League, as more and more examples of high tech devices come to the
+planet.  This has lead to some to question the wisdom of this frenzy to 
+acquire newer and better devices.  Most people have not paid much attention
+to these nay sayers, but they are a growing voice in academic discussions.  
+The constant production of new products has created a surplus of older 
+slightly used systems.  Several companies have begun purchasing these, and 
+shipping them to other less developed worlds.  Popular destinations include 
+Ra, Baldur, Nike Nimbus and Lancer.  They have started some shipments to 
+worlds out in the wilds such as Xexor.  
+ 
+ 
+     The Auroran people recognize that education is the key to their 
+success in the technological fields.  The government has set up a wonderful 
+school system, and attendance is free to all.  These schools are extremely 
+high quality and Auroran students are gaining an excellent reputation across
+the Coalition.  This education starts at age three, and goes post graduate 
+work.  All fees are paid for by the state and stipends are paid to 
+students. Some students find the academic experience so wonderful that they
+ever want to leave. This has created the so called professional students, 
+people much older than the average college student, who earn degree after 
+degree without entering the job market.  In recent years, this government 
+has cracked down on the professional students, requiring that students over 
+age 25 maintain a high academic standing or lose their stipends, but those 
+who are able to achieve them are welcome to stay.  Professional students 
+are often a bit eccentric but are good-naturedly tolerated because of their 
+recognized abilities.  The many new and interesting opportunities the 
+economic expansion and tech advancement have created have drawn many 
+professional students into more "productive" pursuits where they have 
+proved very able if not always well disciplined. 
+
+     In 1201 the Auroran government set up a scholarship program to allow 
+high quality off-world students to come and study at an Auroran university.  
+The government figured it would bind the worlds of the RC closer together, 
+if their children studied and worked together.  Also highly educated 
+students will be very valuable when the go back to their homes.  500 
+scholarships are awarded each year, to students from across the Coalition.  
+Currently a new program is up for debate in the Senate, which would expand 
+this program to Allied worlds in the Wilds, such as Lancer, Xexor and Kal.
+
+     The average citizen is quite well educated and knowledgeable about 
+modern technology and its uses.  There is universal computer literacy, and 
+every home that wants one has a computer in the home.  For those in 
+financial difficulty, the government provides one.  The government feels 
+that a computer is essential to the education, of both children and adults. 
+Also citizens of adult age are expected to use the computer to explore 
+issues effecting the world and the politicians seeking their vote.  
+
+      The planet is settled with many small cities of several hundred 
+thousand people each.  These cities are located on each of the three major 
+continents.  A high speed maglev train system connects those cities on the 
+same continent.  The train rides in an underground tunnel which has had the 
+air evacuated, to lessen the drag on the train. The train is heavily 
+subsidized by the government, and tickets cost between 100 and 500 credits.
+   
+      The cities are made up of small office buildings intermixed with 
+small apartment buildings.  Most of these buildings are around ten stories.
+ The capital does contain a few buildings of twenty stories.  Almost all 
+Aurorans live in urban apartment buildings.  They like being connected to 
+their neighbors.  These apartments are very spacious, ranging from five 
+hundred to a thousand square meters.  Office buildings and residential 
+buildings are intermixed, this way residents do not have to commute long 
+distances to their job, and can spend more time with friends and family.  
+Many parks are located around these buildings, there are many different 
+types of parks, including flower gardens, playing fields, jogging areas and 
+bike trails.  Heavily automated factories are located on the outskirts of 
+cities.  The area between the cities is divided into agricultural land and 
+government owned land.  Most of this government owned land is set up as 
+parks and recreational facilities.  The rest of the land is kept pure for 
+future generations.  Most Aurorans consider these parks to be their back 
+yard, and often take day trips to go hiking.  The small population of the 
+planet requires very little of the land to be farmed.
+
+     Devil's Playground Park is one of the most popular parks on Aurora. 
+The park covers well over 100,000 square kilometers.   It is the site of a 
+massive shield volcano.  The volcano hasn't erupted in over five centuries, 
+but it is still active at a very low level.  There are many geothermal 
+vents, hot springs and geysers.  The only spot where lava is currently 
+flowing is on the western face.  The lava pours out rather slowly, and has 
+only covered a few acres this year.
+
+     McCracken Lake is another popular destination on the park. This lake
+is warmed by underground geothermal activity, and is a constant 30 degrees
+Celsius (85 degrees Fahrenheit).  This warmth attracts many people.  The 
+warmth and the nutrient rich waters supports a diverse ecosystem.  Many 
+tourists use rebreathers to encounter the wildlife in its natural 
+environment.  To maintain a peaceful setting only rowed and sailed 
+watercraft are allowed on the lake.  The lake covers about 2000 square 
+kilometers.  
+
+Changing market effects society.
+
+     The creation of the Reformation Coalition and the Dawn League before 
+it, have greatly effected life on Aurora.  Interstellar trade has allowed 
+the creation of new devices, and an increased demand for these devices.  
+It is only through increased automation, that the supply has kept up with 
+the demand.  Aurora hasn't had many resources left over to help explore the 
+Wilds.  This has been especially troubling to Assemblyman MacBaen.  He 
+tried to get the planet to fund one of the Twelve, but most of the 
+parliament refused.  
+
+     Aurora is one of the few places in the Coalition which is actively 
+researching robotic technology.  Most of the research consists of making 
+sure that Virus won't be able to infect these devices.  The average Auroran 
+citizen doesn't run in fear at the very mention of the robots.  They 
+believe that Virus was a tool created by humaniti.  The same technology 
+which created Virus can be used to destroy or even tame it. 
+
+     This is not to say that Aurorans are selfish people who are ignoring 
+the Wilds. Several companies have developed ingenious devices to help the 
+survivors in the Wilds.  These include simple easy to maintain tractors 
+and farming equipment. These are manufactured on Aurora, but many of the 
+replacement parts are capable of being machined on low tech worlds.  The 
+rest are available from Auroran trading firms.  Also low tech worlds do not
+need to duplicate every stage of technological development, they can 
+easily leapfrog over primitive technologies.  For instance a world without 
+telephones, doesn't have to first build telegraphs, then wire based phones, 
+and then fiber optic phones. It can buy off world satellites and start with 
+cellular communications.  Several Auroran firms are selling such equipment.  
+
+      The Auroran economy is in a state of flux, new markets are opening up,
+and with it new jobs.  At the same time as these new jobs are being created
+changing technology is eliminating some types of jobs.  Luckily for now, 
+these two forces are about equal, and there has been no large scale job 
+surplus or shortage.  Many people are having to find a new career path, but 
+the government is trying to make the transition as easy as possible. It 
+hasn't created any job training programs as yet, workers are in such high 
+demand that companies are willing to pay to train them. The government does 
+provide a good benefit package for those people whose jobs have been 
+eliminated, while they search for work.  The government recognizes that 
+losing a job that has been held for decades, is a traumatic experience and 
+some people need a little time to adjust. In the future, the economy will 
+stop its expansion, and this will have an impact on the job market.  The 
+government has created several discussion groups on the computer network, 
+and has had some academics starting thinking about how best to deal with 
+it.  
+     
+      These new off world markets that are opening up are bringing in many luxury 
+materials such as gold, gems and hand crafts.  These hand crafts include 
+art, hand crafted rugs, clothing, furniture, jewelry etc.  Also some low 
+tech worlds export mechanical devices, which high technology can surpass in 
+function, but not in form.  One of the best examples of this is clocks from 
+Xexor.  Auroran technology can make an atomic clock capable of keeping time 
+to the nearest nano-second, and which never has to be wound or even have 
+the battery changed.  Xexor clocks are intricate machines with tiny gears, 
+levers and counter weights.  They keep time well, but not perfectly.  For 
+all their faults, they are extremely popular on Aurora.  Xexor exports 
+thousands of these clocks a month.  Many of them are wonderfully decorated 
+and prized by their Auroran owners.
+
+     Another factor changing the Auroran economy is the new Naval base being 
+established.  The RCN has decided to set up its headquarters on the planet.
+The Navy is building a large orbital facility, to maintain the fleets of 
+Clippers that are being built.  The Navy is also planning on building ships
+in orbit.  Standard Astronics has recently begun upgrading Aurora's 
+shipyard to help handle some of the overflow construction.  This is opening 
+up many job opportunities, to keep up with the demand, the Navy is bringing 
+in some offworld help.  So far these are Naval personal, but the 
+possibility remains that someday the planet might need to import workers 
+from lower tech planets to maintain the naval base.  This has worried some 
+in the community. They worry that if many outsiders are brought in to 
+perform menial tasks, it will create an under-class.  The creation of a two 
+tier society, would undermine the democratic principals on which Auroran 
+society is based.  
+
+
+By Lewis Roberts (lewis@chara.gsu.edu)
+John Muir Macpherson
+
+

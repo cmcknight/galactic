@@ -1,0 +1,137 @@
+
+Here are some other programs I wrote. Feel free to email me
+if you want any of them, or check out my homepage which is
+(for the time being) at http://members.aol.com/jimvassila
+
+
+        PROGRAM NAME: "ATTACK" [v1.0] {December 1995}
+        GAME SYSTEM: Advanced Dungeons & Dragons (v1)
+        AUTHOR: Jim Vassilakos  (jimv@empirenet.com)
+        FUNCTION: Monster Attack Combat Aid
+        OPERATING SYSTEM: IBM (MS-DOS)
+        SIZE: 163,304 bytes zipped
+        COMMENTS: You enter the armor ratings of the characters
+              and the to-hit and damage/attack stats for the
+              monsters. The program rolls the monster attacks
+              at the press of a button. Guaranteed to speed-up
+              combats. Zipfile includes MEG (v3.03) as well as
+              some Unix utilities (vi,less,ls) which the
+              program makes use of.
+
+        PROGRAM NAME: "MEG" [v3.03] {December 1995}
+        GAME SYSTEM: Advanced Dungeons & Dragons (v1)
+        AUTHOR: Jim Vassilakos  (jimv@empirenet.com)
+        FUNCTION: Monster Encounter Generator
+        OPERATING SYSTEM: IBM (MS-DOS)
+        COMMENTS: You pick a monster from a list. The program
+              responds which information about the encounter:
+              AC, THAC0, D/A, hitpoints per creature appearing,
+              experience value, and treasure. QBasic source
+              included with the compiled version. You can add
+              your own monsters to the program's datafile with
+              relative ease.
+
+        PROGRAM NAME: "BAND" [v1.0] {August 1992}
+        GAME SYSTEM: Advanced Dungeons & Dragons (v1, variant)
+        AUTHOR: Jim Vassilakos  (jimv@empirenet.com)
+        FUNCTION: NPC Band Generator
+        OPERATING SYSTEM: IBM (MS-DOS)
+        SIZE: 41,419 bytes zipped
+        COMMENTS: Generates a band of non-player characters such
+              that each one fits on one eighty-column line. Details
+              class, level, weapon, armor, weapon proficiencies,
+              damage per attack, hitpoints, THAC0, armor class, and
+              exceptional ability scores. QuickBasic 4.5 source
+              included with the compiled version. Many of the
+              program's assumptions easily modified with QBasic.
+
+        PROGRAM NAME: "TSSI" [v1.0] {October 1992}
+        GAME SYSTEM: Top Secret/S.I.
+        AUTHOR: Jim Vassilakos  (jimv@empirenet.com)
+        FUNCTION: Character Generation Aid
+        OPERATING SYSTEM: IBM (MS-DOS)
+        SIZE: 60,413 bytes zipped
+        COMMENTS: Aids the user in attribute determination,
+              career choice, and skill selection. Performs the
+              tedious chores to ensure character legality, and
+              saves complete attribute and skill charts to an
+              ascii output file. QuickBasic source included
+              with the compiled version. The ascii data file,
+              containing all skills in the Player's Guide and
+              Commando, is easily modified.
+
+        PROGRAM NAME: "PARTY" [v1.0] {April 1993}
+        GAME SYSTEM: Advanced Dungeons & Dragons (v1, variant)
+        AUTHOR: Jim Vassilakos  (jimv@empirenet.com)
+        FUNCTION: NPC Party Generator
+        OPERATING SYSTEM: IBM (MS-DOS)
+        SIZE: 47,340 bytes zipped
+        COMMENTS: Generates a party of non-player characters such
+              that several fit to a page. Details class, level,
+              weapons, armor, weapon proficiencies, damage per
+              attack, hitpoints, THAC0, armor class, ability
+              scores, thief abilities (if any), secondary skill,
+              personality trait/tag, physical description, gold,
+              and experience. QuickBasic 4.5 source included with
+              the compiled version. Adheres to some variant
+              (homebrew) rules.
+
+        PROGRAM NAME: "WORLDMAP" [v1.0] {January 1996}
+        AUTHOR: Jim Vassilakos  (jimv@empirenet.com)
+        FUNCTION: Mapping Worlds, Cities, Castles, Dungeons,
+ 	     and Starships for RPG settings & scenarios
+        OPERATING SYSTEM: IBM (MS-DOS)
+        SIZE: 732,031 bytes zipped
+        COMMENTS: Create maps so you can share your worlds/
+              dungeons/etc with the rest of us on the Net.
+              Some minor glitches exist when operating under
+              Windows, so straight DOS is preferred. Program
+              draws maps pretty slowly except on relatively
+              high-end machines with decent video ram. Comes
+              complete with five example maps along with some
+              attached text including a short adventure.
+              Note, you must use "-d" option when unzipping:
+              >>>>>>>>    pkunzip -d worldmap.zip    <<<<<<<<
+
+        PROGRAM NAME: "STARMAP" [v1.0] {February 1998}
+        AUTHOR: Jim Vassilakos  (jimv@empirenet.com)
+        FUNCTION: 3d Starmapper
+        OPERATING SYSTEM: IBM (MS-DOS)
+        SIZE: 1,815,334 bytes zipped
+        COMMENTS: Create and explore three-dimensional starmaps
+              for your science-fiction RPG campaign, then share
+              your work with the rest of us on the Net. Requires
+              VGA graphics or better. May attach campaign notes
+              to the maps via an easy-to-learn menuing system.
+              Sample map included along with SF-RPG discussion
+              archives. You must use "-d" option when unzipping:
+              >>>>>>>>    pkunzip -d star10.zip    <<<<<<<<
+
+        PROGRAM NAME: "LANG" [v1.0] {December 1997}
+        AUTHOR: Jim Vassilakos  (jimv@empirenet.com)
+        FUNCTION: Language Learner (Greek Version)
+        OPERATING SYSTEM: IBM (MS-DOS)
+        SIZE: 66,368 bytes zipped
+        COMMENTS: Learn greek at your own pace via this
+           flashcard program. You enter the words you want
+           to learn (up to 500), then quiz yourself with both
+           recall and recognition tests. Includes an uncompiled
+           font editor to facilitate with the creation of other
+           language files. All data files are flat-text for
+
+        PROGRAM NAME: "TREK" [v80] {June 1998}
+        AUTHOR: Jim Vassilakos  (jimv@empirenet.com)
+        FUNCTION: Star Trek PBeM Archive (Up to Turn #80)
+        OPERATING SYSTEM: IBM (MS-DOS)
+        SIZE: 1.4 megabytes zipped
+        COMMENTS: Unfinished write-up of the Star Trek
+           "Forbidden Years" Play-by-Email campaign.
+           Rated "R" for adult language & content.
+           >>>>>>>>    pkunzip -d trek80.zip    <<<<<<<<
+
+
+           _   /|       Jim Vassilakos
+           \`o_O'       jimv@empirenet.com
+             ( )        jimvassila@aol.com
+              U         http://members.aol.com/jimvassila
+

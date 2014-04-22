@@ -1,0 +1,31 @@
+@SUB-SECTOR: sec_M   SECTOR: trojan
+#
+# Trade routes within the subsector
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Ftewiri       0132 B4564LA-E  T Lo Ni              120 A7
+Elahkoi       0134 C5685M7-B  R Ag Ni              722 As
+Ulwuar        0135 B1011G5-E    Lo Ni Va Ic        605 As
+Ealea         0139 B5765K7-9    Ag Ni              200 As
+Yekhtia       0232 B2233H6-B    Lo Ni Po        B  211 As
+Aehahr        0234 B1004M9-C    Lo Ni Va           522 As
+Floakh        0236 E673AHC-C  T C:3 Hi In Tp    B  200 As
+Aohfeau       0240 B9988M4-A  R Tp                 220 As
+Hkesuh        0332 BAA07K8-B    De                 122 As
+Eaweiya       0335 A5406L7-A  T Ni Po De           610 A2
+Awo           0336 C8303G6-C    Lo Ni Po De        724 As
+Aiyostea      0338 B2006JB-B    Na Ni Va           805 As
+Hfa'yuweas    0431 B5553J8-C    Lo Ni              305 As
+Oseweheal     0531 B79A6N7-E  R Ni Wa              303 As
+Uaeakhea      0534 B5301K9-6  R Lo Ni Po De An     614 As
+Tehari        0536 C6544M3-B    Lo Ni Tp           620 As
+Ehearye       0633 A5887H9-C  U Ag Ri           B  230 As
+Iysewekh      0640 A6205LA-E  R Ni Po De           504 A3
+Eiwakh        0738 C2007H7-A    Na Va           B  200 As
+Hkeleiakh     0739 C110000-0    Lo Ni           R  705 As
+Stohyus       0835 A5678N6-E  R C:4 Ri             902 As
+Hkakh         0837 A3245J6-E  R Ni                 704 As
+Ohtae         0839 B6651M8-9    Lo Ni Tp           903 As
+Uitasoayaw    0840 B5796J7-9  R Ni                 103 As

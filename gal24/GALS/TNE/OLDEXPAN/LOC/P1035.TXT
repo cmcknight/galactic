@@ -1,0 +1,18 @@
+Zloga E430225-9
+
+          Size: Small : D=6400km                Atmosphere:Very Thin
+          Hydrographics: None                   Population: 700
+          Government: Participating Democracy   Law Level:Moderate
+          Tech Level: 9 (Circa 2010)            Star port:Frontier
+
+        Zloga is yet another boneyard world, the Final War destroyed
+its life support systems.  Zloga was actually named Saloga before the
+Collapse, but tech prospectors returning to the world misread the 
+original name, and it has since been known as Zloga.  There is a small
+community of tech prospectors on the planet.   They have a small 
+habitat, from which they make forays into the dead cities.  Any
+issues effecting the community is decided by a vote of all residents
+over the age 14.
+
+Lewis Roberts (lewis@chara.gsu.edu)
+

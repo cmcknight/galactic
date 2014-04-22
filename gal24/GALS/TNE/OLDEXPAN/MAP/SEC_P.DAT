@@ -1,0 +1,33 @@
+@SUB-SECTOR: sec_p   SECTOR: oldexpan
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Surren        2533 E877689-4    Ag Ni            B 803 Wi   
+Lemos         2536 X8C5000-0    Ba Fl              004 Un
+Sontar        2537 XBC0000-0    Ba De              014 Un
+Vleeman       2538 X000000-0    Ba As              024 Un
+Aice          2631 X7C8000-0    Ba Fl              004 Un
+Kodants       2632 X4547R7-5    Ag                 104 Wi
+Zi            2633 X211000-0    Ba Ic              003 Un
+An Cizow      2639 X000000-0    Ba As              013 Un
+Phront        2640 XCA0000-0    Ba De              014 Un
+Zolibe        2733 C120310-7  H De Lo Ni Po Cm     114 CH
+Quell         2736 E43A121-5    Lo Ni Wa Cm        205 CH
+Stech         2739 X000000-0    Ba As              011 Un
+Jeamasm       2740 XAC0000-0    Ba De              023 Un
+Dahlgren      2832 E220132-5    Lo Ni De Po Cm     213 CH
+Jowaa         2833 E211133-7    Lo Ni Ic Cm        914 CH
+Renj          2835 B86A998-B    Hi Wa              814 CH 
+Carmen        2838 C94789A-3  H                    614 CH
+Delphinium    2933 EBC4121-8    Lo Ni Fl Cm        304 CH
+Miisha        2934 C84A754-8    Wa                 902 CH
+Mackloud      2935 ECC4102-8    Lo Ni Fl Cm        911 CH
+Darinov       3031 C97A311-9  H Lo Ni Wa           402 CH
+Osmosis       3036 C271557-7    Ni                 605 CH
+Zoquet        3039 D433233-5    Lo Ni Po Cm        501 CH
+Markham       3040 C44A584-9    Ni Wa              403 CH
+Hendura       3131 XAC0000-0    Ba De              004 Un
+New Luck      3136 DA30214-5    Lo Ni De Po        512 CH
+Cassiopeia    3233 C445654-5  H Ag Ni              800 CH
+Adam          3238 C715354-7  H Lo Ni Ic Cm        214 CH

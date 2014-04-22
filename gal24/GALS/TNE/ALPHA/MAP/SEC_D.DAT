@@ -1,0 +1,33 @@
+@SUB-SECTOR: Alba       SECTOR: alphaleo
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Efretti       2501 XAA9000-0    Ba                 004 Un
+Lasen         2505 X6A4000-0    Ba                 000 Un
+Harmon        2510 X300000-0    Ba                 005 Un
+Calimite      2605 X000000-0    As Ba              003 Un
+Mansania      2607 X5655R7-5    Ni Ag              424 Wi
+Tarano        2610 X000000-0    As Ba              024 Un
+Snarf         2701 X473200-2    Lo Ni              614 Wi
+Zenux         2704 X6A2000-0    Ba                 023 Un
+Moonshan      2706 X100000-0    Ba Va              002 Un
+Rog's Planet  2710 X3557S6-3    Ag              B  913 Wi
+Gardon        2801 E5963N6-7    Ni Lo              803 Wi
+Knobel        2805 X551637-8    Ni Po              604 Al
+Yekon         2902 X6414RD-0    Ni Lo           B  504 Wi     f
+Villbert      2905 D88889B-7    Ag              B  722 Al
+Crown Heights 2906 X481425-8    Ni Lo              204 Al
+MacBurr       2908 X98A3P5-8    Ni Wa Lo        B  103 Wi
+White         3001 X8775R7-5    Ni Ag           B  311 Wi     f
+Deserte       3003 X643548-7    Ni Po              222 Al
+Zilon         3004 X666457-8    Ni Lo              900 Al
+Ribble        3007 X210000-0    Ba                 012 Un
+Rapier        3008 E6936R5-9    Ni                 501 Wi
+Sumax         3010 X332000-0    Ba                 002 Un
+Glassend      3102 X726000-0    Ba                 015 Un     f
+Cirion        3103 X788000-0    Ba                 000 Un
+Arwen         3105 X10088C-8    Va Na              004 Al     f
+Brego         3110 X62A000-0    Wa Ba              024 Un
+Degas         3201 X210000-0    Ba                 012 Un
+Gambda        3210 X000000-0    As Ba              003 Un

@@ -1,0 +1,76 @@
+@SUB-SECTOR: Helenos SECTOR: Gythios Sector
+#
+# Jump-routes
+$1005 0705 -1 0
+$1001 0801 -1 0
+$1005 0806 -1 0
+$0902 1003 0 0
+$1001 0902 0 0
+$1001 1101 0 0
+$1001 1102 0 0
+$1001 1202 0 0
+$1005 1105 0 0
+$1101 1202 0 0
+$1108 1308 0 0
+$1202 1302 0 0
+$1202 1303 0 0
+$1302 1401 0 0
+$1303 1404 0 0
+$1308 1310 0 0
+$1308 1409 0 0
+$1310 1409 0 0
+$1310 1212 0 1
+$1404 1406 0 0
+$1404 1504 0 0
+$1404 1506 0 0
+$1406 1607 0 0
+$1406 1308 0 0
+$1409 1512 0 1
+$1504 1704 1 0
+$1506 1704 1 0
+$1607 1708 1 0
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Doghter       0901 X424000-0    Ba Lo              003 Im 020
+Romwing       0902 B585645-6  S Ag                 102 Im 081
+Grimiat       0904 X433000-0    Ba Lo              001 Im 470
+Stodman       0907 X6B0000-0    Ba De Lo           003 Im 050
+Dungfumbler   1001 A463867-B  N                    402 Im 110
+Sweeney       1003 B98AA95-B    Hi Wa              205 Im 79V
+Andvarii      1005 A542A9D-F  2 Hi                 103 Im 35B
+Maximus       1006 X120000-0    Ba De Lo           024 Im 010
+Venice        1008 X432000-0    Ba Lo              002 An 420
+Chastitie     1010 X100000-0    Ba Lo Va           002 Im 050
+Suresail      1101 B8D6246-8  S Lo                 301 Im 250
+Laurelin      1102 C451200-8    Lo                 704 Im 240
+Waals         1103 X150000-0    Ba De Lo           004 Im 000
+Dyareela      1105 C410424-9  S                    410 Im 070
+Milsanda      1108 B354596-8  N Ag                 514 An 420
+Hesse         1109 X000000-0    As Ba Lo           004 An 030
+Olen          1202 A653479-9  N                    814 Im 060
+Alek          1205 X330000-0    Ba De Lo           004 An 070
+Stanislaus    1206 X000000-0    As Ba Lo           002 An 010
+De Cawode     1207 C899527-8    Ag                 512 An 0A1
+Cawti         1210 X404000-0    Ba Ic Lo Va        004 An 070
+Peds          1302 B610655-B                       804 Im 05N
+Doris         1303 A757584-8  N Ag                 600 An 774
+Dolsa         1304 D6899BD-4  S Hi                 414 An 340
+Luicia        1308 A6588AB-B  S                    311 An 06V
+Rytch         1310 A365AB8-H  N Hi                 723 An 220
+Arole         1401 B541544-6  N                    604 Im 430
+Milagros      1404 A443868-8                       212 An 25V
+Helenos       1406 B653525-6  N                    200 An 520
+Cune          1407 C130115-C  S De Lo              205 An 010
+Latind        1409 A448AA9-E    Hi                 400 An 97R
+Scelfleah     1504 B45796B-A    Hi                 303 An 66V
+Rosette       1506 A6789CB-8    Hi                 305 An 77K
+Kirstwig      1507 X523000-0    Ba Lo              015 An 500
+Genlon        1508 C212355-A  S Ic Lo              723 An 060
+Sabiha        1510 X300000-0    Ba Lo Va           001 An 030
+Garth         1605 X300000-0    Ba Lo Va           003 An 010
+Canfield      1607 A774300-B  N Lo                 910 An 970
+Mynheer       1608 C324232-9    Lo                 402 An 930
+Aldora        1609 X6A0000-0    Ba De Lo           004 An 080
+Hobson        1610 E310223-7    Lo                 503 An 030

@@ -1,0 +1,32 @@
+@SUB-SECTOR: sec_C   SECTOR: deneb
+#
+# Trade routes within the subsector
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Djaelervangak 1704 X7879AA-4    Hi Vw              301 Wi
+Dunant        1706 B311252-E  S Lo Ni Ic           923 RF
+Remsen        1708 B788676-9  S Ag Ni C:5 V:2      324 RF
+Uakari        1710 D5348AA-5                       412 RF
+Dzoungdzi     1802 X457300-5    Lo Ni Vw           224 Wi
+Cilnodan      1805 C342257-6    Lo Ni Po           232 Wi
+Antra         1808 A53789C-E  S Cf V:1           T 301 RF     m
+Syr Darya     1810 E55769C-5    Ag Ni V:3          422 RF
+Noscius       1902 X222000-0    Ba Po              011 --
+Fursuelgigz   1903 X200000-0    Ba Va              001 --
+Trokuelats    1904 X241100-4    Lo Ni Po Vw        101 Wi
+Tuedhikhuez   1905 E768534-5    Ag Ni V:9       B  222 Wi
+Uramid        1910 B345568-A  A Ag Ni O:1808     T 321 RF
+Rroerruerz    2001 C76A7AA-9    Wa Vw           B  123 Wi
+Torrens       2105 X100000-0    Ba Va              004 --
+Bangwe        2109 E78A246-6    Lo Ni Wa         T 412 Wi
+Gounuerz      2202 X235000-0    Ba                 010 --
+Koloekz       2204 X59366C-3    Ni Vw           B  810 Wi
+Mazirbe       2210 D553689-4  S Po V:5             424 RF
+Malory        2309 X320000-0    Ba                 023 --
+Tchien        2403 X69626B-6    Lo Ni              210 Wi
+Gagaridir     2405 X220000-0    Ba De Po           001 --
+Insi Kar      2406 X211000-0    Ba Ic              024 --
+Syrenaica     2407 X669403-4    Lo Ni              203 Wi
+Haggard       2409 D777224-5  S Lo Ni              313 Wi

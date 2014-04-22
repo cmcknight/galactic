@@ -1,0 +1,42 @@
+@SUB-SECTOR: Sanches SECTOR: Core
+#
+# Trade routes within the subsector
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+.             0112 A673310-B    Lo Ni              103 Li 
+.             0113 C7A8200-D    Lo Ni Fl           303 Li 
+.             0114 B250401-C  A Ni Po De           220 Li 
+.             0116 B485656-A    Ag Ni Ri           811 Li 
+.             0117 B664489-8  N Ni                 510 Li 
+.             0120 C244403-C    Ni                 600 Li 
+.             0212 B645437-C  N Ni                 403 Li 
+.             0216 B422369-C  N Lo Ni Po           104 Li 
+.             0218 D87877B-8  S Ag                 914 Li 
+.             0220 D88A448-8    Ni Wa              503 Li 
+.             0313 B332454-B  A Ni Po              503 Li 
+.             0314 B8A588A-9    Fl                 314 Li 
+.             0315 B685541-C    Ag Ni              904 Li 
+Dudin         0316 D528A89-D  S Hi In              624 Li 
+.             0319 B234220-F    Lo Ni              414 Li 
+.             0411 D584300-7  S Lo Ni              403 Li 
+.             0414 D461520-5  S Ni                 413 Li 
+Sanches       0416 A6549C9-F  A Hi                 113 Li 
+Shardi        0418 E33398A-B    Hi Na Po           603 Li 
+.             0420 B6A7422-9  N Ni Fl              104 Li 
+.             0511 D486736-7  S Ag                 412 Li 
+.             0512 B513733-B  N Na Ic              202 Li 
+.             0513 D772312-5  S Lo Ni              203 Li 
+.             0516 B76A845-8  N Ri Wa              504 Li 
+.             0517 A726023-D    Lo Ni              302 Li 
+.             0519 B100103-E  N Lo Ni Va           214 Li 
+.             0612 B667898-9    Ri                 200 Li 
+.             0619 B7588A8-A  S                    715 Li 
+.             0713 B333557-C    Ni Po              203 Li 
+.             0714 B6A78BD-B    Fl                 221 Li 
+.             0718 D797114-7    Lo Ni              405 Li 
+Alekvadin     0811 B6759AB-E    Hi In              802 Li 
+.             0812 A845887-9                       814 Li 
+.             0816 B792566-C    Ni                 612 Li 
+.             0820 B776510-8    Ag Ni              900 Li 

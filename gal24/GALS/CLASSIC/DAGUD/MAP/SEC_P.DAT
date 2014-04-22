@@ -1,0 +1,44 @@
+@SUB-SECTOR: sec_P   SECTOR: dagudash.sec
+#
+# Trade routes within the subsector
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Keshurlim     2531 B527467-D  N Ni                 704 Im
+Mianda        2533 A552441-D  A Ni Po              924 Im
+Zaamish       2536 C8A7610-B  S Ni Fl              313 Im
+Daskine       2631 D742575-4    Ni Po              300 Im
+Laraa         2634 A527411-C  S C0 Ni              102 Im
+Gishu Amkhir  2635 B552566-8    Ni Po              614 Im
+Urdanis       2637 B6107CC-B  S C0 Na              922 Im
+Khanirlu      2734 B547773-C  S Ag                 602 Im
+Dempukish     2735 C99A327-7  S Lo Ni Wa           903 Im
+Sima          2736 C9D6574-9  S Ni Fl              904 Im
+Basikiil'r    2737 C894553-B  S Ag Ni              200 Im
+Gulishi       2738 D203212-8  S Lo Ni Va Ic        712 Im
+Ashush        2739 C645441-B  S Ni                 803 Im
+Ushiik        2831 D768774-3    Ag Ri              303 Im
+Mikhid        2836 C777200-B  S Lo Ni              503 Im
+Khuuniish     2837 C382300-C    Lo Ni              505 Im
+Mimishka      2838 A543156-B    Lo Ni Po           723 Im
+Perekir       2932 B210634-9    Na Ni              403 Im
+Lumzashgu     2935 B788885-C    Ri              A  103 Im
+Ursimga       2936 E687742-4    Ag Ri              103 Im
+Kakar         2937 C1009CB-F    Hi Na In Va        630 Im
+Pediica       2938 C758121-A  S Lo Ni              603 Im
+Narkur'le     3031 C85A686-9    Ni Wa              201 Im
+Uumirsa       3032 B000954-F  A Hi Na In As        404 Im
+Napu          3035 B8B5202-C  N Lo Ni Fl           603 Im
+Luken         3037 C543589-B    Ni Po              103 Im
+Bechant       3039 C371367-A    Lo Ni              211 Im
+Amluamii      3135 B245525-9  S Ag Ni              104 Im
+Kadushi       3136 C8899A7-C  S Hi                 804 Im
+Andula        3138 C542468-8    Ni Po              121 Im
+Newport       3139 A433204-F  N Lo Ni Po           103 Im
+Mershemu      3231 D580411-8    Ni De              903 Im
+E'Draconis    3235 C594550-7    Ag Ni              903 Im
+Shardi        3236 C326ADB-E  S Hi In              604 Im
+Proytheyath   3238 B458831-8    D3                 313 Im
+Tutrii        3239 DA7A266-8  S Lo Ni Wa           102 Im
+Saven         3240 A5A0734-F  N De                 613 Im

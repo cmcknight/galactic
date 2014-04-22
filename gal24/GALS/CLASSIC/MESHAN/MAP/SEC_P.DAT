@@ -1,0 +1,39 @@
+@SUB-SECTOR: sec_P   SECTOR: meshan
+#
+# Trade routes within the subsector
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Uenouz        2535 C544589-6  G Ag Ni              700 Vo
+Rueghgva      2536 A510303-B  G Lo Ni              512 Vo
+Guerris       2538 D440379-6    De Lo Ni Po        502 V1
+Ellodhaedh    2540 C999415-9    Ni                 214 V1
+Igovul        2633 B500A54-E  G Hi Na Va           803 Vx
+Lefaen        2640 A8C9127-C  G Fl Lo Ni           704 V1
+Aknaegzue     2732 C64958B-6    Ni                 603 Vx
+Koethaek      2733 C659200-6  C Lo Ni              210 Vx
+Okhaeksae     2831 C150231-6  G De Lo Ni Po        904 Vx
+Dzagkogh      2832 A520595-C  G De Ni Po           903 Vx
+Uenazuk       2836 E245578-6    Ag Ni              504 Vx
+Zolkhughz     2838 D577598-3    Ag Ni              702 V1
+Aluunle       2839 D785445-2    Ni                 610 V1
+Dzegkno       2840 B466767-8  G Ag Ri              604 V1
+Aerroll       2935 C666598-5  G Ag Ni              205 Vx
+Zoraruzi      2936 A000743-D  G As Na Cp           320 Vx
+Oellaell      2939 E221776-6    Na Po              103 V1
+Saeda         2940 A876101-A  G Lo Ni              923 V1
+Arrue         3033 B553100-9    Lo Ni Po           704 Vx
+Oellaera      3035 C769588-6    Ni                 335 Vx
+Kungin        3036 C300200-9  C Lo Ni Va           433 Vx
+Kfoghoe       3037 C3217B8-6    Na Po              624 Vx
+Guegha        3040 E768877-5  C                    105 V1
+Oetsaena      3131 E22448B-7    Ni                 922 Vx
+Cha-adi'      3133 E8A8610-5    Fl Ni              100 Vx
+Wallaby       3136 D541310-2    Lo Ni Po           600 Vx
+Ishkhigimu    3232 B00047B-A    As Ni              923 Vx
+Kogziz        3233 C300300-B    Lo Ni Va           900 Vx
+Gha Ilougz    3236 X150357-2  C De Lo Ni Po        423 Vx
+Quirk         3238 A7A7101-B    Fl Lo Ni           100 Vx
+Oezaello      3239 E787477-6    Ni                 300 Vx
+Rruekhsung    3240 C556547-6    Ag Ni              704 Vx

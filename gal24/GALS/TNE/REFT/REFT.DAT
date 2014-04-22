@@ -1,0 +1,36 @@
+Reft Sector
+
+A: Vestus                    sec_a.dat
+B: Macon                     sec_b.dat
+C: Two Little                sec_c.dat
+D: Barker                    sec_d.dat
+E: Usher                     sec_e.dat
+F: Sagittarian               sec_f.dat
+G: Lost Way                  sec_g.dat
+H: Gome                      sec_h.dat
+I: Void 8                    sec_i.dat
+J: New Islands               sec_j.dat
+K: Old Islands               sec_k.dat
+L: Limon                     sec_l.dat
+M: Alone                     sec_m.dat
+N: Evestin                   sec_n.dat
+O: Arcrant                   sec_o.dat
+P: Moibin                    sec_p.dat
+
+Bases:
+A = Navy & Scout Bases
+M = Marine Base
+N = Naval Base
+S = Scout Base
+W = Scout Way Station
+  = None
+
+Allegiance:
+08 -- = None
+09 Cs = Client State
+02 Na = Non-aligned
+11 Re = Regency
+12 RF = Regency Frontier World
+04 Wi = Wilds
+08    = Unknown
+

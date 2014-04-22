@@ -1,0 +1,49 @@
+@SUB-SECTOR: Capital SECTOR: Core
+#
+# Trade routes within the subsector
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+N'dao         1711 D1007B8-9  S Na Va              812 Li 
+Rison         1713 B9D3695-A  N Ni Fl              714 Li 
+Fornol        1715 B5819CA-A  N Hi                 712 Li 
+Curast        1717 D9B7362-A  S Lo Ni Fl           724 Li 
+Ances         1812 B383657-C  A Ni Ri              705 Li 
+Lectorsen     1813 D354655-5    Ag Ni              500 Li 
+Thass         1815 B510420-9    Ni                 713 Li
+Balpan        1819 B505345-9  A Lo Ni Va Ic        600 Li 
+Sistar        1912 B430551-F  A Ni Po De           612 Li 
+Ankod         1916 A344889-B  N                    414 Li 
+Ploiqu        1917 D222747-6  S Na Po              104 Li 
+Traak         1918 B62488C-A  S                    904 Li 
+Crompton      1919 E776002-9    Lo Ni              600 Li 
+Shion         1920 D410344-7    Lo Ni              103 Li 
+Dudaka        2011 C544010-6    Lo Ni              503 Li 
+Tiwath        2012 E651575-8    Ni Po              633 Li 
+Morii         2014 B62A644-9    Ni Wa              214 Li 
+Ion           2016 B877655-C  W Ag Ni              604 Li 
+Onon          2017 E576000-9    Lo Ni Ba           721 Li 
+Tertha        2020 C200342-A    Lo Ni Va           513 Li 
+Siduka        2111 B446689-C  N Ag Ni              200 Li 
+Romstand      2112 C428567-8    Ni                 820 Li 
+Knabbib       2115 A331758-F  N Na Po              804 Li 
+Capital       2118 A586A98-F  B Hi                 605 Sy 
+Shushan       2211 A655335-E    Lo Ni              924 Li 
+Nedso         2213 B541231-6    Lo Ni Po           814 Sy 
+Shudusham     2214 E849855-A                       804 Sy 
+Rhylea        2216 B8A6530-8    Ni Fl              623 Sy 
+Syroe         2218 B436854-D  A                    804 Li 
+Ase           2219 B22098B-F    Hi Na In Po De     110 Li 
+Xalm          2220 D4628CA-4  S                    113 Li 
+Seku          2312 B79A557-F    Ni Wa              403 Li 
+Rib           2314 B559667-B    Ni                 204 Sy 
+Ecan          2316 B444854-9                       902 Sy 
+Codsen        2317 E571568-2    Ni                 210 Sy
+Yirsh Poy     2318 B210577-A  S Ni                 113 Sy 
+Crystalan     2319 C979788-B  S                    414 Li 
+Umgadin       2320 B6B5946-B    Hi Fl              122 Li 
+Capion        2413 B651864-6    Po                 201 Sy 
+First         2414 AA7A788-9    Wa                 200 Sy
+Sentark 4     2416 B755496-7    Ni                 404 Sy 
+Sevan         2419 A544576-A  S Ag Ni              500 Li 

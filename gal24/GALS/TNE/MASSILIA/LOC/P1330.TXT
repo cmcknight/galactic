@@ -1,0 +1,12 @@
+Prindee D443469-7  
+
+Starport: Poor                  Size: Small (5600-7200 km)
+Atmosphere: Thin, tainted       Hydrographics: 30% water
+Population: 60,000              Govt: Captive Government
+Law Level: High                 Technology: Pre-Stellar
+       
+The low gravity and tainted atmosphere of this planet have always made it
+unappealing for the Geonee. Nevertheless, a new colony of Shiwonee was
+established in 1198.
+
+by Carlos Alos-Ferrer (Alos@merlin.fae.ua.es)

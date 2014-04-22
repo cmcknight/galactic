@@ -1,0 +1,69 @@
+@SUB-SECTOR: sec_h  SECTOR: glimdrft
+#
+#Jump Routes
+$2513 2413 -1 0
+$2513 2612 0 0
+$2516 2416 -1 0
+$2516 2615 0 0
+$2612 2711 0 0
+$2612 2613 0 0
+$2613 2615 0 0
+$2613 2714 0 0
+$2615 2715 0 0
+$2711 2810 0 -1
+$2714 2715 0 0
+$2715 2814 0 0
+$2715 2816 0 0
+$2816 2918 0 0
+$2912 2810 0 -1
+$2912 3112 0 0
+$2918 3016 0 0
+$2918 2919 0 0
+$2919 2920 0 0
+$2920 3121 0 1
+$3016 3215 0 0
+$3112 3212 0 0
+$3212 0113 1 0
+$3212 3214 0 0
+$3214 0214 1 0
+$3214 3215 0 0
+#
+#--------1---------2---------3---------4---------5----------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- --
+Agon          2513 E220549-8                       101 Mn
+Guadelupe     2516 DA69647-5    Ri Na              801 Mn
+Hernosadd     2519 EABA972-8    Wa                 100 Mn
+Apolis        2611 XAB9500-8    Ni                 200 Mn
+Apan          2612 D372586-7    Ni                 301 Mn
+Kinja         2613 AAC4500-A    Ni                 300 Mn
+Kotah         2615 A110620-A    Na                 800 Mn
+Londonderry   2619 A000675-A    As                 601 Mn
+Luxeuil       2711 C554156-7    Ni                 700 Mn
+Niv           2714 A100400-B    Ni                 200 Mn
+Ocra          2715 A000588-A    As                 801 Mn
+Carpathia     2716 CAA1A57-A                       600 Mn
+Esefer        2718 C000496-B    As                 801 Mn
+Sanulia       2812 XAB9766-A                       601 Mn
+Coneworld     2814 A857988-B                       500 Mn
+Sulivan       2816 BABA300-A    Ni                 301 Mn
+Tasmania      2817 C756357-8    Ni                 100 Mn
+Thunder       2820 CAB2200-A    Ni                 901 Mn
+Dona          2911 X212883-8    Na                 901 Mn
+Oblast        2912 A485340-B    Ni                 700 Mn
+Usob          2918 BAA1495-B    Ni                 300 Mn
+New Virginia  2919 A348546-B    Ag                 201 Mn
+Wexham        2920 EAA1200-8    Ni                 900 Mn
+Shirol        3013 D100687-8    Na                 501 Mn
+Zamboanga     3014 E110686-B    Na                 501 Mn
+Appalachia    3016 A200263-B    Ni                 101 Mn
+Blumenu       3018 XAB1100-A    Ni                 400 Mn
+Claw          3112 XAC2949-A                       701 Mn
+Clarendon     3117 C788658-7    Ri Ag              701 Mn
+Benin         3118 XAA9499-A    Ni                 900 Mn
+Gysburg       3212 A210276-A    Ni                 300 Mn
+Iriga         3214 A698775-9    Ag                 201 Mn
+Kalix         3215 EACA100-A    Wa                 500 Mn
+Labria        3218 X120657-8    Na                 901 Mn
+Manning       3219 E346300-6    Ni                 100 Mn
+Mifraz        3220 D964699-5    Ri Ag              501 Mn

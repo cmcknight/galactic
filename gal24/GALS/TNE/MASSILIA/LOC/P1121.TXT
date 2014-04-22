@@ -1,0 +1,24 @@
+Strogy A425200-E
+
+Starport: Excellent                Size: Small (5600-7200 km)
+Atmosphere: Very thin, tainted     Hydrographics: 50% water
+Population: 800                    Govt: No government
+Law Level: No Prohibitions         Technology: High Stellar
+  
+The surface part of the A starport, almost totally automated, is controlled
+by a strain XB ("God") Virus and is the home base for a Vampire Fleet formed
+by almost twenty spaceships and 11 starships: 2 patrol cruisers, 3 Far
+Traders, 4 Scout/Couriers, 1 Close Escort, and 1 Subsidized Liner. In
+addition, 4 highly non-standard starships built at the Starport in the
+following years have left the system, but they have not returned. One of the
+main objectives of the Vampire Fleet is to locate the missing starships and
+determine its fate.
+	Hundreds of humans survive as servants of the God, working as technicians
+or tripulants. Their numbers are occasionally reinforced by captured
+children from planets raided by the fleet.
+	The world (in fact, the starport) has only recently reached again TL E,
+after decades of research to recover missing data and reconstruct destroyed
+data banks. The God pretends to recover even TL F.
+
+by Carlos Alos-Ferrer (Alos@merlin.fae.ua.es)
+

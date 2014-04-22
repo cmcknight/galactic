@@ -1,0 +1,82 @@
+
+Etienne         X8474SA-3 Ni Lo         (1201)
+                B847348-B Ni            (1110)
+
+Starport: None                          Size: Large (12000-13600 km)
+Atmosphere: Thin, tainted               Hydrographics: 70% water
+Population: 40,000                      Govt: Mystic Dictator
+Law Level: Extreme                      Technology: Pre-Industrial
+
+Pre-Collapse Population: 2000           Pre-Collapse TL: Average Stellar 
+Objective Classification: IIIb
+
+        Etienne is a large world with a thin (0.65 Atm) atmosphere 
+and roughly 70% water coverage. It's proximity to the system primary 
+results in a hot (~50 C) climate, with seasonal effects caused by 
+the world's extreme orbital eccentricity (0.2) rather than its minimal 
+axial tilt. The local day and year are both "short", at 11.85 std hours 
+and 43.27 std days respectively. The atmospheric "taint" is a low partial
+pressure of oxygen, requiring either compressor masks or a long period of
+acclimatization.
+
+        Etienne was only settled relatively recently; thus it's 
+pre-Collapse population numbered only 2000, centered around Etienne 
+Down starport near the world's north pole. The inhabitants - 
+consisting of starport staff, independent prospectors, and xenological 
+researchers, as well as a few "real" settlers - governed themselves by 
+means of a small directly elected "town council" which enacted strict 
+laws in order to protect Etienne's native ecosystem.
+
+        The world was little affected by either the second Rim War or 
+the Hard Times that followed it; however, during the Collapse it was 
+literally inundated with refugees from neighbouring Wulfe - nearly 
+three hundred thousand people in all. This overwhelmed the planetary 
+infrastructure, leading to famine and the total breakdown of law and 
+order. The problem was compounded when a passing Vampire ship 
+bombarded the starport and the adjacent settlement, causing massive 
+casualties and contaminating most of the agricultural land with 
+fallout. 
+
+        Seventy years on, the population of Etienne is almost able 
+to feed itself, though only by constant struggle. Due to the 
+biological differences between native and imported ecosystems, dietry 
+deficiencies are rife and life expectancy is thus low. The high-minded 
+ideals of the original colonists have been thrust aside in favour of 
+ruthless exploitation of whatever resources are necessary for survival.
+                                                      
+        Etienne is currently governed by a religious group which 
+preaches that man sinned by leaving his appointed place in the universe 
+(Terra) and that the Collapse was god's punishment for humaniti's 
+violation of the Natural Order. The church is extremely xenophobic 
+and technophobic; its rise to power was due mainly to its superior 
+ability to organise and a wide streak of ruthlessness.
+
+Etienne govenment values:
+        Corruption:             Low
+        Talent:                 Moderate
+        Cruelty:                High
+        Aggression:             Moderate
+        Paranoia/Xenophobia:    High
+
+[2 degree axial tilt; orbital ecc = 0.2!!!]
+[local life dominant; agriculture poor]
+
+                               System Detail
+
+                   Orbit   Name     UWP       Remarks
+                  Primary            K5 V
+                     0    Etienne  X8472SA-3 Ni Lo
+                        5          XS00000-0 Ba Va
+                     1             X100000-0
+                     2             X300000-0
+                       30          X100000-0
+                     3             X400000-0
+                        2          XR00000-0
+                        9          XS00000-0
+                       20          X102000-0
+                     4             X605000-0
+                     5             X500000-0
+                       13          X200000-0
+                    11               M4 D
+                        0          XS00000-0
+

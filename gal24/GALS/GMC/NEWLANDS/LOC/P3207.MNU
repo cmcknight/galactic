@@ -1,0 +1,16 @@
+@dir=gals\gmc\newlands\loc\
+@Light Yellow
+
+          Porrilla System
+
+@Light Green
+   IMSC Navigation Notice
+@Brown
+   *******WARNING*******
+@Light Green
+   HAZARDOUS NAVIGATION ZONE
+   Porrilla, Newlands 3207
+
+@Light Cyan
+      Public Data                  @p3207.txt
+      System Details               @p3207b.txt

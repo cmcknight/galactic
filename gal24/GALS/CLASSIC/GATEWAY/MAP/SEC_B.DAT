@@ -1,0 +1,27 @@
+@SUB-SECTOR: b SECTOR: Gateway
+#
+# Jump-routes
+$1601 1801 1 0 5
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Hishan        0901 C200478-9    Ni Va              211 Na
+Ploor         0908 C553310-7    Lo Ni Po           821 Na
+Guntar        1101 A8969AA-A    Hi In              222 Ho
+Vandemeerin   1105 D87876A-9    Ag                 312 Na
+Aldo          1108 B200623-A  N Na Ni Va           412 Na
+Vishanerella  1202 E1005AA-8    Va                 313 Ho
+Inast         1210 A663469-7  N Ni                 912 Na
+Danovan       1303 C79A5AA-9    Wa Ni              504 Ho
+Hesh          1308 C46556A-A    Ag Ni              912 Ho
+Luray         1310 B648369-9    Lo Ni              933 Na
+Reppler       1404 EA538AC-9                       215 Na
+Kaskaria      1406 C6247AA-9                       623 Ho
+Concord       1410 C6876AA-7    Ag Ni           R  900 Na
+Therinth      1501 C8208FA-9    De Ni              812 Ho
+Velan         1505 C87A7FA-5    Wa                 110 Ho
+Bospin        1508 D456459-9    Ni                 100 Ho
+Granth        1601 B8779FE-A    Hi In              910 Ho
+Tarvad        1604 D6758FA-8                       912 Ho
+Duresthan     1609 C6235FE-B    Po Lo              910 Ho

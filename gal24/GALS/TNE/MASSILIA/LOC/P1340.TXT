@@ -1,0 +1,54 @@
+Wewarbinner C567686-8
+
+Starport: Routine
+Size: Medium (7200-8800 km)
+Atmosphere: Standard
+Hydrographics: 70% water
+Population: 2 million
+Govt: Civil Service Bureaucracy
+Law Level: Moderate
+Technology: Pre-Stellar
+
+The Tanny Project (Tanny, Nilton, and Wewarbinner):
+	In pre-collapse times, Tanny was owned by Garunda Trading, a mid-sized
+corporation controlled by the Vilani Megacorporation Zirunkariish. Garunda
+Trading controlled half a dozen of agricultural worlds in Massilia,
+including also Liaw (Forquee subsector, 2017). In the huge corporate asset
+exchange of 1121, Garunda Trading felt into the control of Hortalez et Cie.
+The new corporate managers for Tanny soon realized the potential of the two
+low population neighboring systems of Nilton and Wewarbinner, and actively
+started to establish a firm commercial presence there. By 1122, the Tanny
+branch of Garunda Trading was in control of the three-world cluster. The
+cluster, not being a military objective, had been relatively isolated from
+the interstellar developments of the ongoing Rebellion, but Hard Times hit
+it hardly through the end of commerce. The worlds were raided several times,
+and the Tanny managers were effectively cut from Garunda Trading and
+Hortalez et Cie control.
+	In 1124, all the area was in the middle of the Outlands. The Tanny
+managers, using their remaining starships, attempted to obtain military
+resources from falling worlds of the subsector, in order to build up some
+defenses against raiders. In Nagiida (1233), they contacted the local branch
+of Hortalez et Cie, and were able to convince the local managers to salvage
+part of the corporation assets in the rapidly falling world and move them to
+the Tanny cluster. The move soon evolved into a massive migration attempt
+when word spread to the population. Riots and civil uprisings forced the
+Nagiida branch of Hortalez et Cie to totally abandon the planet, taking with
+them hundreds of thousands of employees and their families, in low berths.
+	The success of the migration led the corporate executives to design a plan
+to transform the cluster in an autonomous, self-sufficient polity. The
+"Tanny Project" was born. Using the fleet that served to evacuate Hortalez
+et Cie's personnel from Nagiida, in the course of the following years, many
+refugees from all over the subsector were transported to the cluster.
+	The new colonies were relatively low-tech and counted with huge
+agricultural resources, and thus, when the virus arrived, were able to
+survive without heavy losses. In fact, the isolation helped the cluster
+development.
+	Nowadays, the Tanny Project is a Pocket Empire ruled by a bureaucracy which
+can be traced back to Garunda Trading and Hortalez et Cie's executives from
+Nagiida. A dozen of starships travel among the three worlds, but the
+bureaucrats have no interest in interstellar exploration outside the
+cluster. Remarkably, the society of the Tanny Project has a noticeable
+influence of traditional Vilani ways, due to the Vilani origins of both
+Garunda Trading and most of the refugees from Nagiida.
+
+by Carlos Alos-Ferrer <alos@merlin.fae.ua.es>

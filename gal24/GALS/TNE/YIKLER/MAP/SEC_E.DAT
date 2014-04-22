@@ -1,0 +1,40 @@
+@SUB-SECTOR: sec_E   SECTOR: yiklerzd
+#
+# Trade routes within the subsector
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Priatl        0111 X300000-0    Ba Va           F  000 Zh
+Entbieb       0112 A76399B-D  Z Hi C3              304 Zh
+Befta         0113 A452445-D    Ni Po Lo           223 Zh
+Siantaats     0114 C255304-9    Lo Ni              304 Zh
+Iejve         0115 EA967CD-5    Ag                 200 Zh
+Al            0117 B554765-8  Z Ag O:0316          224 Zh
+Enz           0119 C10056E-8  K Ni Va O:0221    A  301 Sr
+Azh           0211 D4359BA-9    Hi                 112 Zh
+Japradlie     0214 C573ACF-D  Z Hi In              323 Zh
+Ielzhola      0217 C6366B9-8    Ni                 323 Zh
+Vrier         0314 C7A4000-0    Ba Fl              020 Zh     f
+Zhelzdatl     0316 A413985-E  Z Hi Ic In Na Cp     122 Zh
+Yidlpiants    0318 B569566-8    Ni O:0518          501 Zh
+Sietiefa      0319 C5245A8-E  Z Ni              F  913 Zh
+Sodliezhafr   0411 E477599-6    Ag Ni              900 Zh
+Yintla        0414 B341424-B    Ni Po Lo           713 Zh
+Anjjedl       0416 C534526-8    Ni                 112 Zh
+Jeprez        0514 A430689-D    De Ni Po Na        211 Zh
+Driapleble    0515 B585997-8  Z Hi                 411 Zh
+Zhdiejtofla   0516 B344656-8    Ag Ni C2           224 Zh
+Chtepryinqrenz0517 B582478-9    Ni Lo              400 Zh
+Kili          0518 A884344-B  Z Lo Ni              224 Zh
+Piaplripref   0520 B87556E-A  K Ag Ni O:0221    A  624 Sr
+Sotiezhojer   0611 C886300-9    Lo Ni              914 Zh
+Adl           0612 CA78635-7    Ag Ni              923 Zh
+Zhanj         0615 D444788-9    Ag                 123 Zh
+Chtej         0711 C566620-7    Ag Ni              624 Zh
+Tle           0715 A5226B9-A    Na Ni Po           925 Zh
+Iepr          0716 C74A776-9  Z Wa                 425 Zh
+Sinchsibrifl  0811 A54667A-B    Ag Ni              313 Zh
+Zdinchij      0812 B6B0955-B  Z Hi De              901 Zh
+Pablants      0814 A669530-C  Z Ni                 513 Zh
+Iebia         0817 A856A97-F  * Hi                 713 Mi

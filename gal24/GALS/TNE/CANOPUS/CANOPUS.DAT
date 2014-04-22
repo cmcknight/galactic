@@ -1,0 +1,29 @@
+Canopus
+
+A: Somnia                    sec_a.dat
+B: Yanos                     sec_b.dat
+C: Scanlon                   sec_c.dat
+D: Apmond                    sec_d.dat
+E: Zervicit                  sec_e.dat
+F: Galis                     sec_f.dat
+G: Caprice                   sec_g.dat
+H: Vaymo                     sec_h.dat
+I: Hyskos                    sec_i.dat
+J: Nanfeng                   sec_j.dat
+K: Hamid                     sec_k.dat
+L: Lares                     sec_l.dat
+M: Ikaesi                    sec_m.dat
+N: Trita                     sec_n.dat
+O: Filio Petri               sec_o.dat
+P: Cabot                     sec_p.dat
+
+Bases:
+N = Navy
+S = Scout
+2 = Navy & Scout
+  = None
+
+Allegiance:
+06 Wi = Wilds
+07 -- = Cemetary World
+09 Pe = Republic of Keluin

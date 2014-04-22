@@ -1,0 +1,11 @@
+@SUB-SECTOR: sec_N   SECTOR: corridor
+#
+# Trade routes within the subsector
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Ashishinipar  0931 B8949BA-9    Hi In              410 Na
+Nadnamnarni   1033 B200211-9    Lo Ni Va           503 Na
+Tristira      1140 C87A740-5    Wa                 713 Cs
+Tarin Sink    1432 DAE3301-6    Lo Ni Fl Rs        635 Cs

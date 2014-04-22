@@ -1,0 +1,48 @@
+@SUB-SECTOR: sec_P   SECTOR: gush
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Yntulk        2532 X8898AB-4                    B  124 Wi
+Sers          2536 X140341-4    Lo Ni Po De        512 Wi
+Stallfe       2537 C986424-7    Lo Ni              424 Wi
+Thulm         2538 E87A000-3    Lo Ni Wa           203 Wi
+Hate          2539 E988888-7                       704 Wi
+Temes         2540 X649852-3                    B  703 Wi
+Croft         2632 X35056B-3    Ni Po De        B  302 Wi
+Pequan        2633 X543245-5    Lo Ni Po           310 Wi
+Katsue        2634 X336000-0    Ba                 003 --
+Darkaoul      2637 X425000-0    Ba                 010 --
+Tudjman       2639 X687651-4    Ag Ni           B  600 Wi
+Khossfoy      2732 X130000-0    Ba Po De           022 --
+Traynor       2734 X234000-0    Ba                 013 --
+Moy           2735 X75876F-0    Ag              B  714 Wi
+Chechen       2737 X5A7000-0    Fl Ba              022 --
+Khalun        2738 X321000-0    Ba Po              004 --
+Iishli        2740 X888423-2    Lo Ni              213 Wi
+Abact         2831 X672730-5                       704 Wi
+Grebele       2833 D140454-6  S Lo Ni Po De        205 Wi
+Drigelm       2834 E6668BD-2                    B  213 Wi
+Muugegdan     2835 X424000-0    Ba                 003 --
+Rashiidaa     2837 X380476-3    Lo Ni De        B  114 Wi
+Trauch        2838 X78336A-5    Lo Ni              202 Wi
+Kadar         2839 X442436-5    Lo Ni Po           420 Wi
+Odinga        2840 X231000-0    Ba Po              004 --
+Kikuyu        2931 X78978B-4                    B  704 Wi
+Eract         2937 XAB8000-0    Fl Ba              003 --
+Azwhew        2938 D477113-7  S Lo Ni              200 Wi
+Ann           2939 X873495-5    Lo Ni              203 Wi
+Teghde        3031 X160474-7    Lo Ni De           413 Wi
+Sabhaash      3033 X665133-2    Lo Ni           B  202 Wi
+Ukham         3034 X110000-0    Ba                 023 --
+Taleoo        3035 X95788B-2                    B  603 Wi
+Kieaasu       3038 E667146-5  S Lo Ni              320 Wi
+Uskent        3039 X55A002-7    Lo Ni Wa           100 Wi
+Leant         3131 X7638AB-6                       530 Wi
+As On As      3137 X76666A-7    Ag Ni              500 Wi
+Enturtepra    3139 X8A9000-0    Fl Ba              003 --
+Ladi          3140 X432000-0    Ba Po              003 --
+Staya         3231 X200000-0    Ba Va              010 --
+Ikaak         3235 X434000-0    Ba                 010 --
+Fadia         3236 X596000-0    Ba                 015 --
+Revd          3237 X98878A-4    Ag              B  620 Wi
+Haiwhou       3240 X332000-0    Ba Po              004 --

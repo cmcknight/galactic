@@ -1,0 +1,30 @@
+@SUB-SECTOR: sec_A   SECTOR: gvurrdon
+#
+# Trade routes within the subsector
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Enjtodl       0104 C8A8100-8  Z Lo Ni Fl           501 Zh
+Zhenchve'chip 0202 B666558-8  Z Ag Ni              902 Zh
+Matlmadl      0205 B646730-8    Ag                 822 Zh
+Dho Ega       0208 E480653-8    Ni Ri De           610 Vb
+Zaerrg        0306 C674683-8    Ag Ni              103 Va
+Unoldhasaellae0309 B300687-9  G Na Ni Va           201 Vb
+Angudh        0401 E7A77BA-B    Fl Si              721 Va
+Knoelurzudal  0402 A352614-D    Ni Po              803 Va
+Duduell       0403 C352215-6  C Lo Ni Po           203 Va
+Tarraekhs     0405 B000657-C  C Na Ni As           311 Va
+Uedhoelukhue  0407 B300314-9    Ni Va              920 Vb
+Roeknughroe   0410 B100A99-C  G Hi Na Va           924 Vb
+Gvuksdourrgh  0502 X685000-0  C Lo Ba Ni Wi        103 Va
+Songi         0503 B736467-A    Ni O:0402          110 Va
+Llaegh        0504 B638359-9    Lo Ni              110 Va
+Torrvagve     0505 A577526-C  G Lo Ni An           220 Va
+Dzukoun       0703 C788759-7    An Bl Wi           814 Va
+Onengoen      0709 B450778-A    Po De              302 Vd
+Zangerr       0803 D100000-0    Ni Va              023 Va
+Ksaghae       0804 E878245-6    Lo Ni Bl Wi        310 Va
+Tengerkukokhs 0807 C87A532-8    Ni Wa              322 Vd
+Ellfoegoezou  0808 E58878B-5    Ag Ri              810 Vd
+Gantsugh      0809 A000100-D  G Lo Ni As           420 Vd

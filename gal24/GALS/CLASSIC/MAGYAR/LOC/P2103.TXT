@@ -1,0 +1,35 @@
+Kemper     A1217A8-E       Cp Na Po                    -- Dakin Burdick (9/96)
+
+Kemper is under the control of a charismatic dictator named M'Buna Nirrad,
+whose wisdom and cunning is extolled in Kemperian popular culture.  Nirrad
+was an admiral of the subsector fleet who seized control of his homeworld
+when he believed that the representative democracy was incapable of 
+defending it.  His coup was a popular one among not only the human 
+inhabitants, but also among the Whaiz, an insectoid minor race native
+to this world.  For many years the Whaiz had suffered great injustices
+at the hands of the Kemperians, who regarded them a too stupid for 
+inclusion in the Confederation.  Admiral Nirrad ended that, giving the
+Whaiz equal status in Kemper society and even began naval training for
+the Whaiz nearly forty years ago, despite much public outcry.  Nirrad
+lost a lot of public support for that move, until an invasion attempt
+twenty five years ago in which the Destroyer "Chaos," manned primarily by 
+the Whaiz, was destroyed during a heroic rearguard action that allowed
+the Kemper navy to regroup and drive off the invaders.  The Whaiz captain
+(one of the highest-ranking Whaiz at the time) of the "Chaos" did not
+survive.  Only four human and three Whaiz survivors were found, but all 
+were awarded the Terran Sunburst, the highest award for gallantry in 
+the Solomani Confederation.
+
+The Whaiz are 25 kg. green insectoid omnivores (gatherers).  They sport
+a puffy sponge-like torso that serves as their digestive system, picking
+up seeds after they are flailed from the stalks by the 4 long torso claws 
+of the Whaiz.  Four short but sturdy legs support the torso.  They have
+always been acknowledged as skillful sculptors, but the The Whaiz 
+have proved to be heroic pilots, navigators, and gunners, with an
+excellent spacial sense.  The Whaiz can absorb 11 hits (3d6) before 
+going unconscious, and it takes another 8 hits (2d6) to kill them once
+they are down.  They have no armor but can attack with any of their four
+torso claws.  They have two sexes and lay eggs.  They are also fanaticly
+devoted to Admiral Nirrad, whom they regard as a living god.  After his
+death, they will probably transfer their devotion to the navy.
+

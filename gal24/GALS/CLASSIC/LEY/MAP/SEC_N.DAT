@@ -1,0 +1,51 @@
+@SUB-SECTOR: sec_n   SECTOR: ley
+#
+#Jump Routes
+$0932 0832 -1 0
+$0932 1031 0 0
+$1031 1132 0 0
+$1031 1131 0 0
+$1034 0833 -1 0
+$1034 1134 0 0
+$1131 1230 0 -1
+$1132 1232 0 0
+$1134 1233 0 0
+$1232 1429 0 -1
+$1232 1233 0 0
+$1232 1433 0 0
+$1233 1235 0 0
+$1235 1236 0 0
+$1235 1436 0 0
+$1236 1237 0 0
+$1237 1239 0 0
+$1239 1440 0 0
+$1433 1633 0 0
+$1436 1537 0 0
+$1440 1401 0 1
+$1440 1540 0 0
+$1633 1733 1 0
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Toron         0932 XABA000-0    Ba                 000 Im
+Saffron       0937 D202484-C  S Ni                 700 Im
+Buria         1031 C000613-B    As                 201 Im
+Thabor        1034 EABA689-8    In                 901 Im
+Taron         1131 XACA000-0    Ba                 000 Im
+Sidon         1132 D588899-7  S Ri                 800 Im
+Nablus        1134 X000000-0    Ba                 001 Im
+Tancred       1232 B866836-7  S Ri              A  401 Im
+Ibelin        1233 X220000-0    Ba                 001 Im
+Arsouf        1235 B9857A9-B  N Ca                 601 Im
+Mirabel       1236 X130212-9    Ni                 700 Im
+Tyre          1237 DA78521-A  S Ag                 300 Im
+Akaf          1239 B698786-A  S Ag                 501 Im
+Haifa         1334 DA46655-4    Ag                 200 Im
+Jaffa         1433 D658844-5  S Ri                 201 Im
+Ramla         1436 X300000-0    Ba                 001 Im
+Ayyubid       1440 D884523-5  S Ag                 900 Im
+Saphet        1532 X130156-4    Ni                 200 Im
+Kurmul        1537 D388437-4    Ni                 701 Im
+Ascalon       1540 B675544-C  N Ni                 900 Im
+Hebron        1633 D756543-5    Ag              A  601 Im

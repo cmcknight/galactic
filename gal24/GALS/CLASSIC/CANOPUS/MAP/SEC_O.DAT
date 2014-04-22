@@ -1,0 +1,35 @@
+@SUB-SECTOR: sec_O   SECTOR: canopus
+#
+# Trade routes within the subsector
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Bachylar      1732 E575100-8    Ag Lo Ni           224 So
+Sparrowhawk   1733 C333857-C    Na Po              912 So
+De Moyne      1734 D7B0120-5    De Lo Ni           212 So
+Taupo         1737 A564547-E    Ag Lo Ni           151 Na
+Williamsburg  1832 A33478D-E  N                    814 So
+Pyersson      1833 E45778A-3                       223 So
+Mueller       1834 E666576-6    Ag Lo Ni           715 So
+Huron         1838 D769723-8                       902 Na
+Alviss        1932 E221532-8    Lo Ni Po           503 So
+McNally       1934 C475621-9    Ni                 400 So
+Lawrence      1936 D69A432-6  S Lo Ni Wa           915 Na
+Holden        2033 C333421-9    Lo Ni Po           714 So
+Jewish        2034 E566557-4    Ag Lo Ni           804 So
+Shmuel        2035 C56A045-7  S Wa                 105 Na
+Crender       2036 B460101-A  2 De Lo Ni           624 Na
+Fioria        2037 D300342-8  S Lo Ni Va           600 Na
+Pendragon     2038 C89A332-9    Lo Ni Wa           914 Na
+Hansel        2131 E100743-7    Na Va              603 So
+Ambrosius     2135 E100132-9    Lo Ni Va           904 So
+Loki          2140 E565224-3    Ag Lo Ni           603 Na
+Elke          2234 D335200-8  S Lo Ni              704 So
+Edmonds       2240 B252001-9    Ba                 322 Na
+Florence      2332 B313012-8    Ic                 414 So
+Filio Petri   2333 C6549B9-6    Hi                 401 So
+Diconson      2340 E300203-8    Lo Ni Va           902 Na
+Apollyon      2432 B436476-E    Lo Ni              104 So
+Lincoln       2436 A636A77-D    Hi In              703 Na
+Ernst         2437 D84A665-8  S Ni Wa              305 Na

@@ -1,0 +1,50 @@
+@SUB-SECTOR: sec_C   SECTOR: vland
+#
+# Trade routes within the subsector
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Taksarrgh     1701 X624000-0    Ba                 010 --
+Dathsuts      1703 X210000-0    Ba                 001 --
+Rronaetuts    1704 X224000-0    Ba                 020 --
+Ugarun        1705 X7C0000-0    Ba De              002 --
+Zelaklaka     1708 X7B2000-0    Fl Ba              001 --
+Zigaadig      1709 X541300-6    Lo Ni Po           223 Wi
+Tollori       1710 C884421-7  A Lo Ni              201 Wi
+Newcastle     1801 C567710-9    Ag Ni V:6          102 Na     f
+Zannokh       1802 C545205-6    Lo Ni              420 Wi
+Ronni         1803 D645572-7    Ag Ni              222 Wi
+Kashiin       1804 C140303-4  N Lo Ni Po De        420 Wi
+Ranilson      1807 X999305-2    Lo Ni           B  501 Wi
+Eshu          1810 X360000-0    Lo Ni De           022 Wi
+Ghurrllekh    1901 X560422-6    Lo Ni De           420 Wi
+Gemid         1903 X423000-0    Ba Po              024 --     f
+Daama         1904 X576435-2    Lo Ni           B  101 Wi     f
+Envar         1906 X9C5000-0    Fl Ba              001 --
+Kakkin        1907 X423000-0    Ba Po              002 --
+Nashazi       1909 X300000-0    Ba Va              020 --
+Gadushan      2005 X536000-0    Ba                 010 --
+Niitomok      2006 E552467-7    Lo Ni Po           501 Wi
+Kaaka         2007 X898640-4    Ag Ni An        B  801 Wi
+Morimur       2008 X450441-2    Lo Ni Po De        413 Wi
+Miiko Belt    2101 X000000-0    Ba As              010 --
+Hteh Hut      2103 X000000-0    Ba As              001 --
+Ninnigam      2105 X9A5000-0    Fl Ba              010 --
+Hellvaplace   2106 XAB3000-0    Fl Ba              001 --
+Sadniben      2107 D778879-5                    B  204 Wi
+Angvae        2203 D65756D-5    Ag Ni              320 Wi
+Anarsi        2205 X74766C-5    Ag Ni           B  820 Wi
+Kuzashamir    2208 X546676-4    Ag Ni              920 Wi
+Deglaraarbiis 2210 X737000-0    Ba                 012 --
+Knaeghzoka    2301 X431000-0    Ba Po              001 --
+Nelak         2306 X64A56B-4    Ni Wa              410 Wi
+Bolziin       2308 X210000-0    Ba                 014 --
+Moribur       2309 E150667-7    Ni Po De           120 Wi
+Barshun       2310 X510000-0    Ba                 020 --
+Kfoerudzo     2402 X559233-3    Lo Ni           B  321 Wi
+Derekam       2406 D54676B-6    Ag                 820 Wi
+Gida          2407 X200000-0    Ba Va              010 --
+Shabii        2408 X854000-4    Ba                 001 Wi     f
+Sardiika      2409 X444668-6    Ag Ni              110 Wi
+Karamursel    2410 X338000-0    Ba                 020 --

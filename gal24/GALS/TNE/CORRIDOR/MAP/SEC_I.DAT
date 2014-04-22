@@ -1,0 +1,8 @@
+@SUB-SECTOR: sec_I   SECTOR: corridor
+#
+# Trade routes within the subsector
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Shush         0221 D662213-6    Lo Ni              323 Wi

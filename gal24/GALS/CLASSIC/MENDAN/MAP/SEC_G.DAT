@@ -1,0 +1,37 @@
+@SUB-SECTOR: sec_G   SECTOR: mendan.sec
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+$1911 1613 -1 0 11
+$2420 2424 0 1 11
+$2420 2719 1 0 11
+$1911 2210 0 -1 11
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX f
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Dursed        1811 C465200-7    Lo Ni              212 Jm 
+Migiisu       1815 C575310-7  M Lo Ni              404 Jm 
+Ongougarz     1818 D253545-6    Ni Po              323 J- 
+Sheppard      1820 C997769-4  M Ag                 825 Jv 
+Gakhi         1911 B78A496-8    Ni Wa              204 Jm 
+Limum         1913 C346450-9    Ni                 510 Jm 
+Snairrik      1915 B000678-B    As Na Ni Cp        322 Jm 
+Kikhu         1917 C543742-5  M Po                 502 Jm 
+Oesueng       1919 E443763-6    Po                 120 J- 
+Kukiishla     2016 C666875-5    Ri                 224 Jm 
+Faell         2020 E575AAA-9    Hi In           R  402 J- 
+Kalirki       2111 C6A4330-9    Fl Lo Ni           221 Jm 
+Kiinkii       2113 E400456-8    Ni Va              802 Jm 
+Dink          2114 E48A675-5    Ni Ri Wa           903 Jm 
+Gikagpa       2213 E599335-3    Lo Ni              225 Jm 
+Idimgakag     2215 E644599-6    Ag Ni              624 Jm 
+Masaran       2216 C897597-5    Ag Ni              611 Jm 
+Atsuntuen     2312 C338443-6  F Ni                 403 Jm 
+Aenaek        2317 E472888-4                    A  334 Jm
+Demiig        2319 C89A647-8  M Ni Wa              504 J- 
+Amaki         2416 E654421-2    Ni                 921 Jm 
+Ornlop        2419 C985422-8  M Ni C2              403 J- 
+Uezael        2420 B655338-9    Lo Ni              122 Ja 
+

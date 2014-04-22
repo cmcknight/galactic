@@ -1,0 +1,40 @@
+@SUB-SECTOR: sec_a   SECTOR: massilia
+#
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Hasaggan      1711 X735000-0    Ba                 023 Un
+Wander        1713 X100000-0    Ba Va              012 Un
+Narrad        1717 X321000-0    Ba                 003 Un
+Forquee       1719 B464858-B                    B  803 Na     f
+Alla'mar      1813 X2434M0-3    Lo Ni Po           200 Wi
+Arlur         1814 X665ARE-2    Hi              B  114 Wi
+P'ley         1818 D110469-A    Lo Ni              201 Na     f
+Wiscott       1820 X100000-0    Ba Va              023 Un
+Deeber        1915 X110000-0    Ba                 004 Un
+Stenbon       1916 X6A0000-0    Ba De              025 Un
+North         1917 X410000-0    Ba                 021 Un
+Cinthy        1918 X747300-7    Lo Ni              401 Wi
+Niswander     2013 X3414M0-0    Lo Ni Po        B  404 Wi
+Liaw          2017 C5687T9-5    Ag Ri              225 Wi     f
+Oliphant      2018 X110000-0    Ba                 024 Un
+Charted       2019 D585002-7                       201 Un
+Olden         2116 X625000-0    Ba                 005 Un
+Pintar        2118 X426000-0    Ba                 014 Un
+Epmeyer       2119 X110000-0    Ba                 003 Un
+Veny          2211 X3447R9-3    Ag              B  110 Wi
+Pirnie        2212 X5769XF-5    Hi In           B  213 Wi
+Meroi         2213 X5882N0-5    Lo Ni              414 Wi
+Nogmolen      2216 X110000-0    Ba                 004 Un
+Lutnikpo      2217 X446100-7    Lo Ni              422 Wi
+Anbock        2220 D8568WC-8                    B  623 Wi
+Udipeni       2316 X6879WC-7    Hi              B  203 Wi     f
+Pirrong       2317 X300000-0    Ba Va              013 Un
+Villia        2318 X100000-0    Ba Va              004 Un
+Gowandon      2319 X76A9RE-5    Hi Wa           B  114 Wi
+Kerak         2411 X100000-0    Ba Va              004 Un
+Rode          2414 X7552SB-4    Lo Ni              103 Wi
+Modawutt      2417 XAA7000-0    Ba Fl              010 Un
+Rechon        2418 X100000-0    Ba Va              022 Un
+Telfre        2420 X4532N0-6    Lo Ni Po           201 Wi

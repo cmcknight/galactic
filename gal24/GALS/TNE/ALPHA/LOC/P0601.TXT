@@ -1,0 +1,112 @@
+
+Menaf           C8885O4-8 Ag Ni         (1201)
+                A88856A-D Ag Ni         (1105)
+
+Starport: Routine                       Size: Large (12000-13600 km)
+Atmosphere: Dense                       Hydrographics: 80% water
+Population: 171,000                     Govt: Representive Democracy
+Law Level: Moderate                     Technology: Pre-Stellar
+
+Pre-Collapse Population: 109,000        Pre-Collapse TL: Average Stellar
+Objective Classification: [ IIIa (TDO) ]
+                                 
+
+HISTORY:
+        Before the Collapse Menaf was an agricultural colony of Faro, 
+whose control was maintained by Menaf's lack of industrial development 
+and consequent dependence on imported manufactured goods. Despite 
+this economic subjugation, Faronian rule was fairly relaxed; taxes 
+were low, there was no military garrison, and an elected council advised 
+the planetary governor. The locals were quite happy with this 
+arrangement, and enjoyed significantly greater freedom than the average 
+citizen of their dominator. The Second Rim War bought little change, 
+Faro (and thus Menaf) being incorporated into the Solomani 
+Confederation as a member state after an unexpectedly rapid surrender. 
+
+        The arrival of Virus in 1131 led to the usual Wilds 
+horror-stories; automated agricultural equipment ran amok, power, 
+communications and transport nets failed, and the starport's small 
+orbital facility was destroyed when the planetary defence computers 
+launched Menaf's entire salvo of PDMs at it. However, rapid action by 
+Governor Revell to protect the downport's vast food-warehouses helped 
+to minimise starvation in the city, and the outlying farms were (as 
+usual) able to feed themselves. Central authority was just beginning 
+to be reestablished when the first refugee ships arrived from Faro. 
+The influx of refugees led to further chaos, and this was heightened
+when Minister Hoenig (a high-ranking member of the Faronian government) 
+arrived, relieved Revell, and declared himself Dictator. For ten days 
+Menaf tottered on the edge of despotism before the ex-governor, outraged 
+by Hoenig's treatment of the native Menafians and the behaviour of his 
+personal retinue, staged a coup with the local police. Because of this, 
+Revell is remembered as a hero, the date of her coup and (since her death) 
+her birthday being celebrated with local holidays.
+
+        The time since the Collapse has been spent on slow 
+rebuilding and increasing local manufacturing capabilities. Despite
+this, it still has very little industry; thus the listed TL of 8 refers 
+to the highest TL equipment commonly in use and able to be repaired. In 
+reality, there is a great deal of lower-tech equipment in regular use. 
+Land transport is mostly by "Horse" (a native 800kg quadraped grazer) 
+or bicycle, with only a few LHyd-powered vehicles in use. Power is supplied 
+by wind farms supplemented by solar arrays, with many outlying farms 
+posessing their own generators. There is no mass-production, almost 
+everything, from spare engine parts to the farmer's automatic rifles, 
+being handmade, Afghani-gunsmith-style. Electronic equipment is far more 
+troublesome, but the locals are capable of manufacturing limited amounts 
+of TL-6 gear (they can make transistors, but not chips). 
+
+        What this cottage-industry style of technology translates to is
+a world which is self-sufficient in many (small) things, but incapable 
+(either technologically or economically) of manufacturing the "big ticket"
+items which would make the lives of it's inhabitants easier... thus, the
+world is entirely dependent upon imports if it wishes to expand it's
+infrastructure by any significant degree. While the government has on
+occasions been able to arrange limited imports of equipment with passing
+Free Traders, these opportunities are few and far between. Because of 
+this, Menaf is _desperate_ for trade, and will welcome any passing ship.
+
+
+SOCIETY/GOVERNMENT
+
+        About a third of the population lives in Menaf Down (the only
+city), the rest being farmers or living in small settlements. Population 
+increase since the collapse has led to greater colonisation of the outback, 
+but the vast majority of the population is still clustered near the 
+starport. Government is democratic, with the Governor and nine-member
+"advisory board" being directly elected by the populace.
+
+        Menafian society is tolerant (especially when compared to other
+Wilds worlds), values independence and individualism, and is not at all
+xenophobic. The people recognise that interstellar trade is necessary for
+Menaf's future, and are eager for it. Thus, the world is a perfect prospect
+for RC membership.
+
+MENAF GOVERNMENT VALUES:
+        Corruption:             Moderate
+        Talent:                 Moderate
+        Cruelty:                Low
+        Aggression:             Low
+        Paranoia/Xenophobia:    Low
+
+ADVENTURE IDEAS:
+
+- Survey: Conduct a detailed study of Menaf's manufacturing base and 
+          economy, in order to locate key areas for technological and
+          trading assistance.
+
+- Diplomacy: Assist a RC diplomat in negotiating with Menaf for its entry
+             into the RC. 
+             Help a Menafian negotiator arrange a trade deal or long-term
+             agreement with Graff.
+
+THE GUILD AND MENAF:
+
+        Guild ships also call at Menaf Downport, and they have at least 
+one agent in the city. Guild traders have attempted to sell Menaf items 
+which will keep them dependent on outside imports in the future - for 
+example, nuclear reactors (fuel rods would have to be imported, and waste
+exported), vehicles (the Guild mistakenly thought that Menaf would be forced
+to buy spare parts) and computers. At the referee's discretion, the one
+or two Guild ships which call regularly at Menaf may attempt to disrupt
+any arrangements which threaten their profits.
+

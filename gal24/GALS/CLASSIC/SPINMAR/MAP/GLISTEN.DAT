@@ -1,0 +1,45 @@
+@SUB-SECTOR: Glisten SECTOR: Spinward Marches
+#
+# Trade routes within the subsector
+$2336 2536 1 0
+$2334 2733 1 0
+$2334 2231 0 0
+$2036 2336 0 0
+$2036 2138 0 0
+$2036 1938 0 0
+$2036 1937 0 0
+$1937 1507 -1 0
+$2138 2101 0 1
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Grote         1731 A400404-B    Ni Va              124 Im     f
+Lydia         1733 E110430-6    Ni                 902 Im     f
+Melior        1736 D140466-7    Ni Po De        A  724 Im     f
+Egypt         1737 BAC6567-7  N Ni Fl              521 Im     f
+Aster         1739 C86A410-9    Ni Wa              401 Im     f
+Callia        1836 E150852-6    Po De              810 Im     f
+Mithras       1932 C8B5546-6    Ni Fl              302 Im     f
+Weiss         1934 A626464-B    Ni              A  703 Im     f
+Windsor       1935 C783511-9    Ni                 210 Im     f
+Overnale      1937 B45467A-9    Ag Ni              423 Im     m
+New Rome      1938 B837866-B  N                    704 Im     f
+Craw          1939 C573645-3    Ni                 923 Im
+Aki           2035 B443987-9    Hi In Po        A  214 Im     f
+Glisten       2036 A000986-F  A Hi Na In As Cp     821 Im
+Trane         2038 C639422-B    Ni                 704 Im     f
+Centry        2132 E222447-6    Ni Po              220 Im     f
+Caledonia     2134 C541636-5    Ni Po              910 Im     f
+Sorel         2137 E48569A-2    Ag Ni Ri           921 Im     f
+Horosho       2138 C3378A6-A  S                    920 Im     f
+Romor         2140 B450456-B  A Ni Po De           112 Im     f
+Marastan      2231 D868772-5    Ag Ri              924 Im
+Crout         2232 E4359CA-7    Hi                 314 Im     f
+Tirem         2233 C7B5975-B    Hi Fl              621 Im
+Inthe         2234 C100598-B    Ni Va              924 Im     f
+Tsarina       2236 D120636-5    Na Ni Po De     A  301 Im     f
+Wurzburg      2237 C795300-A  S Lo Ni           A  510 Im     f
+Bicornn       2331 E563576-2    Ni                 210 Im     f
+Ffudn         2334 A41489D-C    Ic                 904 Im     f
+Bendor        2336 A756656-C  A Ag Ni              820 Im     f

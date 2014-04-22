@@ -1,0 +1,8 @@
+@SUB-SECTOR: stars_I   SECTOR: corridor
+#
+# Trade routes within the subsector
+#
+#--------1---------2---------3
+#PlanetName   Loc. Stars(s)
+#----------   ---- ---------
+Shush         0221 F8 V G3 D

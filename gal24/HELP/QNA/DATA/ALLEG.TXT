@@ -1,0 +1,30 @@
+
+[Q] In the gals\classic\spinmar\spinmar.dat file, the basic sector
+data file for the Spinward Marches sector of the Classic Traveller
+galaxy, you have the following:
+
+                   Allegiance:
+                   12 Im = Imperial
+                   14 As = Aslan
+                   11 Zh = Zhodani
+                   13 Va = Vargr
+                   03 Sw = Sword Worlds
+                   01 Da = Darrian
+                   10 Dr = Droyne
+                   07 Na = Non-aligned
+                   04 Cs = Client State
+                   05 Fa = Federation of Arden
+                   08    = Unknown
+
+I understand that these are allegiance codes, but what are the
+numbers on the left?
+
+[A] The numbers each represent different colors, which is
+important because planets are colored according to their national
+allegiance. The numbers can be translated as follows:
+
+ 00  Black    04  Red       08  Dark Grey     12  Light Red
+ 01  Blue     05  Magenta   09  Light Blue    13  Light Magenta
+ 02  Green    06  Brown     10  Light Green   14  Light Yellow
+ 03  Cyan     07  White     11  Light Cyan    15  Bright White
+

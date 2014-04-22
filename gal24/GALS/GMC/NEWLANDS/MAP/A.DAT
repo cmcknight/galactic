@@ -1,0 +1,35 @@
+@SUB-SECTOR: Lango SECTOR: Newlands
+#
+# Jump-routes
+
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Alizar        0102 C8A86AA-8    Fl Ni              213 Ma
+Reston        0104 E652786-6    Po                 504 Ma
+Zlar          0202 C785641-7    Ag Ni Ri           404 Ma
+Heller        0204 D655766-7    Ag                 904 Da
+Mergal        0205 D000200-8    As Lo Ni           520 Ma
+Urani         0208 C88A552-8    Ni Wa              715 Ma
+Efwakh        0209 D37058B-8  S De Ni              700 Ma
+Revell        0303 X575554-1    Ag Ni              414 Ma
+Airfix        0304 A000831-A  D As Na              403 Da
+Lango         0306 A74AAA9-A  2 Hi In Wa           400 Ma
+Yadda         0307 C344111-8    Lo Ni              620 Ma
+Offra         0310 X234000-0    Ba Lo              022 Ma
+Frog          0402 E402323-7    Ic Lo Ni Va        403 Ma
+Humbrol       0404 E555432-4    Ni                 504 Ma
+Rikki Lake    0406 D9977EB-6    Ag              A  705 Ma
+Twot          0502 C616437-8  S Ic Ni              320 Ma
+Horne         0503 D7966A5-6    Ag Ni              424 Ma
+Farlane       0504 D685785-7    Ag Ri              704 Ma
+Lokatat       0509 E594378-7    Lo Ni              805 Ma
+Naminite      0601 D776653-7    Ag Ni              203 Ma
+Friedman      0603 C242496-7    Ni Po              100 Ma
+Rasilon       0606 X7767AC-0    Ag              R  804 Id     m
+Kiddeman      0703 E351000-8    Ba Lo Ni Po        712 Ma
+R-7855T       0708 C000268-C    As Lo Ni Rs     R  610 Tz     m
+Kmaru         0710 EA84204-5    Lo Ni              302 Tz
+Yteran        0802 D000310-7                    A  212 Ma
+Balerao       0803 C435652-6    Ni                 213 Ma

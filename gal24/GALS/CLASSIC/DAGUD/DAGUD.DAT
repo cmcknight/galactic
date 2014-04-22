@@ -1,0 +1,35 @@
+Dagudashaag
+
+A: Mimu                      sec_a.dat
+B: Old Suns                  sec_b.dat
+C: Arnakhish                 sec_c.dat
+D: Iiradu                    sec_d.dat
+E: Shallows                  sec_e.dat
+F: Ushra                     sec_f.dat
+G: Khandi                    sec_g.dat
+H: Kuriishe                  sec_h.dat
+I: Zeda                      sec_i.dat
+J: The Remnants              sec_j.dat
+K: Pact                      sec_k.dat
+L: Gadde                     sec_l.dat
+M: Bolivar                   sec_m.dat
+N: Argi                      sec_n.dat           f
+O: Sapphyre                  sec_o.dat
+P: Laraa                     sec_p.dat
+
+Bases:
+N = Navy
+S = Scout
+A = Navy & Scout
+M = Planetary Guard
+  = None
+
+Allegiance:
+02 Im = Imperial
+12 St = Strephon's Worlds
+13 Fi = Federation of Ilelish
+02 Li = Lucan's Imperium
+10 Dr = Droyne
+07 Na = Non-aligned
+04 Cs = Client State
+08    = Unknown

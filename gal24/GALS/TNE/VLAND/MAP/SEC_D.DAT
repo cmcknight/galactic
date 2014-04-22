@@ -1,0 +1,35 @@
+@SUB-SECTOR: sec_D   SECTOR: vland
+#
+# Trade routes within the subsector
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Khugan        2501 X623000-0    Ba Po              023 --
+Rhodes        2502 X413000-0    Ba Ic              002 --
+Shunisar      2507 X556422-4    Lo Ni              201 Wi
+Nii           2508 X425000-0    Ba                 010 --
+Daztsoun      2602 X456300-6    Lo Ni              711 Wi
+Kaengtsaelzon 2603 X100000-0    Ba Va              001 --
+Fongknoe      2604 X300000-0    Ba Va              001 --
+Raltaedz      2605 X130000-0    Ba Po De           004 --
+Malokh        2610 X57167A-4    Ni                 701 Wi
+Ongvaturr     2804 C98966A-5    Ni              B  402 Wi
+Paval         2806 X581224-1    Lo Ni              224 Wi
+Spinport      2808 X575845-6                       220 Wi
+Zupilak       2905 E453276-6    Lo Ni Po           334 Wi
+Akkunat       2907 X878400-2    Lo Ni           B  701 Wi
+Goobsfol      2909 X344300-2    Lo Ni              223 Wi
+Ksuerrgh      3002 X327000-0    Ba                 014 --
+Khughfudz     3003 X9A9000-0    Fl Ba              020 --
+Shupin        3004 X511000-0    Ba Ic              034 --
+Mukata        3006 X310000-0    Ba                 001 --
+Shishaldin    3008 X320000-0    Ba Po De           003 --
+Arga          3106 X300000-0    Ba Va              010 --
+Theton        3107 XABA000-0    Fl Ba Wa           010 --
+Thoegzknaedz  3201 X676569-2    Ag Ni              203 Wi
+Vutsarrgh     3202 E6658A8-2                    B  620 Wi
+Argonos       3206 X8AA000-0    Fl Ba Wa           020 --
+Sardia        3208 X236000-0    Ba                 033 --
+Veppim        3209 X684454-6    Lo Ni              304 Wi
+Tasho         3210 X225000-0    Ba                 022 --

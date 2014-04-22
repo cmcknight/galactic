@@ -1,0 +1,41 @@
+@SUB-SECTOR: sec_G   SECTOR: vland
+#
+# Trade routes within the subsector
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Enaa          1716 E300100-8  O Va                 402 Zs
+Vland         1717 B96799A-A  A Hi Cp              820 Zs
+Kirma         1718 E797100-8  O Lo Ni              425 Zs
+Sazisi        1719 X586614-8    Ag Ni              703 Wi
+Anaam         1811 X424000-0    Ba                 010 --
+Khusher       1813 X6A6000-0    Fl Ba              022 --
+Shinla        1816 D160784-8  O De                 834 Zs
+Tauri         1817 E130200-8  O Po De              220 Zs     f
+Dusu          1819 X9E2000-0    Ba                 020 --
+Kha           1820 X86A56D-5    Ni Wa           B  324 Wi
+Giinam        1915 X265000-0    Ba                 004 --     f
+Kipii         1916 X130000-0    Ba Po De           002 --
+Kusheggi      1918 X496756-2    Ag              B  320 Wi
+Khula         1919 X4757A8-8    Ag                 110 Wi     f
+Inkha         1920 X797323-4    Lo Ni              510 Wi
+Isbudin       2013 X9C5000-0    Fl Ba              023 --
+Zurrian       2016 X463447-5    Lo Ni              402 Wi     f
+Tahaver       2017 X769932-6    Hi              B  110 Wi     f
+Lobode        2019 X554543-3    Ag Ni           B  410 Wi
+Shushguum     2020 X522000-0    Ba Po              024 --
+Flire         2111 X7798AE-6                    B  323 Wi
+Ishala        2113 X86676A-1    Ag              B  112 Wi
+Zedu Gisla    2115 X533000-0    Ba Po              001 --
+Uri           2117 X313000-0    Ba Ic              020 --
+Pyam          2120 X799231-0    Lo Ni           B  413 Wi
+Irila         2211 D568000-0    Ba                 023 Wi     f
+Ashbakha      2216 X672000-0    Ba                 001 --     f
+Dangasha      2314 X35056E-0    Ni Po De        B  101 Wi
+Kagush        2316 X763340-2    Lo Ni           B  204 Wi
+Shudi         2319 X76686D-4                    B  425 Wi
+Gidapisek     2320 X200000-0    Ba Va              010 --
+Ansin         2412 X563952-6    Hi              B  720 Wi
+Liisurkhish   2416 X36266A-0    Ni              B  510 Wi
+Nasha         2419 E200000-8    Ba Va              010 --

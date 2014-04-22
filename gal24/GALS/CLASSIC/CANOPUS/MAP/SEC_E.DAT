@@ -1,0 +1,24 @@
+@SUB-SECTOR: sec_E   SECTOR: canopus
+#
+# Trade routes within the subsector
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Sensai        0111 C130000-8  S Ba De              504 So
+Everhart      0112 E77A255-B    Lo Ni Wa           604 So
+Krispos       0118 C423465-A    Lo Ni Po           910 So
+Sawer         0213 D549147-6  S Lo Ni              602 So
+Slyngkesby    0218 B322413-C    Lo Ni Po           111 So
+Illyana       0311 C300344-B  S Lo Ni Va           600 So
+Aylwin        0320 X987466-1    Ag Lo Ni           214 So
+Zervicit      0412 D657857-8  S                    803 So
+Viet          0414 C200469-B    Lo Ni Va           222 So
+Nustre        0517 C438331-C    Lo Ni              703 So
+Spitel        0518 B693400-C    Lo Ni              124 So
+Amherst       0613 A2107A8-F    Na                 100 So
+Zanzibar      0615 E697467-5    Ag Lo Ni           604 So
+Secgleah      0715 C75668B-7    Ni                 613 So
+Coventry      0716 B100423-E  N Lo Ni Va           404 So
+Jacinth       0718 C200775-9  S Na Va              503 So
+Solon         0812 C76A666-6  S Ni Ri Wa           712 So

@@ -1,0 +1,41 @@
+@SUB-SECTOR: Bunkeria SECTOR: Core
+#
+# Trade routes within the subsector
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Larsaluu      0125 B664135-9    Lo                 110 Ic
+Danke Es      0126 B241640-8    Ni Po              413 Ic
+Marsus        0127 B578733-8    Ag                 514 Ic
+Protalus      0128 C559340-9    Lo                 923 Ic
+Laslii Mii    0129 E984000-0    Ba                 022 Ba
+Siiaash       0130 E200686-7    Na Ni Va           502 Im
+Kan           0221 B789586-A    Ni                 905 Im
+Arir Ash      0222 E210369-5    Lo                 205 Im
+Domitar       0224 E234300-5    Lo                 803 Ic
+Ashder        0228 E565000-0    Ba                 020 Ba
+Enluur        0322 E242000-0    Po Ba              004 Ba
+Oorpic        0324 B413500-8    Ic                 901 Ic
+Iacus         0325 B210772-9    Na                 303 Ic
+Dindma Eshgi  0326 E340000-0    Po De Ba           004 Ba
+Baamlaa Maa   0328 C253276-9    Po Lo              111 Im
+Murda         0421 B887212-B    Lo                 722 Im
+Gig           0423 B400323-B    Lo Va              600 Ic
+Irlu          0428 C5358AC-B                       113 Im
+Diid          0429 B9B9200-A  S Fl Lo Ni           604 Im
+Amkhiikhaki   0522 E362757-5    Ri                 324 Im
+Uniimvlu      0523 B590100-9    De Lo              403 Ic
+Uumkhi        0526 E200000-0    Va Ba              021 Ba
+Urguu         0527 E357000-0    Ba                 015 Ba
+Iirkaa Gaasar 0529 B386663-9    Ag Ni Ri           512 Im
+Mien Puuruu   0530 D433320-5    Po Lo              304 Im
+Sketola       0622 B647487-C  A Lo                 404 Ic
+Giirud        0624 A100266-C  N Lo Va              904 Im
+Shika         0721 E251466-6    Ni Po              501 Ic
+F'rnow        0722 B361334-8    Lo                 302 Ic
+Khag          0725 C411264-A    Lo Ic              103 Im
+Dral          0727 C7288D9-A                       312 Im
+Lalandra      0821 B000411-C  S Lo As              504 Ic
+Siirduu       0822 C140366-9    De Lo Ni Po        814 Ic
+Iirla         0827 B350445-A    Lo Po De           713 Im

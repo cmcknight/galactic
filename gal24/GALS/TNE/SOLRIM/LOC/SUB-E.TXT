@@ -1,0 +1,21 @@
+
+Alderamin Subsector
+-------------------
+Alderamin Subsector: The Alderamin Subsector has an estimated population
+in 1202 of approximately 27.30 billion, a decline of 75 percent from its
+Pre-Collapse population. Its highest population is 8.94 billion at Yrsai,
+and its highest tech level is 9 at Finnegans.
+
+Alderamin Subsector (historical): The Alderamin Subsector had an estimated
+population in 1117 of approximately 107.7 billion. Its highest population
+was 40.48 billion at Yrsai, and its highest tech level was 15 at
+Shululsish, Sarmaty, Diomedes, Yrsai, Glaucas, and Upirzanu.
+
+Subsector Notes
+---------------
+	The subsector is named for Alderamin (Alpha Cephei) a bright A7 main
+sequence star that is visible from Terra. The Stralsund Belt, once a
+prosperous belter colony, encircles Alpha Cephei and is a rich source of
+many commercially valuable elements.
+
+

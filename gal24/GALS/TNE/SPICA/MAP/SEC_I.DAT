@@ -1,0 +1,38 @@
+@SUB-SECTOR: sec_a   SECTOR: Spica
+#
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Nereides      0122 X79A8Q3-7    Wa                 204 Wi
+Kapybarrdos   0123 E7229O2-5    Na Hi In Po     B  105 Wi
+Athabasca     0124 X534000-0    Ba                 000 Un
+Newbandar     0125 E2505O0-4    Ni Po De           400 Wi
+Cook's World  0127 E47A6RE-4    Ni Wa              600 Wi
+Cataldyne     0129 E2476T5-6    Ag Ni Hp           803 Wi
+Yingyang      0130 D4454M0-3    Lo Ni Hp        B  420 Wi
+Spekle        0222 X424000-0    Ba                 000 Un
+Hialbedo      0227 X86A3T4-6    Lo Ni Wa           325 Wi
+Massive       0228 DA978T7-6                    B  603 Wi
+Hommonculus   0321 D596102-6    Lo Ni              204 Wi
+Renfrew       0322 D8678V7-7                    B  312 Wi
+Striped       0323 X4505P2-5    Ni Po De           304 Wi
+Smudge        0325 E2445T7-4    Ag Ni Hp           412 Wi
+Hummongus     0328 DA889WB-5    Hi              B  100 Wi
+Hue           0329 D4568WB-7    Hp                 110 Wi
+Arquiro       0429 D7B06RC-5    Ni De           B  811 Wi
+Renascence    0522 E7769VA-3    Hi In           B  112 Wi
+Aureal        0523 D4793M4-6    Lo Ni Hp           504 Wi
+Port Arthur   0621 X662101-8    Lo Ni              200 Wi
+Taniaustralis 0622 DA697R8-8                    B  623 Wi
+Boreal        0623 X330000-0    Ba Po De           005 Un
+Tigr          0626 D8C4AW8-8    Fl Hi           B  103 Wi
+Twilight Belts0725 X000000-0    Ba As              014 Un
+Tawny Belt    0727 X000000-0    Ba As              002 Un
+Little Jove   0728 DAE58VE-5                    B  110 Wi
+Vitek         0822 X100000-0    Ba Va              003 Un
+Adobe         0823 X7657S8-1    Ag St           B  300 Wi
+Ravenwood     0824 C3836N5-3    C:0 Ni An       B  603 Wi
+Mannford      0828 X377102-0    Lo Ni Hp           210 Wi
+Spires        0829 X201000-0    Ba Va Ic           003 Un
+Cheyenne Wells0830 X230000-0    Ba Po De           013 Un

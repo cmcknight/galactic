@@ -1,0 +1,38 @@
+#--------1---------2---------3
+#PlanetName   Loc. Star(s)
+#----------   ---- --------
+@SUB-SECTOR: Ch'naar SECTOR: Core
+Siniir Sa     0931 
+Kis           0933 
+Geam          1033 
+Gur           1034 
+Madalagaa     1035 
+Nuukhish      1037 
+Maur Na       1038 
+Davla         1040 
+Aursis        1134 K1 V
+Kaamind       1140 
+Diam Kani     1232 
+Laap          1233 
+Iipgiir       1236 
+Miikuu Ar     1237 
+Iirbasur      1239 
+Lam           1240 
+Anshar        1334 
+Umkashuu      1335 M2 V
+Kuka          1336 
+Rid           1338 
+Saar          1431 
+Diirmuu       1434 
+Arvlesaaish   1436 
+Mishaa        1437 
+Minduun Sammad1440 
+Emsha I       1531 
+Zagi Uu       1533 
+Gid           1534 
+Shueshlar     1536 M3 III M3 D
+Uurme         1538 
+Dimanaam      1539 
+Reshi Uun     1633 
+Khasherliguu  1635 
+Malaaash      1638 

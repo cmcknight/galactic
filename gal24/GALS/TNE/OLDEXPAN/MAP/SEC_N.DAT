@@ -1,0 +1,26 @@
+@SUB-SECTOR: sec_n   SECTOR: oldexpan
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Ra            0931 E68659A-6    Lo Ni              204 RC     f
+Enkidu        0932 E510415-9    Lo Ni Cm           502 RC     f
+Spires        0936 E894789-2    Ag Ni              403 RC     f
+Baldur        1032 CAAA756-9  S Fl Wa              302 RC     f
+Zloga         1035 E430225-9    De Ni Po Lo Cm     704 RC     f
+Lucifer       1039 D474784-8    Ag                 332 RC     f
+Bestor        1131 X110000-0    Ba                 004 Un
+Shenandoah    1139 C585423-6  S Lo Ni              804 RC     f
+Helios        1234 E648243-4    Lo Ni              710 RC     m
+Oriflamme     1235 B846857-9  S                    803 RC     f
+Corrig        1331 X622000-0    Ba Po              003 Un
+L'steich      1333 X9A4000-0    Fl Ba              014 Un
+Spencer       1338 D89A568-7  C Ni Wa              411 RC     f
+Kal           1339 D778452-7    Lo Ni              402 Na
+Nex           1431 X5547RA-6    Ag                 913 Wi
+Junak         1432 X6717RC-3                    B  803 Wi
+Teldora       1437 D5548VC-9                       203 Wi
+Sarid         1532 X000000-0    As Ba              004 Un
+Coast         1540 X400000-0    Ba Va              013 Un
+Nimz          1633 X222000-0    Ba                 000 Un
+Tuer          1636 X8C2000-0  T Fl Ba              013 Un

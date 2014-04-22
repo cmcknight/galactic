@@ -1,0 +1,61 @@
+@SUB-SECTOR: sec_F   SECTOR: beyond.sec
+#
+# Trade routes within the subsector
+$1311 1511 0 0
+$1311 1112 0 0
+$1511 1612 0 0
+$1612 1812 1 0
+$1612 1613 0 0
+$1112 1113 0 0
+$1113 1115 0 0
+$1115 1215 0 0
+$1215 1316 0 0
+$1316 1415 0 0
+$1316 1318 0 0
+$1318 1418 0 0
+$1418 1518 0 0
+$1518 1517 0 0
+$1418 1419 0 0
+$1419 1420 0 0
+$1420 1522 0 1
+$0915 0916 0 0
+$0915 0815 -1 0
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Ashiski'      0915 B6A2A65-7  S                    3   Na
+Epsilon Centre0916 B563AC9-9                       3   Na
+Kitenithwa    0918 B455134-6    Ni                 5   Na
+Angkor Wat    0920 E312775-4    Na                 3   Na     f
+Tinzhy        1011 C210200-C    Na Ni              4   Na
+Shadows       1013 E8A3AC9-8                       1   Na
+Fleche        1014 D3438A9-2  S Po                 5   Na
+Fischer       1016 X400679-1    Na Ni           R  2   Na
+Ye'anogh'sha  1020 B310999-9    Na In           A  8   Na
+Wasichu       1112 B334754-A  N                    6   Na     f
+Nialinwe      1113 AA7A8A9-5  T Na              A  7   Na
+Pointe d'Arret1115 C200873-5    Na                 9   Na
+Flare         1116 C341658-7    Ni Po              3   Na     f
+De'ne'tah     1118 E400336-7    Ni                 5   Na     f
+La Rochefouc. 1119 E223555-8    Ni Po              1   Na     f
+Shekerleb     1215 A200798-B    Na                 6   Na
+Nyle'n'lancy  1311 A130621-A  N Na Ni Po           4   Na
+Delta Centre  1316 A96462A-G    Ag Ni           R  9   Na     f
+Kittet'thoui  1318 B9C3376-A  2 Ni                 2   Na
+Mesawmi       1414 CAA3623-9    Ni                 9   Na     f
+Miskahmiqui   1415 A977AB9-F    Na In Ca           6   Na     f
+Quiatenon     1416 D67A6B8-6    Na Ni              4   Es
+Kitengate     1418 B2438A6-B  N Po                 2   Na
+Nuit Noir     1419 D776788-4    Ag                 5   Na     f
+Le Havre      1420 B795436-7  M Ni                 2   Na
+Starved Rock  1511 B300300-B    Ni              R  9   Na     f
+Modoc         1515 D500122-7    Ni                 2   Na     f
+Zterpyll      1516 D675789-2    Ag                 1   Na     f
+Chichen Itza  1517 B534556-A    Ni                 4   Na
+Opawaka       1518 A000550-7  S Na Ni              5   Na
+Alwameke      1520 CA7A445-9    Na Ni              9   Na
+Te'pe'wa      1612 A100370-D    Na Ni              5   Na
+Idiot's Del.  1613 B658303-8    Na Ni              4   Na
+Hana          1617 E560486-3    Ni              A  8   Na     f
+Rosebud       1618 D657677-1    Ag Ni              8   Na     f

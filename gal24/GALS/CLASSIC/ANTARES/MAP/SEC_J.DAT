@@ -1,0 +1,55 @@
+@SUB-SECTOR: Urnadnim   SECTOR: Antares
+#
+# Trade routes within the subsector
+#
+$1624 1822 1 0 11
+$1624 1323 0 0 11
+$1624 1527 0 0 11
+$1527 1329 0 0 11
+$1329 1029 0 0 11
+$1029 0627 -1 0 11
+$1329 1231 0 1 11
+$1323 1121 0 0 11
+$1121 1019 0 -1 11
+$1323 1420 0 -1 11
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Nagiigush     0921 C352674-A  S Ni Po              903 Im
+Er            0924 D74A578-8  S Ni Wa              800 Im 
+Mumir         0929 D57A768-6    Wa                 723 Im 
+Thanny        1023 D4367BA-6  S                    712 Im 
+Tonn          1027 B36089D-8    Ri De              603 Im 
+Daras         1029 C58268A-9  S Ni Ri              314 Im 
+Kiwhi         1121 C301231-B    Lo Ni Va Ic        604 Im 
+Erushkhu      1122 D686023-2    Lo Ni              813 Im 
+Niynpe        1125 D686473-7    Ni                 423 Im 
+Lakiaas       1127 E00048A-B    Ni As              500 Im 
+Ligyrny       1129 D586746-7  S Ag Ri              624 Im 
+Khishi        1130 C372768-8  S                    914 Im 
+Sirusarage    1221 C200586-C    Ni Va              615 Im 
+Am            1222 BAD1348-9    Lo Ni Fl           500 Im 
+Tolltfe       1225 E98A869-6    Ri Wa              711 Im 
+Inlerthiod    1226 E682343-5    Lo Ni              302 Im 
+Ishmaga       1228 CAD357B-B  S Ni Fl              404 Im 
+Girgur        1321 D437583-6  S Ni                 604 Im 
+Kjoytvae      1323 A6566A5-D  N Ag Ni              704 Im 
+Sloyd         1324 B263301-A  N Lo Ni              720 Im 
+Emumgaa       1328 B89A543-8    Ni Wa              805 Im 
+Swahea        1329 B98A579-8  A Ni Wa              903 Im 
+Niwse         1424 A110879-B    Na                 501 Im
+Alreru        1425 B667758-B    Ag Ri              101 Im 
+Avuzatudh     1427 C977377-5  S Lo Ni           A  404 Im 
+Ra            1428 E2658A8-4                       603 Im 
+Rirsensve     1521 E220544-7    Ni Po De           503 Im 
+Rae           1523 C66A887-7  S Ri Wa              204 Im 
+Warshemtha    1525 X561898-1    Ri              R  724 Im 
+Ishiishala    1527 A465436-E  N Ni                 102 Im 
+Ug            1528 B677457-8    Ni                 705 Im 
+Tenkaly       1529 D210300-7  S Lo Ni              202 Im 
+Hasnotka      1530 E77A5AA-4    Ni Wa           A  901 Im 
+Thywyni       1624 BAD7561-B    Ni Fl              604 Im 
+Squire        1625 C490ACA-E    Hi In De           410 Im 
+Elrorersk     1627 D474344-8    Lo Ni              703 Im 
+Kua           1628 C515524-9  S Ni Ic              301 Im 
+

@@ -1,0 +1,31 @@
+
+[Q] What was new in version 2.2 of the program?
+
+[A] Here were the contributions:
+
+  * Charles Collin contributed several alien names files for world
+    generation
+  * Dakin Burdick contributed the Magyar Sector
+  * Michel Boucher contributed the Beyond Sector & Vanguard Reaches
+    (these two sectors originally developed by Paranoia Press)
+  * Lewis Roberts updated his TNE galaxy, revising the Old Expanses and
+    adding Spica & Diaspora, also contributing a Classic version of the
+    Spica Sector (Spica data for both eras created by Leroy Guatney)
+  * Andrew Vallance contributed his Greater Magellanic Cloud galaxy as
+    well as the Ley Sector and Glimmerdrift Reaches (these two sectors
+    were originally developed by Judges Guild)
+
+Here were the new program features:
+
+  * Nearly all of the UWP stats separated into user-modifiable UWP.DAT
+  * Added non-world objects to map (see Variant-1:Gythios/Idhra subsector)
+  * Added insertion/deletion feature on the subsector map (use Ins/Del)
+  * Added world mapping feature (use F4 from the subsector map)
+  * Added data-strainer for PBeM-GMs (use F5 from sector or subsector maps)
+
+And were a few extras that were also included:
+
+  * Incorporated Traveller Copyright Archive v0.2 into help section
+  * Incorporated information on the Galactic Mailing List
+  * Included section2.exe (sector sectioner) in section2 directory
+

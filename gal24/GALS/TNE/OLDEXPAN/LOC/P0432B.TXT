@@ -1,0 +1,36 @@
+ 
+System Details
+
+Orbit     Name            UWP       Bases   Trade Codes     Pop  Alg
+Primary   Linette         M7 V
+  0       Olivia          SGG (UWP Size 50)
+     1    (ring system)   YR00000-0
+     6    George          YS00000-0         Ba Va
+  1       Phillipe        SGG (UWP Size 60)
+     5    Theresa         YS00000-0         Ba Va
+     8    Simon           YS00000-0         Ba Va
+    35    Adrian          D426112-9  S      Lo Ni Cm        3    CR
+  2       Sebastian       LGG (UWP Size 135)
+     2    (ring system)   YR00000-0
+     4    Richard         Y200000-0         Ba Va Ir        0    --
+     6    Gerard          YS00000-0         Ba Va
+     7    Jean-Pierre     YS00000-0         Ba Va
+    25    Evelyn          Y100000-0         Ba Va
+    40    Emile           Y100000-0         Ba Va
+
+Previous Data:
+
+Date      Name            UWP       Bases   Trade Codes     Pop
+(1120)    Adrian          A42667A-E  S      Ni              1
+          Richard         H20011B-D         Lo Ni Va Re     8
+(1129)    Adrian          C426684-9         Ni              1
+          Richard         Y200000-0         Ba Va Ir        0
+(1200)    Adrian          X426000-0         Ba              0
+          Richard         Y200000-0         Ba Va Ir        0
+
+Notes:
+
+(Trade Codes): Ir: Imperial ruins.  Re: Research lab.
+(Allegiances): CR: Client-state of the Reformation Coalition.
+
+Note: Adrian was in a Frontier/War Zone during the Hard Times.

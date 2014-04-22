@@ -1,0 +1,32 @@
+@SUB-SECTOR: sec_H   SECTOR: emptyq
+#
+# Trade routes within the subsector
+#
+$3012 2810 0 -1
+$3012 3116 0 0
+$3116 0316 1 0
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Nagercoil     2511 C440562-8    De Ni Po O:2412    104 Hl
+Stokebury     2516 C2356A7-7    Ni Ex              514 Hl
+Tsangpo       2612 B7B0547-6    De Ni              502 Hl
+Catagno       2615 D7A016A-7    De Lo Ni           805 Hl
+Ruins         2618 X415000-0    Ba Ic Lo Ni        004 Na     f
+Redring       2816 E000248-8    As Lo Ni        A  510 Hl     f
+Nura Dhapuri  2817 D3135A7-8    Ni                 214 Hl
+Andria        2911 E000000-0    Ba As           A  012 Hl
+Lily          2913 C3418AB-5    Po Sw           A  903 Hl
+Cannae        2914 D89A79C-6    Wa                 403 Hl
+Al Ubayyid    2919 B7796BG-8    Ni                 203 Hl
+Shimonoseki   3012 B663400-B    Lo Ni D:3          304 Na
+Usa           3020 CAB0110-8    De Lo Ni           200 Hl
+Manaung Kyun  3112 B33389A-B    Na Po              703 Hl
+NISAGA        3116 A6699CH-B    Ri Hi Cp        A  410 Hl
+Hakata        3117 BAC0568-A    De Ni O:3116       502 Hl
+Crag          3211 C6686BB-6    Ag Ni              820 Hl
+Mae Hung Son  3212 C9A0203-9    De Lo Ni           701 Hl
+Dazaifu       3216 C9A0612-6    De Ni              614 Hl
+Coreward      3219 C33157B-9    Lo Ni Po        R  700 Hl
+

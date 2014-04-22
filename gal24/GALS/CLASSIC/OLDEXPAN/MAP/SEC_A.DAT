@@ -1,0 +1,32 @@
+@SUB-SECTOR: sec_A   SECTOR: oldexpan
+#
+# Trade routes within the subsector
+$0201 0302 0 0
+$0302 0304 0 0
+$0304 0204 0 0
+$0302 0403 0 0
+$0606 0607 0 0
+$0109 0310 0 0
+$0310 0311 0 1
+$0109 0108 0 0
+$0108 3207 -1 0
+$0204 3204 -1 0
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Croesus       0108 C230675-9  S De Na Ni Po     A  804 Im
+Datarkt       0109 C433AD9-7    Hi Na Po        R  404 Im
+Elyan         0201 B752855-B  A Po              A  402 Im
+Thubria       0204 C112234-B  S Ic Lo Ni           500 Im
+Larmix        0209 C787878-5  S Ri                 404 Im
+Bincia        0302 B598652-9  A Ag Ni           A  315 Im
+Kri           0304 B646459-C    Ni              A  902 Im
+Diacy         0306 E667A74-9    Hi                 702 Im
+Styge         0310 D655699-6    Ag Ni              613 Im
+Dethenes      0403 AA89A44-G    Hi              A  730 Im
+Larspri       0408 X1B1000-0    Ba Fl Lo Ni        400 Im
+Preodis       0508 E341856-6    Po                 204 Im
+Eupry         0603 C4448B6-6                       414 Im
+Linourice     0606 C521321-9  S Lo Ni Po        R  901 Im
+Inthra        0607 C422AD9-9  A Hi In Na Po     R  524 Im

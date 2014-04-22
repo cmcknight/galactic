@@ -1,0 +1,9 @@
+
+Thalia Subsector
+----------------
+
+	The Thalia subsector contains 26 systems with a total population of
+205.8279 billion. The highest populations are 78.2 billion at Khoastarl, 47.5
+billion at Thalia, 42.6 billion at Rangel, and 31.9 billion at Vilnius and 
+the highest tech level is E at Soafealeihai and Aikoutruaaii.
+

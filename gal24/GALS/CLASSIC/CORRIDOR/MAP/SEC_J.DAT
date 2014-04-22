@@ -1,0 +1,8 @@
+@SUB-SECTOR: sec_J   SECTOR: corridor
+#
+# Trade routes within the subsector
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Lasher        1430 B8C2100-8  J Lo Ni Fl           625 Na

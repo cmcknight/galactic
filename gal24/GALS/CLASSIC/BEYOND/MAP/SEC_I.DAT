@@ -1,0 +1,74 @@
+@SUB-SECTOR: sec_I   SECTOR: beyond.sec
+#
+# Trade routes within the subsector
+$0421 0222 0 0
+$0222 0122 0 0
+$0721 0722 0 0
+$0722 0723 0 0
+$0723 0824 0 0
+$0824 0825 0 0
+$0825 0925 1 0
+$0126 0225 0 0
+$0225 0425 0 0
+$0425 0526 0 0
+$0526 0528 0 0
+$0528 0329 0 0
+$0329 0228 0 0
+$0329 0330 0 0
+$0330 0430 0 0
+$0430 0630 0 0
+$0430 0332 0 1
+$0630 0530 0 0
+$0630 0531 0 1
+$0630 0830 0 0
+$0830 0729 0 0
+$0830 0828 0 0
+$0830 0731 0 1
+$0830 0732 0 1
+$0830 0831 0 1
+$0830 0931 1 1
+$0830 0932 1 1
+$0830 0929 1 0
+$0830 1029 1 0
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Rabanitas     0122 A869346-B  2 Ni Ca              7   Na     f
+Lyrehc        0124 E425934-8    In                 7   Na     f
+George Heap   0126 B558621-7    Na Ni              6   Na
+Station Two   0222 C534420-6    Ni                 8   Na     f
+Demimonde     0224 E405000-1                       0   Na     f
+Phoenix       0225 C666559-A  D Ag Ni              2   Na
+Dizurgo       0228 B000229-B  S Ni                 8   Na     f
+J'preall      0324 D6A4656-3    Ni                 2   Na
+D'Escrime     0325 E968010-3    Na                 0   Na
+Aros          0326 D8467AB-4    Ag                 9   Na
+Ufhlug        0327 C645214-6    Ni                 1   Na
+Six Mile Run  0329 B57A257-B    Ni                 1   Na     f
+Nur Jehan     0330 B332200-9    Ni Po              8   Na
+Farhaven      0421 B437762-7                       4   Na     f
+Za'Kass-K'Narr0422 D552315-3    Ni Po              5   Na
+Vale          0425 AAA8887-A  S                 A  2   Na     f
+Battelle      0430 A977AB9-F  I In                 2   Na     f
+Indian Catalan0524 X845200-2    Ni                 2   Na     f
+Nennemki Alag.0525 C647867-8  S Na                 1   Na     f
+Fairweather   0526 CACA367-C    Ni              A  7   Na     f
+Ouisahed      0528 B476643-9  T Ag Ni              5   Na
+Zydhnali      0530 B477348-8    Na Ni           R  6   Zc
+Baile Atha Cl.0621 E471345-8    Na Ni              2   Na     f
+Fortuitous    0624 D596201-5    Ni                 5   Na
+Zydanar       0629 E7A3543-5    Ni                 7   Zc
+Zydtompir     0630 A876677-A  N Ag Ni              7   Zc
+Xeres         0721 B364687-6    Ag Ni Ri           4   Na     f
+Cthonia       0723 B86A667-D    Ni Ri              9   Na     f
+Kermanshah    0724 E412556-5    Ni                 7   Na
+Zydchvyg      0729 CAA7875-7    Na                 1   Zc
+Zydllyla      0730 X894579-4  T Ag Ri           R  6   Zc
+Neth. Farquahr0821 X967641-1    Na Ni Ri        R  7   Na     f
+Drachenfels   0822 XAC8400-4    Ni              R  1   Dw     f
+Disengage     0824 A675423-B    Ni                 4   Na
+Abchandler    0825 A556522-D  M Ag Ni              4   Na
+Zydia Atropene0828 C538689-9    Na Ni              3   Zc
+Zydfalflan    0829 X327556-5  T Na Ni              9   Zc
+Zydar         0830 A9669D9-A  2 Ca                 8   Zc 111 f

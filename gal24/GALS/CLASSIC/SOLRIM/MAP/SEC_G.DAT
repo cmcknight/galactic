@@ -1,0 +1,43 @@
+@SUB-SECTOR: sec_G   SECTOR: sorted
+#
+# Trade routes within the subsector
+$2218 2517 1 0
+$2218 2121 0 1
+$1912 2010 0 -1
+$1912 1813 0 0
+$1813 1512 -1 0
+$1813 1814 0 0
+$1814 1717 0 0
+$1717 1418 -1 0
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Kasaan        1711 A785757-E    Ag Ri              120 Im
+Muan Gwi      1717 A456A86-F  B Hi An Cp           722 Ve
+Hsuilzish     1718 B678786-C    Ag                 705 Ve
+Vega          1720 A000786-E    Na As              320 Ve
+Wanish Tyo    1813 A630886-E    Na Po De           502 Ve
+Tsamis        1814 A547986-F    Hi In              513 Ve
+Muan Issler   1816 A354A86-F    Hi                 134 Ve
+Ashtagz Tyui  1818 C348786-E    Ag                 803 Ve
+Depot         1911 A00066D-F    Na Ni As           602 Im
+Galishgu      1912 B2227AF-C    Na Po              823 Im
+Asterr Tyui   1917 A666986-F    Hi                 813 Ve
+Merganser     1919 A942786-E    Po                 700 Ve
+Andiirish     2011 B000555-E    Ni As              802 Im
+Cathay        2012 A866ADC-E  N Hi                 325 Im
+Duikin Tyui   2015 A310886-E    Na                 523 Ve
+Hariksiat     2017 A349886-F                       220 Ve
+Sithuan Hsarr 2114 C8B6486-E    Ni Fl              403 Ve
+Dzadwahtyan   2118 A785786-E    Ag Ri              523 Ve
+Hsuarrdzan    2213 C000686-C    Na Ni As           420 Ve
+Muan Kwoyen   2218 A666986-F  N Hi                 312 Ve
+Menelaus      2312 A8659CB-9    Hi                 203 Im
+Shulgiasu     2319 A758986-F    Hi                 822 Im
+Surt          2411 A521998-E  N Hi Na In Po        304 Im
+Isseydo       2414 C248846-C                       823 Im
+Shani         2415 X412553-8    Ni Ic           R  205 Im
+Khalikkam     2418 B610664-C    Na Ni              304 Im
+Zayeel        2419 C4338A7-7    Na Po              101 Im
+Arrukir       2420 B59A779-A    Wa                 500 Im

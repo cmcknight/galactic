@@ -1,0 +1,43 @@
+Lishun Sector
+
+A: Vakkuun                   sec_a.dat
+B: Adawi                     sec_b.dat
+C: Sotri                     sec_c.dat
+D: Criideu                   sec_d.dat
+E: Pryden                    sec_e.dat
+F: Masionia                  sec_f.dat
+G: Gama                      sec_g.dat
+H: Tephany                   sec_h.dat
+I: Shuna                     sec_i.dat
+J: Taccis                    sec_j.dat
+K: Simen                     sec_k.dat
+L: Ot Zell                   sec_l.dat
+M: Shuun                     sec_m.dat
+N: Welling                   sec_n.dat
+O: Strashna                  sec_o.dat
+P: Mirmida                   sec_p.dat
+
+Bases:
+N = Naval Base
+S = Scout Base
+A = Navy & Scout Bases
+C = Corsair Base
+G = Naval Base
+H = Naval & Corsair Bases
+M = Military Base
+  = None
+
+Allegiance:
+12 St = Strephon's Worlds
+07 Na = Non-aligned
+04 Cs = Client State
+11 Rv = Restored Vilani Empire
+09 Va = Vargr (independant)
+02 Li = Lucan's Imperium
+03 Cv = Unknown (Cv)
+10 La = League of Antares
+06 V1 = Vargr (First Fleet of Dzo)
+05 V8 = Vargr (Council of the Four-Pair)
+13 Vv = Vargr (Voekhaeb Society)
+14 Vx = Vargr (Antares Pact)
+08    = Unknown

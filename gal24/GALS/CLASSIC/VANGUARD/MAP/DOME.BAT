@@ -1,0 +1,16 @@
+vi sec_a.dat
+vi sec_b.dat
+vi sec_c.dat
+vi sec_d.dat
+vi sec_e.dat
+vi sec_f.dat
+vi sec_g.dat
+vi sec_h.dat
+vi sec_i.dat
+vi sec_j.dat
+vi sec_k.dat
+vi sec_l.dat
+vi sec_m.dat
+vi sec_n.dat
+vi sec_o.dat
+vi sec_p.dat

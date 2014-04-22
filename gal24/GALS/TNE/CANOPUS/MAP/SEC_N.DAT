@@ -1,0 +1,35 @@
+@SUB-SECTOR: sec_N   SECTOR: canopusc
+#
+# Trade routes within the subsector
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Wier          0932 X523000-0    Ba                 024 --
+Vladimeer     0933 X100000-0    Ba Va              002 --
+Chauncey      0935 E848454-6    Ag Lo Ni           223 Wi
+Dubhloach     0938 D35058B-3    De Lo Ni Po     B  102 Wi
+Hicks         1031 X000000-0    As Ba Va           002 --
+Gertrut       1035 D252752-6    Po                 102 Wi
+Trita         1036 X66396D-2    Hi              B  102 Wi
+Thorstan      1037 X765468-2    Ag Lo Ni        B  305 Wi
+Atte Lane     1132 X257345-4    Ag Lo Ni           013 Wi
+Joram         1136 X525000-0    Ba                 002 --
+Shelby        1140 D98A996-8    Hi Wa           B  220 Wi
+Poe           1238 X744000-0    Ag Ba           0  000 Wi
+Emil          1332 X73A000-0    Ba Wa              013 --
+Brie          1334 X322000-0    Ba                 000 --
+Darry         1335 X421000-0    Ba                 004 --
+Monica        1338 X100000-0    Ba Va              004 --
+Zinn          1339 X473821-5                       102 Wi
+Sparta        1438 D678366-2    Ag Lo Ni        B  305 Wi
+Doria         1440 X110000-0    Ba                 004 --
+D'aal         1532 XAD9304-4    Lo Ni              303 Wi
+Michelanglo   1535 B575656-4    Ni                 103 Wi
+Willlelmo     1536 E150446-7    De Lo Ni Po        204 Wi
+Tronge        1537 X96A235-6    Lo Ni Wa        B  304 Wi
+Avernus       1540 X220000-0    Ba De              020 --
+Eneas         1631 X526000-0    Ba                 000 --
+Krank         1632 X534000-0    Ba                 004 --
+Echule        1636 C564668-8  S Ni Ri              202 Wi
+Payne         1639 D542776-7    Po                 103 Wi

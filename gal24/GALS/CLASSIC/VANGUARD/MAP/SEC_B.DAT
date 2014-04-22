@@ -1,0 +1,39 @@
+@SUB-SECTOR: sec_B   SECTOR: vanguard
+#
+# Trade routes within the subsector
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Dakarron      0903 C344402-A  J Ni              G  413 Na
+Chazelles     0907 B334599-B    Ni              G  602 Na
+Iebrzhiab.    0908 A431869-A    Na Po     0910     824 Zh     f
+Shiebrkaldile 0910 B9C0599-B    Ni                 410 Zh
+Stusskerkriss 1004 E413305-A    Ic Lo Ni        H  523 Es
+Fyslegcylys   1005 C2005BF-A  J Ni Va           H  222 Es
+Turan         1102 C260441-8    De Ni           G  304 Na
+Jafossla      1105 X9B02BC-6  M De Lo Ni        H  421 Es
+Ynrogit       1106 C3387CD-9                    O  424 Es
+Thathyrfokat  1108 A3134CF-A    Ic Ni           O  324 Es
+Saant         1109 X4542AD-9    Lo Ni           O  124 Es
+Jassjachyl    1203 D2318DB-8    Na Po           O  420 Es
+Haarsyt       1204 C5697CC-9                    O  723 Es
+Cueyntros     1205 A6575CC-B    Ag Ni Pr        H  503 Es
+Thedrysheg    1209 C7584AF-8    Ni              O  222 Es
+Inhio         1210 D8B64CD-8    Fl Ni           O  121 Es
+Kahre's World 1302 C588379-9  J Lo Ni           A  402 Na
+Lucyntjarda   1303 C4426CF-7    Ni Po           O  522 Es
+Elliador      1307 A67A3DD-B  F Lo Ni Wa Cx Hw  O  724 Es
+STAYN FOKAF   1308 A325ADE-B    Hi In           O  121 Es     f
+Gyfetla       1309 X5114AF-A    Ic Ni           O  124 Es
+Cinhoss       1403 X8C06BF-2  M De Ni           H  620 Es
+Sovruat       1405 X738102-D    Lo Ni Re        O  721 Es
+Gyrkyn        1406 C1108CE-B    Na              O  921 Es
+Hakdisty      1408 B666101-8    Lo Ni           H  922 Es
+Viziruland    1501 E440520-6    De Ni Po        G  703 Na
+Lenris        1505 A4005BA-B  J Na Ni Va        H  220 Es
+Thyskyus      1506 B699501-B    Ni              H  324 Es
+Rynfi         1508 D375404-4    Ni              H  625 Es
+Jatsurkil     1510 D6565AB-7    Ag Ni Pr        H  720 Es
+Afhelydat     1604 X8C48AB-9    Fl              O  620 Es
+Jenfad Kryyt  1607 C6793AE-9    Lo Ni           O  603 Es

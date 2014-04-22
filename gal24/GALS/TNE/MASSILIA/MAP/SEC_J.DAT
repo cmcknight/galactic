@@ -1,0 +1,30 @@
+@SUB-SECTOR: sec_a   SECTOR: massilia
+#
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Selruke       0921 X3523M0-4    Ni Po Lo        B  513 Wi     f
+Rigaal        0928 E100367-8    Ni Lo Va           414 Gc     f
+Far Trinity   1025 E7676O1-6    Ni Ag Ri           601 Wi     f
+Hiponee       1027 A686674-B    Ni Ag Ri           221 Gc     f
+Dreva         1028 E300847-7    Va Na              210 Gc     f
+Lagna         1029 D110369-9    Ni Lo              531 Gc     f
+Strogy        1121 A425200-E  C Ni Lo              804 VC     f
+Elemza        1122 X100000-0    Va Ba              003 Un
+Stenardee     1130 E110261-8    Ni Lo              314 Gc     f
+Adep 5        1223 E4545Q4-6    Ni Ag              503 Wi     f
+Zetra         1321 X7A2000-0    Fl Ba              013 Un
+San Son       1322 X864300-5    Ni Lo              303 Wi     f
+Levatra       1325 X200000-0    Va Ba              003 Un
+Talow         1326 X7B0000-0    De Ba              002 Un
+Tlasov        1328 X100000-0    Va Ba              003 Un
+Prindee       1330 D443469-7    Ni Po O:1430       624 Gc     f
+Mag'Lphr      1424 X100000-0    Va Ba              003 Un
+Nindaro       1428 D9896WC-6    Ni                 300 Wi     f
+Shiwonee      1430 BA86841-A    Ni An Ri           333 Gc     f
+Lasiter       1522 X210000-0    Ba                 002 Un
+Thun          1524 X000000-0    As Ba              014 Un
+Revie         1621 C9788P8-8                       105 Wi     f
+Pohkrow       1629 X5685Q6-6    Ni Ag           B  202 Wi     f
+Bisks Planet  1630 X55A3M0-5    Wa Lo Ni           412 Wi     f

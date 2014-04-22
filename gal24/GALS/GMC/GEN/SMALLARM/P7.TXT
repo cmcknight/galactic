@@ -1,0 +1,32 @@
+p7 Snub Pistol
+
+The p7 pistol is the current issue Magellanic handgun. Accepted for service
+in 2342T, it is the first so called snub weapon to be standard issue with the
+Magellanic forces. The distinguishing feature of the p7 is its low velocity
+11.7mm caseless HEAP ammunition. This enables the weapon to have a good
+penetration without requiring normal high velocity rounds, however the
+resulting weapon and ammunition are very expensive and the earlier
+conventional p6 still remains in service for second line personnel. The p7 is
+capable of semiautomatic and 4 round burst fire; and is fitted with an
+intergral laser sight. The light HEAP projectile loses velocity extremely
+rapidly and the p7 is incapable of aimed fire beyond medium range, however
+the p7 does count as a low recoil weapon for zero-g environments. The p7 is
+not currently available on the civilian market.
+
+Weapon: p7 snub pistol
+Action: Blowback - singleshot, burst (4)
+Ignition: Electric
+Tech Level: 11
+Calibre: 11.7mm HEAP MSO caseless
+Penetration: 5
+Range: Very Short
+Malfunction: reliable
+Shots: 20
+Mass: 0.6kg
+Reloads: 0.07kg
+Length: 24.7cm
+Cost: Cr 860
+Incidentals: 20 rounds HEAP: Cr 60 (0.06kg)
+             4 hour rechargeable battery pack: Cr 1 (0.1kg)
+             16 hour disposable battery pack: Cr 0.5 (0.1kg)
+             empty 20 round magazine: Cr 30 (0.01kg)

@@ -1,0 +1,43 @@
+@SUB-SECTOR: sec_a   SECTOR: massilia
+#
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Forever       0134 X000000-0    As Ba              003 Un
+Kenbine       0138 X321000-0    Ba                 003 Un
+Sekeltin      0140 X633000-0    Ba                 001 Un
+Annari        0231 X9A2000-0    Ba Fl              032 Un
+Lumbian       0234 X100000-0    Ba Va              002 Un
+Inger         0235 X7947TB-3    Ag                 612 Wi
+Tencrux       0239 X553303-3    Lo Ni Po        B  424 Wi
+Sarabin       0240 X84A4RB-7    Lo Ni Wa           205 Wi
+Staalun       0331 X434000-0    Ba                 011 Un
+Gusson        0335 X5681N6-4    Lo Ni              221 Wi
+Ledstat       0336 X300000-0    Ba Va              014 Un
+Hunberri      0339 D8847UB-8    Ag Ri           B  104 Wi
+Pocker        0432 X338000-0    Ba                 003 Un
+Rigold        0434 X264000-2    Ba                 013 Un
+Dax           0436 X5658O6-4                    B  203 Wi
+Shanell       0437 X6958X9-7                       802 Wi
+Crater        0440 X300000-0    Ba Va              004 Un
+Hadie         0532 X6648R9-2    Ri              B  204 Wi
+Beeson        0534 X110000-0    Ba                 003 Un
+Firman        0536 X87A200-3    Lo Ni Wa        B  100 Wi
+Orichalc      0539 X78A9RA-9    Hi Wa              205 Wi
+Nilrebmah     0540 X8895TC-3    Ni                 414 Wi
+Plaacen       0631 X225000-0    Ba                 002 Un
+Monapoan      0632 X5624TB-8    Lo Ni              113 Wi
+Lumbine       0732 X200000-0    Ba Va              004 Un
+Crussel       0733 X4512M6-4    Lo Ni Po           223 Wi
+Sorrento      0734 C798679-9    Ag Ni              824 Na
+Block         0736 X5611M5-1    Lo Ni           B  200 Wi
+Teradd        0737 X6758S9-7                       202 Wi
+Rarderger     0738 X79A8WD-8    Wa                 113 Wi
+Kiggens       0739 X531000-0    Ba                 003 Un
+Matila        0740 X100000-0    Ba Va              002 Un
+Secorra       0834 X6987R9-6    Ag                 202 Wi
+Ryson         0836 X668301-6    Lo Ni              412 Wi
+Leam          0837 X110000-0    Ba                 022 Un
+Lowisa        0839 X100000-0    Ba Va              004 Un
+Kilarn        0840 X410000-0    Ba                 014 Un

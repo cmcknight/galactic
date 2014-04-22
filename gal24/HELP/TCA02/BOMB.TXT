@@ -1,0 +1,237 @@
+
+In October of '96, Joe Walsh began acting as Internet-liaison for
+Imperium Games. This is what he reported about their copyright policy.
+
+
+From: Joe Walsh <ransom@connect.iconnect.net>
+Date: Mon, 14 Oct 1996 17:16:58 -0500 (CDT)
+Subject: IG FAQ, 10/14/96
+
+Imperium Games FAQ                                        October 14, 1996
+
+Q.  What is IG's copyright policy in regards to original works posted to 
+the Traveller Mailing List, WWW sites, and/or Usenet?
+
+A.  Just include "Traveller is a Registered Trademark of FarFuture 
+Enterprises.  Copyright (c) 1996" in the document, and IG will be fine 
+with it.  Be aware that this makes your work the property of FFE, though.
+
+Q.  Is there any way around this?
+
+A.  Yes.  Don't mention Traveller in your article, and don't pull 
+material from any Traveller product.  Say it is an article for use with 
+science fiction RPG's, and keep it generic.
+
+Q.  What is the policy regarding copying previously published works by 
+GDW or IG to the internet?
+
+A.  You have to get written permission from Marc Miller in order to 
+legally do so.  He holds all the copyrights on all such material.
+
+
+From: Jim Vassilakos <jimv>
+Subject: IG's New Copyright Policy
+To: traveller@NS.MPGN.COM
+Date: Mon, 14 Oct 1996 22:54:59 -0700 (PDT)
+
+Joe Walsh reports IG's copyright policy: 
+>Q.  What is IG's copyright policy in regards to original works posted to 
+>the Traveller Mailing List, WWW sites, and/or Usenet?
+>
+>A.  Just include "Traveller is a Registered Trademark of FarFuture 
+>Enterprises.  Copyright (c) 1996" in the document, and IG will be fine 
+>with it.  Be aware that this makes your work the property of FFE, though.
+
+Man, I sure hope this is some sort of misunderstanding.
+
+Peter Miller writes:
+> Which means they can use any material I place on my web site WITHOUT paying
+> me?  I hope not.  Seriously though, am I right in my interpretation of this
+> writing.  Say I put a starship up on my page (using T4 rules), and have the
+> proper copyright information on it.  This means that IG can come along and
+> use it for whatever they want, because they own it?
+
+Not only does it mean that. It seems, at least by interpretation, to mean
+that if IG decides at some later date that they no longer want your
+starship designs on the web, they can effectively shut you down. By
+agreeing to this policy now, you would be sacrificing all rights to your
+own designs.
+ 
+"athol-brose" <cinnamon@one.net> (r.n. dominick) writes:
+> Woah, woah. This is NOT what the legal contact at Imperium Games told me
+> when I asked exactly what I needed to put on my web pages to make them
+> kosher. The only text on my page
+> (http://w3.one.net/~cinnamon/traveller.html) is this:
+> Traveller is a registered trademark of FarFuture Enterprises. All rights
+> reserved.
+
+Looks like the policy just changed.
+
+> I can see Imperium Games wanting this, and also wanting you to copyright
+> your *own* pages (which is not a bad idea in and of itself) so that someone
+> cannot come along and reprint them. The statement above just reinforces
+> FarFuture's trademark status on Traveller.
+
+Unless there is some form of miscommunication going on, which I *really*
+hope is the case, it sounds to me like somebody at Imperium Games just
+pulled a T$R. IMHO, this totally changes the relationship IG had with the
+TML and with the fanzines and Traveller-enthusiasts everywhere. Joe, can
+we get some sort of explanation for this? Is there perhaps some sort of
+error?
+
+Just to stick my neck onto the chopping block, here's the sort of
+disclaimer that I could understand:
+
+  "Traveller is a registered trademark of FarFuture Enterprises (FFE).
+  Use of this trademark or of any material copyrighted by FFE is not
+  to be interpreted as a claim on such material. This work is to be
+  considered "unofficial" and FFE cannot be held liable for damages,
+  material or otherwise, resulting from its use. This work is
+  copyright 1996 (author's name). All rights reserved, except that
+  FFE may draw on this work in any fashion they deem appropriate."
+
+This reason I include the last sentence is just for IG's own protection,
+as it is possible that by pure coincidence, IG might publish something
+fairly similar to something a fan writes, and this line would protect
+them from the fan suing (not that I could envision this ever happening,
+but it pays to cover your aft-quarters every now and then). Of course,
+the fan would have to rely on IG's sense of "rightness" to not publish
+their work wholesale without compensation, but I don't see this as a
+problem. Some people (like myself) might not even want compensation,
+and might amend the last sentence to read: "All rights reserved, except
+that FFE is invited to draw on this work or even republish it without
+requesting permission."
+
+In writing all this, of course, I'm operating on the possibly-erroneous
+assumption that Marc Miller isn't fixated on pulling a T$R. If he is, and
+this advice is unwelcome, then Marc/Joe/somebody... please let us know so
+that we can each make the personal decision about whether or not we, as
+individual Traveller-fans, are willing to put up with this sort of
+treatment. For myself, I have certain obligations to people who have
+contributed material to the next version of "Galactic", but after that,
+I can't really see myself staying involved with Traveller unless this new
+policy of IG's is substantially amended.
+
+
+From: Joe Walsh <ransom@connect.iconnect.net>
+Date: Tue, 15 Oct 1996 08:34:55 -0500 (CDT)
+Subject: Re: IG's New Copyright Policy
+
+On Mon, 14 Oct 1996, Jim Vassilakos wrote:
+> Joe Walsh reports IG's copyright policy: 
+> >Q.  What is IG's copyright policy in regards to original works posted to 
+> >the Traveller Mailing List, WWW sites, and/or Usenet?
+> >
+> >A.  Just include "Traveller is a Registered Trademark of FarFuture 
+> >Enterprises.  Copyright (c) 1996" in the document, and IG will be fine 
+> >with it.  Be aware that this makes your work the property of FFE, though.
+> 
+> Man, I sure hope this is some sort of misunderstanding.
+
+Jim,
+
+I was asked to clarify IG's official copyright policy, so I put that in 
+my notes and asked Ken that question, along with many others, yesterday.  
+Here is the fragment of our conversation that relates to this issue:
+
+Joe: "What is IG's copyright policy vis a vis TML/Web/UseNET-published 
+materials for traveller, regarding: 1) original works, and 2) copyrighted 
+works."
+
+Ken:  "What do you mean by original works?"
+
+Joe:  "Stuff that people make up on their own, like new equipment, new 
+rules, etc."
+
+Ken:  "Well, as long as they put 'Traveller is a registered trademark of 
+FarFuture Enterprises.  Copyright (c) 1996' in there, there's no problem."
+
+Joe:  "So that means that, technically, all such works are the property 
+of FFE...?"
+
+Ken:  "Yeah.  We've been lax in our enforcement of this requirement, but 
+we really have to be more careful.  FFE could lose its Trademark.  But, 
+we don't want to anger the fans."
+
+Joe:  "It's a thorny issue.  So, what about copied works - copies of GDW 
+or IG published works, such as deck plans, and...."
+
+Ken:  "They'll have to get a Letter of Permission from FarFuture 
+Enterprises.  Marc owns the copyrights on all that stuff. But
+there's a way around that.  As long as they don't say it is 'For
+Use with Traveller,' or 'Approved for Use with Traveller,' but
+instead say, 'For use with science fiction RPG's' they don't have
+to put the Trademark notice or the copyright notice."
+
+So, again, I wasn't flying solo on those two Q's in the FAQ.  That's 
+straight from Ken to you.
+
+But, my personal opinion is that there's nothing to get excited about.  I 
+personally don't see IG publishing people's stuff without their 
+permission, or stepping in and shutting people's web sites down.  That 
+would be extremely bad P.R., and would almost certainly not be worth it.  
+
+IG is here to make games, and that's what they're focused on, now more than 
+ever.  And, heck, at least one of you has posted a message from Marc 
+Miller granting permission to post certain copyrighted GDW materials on the 
+Web.  I don't see them being tight about this.
+
+Perhaps I shouldn't have asked that follow-up question about the work 
+being technically FFE's property.  It's just that that was what Ken's 
+inclusion of the copyright statement seemed to imply, and I wanted to 
+clarify it.
+
+
+From: Joe Walsh <ransom@connect.iconnect.net>
+Date: Tue, 15 Oct 1996 09:42:18 -0500 (CDT)
+Subject: FAQ Errata?
+
+Here's a revised version of the controversial section of the FAQ.  
+Perhaps this will clarify things.  Until I hear otherwise from Marc 
+Miller, this is how I'll keep it.  (Changes are noted in all-caps).
+
+Q.  What is IG's copyright policy in regards to original works posted to 
+the Traveller Mailing List, WWW sites, and/or Usenet?
+
+A.  Just include "Traveller is a Registered Trademark of FarFuture 
+Enterprises.  Copyright (c) 1996" in the document, and IG will be fine 
+with it.  Be aware that this makes your work the property of FFE, 
+though.  ALTERNATIVELY, IF YOU HAVE A LETTER OF PERMISSION FROM FFE, THE 
+WORK WILL REMAIN YOUR OWN (ALTHOUGH YOU WILL STILL HAVE TO NOTE THE 
+TRADEMARK).
+
+
+From: FarFuture@aol.com
+Date: Tue, 15 Oct 1996 11:40:09 -0400
+Subject: Re: IG's New Copyright Policy
+
+In a message dated 96-10-15 02:22:19 EDT, you write:
+> In writing all this, of course, I'm operating on the possibly-erroneous
+> assumption that Marc Miller isn't fixated on pulling a T$R. If he is, and
+> this advice is unwelcome, then Marc/Joe/somebody... please let us know so
+> that we can each make the personal decision about whether or not we, as
+> individual Traveller-fans, are willing to put up with this sort of
+> treatment. For myself, I have certain obligations to people who have
+> contributed material to the next version of "Galactic", but after that,
+> I can't really see myself staying involved with Traveller unless this new
+> policy of IG's is substantially amended.
+
+It is not (nor will it be) my intention that I (Marc Miller, Far Future) or
+Imperium Games be able to steal your work. The purpose of the
+acknowledgements is to protect the Traveller trademarks and copyrights.
+
+Look at DGP (which is some of the best stuff done for Traveller). Their
+copyright notices included acknowledgements of the Traveller trademarks and
+copyrights. Some pieces say copyright GDW and DGP. Now in order to use the
+material (since their original license has expired) they need permission. AND
+I can use their material in the sense that I can refer to their materials
+when I (or Imperium writes new stuff). Which makes sense, since otherwise,
+their participation in the universe would be totally disallowed (ie. you
+asked about the Geonee, they were in TD 11, so what was said there would now
+be NOT true).
+
+But no one (at FFE or IG) is going to come along and download your materials
+and print it or publish it.
+
+Marc
+

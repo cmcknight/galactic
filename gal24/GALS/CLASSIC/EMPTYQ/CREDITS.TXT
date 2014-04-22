@@ -1,0 +1,13 @@
+
+Empty Quarter - Credits
+-----------------------
+
+The Empty Quarter UWP data along with a few of the world names were
+initially created by Digest Group Publications. Joe Fugate posted this
+data to GEnie in 1989. The Newts are from Aliens Archive and JTAS
+issues 3 & 11. Alvin Plummer (alvin.plummer@sheridanc.on.ca) developed
+the sector further in 1996, naming the rest of the worlds and adding
+the jump routes. Jeff Zeitlin (jeff.zeitlin@execnet.com) converted the
+sector to Galactic format in 1997, adding some planetary comments as
+well as the Beta Niobe Nebula.
+

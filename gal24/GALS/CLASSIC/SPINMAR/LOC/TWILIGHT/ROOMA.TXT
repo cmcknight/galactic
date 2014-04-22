@@ -1,0 +1,19 @@
+   
+      Room A
+      ------
+   
+   This is the entryway to the rest of the complex. There are doors on
+   the players' left, ahead and the airlock behind (remember no compass
+   directions on this planet). All three doors are heavily re-enforced.
+   There is a screwbot here on duty at all times (exception: it does go
+   into the air lock when the players arrive before the outer door
+   opens). The bot will hover in position doing nothing except as noted
+   below.
+   
+   Access to the left door is permitted by all at any time, although
+   psions have to make a dexterity check on 2D to come back through
+   without the door closing in their faces. The screwbot will attempt to
+   stun any psion who tries to go through the forward door, after
+   stunning the bot will carry the offender to one of the cells. Access
+   through the airlock is unrestricted.
+   

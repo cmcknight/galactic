@@ -1,0 +1,28 @@
+@dir=gals\var1\gythios\map
+@Light Yellow
+
+Gythios Sector / Data Files
+
+@Light Cyan
+      Sector Data                    @..\gythios.dat
+      Sector Generation              @..\generate.dat
+
+@Light Green
+      Subsector Data
+@Light Cyan
+       A: Petrina                    @a.dat
+       B: Helenos                    @b.dat
+       C: Stavrula                   @c.dat
+       D: Argyris                    @d.dat
+       E: Petrula                    @e.dat
+       F: Antigone                   @f.dat
+       G: Draco                      @g.dat
+       H: Corinth                    @h.dat
+       I: Gythios                    @i.dat
+       J: Salamis                    @j.dat
+       K: Maria                      @k.dat
+       L: Kristos                    @l.dat
+       M: Thrace                     @m.dat
+       N: Attica                     @n.dat
+       O: Ionia                      @o.dat
+       P: Idhra                      @p.dat

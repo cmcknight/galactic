@@ -1,0 +1,58 @@
+@SUB-SECTOR: sec_H   SECTOR: trojan
+#
+# Trade routes within the subsector
+$2513 2314 -1 0
+$2515 2314 -1 0
+$2515 2813 0 0
+$2813 2912 0 0
+$2813 3013 0 0
+$3013 3212 0 0
+$2614 2916 0 0
+$2916 2918 0 0
+$2918 3117 0 0
+$2918 3119 0 0
+$2918 2819 0 0
+$3117 3215 0 0
+$2819 2820 0 0
+$2820 2621 0 1
+$2520 2621 0 1
+$2520 2421 -1 1
+$3117 0118 1 0
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Pryme         2513 B48668B-9    Ag Ni Ri           305 As
+Nekrino       2515 A788400-C    Ni                 914 As
+Boulder       2517 D100758-9    Va Na              330 As
+Exocet        2520 A574126-8    Ni Lo              203 As
+Intelia       2612 C474653-6    Ag Ni              704 As
+Gor           2614 C868677-3    Ag Ni Ri           403 As
+Scaladon      2616 AAD98DK-A    Fl              A  600 As
+Empire        2711 B679334-C    Ni Lo              503 As
+Hradus        2714 B54699B-7    In Hi              223 As
+Hexx          2715 B78A577-D    Ni Wa              314 As
+Iilgan        2719 C467787-8    Ag Ri              812 As
+Saurus        2813 A350543-B    De Ni Po           512 As
+971-852       2814 E78A000-0    Ba Lo Ni Wa     A  004 As
+Ardasii       2815 B650684-9    Ni De Po           110 As
+Wildeman      2819 B201674-C    Ic Na Ni Va        402 As
+Pandora       2820 B878313-B    Ni Lo              401 As
+Darchona      2912 B49A742-A    Wa                 533 As
+Sabruse       2915 EAC8343-8    Fl Lo Ni Rs        220 As
+Imisaa        2916 B520867-6    Na Po De           113 As
+Fist          2918 B789430-C    Ni                 313 As
+Dimorus       3011 D300755-4    Na Va              600 As
+Our Planet    3012 B687100-A    Ni Lo              314 As
+Ayldem        3013 A7407X4-D    Po De           A  804 Dr
+Pichot        3015 E546330-3    Ni Lo              123 As
+New           3016 D66668A-5    Ri Ni Ag           503 As
+Khaliki       3111 D11156B-9    Ic Ni Pr           215 As
+Simok         3113 DAA08CC-5    De                 701 As
+Attee         3116 C7529AE-4    Po Hi              404 As
+Eshadi        3117 B431358-E    Ni Po Lo           311 As
+New Moscow    3119 B76779A-7    Ag Ri              513 As
+Berg          3212 A675542-B    Ag Ni              805 As
+Kedus         3213 D867400-3    Ni                 913 As
+Tobia         3215 A444A55-F    In Hi              203 As
+Batav         3219 B5A8764-A    Fl An              110 As

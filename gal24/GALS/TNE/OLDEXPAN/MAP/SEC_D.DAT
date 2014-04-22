@@ -1,0 +1,33 @@
+@SUB-SECTOR: sec_d   SECTOR: oldexpan
+#
+#--------1---------2---------3---------4---------5-----f----6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Arvid         0131 X9C7000-0    Ba Fl              025 Un
+Keipes        0132 X6778T4-6                       411 Wi
+Lamber        2502 X8756Q5-4    Ag Ni D:4       B  500 Wi
+Sonfeld       2510 X6AA000-0    Ba Fl Wa           003 Un
+Acrolund      2601 X7777VA-6    Ag              B  623 Wi
+Carmon        2602 X8988RC-2                    B  910 Wi
+Loydecal      2603 X2516R8-2    Ni Po              602 Wi
+Benson        2605 X201000-0    Ba Ic Va           004 Un
+Polluc        2607 X000000-0    Ba As              014 Un
+Gilway        2609 X8457RC-1    Ag              B  203 Wi
+Rannow        2704 X430000-0    Ba De Po           002 Un
+Daslon        2705 E876654-7    Ag Ni C:2          520 TV     f
+Rusco         2706 D64669C-6    Ag Ni D:3          323 TV     f
+Makan         2707 D66A584-5    Ni Wa              212 TV     f
+Nautz         2801 X8528VD-6    Po              B  101 Wi
+Caborn        2803 X733000-0    Ba Po              010 Un
+Dycarl        2806 C458785-8    Ag                 705 TV     f
+Zin           2807 X9BA000-0    Ba Fl Wa           002 Un
+Horejs        2907 E685410-3    Lo Ni C:1          322 TV     f
+Straker       2909 D5676R9-4    Ag Ni C:1          202 Wi
+Crowell       3003 D6787P5-8    Ag C:5             204 Wi
+Smales        3004 X5867N2-0    Ag C:9          B  603 Wi
+Voskl         3006 C843835-9 S  Po Cp              904 TV     f
+Staj          3102 X4404O2-4    De Lo Ni Po        100 Wi
+Engle         3204 XA578T6-8                    B  423 Wi
+Drakenwald    3206 X9AA000-0    Ba Fl Wa           000 Un
+Van Cleef     3209 X110000-0    Ba                 012 Un
+Crakatoa      0321 X0548RC-2                    B  524 Wi

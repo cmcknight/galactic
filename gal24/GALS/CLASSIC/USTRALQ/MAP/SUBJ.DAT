@@ -1,0 +1,50 @@
+@SUB-SECTOR: Ouateahaaorl SECTOR: Ustral Quadrant
+#
+$1030 0929 0 0 11
+$1030 1230 0 0 11
+$1230 1330 0 0 11
+$1330 1329 0 0 11
+$1329 1328 0 0 11
+$1330 1430 0 0 11
+$1030 0931 0 1 11
+$1430 1432 0 1 11
+$0921 0821 -1 0 10
+$0921 1020 0 -1 10
+$0923 0822 -1 0 10
+$1421 1322 0 0 10
+$0921 0923 0 0 10
+$0929 0830 -1 0 11
+$1430 1529 0 0 11
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Uwiy          0921 B3342G6-E    Lo Ni              901 As 
+Eakhisel      0923 A5538MB-D  R                    313 As  
+Eireahau      0925 C67357C-6    D5 Ni              404 Na 
+Yekhtawais    0926 E658798-5    Ag                 501 Na 
+Ileahea       0927 C511559-7  M Ic Ni              123 Na   
+WIA           0929 A5449KB-B  J Hi In              103 If  
+Ehkastei      1023 E6968K5-C                       813 As  
+Koeal         1027 D588344-3    Lo Ni              901 Na 
+Eilraiktearl  1028 B2326M8-A  J Ni Po              822 If 
+Hlaikai       1030 B3444H2-8  J Lo Ni              600 If 
+Ilaihaiwuahei 1123 C5A48J9-A    Fl                 313 As 
+Ifeih         1130 X2513M6-4    Lo Ni Po           801 If 
+Lihau         1221 C5858L6-E    Ri                 203 A9     
+OUATEAHAAORL  1226 B5519CB-9    C1 Hi Po           414 Na 
+Oil           1227 E574211-6    Lo Ni              202 Na 
+Folyukteaui   1228 D7B65H5-8    Fl Ni              935 If 
+Alei          1230 A6536M4-C  M D1 Ni Po           400 If 
+Kheaweseilr   1321 C6935K2-9  R Ni                 603 As 
+Eiwiyw        1322 B6755L8-9  T Ag Ni              503 A3     
+Ryehaiwyaw    1325 C6B0210-8  M De Lo Ni           420 Na 
+KIR           1328 D5359J7-8    Hi T4              500 If     f
+Stourea       1329 C3723K7-8    Lo Ni              920 If 
+Yealaoe       1330 A5343H9-C  J Lo Ni              403 If 
+Taoahaiw      1421 A4565KB-C  R Ag Ni              501 As    
+Yasesir       1430 B5658MB-9  J                    121 If 
+Oaakhil       1524 D33367B-7    Ni Po              804 Na 
+Ahakuaea      1525 C353159-A    Lo Ni Po           203 Na 
+Ea'eireiya    1529 A89A5J4-B    Ni Wa              600 If  
+Iystourarlua  1622 D6855J8-7  R Ag Ni              304 As  
+Hlasas        1627 D553126-6    Lo Ni Po           610 Na 

@@ -1,0 +1,19 @@
+@dir=gals\tne\vland\map\stars
+
+@Light Cyan
+       A: Voskhod                  @stars_a.dat
+       B: Vhodan                   @stars_b.dat
+       C: Anarsi                   @stars_c.dat
+       D: Theton                   @stars_d.dat
+       E: Lalaki Kharir            @stars_e.dat
+       F: Kagamira                 @stars_f.dat
+       G: Vland                    @stars_g.dat
+       H: Arshukaa Sagalaa         @stars_h.dat
+       I: Dusa                     @stars_i.dat
+       J: Apurshish                @stars_j.dat
+       K: Kasear                   @stars_k.dat
+       L: Thaggesh                 @stars_l.dat
+       M: Answerin                 @stars_m.dat
+       N: Isle                     @stars_n.dat
+       O: Istuary                  @stars_o.dat
+       P: Kalaalit                 @stars_p.dat

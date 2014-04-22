@@ -1,0 +1,52 @@
+
+[Q] Looking at the data file for the Sword Worlds subsector
+(swordwor.dat), I noticed the following:
+
+               # Trade routes within the subsector
+               $1329 0930 0 0
+               $1123 1221 0 0 14
+               $1221 1121 0 0 14
+               $1526 1824 1 0
+               $0930 0732 -1 1
+
+Obviously, these are jump routes, but can you tell me more what
+what's going on here?
+
+[A] The format for jump routes is as follows:
+
+ $(Parsec A) (Parsec B) (Horizontal Leap) (Vertical Leap) <Color>
+
+The first four values are required, while the last one is
+optional. For example, the first route you have in the list is
+"$1329 0930 0 0". This is pretty simple. It means, create a jump
+route from Caladbolg (at parsec 1329) to Flammarion (at parsec
+0930). Since both worlds are inside the subsector, leaping over
+to another subsector isn't necessary, so both the Horizontal Leap
+value and the Vertical Leap value are 0. Color, since it isn't
+specified, is assumed to be 11 (Light Cyan).
+   The Horizontal Leap value, instead of being 0, could have been
+-1 or 1. A -1 would tell the program to have the route leap into
+the subsector toward the left (west) side of the map. A value of
+1 would do the opposite, leaping the route to the right (east)
+side of the map. Likewise, the Vertical Leap Value, instead of
+being 0, could be -1 or 1. A -1 would tell the program to have
+the route leap upward (north), and a 1 would tell the program to
+have the route leap downward (south). Finally, the color could be
+any value between 0 and 15, but if you don't provide a value, the
+program assumes a default value of 11. Accepted color values are:
+
+ 00  Black    04  Red       08  Dark Grey     12  Light Red
+ 01  Blue     05  Magenta   09  Light Blue    13  Light Magenta
+ 02  Green    06  Brown     10  Light Green   14  Light Yellow
+ 03  Cyan     07  White     11  Light Cyan    15  Bright White
+
+   Having said all this, the best way to figure out how the jump
+routes work is to simply play around with them until you get a
+feel for the system. Incidentally, this system for expressing
+jump routes (minus the color value which is optional) was
+originally invented by Mark Cook for use in his X-Windows
+subsector viewer which he wrote many years ago. Cynthia
+Higginbotham used the same system for her subsector viewer, and
+not wanting to skirt a seemingly firmly established tradition,
+I'm using it here as well.
+

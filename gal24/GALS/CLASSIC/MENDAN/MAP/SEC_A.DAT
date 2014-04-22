@@ -1,0 +1,36 @@
+@SUB-SECTOR: sec_A   SECTOR: mendan.sec
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX f
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Dakinkhig     0107 C568502-8    Ag Ni              504 Va
+Aminkaa       0110 E244247-6    Lo Ni              333 Na
+Lakariir      0201 C520200-A    De Lo Ni Po        803 Na
+Dakash        0202 C66A58B-7  M Ni Wa              204 Na
+Eraashesh     0207 E110584-9    Ni                 600 Na
+Minirem       0210 C469010-9  M Lo Ni              803 Na
+Kinuurur      0305 C8C5454-7  M Fl Ni              124 Na
+Idiler        0308 C663100-8    Lo Ni              614 Na
+Geshamu       0309 C575110-8  M Lo Ni              822 Na
+Amamla        0402 C434988-9    Hi                 324 Zu
+Shaunoki      0403 B8CA699-B  M Fl Ni Wa           113 Zu
+Uerradz       0408 X887374-0    Lo Ni           R  805 Va
+Dukasaa       0502 C300530-9  M Ni Va              800 Zu
+Arurar        0505 X79A47A-3    Ni Wa           R  403 Zu
+Eshum         0508 C58A642-7    Ni Ri Wa           311 Zu
+Gogokae       0509 X587554-3    Ag Ni           R  404 Va
+Inurzir       0510 C777A7C-B  M Hi In              400 Ba
+Nushuni       0604 A697302-D    Lo Ni              224 Zu
+Usuur         0606 C320A51-C    De Hi In Na Po     325 Zu
+Kudiki        0609 C336669-8  M Ni                 900 Ba
+Ritchie       0702 C38768D-7    Ag Ni Ri C1        203 Zu
+Mumisli       0703 A88A663-A  J Ni Ri Wa Cp        600 Zu
+Athikamau     0706 B5757BA-9  M Ag                 603 Zu
+Shudarlu      0802 C320786-8    De Na Po           502 Zu
+Amirde        0805 C58A57A-A  M Ni Wa              104 Zu
+Niirse        0806 C687989-9  M Hi                 101 Zu
+Gabor         0808 B542688-7    Ni Po              303 Va

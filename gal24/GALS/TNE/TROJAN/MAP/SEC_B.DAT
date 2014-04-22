@@ -1,0 +1,25 @@
+@SUB-SECTOR: sec_B   SECTOR: trojan
+#
+# Trade routes within the subsector
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Walei         0902 E7B4776-8    Fl              B  811 Na
+Pa'an         0909 C649684-9    C:1 Ni Tp          713 Zh     f
+Gorgon        1005 B6906K4-E  R Ni De              504 As     f
+Belgard       1106 C3715KA-9    Ni                 902 As     f
+Velscur       1110 X374479-5    Lo Ni           B  902 Na     f
+Kaldamar      1201 E745562-7    Ag Ni Tp O:1202    203 Na
+Nabeth        1202 C326579-8  S Ni              B  923 Cs
+Waorl         1209 C7756JB-8    Ag Ni Tn           620 As     f
+Gollere       1305 C574865-8    Mr                 120 Cs     f
+Ganulf        1307 X200000-0    Ba Va              011 Na     f
+Eleson        1308 D4415H5-7  T Ni Po           B  623 As     f
+Selshor       1402 X330675-0    Na Ni Po De     B  113 Na
+Goria         1410 C2224G8-8    Lo Ni Po           200 As     f
+Carben        1502 X3555EB-6    Ag Ni           R  114 Na
+Ashley's Rock 1601 X100000-0    Ba Va              014 --
+T'yana        1602 D568752-7    Ag Ri              200 Na
+Vior          1605 X500000-0    Ba Va              001 --     f
+Braudel       1608 D5433J5-6    Lo Ni Po        A  703 As     f

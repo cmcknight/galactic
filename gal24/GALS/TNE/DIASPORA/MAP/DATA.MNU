@@ -1,0 +1,28 @@
+@dir=gals\tne\diaspora\map
+@Light Yellow
+
+Diaspora / Data Files
+
+@Light Cyan
+      Sector Data                  @..\diaspora.dat
+      Credits                      @..\credits.txt
+
+@Light Green
+      Subsector Data
+@Light Cyan
+       A: Narquel                  @sec_a.dat
+       B: Libert                   @sec_b.dat
+       C: Sufren                   @sec_c.dat
+       D: Khavle                   @sec_d.dat
+       E: Shadigi                  @sec_e.dat
+       F: Kushga                   @sec_f.dat
+       G: Alurza                   @sec_g.dat
+       H: Pasdaruu                 @sec_h.dat
+       I: Ebasha                   @sec_i.dat
+       J: Iusea                    @sec_j.dat
+       K: The Blight               @sec_k.dat
+       L: Promise                  @sec_l.dat
+       M: Hijiri                   @sec_m.dat
+       N: Shumisdi                 @sec_n.dat
+       O: Madoc                    @sec_o.dat
+       P: Khulam                   @sec_p.dat

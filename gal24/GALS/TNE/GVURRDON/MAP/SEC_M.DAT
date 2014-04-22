@@ -1,0 +1,48 @@
+@SUB-SECTOR: sec_M   SECTOR: gvurrdon
+#
+# Trade routes within the subsector
+#
+$0639 0939 1 0 2
+$0339 0439 0 0 3
+$0439 0639 0 0 3
+$0639 0939 1 0 3
+$0639 0939 1 0 14
+$0639 0439 0 0 9
+$0439 0339 0 0 9
+$0438 0337 0 0 4
+$0337 0433 0 0 4
+$0433 0634 0 0 4
+$0433 0232 0 0 4
+$0232 0329 0 -1 4
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Satlpenzh     0131 B657586-B    Ag Ni              205 Zh
+Chench        0137 D559426-3    Ni                 214 Zh
+Tseezh        0231 B000762-B    Na As              811 Zh
+Jdiprqrafr    0232 B100A99-C  Z Hi Na In Va        923 Zh
+Yied          0233 B43677B-C                       721 Zh
+Pliploranshich0235 B626611-7    Ni                 825 Zh
+Tlrt          0239 B698542-B    Ag Ni An           803 Zh
+Astanch       0240 A341410-E    Ni Po              301 Zh
+Blienzkats    0334 B465110-9    Lo Ni              401 Zh
+Vriaajets     0337 B583554-A  Z Ni                 801 Zh
+Diekech       0339 B334579-C    Ni                 115 Zh
+Onsansh       0433 B677732-5  Z Ag                 221 Zh
+Odliadr       0438 D7A7655-6    Ni Fl              610 Zh
+Aek Elakfough 0439 A000412-G    Lo Ni As           220 Va     f
+Oughaetha     0440 B767658-5    Ag Ni Ri           401 Va
+Sitlshaqr     0535 B000331-C    Lo Ni As           721 Zh
+Ognirrirrgzegu0536 E86A346-4    Lo Ni Wa           701 Va
+Tuetingou     0537 C659337-5    Lo Ni              501 Va
+Tagakfaduen   0538 C89A225-9    Lo Ni Wa           211 Va
+Rougungol     0539 B330479-B  C Ni Po De           501 Va
+Aldhagh       0633 A454420-9    Ni                 210 Va
+Izivr         0634 D326974-9    Hi In              922 Zh
+Saedhuenragh  0635 B441455-8    Ni Po              223 Va
+Fourfurrghagh 0639 B436352-E    Lo In              221 Va
+Aeghez        0735 B898537-6    Ag Ni              802 Va
+Kor           0736 B66A425-9    Ni Wa              310 Va
+Duekh         0737 E7A6886-8  C Fl                 434 Va
+Kuenruekh     0739 C35874A-7    Ag                 420 Va
+Uenag         0832 D343534-6  C Ni Po              210 Va

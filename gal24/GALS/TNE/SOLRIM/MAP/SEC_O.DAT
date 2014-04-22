@@ -1,0 +1,24 @@
+@SUB-SECTOR: sec_o  SECTOR: solrim
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Ys            1732 C84786A-8  O                    620 TR     f    
+Cameroon      1736 X442000-0    Ba                 004 Un           
+Hamilcar      1738 C56A745-9    Wa Ri              813 Na     f      
+Parsifal      1739 X732000-0    Ba                 003 Un             
+Aristotle     1740 E4698RC-6                       420 Wi              
+Remulak       1833 E97476A-5    Ag                 412 TR               
+Chernozem     1836 BA85984-9    Hi                 203 Na     f           
+Hephaistos    1931 B989764-9    Ri                 202 TR     f
+Calgary       2031 EA9A467-5    Wa Lo Ni           325 TR
+Inferno       2131 D578867-8                       924 TR
+Forlorn       2132 X496000-0    Ba                 024 TR
+Greenpernt    2135 C798440-9  C Lo Ni              604 Na     f
+Gwynedd       2138 X9D7000-0    Ba Fl              004 Un
+Medea         2235 X7794P3-2    Lo Ni              403 Wi
+Pollux        2236 X000000-0    Ba As              000 Un
+Hanuman       2240 X9BA000-0    Ba Fl              013 Un
+Siva          2337 X210000-0    Ba                 024 Un
+Castor        2339 X000000-0    Ba As              020 Un
+Smade's Planet2433 X778000-0    Ba                 002 Un     f

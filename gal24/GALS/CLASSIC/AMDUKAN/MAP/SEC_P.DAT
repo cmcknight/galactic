@@ -1,0 +1,44 @@
+@SUB-SECTOR: Lorean SECTOR: Amdukan
+#
+# Trade Routes
+#
+$2539 2701 0 1 11
+$3140 3202 0 1 11
+$3138 0136 1 0 11
+$2539 2338 -1 0 11
+$2539 2939 0 0 11
+$2939 3138 0 0 11
+$3138 3140 0 0 11
+$2736 3138 0 0 11
+$2736 2832 0 0 11
+$2832 2829 0 -1 11
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UWP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Lamont        2533 E110562-9    Ni                 204 J-
+Ryan          2537 C58A112-A    Lo Ni Wa           202 Hl
+Rrole         2539 C443787-6    Ni Po              102 Hl
+Okhagza       2631 D300466-5    Ni Va              102 J-
+Sanger        2636 E776578-4    Ag Ni              704 Hl
+Winniplo      2638 C99A467-A  M Ni Wa              902 Hl
+Whitehall     2640 C69A896-8    Wa                 734 Hl
+Worpole       2735 C150310-9  M De Lo Ni Po        504 Hl
+Llueng        2736 A9B9141-F    Fl Lo Ni           602 Hl
+Starwood      2832 A7586A7-8  J Ag Ni              503 Hl
+Odd Fellow    2833 C27769C-7    Ag Ni              604 Hl
+Lorr Aeg      2834 E768884-3    Ri                 523 Hl
+Oshannah      2837 C648662-3  M Ag Ni              424 Hl
+Einar         2838 C0005AA-9    As Ni              522 Hl
+Rhubarb       2932 BA88642-7  J Ag Ni Ri           424 Hl
+Chillak       2935 C643787-7  M Po                 900 Hl
+Strauss       2939 B556687-9  J Ag Ni C1           302 Hl
+Berkley       3032 B110301-C    Lo Ni              914 Hl
+Forerslug     3033 C641110-8    Lo Ni Po           104 Hl
+Wellington    3039 C643434-8  M Ni Po              822 Hl
+Damlaer       3138 A677AA6-E  J Hi In Cp           200 Hl
+Gvurzghon     3140 B465624-8  M Ag Ni              901 Hl
+Ngallueg      3231 E9B6463-3    Fl Ni              404 Hl
+Roanado       3232 C58A233-9  M Lo Ni Wa           603 Hl
+Maaserli      3233 B779466-7  M Ni                 623 Hl
+Whiz          3234 B320234-9  J De Lo Ni Po        235 Hl
+

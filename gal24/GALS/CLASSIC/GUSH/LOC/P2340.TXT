@@ -1,0 +1,21 @@
+System: Elk
+Subsector: Truax
+Sector: Gushemege Sector
+Coordinates: 2340 (O0710)
+UWP: C874585-7
+
+Starport: Routine
+Size: Large (12000-13600 km)
+Atmosphere: Standard, tainted
+Hydrographics: 40% water
+Population: 900,000
+Govt: Civil Service Bureaucracy
+Law Level: Moderate
+Technology: Pre-Stellar
+
+Bases: None
+Trade Codes: Ag Ni           
+Travel Zone: Green
+Planetoid Belts: 1
+Gas Giants: 2
+Allegiance: Imperial

@@ -1,0 +1,39 @@
+Vland Sector
+
+A: Voskhod                   sec_a.dat
+B: Vhodan                    sec_b.dat
+C: Anarsi                    sec_c.dat
+D: Theton                    sec_d.dat
+E: Lalaki Kharir             sec_e.dat
+F: Kagamira                  sec_f.dat
+G: Vland                     sec_g.dat
+H: Shiigus                   sec_h.dat
+I: Dusa                      sec_i.dat
+J: Akumid                    sec_j.dat
+K: Kasear                    sec_k.dat
+L: Anakod                    sec_l.dat
+M: Parsi                     sec_m.dat
+N: Daangiilu                 sec_n.dat
+O: Nulisud                   sec_o.dat
+P: Kakadan                   sec_p.dat
+
+Bases:
+N = Naval Base
+D = Naval Depot
+S = Scout Base
+W = Scout Way Station
+A = Navy & Scout Bases
+B = Navy & Scout Way Station
+C = Corsair Base
+  = None
+
+Allegiance:
+12 St = Strephon's Worlds
+07 Na = Non-aligned
+04 Cs = Client State
+09 Va = Vargr (independant)
+11 Rv = Restored Vilani Empire
+02 Li = Lucan's Imperium
+10 V7 = Vargr (17th Disjuncture)
+06 Vn = Vargr (Ngath Confederation)
+08    = Unknown

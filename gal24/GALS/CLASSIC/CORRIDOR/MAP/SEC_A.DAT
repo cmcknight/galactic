@@ -1,0 +1,36 @@
+@SUB-SECTOR: sec_A   SECTOR: corridor
+#
+# Trade routes within the subsector
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Tersta        0102 C474522-7    Ag Ni An           320 Vf
+Khouth        0104 A8C3999-D    Hi Fl Cp           420 Vf
+Ankirst       0105 C356112-9    Lo Ni              421 Vf
+Ofo-Nebus     0106 B541488-8  G C1 Ni Po           701 Vf
+Synez         0109 E864256-7    Lo Ni              620 Vf
+Koergfoes     0205 B54359A-B  H Ni Po Rs           322 Vf
+Mikesh        0206 C8B7ACB-E  H Hi Fl              625 Vf
+Pergzitt      0209 B625354-B    Lo Ni              311 Vf
+Dry           0210 C110877-B  H Na                 801 Vf
+Serk          0304 B89A866-C  G Wa                 723 Vf
+Hesarus       0306 B253556-9  G Ni Po              320 Vf
+Caulins Belt  0307 A000268-C  G Lo Ni As           911 Vf
+Faraway       0308 D682546-4  H Ni                 713 Vf
+Auritaurus    0401 C859344-8  H Lo Ni              621 Vf
+Rrev Rigr     0402 B100657-C    Na Ni Va           610 Vf
+Sigma 7       0407 C000795-7    Na As              112 Vf
+Koppel        0502 E463005-7    Lo Ni              334 Vh
+Naxx-Iygo     0509 C7B5464-6    Ni Fl              712 Vh
+Pamock        0510 C461542-B    Ni                 623 Vh
+Greenrok      0601 A560236-C    Lo Ni De           501 Vh
+Taratun       0603 D8A3443-6  H Ni Fl              323 Vh
+Aka Gee       0605 B432579-B    Ni Po              103 Vh
+Degarla       0606 A610644-A  G Na Ni              310 Vh
+Desolate      0608 B9B2002-A  H Lo Ni Fl           420 Vh
+Semiplast     0609 C461662-8    Ni Ri              502 Vh
+Gzorraeth     0701 A490410-9    Ni De              501 Vh
+Mowanda       0709 B200534-A  H Ni Va              411 Vh
+Treshurii     0804 D335775-6                       523 Vh
+Bersha        0807 E552302-5    D1 Lo Ni Po        902 Vh

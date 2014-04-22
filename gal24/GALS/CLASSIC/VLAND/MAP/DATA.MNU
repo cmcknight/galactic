@@ -1,0 +1,28 @@
+@dir=gals\classic\vland\map
+@Light Yellow
+
+Vland Sector / Data Files
+
+@Light Cyan
+      Sector Data                  @..\vland.dat
+      Credits                      @..\credits.txt
+
+@Light Green
+      Subsector Data
+@Light Cyan
+       A: Voskhod                  @sec_a.dat
+       B: Vhodan                   @sec_b.dat
+       C: Anarsi                   @sec_c.dat
+       D: Theton                   @sec_d.dat
+       E: Lalaki Kharir            @sec_e.dat
+       F: Kagamira                 @sec_f.dat
+       G: Vland                    @sec_g.dat
+       H: Shiigus                  @sec_h.dat
+       I: Dusa                     @sec_i.dat
+       J: Akumid                   @sec_j.dat
+       K: Kasear                   @sec_k.dat
+       L: Anakod                   @sec_l.dat
+       M: Parsi                    @sec_m.dat
+       N: Daangiilu                @sec_n.dat
+       O: Nulisud                  @sec_o.dat
+       P: Kakadan                  @sec_p.dat

@@ -1,0 +1,16 @@
+@SUB-SECTOR: sec_I   SECTOR: vanguard
+#
+# Trade routes within the subsector
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Drieglechzhen 0121 XAB8444-9    Fl Ni           F  513 Zh
+Iadrdeibr     0322 C79A845-6                    U  413 Zh
+Tsuroka       0426 C687799-6    Ag Ri              904 Na
+Yavakrbi      0521 A878879-C  Z                    750 Zh
+Andress Balfor0523 B523598-A  V Ni Po           G  503 Na
+Rumio         0525 B667630-A    Ag Ni           G  703 Na
+Loser's Land. 0726 B120156-A    De Lo Ni Po     A  304 Na     f
+Big Bruno     0822 BA88533-9    Ag Ni           G  923 Na
+Tumereng      0829 X776589-3    Ag Ni              624 Na

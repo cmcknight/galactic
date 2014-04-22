@@ -1,0 +1,37 @@
+@SUB-SECTOR: sec_K   SECTOR: deneb
+#
+# Trade routes within the subsector
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Redemption    1722 X140677-2    De Ni Po           733 Re
+Woaros        1726 X747678-3    Ag Ni           R  314 Re
+Monogan       1728 D10066A-A    Ni Va O:1829       102 Re
+Gatooma       1730 D100468-7    Lo Ni Va O:1829    724 Re
+Rolvaag       1821 D380445-9    De Lo Ni           504 Re
+Tetzel        1823 B643432-B  N Lo Ni Po An     A  301 Re
+Farraco       1824 D200478-B    Lo Ni Va           212 Re
+Eshamlii      1826 A334343-D  S Lo Ni              623 Re
+Prefecture    1827 D1307B6-A    De Na Po           624 Re
+Bisistra      1829 B357679-E  N Ag Ni Rw:0         702 Re
+Ronsard       1830 CA89858-A  S Ri Rw:1            225 Re
+Liran         1923 A0009B8-C    As Na Hi In        211 Re     f
+Deneb         1925 A537ADD-E  N Hi Cx Cp V:0 Rw:   810 Re
+Amshal        1926 B687685-C  N Lo Ni Rw:5       T 522 Re
+Thussar Ozoam 1927 X245101-7    Lo Ni           R  615 Re
+Exile         1928 X799312-5    Lo Ni Pr        R  310 Re
+Turkoman      1930 B9C67CB-A    Fl                 120 Re
+Bruyere       2023 C524367-A  S Lo Ni C:9 O:1829   822 Re     f
+Minocoy       2024 B422505-F  N Ni Po            T 920 Re
+Avernus       2027 E8865A6-3    Ag Ni              302 RF
+Nyassl        2028 B300453-D  N Lo Ni Va           124 RF
+Arcanum       2126 X334868-3    RsA O:2225      R  410 RF
+Nusukha       2127 D310256-7  S Lo Ni              615 RF
+Byblos        2223 C6738BD-7  S V:4                301 RF
+Revoc         2224 C9AA252-A  S Fl Lo Ni Wa        202 RF
+Usani         2225 A452699-C  N Ni Po Cf         T 102 RF
+Nile Station  2322 E463210-9    Lo Ni            T 320 RF
+Azed Bek      2323 C76625A-B  S Lo Ni              910 RF
+Ayers         2424 X230000-0    Ba De Po           023 --
+Hysyl         2425 D24049B-6    De Lo Ni Po      T 302 Wi

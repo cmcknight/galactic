@@ -1,0 +1,34 @@
+@SUB-SECTOR: stars_D   SECTOR: meshan
+#
+# Trade routes within the subsector
+#
+#--------1---------2---------3
+#PlanetName   Loc. Stars(s)
+#----------   ---- ---------
+Eghthudza     2509 M0 V
+Keniir        2601 F3 D
+Uunush        2605 G4 V
+Urgush        2610 M1 V
+Munikhu       2702 F2 D M4 D
+Gimar         2703 M6 V M1 D
+Aimliin       2704 F1 D
+Iishla        2705 M1 V
+Igam          2706 G0 V
+Uudum         2802 F6 D
+Khisgurmakii  2804 A7 V
+Dardur        2806 F7 D M4 D
+Diramlii      2807 F1 D
+Lepidopter    2808 M2 V M0 D
+Umurzikuu     2810 F7 V M9 D
+Erarki        2901 F0 V M0 D M4 D
+Ikmepushkii   2902 F0 V M7 D
+Shasukar      2908 M2 V
+Gnolrar       2909 M2 V
+Nurlim        3003 F0 D M1 D
+Dikugus       3006 M3 V
+Firecracker   3102 F3 V M8 D
+Ferrer        3105 F3 V M7 D
+Goethukh      3109 F4 V
+Urkakhi       3204 F2 V M0 D
+Sotla         3206 F3 V
+Gughars       3209 F7 V

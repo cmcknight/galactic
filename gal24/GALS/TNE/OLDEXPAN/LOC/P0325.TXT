@@ -1,0 +1,16 @@
+Bwan Murr X4557S8-5                   
+Starport: None                Size: Small (5600-7200 km)
+Atmosphere: Thin              Hydrographics: 50% water
+Population: 90 million        Govt: Mystic Dictator
+Law Level: High               Technology: Industrial
+ 
+Bwan Murr has no working spacecraft but does have a working albiet primitive
+planetary defense system, which consists of planetary radar sites and
+ballistic missles.  The government is a run by the Reverend Desmond
+who preaches that the stars are populated by devils and offworlders are their
+servants.  The government treats its populace pretty well, it just attempts
+to kill strangers on sight.
+
+References Death of Wisdom
+Lewis Roberts
+lewis@chara.gsu.edu

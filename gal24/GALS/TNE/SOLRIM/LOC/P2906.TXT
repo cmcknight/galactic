@@ -1,0 +1,13 @@
+Kesirisu X49945A-5              
+Starport: None                   Size: Small (5600-7200 km)
+Atmosphere: Dense, tainted       Hydrographics: 90% water
+Population: 40,000               Govt: Feudal Technocracy
+Law Level: Extreme               Technology: Industrial
+
+    Kesirisu maintained a class 'C' starport facility after the Collapse 
+until a few decades ago when a Vampire fleet raid destroyed most of the 
+facilities and carted off the rest (these components were later used to 
+upgrade Gashurzid's starport, unknown to that world's inhabitants). The 
+inhabitants of Kesirisu have since become extremely xenophobic, and will 
+resist all attempts to contact them.
+

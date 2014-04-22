@@ -1,0 +1,8 @@
+@SUB-SECTOR: sec_G   SECTOR: reft
+#
+# Trade routes within the subsector
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Undrelyn      1812 E551468-5  M Lo Ni Po C:2       214 Cs

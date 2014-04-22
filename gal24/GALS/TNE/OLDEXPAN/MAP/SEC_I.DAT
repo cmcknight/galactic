@@ -1,0 +1,29 @@
+@SUB-SECTOR: sec_i   SECTOR: oldexpan
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- --------  - ---------------- -  --- -- --- -
+Martham       0121 D4526U5-9    Ni Po              302 Wi
+Sibbage       0123 X2546R9-6    Ag Ni              502 Wi
+Burlta        0125 X7998RE-1                    B  700 Wi
+Possin        0127 X322000-0    Ba Po              002 Un
+Darainne      0128 X531000-0    Ba Po              002 Un
+New Martham   0221 XAC3000-0    Fl Ba              012 Un
+Hodg          0222 X7588T6-A                       802 Wi
+La Shend      0224 X9C4000-0    Fl Ba              002 Un
+Lote          0229 X77A6RB-3    Ni Wa           B  802 Wi
+Bwan Murr     0325 X4557S8-5    Ag C:2             925 Wi     f
+Sh' Lur       0327 X426000-0    Ba                 021 Un
+Nova Rhyll    0330 X5727SC-8                    B  702 Wi
+Sauler        0424 D8845P9-5    Ag Ni           B  800 Wi     f
+Drila         0521 X232000-0    Ba Po              022 Un
+Etpur         0621 X637000-0    Ba                 025 Un
+Meadsk        0628 X9876O3-2    Ag Ni           B  604 Wi
+Dho Il's Worl 0721 X220000-0    De Ba Po           005 Un
+Traeviss      0722 X000000-0    As Ba              004 Un
+Coaise        0723 X5568R7-6    C:3                414 Wi     f
+Marax         0726 D5736RD-6    Ni                 903 Wi
+Zoraith       0729 X525000-0    Ba                 012 Un     f
+Shaphry       0823 X734000-0    Ba                 000 Un
+Tiniyd        0825 X5436UC-6    Ni Po D:2       B  221 Wi     f
+Xezor         0829 C87A7O0-8    Wa              B  601 Wi

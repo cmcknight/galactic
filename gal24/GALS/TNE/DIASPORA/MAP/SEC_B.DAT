@@ -1,0 +1,38 @@
+@SUB-SECTOR: sec_a   SECTOR: Diaspaora
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Eckel         0901 X837000-0    Ba                 011 Un
+Victory       0902 X9A7000-0    Ba Fl              015 Un
+Toxey         0903 X78A1N1-8    Ni Wa Lo           110 Wi
+Otimmatu      0905 X5536RE-3    Ni Po           B  504 Wi
+Quafe         1007 X433000-0    Ba                 023 Un
+Yovanne       1102 X200000-0    Ba Va              003 Un
+Klenoy        1103 X623000-0    Ba                 012 Un
+Khunan        1104 X332000-0    Ba                 023 Un
+Laahii        1106 X100000-0    Ba Va              004 Un
+Kyzir         1108 X6714TA-0    Ni Lo           B  204 Wi
+Libert        1109 X675300-4    Ba                 002 Un
+Taken         1202 X675300-4    Ni Lo           B  203 Wi
+Stanton       1203 E98997A-8    Hi              B  211 Na
+Arhaapar      1206 E3557U9-6    Ag                 212 Wi
+Kaanu         1207 X321000-0    Ba                 014 Un
+Gate          1208 X659300-0    Ni Lo           B  102 Wi
+Ridge         1210 X77A1N2-6    Ni Wa Lo           114 Wi
+Berlin        1305 X200000-0    Ba Va              003 Un
+Medeliin      1305 E6452N2-7    Ni Lo              304 Wi
+Jesicar       1307 X3644S5-7    Ni Lo              103 Wi
+Mixem         1308 D6858R7-8                    B  904 Wi
+Hakalau       1309 X436000-0    Ba                 004 Un
+Rikhani       1404 X6887RC-4    Ag              B  114 Wi
+Loud          1405 E8941M1-6    Ni Lo              404 Wi
+Talca         1407 X100000-0    Ba Va              013 Un
+Glenwald      1409 X110000-0    Ba                 003 Un
+Uneshuu       1502 X100000-0    Ba Va              010 Un
+Channel       1503 X6945R5-0    Ni Ag           B  512 Wi
+Verona        1505 X400000-0    Ba Va              004 Un
+Puget         1508 X7C8000-0    Ba Fl              002 Un
+Cayene        1510 X425000-0    Ba                 020 Un
+Zeeland       1602 X898AW9-9    Hi C:4          B  504 Wi
+Unsuited      1610 X000000-0    Ba As              014 Un

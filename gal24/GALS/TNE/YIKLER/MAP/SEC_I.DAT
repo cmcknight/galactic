@@ -1,0 +1,41 @@
+@SUB-SECTOR: sec_I   SECTOR: yiklerzd
+#
+# Trade routes within the subsector
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Poison        0127 C8A8663-A    Fl Ni O:0225       414 TL
+Exile         0130 E573268-5    Lo Ni Ex Pr 0527A  603 TL
+Khaar         0221 B5728CE-A  K Cx              R  812 Sr
+Pearl         0223 C9A7575-B  T Fl Ni              402 TL
+Right Way     0224 D78A241-6    Lo Ni Wa           100 TL
+Quatrain      0225 A373999-C  T Hi In              910 TL
+Broken Promise0226 X330000-0    Ba De Po        R  001 TL
+Longnight     0228 B785340-B    Lo Ni              803 TL
+Swarm         0229 B000310-B    As Lo Ni           703 TL
+Glass Sea     0230 B370421-9    De Ni Lo An        701 TL
+Yenzhshiavr   0322 E6A056E-8  K De Ni O:0221    A  334 Sr
+Pieflip       0323 C4305A7-B  T Ni De Po        A  510 TL
+Bridgeworld   0421 C7B156E-A  K Fl Ni O:0221    A  440 Sr
+Fairwater     0423 CA9A845-B    Wa                 204 TL
+Vivaldi       0424 A624856-A                       714 TL
+Pebble        0426 E100300-8    Lo Ni Va        A  533 TL
+Shallowwater  0427 B431440-B    Ni Po Lo           204 TL
+Salty Tears   0430 B235983-C  T Hi                 513 TL
+Jelobrzech    0523 E87856E-8  K Ag Ni O:0221    A  201 Sr
+Fantasia      0524 B98A697-9  T Ni Wa              202 TL
+Gale          0526 A583AC9-C  T Hi                 400 TL
+Talpakuhome   0527 A7989C8-D  T Hi In Cx           202 TL
+Plenty        0624 A7567BB-B  T Ag                 200 TL
+True Omen     0625 A8A4740-9    Fl                 200 TL
+Haven         0626 B692779-9    Ri                 602 TL
+Bayou         0627 B677977-C  T Hi In              722 TL
+Firestar      0630 C200734-A    Na Va           A  900 TL
+Pezeibifiench 0723 D10066E-8  K Na Ni Va O:0221 A  604 Sr
+Takiwhibl     0725 C5845AB-5    Ag Ni              224 TC
+Tlachefrnin   0730 X666000-0    Ba                 024 Na
+Tietliejdia   0821 B85A76E-8  K Wa O:0221       A  804 Sr
+Twinstar      0826 C463745-B    D3                 332 TL
+Heaven's Scent0828 CAD868D-A    Ni Mr              303 TC
+Jdid Va'      0830 X456000-0    Ba              A  000 Na

@@ -1,0 +1,21 @@
+@SUB-SECTOR: sec_J   SECTOR: canopus
+#
+# Trade routes within the subsector
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Hercules      0922 B537537-D  N Lo Ni              300 So
+Khumbanigahsh 1023 C200113-C    Lo Ni Va           301 So
+Nanfeng       1025 D6846A6-9    Ni                 303 So
+Vicars        1122 B9B6630-7  N Fl Ni              612 So
+Teimhnean     1127 A500434-E    Lo Ni Va           913 So
+Burgheys      1128 C637566-B    Lo Ni              302 So
+Caucasus      1224 A656210-C    Ag Lo Ni           424 So
+Flango        1225 C679430-8    Lo Ni              804 So
+De Kellek     1325 C333000-8    Ba                 614 So
+Keith         1330 C9A6665-5    Fl Ni              324 So
+Seraphina     1430 A6557A8-D                       323 So
+Davros        1528 B8D0610-7    De Ni              111 So
+Rydberg       1626 B87A420-E    Lo Ni Wa           810 So
+Edaece        1627 C536332-6  S Lo Ni              910 So

@@ -1,0 +1,32 @@
+@SUB-SECTOR: sec_c   SECTOR: Diaspaora
+#
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Grourard      1701 X8964P4-4    Ni Lo              500 Wi
+Onliu         1704 X110000-0    Ba                 021 Un
+Boyne         1707 X4625R6-0    Ni                 103 Wi
+Erakhuu       1708 X8968RB-7                    B  802 Wi
+Navar         1804 X5476SB-6    Ni Ag           B  305 Wi
+Maelstrom     1805 X421000-0    Ba                 003 Un
+Sturgis       1807 X444103-0    Ni Lo              302 Wi
+Navarre       1901 D6568AC-9                       224 Su
+Houstar       1905 X8C4211-6    Cm Ni Fl Lo        713 Su
+Haze          2003 D74A6A8-9  S Ni Wa              700 Su
+Sufren        2004 C686948-C  N Hi An              723 Su
+Gamov         2104 X000000-0    Ba As              011 Un
+Heymac        2105 X300000-0    Ba Va              001 Un
+Dahl          2201 X100000-0    Ba Va              013 Un
+Troy          2203 X622000-0    Ba                 014 Un
+Lassie        2207 X221000-0    Ba                 004 Un
+Naasha        2208 X6975Q4-5    Ni Ag              314 Wi
+Backman       2209 X5548R9-5                    B  303 Wi
+Neefi         2210 E66A8U9-6    Wa                 902 Wi
+White Sea     2304 X100000-0    Ba Va              000 Un
+Jummy         2309 X100000-0    Ba Va              014 Un
+Hervestia     2310 X5548S9-4                    B  203 Wi
+Korona        2401 X523000-0    Ba                 013 Un
+Mazuun        2402 XA7A6P7-7    Ni Wa           B  802 Wi
+Aazuni        2405 X210000-0    Ba                 011 Un
+Cita          2407 X5444Q6-3    Ni Lo              223 Wi

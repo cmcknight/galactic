@@ -1,0 +1,24 @@
+@SUB-SECTOR: stars_G   SECTOR: trojan
+#
+# Trade routes within the subsector
+#
+#--------1---------2---------3
+#PlanetName   Loc. Stars(s)
+#----------   ---- ---------
+Homestead     1715 F9 V
+Ais           1719 M0 V M7 V M5 V
+Salif         1816 F9 III M0 V
+Number        1818 M8 V
+Thebus        1919 M8 V
+Norikum       2018 G2 V M9 V M6 V
+Oghma         2020 F5 V F5 D F4 D
+Dolberg       2113 F7 V
+Vume          2115 K7 II
+Theev         2116 G0 V
+Marduk        2120 F7 V
+Albe          2211 F4 V M2 V
+Realgar       2213 G4 V M7 V
+Palindrome    2216 F9 V M1 V
+Borite        2219 G4 V M8 V
+Chalchiutlicu 2314 G9 V M3 V
+Cordillon     2411 K1 V

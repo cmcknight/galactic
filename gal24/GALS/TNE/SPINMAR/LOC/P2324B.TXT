@@ -1,0 +1,20 @@
+
+  SYSTEM DETAILS
+
+Primary: Cyr             F9v
+
+0        Empty
+
+1        Caldon  YS00000-0
+
+2        Firth   Y310125-A
+
+3        Belt    Y000000-0
+
+4        Capon   A747748-B  N  Ag
+  12     Yun     H221369-B     Re
+
+5        Empty
+
+6        Tiburons Y9A0000-0
+

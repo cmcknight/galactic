@@ -1,0 +1,43 @@
+@SUB-SECTOR: sec_a   SECTOR: massilia
+#
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Myimpia       1731 X7841O2-3    Lo Ni              422 Wi
+Gilkla        1733 X4757P1-8    Ag                 203 Wi
+Kasenca       1740 X7A6000-0    Ba Fl              013 Un
+Daven         1831 X100000-0    Ba Va              013 Un
+Broo          1832 X541020-4                       425 Un
+Earthstone    1833 X7754N1-0    Lo Ni           B  120 Wi
+Mitt          1834 E96A8UC-7  S Ri Wa           B  202 Wi
+Waize         1835 X9A7000-0    Ba Fl              001 Un
+Rattu         1837 X3526RD-5    Ni Po              223 Wi
+Simmersong    1931 D4783O4-7    Lo Ni              204 Wi
+Danmoire      1936 X331000-0    Ba                 020 Un
+Merold        1938 X110000-0    Ba                 001 Un
+Arka          1940 X7985Q1-8    Ag Ni              422 Wi
+Umbia         2031 X8D4000-0    Ba Fl              004 Un
+Devan         2032 D9778P7-5                    B  613 Wi
+Sempir        2037 X4844R7-7    Lo Ni              212 Wi
+Shimmer       2039 X9A1000-0    Ba Fl              022 Un
+Sroos         2040 X8763M1-3    Lo Ni              302 Wi
+Honatty       2132 E5458T9-8                       104 Wi
+Landing       2135 X7575M1-7    Ag Ni              204 Wi
+Enbrie        2136 X4738RA-5                    B  113 Wi
+Santaw        2138 X2634Q3-3    Lo Ni              404 Wi
+Damz          2139 X3555RB-0    Ag Ni              304 Wi
+Nituu         2231 X100000-0    Ba Va              005 Un
+Halfway       2233 X533000-0    Ba                 010 Un
+Norfriboah    2234 X6467R7-5    Ag                 222 Wi
+Virim         2237 X5535RE-3    Ni Po              213 Wi
+Binsarah      2238 X636000-0    Ba                 002 Un
+Ferring       2331 X200000-0    Ba Va              013 Un
+Lybo          2334 X5453R5-6    Lo Ni              225 Wi
+Nanonlin      2335 C886779-8    Ag Ri              214 Na
+Todkar        2336 X53A000-0    Ba Wa              004 Un
+Luri          2340 D5568AB-9                       213 Na
+Shanmos       2433 X100000-0    Ba Va              014 Un
+Nyroah        2435 D7637RB-7    Ri                 102 Wi
+Skillern      2439 X6467N2-7    Ag              B  803 Wi
+Rington       2440 X4431Q2-5    Lo Ni Po           424 Wi

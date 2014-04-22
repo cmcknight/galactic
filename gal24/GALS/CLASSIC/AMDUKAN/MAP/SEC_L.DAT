@@ -1,0 +1,37 @@
+@SUB-SECTOR: Mesmabi SECTOR: Amdukan
+#
+# Trade Routes
+#
+$3122 0223 1 0 11
+$2829 2827 0 0 11
+$2926 2827 0 0 11
+$2926 2922 0 0 11
+$2922 3122 0 0 11
+$2922 2724 0 0 11
+$2922 2720 0 -1 11
+$2724 2425 -1 0 11
+$2829 2832 0 1 11
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UWP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Bernardo      2522 C56A502-9    Ni Wa              124 J-
+Aegzil        2529 E130102-9    De Lo Ni Po        504 J-
+Aenaedh       2530 X888230-0    Lo Ni           R  203 J-
+Flexner       2626 C798688-3    Ag Ni              401 J-
+Lyndon        2723 C9C68B7-6  M Fl                 723 Hl
+Tengerre      2724 A140422-B  M De Ni Po           901 Hl
+Sonaer        2726 B696114-9    Lo Ni              202 Hl
+Ginger        2824 C566653-8    Ag Ni Ri           600 Hl
+Guasar        2827 B479976-C    Hi In              923 Hl
+Girrghgan     2829 B899588-7  J Ni                 611 Hl
+Mimgur        2922 A466535-D  M Ag Ni Cp           100 Hl
+Eskurga       2926 B887987-7    Hi                 724 Hl
+Zaerran       3022 D58A258-8    Lo Ni Wa           704 Hl
+Gaar          3026 C4669A6-A  M Hi                 904 Hl
+Siilar        3029 B999748-6  J                 A  703 Hl
+Amkukkar      3122 C4799AF-8    Hi In              424 Hl
+Olduvai       3223 C488479-6    Ni C2 An        R  823 Hl
+Lillouri      3224 C556533-5  M Ag Ni              200 Hl
+Enaell        3227 C362534-7    Ni                 122 Hl
+Llangso       3228 B784423-8    Ni                 213 Hl
+

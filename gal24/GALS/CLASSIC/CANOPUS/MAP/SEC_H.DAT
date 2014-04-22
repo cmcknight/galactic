@@ -1,0 +1,33 @@
+@SUB-SECTOR: sec_H   SECTOR: canopus
+#
+# Trade routes within the subsector
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Sumter        2516 A7B7834-B  N Fl                 404 So
+Klerak        2518 E9E3962-A    Hi                 923 So
+Beltene       2612 E410442-8    Lo Ni              804 So
+Sandra        2616 A210432-C    Lo Ni              623 So
+Berlin        2618 E789453-9    Lo Ni              624 So
+Tampa         2712 C463552-8  S Lo Ni              802 So
+Rowland       2713 D87378A-2                       504 So
+Daynelman     2714 D668583-7    Ag Lo Ni           211 So
+Plomber       2715 C374146-8    Ag Lo Ni           413 So
+Sibilla       2716 X444000-E    Ag Ba              012 So
+Sourte        2719 E000537-6    As Lo Ni Va        604 So
+Morag         2811 B200564-C    Lo Ni Va           604 So
+Quasar        2815 B56A312-B  2 Lo Ni Wa           413 So
+Ydonea        2816 C512553-8    Ic Lo Ni           101 So
+Mayflower     2819 E79A649-9    Ni Wa              614 So
+Lysenko       2912 C463010-8                       512 So
+Wavenhair     2914 D300875-9  S Na Va              322 So
+Bertie        2915 C478389-9    Ag Lo Ni           803 So
+Mehos         2919 C300303-B  S Lo Ni Va           104 So
+Vaymo         3012 A9699DF-D    Hi                 811 So
+Tatoria       3014 C582644-8    Ni Ri              814 So
+Cayvell       3019 B9588AC-B                       104 So
+Hubbell       3112 D758003-7    Ag Ba              333 So
+Sarna         3115 B536868-7                       302 So
+Engoliothil   3214 C120311-A    De Lo Ni Po        715 So
+Tylleson      3216 B400353-B    Lo Ni Va           724 So

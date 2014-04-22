@@ -1,0 +1,65 @@
+Special note regarding jump routes
+----------------------------------
+
+There's a curious table on the second page of Book 3 (Worlds and
+Adventures) of the Classic (i.e. first) Traveller Edition. This
+tables goes as follows:
+
+World              Jump Distance
+Pair     Jump-1   Jump-2   Jump-3   Jump-4
+A-A        1        2        4        5
+A-B        1        3        4        5
+A-C        1        4        6        -
+A-D        1        5        -        -
+A-E        2        -        -        -      Roll the cross-index
+B-B        1        3        4        6      or greater on a d6
+B-C        2        4        6        -      in order for a jump
+B-D        3        6        -        -      route to be present
+B-E        4        -        -        -
+C-C        3        6        -        -
+C-D        4        -        -        -
+C-E        4        -        -        -
+D-D        4        -        -        -
+D-E        5        -        -        -
+E-E        6        -        -        -
+
+Now, just looking at it, one would think that all's well and
+good, but that's not quite the case. The table was excluded from
+the "Traveller Book" (a sort of v1.1 of the Classic Rules) as
+well as from MegaTraveller (v2.0, or so it's considered) and the
+reason may be that this table results in an awful lot of jump
+routes on your subsector maps, giving them a sort of "crowded"
+look. In fact, I'm convinced that GDW wasn't using this table (or
+even anything approximating it) when they released the Spinward
+Marches and Solomani Rim. Most likely, they drew the important
+jump routes by hand.
+
+Nonetheless, I figured it would be a good idea to include the
+feature of automatically generated jump routes within the sector
+generator, so the following optional table is what I finally
+settled on:
+
+World              Jump Distance
+Pair     Jump-1   Jump-2   Jump-3   Jump-4
+A-A        1        2        5        6
+A-B        3        4        6        -
+A-C        5        6        -        -
+B-B        5        6        -        -
+B-C        5        -        -        -
+
+As you can surmise, this table will result in a lot fewer jump
+routes than the previous one, however, you might want to go even
+further by creating your own table, perhaps a very sparse one
+just to include the basic routes (A-A & A-B) which you know
+should be there. Hence, when generating your sector, you can opt
+for the official table, the homebrew one which I created, or one
+of your own creation. The best method of all, in fact, would
+probably be to skip jump route generation altogether and just do
+it by hand. In any case, it's entirely up to you.
+
+The only other thing worth mentioning is that regardless of what
+table you end up using, red zone (interdicted) worlds are never
+attached to jump routes. Hence, if you want to have a red zone as
+part of your jump route, you'll definitely need to go into the
+subsector file and put it there.
+

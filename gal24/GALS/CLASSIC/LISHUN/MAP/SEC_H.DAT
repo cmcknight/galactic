@@ -1,0 +1,55 @@
+@SUB-SECTOR: sec_H   SECTOR: lishun
+#
+# Trade routes within the subsector
+$2516 2415 -1 0
+$2516 2719 0 0
+$2719 2521 0 1
+$2516 2717 0 0
+$2717 3113 0 0
+$3113 2810 0 -1
+$3113 3211 0 0
+$3211 0109 1 -1
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Formore       2512 B666120-B  G Lo Ni              804 V1
+Stopover      2516 A400456-D    Ni Va              624 V1
+Alfu Onna     2611 D8C48B6-9  C Fl                 210 V1
+Post          2612 E110427-A    Ni                 804 V1
+Kogside       2614 B374450-C    Ni                 903 Vx
+Shikangu      2616 B7646BD-8  C Ag Ni              503 V1
+Uunla         2711 E583411-7    Ni                 703 V1
+Khuki         2713 E62546A-A    Ni                 200 V1
+Irmidker      2715 C766641-7    Ag Ni Ri           220 Vx
+Ashsi         2717 A3468AB-C  C                    600 V1
+Khaga         2718 B56688D-9  C Ri                 124 V1
+Tephany       2719 A6B19DF-A  H Hi Fl              502 V1
+Mist          2720 C585765-9  C Ag Ri              501 V1
+Gilish        2814 C334579-C  C Ni                 225 Vx
+Narvik        2815 E514479-A    Ni Ic              913 Vx
+Urkakhir      2818 B492447-E  C Ni                 103 Vx
+Udmulan       2820 E8B1778-5    Fl                 723 Vx
+Shurkinish    2911 E545245-6    Lo Ni              614 Vx
+The Spread    2913 B0008CC-E    Na As              700 Vx
+Silaa         2915 B677213-9  C Lo Ni              100 Vx
+Akgangu       2916 C65259D-8    Ni Po              610 Vx
+Limeshuud     2918 C55A8A7-B  C Wa                 124 Vx
+Khadi         2919 B85A659-9    Ni Wa              310 Vx
+Kuursarda     3012 B565014-8    Lo Ni              604 Vx
+Larkadisum    3013 C729230-9  C Lo Ni              420 Vx
+Rukaga        3014 C110668-C  G Na Ni              320 Vx
+Igikidamum    3016 B723256-B  H Lo Ni Po           805 Vx
+Argalu        3017 C658240-6    Lo Ni              600 Vx
+Shage         3019 B200835-E    Na Va              613 Vx
+Orpheus       3111 D8D3A88-B  C Hi Fl              202 Vx
+Mibim         3113 A423679-G    Na Ni Po           210 Vx
+Saguenay      3114 D400311-B  G Lo Ni Va           804 Vx
+Miishkha      3116 C432577-9  H Ni Po              604 Vx
+Aashagaka     3118 E423100-A    Lo Ni Po           601 Vx
+Aankhesin     3211 A785735-9    Ag                 104 Vx
+Uulashkad     3213 E433733-7    Na Po              500 Vx
+Kiluea        3214 C7A6420-7  C Ni Fl              722 Vx
+Elishilur     3217 E510100-A    Lo Ni              900 Vx
+Dushe         3219 B477100-B  C Lo Ni              521 Va
+Zukurkha      3220 E873431-5    Ni                 503 Va

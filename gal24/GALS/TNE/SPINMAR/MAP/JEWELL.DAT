@@ -1,0 +1,30 @@
+@SUB-SECTOR: jewell   SECTOR: spinmar
+#
+# Trade routes within the subsector
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Condyole      0901 E7A1522-8    Fl Ni              923 Na
+Puparkin      0902 C7B3386-9    Fl Lo Ni           502 Na
+Chachtinch    0904 B766766-A  Z Ag Ri Tn Mr     A  624 Zh
+Gougheste     0909 C372510-A    Ni              A  420 Re
+Esalin        1004 C565673-8    Ag Ni Ri        A  423 Cs
+Ruby          1005 B400445-B  S Lo Ni Va           201 Re     m
+Emerald       1006 B766555-B  S Ag Ni Tn           534 Re     m
+Zenopit       1010 D130546-7    Ni Po De           622 Fa
+Dietevriabr   1102 C566A99-9    Hi              A  214 Zh
+Iefi          1103 B672899-A  Z                 A  901 Zh
+Jewell        1106 A777999-C  A Hi In Tn Cp        623 Re     m
+Zircon        1110 C792768-8  J O:1011             124 Fa
+Ainzaia       1201 E410644-6    Na Ni              412 Zh
+Mongo         1204 A368685-A  A Ag Ni Ri           803 Re
+Utoland       1209 C473464-7    Lo Ni O:1011       410 Fa
+Pequan        1210 E5657B9-4    Ag                 110 Fa     m
+Nakege        1305 D591314-2    Lo Ni           A  501 Re
+Lysen         1307 B592655-A  S Ni                 823 Re
+Tlaqril       1401 B638665-8    Ni O:1402       A  910 Zh
+Zhdedlefi     1402 A200400-B  Z Lo Ni Va        A  415 Zh
+Ijiwa Mines   1510 E722000-8    Lo Ni Po           301 Cs
+Louzy         1604 D322A88-8    Na Hi In Po        110 Re
+Grant         1607 X664100-0    Lo Ni Tp        R  222 Re

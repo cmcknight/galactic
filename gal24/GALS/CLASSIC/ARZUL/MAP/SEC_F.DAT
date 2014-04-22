@@ -1,0 +1,25 @@
+@SUB-SECTOR: Kotsfa SECTOR: Arzul
+#
+$0912 0611 -1 0 11
+$0912 1008 0 -1 11
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Ellong        0911 C553555-6    Ni Po              314 J-
+Dhartsun      0912 B9899CA-D    Hi                 500 J-
+Rumaaire      1014 X310000-0    Ba Lo Ni           032 Na
+Turrdun       1016 B647766-9  S Ag                 612 Na    
+Talrotis      1113 X310000-0    Ba Lo Ni           004 Na
+Kikigulagabi  1114 B669576-7  S Ni                 604 Na
+Isgakikuga    1118 A8C5AA8-B    Fl Hi              202 Na    
+Kha           1119 C460A98-B  S De Hi              600 Na    
+Keiwhi        1213 E513100-A    Ic Lo Ni           603 Na
+Suth          1313 A8B3667-B    Fl Ni              903 Na
+Thigz         1319 A756ADC-B    Hi                 902 Na    
+Saamedirer    1415 B446556-D    Ag Ni              423 Na
+Gaada         1514 B9A7346-C  2 Fl Lo Ni           700 Na
+Bamlisumguur  1515 A746759-A    Ag                 310 Na    
+Omverendtto   1617 D6A5584-9  S Fl Ni              504 Na
+Kotsfa        1615 B669A77-A    Hi                 200 Na
+Outoudzduez   1616 B659859-A  2                    414 Na    
+

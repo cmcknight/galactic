@@ -1,0 +1,40 @@
+@SUB-SECTOR: sec_a   SECTOR: Spica
+#
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Adub (Bath)   1629 C25A526-B    Ni Wa              514 Hv
+Tasimkin      1721 E540511-9    F:2 Ni Po De       210 Hv
+Star Hub      1722 A401425-C    Lo Ni Cm Va Ic     314 Hv
+Yengilz       1729 E550302-6    Lo Ni Po De        611 Hv
+Shallows      1824 E88A841-2    Ri Wa Nh        R  702 Hf
+Malza         1826 B220167-8  M Lo Ni Cm De Nh     300 Hv
+Tapon         1827 A654202-A  E Lo Ni Hp           400 Hv
+Tuasye        1828 E100104-7    Lo Ni Cm Va        410 Hv
+Cetic II      1830 A7B6367-7  E Fl Lo Ni Cm Nh     902 Hv
+Xoarax        1921 E211201-5    Lo Ni Ic           500 Hv
+Pilza         1922 B78A623-8    Ni Ri Wa           104 Hv
+Naros         1923 E4999J3-6    Hi In              110 Hv
+Zinam         1925 D69A304-9    Lo Ni Wa           313 Hv
+Particulately 1926 A743263-C  L Lo Ni Po Nh        200 Hv
+Wrengex IV    1927 B789203-D    Lo Ni              500 Hv
+Kurzon Dax    1930 D7987J1-6    Ag                 203 Hv
+Nelyo         2026 D532401-A  F Lo Ni Cm Po        405 Hv
+Splosh        2030 EA9A414-9    Lo Ni Wa           905 Hv
+Bolehlz       2122 D7B6368-5    Fl Lo Ni Cm Nh  A  400 Hv
+Delf III      2124 D6A0216-6    Lo Ni Cm De        802 Hv
+Bapeng        2125 E6A6411-9    Fl Lo Ni Cm        402 Hv
+Pekihr        2127 E6A3422-9    Fl Lo Ni Cm        310 Hv
+Ubreyukask    2129 E5966X7-9  Q Dw Ag Ni Nh     R  504 Hf
+Pezal         2224 BAC5268-6    Fl Lo Ni Cm Nh  A  604 Hv
+Cap Subsidiary2230 D201206-7    Lo Ni Cm Va Ic     504 Hv
+Thinel        2321 C252504-A    Ni Po              514 Hv
+Nethok        2323 C241303-8    Lo Ni Po           500 Hv
+Lihnor        2328 A445266-9  E Lo Ni Hp Nh        100 Hv
+Kasal         2329 C89A766-8    Wa O:2529          210 Hv
+Sandzdorp     2421 B442203-8  M Lo Ni Po           504 Hv
+Nihtehl       2422 B231203-C  L Lo Ni Cm Po        914 Hv
+Tehyehl       2423 D89A102-7    Lo Ni Wa           200 Hv
+Benong IV     2424 B8C6303-9    Fl Lo Ni Cm        210 Hv
+Zeko          2427 E4687I5-7    Ag Ri Hp           604 Hv

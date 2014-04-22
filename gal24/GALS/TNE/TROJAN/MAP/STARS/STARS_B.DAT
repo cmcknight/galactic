@@ -1,0 +1,25 @@
+@SUB-SECTOR: stars_B   SECTOR: trojan
+#
+# Trade routes within the subsector
+#
+#--------1---------2---------3
+#PlanetName   Loc. Stars(s)
+#----------   ---- ---------
+Walei         0902 K3 V M5 V
+Pa'an         0909 F3 V M0 V
+Gorgon        1005 K3 V
+Belgard       1106 K8 V A0 D
+Velscur       1110 F9 V
+Kaldamar      1201 F4 V
+Nabeth        1202 M4 V
+Waorl         1209 K6 V M3 V
+Gollere       1305 F5 V
+Ganulf        1307 M3 V
+Eleson        1308 F8 V M2 V
+Selshor       1402 F6 V M0 V
+Goria         1410 M1 V
+Carben        1502 K6 V M9 V
+Ashley's Rock 1601 K0 IV
+T'yana        1602 G4 V M2 V
+Vior          1605 M4 V
+Braudel       1608 K4 V

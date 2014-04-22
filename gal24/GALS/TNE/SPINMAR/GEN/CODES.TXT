@@ -1,0 +1,16 @@
+
+ The following special codes were used in the Spinward Marches listings:
+
+  Mr  - Military Rule
+  Tn  - T-Norm world  (see Traveller Adventure 4: Leviathan)
+  Tp  - T-Prime world (see Traveller Adventure 4: Leviathan)
+  St  - Steppeworld   (see Traveller Alien Module #2: K'kree)
+  C:x - Chirper minority population (x=0-9: 0<10%, 1=10% ... 9=90%)
+  Cw  - Chirper world - Chirpers are the dominant/only population
+  D:x - Droyne minority population (x=0-9: 0<10%, 1=10% ... 9=90%)
+  Dw  - Droyne world - Droyne are the dominant/only population
+  J:x - Jonkeereen minority population (x=0-9: 0<10%, 1=10% ... 9=90%)
+  Jw  - Jonkeereen world - Jonkeereen are the dominant population
+  V:x - Vargr minority population (x=0-9: 0<10%, 1=10% ... 9=90%)
+  Vw  - Vargr world - Vargr are the dominant population
+

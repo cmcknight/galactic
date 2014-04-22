@@ -1,0 +1,33 @@
+@SUB-SECTOR: stars_K   SECTOR: gvurrdon
+#
+# Trade routes within the subsector
+#
+#--------1---------2---------3
+#PlanetName   Loc. Stars(s)
+#----------   ---- ---------
+Ungan         1721 F0 V
+Tsounduekfegun1722 M1 V M3 D
+Ouse Faeg     1724 G8 V M3 D
+Aengvoung     1726 M1 II
+Ankhir        1728 M2 V
+Tirrokoelaegz 1821 F4 V M4 D
+Lurraengfangno1823 G9 VI
+Vaersngurr    1830 M5 V
+Gnoengungag   1923 F3 V
+Dzenzaega     1924 M2 V M8 D
+Asurrorr      1930 M1 V
+Ueksgug       2022 G8 V
+Rredzutsaezoug2023 M2 II
+Angasaer      2025 K9 V M5 D
+Kfenkudhuegzo 2029 M3 III
+Gurzhvoursivaz2030 M1 V
+Tagnaghoutsoza2123 G4 V M7 D
+Aellaesgvarzat2128 M1 V
+Gaekloungoerza2129 F4 V
+Gnael Oer     2226 M1 V
+Kueng         2229 M1 V M2 D
+Orsesokhin    2323 M5 V M5 VI
+Gaelaeth      2329 F6 V M9 D
+Thoegzekkfak  2422 M4 V M4 D
+Llueng        2424 M1 V M4 D
+Okhtous       2425 F3 VI

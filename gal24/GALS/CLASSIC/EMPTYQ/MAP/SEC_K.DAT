@@ -1,0 +1,26 @@
+@SUB-SECTOR: sec_K   SECTOR: emptyq
+#
+# Trade routes within the subsector
+#
+$1930 1529 -1 0
+$1930 2331 0 1
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Muso          1726 A232023-9  N De Lo Ni Po        203 Im
+MUGAMA        1728 E8699AA-A    Hi              A  203 Im
+Makarou       1729 B596444-A    Lo Ni              802 Im
+Survivors     1730 D8A6103-7    Lo Ni Fl           813 Im
+Omerta        1826 E9B066A-6    De Ni O:1930       404 Im
+Nieuwould     1830 E585598-2    Ag Ni              900 Im
+Miyazaki      1923 C6A7242-5    Lo Ni Fl           320 Na
+HEBRIN        1930 B250975-E  N Hi Cp              513 Im
+Pynchan       2030 A257640-8    Ag Ni              312 Im
+Hokkaido      2128 C610556-8    Na                 112 Im
+Tshane Eiseb  2129 BAA9533-B    Ni Fl              800 Im
+Venda         2130 C330510-6    Ni Po De           113 Im
+Cometela      2227 B78A48A-9    Lo Ni Wa           514 Im
+Painted Orb   2230 C434675-9    Ni                 404 Im
+Chugoku       2423 X000430-4    Lo Ni As        R  600 Cs
+Silence       2428 A225345-C    Lo Ni              701 Im

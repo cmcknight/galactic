@@ -1,0 +1,36 @@
+@SUB-SECTOR: stars_A   SECTOR: corridor
+#
+# Trade routes within the subsector
+#
+#--------1---------2---------3
+#PlanetName   Loc. Stars(s)
+#----------   ---- ---------
+Tersta        0102 F3 V
+Khouth        0104 M3 V
+Ankirst       0105 M1 V K3 V
+Ofo-Nebus     0106 M7 V M0 D
+Synez         0109 M2 V
+Koergfoes     0205 M5 V
+Mikesh        0206 K1 V
+Pergzitt      0209 M6 III K5 V
+Dry           0210 M5 V M9 V
+Serk          0304 M4 V
+Hesarus       0306 M1 V
+Caulins Belt  0307 M5 V
+Faraway       0308 M5 V
+Auritaurus    0401 F9 IV
+Rrev Rigr     0402 M7 V
+Sigma 7       0407 A9 V M9 V
+Koppel        0502 A9 III
+Naxx-lygo     0509 M8 V
+Pamock        0510 M2 V K8 V
+Greenrok      0601 M2 V M5 D
+Taratun       0603 M5 II
+Aka Gee       0605 M0 V K3 V
+Degarla       0606 K8 V
+Desolate      0608 G5 V
+Semiplast     0609 M7 V M1 V
+Gzorraeth     0701 K6 V
+Mowanda       0709 A9 V
+Treshurii     0804 A4 V
+Bersha        0807 K2 V M0 D

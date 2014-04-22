@@ -1,0 +1,9 @@
+@dir=gals\classic\gateway\gen
+@Light Yellow
+
+Gateway / General Information
+
+@Light Cyan
+      Sector Data                  @..\map\data.mnu
+      Credits                      @..\credits.txt
+

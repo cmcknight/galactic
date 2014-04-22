@@ -1,0 +1,65 @@
+@SUB-SECTOR: Gimgir   SECTOR: Antares
+#
+# Trade routes within the subsector
+#
+$2220 2421 0 1 11
+$2220 2118 0 0 11
+$2118 1816 0 0 11
+$2118 2216 0 0 11
+$2216 2315 0 0 11
+$2413 2315 0 0 11
+$1816 1516 -1 0 11
+$1911 2013 0 0 11
+$2013 2315 0 0 11
+$1911 1808 0 -1 11
+$2112 2209 0 -1 11
+$2112 2013 0 0 11
+$1816 1518 -1 0 11
+$1816 1713 0 0 11
+$1713 1911 0 0 11
+$1713 1513 -1 0 11
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Nakkmong      1711 B635312-9    Lo Ni              802 Im 
+Nafonguez     1713 B200766-9    Na Va              904 Im
+Lovina        1714 B7C2112-8  N Lo Ni Fl           604 Im 
+Pidashiiraa   1716 B98A796-8    Ri Wa              505 Im 
+Ukeri         1718 B785777-6    Ag Ri              234 Im 
+Brwygaid      1719 X527222-1    Lo Ni           R  713 Im 
+Shanirka      1812 E250598-4    Ni Po De           404 Im 
+Lirna         1813 C571352-9    Lo Ni              200 Im 
+Kamerkhina    1814 C7998BE-8                       114 Im 
+Pongu         1815 C574003-9    Lo Ni              300 Im 
+Dosmeielre    1816 A573477-E    Ni                 703 Im 
+Gokann        1817 C311546-C    Ni Ic              812 Im 
+Niidu         1818 E646443-5    Ni                 122 Im 
+Umohire       1819 E575679-7    Ag Ni              121 Im 
+Raerrgh       1820 X373200-5    Lo Ni           R  815 Im 
+Mata          1911 A6868BC-8  N                    804 Im 
+Brywlo        1912 B48756B-B    Ag Ni              225 Im 
+Anshasham     1913 CAB7444-8    Ni Fl              602 Im 
+Sanoet        1915 C96A843-9    Ri Wa              300 Im 
+Ocho          1920 D264989-9    Hi                 314 Im 
+Wannam        2012 A000563-F    Ni As              801 Im 
+Kasihaip      2013 A868387-B    Lo Ni              110 Im 
+Rroth         2111 BA9A210-8    Lo Ni Wa           703 Im 
+Gikegum       2112 B48559A-A    Ag Ni              604 Im 
+Dimiigiguu    2113 D110510-8    Ni                 823 Im 
+Irages        2114 B98A478-A    Ni Wa              404 Im 
+Musa          2115 B6AA520-D  N Ni Fl Wa           400 Im 
+Sabmiqys      2117 X160056-H    Ni              R  504 Im     f
+Nanuhato      2118 C676416-8    Ni                 104 Im 
+Oeng          2212 C99A575-A    Ni Wa              221 Im 
+Shiresi       2213 E446666-7    Ag Ni              600 Im 
+Othaunlere    2216 B464321-C  N Lo Ni              503 Im
+Skel          2218 D897000-5    Ba Lo Ni           413 Im 
+Mies          2219 D425553-8  S Ni                 211 Im 
+Nashigakhe    2220 B433231-D  N Lo Ni Po           804 Im 
+Irale         2315 B898998-B  S Hi In              320 Im 
+Oghoutsekae   2316 E653967-6    Po                 204 Im 
+Naabushiduu   2320 E798315-3    Lo Ni              712 Im 
+Odou          2411 EAB4116-5    Fl Lo Ni           624 Im 
+Kikarmur      2413 A8A6779-B    Fl                 803 Im 
+Dinvoo        2417 C898351-6  S Lo Ni              923 Im 
+

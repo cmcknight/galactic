@@ -1,0 +1,29 @@
+@SUB-SECTOR: i SECTOR: Gateway
+#
+# Jump-routes
+$0724 1022 1 0 13
+$0724 0625 0 0 13
+$0625 0825 0 0 13
+$0825 0928 1 0 13
+$0625 0528 0 0 13
+$0528 0430 0 0 13
+$0430 0433 0 1 13
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Tanis         0127 DA89654-8    Ni Ri              220 Na
+Far Portal    0130 A238346-A  N                    823 Na
+Costavan      0230 C360431-A    Ni De              601 Na
+Newpontere    0323 D597488-9    Ni                 724 Na
+Castamaria    0327 C64A672-A    Na Ni Wa           201 Na
+Redstorm      0425 D626888-8                       900 Ga
+Tamerij       0430 B467998-B    Hi                 305 Ga
+Amberinth     0527 C785897-A    Ri                 800 Ga
+Tharver       0528 B775985-9  N In Hi              111 Ga
+Ithelu        0622 C675512-A    Ag Ni              933 Na
+Revonis       0625 B220310-A    Lo Ni Po De        702 Ga
+Williwaw      0629 E999533-5    Ni                 402 Ga
+Carper        0724 C000447-B    Ni As              913 Ga
+Thermal       0727 D750300-9    De Po              224 Ga
+Corstation    0825 CS0A000-7    Ic Ba              011 Ga

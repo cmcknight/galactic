@@ -1,0 +1,43 @@
+#--------1---------2---------3
+#PlanetName   Loc. Star(s)
+#----------   ---- --------
+@SUB-SECTOR: Cemplas SECTOR: Core
+Umda          0921 
+Guba Ak       0922 
+Sheduu        0929 
+Kaplir        1022 
+Irkkha        1023 
+Miim          1028 
+Guuirk        1123 
+Imkhasham     1124 
+Ishiira       1125 
+Aruur         1129 
+Merkaakhu     1130 
+Shuukha Zuush 1221 
+Armi          1222 
+Muguu         1223 
+Irmi Khi      1225 
+Shanii Arduu  1226 
+Lishiruud     1228 M7 IV
+Bais Si       1229 
+Nuur          1321 
+Liper         1322 
+Kushur Naa    1323 
+Sar           1328 
+Shidkar       1330 
+Angar         1421 
+Ashbikuu      1422 
+Khusgurlu     1424 M1 IV
+Vlaarvla Akha 1428 
+Uukzi Giish   1430 
+Gaashi Ash    1522 
+Laus          1523 
+F'rnow        1524 
+Gikakhii      1526 
+Niin          1529 
+Arvli Khaan   1530 
+Genkaaa       1622 
+Aggaa Irpu    1623 
+Gakirvli      1625 
+Amshakshe     1628 
+Kuusuu Uur    1630 

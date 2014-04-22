@@ -1,0 +1,28 @@
+@SUB-SECTOR: stars_O   SECTOR: corridor
+#
+# Trade routes within the subsector
+#
+#--------1---------2---------3
+#PlanetName   Loc. Stars(s)
+#----------   ---- ---------
+Emephdee      1832 G2 V M2 D
+Jafla         1840 G5 V
+Sinta         2037 F9 V
+Ea'tiva       2039 K1 V M9 D
+Tainbee       2040 K0 V
+Kacxhun       2135 F1 V G2 V
+Whikee        2136 M8 V K4 D
+Inarli        2137 M6 V
+Dodardudos    2140 M2 V
+Setii Goek    2234 M8 V K0 V
+Kysar II      2235 M2 V K3 V
+Kateri-Divad  2238 M5 V
+Kloackin      2239 M9 V
+Fabeticu      2333 F4 V G0 D
+Kikasad       2334 F1 V M3 D
+Tahspeck      2335 F2 V
+Mok-Retinae   2336 M3 V
+Vapour        2338 F0 V
+Knofodu       2435 M1 V
+Ackang        2439 F6 V K6 V
+Doyaterfit    2440 G1 V M0 D

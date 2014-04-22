@@ -1,0 +1,30 @@
+@dir=help\qna\data
+@Light Yellow
+
+                      Figuring out the Data
+
+@Light Green
+     Figuring out the data files is one of the more difficult
+     aspects of using Galactic. Hopefully this will give you
+     some help.
+
+     Galaxy level files explained:
+@Light Cyan
+        List (.lst) files              @list.txt
+        UWP.DAT (stats & codes)        @uwp.txt
+
+@Light Green
+     Sector data files explained:
+@Light Cyan
+        Index of Sectors     @index.txt
+        Base Codes           @base.txt
+        Allegiance Codes     @alleg.txt
+
+@Light Green
+     Subsector data files explained:
+@Light Cyan
+        Jump Routes            @jump.txt
+        Worlds vs Non-Worlds   @wvnw.txt
+        More on Worlds (uwp & stuff)   @world.txt
+        More on Non-Worlds             @nonworld.txt
+        World Maps             @hwfmt.txt

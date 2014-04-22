@@ -1,0 +1,14 @@
+@dir=gals\classic\magyar\map
+@Light Yellow
+
+Magyar / Data Files
+
+@Light Cyan
+      Background                   @..\backdrop.txt
+      Alien Races                  @..\aliens.txt
+      Trading                      @..\shipping.txt
+      Military Bases               @..\military.txt
+      Pocket Empires               @..\pocket.txt
+      System List                  @..\systems.txt
+      Sector Data                  @..\magyar.dat
+      Credits                      @..\credits.txt

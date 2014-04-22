@@ -1,0 +1,28 @@
+@SUB-SECTOR: stars_A   SECTOR: trojan
+#
+# Trade routes within the subsector
+#
+#--------1---------2---------3
+#PlanetName   Loc. Stars(s)
+#----------   ---- ---------
+Taltern       0103 M2 V M2 V
+Bilke         0110 F0 V
+Szirp         0201 M8 V
+Sam's World   0202 G7 V
+Dustpan       0204 F2 V
+Heath         0209 K2 V M6 V
+Vip           0210 M8 V
+Crescent      0307 M1 V
+Trossachs     0310 F6 V
+Marseilles    0403 M4 V M6 V
+Paques        0404 M2 V K8 D
+Viceroy       0408 G6 V M1 V
+Allemagne     0503 M0 V M1 V
+Sable des Etos0504 F8 V M4 V
+Strend        0505 F4 V
+Halka         0510 M9 III
+Armada        0608 G9 V
+Adhara        0609 F2 V M9 V
+Zephyr        0702 F6 V
+Fomalhaut     0802 M7 V
+Hadara        0809 A3 V

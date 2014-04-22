@@ -1,0 +1,57 @@
+@SUB-SECTOR: sec_b   SECTOR: glimdrft
+#
+#Jump Routes
+$1107 1109 0 0
+$1107 1206 0 0
+$1109 1210 0 0
+$1203 1402 0 0
+$1203 1306 0 0
+$1206 1306 0 0
+$1210 1211 0 1
+$1306 1406 0 0
+$1308 1406 0 0
+$1308 1408 0 0
+$1401 1440 0 -1
+$1401 1402 0 0
+$1402 1602 0 0
+$1408 1608 0 0
+$1510 1609 0 0
+$1510 1511 0 1
+$1602 1802 1 0
+$1605 1606 0 0
+$1606 1607 0 0
+$1607 1707 1 0
+$1607 1608 0 0
+$1608 1609 0 0
+$1609 1710 1 0
+#
+#--------1---------2---------3---------4---------5---------6----
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- --
+Marchand      0902 A427868-C                       301 Na
+Axel          1007 C63A300-A    Wa                 400 Gl
+Girth         1008 C9A8500-A    Ni                 101 Gl
+Turhan        1010 D732100-6    Ni                 200 Gl
+Paranom       1101 E000368-9    As                 701 Im
+Krintokal     1103 E432210-A    Ni                 200 Im
+Scorpian      1104 C727525-A    Ni                 101 Im
+Wilmar        1107 A649772-A                       900 Gl
+Cornet        1109 D586787-5                       201 Gl
+Harkness      1201 XAC4350-B    Ni                 800 Im
+Petra         1203 A568777-9  S Ri Ag              601 Im
+Meritus       1206 D727673-6    Ni                 100 Gl
+Thorstone     1210 A664624-8    Ni                 301 Gl
+Arcan's       1306 A85A594-A    Wa                 601 Gl
+Idiothar      1308 C7B2748-8                       200 Gl
+Fatima        1401 A742887-9                       701 Im
+Cairo         1402 AA95477-D  N Ni                 800 Im
+Mildreth      1406 D895957-6                       701 Gl
+Paramond      1408 A729774-9                       501 Gl
+Valeris       1510 E554500-6    Ag                 201 Gl
+Davnet        1602 D558672-9    Ag                 700 Im
+Liana         1605 B756879-7    Ni                 301 Gl
+Vicat         1606 D7AA200-9    Wa                 601 Gl
+Bairdis       1607 AA63872-9                       400 Gl
+Bellmawr      1608 AAA6530-A    Ni                 101 Gl
+Amorica       1609 D6416B9-6    Ni                 401 Gl
+Balhk         1610 A727585-A    Ni                 901 Gl

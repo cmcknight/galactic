@@ -1,0 +1,49 @@
+@SUB-SECTOR: sec_j   SECTOR: ley
+#
+#Jump Routes
+$1027 0827 -1 0
+$1027 1328 0 0
+$1222 1320 0 -1
+$1222 1423 0 0
+$1230 1131 0 1
+$1230 1330 0 0
+$1327 1425 0 0
+$1327 1328 0 0
+$1328 1626 0 0
+$1328 1429 0 0
+$1330 1429 0 0
+$1423 1425 0 0
+$1423 1625 0 0
+$1425 1625 0 0
+$1429 1628 0 0
+$1429 1232 0 1
+$1625 1823 1 0
+$1625 1626 0 0
+$1626 1628 0 0
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Mazirix       0928 D200453-7    Ni                 101 Im
+Mirkholm      1022 D212435-8    Ni                 700 Im
+Phocis        1027 C865983-A                       401 Im
+Orissa        1028 E439110-9    Lo                 300 Im
+Orelib        1123 CAAA410-A    Ni                 800 Im
+Barkis        1222 A977984-C    In                 200 Im
+Danae         1230 B644666-9    Ag                 201 Im
+Thalia        1324 XAC9000-0    Ba                 000 Im
+Majoreum      1325 XA99100-8    Lo                 700 Im
+Elpaalis      1327 C000666-A    As                 601 Im
+Shuthalhites  1328 A954769-B  N Ca                 200 Im
+Aguris        1330 DAB9464-7    Ni                 100 Im
+Bilhan        1421 E5103D9-4    Ni              R  301 Na
+Jetur         1422 E342226-8    Ni                 300 Im
+Tikvath       1423 B856888-9                       300 Im
+Merab         1425 B979979-B    In                 200 Im
+Abishai       1429 B667A88-9                       200 Im
+Rugate        1525 X330210-0    Lo                 601 Im
+Myacae        1621 X100579-7                       401 Im
+Gorget        1625 B778AC9-9  S In                 300 Im
+Doomster      1626 C686874-7    Ri                 200 Im
+Pontisar      1628 B666644-9    Ri Ag              101 Im
+Starost       1629 X100211-0    Lo                 601 Im

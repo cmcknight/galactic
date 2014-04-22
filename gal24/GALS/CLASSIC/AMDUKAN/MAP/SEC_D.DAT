@@ -1,0 +1,42 @@
+@SUB-SECTOR: Faraeng SECTOR: Amdukan
+#
+# Trade Routes
+#
+$3206 0206 1 0 11
+$2605 2906 0 0 11
+$2906 3206 0 0 11
+$2906 2909 0 0 11
+$2605 2602 0 0 11
+$2602 2901 0 0 11
+$2605 2304 -1 0 11
+$2909 2912 0 1 11
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UWP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Fakkan        2501 D565979-4  C Hi                 600 Vw
+Aerrughuk     2507 C340300-6  M De Lo Ni Po        803 J-
+Attawigo      2508 E335589-5    Ni An              900 J-
+Tatha         2602 B764586-9    Ag Ni              204 Vw
+Uerreng       2605 B746202-7  J Lo Ni              602 J-
+Oegaeng       2701 C232599-A    Ni Po              513 Vw
+Thoughu       2705 C968572-4    Ag Ni              402 J-
+Oghagz Og     2709 D310354-7    Lo Ni              201 J-
+Uezaek        2801 C6998B6-8  C                    402 Vw
+Khikuu        2803 E353553-4    Ni Po              601 J-
+Ungars        2807 C100402-A    Ni Va              204 J-
+Zazna         2901 A7A658B-B  G Fl Ni Cp           304 Vw
+Akalae        2903 C510220-9  M Lo Ni              701 J-
+Oekhal        2905 D5857AE-5    Ag                 900 J-
+Zangoen       2906 B68A655-B    Ni Ri Wa           420 J-
+Afang         2909 B79A784-8    Wa                 224 J-
+Afoul         3002 C210320-8  M Lo Ni              621 J-
+Girkiras      3003 E6439A9-4    Hi In Po           312 J-
+Kighez        3005 D5257B8-5                       620 J-
+Inoerrgh      3010 C423652-6  M Na Ni Po           313 J-
+Jackpot       3101 E765799-1    Ag Ri C0           413 J-
+Ullsagh       3103 C37368A-7    Ni              A  613 J-
+Shardar       3106 C664678-4    Ag Ni Ri           833 J-
+Gzaga         3204 B130200-A  J De Lo Ni Po        214 J-
+Boondocks     3206 AA55679-9    Ag Ni              204 J-
+Centaur       3210 C884301-8    Lo Ni              702 J-
+

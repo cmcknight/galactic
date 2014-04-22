@@ -1,0 +1,29 @@
+@SUB-SECTOR: sec_D   SECTOR: deneb
+#
+# Trade routes within the subsector
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Tubb          2502 X89A7A8-7    Wa V:1             801 Wi
+Moskene       2506 X200000-0    Ba Va              003 --
+Unekh         2603 X200000-0    Ba Va              002 --
+Fosfog        2702 C57547C-5    Lo Ni Vw           414 Wi
+Zuekzrekhgal  2704 X343566-0    Ni Po Vw        B  424 Wi
+Utsbesyult    2802 X7855X4-4    Ag Ni An Dw V:0    222 Wi
+Akkip         2804 X44256A-2    Ni Po Vw        B  322 Wi
+Gabrael       2807 X473658-5    Ni V:3             124 Wi
+Tensas        2810 E556532-2    Ag Ni V:6          204 Wi
+Metare        2903 X324000-0    Ba                 001 --
+Fel           2904 X7A7000-0    Ba Fl              022 --
+Ikhaba        2905 D675573-7    Ag Ni              433 Wi
+Nurara        2906 X5A5000-0    Ba Fl              004 --
+Hammand       2907 X736000-0    Ba                 020 --
+Wyn           2908 D54648A-4    Lo Ni V:8          301 Wi
+Crozat        2910 X410000-0    Ba                 004 --
+Gnaedzrrang   3004 C363556-3    Ni Vw           B  314 Wi
+Arleshanu     3005 X262224-3    Lo Ni              520 Wi
+Taproban      3008 X8A8000-0    Ba Fl              020 --
+Aerfor        3104 X58456A-8    Ag Ni Vw           234 Wi
+Olokono       3110 X6A5000-0    Ba Fl              001 --
+Goukhsar      3201 D563243-4    Lo Ni Vw           110 Wi

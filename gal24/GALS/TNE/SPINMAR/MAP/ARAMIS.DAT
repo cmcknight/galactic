@@ -1,0 +1,33 @@
+@SUB-SECTOR: aramis   SECTOR: spinmar
+#
+# Trade routes within the subsector
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Paya          2509 A655241-9  N Lo Ni Tp           603 Re
+Dhian         2510 C9A769D-4    Fl Ni              602 Re
+Corfu         2602 X895674-8    V:3 Ag Ni Tp    R  322 Re
+Focaline      2607 EA88544-A    Ag Ni              724 Re
+Lablon        2701 B646589-A    Ag Ni Tp           503 Re
+Heguz         2706 E66A224-C    Lo Ni Wa           510 Re
+Violante      2708 C669452-A    Lo Ni Tp           420 Re
+Pavanne       2905 C669452-A    Lo Ni Tp           425 Re
+Carsten       2906 C427402-B    Lo Ni              804 Re
+Zila          2908 E25682C-7                    A  101 Re
+Jesedipere    3001 C775300-7    Lo Ni Tn           411 Re
+Yebab         3002 C9A499A-7    Fl Hi              112 Re
+Nasemin       3003 B98A422-B  S Lo Ni Wa           612 Re
+Zykoca        3004 X994542-6    Ag Ni Tp        R  320 Re
+Aramanx       3005 B657974-6    Hi Tp           B  310 Re
+Pysadi        3008 C4766D7-4    Ag Ni              401 Re
+L'oeul d'Dieu 3010 B98A510-B  N Ni Wa              502 Re
+Rugbird       3102 BAC5734-A    Fl              A  111 Re
+Towers        3103 B444448-A  S Lo Ni           A  735 Re
+Feneteman     3104 C222200-C    Lo Ni Po           910 Re
+Lewis         3107 X427402-D    Lo Ni           R  701 Re     m
+Aramis        3110 A6B0556-B  A Ni De Cp           710 Re
+Junidy        3202 B434ABD-9  W Hi                 310 Re
+Patinir       3207 C000632-9    Na Ni As An        323 Re
+Natoko        3209 B582211-8  N Lo Ni           A  801 Re
+Reacher       3210 C9A8542-8    Fl Ni           A  233 Re

@@ -1,0 +1,55 @@
+@SUB-SECTOR: Draco SECTOR: Gythios Sector
+#
+# Jump-routes
+$2412 2314 0 0
+$1719 1619 -1 0
+$1720 1619 -1 0
+$2112 2010 0 -1
+$2211 2010 0 -1
+$2412 2409 0 -1
+$1719 1723 0 1
+$2014 2116 0 0
+$2014 2214 0 0
+$2014 2217 0 0
+$2112 2211 0 0
+$2112 2214 0 0
+$2116 2119 0 0
+$2116 2120 0 0
+$2116 2214 0 0
+$2116 2216 0 0
+$2119 2217 0 0
+$2214 2216 0 0
+$2214 2217 0 0
+$2214 2314 0 0
+$2214 2516 1 0
+$2216 2516 1 0
+$1918 1719 0 0
+$1918 2119 0 0
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Bormor        1711 X000000-0    As Ba Lo           000 Na 000
+Ayesh         1719 A545778-9  N Ag                 705 Dr 455
+Prestes       1720 A998A66-E    Hi                 805 Dr 1DR
+Redmundo      1811 D575551-8    Ag                 403 Na 261
+Abramo        1813 C541479-9                       600 Dr 040
+Skyllith      1816 D566A74-8  S Hi                 804 Dr 310
+Joshua        1911 X230000-0    Ba De Lo           001 Na 400
+Frater        1918 C373200-A    Lo                 803 Dr 400
+Hobwyfe       1919 X6B5000-0    Ba Fl Lo           002 Dr 090
+Sing          2012 D683664-5  S                    300 Dr 06M
+Tolleray      2014 A524666-B                       405 Dr 96S
+Yarmouth      2019 X5A3000-0    Ba Fl Lo           013 Dr 480
+Tayllour      2112 A9DA876-D  N Wa                 304 Dr 98Z
+Nick          2116 A443655-C                       220 Dr 920
+Matilda       2119 A94968A-C    Ag                 503 Dr 475
+Cetus         2120 B647844-A                       403 Dr 230
+Ginya         2211 A5799CB-E  S Hi                 733 Dr 36C
+Furkel        2213 X98A000-0    Ba Lo Wa           012 Dr 060
+Draco         2214 A764A72-D    Hi                 404 Dr 39W
+Barebranch    2216 A9A2572-9  N Fl                 811 Dr 0EP
+Tuck          2217 A554387-A  2 Lo                 903 Dr 250
+Cameron       2314 A8A48BE-7  2 Fl                 300 Dr 3AU
+Constanin     2411 D532389-7  S Lo                 405 Dr 820
+Xyn           2412 B556753-8    Ag                 814 Dr 051

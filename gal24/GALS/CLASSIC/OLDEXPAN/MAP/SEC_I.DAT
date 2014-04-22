@@ -1,0 +1,43 @@
+@SUB-SECTOR: sec_I   SECTOR: oldexpan
+#
+# Trade routes within the subsector
+$0222 0520 0 -1
+$0703 0520 0 -1
+$0222 0125 0 0
+$0125 0127 0 0
+$0127 0327 0 0
+$0327 0334 0 1
+$0330 0732 0 1
+$0327 3123 -1 0
+$0723 0922 1 0
+$0723 0926 1 0
+$0829 0732 0 1
+$0829 0929 1 0
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Martham       0121 C452824-A    Po                 202 Im
+Sibbage       0123 A254644-E  N Ag Ni              502 Im
+Burlta        0125 A799A97-D  S Hi In              700 Im
+Possin        0127 A322ADA-F    Hi In Na Po        102 Im
+Darainne      0128 A53189A-E    Na Po              702 Im
+New Martham   0221 BAC3625-E    Fl Ni              112 Im
+Hodg          0222 A758813-F                       402 Im
+La Shend      0224 C9C4732-9    Fl                 902 Im
+Lote          0229 B77A632-E  N Ni Wa              702 Im
+Bwan Murr     0325 C455741-9    Ag                 425 Im
+Sh' Lur       0327 A426954-F  W Hi In              521 Im
+Tarryel       0330 C572886-B  S                    502 Im
+Sauler        0424 B884574-B  S Ag Ni              600 Im
+Drila         0521 C232633-B    Na Ni Po           622 Im
+Etpur         0621 C637744-E  S                    825 Im
+Meadsk        0628 X987556-2    Ag Ni           R  904 Im
+Dho Il's Worl 0721 C2206AF-C  S De Na Ni Po     A  905 Im
+Traeviss      0722 C000601-D    As Na Ni           804 Im
+Coaise        0723 A556834-F  N                    414 Im
+Marax         0726 C573652-A    Ni                 903 Im
+Zoraith       0729 B525764-D                    A  512 Im
+Shaphry       0823 B734762-E                       300 Im
+Tiniyd        0825 C543645-C  S Ni Po              321 Im
+Xezor         0829 B87A746-A  A Wa                 601 Im

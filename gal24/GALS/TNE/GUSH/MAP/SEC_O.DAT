@@ -1,0 +1,48 @@
+@SUB-SECTOR: sec_O   SECTOR: gush
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Muthi         1732 C87368A-5    Ni                 914 Wi
+Arnuukara     1733 X36066C-1    Ni De           B  613 Wi
+Arniche       1734 X427000-0    Ba                 002 --
+Ushiia        1735 X200000-0    Ba Va              030 --
+Ceoth         1737 X595322-3    Lo Ni           B  214 Wi
+Khii Sheik    1739 X333000-0    Ba Po              000 --
+Derry         1740 X100000-0    Ba Va              024 --
+Oaxaca        1832 X85A769-8    Wa              B  305 Wi
+Nimshikake    1833 X664587-5    Ag Ni           B  302 Wi
+Rean          1835 X467413-4    Lo Ni           B  503 Wi
+Cholo         1839 E465688-4    Ag Ni              602 Wi
+Hopkins       1932 X46749A-3    Lo Ni              103 Wi
+Oyrayt        1933 X486301-4    Lo Ni              200 Wi
+Aisteaya      1935 X463454-5    Lo Ni              520 Wi
+Atu Ista      1936 X679567-5    Ni              B  310 Wi
+Sombani       2031 X222000-0    Ba Po              023 --
+Gushirdiimi   2036 X442486-4    Lo Ni Po           323 Wi
+Highbury      2037 X424000-0    Ba                 002 --
+Yolai'        2038 X758678-5    Ag Ni              613 Wi
+Tiirmmay      2040 X231000-0    Ba Po              004 --
+Glipli        2131 X525000-0    Ba                 020 --
+Edoy          2132 X556402-2    Lo Ni           B  124 Wi
+Cledsetsaenn  2134 X000000-0    Ba As              033 --
+Bitesofrach   2136 X787330-4    Lo Ni           B  325 Wi
+Wesas         2139 X696100-0    Lo Ni              403 Wi
+Kuwiru        2140 X510000-0    Ba                 010 --
+Zanish        2231 X6778CH-5                    B  203 Wi
+Khugika       2233 X353877-2    Po              B  503 Wi
+Thanarmoos    2237 X524000-0    Ba                 004 --
+Lleska        2240 X622000-0    Ba Po              012 --
+Aying         2331 X73A000-0    Ba Wa              014 --
+Danla         2332 E672633-3  S Ni              B  713 Wi
+Tethaym       2333 X000000-0    Ba As              003 --
+Gerhardus     2334 X252566-3    Ni Po           B  423 Wi
+Chipoka       2335 X666797-5    Ag                 124 Wi
+Arapenpa      2336 X140453-6    Lo Ni Po De        325 Wi
+Giffard       2337 X513000-0    Ba Ic              023 --
+Thulm         2339 X656325-3    Lo Ni              304 Wi
+Elk           2340 D874555-6    Ag Ni              412 Wi
+Kiaan         2431 D583637-8    Ni                 803 Wi
+Muaash        2434 X365100-4    Lo Ni              512 Wi
+Jars          2438 X500000-0    Ba Va              004 --
+Susadi        2439 X8C1000-0    Fl Ba              001 --
+Oyrk          2440 E457442-3    Lo Ni              413 Wi

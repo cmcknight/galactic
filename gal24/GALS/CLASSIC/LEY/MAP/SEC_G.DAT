@@ -1,0 +1,29 @@
+@SUB-SECTOR: sec_g   SECTOR: ley
+#
+#Jump Routes
+$1714 1513 -1 0
+$1714 1915 0 0
+$1817 1915 0 0
+$2217 2320 0 0
+$2320 2221 0 1
+#
+#--------1---------2---------3---------4---------5----------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- --
+Almira        1712 C733632-6    Na                 500 Im
+Valisa        1714 B786887-7    Ri                 400 Im
+Orlantis      1716 EAA9410-7    Ni                 600 Im
+Arcanea       1719 X200000-0    Ba                 001 Im
+Tawdry        1811 C310584-A                       701 Im
+Reaginworld   1813 C000422-B    As                 701 Im
+Nathalia      1817 B987662-B    Ag                 701 Im
+Arnitag       1915 B998949-B  N In                 101 Im
+Mira          2011 X310210-8    Lo                 501 Na
+Selena        2016 C4446A9-9    Ag                 500 Im
+Zarifa        2019 C240453-9                       601 Im
+Dugald        2112 E213437-7    Ni                 100 Cs
+Starbridge    2217 A964899-C  N Ri Ca              301 Im
+Phantom       2219 E100432-A    Ni                 401 Im
+Selwynis      2312 D411477-8    Ni                 600 Na
+Walter        2320 B686889-9    Ri                 901 Im
+Tamarine      2415 D524335-5    Ni                 200 Cs

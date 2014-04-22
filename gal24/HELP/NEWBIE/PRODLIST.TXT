@@ -1,0 +1,398 @@
+
+Joe Walsh (ransom@iconnect.net) & Scott Davis (thorinn@aol.com)
+are in the process of putting together a list of products published
+for Classic Traveller. This is what they've dug up as of 18-Aug-96.
+If you want a more up-to-date version of this, you might try
+emailing either of them directly.
+
+
+------------------------------------------
+The Big List of Classic Traveller Products
+------------------------------------------
+
+
+Products by Ad Astra Products
+-----------------------------
+Type            #       Title                                           Year
+=============   ===     ==============================================  ====
+Forms           ???     World Displays                                  1981
+
+
+Products by Baron Publications
+------------------------------
+Type            #       Title                                           Year
+=============   ===     ==============================================  ====
+Forms           ???     Imperial Form 1                                 1981
+
+
+Products by Chuck Kallenbach II
+-------------------------------
+Type            #       Title                                           Year
+=============   ===     ==============================================  ====
+Forms           ???     Ships Papers                                    1980
+Forms           ???     Personal Data Sheets                            1980
+Forms           ???     Star Ship Log                                   1980
+Forms           ???     System Data Sheet                               1980
+
+
+Products by Citadel Miniatures
+------------------------------
+Type            #       Title                                           Year
+=============   ===     ==============================================  ====
+Miniatures      ???     Set 1: Adventurers                              ????
+Miniatures      ???     Set 2: The Military                             ????
+Miniatures      ???     Set 3: Ship's Crew                              ????
+Miniatures      ???     Set 4: Citizens                                 ????
+Miniatures      ???     Set 5: Aliens                                   ????
+Miniatures      ???     Striker Set 1: Low Tech Infantry                ????
+Miniatures      ???     Striker Set 2: Medium Tech Infantry             ????
+Miniatures      ???     Striker Set 3: High Tech Infantry               ????
+Miniatures      ???     Striker Set 4: High Tech Infantry               ????
+Miniatures      ???     Striker Set 5: Imperial Infantry                ????
+
+
+Products by Digest Group Publications
+-------------------------------------
+Type            #       Title                                           Year
+=============   ===     ==============================================  ====
+Supplement      ---     Grand Survey                                    1986
+Supplement      863     Grand Census                                    1987
+Supplement      ---     101 Robots                                      1986
+Magazine        1       Travellers' Digest                              ????
+Magazine        2       Travellers' Digest                              ????
+Magazine        3       Travellers' Digest                              ????
+Magazine        4       Travellers' Digest                              ????
+Magazine        5       Travellers' Digest                              ????
+Magazine        6       Travellers' Digest                              1986
+Magazine        7       Travellers' Digest                              ????
+Magazine        8       Travellers' Digest                              1987
+Magazine        9       Travellers' Digest                              1987
+Magazine        10      Travellers' Digest                              1987
+Magazine        11      Travellers' Digest                              1987
+
+
+Products by FASA
+----------------
+Type            #       Title                                           Year
+=============   ==      ==============================================  ====
+Adventure       A1      Ordeal by Eshaar                                1981
+Adventure       A2      Action Aboard                                   1981
+Adventure       A3      Uragyad'n of the Seven Pillars                  1981
+Adventure       A4      Legend of the Sky Raiders                       1981
+Adventure       A5      FCI Consumer Guide                              1982
+Adventure       A6      Rescue on Galatea                               1982
+Adventure       A7      The Trail of the Sky Raiders                    1982
+Adventure       ??      Fate of the Sky Raiders                         1982
+Adventure       ??      Stazhlekh Report/The Harrensa Project           1983
+Supplement      B1      Adventure Class Ships - Volume 1                1981
+Supplement      B2      Starport Module 1 - Hotel Complex               1981
+Supplement      B3      Merchant Class Ships                            1981
+Supplement      B4      Aslan Mercenary Ships                           1982
+Supplement      ??      Adventure Class Ships - Volume 2                1982
+Supplement      ??      ISPMV: Fenris                                   1981
+Supplement      ??      SPV: Valkyrie                                   ????
+Supplement      ??      ISCV: King Richard                              1981
+Supplement      ??      ISPMV: Tethys                                   1981
+Supplement      ??      ISCV: Leander                                   1981
+Supplement      ??      ZISMV: Vlezhdatl                                1981
+Magazine        1       High Passage                                    1981
+Magazine        2       High Passage                                    1981
+Magazine        3       High Passage                                    1982
+Magazine        4       High Passage                                    1982
+Magazine        5       High Passage                                    1982
+Magazine        1       Far Traveller                                   1982
+Magazine        2       Far Traveller                                   1983
+
+
+Products by Game Designers' Workshop
+------------------------------------
+Type            #       Title                                           Year
+=============   ==      ==============================================  ====
+Book            0       An Introduction to Traveller                    1981
+Book            1       Characters and Combat                           1977
+Book            1       Characters and Combat                           1981
+Book            2       Starships                                       1977
+Book            2       Starships                                       1981
+Book            3       Worlds and Adventure                            1977
+Book            3       Worlds and Adventure                            1981
+Book            4       Mercenary                                       1978
+Book            5       High Guard (First Edition)                      1979
+Book            5       High Guard (Second Edition)                     1980
+Book            6       Scouts                                          1983
+Book            7       Merchant Prince                                 1985
+Book            8       Robots                                          1986
+Supplement      1       1001 Characters                                 1978
+Supplement      2       Animal Encounters                               1979
+Supplement      3       The Spinward Marches                            1979
+Supplement      4       Citizens of the Imperium                        1979
+Supplement      5       Lightning Class Cruisers                        1980
+Supplement      6       76 Patrons                                      1980
+Supplement      7       Traders and Gunboats                            1980
+Supplement      8       Library Data (A-M)                              1980
+Supplement      9       Fighting Ships                                  1981
+Supplement      10      The Solomani Rim                                1982
+Supplement      11      Library Data (N-Z)                              1982
+Supplement      12      Forms and Charts                                1983
+Supplement      13      Veterans                                        1983
+Adventure       0       The Imperial Fringe                             1981
+Adventure       1       The Kinunir                                     1979
+Adventure       2       Research Station Gamma                          1980
+Adventure       3       Twilight's Peak                                 1980
+Adventure       4       Leviathan                                       1980
+Adventure       5       Trillion Credit Squadron                        1981
+Adventure       6       Expedition to Zhodane                           1981
+Adventure       7       Broadsword                                      1982
+Adventure       8       Prison Planet                                   1982
+Adventure       9       Nomads of the World-Ocean                       1983
+Adventure       10      Safari Ship                                     1984
+Adventure       11      Murder on Arcturus Station                      1983
+Adventure       12      Secret of the Ancients                          1984
+Adventure       13      Signal GK                                       1985
+Double Adv.     1       Shadows/Annic Nova                              1980
+Double Adv.     2       Mission on Mithril/Across the Brightface        1980
+Double Adv.     3       The Argon Gambit/Death Station                  1981
+Double Adv.     4       Marooned/Marooned Alone                         1981
+Double Adv.     5       The Chamax Plague/Horde                         1981
+Double Adv.     6       Divine Intervention/Night of Conquest           1982
+Alien Module    1       Aslan                                           1984
+Alien Module    2       K'Kree                                          1984
+Alien Module    3       Vargr                                           1984
+Alien Module    4       Zhodani                                         1985
+Alien Module    5       Droyne                                          1985
+Alien Module    6       Solomani                                        1986
+Alien Module    7       Hivers                                          1986
+Alien Module    8       Darrians                                        1987
+Rules Set               Traveller                                       1977
+Rules Set               Deluxe Traveller                                1981
+Rules Set               The Traveller Book (Hardcover)                  1982
+Rules Set               The Traveller Book (Softcover)                  1983
+Rules Set               Starter Traveller                               1983
+Rules Set               Deluxe Starter Traveller                        1983
+Game            1       Mayday                                          1978
+Game            1       Mayday                                          1980
+Game            1       Mayday                                          1983
+Game            2       Snapshot                                        1983
+Game            3       Azhanti High Lightning                          1980
+Game            4       Fifth Frontier War                              ????
+Game            5       Invasion: Earth                                 1981
+Game                    Striker                                         1981
+Game                    Imperium                                        1990
+Module          1       Tarsus: World Beyond the Frontier               1983
+Module          2       Beltstrike                                      1984
+Campaign                The Traveller Adventure                         1983
+Campaign                The Spinward Marches Campaign                   1985
+Special Adv.            Alien Realms                                    1986
+Special Supp.           Atlas of the Imperium                           1984
+Special Supp.           Understanding Traveller                         1982
+Handout                 Aliens                                          ????
+Poster                  Known Space Map                                 ????
+Poster                  Vargr                                           ????
+Poster                  Free Trader Beowulf                             ????
+JTAS            1       Annic Nova                                      1979
+JTAS            2       Victoria                                        1979
+JTAS            3       Asteroid Mining                                 1979
+JTAS            4       Gazelle/Emperors of the Third Imperium          1980
+JTAS            5       Imperium                                        1980
+JTAS            6       The Imperial Interstellar Scout Service         1980
+JTAS            7       Champa Interstellar Starport                    1981
+JTAS            8       Broadsword Class Mercenary Cruisers             1981
+JTAS            9       War!                                            1981
+JTAS            10      A Referee's Guide to Planet-Building            1981
+JTAS            11      Striker Miniatures Issue                        1981
+JTAS            12      Merchant Prince (W/ Special Pull-Out)           1981
+JTAS            13      Hivers                                          1982
+JTAS            14      Laws & Lawbreakers                              1982
+JTAS            15      Azun:A High-Population World in the Solomani Rim1983
+JTAS            16      SuSAG                                           1983
+JTAS            17      Atmospheres (W/ Special Pull-Out)               1983
+JTAS            18      Travelling Without Jumping                      1983
+JTAS            19      Skyport Authority                               1983
+JTAS            20      Prologue: Adventure in the Not So Far Future    1984
+JTAS            21      Vargr (W/ Special Supplement 3:Missiles)        1984
+JTAS            22      Port to Jump-Point, Planetary Maps              1985
+JTAS            23      Zhodani Philosophies, Road Show                 1985
+JTAS            24      Religion in the Two Thousand Worlds             1985
+Best of JTAS    1       Selected Articles from Journals 1 to 4          1980
+Best of JTAS    2       Selected Articles from Journals 5 to 8          1981
+Best of JTAS    3       Selected Articles from Journals 9-12            1982
+Best of JTAS    4       Selected Articles from Journals 13 to 16        1983
+
+
+Products by Gamelords, Ltd.
+---------------------------
+Type            #       Title                                           Year
+=============   ====    ==============================================  ====
+Supplement      1971    Wanted: Adventurers                             1984
+Supplement      1975    Startown Liberty                                1984
+Supplement      1980    Lee's Guide to Interstellar Adventure - Vol. 1  1983
+Supplement      1984    The Undersea Environment                        1983
+Adventure       1985    The Drenslaar Quest                             1983
+Supplement      1986    The Mountain Environment                        1983
+Adventure       1987    Ascent to Anekthor                              1984
+Supplement      1988    The Desert Environment                          1984
+Adventure       1989    Duneraiders                                     1984
+Supplement      2980    A Pilot's Guide to the Drexilthar Subsector     1984
+
+
+Products by Games Workshop
+--------------------------
+Type            #       Title                                           Year
+=============   ====    ==============================================  ====
+Supplement      2405    IISS Ship Files                                 1981
+Forms           ???     Personal Data Files                             1981
+Forms           ???     Star Ship Layout Sheets                         1981
+
+
+Products by Grenadier Models
+----------------------------
+Type            #       Title                                           Year
+=============   ====    ==============================================  ====
+Adventure       704     Disappearance on Aramat                         1984
+Miniatures      1001    Imperial Marines                                ????
+Miniatures      1002    Adventurers                                     ????
+Miniatures      1003    ?                                               ????
+Miniatures      1004    Alien Mercenaries                               ????
+
+
+Products by Group One
+---------------------
+Type            #       Title                                           Year
+=============   ===     ==============================================  ====
+Supplement      ???     Encounters in the Phoenix Quadrant              1980
+Supplement      ???     Encounters in the Corelian Quadrant             1980
+Supplement      ???     Encounters in the Ventura Quadrant              1980
+Adventure       ???     Mission to Zephor                               1980
+Supplement      ???     Pen-Latol's World                               1980
+Adventure       ???     Geptorem                                        1981
+Supplement      ???     Hydronaut                                       1981
+Adventure       ???     Lamoda IV                                       1981
+Supplement      ???     Marinagua                                       1981
+Supplement      ???     Nithus                                          1981
+Supplement      ???     Nystalux                                        1981
+Adventure       ???     Port Xanatath                                   1981
+Supplement      ???     Sapies                                          1981
+Supplement      ???     Theta Borealis Sector                           1981
+Supplement      ???     Wabor-Parn                                      1981
+
+
+Products by Judges' Guild
+-------------------------
+Type            #       Title                                           Year
+=============   ===     ==============================================  ====
+Supplement      75      Traveller Referee Screen                        1979
+Supplement      78      The Traveller Logbook                           1979
+Supplement      89      Starships & Spacecraft                          1979
+Adventure       105     Dra'k'ne Station                                1979
+Adventure       330     Tancred                                         1980
+Supplement      340     Ley Sector                                      1980
+Adventure       350     Darthanon Queen                                 1980
+Supplement      360     Laser Tank                                      1980
+Forms           410     The Astrogator's Chartbook                      1980
+Supplement      480     Fifty Starbases                                 1981
+Supplement      490     Glimmerdrift Reaches                            1981
+Adventure       500     Doom of the Singing Star                        1981
+Forms           520     Navigator's Starcharts                          1981
+Adventure       590     Crucis Margin                                   1981
+Adventure       640     Marooned on Ghostring                           1981
+Adventure       710     Amycus Probe                                    1981
+Adventure       720     Rogue Moon of Spinstorme                        1981
+Adventure       730     Simba Safari                                    1981
+Supplement      760     Maranatha - Alkahest Sector                     1981
+Supplement      880     Corsairs of the Turku Waste                     1982
+Adventure       940     Waspwinter                                      1981
+Adventure       960     Darkling Ship                                   1982
+
+
+Products by Marischal Adventures
+--------------------------------
+Type            #       Title                                           Year
+=============   ===     ==============================================  ====
+Folio Advent.   ---     Fleetwatch                                      1981
+Folio Advent.   ---     Flight of the Stag                              1981
+Folio Advent.   ---     Salvage Mission                                 1981
+Folio Advent.   ---     Trading Team                                    1981
+
+
+Products by Martian Metals
+--------------------------
+Type            #       Title                                           Year
+=============   ===     ==============================================  ====
+Miniatures      ???     ?                                               ?
+
+
+Products by Paranoia Press
+--------------------------
+Type            #       Title                                           Year
+=============   =====   ==============================================  ====
+Supplement      01001   Scouts & Assassins (First Edition)              1980
+Supplement      01001   Scouts & Assassins (Second Edition)             1981
+Supplement      01001   Scouts & Assassins (UK Edition)                 1981
+Supplement      01002   Merchants & Merchandise                         1981
+Supplement      01002   Merchants & Merchandise (UK Edition)            1981
+Supplement      01003   Vanguard Reaches                                1981
+Supplement      01004   Beyond                                          1981
+Supplement      01004   Beyond (UK Edition)                             1981
+Supplement      01005   SORAG                                           1981
+Supplement      01005   SORAG (UK Edition - Pink Cover)                 1981
+Forms           02102   Planetary Data Sheet                            ????
+Forms           02201   Ship's Papers                                   ????
+Forms           02202   System Data Sheet                               ????
+Forms           02401   Personal Data Sheet                             ????
+Forms           ?????   Starship Logs                                   1980
+
+
+Products by Robert W. Warfield
+------------------------------
+Type            #       Title                                           Year
+=============   ===     ==============================================  ====
+Adventure       ???     Evening Star                                    1979
+
+
+Products by Seeker
+------------------
+Type            #       Title                                           Year
+=============   ===     ==============================================  ====
+Supplement      ???     Module 1: The Corporation                       ????
+Supplement      ???     Module 2: Research Facility                     ????
+Supplement      ???     Module 3: Merchant Class Ships                  1986
+Adventure       ???     Fleetwatch                                      1986
+Adventure       ???     Flight of the Stag                              1986
+Supplement      ???     Gazelle Class Close Escort                      1987
+Adventure       ???     Salvage Mission                                 1987
+Adventure       ???     Escape                                          1987
+Adventure       ???     Trading Team                                    1987
+
+
+Products by Star Quest Games
+----------------------------
+Type            #       Title                                           Year
+=============   ====    ==============================================  ====
+Supplement      0001    Original Traveller Referee Screen               1993
+Magazine        0002    Imperial News Service, Issue 1                  1993
+Adventure       0003    Down and Out of Luck                            1993
+Magazine        0004    Imperial News Service, Issue 2                  1993
+
+
+Products by Steve Jackson Games
+-------------------------------
+Type            #       Title                                           Year
+=============   ====    ==============================================  ====
+Cardbrd Heros   2201    Set 1: Soldiers of Fortune                      1982
+Cardbrd Heros   ???     Set 2: Imperial Marines                         ????
+Cardbrd Heros   ???     Set 3: Zhodani                                  ????
+
+
+A Note on Magazines:  While additional issues of many listed magazines 
+(i.e., Travellers' Digest, JTAS (as Challenge), etc.) were produced, 
+they are not included here because those issues contained material related
+to games other than Classic Traveller, even though they did contain some 
+material usable in the Classic Traveller system.  This is also the reason 
+certain issues of Space Gamer, Dragon Magazine, and others are not listed.
+
+|||||||||||||||||||||||||||| C R E D I T S ||||||||||||||||||||||||||||||||
+
+List Originator and Keeper:  Joe Walsh (ransom@iconnect.net)
+Major Contributors:  Joe Walsh, Scott Davis (thorinn@aol.com)
+Special Thanks To:  All the folks on the xboat mailing list that took the
+                    time to contribute corrections and additions.
+

@@ -1,0 +1,48 @@
+@SUB-SECTOR: sec_O   SECTOR: beyond.sec
+#
+# Trade routes within the subsector
+$2235 1635 -1 0
+$2235 2531 1 0
+$1739 1539 -1 0
+$1739 1839 0 0
+$1839 1841 0 1
+$1739 1738 0 0
+$1738 1837 0 0
+$1837 1937 0 0
+$1937 2137 0 0
+$2137 2235 0 0
+$2235 2434 0 0
+$2434 2535 1 0
+$1937 1836 0 0
+$1937 1936 0 0
+$1937 1938 0 0
+$1937 2036 0 0
+$1937 2037 0 0
+$1931 2030 0 -1
+$2031 2030 0 -1
+$2131 2030 0 -1
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Fifth Horsem. 1738 D675789-6  T Ag                 9   Na     f
+Fourth Horsem.1739 A000550-A  2 Ni                 3   Na     f
+Station Five  1836 E887401-2    Ni                 9   Na     f
+Stormhaven    1837 A986364-D  2 Ni                 8   Na     f
+Salus         1839 B788400-8    Na Ni           A  4   Na
+Gryphon       1931 B658303-8    Na Ni              5   Na
+Stormpressed  1936 C581879-4    Ri                 7   Na     f
+Storm Centre  1937 A762150-G  S Ni              R  8   Na     f
+Stormcrag     1938 D87643A-2    Ni                 4   Na     f
+Wilde         2031 D657677-1    Na Ni              2   Na
+Stormhold     2036 C54587A-9                    A  3   Na     f
+Stormcast     2037 C3004A7-9  I Ni                 4   Na     f
+Bete Noire    2040 B795436-7    Ni                 2   As     f
+Streel        2131 A869346-A  T Na Ni              6   Na
+Yafjha        2137 B566100-A  N Ni                 1   As
+Compagnon Noir2139 B9C3376-A    Ni                 2   As
+New Groton    2235 A8798B9-F  M                    7   Na     f
+Stormedge     2331 A432280-9    Ni Po              5   IS
+Directory     2338 D988478-6    Ni                 2   As     f
+Armory        2434 A411120-F  2 Ni                 9   As     f
+Pournelle's T.2435 C752327-8  S Ni Po              5   Na     f

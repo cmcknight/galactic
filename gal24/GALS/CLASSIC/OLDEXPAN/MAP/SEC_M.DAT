@@ -1,0 +1,42 @@
+@SUB-SECTOR: sec_M   SECTOR: oldexpan
+#
+# Trade routes within the subsector
+$0334 0330 0 -1
+$0732 0330 0 -1
+$0732 0829 0 -1
+$0334 0437 0 0
+$0437 0640 0 0
+$0640 0601 0 1
+$0640 0738 0 0
+$0437 0738 0 0
+$0738 1139 1 0
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Arvid         0131 A9C7866-E    Fl                 425 Im
+Keipes        0132 A6778BC-B  N                    311 Im
+Atrase        0134 A68A357-C    Lo Ni Wa           315 Im
+Savjanni      0135 A330764-E  S De Na Po           103 Im
+Svarla        0137 B200765-D  S Na Va              201 Im
+Nicosia       0138 A56667A-C  N Ag Ni Ri           411 Im
+Thorell       0231 X510276-0    Lo Ni           R  720 Im
+Kresek        0236 C8C7675-A    Fl Ni              302 Im
+Peirsma       0240 A000646-D    As Na Ni           210 Im
+Buhle         0334 A51099B-F  A Hi In Na           404 Im
+Trybec        0336 B443610-E  S Ni Po              603 Im
+Rohit         0337 C110543-C    Ni                 222 Im
+Adrian        0432 A42667A-E    Ni                 103 Im
+Fija          0434 C553754-D  S Po                 605 Im
+Macis         0436 A8C5856-B  N Fl                 824 Im
+Vezina        0437 B344778-F  W Ag              A  804 Im
+Lancer        0439 C55A657-A  S Ni Wa              914 Im
+Galos         0535 C576664-9  S Ag Ni              504 Im
+Zloff         0632 C674666-8    Ag Ni              302 Im
+Schall        0638 X47A113-5    Lo Ni Wa        R  534 Im
+Seliga        0640 A532747-F  A Na Po              801 Im
+Hite          0732 B4478A9-F  N                    913 Im
+Kruyter       0735 A000475-B    As Ni              203 Im
+Fuetz         0737 A267437-C    Ni                 304 Im
+Vras          0738 A78A773-F    Wa Ri              704 Im
+Conner        0840 A31058A-A  S Ni                 303 Im

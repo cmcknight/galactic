@@ -1,0 +1,17 @@
+@dir=gals\gmc\newlands\loc\
+@Light Yellow
+
+          Jakob System
+
+@Light Green
+   IMSC Navigation Notice
+@Red
+   *******WARNING*******
+@Light Green
+   LOCAL INTERDICTION
+   Jakob, Newlands 2702
+
+@Light Cyan
+      Public Data                  @p2702.txt
+      Common Knowledge             @p2702b.txt
+      Classified Information       @p2702c.txt

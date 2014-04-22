@@ -1,0 +1,32 @@
+@SUB-SECTOR: sec_K   SECTOR: trojan
+#
+# Trade routes within the subsector
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Oiwoiieaw     1723 C7878M7-D    Ri Tp              711 As
+Asoieteal     1728 B6976J8-A  R Ag Ni Tp           604 As
+Kamoran       1823 B551687-8    Ni Po              514 As
+Keaih         1830 CAA18J7-9    Fl                 202 As
+Ohauair       1927 C4223G8-9  T Lo Ni Po           214 As
+Tlaiowaha     1928 B1209L4-E  T Na Hi In Po De     411 A1
+Khusai        2023 A5767M5-C  R Ag                 124 As
+Staha         2029 B7554K6-E  R Lo Ni Tp           313 As
+Asim          2123 C8675K3-6    Ag Ni Tn           305 As
+Kteiroa       2125 C4601K4-8    Lo Ni De           410 As
+Torpoi        2221 B55A77A-8    Wa              B  624 As
+Drinaks       2223 B3365H6-E    Ni              B  114 As
+Tyokh         2226 B466AH7-E    Hi              B  204 As
+Iroioah       2227 B6301G3-E    Lo Ni Po De        823 As
+Hleakhayes    2229 E4434K8-A    Lo Ni Po           812 As
+Akoaft        2230 E8985L7-8    Ag Ni Tp        R  431 A9
+Klark         2322 B899753-8    C:5 Tp             820 As
+Porn          2324 A982887-A  R Ri                 902 As
+The World     2327 E100551-7    Ni Va              223 Na
+Vorito        2329 E5959BB-A    Hi In              805 As
+Stal          2421 B4434HA-C    Lo Ni Po        B  702 As
+Hilfer        2424 BA507HA-6  T Po De           B  700 As
+Paal          2425 B564779-7    Ag Ri           B  103 As
+Sink          2426 C6653G4-7    Lo Ni Tp           113 As
+Alro'a        2428 A7886H8-D    Ag Ni Ri Tp     B  331 As

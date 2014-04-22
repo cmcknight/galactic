@@ -1,0 +1,36 @@
+@SUB-SECTOR: sec_O   SECTOR: emptyq
+#
+# Trade routes within the subsector
+#
+$1738 1540 -1 0
+$1738 2036 0 0
+$2036 2134 0 0
+$2134 2331 0 0
+$2331 1930 0 -1
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Akrotiri      1731 B424521-9    Ni                 404 Im
+Hateruma      1733 C24458C-8    Ag Ni           A  603 Im
+Baleartics    1734 E412365-7    Ic Lo Ni O:1733    415 Im
+The Hundred   1737 C644697-2    Ag Ni              303 Im
+Newsphere     1738 A454877-B    Ri Cp           A  405 Im
+Pegasus       1831 E529555-6    Ni                 905 Im
+Yonaguni's....1833 D445421-4    Lo Ni              803 Im     f
+Senkaku       1836 B51368B-9    Na Ni Ic        A  901 Im
+BELUMAR       1838 E693942-8    Hi In              201 Im
+Golden Ring   1932 ER00320-B    Lo Ni Va           224 Im     f
+Silvermoon    1934 D420100-4    De Lo Ni Po        232 Im
+Pargo         1937 D68A664-2    Ni Wa Ri O:2036    504 Im
+Tsarina       2032 B000405-C  N Lo Ni As           613 Im
+IRASH         2036 C579A98-7    Hi In           A  201 Im
+Poisoned Earth2037 E783335-5    Lo Ni              703 Im
+Dimitri       2038 B211101-8    Lo Ni              300 Im
+Edenvale      2039 D4697B9-6  S                 A  702 Im
+Borden's Star 2134 B434421-6    Lo                 800 Im
+Amamioshima   2138 C642486-7    Lo Po              115 Im
+Signet        2237 A7836BE-7    Ni                 413 Im
+Rethmnon      2331 A234210-A    Lo Ni RsG          100 Im
+Okinoerabu    2431 C000757-8    Na As              722 Im
+Muskoka       2434 A200110-B    Lo Ni Va           201 Im

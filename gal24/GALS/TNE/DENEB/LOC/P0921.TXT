@@ -1,0 +1,37 @@
+
+Classic Era Stats:
+
+System: Northammon
+Subsector: Vincennes
+Sector: Deneb Sector
+Coordinates: 0921 (J0101)
+UWP: B764667-A
+
+Starport: Good
+Size: Medium (10400-12000 km)
+Atmosphere: Standard
+Hydrographics: 40% water
+Population: 6 million
+Govt: Captive Government
+Law Level: Moderate
+Technology: Early Stellar
+
+Bases: Navy & Scout Bases
+Trade Codes: Ag Ni Ri        
+Travel Zone: Green
+Planetoid Belts: 2
+Gas Giants: 0
+Allegiance: Domain of Deneb
+
+New Era Stats:
+
+Northammon (Vincennes:  Deneb/0921)
+B764767-9  A  Ag Ri Tp St Mr   120 RE K5 V
+G=0.82, Day=35:51:37, Year=122d 9:20:19.28 Atmo=1.40, No Weather Control
+Temp= +9.72 (6/lat +18 to -42) (day +7.5 to night -17.9) (season +14.4 to -7.0)
+Daily temp range 21.4; Orbital Eccentricity Effects:  +/- 0.45
+Agricultural, Compounds; Agroproducts, Non-metals; Durables;
+Recordings, Documents
+Conservative/Advancing, Competitive/Militant, Harmonious/Aloof
+Legal: 7-96255     Tech: 99-99989-DB99-A8-G
+

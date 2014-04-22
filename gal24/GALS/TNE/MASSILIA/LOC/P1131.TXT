@@ -1,0 +1,18 @@
+Ashavakuna C567654-9
+
+Starport: Routine              Size: Medium (7200-8800 km)
+Atmosphere: Standard           Hydrographics: 70% water
+Population: 8 million          Govt: Feudal Technocracy
+Law Level: Moderate            Technology: Early Stellar
+  
+
+	This planet was not very heavily affected by the Virus. The economy, based
+on exporting agroproducts, receded greatly, but, although the production
+dropped, it was far enough to sustain the local population. The Central City
+was only abandoned after 5 years, causing the collapse of the democratic
+system. This left a power vacuum which was later filled by  the
+establishment of The Producers' League, an alliance of technocratic
+landlords which still governs the planet. Most of the traditional Geonee
+culture is intact, with the landlords taking the place of the nobility.
+
+by Carlos Alos-Ferrer <alos@merlin.fae.ua.es>

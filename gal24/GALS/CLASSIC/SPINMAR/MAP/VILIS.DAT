@@ -1,0 +1,35 @@
+@SUB-SECTOR: Vilis   SECTOR: Spinward Marches
+#
+# Trade routes within the subsector
+$1116 1118 0 0
+$1116 1711 1 0
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Caloran       0911 C796746-5    Ag                 510 Na
+899-076       0912 E201300-8    Lo Ni Va Ic        520 Na
+Quare         0915 B200545-9    Ni Va              204 Cs
+Zeta 2        0919 X6B0000-0    Lo Ni De Ba     R  020 Na
+Arden         1011 C5549CB-8    Hi                 810 Fa
+Choleosti     1018 C200100-9    Lo Ni Va           101 Im
+Margesi       1020 C575677-6    Ag Ni           A  910 Im
+Frenzie       1116 A200436-A  N Ni Va              110 Im
+Garda-Vilis   1118 B978868-A  S                    912 Im
+Vilis         1119 A593943-A    Hi In              820 Im
+Digitis       1212 E53668A-5    Ni                 920 Na
+Edinina       1213 E400220-5    Lo Ni Va        A  401 Cs
+728-907       1214 D955000-2    Lo Ni Ba           610 Im
+Stellatio     1216 D5A4420-4    Ni Fl              210 Im
+Arkadia       1217 E446845-6                       402 Im
+Tremous Dex   1311 B511411-C    Ni Ic              201 Na
+Mirriam       1315 E472300-8  N Lo Ni              110 Im
+Saurus        1320 D888588-7    Ag Ni              820 Im
+Rangent       1411 E67A612-7    Ni Wa              503 Na
+Denotam       1413 B739573-A  N Ni                 324 Im
+Ficant        1417 E567353-5    Lo Ni              910 Im
+Tionale       1511 C674321-8    Lo Ni           A  210 Cs
+Calit         1515 C334867-7    C1                 501 Im
+Asgard        1519 X3437C7-2    Po              R  520 Im
+Tavonni       1520 E567000-7    Lo Ni Ba           434 Im
+Phlume        1611 C887624-8    Ag Ni              710 Im

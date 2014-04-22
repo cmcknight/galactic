@@ -1,0 +1,30 @@
+@SUB-SECTOR: sec_c   SECTOR: oldexpan
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Shazam        1705 X411000-0    Ba Ic              011 Un
+Mekashish     1707 X6766S8-1                    B  222 Wi
+Mudge         1710 X4639S8-5    Hi                 121 Wi
+Easter        1802 XAF77R7-3                    B  403 Wi     f
+Yeremvh       1804 X520000-0    Ba De              003 Un
+Cshellim      1901 X76A8RA-4    Wa              B  112 Wi
+Aspidistra    1909 X200000-0    Ba Va              021 Un
+Nuugashur     1910 X535000-0    Ba                 002 Un
+Hiroshi       2001 X4587RF-3    Ag              B  120 Wi
+Charuth       2004 B7869A7-9    Hi                 602 Na     f
+Khiirshag     2010 X79A7R8-2    Wa              B  903 Wi
+Jackoyo       2102 X000000-0    Ba As              000 Un
+Sishera       2104 X233000-0    Ba                 002 Un
+Gunashnan     2105 EBS49RC-7    Hi              B  102 Wi
+Ogier         2106 X100000-0    Ba Va              000 Un
+Eleusis       2109 X7899RB-5    Hi              B  112 Wi
+Ikaakur       2205 E256868-6                       115 WI
+Zapuushar     2303 X8589U6-8    Hi                 105 Wi
+Ephemir       2308 X6758RD-8                    B  902 Wi
+Estigatrihia  2402 E5669V9-7    Hi              B  620 Wi     f
+Mushiddun     2403 X610000-0    Ba                 323 Un
+Nasu          2405 X334000-0    Ba                 001 Un
+Inidu         2406 X6BA000-0    Fl Ba              013 Un
+Epsilon Sco   2407 X000000-0    Ba As              013 Un
+Xiwa          2408 X30W00-0     Ba Va              003 Un

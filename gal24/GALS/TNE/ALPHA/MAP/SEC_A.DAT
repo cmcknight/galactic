@@ -1,0 +1,39 @@
+@SUB-SECTOR: Lazzerton   SECTOR: alphaleo
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Pack          0102 X200000-0    Ba Va              003 Un
+Ximenes       0105 X110000-0    Ba                 013 Un
+Bolivar       0106 E9766Q4-5    Ni Ag              600 Wi     f
+Ranim         0108 X335000-0    Ba                 014 Un
+Harran        0110 X635000-0    Ba                 003 Un
+Carbuncle     0201 X100000-0    Ba Va              001 Un     f
+Graff         0203 D3457O7-8    Ni Ag              104 Wi     f
+Kedin         0204 X4533O6-2    Ni Po              222 Wi     f
+Iamir         0208 X100000-0    Ba Va              004 Un
+Keats         0210 D4455R9-9    Ni Ag              601 Wi
+Etienne       0302 X8474SA-3    Ni Lo              400 Wi     f
+Wulfe         0303 X434000-0    Ba                 002 Un     f
+Umkarguu      0305 X9878UA-5    Ri              B  600 Wi     f
+Antraillia    0306 X335000-0    Ba                 003 Un
+Leng          0402 X84A8R9-5    Wa              B  103 Wi     f
+Imka          0405 X423000-0    Ba                 013 Un
+Merel         0407 X110000-0    Ba                 002 Un
+Ninmah        0409 X100000-0    Ba Va              013 Un
+Faro          0502 X100000-0    Ba Va              010 Un
+Phlegethos    0503 X6B0000-0    Ba                 021 Un
+Minauros      0509 XAA7000-0    Ba                 023 Un
+Shurregaa     0510 X6487RC-3    Ag              B  202 Wi
+Menaf         0601 C8885O4-8    Lo Ni              113 Wi     f
+Brandon's Rock0603 X100000-0    Ba Va              000 Un
+Hubishag      0608 X8C4000-0    Ba Fl              023 Un
+Cortez        0609 X6636RD-2    Ni Ri           B  810 Wi
+Kazan         0701 X4415R9-0    Po Ni              504 Wi     f
+Lilburn       0707 X223000-0    Ba                 002 Un
+Gethsemene    0801 X2652RA-2    Lo Ni              502 Wi     f
+Marathon      0804 X110000-0    Ba                 003 Un
+Uriel         0805 X7C0000-0    Ba                 014 Un
+Willis        0806 X554000-0    Ba                 002 Un
+Estrella      0808 X8585R5-5    Ni Ag           B  102 Wi
+Hale          0809 X3747RE-3    Ag                 615 Wi

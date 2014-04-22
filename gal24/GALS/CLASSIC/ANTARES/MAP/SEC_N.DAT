@@ -1,0 +1,59 @@
+@SUB-SECTOR: Gaakish   SECTOR: Antares
+#
+# Trade routes within the subsector
+#
+$1635 1935 1 0 11
+$1635 1334 0 0 11
+$1635 1438 0 0 11
+$1438 1038 0 0 11
+$1334 1033 0 0 11
+$1033 0734 -1 0 11
+$1038 0639 -1 0 11
+$1231 1334 0 0 11
+$1231 1329 0 -1 11
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Id            0931 E427532-8    Ni                 303 Im 
+Lillapmaura   0934 D532344-5  S Lo Ni Po           203 Im 
+Ugtro         0935 C75886A-8                       702 Im 
+Theron        0937 B100969-G    Hi Na In Va        913 Im 
+Ni            0939 C200000-A  S Lo Ni Va Ba        104 Im 
+Rhongdy       0940 E63756A-8    Ni                 923 Im 
+E             1031 C302653-7    Na Ni Va Ic        915 Im 
+Imgiid        1032 B400300-D    Lo Ni Va           415 Im 
+Shinar        1033 A485344-F  N Lo Ni              205 Im 
+Dennok        1035 D526101-5    Lo Ni              312 Im 
+Khurda        1036 D9D469B-6  S Ni Fl              304 Im 
+Selol         1037 B5538A8-7    Po                 503 Im
+Gaakish       1038 A8AA975-C  S Hi Fl Wa           712 Im 
+Skakve        1039 B979543-9    Ni                 714 Im 
+Gadar         1040 B62A7A9-B    Wa                 703 Im 
+Ida           1132 X694462-1    Ni              R  703 Im 
+Amagdu        1135 A786677-D    Ag Ni Ri           504 Im 
+Shudan        1136 C786344-8  S Lo Ni              104 Im 
+Joao          1231 B656977-C  N Hi                 412 Im 
+Sikumu        1233 X62A853-2    Wa              R  804 Im 
+Lashi         1234 C8589CC-A  S Hi                 600 Im 
+Godrasoch     1236 C10077A-8    Na Va              504 Im 
+Lonhoumple    1237 D463401-7    Ni                 821 Im 
+Lattante      1239 B300110-B    Lo Ni Va           723 Im 
+Ragklidkiks   1240 E765888-4    Ri                 804 Im 
+Yneddrar      1333 C553159-9    Lo Ni Po           603 Im 
+Honre         1334 A300621-E  N Na Ni Va           913 Im 
+Arirumkhar    1337 C633422-9  S Ni Po              503 Im 
+Un            1432 C857474-8    Ni                 424 Im 
+Kudip         1433 D99A57B-4    Ni Wa              402 Im 
+Ali           1437 C9D8013-6    Lo Ni Fl           500 Im 
+Sihvylai      1438 A757887-8                       803 Im 
+Bumii         1531 C120489-D    Ni Po De        A  904 Im 
+Shusidamam    1532 B502544-D    Ni Va Ic           502 Im 
+Khu           1536 C754842-7  S                    725 Im 
+Itoan         1538 E400641-4    Na Ni Va           304 Im
+Agaagaku      1540 E557649-6    Ag Ni              712 Im 
+Wylydd        1632 C130203-C  S Lo Ni Po De        204 Im 
+Rrorrtuenag   1633 C321566-A  S Ni Po              305 Im 
+Ishkhasaki    1635 B6747BB-8    Ag                 211 Im 
+Tiotukeo      1638 B555101-A    Lo Ni              203 Im 
+Ontyg         1639 E564100-7    Lo Ni              202 Im 
+

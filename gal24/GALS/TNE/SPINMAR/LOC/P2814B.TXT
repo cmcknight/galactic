@@ -1,0 +1,27 @@
+
+     Jae Tellona System Details - circa 1202
+
+     Orbit      Name            UPP             Remarks
+     -------------------------------------------------------------
+     Primary    Dikaai          F9 IV
+     0          Rake            H400265-7       Va
+     1          Pilot           Y320000-0
+     2          Carlotta        G500436-8       Nv Co
+        9       Mabry           Y200000-0       Va
+        25      Wake            Y200000-0       Va
+     3          (Empty Orbit)
+     4          (Empty Orbit)
+     5          Sillica         G000266-7       As
+     6          Uunkida Gar     Small GG        Size 20
+        60      Jae Tellona     A560565-8 N     Ni De Mr
+     7          Argenta         Small GG
+        8       Giilushum       Y2A1000-0
+        50      Rizid           Y200000-0       Va
+     8          Macon Malloy    Y742000-0
+        10      Cartosy         Y553000-0
+     9          Caloyka         Small GG
+        10      Tregent         GS00124-7       Va
+        13      Silas           Y400000-0       Va
+     10         (Empty Orbit)
+     11         Quarl           FA6A366-8       Nv Ic
+

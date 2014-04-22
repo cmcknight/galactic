@@ -1,0 +1,24 @@
+
+System Information
+
+Orbit           Name                    UWP             Notes
+---------------------------------------------------------------------------
+Primary         Kaller                  G5 V
+0               Kaller Alpha            Y200000-0
+1               Kaller Beta             Y200000-0       aka Turisyel
+        10      Kaller Beta Ay          YS00000-0
+        40      Kaller Beta Bee         YS00000-0
+2               Pequan                  E5656B9-4       Ag Ni
+3               Scripe                  Y100000-0
+4               Planetoid Belt          Y000000-0
+5               Arbalest                Y400000-0       aka Zlusihld
+        25      Arrow                   Y102000-0       Ic
+6               Kaller Eta              Y113000-0       Ic
+7               Losrandir               YA30000-0       aka Tunen
+8               Kaller Iota             Y300000-0
+       200      Kaller Iota Ay          YS00000-0
+9               Kaller Kappa            Y6A2000-0       Fl aka Thehngubhehn
+         7      Kaller Kappa Ay         Y300000-0
+        40      Kaller Kappa Bee        Y200000-0
+       275      Kaller Kappa See        YS00000-0
+

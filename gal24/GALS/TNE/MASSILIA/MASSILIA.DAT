@@ -1,0 +1,37 @@
+Massilia Sector
+
+A: Kerr                      sec_a.dat
+B: Arar                      sec_b.dat
+C: Khisham                   sec_c.dat
+D: Zalucha                   sec_d.dat
+E: Keum                      sec_e.dat
+F: Vaait                     sec_f.dat
+G: Forquee                   sec_g.dat
+H: Palasha                   sec_h.dat
+I: Ten Suns                  sec_i.dat
+J: Shiwonee                  sec_j.dat
+K: Nes'Vra                   sec_k.dat
+L: Tooka                     sec_l.dat
+M: Annari                    sec_m.dat
+N: Shokee                    sec_n.dat
+O: Shimmer                   sec_o.dat
+P: Oreo                      sec_p.dat
+
+Bases:
+A = Navy & Scout Bases
+D = Naval Depot
+N = Naval Base
+S = Scout Base
+C = Corsair Base
+  = None
+
+Allegiance:
+11 Gc = 3rd Geonee Conf.
+12 Tp = Tanny Project
+02 Na = Non-aligned
+04 Wi = Wilds
+13 Bc = Black Curtain
+08    = Unknown 
+08 Un = Unpopulated
+10 Hb = Hub Worlds
+15 VC = Virus Controlled

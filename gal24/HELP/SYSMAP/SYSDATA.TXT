@@ -1,0 +1,66 @@
+
+Star System Data Format
+-----------------------
+
+Here's an example star system (the "Haven" system). As you can see,
+it is a double system. The main system comprises the first half of
+the data file. The far companion's system comprises the 2nd half.
+
+#-OSC-ExEy-Deg-M Name             Comments                  Attachment
+System Name: Haven
+Primary:
+0--6E            Haven A          M5: Red Main Sequence
+0--6E            Haven B          M5: Red Main Sequence
+1-B3G-5010-197-2 Haven 1          Barren World
+2-B4M-5010-208-4 Haven 2          Gas Giant
+3-B4M-5010-056-5 Haven 3          Gas Giant
+5-B4M-5010-168-A Haven 4          Gas Giant
+6-B3C-5010-164-3 Haven 5          Belch Ball
+7-B4M-5010-228-5 Haven 6          Gas Giant
+8-H0I-5010-048-0 Belt 1           Asteroid Belt             haven.txt
+9-B3H-5010-357-2 Haven 7          Ice Planet
+Far Companion:
+0--6M            Haven C          K5: Orange Main Sequence
+1-K3G-5010-192-2 Haven B1         Barren World
+2-B4M-5010-039-9 Haven B2         Gas Giant
+3-B4M-5010-013-7 Haven B3         Gas Giant
+4-H0I-5010-005-0 Belt B1          Asteroid Belt
+5-N3H-4508-000-1 Haven B4         Ice Planet
+6-B3H-5010-219-3 Haven B5         Vacuum Ball
+7-B1I-5010-182-0 Haven B6         Planetoid
+8-B3G-5010-318-3 Haven B7         Barren World
+9-B4M-5010-208-7 Haven B8         Gas Giant
+A-B4M-5010-254-7 Haven B9         DI: Brown Dwarf
+C-B3H-5010-031-2 Haven B10        Ice Planet
+D-B3G-5010-147-1 Haven B11        Barren World
+
+# refers to the orbit number of the body in question. If #=0 then
+we're dealing with an object at the system's hub, most probably a
+star. The hub of Haven's main system is a double star, a pair of
+reds of the main sequence variety (MV). The far companion, on the
+other hand, is a single star, an orange (KV).
+
+OSC refers to orbit color, object (planet or star) size, and object
+(planet or star) color. The color codes are as follows:
+
+    A  Black    E  Red       I  Dark Grey     M  Light Red
+    B  Blue     F  Magenta   J  Light Blue    N  Light Magenta
+    C  Green    G  Brown     K  Light Green   O  Light Yellow
+    D  Cyan     H  White     L  Light Cyan    P  Bright White
+
+ExEy refers to the eccentricity of the orbit. 5010 is considered to
+be a standard (non-eccentric) orbit. Anything else is eccentric. Ex
+refers to right/left deviation. Ey refers to a deviation in shape.
+
+Deg refers to the position along its orbit at which a planet can be
+found. This is expressed in degrees (0-259).
+
+M refers to the number of moons (A=10, B=11, etc...).
+
+Each object (star or world) has a name, a comments area for a brief
+description, and an attachment area where a file, menu, or hexworld
+can be attached. As you will note, the asteroid belt in Haven's
+main system has an attached file named "haven.txt". You can include
+the path to the file if the file doesn't reside in the same
+directory as the star system (.sys) file.
+

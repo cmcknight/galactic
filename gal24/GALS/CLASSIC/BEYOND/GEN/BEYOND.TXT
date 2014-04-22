@@ -1,0 +1,246 @@
+INTRODUCTION
+
+"Beyond the Great Rift, beyond the Imperium and beyond the law" adequately
+describes both the location and the climate of those sixteen subsectors
+which comprise the sector known, simply, as Beyond.
+    Beyond lies directly coreward of the Great Rift, rimward of the Zhodani
+Consulate, and some 120 parsecs due spinward of Capital, itself.  The
+trailing coreward portion of Beyond is considered by some astrographers to
+be part of the Out Rim Void, a relatively uncharted area concentrated in the
+spinward part of the adjacent trailing sector.
+    Located immediately spinward-rimward of the Spinward Marches, Beyond
+shares with it a reputation for conflict and intrigue.  It is here in
+Beyond that the traveller will find the strongest concentration of
+Comsentient Alliance worlds and protectorates--as well as Aslan, Droyne,
+Mal'Gnar, Eslyat and Sred*Ni settlements.  Some of the latter are
+full-fledged members of the Alliance; some seek admission to, or at least
+association with, the Imperium; and some, such as the Mal'Gnar, remain
+aloof to the petty maneuverings og Humaniti and other sentients" and wish
+only to be left undisturbed.
+    Beyond consists of sixteen subsectors with a total of 463 worlds.
+The total population as of 335-1042 was 561 billion sentients, distributed
+as follows: 493.7 billion Humaniti (including less than 10 thousand Zhodani
+and 35.5 billion Mal'Gnar); 37.8 billion Aslan; 29.5 billion Sred*Ni; and
+967 thousand Droyne.
+
+    This is a compendium of data about Beyond.  It provides pregenerated
+subsectors for use by TRAVELLER referees and players, as well as a source
+of library data concerning the locations and installations for use in any
+TRAVELLER campaign or scenarios.
+
+REQUIRED MATERIAL
+
+    In addition to these data, GDW's basic TRAVELLER, THE SPINWARD MARCHES,
+and TWILIGHT'S PEAK, and Paranoia Press' VANGUARD REACHES are necessary
+for complete understanding of many of the terms and symbols used herein.
+
+STANDARDS AND ASSUMPTIONS
+
+    As in TRAVELLER SUPPLEMENT 3, THE SPINWARD MARCHES, the following
+assumptions are used in the text of this booklet.  They may be altered as
+necessary to correspond to the situations in which the travellers may
+find themselves.
+
+DATES: All dates herein conform to the Imperial Calendar, although the
+major cohesive political entity in Beyond is the Comsentient Alliance.  The
+assumed date for these data is 052-1107, the 52nd day of the 1107th year
+of the Imperium and, parenthetically, the 403rd year of the Comsentient
+Alliance.
+
+PLANETARY DATA: The Universal Planetary Profile as described in the
+TRAVELLER BOOK 3, WORLDS AND ADVENTURES, is utilized throughout to describe
+the characteristics of the worlds within Beyond.  Trade Classifications
+under TRADE NDX conform to those described in THE SPINWARD MARCHES.
+Additional notes which may be of interest to travellers are also included
+under each Subsector info.  The Travellers' Aid Society Travel Zone
+Classifications have been widely adopted in Beyond and TAS hostels may be
+founbd at most Class A and many Class B starports.  The codes are: "A"
+for an Amber Zone; "R" for a Red Zone; and "G" for a gas giant.
+    The following additional characteristics have been added to those
+described in TRAVELLER, BOOK 3, WORLDS AND ADVENTURES, in order to reflect
+the unique nature of Beyond.
+
+Characteristic  Code    Explanation
+
+Diameter          A     10,000 miles, or 16,093 kilometers
+                  B     12,000 miles, or 19,312 kilometers
+                  C     13,000 miles, or 20,921 kilometers
+                  J     93,000,000 miles, or 149,664,900 kilometers
+
+Atmosphere        D     Carbon dioxide
+                  M     Methane
+                  R     Radioactive
+
+Government        E     Patriarchal warrior ethic
+                  F     Select military elite
+
+Law Level         A     May not own evergy weapons
+                  B     May not own military weapons
+                  C     May not own concealable firearms
+                  D     May not own any type of firearm
+                  E     May not own bladed weapon
+                  F     May not own anything which may be used as a weapon
+
+Tech Level        +     Occasional non-Imperial
+
+Miscellaneous     V     May appear under any UPP characteristics.  The
+                        characteristic indicated varies, either naturally
+                        or artificially, from point to point or from time
+                        to time.
+
+SPECIAL INSTALLATIONS AND WORLD ALIGNMENTS
+
+Because there are many political factions within Beyond, an expanded system
+of codes has been developed to aid the traveller in identifying the various
+installations and political alignments.  The following special installations
+may be found under each Subsector info.
+
+ARCHIVES: A repository of public, official, military, and/or historical
+records.  It is usually associated with one or more of the political
+factions within Beyond, although there is rumored to be at least one
+Imperial archive in die Weltbund.
+
+ASSASSINS' INSTITUTE: An installation dedicated to the education and
+training of assassins.  The institute may consist of one or more buildings,
+one or more villages or undeveloped areas, or even the entire world.
+
+CONTAINMENT FACILITY: The entire world has been developed and is being
+maintained as a containment facility (prison) for those adjudged guilty
+of crimes against prevailing laws, customs, and/or mores.  In the case
+of the Comsentient Alliance, the only crime which carries a penalty of
+"containment" is that of deliberate anti-sentient activities.  Normally,
+containment facilities will carry a Red Zone classification, but in any
+case visits are absolutely forbidden unless authorized (or one way).
+
+OUTPOST: An outpost is similar to an Imperial way station but is, of
+course, non-Imperial.  The base has been established for the storage,
+maintenance, refitting, and refuelling of equipment belonging to the
+political faction which has final authority over the outpost or subsector.
+
+RELAY POINT: A location committed to the relaying of data, goods or
+entities for specific purposes.  Many of these are Licensed
+Information/Communication Exchange (LICE) relay points; some of these are
+Imperial way stations leased from, or at least tolerated by, the
+Comsentient Alliance.
+
+RESEARCH FACILITY: A facility dedicated to one or more research projects
+of particular interest to one or more political factions or private
+corporations.
+
+SANCTUARY: A world where any sentient may find safety, regardless of its
+reason for seeking sanctuary.  While extradition is almost impossible,
+especially without the consent of the individual, the sanctuary given may
+be less desirable than the expected punishment.  Often, a sentient given
+sanctuary has few of the rights of the indigenous population--this could
+include carrying or owning weapons, the right to vote, the right to
+appeal a decision, and the opportunity to earn a living.
+
+IMPERIAL INSTALLATIONS: There are cases of Imperial installations within
+Beyond.  The most noteworthy of these is Starbase Arcturus II/I-Glathriel.
+Its stated purpose is the observation of the stellar fluctuation of
+Delta Cephei in the Spinward Drift, but the Comsentient Alliance is well
+aware of its true purpose--observe the Aslan and the Comsentient Alliance,
+and any other cohesive political force in Beyond, and maintain xboat
+communications with Capital.
+
+INSTALLATION OR BASE CODES
+
+CODES   INSTALLATION
+
+  D     Droyne settlement or ruins present
+  I     Imperial base or bases present
+  M     Merchant Service Academy present
+  N     Installation for naval, marine and/or army forces present,
+        affiliatd with the subsector government
+  S     Base for scout service or other exploratory organization present,
+        usually affiliated with the subsector government
+  T     Training or staging area for mercenaries present
+  Z     Zhodani Client State or Consular Court
+  2     Both naval and scout bases present, usually affiliated with
+        the subsector government
+
+WORLD ALIGNMENT CODES
+
+CODES   POLITICAL ALIGNMENT OR AFFILIATION
+
+  Es    Eslyat Magistracy
+  I     I'Sred*Ni Heptad Protectorate
+  As    Aslan Colonial State
+  MP    Associate faction of the Mal'Gnar Primarchic, full member
+        factions are prefixed with "Mal"
+  Va    Vargr settlement, usually prefixed with "D'Vargr"
+  Ma    Member of the Mapepire Cluster
+  DW    Die Weltbund
+  Zy    Zydarian Codominium
+
+N.B.: Most of the inhabited worlds with Beyond and many of the worlds within
+the Vanguard Reaches are represented by tfhe Comsentient Alliance.
+
+CHRONOLOGY OF BEYOND
+
+To students of history, the year is 6380 A.U.C.  To Terrans, it is 5628 A.D.
+Within the Comsentient Alliance, it is 402 F.S.  But by Imperial reckoning,
+the year is 1107.  Within Beyond, three of these dating systems are widely
+utilized: Imperium, Terran and Alliance (dated from the first sitting of
+the Grand Council at Rabanitas/Zydar).  This chronology covers the basic
+historical events of Beyond, showing the date of the event in each of the
+three systems.
+
+IMPERIUM    TERRAN      ALLIANCE    EVENT
+
+Approximately 300,000 years P.I.    "Ancients" thrive
+Approximately 250,000 years P.I.    Mal'Gnar are evolved to their present
+                                    form
+-4520          1 AD     5225 PS     Terran dating system begins
+-2737       1784 AD     3442 PS     Discovery of Delta Cephei
+-1776       2745 AD     2481 PS     Collapse of the Rule of Man
+-1526       2995 AD     2231 PS     Colonization of Liberty Hall Subsector
+    0       4521 AD      705 PS     Third Imperium established
+   93       4614 AD      612 PS     Arbitrary Initial Survey Point established
+                                    by IISS for Beyond Sector survey
+   95       4616 AD      610 PS     Subsector Delta surveyed and charted by
+                                    IISS
+  437       4958 AD      268 PS     Delta Products Corp. founded at
+                                    Sha'anoe/Delta
+  556       5077 AD      149 PS     Storm Subsector surveyed and charted by
+                                    IISS
+  594       5115 AD      111 PS     Northstar Interworld Technological
+                                    Services founded during the expansion of the
+                                    Rimward Fringe
+  624       5145 AD       81 PS     Xboat system established
+  657       5178 AD       48 PS     Eslyat Magistracy established
+  705       5226 AD        0        Comsentient Alliance sits in first Grand
+                                    Council at Rabanitas/Zydar
+  759       5280 AD       54 FS     Great Hall at Rabanitas/Zydar completed;
+                                    Imperium builds Starbase Orion
+  832       5353 AD      127 FS     Interworld Division of Enforcement
+                                    Services founded during the reign of
+                                    Empress Paula II; Starbase Orion
+                                    discovers the spinward drift of the
+                                    subsector immediately spinward, reports
+                                    to Capital result in naming of subsector
+                                    for the observed phenomenon
+  833       5354 AD      128 FS     Xboat system extended into Beyond
+  936       5457 AD      231 FS     Mapepire Cluster developed as tourist
+                                    system
+  984       5505 AD      279 FS     Beaufort Lines, Ltd., chartered at
+                                    Guildheim/Liberty Hall
+ 1006	    5527 AD	 301 FS	    Jarnac Pashalic established
+ 1037	    5558 AD      332 FS     Parallel Lines, Unltd., chartered at
+				    Intercourse in Subsector Delta
+ 1042	    5563 AD      337 FS     Imperial census completed in Beyond
+ 1057	    5578 AD      352 FS	    Altarean Separatists mutiny occurs at
+				    Starbase Orion; mutiny quelled,
+				    Commodore Harog exiled and starbase
+				    renamed Arcturus
+ 1066	    5587 AD	 361 FS	    Zydarian Codominium formed as haven
+				    for malcontents
+ 1086	    5607 AD	 381 FS	    Delta Products Corp. purchased by
+				    Storm, renamed Delta Research
+ 1101	    5622 AD	 396 FS	    LHeP(Or) Computers "born" at
+				    Delta Centre/Metchi' Alagwa
+ 1105	    5626 AD	 400 FS	    Lady Lysilph Kunseba appointed First
+				    Admiral of Comsentient Alliance
+ 1106	    5627 AD	 401 FS	    Task force dispatched to the Aslani
+				    Subsector
+

@@ -1,0 +1,41 @@
+@SUB-SECTOR: sec_a   SECTOR: Spica
+#
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Nihner        1631 B440301-9    Lo Ni Po De        925 Hv
+Bihla         1635 E140206-9    Lo Ni Po De        410 Hv
+Karbane       1637 B36A303-9    Lo Ni Wa           324 Hv
+Nimbas        1638 D333466-6    Lo Ni Cm Po        410 Hv
+Mihne         1731 B430311-C  M Lo Ni Cm Po De     104 Hv
+Buron         1736 E688463-7    Lo Ni O:2235       510 Hv
+Waxatha       1738 C8C2566-8    Fl Ni Nh O:2235    413 Hv
+Doduk         1740 A663102-B  L Lo Ni Hp           304 Hv
+Damol II      1831 B675863-9  F Hn O:0102          105 Hv
+Amflax Ops    1832 A441464-A    Lo Ni Po O:2235    313 Hv
+Breadbasket   1833 E694762-7    Ag O:0102          704 Hv
+Sealene       1934 EA7A755-A    Wa Nh           R  415 Hf
+Danan         1938 B6778I3-C  L Hn                 335 Hv
+Gorong        2033 EAE6406-5    Lo Ni              204 Hv
+Amrad         2034 C2239J5-8    Na Hi In Po Nh     400 Hv
+Baral         2037 C550726-B    Po De              103 Hv
+Zeldar        2133 B8987I1-A    Ag                 304 Hv
+Bingon        2134 C877764-B    Ag O:0102          124 Hv
+Tharal        2136 A541563-A    Ni Po Nh O:2235    713 Hv
+Dari          2137 B766524-D    Ag Ni              824 Hv
+Mehlang       2231 C673662-B    Ni Hp O:2235       414 Hv
+Pendar Hai    2232 D355204-9    Lo Ni Hp           212 Hv
+Banihld       2233 A89A524-B    Ni Wa              510 Hv
+Mehndong      2235 A897726-B  L Ag Cp              112 Hv
+Dosos         2240 B6A0206-9    Lo Ni Cm De        400 Hv
+Dehlzo        2331 C859403-9  M Lo Ni              215 Hv
+Ff            2334 B140302-8    Lo Ni Po De        804 Hv
+Gridwork      2336 E100104-8  M Lo Ni Cm Va        814 Hv
+Ditihm        2339 B626524-8    Ni Cm              823 Hv
+Prt'aow       2340 C9668I8-5    Nh              A  211 Hv
+Ordva         2431 D587765-6    Ag Ri Nh O:2235 A  100 Hv
+Birak         2432 E646506-7    Ag Ni Hp           302 Hv
+Zalehs        2433 A8537I6-D  L Po                 205 Hv
+Lonibh        2435 C674961-6    Hi In Hp O:0102    124 Hv
+Rehndol       2437 B450466-B    Lo Ni Po O:0102    803 Hv

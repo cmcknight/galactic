@@ -1,0 +1,9 @@
+@SUB-SECTOR: sec_H   SECTOR: provence
+#
+# Trade routes within the subsector
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Laeghkag      2611 E997989-3    In Hi           B  703 Wi
+Naeztir       2920 C785572-A    Ag Ni              302 Va     f

@@ -1,0 +1,31 @@
+@SUB-SECTOR: sec_A   SECTOR: vanguard
+#
+# Trade routes within the subsector
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Alshtimadladr 0101 D326300-9    Ni Pr              713 Zh
+ISSOUDUN      0108 E210AD9-8    Hi Na Cs        A  101 Na
+Yobrsebriemsil0201 C552857-6    Ni Po              200 Zh
+Shenidklen    0203 B548737-A  Y Ag                 211 Zh
+Krafltlajmichi0204 C579679-5    Ni                 312 Zh
+CHTANJA       0302 B5879D9-5  Z Hi Dr80%           621 Zh
+Kolshedjielib 0304 B545864-8              0203     910 Zh     f
+Chiadl        0308 C777300-0    Lo                 830 Zh
+Tliadlpabr    0310 B977500-C    Ni                 801 Zh
+CHYIA NEDLKEL 0406 A301AB9-D  Z Hi Na Va Cx        101 Zh     f
+Idriaeljifltle0408 C464697-9    Ag Ni Ri           925 Zh     f
+Chieleka      0502 B400751-9    Na Va              502 Zh
+Rilbriafdl    0504 C83A769-6    Wa        0505     422 Zh
+Tseiefrsal    0505 A410787-D    Na                 624 Zh
+Frianchie     0508 C581554-5                       812 Zh
+Plieljdelenief0602 B435632-9    Ni                 214 Zh
+Chpiech       0604 C543763-3    Po        0505     404 Zh
+Iafrdlefrien  0606 B100789-B  Z Ba Na Va           813 Zh
+Zdedrflichtl  0609 C000653-8    As Na Ni           713 Zh
+Tlobklekra    0707 B737469-8              0708     713 Zh
+Dablrel       0708 B551511-B  Y Ni Po              412 Zh
+Tarasca       0801 XA87897-C    Ri              R  604 Na
+Inat-Kalahi   0804 C203348-7  J Ic Lo Ni        G  303 Na
+Yrfrzhielia   0808 X565000-0    Ba Lo Ni        F  902 Zh

@@ -1,0 +1,17 @@
+@dir=gals\classic\gen
+@Light Yellow
+
+Classic Era Galaxy / General Information
+
+
+@Light Cyan
+      History of the Traveller Universe   @hist1.txt
+      History of the Third Imperium       @hist2.txt
+
+      TAS News Service (1105-1112)  @..\spinmar\gen\tns\tns.mnu
+      TAS News Service (1116-1125)  @tns\tns.mnu
+
+      Big Map                  @glewmap.txt
+      Big Map (updated)        @glewmap2.txt
+
+      Other Notes              @notes.txt

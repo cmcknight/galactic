@@ -1,0 +1,37 @@
+@SUB-SECTOR: sec_f   SECTOR: Diaspaora
+#
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Wapiti        0913 X326000-0    Ba                 013 Un
+Byrna         0915 X8A5000-0    Ba Fl              005 Un
+Dasekha       0917 DA65225-8    Ni Lo              435 Na
+Mohavi        0918 X4566R9-2    Ag Ni           B  122 Wi
+Ramashii      1012 E8795T8-6    Ni              B  302 Wi
+Darryl        1017 X7796RF-4    Ni              B  424 Wi
+Last Exit     1019 X100000-0    Ba Va              003 Un
+Fisher        1020 X7B4000-0    Ba Fl              005 Un
+Messier       1111 X4637RC-0                    B  914 Wi
+Arriba        1117 E789555-9    Ni C:0             202 Na
+Ikhareshu     1118 X422000-0    Ba                 002 Un
+Tantelos      1213 D7926U9-3    Ni              B  604 Wi
+Lerun         1216 E67A8Q8-7    Wa              B  802 Wi
+Twinsong      1219 X85A4S8-4    Ni Wa Lo        B  410 Wi
+Nilii         1313 X5857R8-4    Ag                 505 Wi
+Pierre        1411 X210000-0    Ba                 004 Un
+Saii          1412 X9C5000-0    Ba Fl              004 Un
+Viedma        1415 X200000-0    Ba Va              003 Un
+Affuel        1417 X8835RA-8    Ni                 102 Wi
+Livermore     1419 X200000-0    Ba                 004 Un
+693-470       1512 X110000-0    Ba                 024 Un
+Iris          1513 X3521N0-7    Ni Po Lo           912 Wi
+Aliinashar    1516 X100000-0    Ba Va              004 Un
+Soar          1518 X3866RA-3    Ni Ag              701 Wi
+Atabano       1520 D8696N4-6    Ni                 804 Wi
+Teslin        1611 X333000-0    Ba                 014 Un
+Erobi         1612 X8C3000-0    Ba Fl              003 Un
+Accokeek      1613 E548655-8    Ni Ag              812 Na
+Nike          1614 X6A3000-0    Ba Fl              013 Un
+Dudenii       1617 X221000-0    Ba                 000 Un
+Shelagyote    1620 X5896TC-4    Ni An           B  611 Wi

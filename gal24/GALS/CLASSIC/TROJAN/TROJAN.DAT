@@ -1,0 +1,49 @@
+Trojan Reaches
+
+A: Menorial                  sec_a.dat
+B: Egryn                     sec_b.dat
+C: Pax Rulin                 sec_c.dat
+D: Gazulin                   sec_d.dat
+E: Yggdrasil                 sec_e.dat
+F: Dpres                     sec_f.dat
+G: Sindal                    sec_g.dat
+H: Tobia                     sec_h.dat
+I: Nora'a                    sec_i.dat
+J: Goertel                   sec_j.dat
+K: Tlaiowaha                 sec_k.dat
+L: The Borderland            sec_l.dat
+M: Ranib                     sec_m.dat
+N: Silraaihe                 sec_n.dat
+O: Hkea'as                   sec_o.dat
+P: Binary                    sec_p.dat
+
+Bases:
+N = Naval Base
+S = Scout Base
+W = Way Station
+A = Navy & Scout Bases
+F = Military & Naval Base
+M = Military Base
+P = Naval Base
+R = Clan Base
+T = Tlaukhu Base
+U = Tlaukhu & Clan Base
+  = None
+
+Allegiance:
+12 Dd = Domain of Deneb
+07 Na = Non-aligned
+04 Cs = Client State
+13 A1 = Aslan Tlaukhu bloc
+13 A2 = Aslan Tlaukhu bloc
+13 A3 = Aslan Tlaukhu bloc
+13 A4 = Aslan Tlaukhu bloc
+13 A5 = Aslan Tlaukhu bloc
+13 A7 = Aslan Tlaukhu bloc
+13 A8 = Aslan Tlaukhu bloc
+13 A9 = Aslan Tlaukhu bloc
+14 As = Aslan
+09 Bs = Belgardian Sojourn
+10 Dr = Droyne
+11 Fl = Florian League
+08    = Unknown

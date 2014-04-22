@@ -1,0 +1,48 @@
+r4 Shotgun
+
+The r4 heavy shotgun was first designed as the CMP-93 shotgun for the Yert
+Empire in 2093T. It's devastating short range firepower proved to be very
+effective during the Second Yert War and had a profound influence on the
+Principality of Breakout, who had neglected this class of weapon. Rather than
+devlop their own weapon in this class, the Principality simply copied the
+CMP-93, adopting it as the YMP shotgun. During the First Mwoah War the YMP
+was designated the r4 heavy shotgun. The r4 remains the standard issue
+shotgun with the Magellanic Empire, and is an immensely popular weapon
+amongst Diadochi forces and civilians (though HEAP rounds are not available
+to civilians).
+
+The r4 is a conventionally stocked semiautomatic heavy shotgun firing a 20mm
+round from a 10 round detachable box magazine. The rounds can either be a
+single solid slug or HEAP projectile, or contain 11 x 8mm pellets or 51 x 2mm
+armour peircing tungsten flechettes. The r4 is fitted with an intergral laser
+sight and is fully gyrostabilised to counter the weapon's recoil. The r4 is a
+smoothbore weapon and is incapable of aimed fire beyond long range. It should
+also be noted that the r4's heavy recoil prevents it's classification as a
+snub weapon.
+
+Weapon: r4 heavy shotgun
+Action: Gas - singleshot
+Ignition: Percussion
+Tech Level: 9
+Calibre: 20mm Yert MP cased
+Penetration: slug: 4, pellet: 2, flechette: 3, HEAP: 7 (see notes below)
+Range: slug or flechette: short; pellet or HEAP: very short
+Malfunction: reliable
+Shots: 10
+Mass: 4.3kg
+Reloads: 0.7kg (HEAP: 0.4kg)
+Length: 50.7cm
+Cost: Cr 790
+Incidentals: 10 rounds slug or pellet: Cr 1.5 (0.6kg)
+             10 rounds flechette: Cr 2.6 (0.6kg)
+             10 rounds HEAP: Cr 58 (0.3kg)
+             5 hour rechargeable battery pack: Cr 5 (0.5kg)
+             20 hour disposable battery pack: Cr 2.5 (0.5kg)
+             empty 10 round magazine: Cr 7.5 (0.1kg)
+
+Pellet and flechette rounds inflict 4D and 6D worth of damage (dropping by 1D
+per range band over effective range) if they penetrate. Also their damage
+against flexible armours is based on their damage not their penetration (e.g.
+if a pellet round strikes 1 point flexible armour, it inflicts 3D plus 1
+point of damage; if a flechette round strikes 3 point flexible armour, it
+will inflict 6 points of damage). HEAP rounds have an explosive value of 2.

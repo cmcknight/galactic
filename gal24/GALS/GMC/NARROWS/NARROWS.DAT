@@ -1,0 +1,38 @@
+Narrows
+
+A: Desolation                A.dat               f
+B: Great Ocean               B.dat               f
+C: Multon                    C.dat               f
+D: Wallace                   D.dat               f
+E: Remagen                   E.dat               f
+F: Croki                     F.dat               f
+G: St'ago                    G.dat               f
+H: Ekakhir                   H.dat               f
+I: Ultia                     I.dat               f
+J: Dela                      J.dat               f
+K: Oamwis                    K.dat               f
+L: Drrell                    L.dat               f
+M: Iron Gate                 M.dat               f
+N: Pathway                   N.dat               f
+O: Civtra                    O.dat               f
+P: Isalon                    P.dat               f
+
+Bases:
+N = Navy
+S = Scout
+2 = Navy & Scout
+M = Mwoah Unity
+C = Civtra
+A = Aragi
+J = Sinor Dkars
+I = Independent Military
+  = None
+
+Allegiance:
+10 Ma = Magellanic Empire
+12 Id = Independent
+07 Mw = Mwoah Unity
+03 Cv = Civtra Confederation
+05 Ar = Aragi Dominion
+13 St = Sinor Dkars (Jneril)
+08    = Unknown

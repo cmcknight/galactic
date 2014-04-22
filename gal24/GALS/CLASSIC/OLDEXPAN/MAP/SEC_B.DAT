@@ -1,0 +1,68 @@
+@SUB-SECTOR: sec_B   SECTOR: oldexpan
+#
+# Trade routes within the subsector
+$1004 1104 0 0
+$1004 1105 0 0
+$1104 1106 0 0
+$1106 1006 0 0
+$1106 1306 0 0
+$1106 1311 0 1
+$1104 1202 0 0
+$1202 1401 0 0
+$1401 1503 0 0
+$1503 1403 0 0
+$1503 1603 0 0
+$1603 1604 0 0
+$1306 1202 0 0
+$1306 1205 0 0
+$1306 1208 0 0
+$1306 1507 0 0
+$1306 1403 0 0
+$1306 1604 0 0
+$1604 1702 1 0
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Tarpeian      0908 XA83421-5    Ni              R  600 Im
+Paragon       0909 B766655-C    Ag Ni Ri           602 Im
+Sternway      1002 B784644-A  S Ag Ni Ri           605 Im
+Sidrat        1004 A122655-F    Na Ni Po           524 Im
+Serpila       1006 A674A98-F  S Hi In              503 Im
+Safire        1007 A96A657-E    Ni Wa Ri           900 Im
+Kase          1008 C887744-7  S Ag Ri              311 Im
+Montero       1010 A865644-C    Ag Ni Ri           704 Im
+Mizar-5       1101 C210500-C    Ni                 602 Im
+Talien        1104 A84897A-E    Hi In              814 Im
+Estrem        1105 B672999-C    Hi In              522 Im
+Vaward        1106 A795A99-F  N Hi In              102 Im
+Quin          1201 B000665-D    As Na Ni           401 Im
+Tricard       1202 A773A89-F    Hi In              214 Im
+Margate       1203 A689653-D    Ni Ri              420 Im
+Jone          1205 A310565-F  S Ni                 904 Im
+Darby         1206 A465665-D    Ag Ni Ri           604 Im
+Sygma         1208 A99A699-E  N Ni Wa              110 Im
+Tantal        1301 C000564-C  S As Ni              800 Im
+Arzhent       1302 B000564-E  S As Ni              101 Im
+Farina        1303 A767745-C    Ag Ri              800 Im
+Thurber       1305 CAA1694-9    Fl Ni              134 Im
+Veraq         1306 A86585A-F    Ri                 703 Im
+Issek         1307 B679634-B  S Ni                 500 Im
+Zetta         1309 B221766-B  S Na Po              820 Im
+Palique       1310 A4686C8-C    Ag Ni              500 Im
+Pallad        1401 A000665-F    As Na Ni           604 Im
+Andicotte     1403 B626996-C    Hi In              223 Im
+Aristera      1405 A567768-C  N Ag Ri              501 Im
+Levan         1408 C4128AA-9    Ic Na              303 Im
+Antres        1502 D839568-7    Ni                 704 Im
+Terzin        1503 A444AAA-F  N Hi In              304 Im
+Scytha        1504 C455511-9  S Ag Ni              310 Im
+Leome         1507 B672989-A    Hi In              501 Im
+Treviere      1508 B364743-A    Ag Ri              400 Im
+Fezzan        1510 C650644-8    De Ni Po           503 Im
+Sardis        1602 B554764-A  S Ag                 700 Im
+Chayne        1603 A211522-F    Ic Ni              605 Im
+Medallion     1604 A110511-F  N Ni                 403 Im
+Krupp         1605 C588736-7    Ag                 102 Im
+Gryphon       1609 A124513-D  S Ni                 401 Im
+Darius        1610 B455757-A    Ag                 302 Im

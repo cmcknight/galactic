@@ -1,0 +1,21 @@
+System: Phaln
+Subsector: Shire
+Sector: Gushemege Sector
+Coordinates: 3029 (L0609)
+UWP: B120963-F
+
+Starport: Good
+Size: Small (800-2400 km)
+Atmosphere: Very thin, tainted
+Hydrographics: No liquid water
+Population: 7 billion
+Govt: Captive Government
+Law Level: Low
+Technology: High Stellar
+
+Bases: None
+Trade Codes: Hi Na In Po De  
+Travel Zone: Green
+Planetoid Belts: 1
+Gas Giants: 2
+Allegiance: Imperial

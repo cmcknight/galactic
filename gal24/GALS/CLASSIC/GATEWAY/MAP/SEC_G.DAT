@@ -1,0 +1,35 @@
+@SUB-SECTOR: g SECTOR: Gateway
+#
+# Jump-routes
+$1818 1617 -1 0 10
+$1818 1917 0 0 10
+$1917 2016 0 0 10
+$2016 2014 0 0 10
+$2014 2113 0 0 10
+$2113 1912 0 0 10
+$1912 2010 0 -1 10
+$1912 1612 -1 0 10
+$2020 1921 0 1 14
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Neopis        2020 A676789-A    Ri                 421 Na
+Condominium   2112 C867A96-4    Hi                 110 Na
+Tavarand      2017 C6396A8-5    Ni                 902 Pl
+Quetzal       1715 C68299A-5    Hi                 112 Pl
+Polacci       2416 C687200-6    Lo Ni              612 Na
+Oceanis       2214 B67A799-7    Ri Wa              201 Na
+Freedom Bright2312 C544585-8    Ag Ni              311 Na
+Kaspar        1912 C766684-8    Ag Ni Ri           524 Pl
+Hawk          2413 C765887-8    Ri                 612 Na
+Trevannic     2219 E876740-9                    A  904 Na
+Tristar       1815 E110436-A                       200 Pl
+Samuelson     2014 C100476-A    Ni Va              914 Pl
+Bremen        1818 B693632-A    Na                 911 Pl
+Asteron       1913 D855788-A    Ag                 920 Pl
+Vestra        2415 A23477B-A    Ag                 701 Na
+Colby         1917 B659866-A                       610 Pl
+Lern          2016 C310888-A    Na                 915 Pl
+Plavis        2113 A69899A-A    Hi In              214 Pl
+Varan's Belt  2317 C000730-B    Na As              812 Na

@@ -1,0 +1,27 @@
+@SUB-SECTOR: Hlol SECTOR: Ustral Quadrant
+#
+$1219 1120 0 0 10
+$1120 1020 0 0 10
+$1020 0921 0 1 10
+$1016 0915 0 0 10
+$1011 0810 -1 -1 10
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Fi'eayerlrfoi 0915 A8A41MA-D  R Fl Lo Ni           612 As 
+Hwuaea        1011 A6687H7-E  U C4 Ag Ri T3        610 As     f
+Seihaheieaa'  1016 B7693G7-E    Lo Ni              511 As 
+Akhewiyw      1020 A4474LA-D  T Lo Ni              220 A9     
+Ftuakoure'    1116 C4474HC-9  U Lo Ni              403 As    
+Ul            1120 D3006K3-8    Na Ni Va           710 As     
+HLOL          1219 B6879M9-E    Hi                 103 As     
+Faftyo'ear    1311 C1506L9-A    De Ni Po           104 A4                
+Aieilarl      1411 B4515L8-C    Ni Po              814 A6     
+Ahkalaustu    1414 C6554J9-A  R Lo Ni              104 As 
+AWAHRAKTELYE  1417 E7339H7-8    Hi Na              104 As     
+Iyuahyehfoai  1511 D6624J6-7    Lo Ni              902 As 
+Uayalfyhiw    1514 C0004K2-C  R As Lo Ni           304 As 
+Eaeiheilrei   1611 C7395HC-7    Ni                 310 As  
+Ewyerl        1614 A7445K4-C  R Ag Ni              105 As  
+Ktyeeaeiroaea 1616 C5616J9-B    Ni                 413 As       
+Aiwyo'iykhoil 1620 C9866M6-A    Ag Ni Ri           213 As     

@@ -1,0 +1,37 @@
+Classic Era Stats:
+
+System: Efate
+Subsector: Regina
+Sector: Spinward Marches
+Coordinates: 1705 (C0105)
+UWP: A646930-D
+
+Starport: Excellent
+Size: Medium (8800-10400 km)
+Atmosphere: Thin, tainted
+Hydrographics: 60% water
+Population: 8 billion
+Govt: Self-Perpetuating Oligarchy
+Law Level: No Prohibitions
+Technology: Average Stellar
+
+Bases: Navy & Marine
+Trade Codes: Hi In           
+Travel Zone: Green
+Planetoid Belts: 1
+Gas Giants: 0
+Allegiance: Imperial
+
+
+New Era Extended Stats:
+
+A646A30-F B    Hi In    110 Re K4 V
+g=.7718, day=37:59:06.7; year 41d 10:56:55.1 Imp., 26d 4:38:11.2 Local
+atmos=.66, controlled weather                    TNE weather = -1
+Temp=-3 (6/lat +15 to -45) (season +17 to -29, 16 deg lat)
+daily temp range: +14 noon, -54 midnight
+[Life]; Ores, Radioactive, Crystals; Nonmetals; Parts, Consumables;
+Recordings, Software.
+Progressive/Indifferent; Competitive/Militant; Harmonoius/Xenoplilic
+Legal=0-00000                   Tech= FF-FEFGF-EEEF-FF-4
+

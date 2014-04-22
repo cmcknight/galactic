@@ -1,0 +1,45 @@
+@SUB-SECTOR: sec_A   SECTOR: deneb
+#
+# Trade routes within the subsector
+$0201 3202 -1 0
+$0208 3209 -1 0
+$0201 0504 0 0
+$0504 0406 0 0
+$0406 0208 0 0
+$0406 0805 0 0
+$0805 0906 1 0
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+New Ramma     0108 D465540-6  S Ag Ni              703 Dd
+Marz          0201 A584985-A  S Hi                 101 Dd
+Carthage      0202 B2107B9-C    C0 Na              724 Dd
+Enaaka        0203 B777786-6    Ag                 922 Dd
+Rubrak        0207 C554511-7  S Ag Ni              701 Dd
+Teh           0208 D263136-5  S Lo Ni              802 Dd
+Kretikaa      0209 B20056B-C    Ni Va              623 Dd
+Kiiga         0303 D530624-8    Na Ni Po De     A  201 Dd
+Riacon        0304 B666441-8  N Ni                 301 Dd
+Saki          0306 D276641-8    Ag Ni              701 Dd
+Horizon       0310 E110725-8    Na                 324 Dd
+Gessert       0403 C254315-A    Lo Ni              320 Dd
+Miwald        0404 C53349B-A  S Ni Po              602 Dd
+Pretoria      0406 B656967-9  N Hi Cp              720 Dd
+L'sis         0409 A764896-8  N Ri                 101 Dd
+El D'Nah      0502 C549456-B    Ni                 502 Dd
+Spectre       0503 B100654-A    Na Ni Va        A  802 Dd
+Ash           0504 A540887-8  S Po De              201 Dd
+Caladib       0508 B697222-9  N Lo Ni              301 Dd
+Redi          0509 E575565-4    C4 Ag Ni An        712 Dd
+Gra-Bie       0510 C23027B-9    Lo Ni Po De        120 Dd
+Kirklend      0602 A668443-A  N Ni                 423 Dd
+Carmel        0604 B346441-9    Ni                 302 Dd
+Urnas         0609 D120974-C  S Hi Na In Po De  A  210 Dd
+Taa           0701 A650643-9    Po Ni De           330 Na
+Dilex         0702 D626888-7                       902 Va
+Hylaxis       0709 B7B2354-A    Lo Ni Fl           522 Dd
+Naali         0710 D61657A-8  S Ni Ic              324 Dd
+Retion        0803 C558445-4    Ni                 601 Va
+Jode          0805 A9A6220-B    Lo Ni Fl           410 Dd
+Therm         0809 D9B0489-5  S Ni De              313 Dd

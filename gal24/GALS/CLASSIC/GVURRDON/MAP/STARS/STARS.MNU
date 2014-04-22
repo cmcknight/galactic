@@ -1,0 +1,22 @@
+@dir=gals\classic\gvurrdon\map\stars
+@Light Yellow
+
+Gvurrdon Sector / Stellar Data
+
+@Light Cyan
+       A: Ongvos                   @stars_a.dat
+       B: Zoghz                    @stars_b.dat
+       C: Adhsakh                  @stars_c.dat
+       D: Fanganger                @stars_d.dat
+       E: Uerra Rueshken           @stars_e.dat
+       F: Dzen                     @stars_f.dat
+       G: Lla Iz Therrg            @stars_g.dat
+       H: Thoengling               @stars_h.dat
+       I: Kfan Uzangou             @stars_i.dat
+       J: Ruhk                     @stars_j.dat
+       K: Ksits Usathu             @stars_k.dat
+       L: Aelluekh                 @stars_l.dat
+       M: Llanic                   @stars_m.dat
+       N: Spurl                    @stars_n.dat
+       O: Uthe                     @stars_o.dat
+       P: Firgr                    @stars_p.dat

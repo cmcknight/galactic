@@ -1,0 +1,38 @@
+@SUB-SECTOR: sec_I   SECTOR: gush
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Hannrii       0125 X265559-5    Ag Ni              304 Wi
+Egurgadi      0126 X65A210-5    Lo Ni Wa           103 Wi
+Praodelf      0130 XAB6000-0    Fl Ba              000 --
+Daze          0222 E776376-5    Lo Ni              300 Wi
+Abalesk       0223 X433000-0    Ba Po              013 --
+Stoend        0227 X86A758-4    Wa              B  124 Wi
+Barren        0228 X652000-0    Ba Po              000 Wi
+Foussough     0229 E653010-1    Lo Ni Po           100 Wi
+Estos         0230 X225000-0    Ba                 005 --
+Fay           0327 C540576-3  N Ni Po De        B  422 Wi
+Manuri        0328 X343452-2    Lo Ni Po           302 Wi
+Somit         0329 X55A336-2    Lo Ni Wa           100 Wi
+Rucciset      0422 X514000-0    Ba Ic              012 --
+Charlotte     0428 X265312-A    Lo Ni              300 Wi
+Kinurgii      0526 X200000-0    Ba Va              022 --
+Armec/Zamaa   0527 X895343-4    Lo Ni              203 Wi
+Priinargh     0529 X584005-1    Lo Ni              410 Wi
+Burle's Point 0530 X662237-1    Lo Ni           B  302 Wi
+Hartesh       0623 X657445-3    Lo Ni              505 Wi
+Thelkourd     0626 D260620-5    Ni De              613 Wi
+Guhnesh       0627 D757211-5    Lo Ni              100 Wi
+Norton        0628 X571443-4    Lo Ni              102 Wi
+Orren Station 0630 X54576B-5    Ag                 724 Wi
+Younis        0722 X110000-0    Ba                 004 --
+Inapiirn      0723 X542630-3    Ni Po           B  710 Wi
+Tungohl       0725 X411000-0    Ba Ic              014 --
+Parallel      0727 X73A000-0    Ba Wa              014 --
+Wenton        0728 X333000-0    Ba Po              000 --
+Jousta        0729 X300000-0    Ba Va              022 --
+Nonescue      0824 X547246-2    Lo Ni           B  405 Wi
+Delaag        0826 X8B0000-0    Ba De              013 --
+Loniva        0827 X203000-0    Ba Va Ic           005 --
+Query         0829 D645410-9    Lo Ni              202 Wi

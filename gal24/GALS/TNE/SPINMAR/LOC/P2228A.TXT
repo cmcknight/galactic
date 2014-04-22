@@ -1,0 +1,33 @@
+System: Persephone
+Subsector: Lunion
+Sector: Spinward Marches
+Coordinates: 2228 (K0608)
+UWP: B775833-A
+
+Starport: Good
+Size: Medium (10400-12000 km)
+Atmosphere: Standard, tainted
+Hydrographics: 50% water
+Population: 900 million
+Govt: Self-Perpetuating Oligarchy
+Law Level: Low
+Technology: Early Stellar
+
+Bases: 
+Trade Codes: None
+Travel Zone: Green
+Planetoid Belts: 2
+Gas Giants: 2
+Allegiance: Imperial
+
+Extended Stats:
+B775833-A W  922Re M2V
+B4A-0 502-8NA0-2A Re3
+g=.7962  day=26:03:35.06; year=64d 19:10:59.75/59d 16:15:46.60
+atmos=.92, natural weather
+Temp=0 (6/lat +18 to -42) (season 17 to -26, 16 deg lat)
+daily temp range 15
+Agricultural; Durables; Recordings, Software, Documents
+Conservative/Indifferent, Expansionistic/Militant, Monolithic/Aloof
+Legal 3-40535,  Tech AA-AAA99-AAAB-AA-D
+

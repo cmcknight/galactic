@@ -1,0 +1,33 @@
+@SUB-SECTOR: Nishamidu SECTOR: Arzul
+#
+$0223 3122 -1 0 11
+$0223 0624 0 0 11
+$0624 0627 0 0 11
+$0627 0928 1 0 11
+$0722 0624 0 0 11
+$0722 0519 0 -1 11
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Nenn          0121 C64499E-8    Hi                 613 Hl    
+Kuune         0123 A452A63-D  N Hi                 203 Hl    
+Mirashidi     0124 A66668B-8    Ag                 323 Hl    
+Gzaek         0223 B97A562-C    Ag Wa              112 Hl    
+Mar           0328 E653143-2    Lo                 203 Hl    
+Thollydam     0329 X212000-0    Ba Ic Lo           003 Hl    
+Kokhs         0429 D410200-8    Lo                 802 Hl    
+Sii           0430 D232100-9  S Lo                 203 Hl    
+Kuu           0522 B346875-B  S                    314 Hl    
+Galiibegada   0523 D78A300-8    Lo Wa              305 Hl    
+Ab            0527 B445569-7  N Ag Ni              803 Hl
+Sing          0622 B566246-7    Lo                 110 Hl    
+Gimashkhizara 0623 A76A88A-9    Wa                 613 Hl    
+Pinapupiru    0624 B57657B-5  N Ag                 210 Hl    
+Fetap         0627 A458689-D  N Ag                 510 Hl    
+Emug          0723 A97988B-8                       513 Hl    
+Byddklob      0724 B998999-7  N Hi                 304 Hl    
+Temkaka       0722 A439679-A  N                    514 Hl    
+Le            0728 B663ACF-9  N Hi                 514 Hl    
+Zasorrg       0828 C304442-B  S Ic Va              523 Hl    
+Whuuka        0827 X000000-0    As Ba Lo           003 Hl    
+

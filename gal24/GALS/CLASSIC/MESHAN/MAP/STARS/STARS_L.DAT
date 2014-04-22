@@ -1,0 +1,32 @@
+@SUB-SECTOR: stars_L   SECTOR: meshan
+#
+# Trade routes within the subsector
+#
+#--------1---------2---------3
+#PlanetName   Loc. Stars(s)
+#----------   ---- ---------
+Rraerroen     2524 F5 V M8 D
+Oukuerz       2529 F8 D M3 D
+Aegzae        2721 F2 D
+Akuva         2723 F2 V M5 D
+Irmar         2725 F2 D
+Rorrgdaeg     2728 F7 V
+Maramar       2821 F9 D M8 D
+Ksangars      2822 F5 D
+Uekhsgva      2826 F9 V
+Soeghzon      2827 M3 V M3 D
+Kekhe         2828 M5 V
+Zakadar       2922 F0 D
+Aeng Du       2924 F8 V
+Nash          2925 F4 V
+Ueghgnoe      2930 G7 V
+Gaethueng     3023 G5 D
+Thaxray       3026 M1 V
+Lishuu        3029 F3 V
+Odhnaegok     3121 F3 V
+Aegerr        3122 F3 V M2 D
+Ogaros        3126 F1 V M2 D
+Ghousaeg      3127 F2 IV M0 D
+Alde          3226 F0 D M6 D
+Uththae       3227 G8 D
+Tsaerrues     3228 F4 V

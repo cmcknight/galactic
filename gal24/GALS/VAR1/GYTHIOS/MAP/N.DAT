@@ -1,0 +1,35 @@
+@SUB-SECTOR: Attica SECTOR: Gythios Sector
+#
+# Jump-routes
+$1236 1337 0 0
+$1236 1339 0 0
+$1339 1438 0 0
+$1339 1540 0 0
+$1540 1838 1 0
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Ryj           0931 X533000-0    Ba Lo              004 Im 070
+Jaspre        0933 X000000-0    As Ba Lo           022 Im 000
+Grumedan      0934 X501000-0    Ba Ic Lo Va        003 Im 060
+Taerhael      0940 C555336-6    Lo                 404 Im 240
+Tristin       1038 X310000-0    Ba Lo              005 Io 050
+Tarzan        1133 X334000-0    Ba Lo              003 Im 240
+Ort           1139 X536000-0    Ba Lo              003 Io 230
+Llyweilun     1140 C302137-8  S Ic Lo Va           313 Io 020
+Albuquerque   1236 A547A67-E    Hi                 600 Io 16Q
+Granlon       1239 D455546-3    Ag                 804 Io 530
+Josephus      1333 X421000-0    Ba Lo              012 Im 520
+Dawe          1336 X230000-0    Ba De Lo           001 Io 020
+Bella         1337 B75A8CD-8    Wa                 203 Io 7BF
+Attica        1339 A97A363-9  N Lo Wa              413 Io 3B0
+Hamid         1340 X300000-0    Ba Lo Va           004 Io 030
+Binghamton    1432 X524000-0    Ba Lo              003 Im 340
+Hlynn         1438 C485861-6  S                    211 Io 55O
+Winnie        1439 D745755-6    Ag                 600 Io 051
+Laurie        1440 X9B6000-0    Ba Fl Lo           002 Io 0A0
+Shu-wikikik   1532 B634342-C  N Lo                 203 Im 160
+Edgerton      1540 A9D86B9-A  2                    204 Io 095
+Enseer        1635 D352657-8                       423 Io 430
+Bechtel       1636 X225000-0    Ba Lo              004 Io 500

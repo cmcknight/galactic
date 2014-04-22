@@ -1,0 +1,100 @@
+
+Very Basic Planetary Classification System
+------------------------------------------
+
+Obviously not the absolute in technical sophistication...  :-)
+ 
+   Solar Companion: Not technically a world but not the main star
+      or even a part of the close-binary pair.
+   Brown Dwarf: A failed star which either didn't achieve enough
+      mass to ignite its nuclear fires, or if it did ignite, it
+      maintain fusion for very long. This "body" emits a good deal
+      of infrared radiation but nothing in the visible spectrum.
+   Gas Giant: Fairly obvious. Great for wilderness refueling if
+      you use hydrogen to get around.
+   Magma Ball: Ouch, this place is hot. This planet is either
+      very close to the primary or is on its way to becoming a
+      primordial world. It is possible that such a world is
+      tidally locked to its sun. Then, one half would be a
+      sea of lava, and the other half would be frozen.
+   Primordial: A very young world. Atmosphere poisonous (usually
+      reducing, being composed primally of nitrogen and carbon
+      dioxide with variable amounts of water vapor, ammonia,
+      methane, carbon monoxide and hydrogen sulfide).
+      Geologically instable. Lots of volcanos and magma seas.
+   Asteroid Belt: Not a planet at all, but rather a ring of
+      debris most likely caused by a gravitational disturbance
+      during a planet's early formation.
+   Planetoid: A large chuck of rock which isn't part of an
+      asteroid belt. Not necessarily round. Could be a
+      captured planet.
+   Vacuum Ball: Like the moon, essentially. Lots of rock. No
+      atmosphere. Too big to be called a planetoid.
+   Snow Ball: Like a planetoid, but composed primarily of ice.
+      Usually found only beyond the star's biozone.
+   Ice Planet: May have a breathable atmosphere so long as there
+      is the ecosystem to support it. More likely a dead planet
+      without a breathable atmosphere.
+   Shallow World: Has some atmosphere, but it's not something
+      you'd want in your lungs even assuming there was enough of
+      it to breathe, which there isn't. This place will require
+      gobs of terraforming if you really want to live here, and
+      it probably won't be worth the effort when you're done.
+      Mars might be an example.
+   Barren World: Generally a non-breathable atmosphere, but there
+      will probably be water tied up as ice crystals in the
+      soil. Oxygen will probably reside in oxidizing compounds
+      such as ferric oxide or in various nitrates. World may be
+      volcanically active. Probably on its way to becoming a
+      shallow world. No life beyond bacteria.
+   Garden World: Earth is a prime example. Not only can you
+      breath the atmosphere without mechanical aid, but life,
+      either native or transplanted, thrives in abundance. Not
+      all Garden Worlds need be natural... many may be the result
+      of terraforming projects.
+   Water World: Over 95% covered by water and ice. Possibly a
+      breathable atmosphere along with a teaming native ecosystem
+      which got evolutionarily stuck due to the total lack of any
+      freestanding continents.
+   Desert World: This world isn't entirely desert, but the
+      hydrographic percentage is relatively low. Most likely, the
+      atmosphere is somewhat thin, and the change in temperature
+      from day to night is fairly extreme. Assuming an ecosystem
+      is present, however, the atmosphere may be breathable.
+   Marginal World: Complex lifeforms either never evolved on this
+      planet or went extinct sometime within the past couple
+      million years. Perhaps the sun flared and knocked out the
+      entire ecosystem, or maybe a slew of meteors struck,
+      churning up enough dust that the sun was blotted out for
+      several decades. Regardless, this world is ripe for
+      colonization. Some terraforming will be required, however,
+      if the world is to remain habitable over the long term.
+      Mars might have been a good example eons ago.
+   Belch Ball: Lifeless terrestrial planet with a poisonous,
+      toxic, or possibly even borderline-corrosive atmosphere.
+   Greenhouse: A world gone to hell because of too much
+      greenhouse gases (ala Venus).
+   Exotic World: This planet has life, but not as we know it.
+      The atmosphere is poisonous to humans and may even contain
+      lethal micro-organisms. The temperature, however, is
+      probably moderate enough that an individual can walk around
+      unscathed by the environment so long as she has a self-
+      contained oxygen supply. Many alien homeworlds will
+      be exotics.
+   Liquid World: Surface predominantly covered by ammonia or
+      liquid methane. In the former case, the world may contain
+      a teaming alien ecosystem. In the latter, alien life is
+      less likely. Of course, other (non-water) liquids are also
+      possible.
+   Gas Core: This world was once a gas giant, but due to some
+      catastrophic incident in the past (most probably the death
+      throws of what was formerly the system's primary), was
+      cooked quite hot and thereby stripped of most of its
+      atmosphere, leaving behind a huge (super-terrestrial)
+      core surrounded by heavier gasses. Such a world is quite
+      large, with a high gravity and a poisonous, possibly even
+      corrosive, atmosphere.
+   Special: This world cannot be placed in any of the previously
+      defined categories. It may be an artificial planet or
+      perhaps a fluke of nature. GM's discretion advised.
+ 

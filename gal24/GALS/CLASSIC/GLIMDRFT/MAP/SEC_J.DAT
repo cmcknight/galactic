@@ -1,0 +1,50 @@
+@SUB-SECTOR: sec_j   SECTOR: glimdrft
+#
+#Jump Routes
+$0921 1120 0 -1
+$0921 0924 0 0
+$0924 0624 -1 0
+$1127 1225 0 0
+$1127 1327 0 0
+$1225 1327 0 0
+$1229 1331 0 1
+$1327 1527 0 0
+$1421 1420 0 -1
+$1421 1422 0 0
+$1430 1331 0 1
+$1527 1528 0 0
+$1530 1430 0 0
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Trento        0921 AAA2564-D  N Ni                 901 Kx
+Randabar      0924 A886411-C    Ni                 801 Kx
+Katmere       0927 CABA798-A    Wa                 500 Kx
+Trieste       0928 X100261-8    Ni                 801 Kx
+Neot          1021 EAC2576-9    Ni                 101 Kx
+Wastin        1022 DAB9200-8    Ni                 500 Kx
+Flubit        1024 CAB1467-A                       200 Kx
+Kushan        1123 X232000-0                       000 Kx
+Suevi         1124 D000500-A    As                 701 Kx
+Ord           1127 BAB1300-A    Ni                 700 Na
+Ficin         1129 D1105A5-A    Ni                 801 Na
+Kutrigur      1222 X000000-0    As                 001 Kx
+Poonch        1225 B232853-C    Na                 301 Na
+Qazvin        1229 A000300-8    As                 501 Za
+Irdon         1230 C86A468-8    Wa                 800 Za
+Slina         1323 E000554-9    As                 201 Kx
+Port Peters   1327 AAC9459-C    Ni                 201 Na
+Susquashanna  1329 E757635-8    Ag                 100 Za
+Caba          1421 BAC1347-C    Ni                 801 Kx
+Afin          1422 A4998A6-E    Ni                 501 Kx
+Artin         1423 XAC1210-A                       800 Kx
+Tamia         1425 XAB1766-8                       400 Na
+Djis          1430 C110574-9    Ni                 701 Za
+Uzlovaya      1527 B1106B6-9    Na                 101 Na
+Felicia       1528 BAC1586-C    Ni                 700 Na
+Dell          1530 B110159-8    Ni                 901 Za
+Lindin        1621 D000200-A    As                 401 Kx
+Raka          1623 C000494-B    As                 601 Kx
+Szczcinski    1626 EAB1375-8    Ni                 600 Na
+Alexandria    1630 D200568-8    Ni                 201 Za

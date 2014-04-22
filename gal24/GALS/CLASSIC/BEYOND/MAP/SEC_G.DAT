@@ -1,0 +1,35 @@
+@SUB-SECTOR: sec_G   SECTOR: beyond.sec
+#
+# Trade routes within the subsector
+$1812 1810 0 -1
+$1812 1914 0 0
+$1812 1612 -1 0
+$2116 2117 0 0
+$2117 2017 0 0
+$2017 2119 0 0
+$2119 2020 0 0
+$2020 2221 0 1
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Dianalee      1715 E868495-3  S Na Ni              7   Na
+Sigma VII     1716 C874330-7    Ni                 7   Na
+Port Royal    1718 D861789-6    Na Ri              9   Na
+Dorothyellen  1719 C865260-7    Ni                 4   Na
+Norn          1812 D83598D-A  N                    5   Na
+Rusty         1814 C83B88B-8                       4   Na     f
+Caledonia     1815 X88A789-1    Na Ri           R  7   Na
+Silbe         1816 B855879-6                       2   Na
+Morrowvia     1819 E849474-3    Na Ni           A  4   Na
+Pascal Base   1914 A873080-7                       9   Na
+Botany Bay    1915 C868663-3    Ag Ni Ri           5   Na     f
+Phyllis's Sur.2017 E863550-6    Ni              A  8   Na     f
+Steinmetz     2018 D846AAF-5    In                 5   Na
+Ultima        2019 B83C360-B  N Ni                 4   IS
+Caribbea Nueva2020 C84788B-7    Na                 5   Na
+Revelation    2116 A859120-E  2 Na Ni Ca           3   Na     f
+Tanasi        2117 C96685F-4    Ri                 6   Na     f
+Beriel        2118 B837879-A                    R  5   IS     f
+Quandary      2119 E82A597-A  M Na Ni              7   Na
+Shangri-La    2311 A86779B-9    Na Ri              8   Ms

@@ -1,0 +1,33 @@
+@SUB-SECTOR: f SECTOR: Gateway
+#
+# Jump-routes
+$1218 1220 0 0 13
+$1220 1121 0 1 13
+$1617 1818 1 0 10
+$1612 1912 1 0 10
+$1220 1319 0 0 14
+$1319 1520 0 0 14
+$1520 1721 1 1 14
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Galvaren      1319 C748551-B    Ag Ni              612 Ga
+Gavro         1615 E87A000-1    Lo Ni Wa           001 Pl
+Gulf          1012 D679443-7    Ni                 913 Na
+Taneriv       1617 C76A666-8    Ri Wa              914 Pl
+Havary        1416 C553259-9    Lo Ni Po           812 Na
+Tovis         1412 C664532-9    Ag Ni              510 Pl
+Pasternak     1016 C301698-9    Na Ni Va Ic        214 Na
+Ganyvar       1612 C766684-9    Ag Ni Ri           412 Pl
+Cometary      1215 D110330-A    Lo Ni              734 Na
+Terrier       1019 C869575-A    Ni                 813 Ga
+Tash          1513 C968887-A    Ri                 410 Pl
+Halversons Roc1520 C000898-A    Na As              712 Na
+Anaxar        1613 C478861-A                       912 Pl
+Wolden        1218 B4479A9-A    Hi In              215 Ga
+Windfleet     1413 D779988-A    Hi In              310 Pl
+Foriv         1514 C772988-A    Hi In              912 Pl
+Anderson      1519 CACA121-B    Fl Lo Po           321 Na
+Gateway       1220 AS62688-B    Ri Ni              822 Ga
+Vosrin        1512 D87A989-B    Hi In Wa           723 Pl

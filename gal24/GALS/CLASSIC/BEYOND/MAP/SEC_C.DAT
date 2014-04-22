@@ -1,0 +1,57 @@
+@SUB-SECTOR: sec_C   SECTOR: beyond.sec
+#
+# Trade routes within the subsector
+$1705 1604 -1 0
+$1705 1805 0 0
+$1805 1806 0 0
+$1806 1707 0 0
+$1707 1708 0 0
+$1708 1709 0 0
+$1707 1508 -1 0
+$1709 1508 -1 0
+$1806 2006 0 0
+$1806 1908 0 0
+$1908 2006 0 0
+$2006 2205 0 0
+$1709 1810 0 0
+$1810 1811 0 1
+$1810 2206 0 0
+$2206 2503 1 0
+$2205 2305 0 0
+$2305 2304 0 0
+$2304 2403 0 0
+$2403 2502 1 0
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Zaroq Nova IX 1701 B8C1987-8  S Na                 4   Na
+Liebeskinder  1705 B000520-C  T Na Ni           A  7   Dw
+Feldherrnhalle1707 A373667-9  S Ni                 3   Dw
+Quatsch       1708 A636435-A    Ni                 6   Dw
+Abwehr        1709 A440575-9    Na Ni Po           2   Dw
+Beinbruch     1802 C675204-6    Ni                 2   Dw
+Alamo Ismat   1805 B795400-6    Ni                 6   Na
+Bundestag     1806 A9031A6-E  2 Ni Ca              1   Dw     f
+Bierstube     1808 D897200-6    Na Ni              5   Dw
+Tartakover    1810 A560895-B  I Ri              A  9   Na     f
+Gasthof       1903 D403776-4    Na                 3   Dw
+Mansagt       1904 C674100-9    Ni                 8   Dw
+Ilse          1905 E320433-8    Na Ni Po           4   Dw
+Oberprasident.1908 A373113-B  N Ni Ca              3   Dw     f
+Nietszche     1909 C548668-6    Ag Ni              9   Dw     f
+Ewig Weibliche2001 EB67380-9    Na Ni              6   Dw
+Vierjahreszei.2003 B34532F-8    Ni              R  6   Dw     f
+Liebeslied    2006 A9873F0-B  T Ni                 4   Dw     f
+Zeben         2101 E100250-9    Ni                 1   Dw     f
+Invert. Hanham2204 C51059D-3    Ni                 6   Na     f
+Beta Centre   2205 A987100-9  I Ni                 7   Na     f
+Alpha Mare    2206 D9C3232-5    Ni                 9   Na
+511.Delta.XI  2303 C652764-3    Po                 8   Na     f
+Morphy        2304 B543232-9    Ni Po              1   Na
+Queen Maud's  2305 B216499-A    Ni                 5   Na     f
+Hel           2310 B777300-9    Na Ni           A  9   Ms
+Alekhine      2403 B9BA786-A  M                    4   Na     f
+Macchu Picchu 2405 D731851-4    Na Po              7   Na     f
+Shequonur     2409 B753460-A    Ni Po           A  5   Ms     f
+Dernier Cri   2410 D766348-7    Ni              A  5   Ms

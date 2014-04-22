@@ -1,0 +1,35 @@
+@SUB-SECTOR: sec_J   SECTOR: yiklerzd
+#
+# Trade routes within the subsector
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Chtiejtlenz   0921 B000764-8    As Na O:0922    A  911 Mc
+Stiepldrofr   0922 B000894-A  * As Na              922 Mc
+Afafliia      0924 X583000-0    Ba                 004 Na
+Dlaprshant    0926 X100000-0    Ba Va           R  003 Na
+Ofrlansfrieepr0927 C621555-8    Ni Po              313 Na
+Fordays Fortun0929 A000987-E    As Na Hi In        114 Na
+Netsiazdinsh  1023 C463779-8  M Ri C2              904 Na
+Chakrqil      1024 B636569-9    Ni O:1025          700 Na
+Ianzhva       1025 B564955-B    Hi                 314 Na
+Crimson Beacon1029 B876723-A    Ag                 400 CA
+Carillon      1030 A766948-C  C Hi Cx              702 CA
+Apench        1122 X226000-0    Ba                 002 Na
+Darkside Rest 1128 X703000-0    Ba Ic Va        R  010 Na
+Shining Harmon1129 B889624-7  C Ni                 803 CA
+Zhde Inesh    1222 X755000-0    Ba                 004 Na
+Zhdizdiertl   1223 X649000-0    Ba                 003 Na
+Vinzhe        1322 E6417CE-6    Po              A  813 Na
+Dim Rock      1330 B7A4776-A  C Fl              A  802 CA
+Eov Stiavr    1421 C945755-9  M Ag                 402 Na
+Denshnef      1423 X581000-0    Ba                 003 Na
+Ezpianzchtiepr1426 B635245-9    Lo Ni              802 Cc
+Atlieblanch   1521 A652356-B  * Lo Ni Po           223 Mc
+Savrflia      1522 X522000-0    Ba Po              004 Na
+Doklvar       1525 X865000-0    Ba                 014 Na
+Dianzh Diatl  1527 A8679A8-C    Hi                 420 Cc
+Adrqriaz      1621 C000698-7    As Ni Na           625 Na
+Shtoeb Onsh   1625 X8A8000-0    Ba Fl              000 Na
+Zezhdishketl  1630 B311510-B  M Ic Ni              211 Ic

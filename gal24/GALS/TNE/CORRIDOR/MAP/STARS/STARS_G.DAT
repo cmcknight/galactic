@@ -1,0 +1,18 @@
+@SUB-SECTOR: stars_G   SECTOR: corridor
+#
+# Trade routes within the subsector
+#
+#--------1---------2---------3
+#PlanetName   Loc. Stars(s)
+#----------   ---- ---------
+Naadi         1711 M2 V
+Getz          1712 M4 V M0 D
+Denlaar       1713 K9 V
+Antezeno      1811 F6 V
+Enrick Down   1912 F7 V M1 D
+Shargishu     1913 F7 II
+Faplion       2012 F7 D M3 D
+Darkmoon      2111 G1 V
+Farplace      2116 F0 V
+Sent'ere      2212 M2 V
+Hishumaki     2311 M9 V K5 V

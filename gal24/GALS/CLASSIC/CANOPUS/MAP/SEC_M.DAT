@@ -1,0 +1,37 @@
+@SUB-SECTOR: sec_M   SECTOR: canopus
+#
+# Trade routes within the subsector
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Kiyl          0134 D585888-4    Ri                 602 Of
+Yaliyhoiau    0135 E110200-8    Lo Ni              101 Of
+Cein          0137 E594750-8                       304 Na
+Canterbury    0232 B683510-8    Lo Ni              214 Na
+Eaoya         0234 A4017AD-D  N Ic Na Va           305 Of
+Woolworth     0236 C8A4576-9    Fl Lo Ni           204 Na
+Baltic        0238 D529513-6    Lo Ni              704 Na
+Barrington    0240 E300359-8    Lo Ni Va           103 Na
+Logan         0335 D885532-5  S Ag Lo Ni           604 Na
+Zacarias      0336 E332535-5    Lo Ni Po           714 Na
+Fuji          0431 D516531-6    Ic Lo Ni           605 Na
+Schultz       0437 C311535-B    Ic Lo Ni           322 Na
+Coni          0532 B997533-8    Ag Lo Ni           930 Na
+Osbarn        0537 E502522-5    Ic Lo Ni Va        911 Na
+Charlotte     0540 B887534-7  N Ag Lo Ni           600 Na
+Lilliput      0633 C552430-8  S Lo Ni Po           800 Na
+Saini         0635 C310752-A  S Na                 501 Na
+Stane         0636 C483795-7    Ri                 404 Na
+Raoghnait     0639 C87955A-C  S Lo Ni              501 Na
+Zaphod        0732 D754475-5    Ag Lo Ni           804 Na
+Icimin        0733 C310515-B  S Lo Ni              101 Na
+Mawson        0734 B000300-E    As Lo Ni Va        900 Na
+Heroy         0738 C000583-C    As Lo Ni Va        214 Na
+Ising         0739 DA8A865-8    Ri Wa              204 Na
+Monroe        0831 D676540-6  S Ag Lo Ni           615 Na
+Iolder        0832 C337311-9    Lo Ni              321 Na
+B'jan         0834 B402889-8  N Ic Na Va           405 Na
+Meier         0835 C000303-E  S As Lo Ni Va        310 Na
+Armenia       0839 D200564-A  S Lo Ni Va           620 Na
+Antii         0840 C310530-7  S Lo Ni              803 Na

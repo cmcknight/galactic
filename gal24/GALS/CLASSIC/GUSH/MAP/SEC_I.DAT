@@ -1,0 +1,40 @@
+@SUB-SECTOR: sec_I   SECTOR: gush
+#
+# Trade routes within the subsector
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Hannrii       0125 E265568-6    Ag Ni              604 Im
+Egurgadi      0126 A65A200-F    Lo Ni Wa           503 Im
+Praodelf      0130 AAB687A-A    Fl                 600 Im
+Daze          0222 C776311-B    Lo Ni              700 Im
+Abalesk       0223 A433541-C  N Ni Po              713 Im
+Stoend        0227 C86A7A9-A    Wa                 324 Im
+Barren        0228 X652000-4    Lo Ni Po Ba     R  200 Im
+Foussough     0229 D653004-5  S Lo Ni Po           300 Im
+Estos         0230 A225653-D    Ni Cp              405 Im
+Fay           0327 A540620-9  N Ni Po De           322 Im
+Manuri        0328 B343462-D    Ni Po              902 Im
+Somit         0329 X55A300-3    Lo Ni Wa        R  200 Im
+Rucciset      0422 B514554-B  S Ni Ic              412 Im
+Charlotte     0428 A265301-D  N Lo Ni              700 Im
+Kinurgii      0526 D200200-8    Lo Ni Va           622 Im
+Armec-Zamaa   0527 A895311-D    Lo Ni              603 Im
+Priinargh     0529 B584100-E    Lo Ni              310 Im
+Burle's Point 0530 B662204-B  S Lo Ni              902 Im
+Hartesh       0623 C657586-B    Ag Ni              305 Im
+Thelkourd     0626 C2607AC-7    De                 413 Im
+Guhnesh       0627 C757231-6    Lo Ni              300 Im
+Norton        0628 C571400-A    Ni                 302 Im
+Orren Station 0630 B5457A6-C    Ag                 924 Im
+Younis        0722 B110500-C  N Ni                 904 Im
+Inapiirn      0723 B542886-C    Po                 110 Im
+Tungohl       0725 B411200-E    Lo Ni Ic           314 Im
+Parallel      0727 E73A976-9    Hi Wa              314 Im
+Wenton        0728 C33357C-A    Ni Po              500 Im
+Jousta        0729 B300532-D  N Ni Va              422 Im
+Nonescue      0824 D547326-9  S Lo Ni              205 Im
+Delaag        0826 B8B0895-B  S De                 713 Im
+Loniva        0827 D203212-8  S Lo Ni Va Ic        905 Im
+Query         0829 B645441-D    Ni                 602 Im

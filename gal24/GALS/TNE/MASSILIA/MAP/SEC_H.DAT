@@ -1,0 +1,38 @@
+@SUB-SECTOR: sec_a   SECTOR: massilia
+#
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+The Maralee   2512 E5738RD-7                       203 Wi
+Atina         2513 X631000-0    Ba                 002 Un
+Rovick        2514 X4544TB-7    Lo Ni              422 Wi
+Rudeen        2516 X100000-0    Ba Va              000 Un
+Doenye        2519 X222000-0    Ba                 013 Un
+Neld          2613 X100000-0    Ba Va              001 Un
+Athoff        2615 X85A8R8-4    Wa              B  102 Wi
+Saint John    2616 X4583O3-3    Lo Ni              223 Wi
+Ccoman        2714 X76A010-4    Wa                 003 Un
+Saad          2716 C5973N0-5    Lo Ni              314 Wi
+Yan           2718 X100000-0    Ba Va              022 Un
+Parcic        2719 X100000-0    Ba Va              000 Un
+Xuni          2811 X74A4O5-3    Lo Ni Wa        B  202 Wi
+Grund         2812 X9A6000-0    Ba Fl              003 Un
+Clu           2813 D6678T4-5    Ri              B  223 Wi
+Paragreen     2814 C8875Q7-7    Ag Ni              404 Wi
+Kharrl        2815 X100000-0    Ba Va              001 Un
+Zurn          2820 E6415Q3-3    Ni Po           B  304 Wi
+Rynea         2913 X400000-0    Ba Va              000 Un
+Man-sabala    2916 X110000-0    Ba                 003 Un
+Pinkhurim     2917 X110000-0    Ba                 002 Un
+Murland       2918 X5646RC-4    Ag Ni Ri           602 Wi
+Nauphtain     2920 D8758S8-8                       214 Wi
+Palasha       3013 X5559RB-2    Hi              B  103 Wi
+Euclid        3014 X4424Q5-0    Lo Ni Po        B  203 Wi
+Gaff          3016 X110000-0    Ba                 004 Un
+Daiid         3115 X7859RB-3    Hi              B  232 Wi
+Sabbagh       3117 X100000-0    Ba Va              024 Un
+Porto         3211 X2567WB-9    Ag                 214 Wi
+Ryther        3214 X2652Q4-1    Lo Ni              312 Wi
+Remundo       3215 X8894O2-7    Lo Ni              125 Wi
+Letycia       3219 X6841O6-7    Lo Ni              404 Wi

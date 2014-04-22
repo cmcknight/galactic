@@ -1,0 +1,43 @@
+@SUB-SECTOR: sec_d   SECTOR: glimdrft
+#
+#Jump Routes
+$2502 2303 -1 0
+$2509 2407 -1 0
+$2509 2708 0 0
+$2604 2404 -1 0
+$2604 2804 0 0
+$2604 2606 0 0
+$2606 2407 -1 0
+$2606 2708 0 0
+$2708 2807 0 0
+$2804 2903 0 0
+$2804 2906 0 0
+$2807 2906 0 0
+$2810 2711 0 1
+$2810 2912 0 1
+$2906 3005 0 0
+#
+#--------1---------2---------3---------4---------5----------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- --
+Meceno        2502 E000455-A    As                 301 Ma
+Nasik         2509 E354494-7    Ni                 800 Ma
+Priluki       2602 C966300-9    Ni                 801 Ma
+Tampo         2604 B682100-A    Ni                 300 Ma
+Arbay         2606 A375300-A    Ni                 900 Ma
+Hestralia     2702 C130561-9    Ni                 901 Ma
+Dorah         2708 B000A99-A    As In              601 Ma
+Parcensee     2710 C0008C9-C    As                 901 Mn
+Garrison      2804 C212300-A    Ni                 600 Ma
+Guafo         2807 B000597-A    As                 301 Ma
+Inisheer      2810 A49A356-D    Wa                 200 Mn
+Kamiri        2903 A968368-A    Ni                 100 Ma
+Kentland      2906 B6826A6-9    Ni                 201 Ma
+Lahr          2909 E110255-B    Ni                 801 Na
+Xuyen         3002 B222235-9    Ni                 100 Ma
+Olmok         3003 D000337-A    As                 201 Ma
+Meyertins     3005 DAA2664-A    Ni                 700 Ma
+Monteballuna  3108 D000456-9    As                 201 Na
+Archangel     3110 B348200-9    Ni                 100 Na
+Olabada       3205 D565898-4    Ni                 601 Na
+Graysands     3209 BAA8200-A    Ni                 800 Na

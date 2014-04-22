@@ -1,0 +1,46 @@
+@SUB-SECTOR: sec_H   SECTOR: massilia
+#
+# Trade routes within the subsector
+$2913 2809 0 -1
+$2913 3013 0 0
+$2913 2916 0 0
+$3013 3215 0 0
+$3215 0115 1 0
+$2916 2718 0 0
+$2718 2621 0 1
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+The Maralee   2512 D57379A-7                       803 Ma
+Atina         2513 B6318A8-A    Po Na              902 Ma
+Rovick        2514 E454420-8    Ni                 822 Ma
+Rudeen        2516 C100320-B    Ni Va Lo           600 Ma
+Doenye        2519 C222124-A    Ni Po Lo           113 Ma
+Neld          2613 B100895-D    Va Na              601 Ma
+Athoff        2615 B85A7CE-D  N Wa                 802 Ma
+Saint John    2616 C458345-B    Ni Lo              723 Ma
+Ccoman        2714 B76A003-E    Ni Wa Lo           203 Ma
+Saad          2716 B597327-A  N Ni Lo              714 Ma
+Yan           2718 A100854-F    Va Na              222 Ma
+Parcic        2719 E100204-A    Ni Va Lo           600 Ma
+Xuni          2811 C74A421-C    Ni Wa              602 Ma
+Grund         2812 D9A6833-7    Fl                 903 Ma
+Clu           2813 C667796-9    Ri Ag              923 Ma
+Paragreen     2814 B887533-A    Ni Ag              904 Ma
+Kharrl        2815 D100446-9    Ni Va              701 Ma
+Zurn          2820 D64159B-6    Ni Po              604 Ma
+Rynea         2913 B400300-F  S Ni Va Lo           400 Ma
+Man-sabala    2916 B11069B-C  S Ni Na              603 Ma
+Pinkhurim     2917 B11099C-F    Hi In Na           602 Ma
+Murland       2918 A564659-C    Ni Ri Ag           502 Ma
+Nauphtain     2920 C875724-8    Ag                 814 Ma
+Palasha       3013 A55599D-E    Hi Cp              903 Ma
+Euclid        3014 B442455-E  S Ni Po              903 Ma
+Gaff          3016 B110995-E    Hi In Na           104 Ma
+Daiid         3115 C7859AD-9    Hi              A  132 Ma
+Sabbagh       3117 B100631-C    Ni Va Na           724 Ma
+Porto         3211 B256AEC-G    Hi                 114 Ma
+Ryther        3214 B265200-C    Ni Lo              812 Ma
+Remundo       3215 B889468-D  N Ni                 325 Ma
+Letycia       3219 B684113-C    Ni Lo           A  904 Ma

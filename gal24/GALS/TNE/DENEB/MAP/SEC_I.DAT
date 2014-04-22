@@ -1,0 +1,37 @@
+@SUB-SECTOR: sec_I   SECTOR: deneb
+#
+# Trade routes within the subsector
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Rena          0123 D596211-7  S Lo Ni              503 Re
+Gulistan      0124 CAB2458-9  S Fl Lo Ni           120 Re
+Chaosheo      0130 C87A888-7    Wa              A  225 Re
+Mater Nova    0221 A575744-C    Ag                 514 Re
+Breslow       0222 X440510-2    De Ni Po        R  702 Re
+Daumier       0223 B88A452-E    Lo Ni Wa           710 Re
+Adapam        0224 D796642-A    Ag Ni              322 Re
+Wroclaw       0226 B4667BF-9    Ag                 223 Re
+Rimkuku       0228 C9A8874-9  S Fl                 524 Re
+Aziziyah      0229 C86A455-C    Lo Ni Wa           824 Re
+Barbary       0327 C5718CF-5  S                 A  213 Re
+Dunstan       0328 C649120-9    Lo Ni              823 Re
+Canisus       0330 C4318B8-A  S Na Po              101 Re
+Rouenet       0422 C362401-C    Lo Ni              505 Re
+Isurkun       0524 A441337-D    Lo Ni Po           921 Re
+Sejmal        0525 C210643-B    Na Ni C:2          134 Re
+Moltke        0529 C646210-9  S Lo Ni              304 Re
+Mushinag      0622 D575656-9  S Ag Ni              420 Re
+Araa          0623 C566254-B    Lo Ni              622 Re
+Helmuth       0624 C846203-A    Lo Ni              822 Re
+Kemal         0626 B566786-9    Ag Ri              523 Re
+Askigaak      0629 B549BA8-E    Hi In              101 Re
+Shen-Yang     0727 B665620-9    Ag Ni An           402 Re
+Norg          0729 A000325-F  N As Lo Ni           610 Re
+Sultana       0730 B649414-B    Lo Ni              921 Re
+Tlaza         0824 C303000-B    Ic Lo Ni Va        113 Re
+Imone         0826 A9C1555-F  B Fl Ni Cp           813 Re
+Skopyeh       0827 B500534-D    Ni Va              802 Re
+Burnham       0828 B664579-8  N Lo Ni Ag           701 Re
+Bukit Seng    0830 C442334-A    Lo Ni Po           504 Re

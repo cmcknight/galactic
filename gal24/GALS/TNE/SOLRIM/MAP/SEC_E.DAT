@@ -1,0 +1,26 @@
+@SUB-SECTOR: sec_e   SECTOR: solrim
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Grendel       0111 X96A8RB-4    Wa                 202 Wi
+Purdishi      0116 X610000-0    Ba                 034 Un
+Shululsish    0214 X5849S6-8    Hi                 204 Wi
+Desdemona     0215 X7699RB-8    Hi                 203 Wi
+Sarmaty       0217 X8898U8-8                    B  403 Wi
+Hayt          0313 X421000-0    Ba                 010 Un
+Finnegans     0316 D379520-9    Ni                 220 Na     f
+Bemidshii     0317 X5679W9-8    Hi              B  212 Wi
+Seym          0319 X100000-0    Ba Va              023 Un
+Diomedes      0411 X8777RD-5    Ag              B  800 Wi
+Yrsai         0511 X6639R9-4    Hi              B  802 Wi
+Arukhur       0518 X200000-0    Ba Va              022 Un
+Glaucas       0612 X8669T8-7    Hi                 532 Wi
+Hoatzin       0617 X9679U9-8    Hi                 334 Wi
+Alpha Cephei  0618 X000000-0    Ba As              020 Un
+Omsk          0713 X511000-0    Ba Ic              003 Un
+Furioso       0717 X9C5000-0    Ba Fl              013 Un
+Ippuraash     0718 X200000-0    Ba                 014 Un
+Weipu         0719 X543000-0    Ba                 002 Un     f
+Thars         0720 X7A7000-0    Ba Fl              014 Un
+Upirzanu      0814 X9B5000-0    Ba Fl              024 Un

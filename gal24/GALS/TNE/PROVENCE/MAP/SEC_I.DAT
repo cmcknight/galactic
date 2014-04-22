@@ -1,0 +1,39 @@
+@SUB-SECTOR: sec_I   SECTOR: provence
+#
+# Trade routes within the subsector
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Thagaers      0127 X453779-7                    B  823 Wi
+Ghourknodz    0130 X79A416-0    Wa Ni              301 Wi
+Llaedkher     0222 X546355-2    Ni Lo              315 Wi
+Dzarrvaer     0225 X766844-6                    B  903 Wi     f
+Ghourrgadz    0227 X256630-1    Ni                 903 Wi
+Oetsorkeda    0230 X9B7000-0    Fl Ba              014 --
+Rrukagae      0321 X529000-0    Ba                 014 --
+Oth Uegaen    0325 C688542-7    Ag                 513 KV
+Ughtuerz      0328 X759101-2    Ni Lo              301 Wi
+Gvousaegh     0329 DA98367-5    Ni Lo              323 Wi
+Okhskhun      0421 D354636-6    Ag Ni              901 KV     f
+Knokseng      0422 B785988-A    Hi Cx              402 KV
+Lugh          0423 CA8A457-9    Wa Ni           B  212 KV
+Turz          0427 X544744-2    Ag                 223 Wi
+Tuerrg        0428 X565998-3    Hi                 114 Wi
+Aezorr        0430 X354779-7    Ag                 512 Wi
+Anakae        0523 D66A540-7    Wa Ni              325 KV
+Oksruenvae    0526 D65446E-4    Ni              B  304 KV
+Gnerang       0527 C897998-7    In Hi           B  702 KV
+Gvae          0624 B544645-8    Ag Ni              814 KV
+Kas           0627 X000000-0    As Ba              014 KV
+Ungokhton     0628 B571620-9    Ni                 100 KV
+Kvae          0629 X100000-0    Va Ba              004 --
+Fakor         0723 X465610-2    Ag Ni              901 Wi
+Darz          0728 C654842-9                    B  722 KV
+Rruefaez      0729 X75A100-3    Wa Ni Lo           402 Wi
+Khsa          0822 X121000-0    Po Ba              004 --
+Kouk          0823 X210000-0    Va Ba              012 --
+Knoekhs       0826 X224000-0    Ba                 004 --
+Aruekhoe      0828 D676754-8    Ag                 303 KV
+Dhoenggo      0829 X678896-3                       704 Wi
+Kvoen         0830 X111000-0    Va Ic Ba           011 --

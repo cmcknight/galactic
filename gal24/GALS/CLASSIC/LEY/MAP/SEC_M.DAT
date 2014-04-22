@@ -1,0 +1,46 @@
+@SUB-SECTOR: sec_m   SECTOR: ley
+#
+#Jump Routes
+$0132 0231 0 0
+$0132 0233 0 0
+$0134 3234 -1 0
+$0134 0233 0 0
+$0231 0330 0 -1
+$0233 0333 0 0
+$0333 0533 0 0
+$0533 0633 0 0
+$0633 0833 0 0
+$0832 0932 1 0
+$0832 0833 0 0
+$0833 1034 1 0
+#
+#--------1---------2---------3---------4---------5----------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Limer         0132 D978567-5  S Ag                 200 Im
+Wardholm      0134 C754669-7    Ag                 500 Im
+Fresqueen     0137 E89A212-A    Wa                 501 Na
+Dover         0138 DA9A336-8    Wa                 200 Na
+Lastport      0140 X200000-0    Ba                 001 Na
+Bornelos      0231 A667515-C  N Ca                 101 Im
+Crescent      0233 B654549-9  S Ag                 100 Im
+Foulcloud     0237 D797410-7    Ni                 701 Na
+Bottomsnarl   0331 E99A301-5    Wa                 300 Im
+Hothmeg       0332 XACA000-0    Ba                 000 Im
+Nomad         0333 C457499-6    Ni                 900 Im
+Vanquish      0339 XAAA110-0    Lo                 800 Na
+Quitzer       0432 D310316-9    Ni                 701 Im
+Burnshe       0434 E332379-8    Ni                 201 Im
+Chaneley      0531 D633413-7    Ni                 900 Im
+Smoulder      0532 XACA000-0    Ba                 000 Im
+Bailaber      0533 D432310-8    Ni                 601 Im
+Pearlbase     0536 X998416-7    Ni                 200 Na
+Clozeraith    0633 B574564-9    Ag                 100 Im
+Placid        0638 XA96000-0    Ba                 001 Na
+Odeb          0731 E449230-0    Lo                 600 Im
+Prippin       0737 X9AA000-0    Ba                 001 Na
+Winghole      0738 XAAA000-0    Ba                 000 Na
+Jarab         0832 C875589-8    Ag                 200 Im
+Goldfault     0833 B864899-9  N Ri                 700 Im
+Fallow        0834 EA9A421-6    Ni                 600 Im
+Slaven        0839 XA94000-0    Ba                 000 Na

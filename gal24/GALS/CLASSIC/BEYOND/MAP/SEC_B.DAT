@@ -1,0 +1,53 @@
+@SUB-SECTOR: sec_B   SECTOR: beyond.sec
+#
+# Trade routes within the subsector
+$0907 0906 0 0
+$0907 0808 -1 0
+$0906 1005 0 0
+$1005 1105 0 0
+$1105 1207 0 0
+$1207 1108 0 0
+$1108 1007 0 0
+$1007 0907 0 0
+$1301 1202 0 0
+$1202 1303 0 0
+$1303 1504 0 0
+$1504 1604 0 0
+$1604 1505 0 0
+$1604 1705 1 0
+$1508 1707 1 0
+$1508 1709 1 0
+$1301 1439 0 -1
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Thieves' World0902 X865657-2  2 Ag Ni Ri        R  9   Na     f
+Fraldanhylla  0906 A100234-B  S Na Ni              9   Na
+Dragonrest    0907 B686484-7    Ni                 3   Na
+579-939       0910 C7673D9-9  S Na Ni              7   Na
+Bethoom       1005 B200100-9    Ni                 9   Na     f
+Kalturia      1007 CC62AA9-7                       3   Na
+Arbellatra's T1104 D0003B9-7  I Ni                 5   Na     f
+Ixchel        1105 A524200-A    Ni                 1   Na     f
+Hardass       1108 C878200-5    Ni                 9   Na     f
+Castle Keep   1110 E859264-6  T Na Ni              7   Na
+Maggie's Nip. 1202 A8B6576-A    Ni                 1   Na     f
+Jeldemnar     1203 E523000-5                       0   Na     f
+Liberty Hall  1207 A856327-D  2 Ni Ca           R  6   Na     f
+Wanderer's R. 1301 B5836A4-7    Ni              A  1   Na     f
+Zhawlty Nawsh 1302 X89A417-3  Z Na Ni           R  1   Na
+Gamma Centre  1303 B744665-5    Ag Ni              8   Na
+Offutt's Stat.1306 C66A6A7-9    Na Ni              3   Na     f
+Etaoin Shrdlu 1401 D631300-4    Na Ni Po           1   Na
+Abeitlung Drei1402 E000675-3    Na Ni              3   Dw
+Platz         1501 D871500-2    Na Ni              4   Dw
+Schloss Adler 1502 C8617E7-9  S                 A  3   Dw     f
+Reckinghausen 1504 C766654-5    Ag Ni Ri           9   Dw
+Drei Farben   1505 A000320-D  2 Ni                 9   Dw     f
+Nervenheilan. 1507 E554410-3    Ni                 4   Dw     f
+Staatsbiblio. 1508 ACD7819-A  N                    3   Dw     f
+Abyss         1601 B100300-9    Na Ni              2   Na
+Pearl of Zand.1602 C484756-6    Ag Ri              2   Na     f
+Guildheim     1604 A535300-B  M Ni                 6   Na
+Calliope      1609 E454651-4    Ag Ni              4   Na

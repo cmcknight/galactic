@@ -1,0 +1,32 @@
+System: Borlund
+Subsector: Lamas
+Sector: Deneb Sector
+Coordinates: 1406 (B0606)
+UWP: E454AAA-9
+
+Starport: Frontier Quality
+Size: Small (5600-7200 km)
+Atmosphere: Thin
+Hydrographics: 40% water
+Population: 70 billion
+Govt: Charismatic Dictatorship
+Law Level: Extreme
+Technology: Early Stellar
+
+Bases: None
+Trade Codes: Hi              
+Travel Zone: Green
+Planetoid Belts: 0
+Gas Giants: 1
+Allegiance: Domain of Deneb
+
+Extended Stats:
+E454BAA-9   S  Hi              201  Re K8 V M9 V
+g=.478 day=33:45:00.4 year(Imp)=296d 5:53:31.7 (local) 210d 15:55:23.9
+atmos-.442, natural weather
+temp=+8 (5/lat +33 to -17) (season +23 to -39, 8 deg lat)
+daily temp range= +10 noon, -34 midnight
+[Life] Agricultural, Crystals; Agroproducts, Non-Metals
+Conservative/Indifferent, Unagressive/Neutral, Monolithic/Xenophobic
+Legal=A-88BAA                        Tech=99-98897-9992-98-B
+

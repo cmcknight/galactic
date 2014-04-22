@@ -1,0 +1,39 @@
+@SUB-SECTOR: sec_C   SECTOR: corridor
+#
+# Trade routes within the subsector
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Tyee          1703 X336000-0    Ba                 013 --
+Merold        1704 C766627-6    Ag Ni           B  524 Wi
+Lyforn        1803 X323000-0    Ba Po              012 --
+Lemish        1808 X795535-7    Ag Ni              401 Wi     f
+Munhofen      1810 E443124-7    Lo Ni Po           523 Wi
+Ighoth        1904 A333000-C    Ba Po              023 --     f
+Dazey's World 1905 X438000-0    Ba                 010 --
+Sutton        1906 X220000-0    Ba Po De           015 --
+Weyland       1908 X335000-0    Ba                 002 --
+Croftstein    2003 X100000-0    Ba Va              015 --
+Egami Nivek   2004 X654311-4    Lo Ni              422 Wi
+Tamilaa       2006 X788785-5    Ag              B  701 Wi
+Specti        2009 X7A3000-0    Fl Ba              022 --
+Dianah        2010 E364577-8    Ag Ni              321 Wi
+Vicennis      2101 X000000-0    Ba As              004 --
+Phomos        2102 D662534-0    Ni              B  214 Wi
+Angi          2106 E24156A-7    Ni Po              201 Wi
+Ginning       2108 X631000-0    Ba Po              023 --
+Amwaz         2109 D592344-6    Lo Ni              210 Wi
+Douthit       2201 C5405A7-6    Ni Po De           123 Wi
+Braden IV     2202 X877043-9    Lo Ni              201 Wi
+Brariun       2205 X629000-0    Ba                 001 --
+Aurolee       2206 X000000-0    Ba As              014 --
+Luuga         2208 X410000-0    Ba                 022 --
+Voegrr        2209 X47876E-4    Ag              B  503 Wi
+Alfive        2303 X487237-3    Lo Ni              101 Wi
+Double Sun    2304 X000000-0    Ba As              001 --
+Pruughoe      2306 X9C7000-0    Fl Ba              001 --
+Aking         2307 X200000-0    Ba Va              001 --
+Myathena      2403 X666200-4    Lo Ni           B  113 Wi
+Gravista      2405 D553868-2    Po              B  821 Wi
+Treedisk      2409 X120000-0    Ba Po De           001 --

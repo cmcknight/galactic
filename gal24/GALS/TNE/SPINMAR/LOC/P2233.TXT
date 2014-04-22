@@ -1,0 +1,39 @@
+
+Classic Era Stats:
+
+System: Tirem
+Subsector: Glisten
+Sector: Spinward Marches
+Coordinates: 2233 (O0603)
+UWP: C7B5975-B
+
+Starport: Routine
+Size: Medium (10400-12000 km)
+Atmosphere: Corrosive
+Hydrographics: 50% water
+Population: 6 billion
+Govt: Balkanization
+Law Level: Moderate
+Technology: Average Stellar
+
+Bases: None
+Trade Codes: Hi Fl           
+Travel Zone: Green
+Planetoid Belts: 2
+Gas Giants: 1
+Allegiance: Imperial
+
+New Era Stats:
+
+Tirem (Glisten: Spinward Marches/2233)
+B7B5A75-B   Fl Hi  B221 Re K5 V
+g= .179 to .827, day=25:18:47.1
+year(Imp) 979d 2:42:34.2 (Local) 928d 7:44:40.1
+atmos=.88, natural weather
+temp=-169 (6/lat -151 to -211) (season +20 to -33, 8 deg lat)
+daily temp range: +6 noom, -13 midnight
+Crystals; Parts, Consumables, Weapons
+Conservative/Indifferent, Competitive/Neutral, Harmonious/Friendly
+Legal=5-29922   Tech:CB-CBBCC-BBBC-CC-F
+Note: Orbit of Tirem is 6, tilt 33 deg
+

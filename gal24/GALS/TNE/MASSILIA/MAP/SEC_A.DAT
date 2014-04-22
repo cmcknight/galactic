@@ -1,0 +1,46 @@
+@SUB-SECTOR: sec_a   SECTOR: massilia
+#
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Tahspek       0109 D5467T8-7    Ag                 913 Wi
+Mond          0110 X737000-0    Ba                 021 Un
+Vilardi       0205 X8C6000-0    Ba Fl           R  013 Un
+Trostar       0206 X78A7RC-4    Ri Wa              120 Wi
+Kapabu-Sepple 0207 X8788RD-4                       604 Wi
+Tanoo         0210 X78A300-2    Ni Wa              402 Wi
+Color         0301 A78A778-A    Ri Wa           G  600 Cs
+Ralton        0303 X9B5000-0    Ba Fl           A  013 Un
+Fournier      0304 C641735-8    Po                 705 Hb
+Yadro         0306 E353748-6    Po              G  104 Cs
+Thallium      0307 X100000-0    Ba Va              002 Un
+Selenopod     0308 X331000-0    Ba                 014 Un
+Cronsis       0309 E75A3O0-6    Lo Ni Wa           204 Wi
+Kaggushus     0402 A442AAB-C  N Hi In Po Cp     G  304 Hb
+Cleves        0403 B56665A-9    Ag Ni Ri        G  612 Hb
+Towering      0501 A654854-C  N                 G  300 Hb
+Cronin        0502 C552565-8    Ni Po           G  803 Hb
+Ershur        0504 B386645-8  N Ag Ni Ri        G  123 Hb
+Lebensraum    0507 X544000-0    Ba                 004 Un
+Ticularosta   0508 C1002RB-9  C Lo Ni Va Mr        422 Wi
+Nedupon       0509 X100000-0    Ba Va              000 Un
+Cluseret      0510 X3627TA-4    Ri                 604 Wi
+Tigma-tel     0601 E5536VD-5    Ni Po           A  224 Wi
+Chamati       0602 D2533O4-7    Lo Ni Po        G  710 Wi
+Gade          0604 X797000-0    Ba              A  012 Un
+Munoch        0606 X868502-4    Ag Ni              113 Wi
+Theodisus     0608 X110000-0    Ba                 002 Un
+Clausen       0609 X456000-0    Ba                 004 Un
+Raldery IV    0701 X5675O4-3    Ag Ni           G  202 Wi
+Death         0703 X100000-0    Ba Va           R  012 Un
+Besholm       0704 E84A4U9-6    Lo Ni Wa        G  904 Wi
+Dalsgaard     0706 X687000-0    Ba                 020 Un
+Yagas         0707 X5669R8-4    Hi                 602 Wi
+Villana       0801 X677300-4    Lo Ni           G  205 Wi
+Aagkhuur      0802 E100216-8    Lo Ni Va        A  124 Cs
+Nasuga        0803 X300000-0    Ba Va           R  014 Un
+Soro          0805 X7A0000-0    Ba De              004 Un
+Observatory   0807 X531000-0    Ba                 014 Un
+Resaca        0808 X4524P4-7    Ni Po              310 Wi
+Golden Ring   0810 X6984P1-4    Ni                 404 Wi

@@ -1,0 +1,45 @@
+@SUB-SECTOR: sec_F   SECTOR: mendan.sec
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+$1316 1417 0 0 11
+$1417 1520 0 0 11
+$1316 1613 0 0 11
+$1613 1911 1 0 11
+$1520 1822 1 1 11
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX f
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Gilur         0911 C776431-7  M Ni                 504 Na 
+Udubi         0913 C3657BC-6  M Ag                 303 Na 
+Arkim         0914 C564696-6  M Ag Ni Ri           702 Na 
+Shurkar       0917 C599255-9  M Lo Ni              904 Na 
+Ugirunnir     0919 B9D8775-8    Fl                 404 Va 
+Oukh Ull      0920 C8575AB-8  C Ag Ni           A  421 Va  
+Vasstyatho    1011 B120634-8    De Na Ni Po D4     103 Na 
+Nipitoga      1012 E774433-4    Ni                 804 Va 
+Ingushiim     1113 C72547B-6  M Ni                 202 Na 
+Kigabala      1116 C200365-8  M Lo Ni Va           702 Na 
+Shawto        1118 D450244-6    De Lo Ni Po        412 Na 
+Spectacle     1119 D449226-6    Lo Ni              925 J- 
+Kakimir       1211 BADA554-A  G Fl Ni Wa           703 Va 
+Vuwobawu      1218 DAB9686-5    Fl Ni           R  734 J- 
+Kiilishar     1220 C100499-7    Ni Va           R  722 J- 
+Michonee      1313 B583541-A    Ni                 603 Na 
+Irisi         1315 A530363-C    De Lo Ni Po        903 Jm 
+Kupid         1316 A99A978-C  J Hi In Wa Cp        422 Jm 
+Umasur        1317 B888449-7  M Ni                 534 Jm 
+Niimdalu      1320 C000212-7  J As Lo Ni           810 J- 
+Amaazu        1411 B7CA131-9  M Fl Lo Ni Wa        702 Na 
+Giinurmuu     1417 B200411-B  J Ni Va              303 Jm 
+Dakud         1513 B969010-9    Lo Ni              704 Jm 
+Kakigun       1517 C7AA653-7    Fl Ni Wa        R  904 Jm 
+Summit        1518 C9D87CC-5  M Fl              A  304 J- 
+Okhael        1520 B300645-9    Na Ni Va           901 J- 
+Kubiriin      1613 B368456-C  M Ni                 903 Jm 
+Kotschnig     1615 C130100-B    De Lo Ni Po        523 Jm 
+Didagud       1617 E647577-4    Ag Ni              701 Jm 
+Knoeksung     1619 D69A534-6    Ni Wa              104 J- 
+

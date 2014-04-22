@@ -1,0 +1,17 @@
+
+      Room F
+      ------
+
+   This location is the control centre of the entire complex. One fully
+   functional deathbot stands guard just inside the entrance and it will
+   attempt to stop anybody from entering. The deathbot will not attack
+   the players until they actually enter the room.
+   
+   There is lots of complex industrial machinery here providing the base
+   with, for example: light, food, water, air, temperature control, cell
+   waste disposal, cell gravity fields, recreation area holographic
+   projector and door controls. These machines are relatively easy to
+   turn on and off (i.e. big easy to use switches). Nothing that looks
+   even remotely like either a power supply or a central control computer
+   can be seen.
+   

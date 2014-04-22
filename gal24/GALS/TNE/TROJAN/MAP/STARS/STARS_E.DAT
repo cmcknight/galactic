@@ -1,0 +1,29 @@
+@SUB-SECTOR: stars_E   SECTOR: trojan
+#
+# Trade routes within the subsector
+#
+#--------1---------2---------3
+#PlanetName   Loc. Stars(s)
+#----------   ---- ---------
+Daruf         0116 F6 V
+Bolsush       0119 F2 V M0 V
+Floria        0213 F5 V M8 V
+Vorn          0218 M0 V
+Thrush        0220 M1 V
+Insec         0317 M8 V M9 V
+Fissolon      0318 F7 V
+Kabal         0319 F8 V A3 D
+Kimmen        0320 M2 V M3 V
+Tibolt        0415 F2 V M3 V
+Lucind        0416 F4 V
+Picard        0417 F7 V M4 V
+Tefsi         0418 M4 V M6 V
+Garnl         0516 K0 V M8 V
+Boronu        0614 F4 V M1 V
+Ilnest        0616 K5 V M8 V
+Zimt          0713 F3 V
+Forandin      0716 M5 V
+Odin          0811 M0 V M5 V
+Thor          0813 F6 V M0 V
+Yggdrasil     0815 F5 V
+Sif           0820 K4 V M4 V

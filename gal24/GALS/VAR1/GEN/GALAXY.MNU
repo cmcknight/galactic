@@ -1,0 +1,11 @@
+@dir=gals\var1\gen
+@Light Yellow
+
+Variant 1 / General Information
+
+
+@Light Cyan
+      Introduction           @intro.txt
+
+      A Brief History        @hist\hist.mnu
+

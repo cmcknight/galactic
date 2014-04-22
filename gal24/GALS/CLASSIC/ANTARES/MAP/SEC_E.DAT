@@ -1,0 +1,53 @@
+@SUB-SECTOR: Shurlarlem   SECTOR: Antares
+#
+# Trade routes within the subsector
+#
+$0714 1012 1 0 11
+$0419 0421 0 1 11
+$0419 0616 0 0 11
+$0616 0714 0 0 11
+$0616 0316 0 0 11
+$0316 0213 0 0 11
+$0213 0410 0 -1 11
+$0616 0917 1 0 11
+$0213 3113 -1 0 12
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Han           0112 C525120-9    Lo Ni              402 Im 
+Likuma        0113 AA85447-E  A Ni                 103 Im 
+Raguegh       0114 C0009AA-E    Hi Na In As        802 Im 
+Iirarurlina   0115 B87A111-8  N Lo Ni Wa           604 Im 
+Juba          0118 E32397A-B    Hi Na In Po        522 Im 
+Waswa         0120 B223631-8    Na Ni Po        A  911 Im 
+Nurgaduusha   0211 B324111-A  N Lo Ni              102 Im 
+Oska          0213 B676763-7    Ag                 103 Im 
+Lyllnei       0216 A4457BC-B  N Ag                 913 Im 
+Rorvurbelji   0220 B545235-8  N Lo Ni              801 Im 
+Liimesuu      0312 E77A6AB-8    Ni Wa              601 Im 
+Imkag         0315 D223677-6  S Na Ni Po           900 Im 
+Okhzuk        0316 A667624-9    Ag Ni              924 Im 
+Nu            0318 E100756-7    Na Va              904 Im 
+Insont        0319 E5A7AAA-A    Hi Fl              203 Im 
+Moaceg        0411 A548136-E  N Lo Ni              904 Im 
+Koremaa       0412 C844766-8    Ag                 311 Im 
+Locheth       0419 A421564-F    Ni Po              521 Im 
+Tog           0420 D334542-8    Ni                 614 Im 
+Alaggeshale   0513 E847587-8    Ag Ni              500 Im 
+Argarmii      0516 X446458-5    Ni              R  105 Im 
+Lejeune       0519 E337ADD-A    Hi                 203 Im 
+Ikaa          0520 B223222-A    Lo Ni Po           200 Im 
+Hetstam       0611 C8C5866-9  S Fl                 814 Im 
+Wethithy      0613 X547774-2    Ag              R  504 Im 
+Pavasryt      0616 C140548-A    Ni Po De           110 Im 
+Garu          0618 C438256-D  S Lo Ni              903 Im 
+Ibakhupish    0620 C654316-A  S Lo Ni              914 Im 
+Kuwhe         0711 E97A323-6    Lo Ni Wa           100 Im 
+Legur         0713 C340888-7    Po De              112 Im 
+Ri            0714 B24669B-C  S Ag Ni              903 Im 
+Wharapetana   0716 A300555-F  A Ni Va              404 Im 
+Igtirsk       0717 X533534-2    Ni Po           R  411 Im 
+Riqe          0720 B000257-E  N Lo Ni As           201 Im 
+Ukuumar       0811 C483520-8    Ni                 114 Im 
+Kirsashim     0818 B000665-C    Na Ni As           104 Im 
+

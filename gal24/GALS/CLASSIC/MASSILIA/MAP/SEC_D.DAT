@@ -1,0 +1,45 @@
+@SUB-SECTOR: sec_D   SECTOR: massilia
+#
+# Trade routes within the subsector
+$2607 2407 -1 0
+$2607 2809 0 0
+$2607 2906 0 0
+$2809 2913 0 1
+$2906 3238 0 -1
+$3003 0105 1 0
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Moran         2503 B3227B8-B    Po Na              414 Ma
+Hayashi       2506 B434678-C  N Ni                 323 Ma
+Janeen        2508 A100610-G  N Ni Va Na           302 Ma
+Euteneier     2503 B3227B8-B    Po Na              414 Ma
+Cragun 3      2506 B434678-C  N Ni                 323 Ma
+Zalucha       2508 A100610-G  N Ni Va Na Cp        302 Ma
+H'rachovina   2605 B433211-C    Ni Po Lo           403 Ma
+Galus         2606 B782777-A  N Ri                 904 Ma
+Athay         2607 B679675-A  N Ni                 402 Ma
+Keholutes     2609 B300168-C    Ni Va Lo           605 Ma
+Magallanes    2703 B77A330-E    Ni Wa Lo           413 Ma
+Ayarra        2710 B38457A-C  N C7 Ni Ag           614 Ma
+Ioannides     2809 A525546-E  N Ni                 505 Ma
+Stockton      2810 C573430-8    Ni                 820 Ma
+Watia         2902 B245776-A    Ag                 824 Ma
+Vuong         2904 B559532-C  S Ni              A  924 Ma
+Aderveen      2905 B45487B-C  S C6                 302 Ma
+Yorgasan      2906 B646547-B  N Ni Ag              703 Ma
+Rochon        2908 E675538-7    Ni Ag              613 Ma
+New Stockton  2910 B3226BA-C  S Ni Po Na           103 Ma
+Reisland      3001 C888373-A    Ni Lo              121 Ma
+Southard      3002 B645410-B    Ni                 104 Ma
+Titmus        3003 A8A0422-F    Ni De              703 Ma
+Zabel         3008 A575210-C    Ni Lo              202 Ma
+Coxe          3009 B000101-G  S Ni As Lo           414 Ma
+Vageau        3106 E110884-A    Na                 312 Ma
+Sanidon       3108 B0008AA-D    As Na              121 Ma
+Freelund      3203 E7C0743-8    De                 302 Ma
+Dolenar       3206 B542310-A    Ni Po Lo           500 Ma
+Hamagami      3207 B300000-E    Ni Va Ba Lo        503 Ma
+Kusha         3208 B8B45A7-C    Ni Fl           A  802 Ma
+Friton        3210 D856666-5    C1 Ni Ag           304 Ma

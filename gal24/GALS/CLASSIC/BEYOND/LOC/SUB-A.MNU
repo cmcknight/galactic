@@ -1,0 +1,24 @@
+@dir=gals\galhelp
+@Light Yellow
+
+                          Galactic v2.1
+                            Help Menu
+
+@Light Cyan
+
+     Legal Stuff                @legal.txt
+
+     General Introduction       @intro.txt
+     Creating Menus             @menu.txt
+     Questions & Answers        @qna\qna.mnu
+
+     For the Traveller-Newbie   @newbie\newbie.mnu
+     Topics & Methods           @ideas.txt
+     Homebrew Rules             @homebrew\homebrew.mnu
+
+     Files You Should Have      @filelist.txt
+     Other Programs             @progs.txt
+
+     Kind words from the Net    @praise.txt
+     Open Letter to Marc Miller  @letter.txt
+

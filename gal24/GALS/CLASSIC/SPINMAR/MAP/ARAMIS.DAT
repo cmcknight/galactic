@@ -1,0 +1,38 @@
+@SUB-SECTOR: Aramis SECTOR: Spinward Marches 
+#
+# Trade routes within the subsector
+$2510 2410 -1 0
+$2510 2712 0 1
+$3003 0102 1 0
+$3010 0109 1 0
+$3010 2913 0 1
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Paya          2509 A655241-9  N Lo Ni              603 Im
+Dhian         2510 C9A769D-4    Ni Fl              202 Im
+Corfu         2602 X895674-8    Ag Ni           R  222 Im
+Focaline      2607 EA88544-A    Ag Ni              724 Im
+Lablon        2701 B646589-A    Ag Ni              503 Im
+Heguz         2706 E66A224-C    Lo Ni Wa           510 Im
+Violante      2708 C669452-A    Ni                 420 Im
+Pavanne       2905 C669452-A    Ni                 425 Im
+Carsten       2906 C427402-B    Ni                 804 Im
+Zila          2908 E25672C-7    Ag              A  701 Im
+Jesedipere    3001 C775300-7    Lo Ni              411 Im
+Yebab         3002 C9A489A-7    Fl                 712 Im
+Nasemin       3003 B98A422-B  S Ni Wa              612 Im
+Zykoca        3004 X994542-6    Ag Ni           R  320 Im
+Aramanx       3005 B657974-6    Hi                 210 Im
+Pysadi        3008 C4766D7-4    Ag Ni              201 Im
+L'oeul d'Dieu 3010 B98A510-B  N Ni Wa              502 Im
+Rugbird       3102 BAC5634-A    Ni Fl           A  811 Im
+Towers        3103 B444448-A  S Ni              A  735 Im
+Feneteman     3104 C222200-C    Lo Ni Po           910 Im
+Lewis         3107 X427402-D    Ni              R  701 Im
+Aramis        3110 A6B0556-B  A Ni De Cp           710 Im
+Junidy        3202 B434ABD-9  W Hi                 310 Im
+Patinir       3207 C000632-9    Na Ni As           223 Im
+Natoko        3209 B582211-8  N Lo Ni           A  801 Im
+Reacher       3210 C9A8542-8    Ni Fl           A  233 Im

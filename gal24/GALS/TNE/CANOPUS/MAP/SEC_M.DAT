@@ -1,0 +1,37 @@
+@SUB-SECTOR: sec_M   SECTOR: canopusc
+#
+# Trade routes within the subsector
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Kiyl          0134 E58586B-1    Ri              B  502 Wi
+Yaliyhoiau    0135 X110000-0    Ba                 001 --
+Cein          0137 X594769-8                    B  304 Wi
+Canterbury    0232 C683505-7    Lo Ni              114 Wi
+Eaoya         0234 X401000-0    Ba Ic Va           005 --
+Woolworth     0236 X8A4000-0    Ba Fl              004 --
+Baltic        0238 X529000-0    Ba                 004 --
+Barrington    0240 X300000-0    Ba Va              003 --
+Logan         0335 E885511-4    Ag Lo Ni        B  304 Wi
+Zacarias      0336 X332000-0    Ba                 014 --
+Fuji          0431 X516000-0    Ba Ic              005 --
+Schultz       0437 X311000-0    Ba Ic              022 --
+Coni          0532 X997544-4    Ag Lo Ni        B  430 Wi
+Osbarn        0537 X502000-0    Ba Ic Va           011 --
+Charlotte     0540 C887503-6    Ag Lo Ni        B  300 Wi
+Lilliput      0633 D552433-5    Lo Ni Po           300 Wi
+Saini         0635 X310000-0    Ba                 001 --
+Stane         0636 D483788-7    Ri                 404 Wi
+Raoghnait     0639 E879555-5  S Lo Ni           B  101 Wi
+Zaphod        0732 X754410-2    Ag Lo Ni        B  304 Wi
+Icimin        0733 X310000-0    Ba                 001 --
+Mawson        0734 X000000-0    As Ba              000 --
+Heroy         0738 X000000-0    As Ba              014 --
+Ising         0739 EA8A875-7    Ri Wa           B  204 Wi
+Monroe        0831 E676573-5    Ag Lo Ni        B  315 Wi
+Iolder        0832 X337000-0    Ba                 021 --
+B'jan         0834 X402000-0    Ba Ic Va           005 --
+Meier         0835 X000000-0    As Ba              010 --
+Armenia       0839 X200000-0    Ba Va              020 --
+Antii         0840 X310000-0    Ba                 003 --

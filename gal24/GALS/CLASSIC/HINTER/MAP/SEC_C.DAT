@@ -1,0 +1,51 @@
+@SUB-SECTOR: sec_C   SECTOR: hinter
+#
+# Trade routes within the subsector
+$2003 1601 -1 0
+$2003 2005 0 0
+$2005 2205 0 0
+$2205 2504 1 0
+$2404 2506 1 0
+$1804 1605 -1 0
+$1807 1606 -1 0
+$2001 2006 0 0
+$1807 2006 0 0
+$1804 2005 0 0
+$2001 2201 0 0
+$2006 2107 0 0
+$2107 2306 0 0
+$2306 2506 1 0
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Glower        1705 E448442-4    Ni                 900 Ac
+Hammerhead    1707 B1007BC-B  J Va Na              224 Ac
+Xavier        1709 E200410-9    Ni Va              604 Na
+Dry Drop      1710 E3238AA-3    Po Na              905 Na
+Calvice       1802 A553334-B    Ni Po              704 Ac
+Bryce         1804 D324427-8    Ni                 604 Ac
+Deddigan      1806 E100779-6    Va Na              505 Ac
+Jorsmuur      1807 B244244-7    Ni                 303 Ac
+Gamasav       1809 E625200-8    Ni                 914 Na
+Jennethaka    1810 C434730-9                       920 Na
+Ansumer       1907 A72A538-C  J Ni Wa              901 Ac
+Heflet        1908 C100126-9    Ni Va              724 Ac
+Brandi        1909 A655620-9    Ni Ag              133 Na
+Borman        2001 E547666-6    Ni Ag              804 Na
+Apogee        2003 A7678A6-B                       104 Ac
+Anubis        2005 B110ABD-C  F Hi In Na           704 Ac
+Chester       2006 B866441-6  M Ni                 614 Ac
+Hyam          2010 A553744-9    Po                 612 Na
+Rimswing      2107 B428532-A  J Ni                 810 Ac
+Gibbett       2109 B000445-D    Ni As              221 Na
+Tur-Hunar     2110 D84A666-7  S Ni Wa              703 Na
+Reuper        2201 A110743-C    Na                 603 Ac
+Didinack      2205 B200689-9    Ni Va Na           310 Ac
+Brang         2206 A40026A-B    Ni Va              414 Ac
+Testament     2301 A100489-D    Ni Va              804 Na
+Fafi          2306 C567764-6    Ri Ag              204 Ac
+Dullsure      2401 B584741-9    C4 Ri Ag           904 Na
+Kemphus       2404 DAA869A-7    Ni                 904 Ac
+Sextant       2408 E42785A-5                       700 Na
+Tuscaloma     2409 D100230-9    Ni Va              714 Na

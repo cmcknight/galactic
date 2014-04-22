@@ -1,0 +1,51 @@
+@SUB-SECTOR: sec_N   SECTOR: deneb
+#
+# Trade routes within the subsector
+$1532 1829 1 -1
+$1532 1432 0 0
+$1432 1633 0 0
+$1633 1636 0 0
+$1432 1336 0 0
+$1336 1339 0 0
+$1339 1639 0 0
+$1639 1640 0 0
+$1339 1101 0 1
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Echura        0933 C6837AB-8                       603 Dd
+Inquar        0935 B8B5754-B  S Fl                 723 Dd
+Tullyhome     0936 D66977A-5    Ri                 401 Dd
+Sestos        0939 D5A6878-7    Fl                 803 Dd
+Quinthept     1032 C521575-B    Ni Po              521 Dd
+Storm         1035 CAD6223-B    Lo Ni Fl           614 Dd
+Timmer        1038 C362652-8  S Ni Ri              214 Dd
+Keirei        1133 C110330-C  S Lo Ni              734 Dd
+Lilad         1135 C447AAE-E    Hi In              824 Dd
+Third Mu      1137 BA7A210-C    Lo Ni Wa           225 Dd
+Ushashin      1138 EA9A210-7    Lo Ni Wa           734 Dd
+Oriryu        1140 B536534-9    Ni                 901 Dd
+Point Ay      1231 C460524-B  S Ni De              902 Dd
+Veldt         1235 C467754-8  S Ag Ri              514 Dd
+Muntgumree    1238 B253666-8  A Ni Po              303 Dd
+Giffert       1332 B7A9557-E    Ni Fl              220 Dd
+Shiiku        1333 D6507BF-6  S De                 522 Dd
+Giranima      1334 D7979C8-9  S Hi In              313 Dd
+Dawn          1336 AA9A531-C  N Ni Wa              403 Dd
+Unxava        1337 B677627-7    Ag Ni              723 Dd
+Sorel         1338 B539113-C  N Lo Ni              601 Dd
+Zeng          1339 A226446-C  N Ni Cp              411 Dd
+Agdarmi       1340 B266799-A    Ag Ri              724 Dd
+Pashus        1432 A232455-G  S Ni Po RsZ          812 Dd
+Atab          1433 C140899-A  S Po De              303 Dd
+Quirinal      1435 C651754-9    Po                 101 Dd
+Isidor        1436 C371565-8    Ni                 623 Dd
+Breit-Tuve    1439 C325574-B    Ni                 811 Dd
+Fessenden     1440 C4357CC-6                       401 Dd
+Rajan         1532 C87A112-B    Lo Ni Wa           821 Dd
+Pikha         1633 B738A86-C    Hi                 612 Dd
+Ibsen         1635 D4346AC-6    Ni                 110 Dd
+Balzac        1636 A452879-D  N Po                 513 Dd
+Uushadiiru    1639 A351445-A  N Ni Po              521 Dd
+Jecife        1640 A439667-F  N Ni                 123 Dd

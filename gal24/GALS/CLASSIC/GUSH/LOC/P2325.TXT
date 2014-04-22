@@ -1,0 +1,21 @@
+System: Droun
+Subsector: Dashinshaii
+Sector: Gushemege Sector
+Coordinates: 2325 (K0705)
+UWP: B543976-E
+
+Starport: Good
+Size: Medium (7200-8800 km)
+Atmosphere: Thin, tainted
+Hydrographics: 30% water
+Population: 7 billion
+Govt: Balkanization
+Law Level: Moderate
+Technology: High Stellar
+
+Bases: Scout Base
+Trade Codes: Hi In Po        
+Travel Zone: Green
+Planetoid Belts: 0
+Gas Giants: 0
+Allegiance: Imperial

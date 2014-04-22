@@ -1,0 +1,28 @@
+@SUB-SECTOR: sec_O   SECTOR: yiklerzd
+#
+# Trade routes within the subsector
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Fafrekolefrans1731 X000000-0    As Ba              040 Na
+Zhdamonzhdranj1735 C100363-9    Lo Ni Va O:1738    350 Iz     f
+Chedraz       1738 B7678C9-8  I                    920 Iz     f
+Noche         1740 B241595-B  X Ni Po              830 Iz     f
+Zdansiyner    1831 X799000-0    Ba              R  001 Na     f
+Tliebrenzh    1832 A97A78A-C  I Wa                 410 Ic
+Brozh         1838 C000516-B    As Ni              140 Iz     f
+Soyayt        1931 C687675-7  Q Ag Ni Ri           102 Dr     f
+Itsplanzhikar 2035 A358786-E  I Ag                 341 Iz     f
+Qrannienzh    2040 C9AA589-C    Ni Fl              711 Iz     f
+Imazhianztsied2131 X436000-0    Ba                 030 Na
+Qrazhazhjal   2137 A984AC9-E  X Hi                 222 Iz     f
+Eleshtepri    2138 E478537-7    Ag Ni              151 Iz     f
+Anchli        2140 A352989-D  Y Hi Po An C0        731 Iz     f
+Jonterienzh   2232 X8B3000-0    Ba Fl              010 Na
+Leyins        2233 X000000-0    As Ba              000 Na
+Shtansh       2239 E89756B-3    Ag Ni O:2140    A  220 Iz     f
+Zhieotlizhikl 2332 X471000-0    Ba                 000 Na
+Frikriyip     2334 E430210-8  Z De Lo Ni Po Re  A  151 Na     f
+Tliadrstatl   2439 A7879CE-D  I Hi Cp              930 Iz     f
+Sashero       2440 E43359A-6    Ni Po              541 Iz     f

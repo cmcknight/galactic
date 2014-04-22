@@ -1,0 +1,27 @@
+@SUB-SECTOR: sec_F   SECTOR: corridor
+#
+# Trade routes within the subsector
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Toddie-lee    0912 X366453-3    Lo Ni              301 Wi
+Heald         0913 X3415A9-4    Ni Po              322 Wi
+Strand        0916 X44566A-4    Ag Ni           B  424 Wi
+Ahngrim       0918 X9D6000-0    Ba                 001 --
+Tobibak       1011 X96A437-3    Lo Ni Wa        B  301 Wi
+Demick        1013 X532000-0    Ba Po              002 --
+Biinersa      1111 X849433-1    Lo Ni              322 Wi
+Buagki        1112 X326000-0    Ba                 023 --
+Vigh          1213 X200000-0    Ba Va              002 --
+Six Lights    1216 C577476-7  G Lo Ni              401 Wi
+Emfashi       1218 X658333-4    Lo Ni              220 Wi
+Itasis        1413 X442320-3    Lo Ni Po           302 Wi
+Valeneg       1414 X412000-0    Ba Ic              022 --
+Zudagim       1415 X6828B9-3                    B  722 Wi
+Kearb         1418 XAC8000-0    Fl Ba              022 --
+Zinadura      1511 X686243-9    Lo Ni              412 Wi     f
+Nubotech      1513 E36256A-6    Ni                 122 Wi
+Justend's Four1514 E567100-3    Lo Ni              312 Wi
+Ashima        1515 X44366C-9    Ni Po              710 Wi
+Vanquet       1611 X63A000-0    Ba Wa              001 --

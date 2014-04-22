@@ -1,0 +1,26 @@
+@SUB-SECTOR: sec_B   SECTOR: riftspan
+#
+# Trade routes within the subsector
+$1201 1103 0 0
+$1103 1304 0 0
+$1103 0904 0 0
+$0904 0905 0 0
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Aistektao     0901 D6377M4-9                       612 As
+Yeryorlo      0902 C6664J6-7    Ni                 105 As
+Kouaoriy      0904 A5365H4-B    Ni                 425 As
+Wehwilaw      0905 A67A1N9-C    Lo Ni Wa           704 As
+Iyraweis      1002 D2215H6-A    Ni Po              403 As
+Yutawe        1101 B3525J3-B    Ni Po              210 As
+Aoikhekh      1103 B5634N7-A    Ni                 205 As
+Hkorou        1201 B8796L5-9  R Ni                 624 A7
+Liylaeahal    1202 B1205H8-A    C0 Ni Po De        304 As
+Tikaorlu      1204 D0008M9-9    Na As              713 As
+Aiolol        1209 B79A4H5-B    Ni Wa              104 As
+Ryurarai      1304 B6448L7-E  R                    504 A2
+Htyeh         1401 C7892L8-A    Lo Ni              724 A8
+Iraua         1502 B4716H7-C    Ni                 903 As
+Elei'eah      1608 B4364L8-E  R Ni                 505 A4

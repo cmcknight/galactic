@@ -1,0 +1,63 @@
+@SUB-SECTOR: sec_J   SECTOR: oldexpan
+#
+# Trade routes within the subsector
+$1021 0723 -1 0
+$0922 0924 0 0
+$1021 1221 0 0
+$1221 1321 0 0
+$1221 1623 0 0
+$1422 1621 0 0
+$1621 1623 0 0
+$1623 1424 0 0
+$1422 1427 0 0
+$1427 1528 0 0
+$1528 1626 0 0
+$1426 1128 0 0
+$1128 0926 0 0
+$0926 0723 -1 0
+$0924 1125 0 0
+$1125 1126 0 0
+$1125 1224 0 0
+$1224 1221 0 0
+$1128 1229 0 0
+$1229 1131 0 1
+$1229 1333 0 1
+$1321 1519 0 -1
+$1422 1519 0 -1
+$1629 1532 0 1
+$0929 0829 -1 0
+$0929 0930 0 0
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Moy           0922 B313444-C  W Ic Ni              302 Im
+Avis          0924 C513363-8    Ic Lo Ni           413 Im
+Berkin        0926 B66A974-C  N Hi Wa              704 Im
+Reagan        0929 B210420-9  N Ni                 412 Im
+Welch         0930 B344720-B    Ag                 622 Im
+Dorian        1021 B310422-A    Ni                 203 Im
+Cooke         1024 C422256-A    Lo Ni Po           100 Im
+Janie         1125 B769844-B    Ri                 513 Im
+Slandow       1126 C9A4685-8    Fl Ni              804 Im
+Shenk         1128 A554823-E  S                    212 Im
+Sovtor        1221 A302620-C  S Ic Na Ni Va        700 Im
+Mueller       1223 B554823-B  N                    413 Im
+Dunas         1224 B631820-A  A Na Po              802 Im
+Wall          1227 A5009A8-E    Hi In Na Va        710 Im
+Fisher's Worl 1229 A769825-E  W                    504 Im
+Marcena       1321 B575723-B  N Ag                 514 Im
+Solee         1322 B675857-A  N                    700 Im
+Barnet        1327 A631823-C    Na Po              914 Im
+Tequila       1328 B371663-9    Ni                 314 Im
+Hindahl       1422 A754A86-B    Hi                 300 Im
+Kmak          1424 A696935-D    Hi In              101 Im
+Herbe         1426 C8C5461-8    Fl Ni              403 Im
+Lawart        1427 B78A879-C    Wa Ri              402 Im
+Yontez        1527 D663966-6    Hi              A  802 Im
+Kruml         1528 B330447-A  N De Ni Po           703 Im
+Aniston       1621 B412579-C    Ic Ni              901 Im
+Dothan        1623 A549852-A  N                    503 Im
+Canton        1626 A344774-C  S Ag                 120 Im
+Astrid        1628 C200374-8    Lo Ni Va           101 Im
+Olney         1629 A511865-B  N Ic Na              904 Im

@@ -1,0 +1,35 @@
+@SUB-SECTOR: Ozuvon SECTOR: Amdukan
+#
+# Trade Routes
+#
+$1114 0815 -1 0 11
+$1114 1312 0 0 11
+$1114 1217 0 0 11
+$1219 1217 0 0 11
+$1219 1620 0 0 11
+$1620 1523 0 1 11
+$1312 1209 0 -1 11
+$1620 2020 1 0 11
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UWP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Khegiig       0916 C549237-6    Lo Ni              205 Jo
+Ozuvon        1015 A5236B8-C    Na Ni Po Cp        222 Jo
+Duukadli      1016 C0008CE-A    As Na              823 Jo
+Shellac       1112 B566767-8  F Ag Ri              900 Jo
+Downer        1114 AA55456-B  J Ni                 113 Jo
+Zukhos        1117 C57A644-6    Ni Wa              701 Jo
+Itsonkuez     1118 B55A655-9    Ni Wa              705 Jo
+Taetsodz      1217 B200344-9    Lo Ni Va           304 Jo
+Oukhoerro     1219 B242878-A    Po                 702 Jo
+Khaknueth     1312 B89A200-C  M Lo Ni Wa           905 Jo
+Kudhug        1414 C52257B-9    Ni Po              804 J-
+Oksgon        1415 E899310-6    Lo Ni              724 J-
+Flush         1416 C78A000-A    Ba Lo Ni Wa        010 J-
+Tudoe         1419 D333351-5    Lo Ni Po           514 J-
+Akroegh       1512 D423514-5    Ni Po              204 J-
+Aksuegue      1516 C331433-7    Ni Po              300 J-
+Hitchcock     1611 D458423-6    Ni                 814 J-
+Oghours       1612 D230000-7    Ba De Lo Ni Po     023 J-
+Bulaniid      1617 C555236-8    Lo Ni              404 J-
+Udzaes        1620 B89A8B9-9  J Wa                 802 Jc

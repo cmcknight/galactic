@@ -1,0 +1,69 @@
+Gushemege Sector - Credits
+--------------------------
+
+The Gushemege Sector UWP data for 1116 was originally put
+together by Joe Fugate with additions by David Burden
+(david@innocom.demon.co.uk) and Leighton Piper. Since 1989, the
+Gushemege section of the History of the Imperium Working Group
+(HIWG), headed by David Burden and with support from Leighton
+Piper, Clay Bush, Andy Slack and David Lai, continued to work on
+Gushemege, producing an impressive array of documents as well as
+a Gushemege Sector Supplement.
+
+The Gushemege-related HIWG Documents are as follows:
+
+* GUSH_01(GUSH1/3401), Gushemege - Random Notes and Questions,
+  David Lai, 27/10/88, 12K ( Superceded by GUSH_04 )
+* GUSH_02(GUSH2/3402), Who is the "Real" Strephon?, David Lai,
+  28/10/88, 8K
+* GUSH_03(GUSH3/3403), What is Lancian Culture, David Lai,
+  10/11/88, 8K ( superceded by GUSH_13 )
+* GUSH_03a(ABA001), Neurotech and Lancian Culture, Duncan
+  Law-Green, 12/3/88, 6K ( superceded by GUSH_13 )
+* GUSH_03b(SW04), Strephon's Covert Security Bureau
+* GUSH_04(3404), Gushemege Second Thoughts, David Burden,
+  29/5/91, 8K
+* GUSH_05(3405), Gushemege Sector Map, David Burden, 22/10/90
+* GUSH_06(3406), Taapvaia Subsector (C), David Burden, 22/10/90,
+  6K
+* GUSH_07(3407), Languages of Gushemege, David Burden, 20/10/90,
+  10K
+* GUSH_08(3408), Sector Duke Kirshaam Miikadgaa, David Burden,
+  16/2/91, 8K
+* GUSH_09(3409), Gushemege Biographical Dictionary, David Burden,
+  19/3/91, 14K
+* GUSH_10(3410), Fortune 12: Corporations of Gushemege, David
+  Burden, 24/3/91, 10K
+* GUSH_11(3411), Fleets of Gushemege, David Burden, 20/5/91. 12K
+* GUSH_12(3412), Tansa Subsector (D), David Burden, 4/8/91, 4K
+* GUSH_13(3413), Contact: Lancia, David Burden, 15/9/91, 20K
+* GUSH_14(3414), Gushemege Archipelago (ABE), Leighton Piper,
+  22/10/91, 10K
+* GUSH_15(3415), Rure Subsector (F), Leighton Piper, 22/10/91, 4K
+* GUSH_16c(3416), Library Data: Gushemege C & D, David Burden,
+  17/11/92, 54K
+* GUSH_16g(3416), Library Data: Gushemege G & H, David Burden,
+  17/11/92, 54K
+* GUSH_16k(3416), Library Data: Gushemege K & L, David Burden,
+  17/11/92, 54K
+* GUSH_16o(3416), Library Data: Gushemege O & P, David Burden,
+  17/11/92, 54K
+* GUSH_17(3417), Travel Companies of Gushemege, Leighton Piper,
+  15/1/92, 6K
+* GUSH_18(3418), Academic Institutions of Gushemege, Leighton
+  Piper, 15/1/92, 6K
+* GUSH_19(3419), Computer Augmented Behavioral Alteration
+  (CABAl), Leighton Piper, 15/1/92, 4K
+* GUSH_20(3420), Minor Races of Gushemege, Leighton Piper, 1/92,
+  2K
+* GUSH_21(3421), Balech Subsector (I), Leighton Piper, 1/92, 2K
+* GUSH_22(3422), Sallounn Subsector (J), Leighton Piper, 8/93, 6K
+* GUSH_23(3423), Vipach Subsector (M), Leighton Piper, 1/92, 2K
+* GUSH_24(3424), Laeth Subsector (N), Leighton Piper, 1/92, 2K
+* GUSH_25(3425), Religions of Gushemege, Leighton Piper, 1/92, 2K
+* GUSH_26(3426), Contact: Loeskalth, Leighton Piper, 1/92, 2K
+* GUSH_27(3427), Contact: Vapethi, Leighton Piper, 1/92, 2K
+* GUSH_28, Where to put Usdiki? The location conflict, David
+  Burden, 3/11/92, 4K
+* GUSH_29, Tansa Sub-sector 1130, David Burden, 5/92, 4K
+

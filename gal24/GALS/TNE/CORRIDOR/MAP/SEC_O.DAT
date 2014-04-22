@@ -1,0 +1,28 @@
+@SUB-SECTOR: sec_O   SECTOR: corridor
+#
+# Trade routes within the subsector
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Emephdee      1832 B551440-7  N Lo Ni Po           201 Wi
+Jafla         1840 X898100-0    Lo Ni           B  113 Wi
+Sinta         2037 X201000-0    Ba Va Ic           013 --
+Ea'tiva       2039 C686127-7    Lo Ni              101 Br
+Tainbee       2040 X757467-1    Lo Ni           B  204 Br
+Kacxhun       2135 X427000-0    Ba                 014 --
+Whikee        2136 X223000-0    Ba Po              001 --
+Inarli        2137 C677832-9                       714 Wi
+Dodardudos    2140 D483465-3    Lo Ni           B  403 Br
+Setii Goek    2234 X436000-0    Ba                 010 --
+Kysar II      2235 X310000-0    Ba                 020 --
+Kateri-Divad  2238 B8C0885-9    De                 622 Br     f
+Kloackin      2239 X572100-3                       710 Br
+Fabeticu      2333 X466786-1    Ag              B  335 Wi
+Kikasad       2334 X76A000-0    Ba Wa              021 --     f
+Tahspeck      2335 BA9A6AA-9    Ni Wa           B  404 Wi
+Mok-Retinae   2336 D456441-6    Lo Ni              203 Wi
+Vapour        2338 X360000-0    Ba Lo Ni De        024 Br
+Knofodu       2435 X8B4000-0    Fl Ba              020 --
+Ackang        2439 X9B4000-0    Fl Ba              022 --
+Doyaterfit    2440 E443101-6    Lo Ni Po           101 Wi

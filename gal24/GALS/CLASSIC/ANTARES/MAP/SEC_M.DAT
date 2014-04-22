@@ -1,0 +1,60 @@
+@SUB-SECTOR: Urgusap   SECTOR: Antares
+#
+# Trade routes within the subsector
+#
+$0734 1033 1 0 11
+$0639 1038 1 0 11
+$0639 0339 0 0 11
+$0734 0432 0 0 11
+$0432 0231 0 0 11
+$0734 0436 0 0 11
+$0436 0339 0 0 11
+$0339 3240 -1 0 12
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Fogdonvef     0131 B587100-D  N Lo Ni              704 Im 
+Mudir         0132 C56547A-8    Ni                 915 Im 
+Kargigar      0133 A433257-F    Lo Ni Po           512 Im 
+Loungel       0134 C6A59DD-7    Hi Fl              612 Im 
+Gamma         0135 B344984-E  N Hi In              500 Im 
+Argusap       0231 A6549A7-C    Hi                 715 Im 
+Roeggasdoor   0235 E486772-7    Ag Ri              324 Im 
+Rathlesg      0236 B256688-9  A Ag Ni              900 Im 
+Swari         0237 C1608A9-A    De                 804 Im 
+Utanpain      0239 C768721-6    Ag                 824 Im 
+Drim          0333 A32357A-F    Ni Po              714 Im 
+Gaecio        0336 B324420-A  W Ni                 600 Im 
+Decyo         0337 B522788-7    Na Po              413 Im 
+Ry            0339 A200320-D  N Lo Ni Va           412 Im 
+Kung          0340 C697748-8  S Ag                 413 Im 
+Moje          0431 C8D366A-A    Ni Fl              104 Im 
+Norr          0432 B330534-D  S Ni Po De           903 Im 
+Geinkar       0433 C655579-8  S Ag Ni              903 Im 
+Ba            0434 C554795-7    Ag                 830 Im 
+Tijrktler     0435 C898567-8    Ag Ni              203 Im 
+Wiwuawhi      0436 B402122-E    Lo Ni Va Ic        815 Im 
+Gulan         0437 D863620-7  S Ni                 604 Im 
+Iger          0438 E766534-3    Ag Ni              624 Im 
+Enithe        0439 B545661-A  N Ag Ni              415 Im 
+Criousoth     0440 B252444-8    Ni Po              424 Im 
+Limkiimar     0531 C260433-6    Ni De              400 Im 
+Aarliidla     0533 D5858CC-4                       804 Im 
+Shur          0535 B2316AD-A    Na Ni Po           910 Im 
+Thyra         0536 E6947CC-2    Ag                 303 Im 
+Infrapolis    0632 C73799A-7    Hi                 204 Im 
+Dagi          0639 A568003-A  A Lo Ni              401 Im 
+Gaemia        0640 D100421-7  S Ni Va              110 Im 
+Boiwth        0731 D9C5110-8  S Lo Ni Fl           222 Im 
+Shela         0732 C322630-6    Na Ni Po           502 Im 
+Ushikamer     0734 A201136-F    Lo Ni Va Ic        703 Im 
+Fekekslalm    0735 B8B5547-B    Ni Fl              103 Im 
+Kereuheku     0736 A57447A-9  N Ni                 310 Im 
+Lash          0737 C561669-8    Ni Ri              402 Im 
+Agi           0738 C326430-7  S Ni                 303 Im 
+Nita          0739 B200331-B    Lo Ni Va           912 Im 
+Tauhatu       0833 E464331-5    Lo Ni              401 Im 
+Kamkishu      0834 A000123-C    Lo Ni As           800 Im 
+Irkad         0836 C4509A9-A    Hi Po De           814 Im 
+La            0840 C210697-A  S Na Ni              613 Im 
+

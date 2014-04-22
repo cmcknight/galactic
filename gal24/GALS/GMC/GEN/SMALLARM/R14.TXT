@@ -1,0 +1,38 @@
+r14 Gauss Combat Rifle
+
+The r14 gauss rifle was intended as a replacement for the r11 combat rifle.
+It entered service trials in 2356T. However it rapidly became apparent that
+the r14 was not suitable for general deployment. The major problems with it
+were it's excessive reload weight, high cost and limited availability of
+production facilities. These factors lead to the abandonment of the r11
+replacement program and the development of the r15 combat rifle (an improved
+r11). However the r14 did enter limited production for certain specialist
+roles, it is believed that production has since been terminated and that less
+than 100,000 examples were manufactured.
+
+The r14 is a bullpup gauss combat rifle firing 3mm ferrotungsten needles from
+a 100 round detachable magazine (the 3mm needle is the same as used in the
+r16 gauss sniper rifle). The r14 is fully gyrostabilised and fitted with an
+internal laser sight. The r14 can fire in either single shot, 5 round burst,
+or full cyclic (1500rpm theoretical, usually derated to 1000rpm; allowing a
++1DM autofire attack per 100 rounds) modes. The magazine contains 100 x 1850j
+superconductor banks which can be recharged from any standard high energy
+conection. The r14 is not currently available for civilian purchase.
+
+Weapon: r14 gauss rifle
+Action: Electric blowback - singleshot, burst (5), cyclic (1500/1000)
+Ignition: Electric
+Tech Level: 12
+Calibre: 3mm gauss needle
+Penetration: 5
+Range: medium
+Malfunction: reliable
+Shots: 100
+Mass: 3.3kg
+Reloads: 2.7kg
+Length: 51.1cm
+Cost: Cr 1500
+Incidentals: 50 needles: Cr 16 (0.07kg)
+             10 hour rechargeable battery pack: Cr 5 (0.5kg)
+             40 hour disposable battery pack: Cr 2.5 (0.5kg)
+             empty 100 round magazine: Cr 105 (2.56kg)

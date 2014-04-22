@@ -1,0 +1,36 @@
+@SUB-SECTOR: stars_D   SECTOR: vland
+#
+# Trade routes within the subsector
+#
+#--------1---------2---------3
+#PlanetName   Loc. Stars(s)
+#----------   ---- ---------
+Khugan        2501 M4 III A2 D
+Rhodes        2502 M9 V F8 III
+Shunisar      2507 M5 V M8 V
+Nii           2508 M0 V
+Daztsoun      2602 F1 V
+Kaengtsaelzon 2603 M3 V M4 V
+Fongknoe      2604 M0 V
+Raltaedz      2605 M7 III
+Malokh        2610 F6 V F9 D
+Ongvaturr     2804 M9 V
+Paval         2806 M5 V
+Spinport      2808 M8 V
+Zupilak       2905 K0 V
+Akkunat       2907 M2 V K5 V
+Goobsfol      2909 M7 V
+Ksuerrgh      3002 F3 V
+Khughfudz     3003 F1 V
+Shupin        3004 F9 V
+Mukata        3006 F4 V M8 V
+Shishaldin    3008 M8 V
+Arga          3106 M7 V M2 V
+Theton        3107 K3 V M8 V
+Thoegzknaedz  3201 M9 V
+Vutsarrgh     3202 M2 V M3 V
+Argonos       3206 M6 V
+Sardia        3208 K7 III
+Veppim        3209 M9 V
+Tasho         3210 K5 IV
+Tasho         3210 K5 IV

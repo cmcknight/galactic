@@ -1,0 +1,20 @@
+@SUB-SECTOR: sec_A   SECTOR: meshan
+#
+# Trade routes within the subsector
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Ragdo         0210 C6869BA-6    Hi                 104 Vo
+Aengdan       0310 C624364-6    Lo Ni              621 Vo
+Razfa         0409 A300A9A-E  G Hi Na Va Cp        303 Vo
+Gzurrgho      0410 BAE9796-7  C Fl                 302 Vo
+Thougzaerrg   0506 C8D5277-5  G Fl Lo Ni           802 V5
+Llegza        0508 C6467BA-4    Ag                 221 Vo
+Kikhtats      0604 D896485-4  G Ni An              624 V5
+Kongghoth     0609 B54459D-8  G Ag Ni              324 Vo
+Dhedhate      0706 B9A8653-9  G Fl Ni              610 V5
+Zaelan        0707 D120565-9  G De Ni Po           604 V5
+Suekhsaer     0804 A57359E-9  G Ni                 811 V5
+Gzallezue     0807 E78A231-8    Lo Ni Wa           804 V5
+Zuzodh        0808 C310436-6  G Ni                 403 V5

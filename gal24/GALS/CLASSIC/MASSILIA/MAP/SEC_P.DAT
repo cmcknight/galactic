@@ -1,0 +1,37 @@
+@SUB-SECTOR: sec_P   SECTOR: massilia
+#
+# Trade routes within the subsector
+$2737 3136 0 0
+$2737 2540 0 0
+$2540 2501 0 1
+$2540 2429 -1 0
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Luong         2531 A500596-D    Ni Va           A  214 Ma
+Oreo          2540 B1009AD-F    Hi In Va Na Cp     113 Ma
+Misthaven     2632 B758987-D    Hi              A  603 Ma
+Ortega        2633 C426AFJ-E    Hi In              703 Ma
+Landis        2640 B522003-D  N Ni Po Lo        A  510 Ma
+Cordell       2731 A100203-G  N Ni Va Lo           803 Ma
+Jenina        2732 B264599-C  N Ni Ag              523 Ma
+Floting       2734 B65569B-B    Ni Ag              911 Ma
+Vonda         2735 B110102-G  S Ni Lo              431 Ma
+Wedna         2737 A673353-F    Ni Lo              304 Ma
+Mona          2738 B210558-E    D1 Ni              700 Ma
+Cusgrove      2739 DA76520-6    Ni Ag           A  104 Ma
+Goiri         2837 D200456-B    Ni Va              913 Ma
+Amanita       2931 B100587-D    Ni Va              603 Ma
+Doane         2932 E676687-6    Ni Ag              314 Ma
+Quoc          2933 B410267-C  N Ni Lo              114 Ma
+Parahee       2934 C10099D-D  S Hi In Va Na        813 Ma
+Mission       2938 C574430-A    Ni                 602 Ma
+Granporr      3035 B4768AE-A  N                    813 Ma
+Dobaran       3131 A793330-D  N Ni Lo Rs           500 Ma
+Blaser        3136 A10088C-E    Va Na           A  723 Ma
+Malaga        3139 B423474-C    Ni Po              722 Ma
+Domy          3231 B85A376-D  N Ni Wa Lo           805 Ma
+Randanna      3232 B300796-B    Va Na           A  403 Ma
+Double        3233 B10066A-D  N Ni Va Na           504 Ma
+Esten         3236 C100155-D    Ni Va Lo           703 Ma

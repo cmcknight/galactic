@@ -1,0 +1,55 @@
+@SUB-SECTOR: sec_D   SECTOR: mendan.sec
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+$2510 2612 0 1 11
+$2510 2909 0 0 11
+$2909 3005 0 0 11
+$3005 2705 0 0 11
+$3005 2902 0 0 11
+$2705 2405 -1 0 11
+$2510 2210 -1 0 11
+$2909 3010 0 0 11
+$3010 0211 1 1 11
+$3005 3204 0 0 11
+$3204 0305 1 0 11
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX f
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Gergaker      2502 C11066B-9  M Na Ni              101 Jm 
+Gigiir        2506 C7898A9-7                       302 Jm 
+Gakishim      2510 B477221-B    Lo Ni              323 Jm 
+Variet        2701 C479359-7    Lo Ni              104 Jm 
+Iruna         2703 C589853-8  M Ri                 401 Jm 
+Riidamir      2704 B987200-B  M Lo Ni              123 Jm 
+Wenatoke      2705 A857414-9  M Ni                 824 Jm 
+Uriigme       2706 E000531-9    As Ni              922 Jm 
+Gumgash       2707 C8BA835-A    Fl Wa              300 Jm 
+Ukhiiran      2709 E64778B-4    Ag                 400 Jm 
+Ekaamurga     2801 C857545-7    Ag Ni              505 Jm 
+Diragiik      2803 B200899-9  J Na Va              223 Jm 
+Dawson        2809 A38689A-C    Ri                 104 Jm 
+Aspen         2902 B468651-A  J Ag Ni Ri           734 Jm 
+Murray        2903 C9AA485-B    Fl Ni Wa           602 Jm 
+Surazipam     2904 C267887-8  M Ri                 324 Jm 
+Mendan        2909 A768988-E  J Hi Cp              332 Jm     f
+Opinago       3001 C621478-7    Ni Po              703 Jm 
+Ringer        3004 C789866-7  M Ri                 735 Jm 
+Biscom        3005 A57A356-B    Lo Ni Wa           705 Jm 
+Liir          3006 C4259A9-8  M Hi In              712 Jm 
+Petruzzi      3007 C345663-4    Ag Ni              724 Jm 
+Kinirli       3009 C863441-8    Ni                 804 Jm 
+Outhun        3010 B97A403-C  M Ni Wa              924 Jm 
+Usmuu         3101 B337520-8    Ni                 920 Ga 
+Rengokho      3103 C532524-5    Ni Po              500 J- 
+Gishir        3106 B624200-C  M Lo Ni              603 J- 
+Maniwack      3108 C220736-8  M De Na Po           523 Jm 
+Uerruz        3109 C3217BB-6    Na Po           A  235 Jm 
+Ikagi         3203 C999200-8  J Lo Ni              920 J- 
+Caboodle      3204 A678200-A  F Lo Ni              924 J- 
+Kargu         3205 C4109AB-9    Hi Na In           922 J- 
+Ertsida       3206 B000531-9  M As Ni              113 J- 
+Sarash        3208 C21087C-9  M Na                 901 J- 
+

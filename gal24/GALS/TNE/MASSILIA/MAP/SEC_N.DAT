@@ -1,0 +1,37 @@
+@SUB-SECTOR: sec_a   SECTOR: massilia
+#
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Llyrn         0931 D333978-9    Hi Po Na In        133 Na     f
+Ar Chaa       0932 X8D0000-0    De Ba              003 Un
+Jacat         0933 C3524P2-9  C Ni Po              514 Wi     f
+Deward        0934 X100000-0    Va Ba              015 Un
+Lodd          0937 X8476RA-6    Ni Ag           B  700 Wi
+Baughallum    0938 X300000-0    Va Ba              004 Un
+Timely        0939 X310000-0    Ba                 800 Un
+Vakris        1032 D3547SB-6                    B  803 Wi
+Melot         1038 X100000-0    Va Ba              013 Un
+Bruy          1040 X585300-1    Ni Lo              105 Wi
+Ashavakuna    1131 C567654-9    Ni Ag Ri           810 Gc     f
+Garency       1133 X6457TA-5    Ag              B  403 Wi     f
+Conlyte       1134 D8454RC-6    Ni                 304 Wi
+Nagiida       1233 C667978-9    Hi                 520 Na     f
+Weemar        1234 D000467-9    Ni As O:1233       203 Na     f
+Ruetzel       1235 X747000-0    Ba                 003 Un
+Tanny         1238 C567685-8    Ni Ag Ri           304 Tp     f
+Nilton        1239 B684587-A    Ni Ag              804 Tp     f
+Scole         1335 E436311-8    Ni Lo              402 Na     f
+Wewarbinner   1340 C567686-8    Ni Ag Ri           202 Tp     f
+Nemille       1432 X64A100-3    Ni Wa Lo           410 Wi
+Filliagi      1434 X4533M2-3    Ni Po Lo           300 Wi
+Wergatoen     1436 X6555RB-4    Ni Ag              414 Wi
+Tenonyn       1532 X424000-0                       423 Un
+Serock        1533 D4926VA-7    Ni                 202 Wi
+Theradway     1534 X762000-0    Ba                 000 Un
+Dyglen        1535 X425000-0    Ba                 002 Un
+Nobody        1538 X100000-0    Va Ba              015 Un
+Marilithe     1540 E8793P2-4    Ni Lo              404 Wi
+Jade          1634 B110000-F    Ba                 022 Un
+Wranklin      1639 E5474O4-5    Ni Lo           B  101 Wi

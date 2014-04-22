@@ -1,0 +1,46 @@
+
+Provence Sector / Credits
+-------------------------
+
+This sector lies completely within Vargr space. As such, the majority
+populations listed in the UWP of these worlds are Vargr. Humans, if
+present, will be in the minority and listed in the Remarks column with an
+M.
+
+Sector Notes: I ran into a bit of a problem when generating the subsectors
+for this sector. I used DGP's "Vilani & Vargr." The dot map (pg.48) and the
+library info provided did not always match up. I've had to do some
+modifications to get everything to make some sort of sense. These changes
+are as follows:
+
+   * Dzarrvaer, the capital of the Dzarrgh Federate, is listed in the
+     library data (pg.53) as being at 224. There isn't a world at this
+     location on the dot map. Instead, I made it the world at 225.
+
+   * Ouskathoerz is listed in the library data (pg.54) as being at 405.
+     There isn't a world at this location on the dot map. Instead, I made
+     it the world at 406.
+
+   * Ghaez-Larrgh is listed in the library data (pg.54) as being at 803.
+     There isn't a world at this location on the dot map. Instead, I made
+     it the world at 903.
+
+   * Kirg is listed in the library data (pg.53) as being at 731. There
+     isn't a world at this location on the dot map. Instead, I made Kirg to
+     be the world at 831.
+
+   * Igunfaksa, the capital of the Irrgh Manifest, is listed in the library
+     data (pg.53) as being at 1731. On the dot map, this would place it in
+     the territory of the Glory of Taarskoerzn. The library data (pg.54)
+     also states that the Glory of Taarskoerzn split the Irrgh Manifest in
+     two with Igunfaksa in the "larger trailing half." The dot map clearly
+     shows that the spinward portion of the Irrgh Manifest is larger.
+     Therefore, I've decided to put Igunfaksa in the spinward portion at
+     1431, which is closer to 1731 than the trailing portion.
+
+   * According to the library data on pg.54 of "Vilani & Vargr", there are
+     only 9 worlds to the Lair Protectorate in 1120. The dot map shows 10
+     (8 in Provence, 2 in Ngathksirz). I went with the dot map.
+
+David Drazul (dedly@aol.com)
+

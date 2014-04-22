@@ -1,0 +1,52 @@
+@SUB-SECTOR: sec_D   SECTOR: magyar
+#
+# Trade routes within the subsector
+$2701 2903 0 0
+$2706 2406 -1 0
+$2903 2904 0 0
+$2904 2706 0 0
+$2810 3109 0 0
+$2810 2512 0 1
+$2810 3012 0 1
+$3109 0110 1 0
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Austa         2503 C796ABE-B    Hi In              624 Au
+Guenivier     2505 AAE78D9-D    Fl                 113 Im
+Sabuda        2506 A632100-E    Lo Ni Po           601 Im
+Amon          2507 C2359CG-C    Hi                 601 Am
+Rumley        2508 C79A534-D    Ni Wa           A  905 Im
+Kench         2510 E310584-A    Ni                 225 So
+Hyalin        2602 D550984-A    De Hi Po           902 Im
+Milenky       2603 C587754-9    Ag Ri              805 Im
+Waxstetter    2605 X550210-5    De Lo Ni Po     R  305 Im
+Volund        2607 C541894-8    Po                 310 Im
+Pinnock       2701 A8C9876-E    Fl                 903 Im
+Ferstenberg   2704 C00079A-C    As Na              112 Im
+Anerin        2706 C1419AB-E    Hi In Po           100 Im
+Doak          2709 B350401-D    De Ni Po           402 Im
+Lontarelli    2801 X563797-3    Ri              R  305 Im
+Paputsus      2804 B679599-C    Ni                 600 Im
+Messelnap     2806 C735633-9    Ni                 800 Im
+Nosret        2807 A897477-E    Ni                 410 Im
+Gushwa        2808 B252553-E    Ni Po              604 Im
+Burvee        2809 E557466-8    Ni                 605 Sk
+Stanko        2810 A555649-C    Ag Ni              924 Sk
+Sweet         2901 C689879-9    Ri              A  424 Im
+Chartpay      2903 A7558B9-C                       703 Im
+Gadarur       2904 A5019B7-E    Cp Hi In Na Va     903 Im     f
+Bilox         2905 B344556-E    Ag Ni              200 Im
+Garner's Luck 2906 D20179A-A    Ic Na Va           110 Im
+Kleug         2908 C88A430-C    Ni Wa              611 Im
+Waldrin       2910 C6A78C9-9    Fl                 412 So
+Reid          3002 C7BA435-E    Fl Ni Wa        A  804 Im
+Asrow         3006 X498548-6    Ag Ni           R  113 Im
+Robidou       3009 E532536-9    Ni Po              704 Im
+Scoggan       3101 D340310-8    De Lo Ni Po        200 Im
+Pungitore     3104 D121442-C  S Ni Po An           200 Im
+Stansifer     3109 C000655-E    Xb As Na Ni        302 Sr
+Gustin        3206 A779444-E    Ni              A  103 Im
+Firels        3208 CADA362-D    Fl Lo Ni Wa        401 Sr
+Typoer        3210 X2118AB-5    Ic Na           R  602 Im

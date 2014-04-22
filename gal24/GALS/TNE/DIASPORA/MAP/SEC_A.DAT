@@ -1,0 +1,36 @@
+@SUB-SECTOR: sec_a   SECTOR: Diaspaora
+#
+#					 
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Aladon        0103 X6578R6-1                    B  904 Wi
+Maxalla       0104 X596303-0    Nu Lo              315 Wi
+Sikora        0108 X8745RA-4    Ni Ag              404 Wi
+Chipper       0202 X7C0000-0    Ba De              003 Un
+Rann          0206 X89A8TB-8    Wa              B  714 Wi
+Justi         0207 X6864P6-0    Ni Lo           B  404 Wi
+Soyuz         0209 X300000-0    Ba Va              001 Un
+Jurnar        0303 X000000-0    Ba As              015 Un
+Jae Mona      0306 X200000-0    Ba Va              023 Un
+Bayse         0310 X6859S3-7    Hi              B  905 Wi
+Kampala       0401 X645210-8    Ni Lo              404 Na
+Apinar        0402 X542203-0    Ni Po Lo           423 Wi
+Gentry        0406 X6A0000-0    Ba De              010 Un
+Isaasakhur    0407 X110000-0    Ba                 013 Un
+Vita Levu     0410 X6A3000-0    Ba                 000 Un
+Fudge         0501 X9C3000-0    Ba Fl              023 Un
+Guard         0502 E7646O3-6    Ni Ag           B  412 Wi
+Jamnagar      0503 X99A6R9-4    Ni Wa           B  501 Wi
+Neto          0504 X300000-0    Ba Va              012 Un
+Chuejou       0510 X2533M3-5    Bi Po Lo           424 Wi
+Rakhaasha     0601 X110000-0    Ba                 000 Un
+Gasudarsk     0605 X100000-0    Ba Va              002 Un
+Feeble        0607 X4733R8-4    Ni Lo              200 Wi
+Sadiishumar   0608 X8D0000-0    Ba De              010 Un
+Quolleff      0609 X624000-0    Ba                 005 Un
+Laagonaa      0701 X5517S7-8    Po                 422 Wi
+Essen         0705 D666216-8    Ni Lo              224 Na
+Narquel       0709 X110000-0    Ba                 005 Un
+Likitornot    0805 X2525RB-3    Ni Po              200 Wi
+Larisa        0807 D588010-8    Ni Lo              204 Na

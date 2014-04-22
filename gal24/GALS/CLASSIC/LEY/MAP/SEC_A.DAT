@@ -1,0 +1,70 @@
+@SUB-SECTOR: sec_a   SECTOR: ley
+#
+#Jump Routes
+$0103 0201 0 0
+$0103 0404 0 0
+$0103 3103 -1 0
+$0201 0402 0 0
+$0207 0306 0 0
+$0207 0407 0 0
+$0207 0409 0 0
+$0306 0404 0 0
+$0402 0602 0 0
+$0404 0602 0 0
+$0407 0408 0 0
+$0407 0508 0 0
+$0408 0409 0 0
+$0409 0710 0 0
+$0409 0312 0 1
+$0501 0602 0 0
+$0508 0608 0 0
+$0602 0804 0 0
+$0608 0709 0 0
+$0704 0803 0 0
+$0704 0804 0 0
+$0709 0908 1 0
+$0709 0710 0 0
+$0710 0910 1 0
+$0804 1004 1 0
+#
+#--------1---------2---------3---------4---------5---------6----
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- --
+Nascitur      0101 EA33400-7    Ni Po              700 Im
+Ariel         0103 C223887-9    Na                 300 Im
+Witchstone    0106 D300576-9    Na                 501 Im
+Garthanion    0107 X000000-0    As Ba              001 Im
+Eldma-Fire    0201 CA84641-B    Ag                 400 Im
+Tringe        0202 D232779-7    Na Po              301 Im
+Kailasa       0207 A987889-B    Ri                 800 Im
+Winlisk       0209 D7677C7-3    Ni                 401 Im
+Grenis        0210 E231461-8    Ni                 200 Im
+Gwealod       0301 C000635-A    As                 401 Im
+Nuredin       0305 DA6A895-6    Wa                 700 Im
+Kerim         0306 B876A95-A    In                 100 Im
+Elmosil       0307 D110683-8    Ni                 301 Im
+Zubeydeh      0310 E641889-8    Po                 500 Im
+Sindibad      0402 B99A789-C    Wa                 900 Im
+Jullanar      0404 A667946-C  N Ca                 500 Im
+Alaedin       0406 E240445-7    Ni                 101 Im
+Efrit         0407 B857A79-9                       401 Im
+Enis          0408 C567758-A    Ag Ri              200 Im
+Barakat       0409 C9AA414-7  S Ni                 700 Im
+Devilworld    0410 D330753-8    Na                 101 Im
+Birjan        0501 C774689-A    Ag                 701 Im
+Loregloom     0503 E240366-7    Po Ni              301 Im
+Burestar      0504 C000786-B    As                 101 Im
+Sabaothis     0508 C865978-7                       800 Im
+Delgalieh     0602 B998A89-8    In                 400 Im
+Emeraldis     0605 D100464-9    Ni                 301 Im
+Bacchidin     0608 B564899-8    Ri                 700 Im
+Orthelius     0610 X210312-9    Ni                 201 Im
+Rhazes        0704 C9959A9-7    In                 901 Im
+Helmont       0705 E743334-8    Ni                 400 Im
+Bloodhole     0706 X87A689-7    Wa              R  900 Im
+Damgear       0708 C2106C8-7    Na                 801 Im
+Amberbore     0709 B968AC9-9                       300 Im
+Dragonmist    0710 A557AA9-C    In                 600 Im
+Marechal      0803 D96A667-9    Ri Wa              101 Im
+Ihnyssas      0804 A565734-C  N Ri Ag              600 Im
+Arammas       0809 D130421-8    Ni                 701 Im

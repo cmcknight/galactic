@@ -1,0 +1,39 @@
+@SUB-SECTOR: Five Sisters SECTOR: Spinward Marches
+#
+# Trade routes within the subsector
+$0139 0538 0 0
+$0538 0534 0 0
+$0534 0333 0 0
+$0333 0133 0 0
+$0544 0930 1 -1
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Emape         0133 B564500-B  N Ag Ni           A  503 Im
+Raweh         0139 B130300-B  N Lo Ni Po De     A  920 Im
+876-574       0140 E687200-0    Lo Ni              702 Na
+Saxe          0231 EAA5543-7    Ni Fl              910 Na
+Andor         0236 C695735-9    Ag              R  603 Dr
+769-422       0240 E754401-8    Ni                 924 Na
+Gothe         0332 E22159B-6    Ni Po              310 Im
+Mirriam       0333 B9998A6-A  B                 A  514 Im
+Candory       0336 C593634-8    Ni              R  920 Dr
+Wonderay      0340 E88A46A-4    Ni Wa              210 Na
+Jone          0433 B792785-9  N                 A  810 Im
+Jinx          0440 D100133-7    Lo Ni Va        A  202 Na
+Ucella        0532 D574654-7    C0 Ag Ni        A  410 Cs
+Penelope      0533 C460642-4    Ni Ri De           323 Im
+Karin         0534 A767768-C  A Ag Ri           A  410 Im
+Wonstar       0538 B455741-7  N Ag              A  910 Im
+Froin         0539 C535225-9    Lo Ni              601 Im
+Gohature      0632 C754766-7  S Ag                 523 Im
+Quhaiathat    0637 C31479B-9    Ic                 210 Im
+Lakou         0638 E779454-7    Ni              A  601 Im
+Ralhe         0731 E224564-8    Ni                 801 Na
+Iderati       0732 A887798-C  N Ag Ri Cp           201 Im
+Tondoul       0739 E5136A7-4    Na Ni Ic           701 Na
+875-496       0834 E888421-7  S Ni              A  510 Cs
+Ochecate      0837 E747569-7    Ag Ni              210 Na
+Mewey         0838 D786799-5    Ag Ri              701 Na
+975-452       0840 E100316-9    Lo Ni Va           821 Na

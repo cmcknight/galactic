@@ -1,0 +1,37 @@
+@SUB-SECTOR: Veracruz   SECTOR: alphaleo
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Dennison      0921 X6563Q5-3    Lo Ni           B  302 Wi
+Gifford       0925 X210000-0    Ba                 004 Un
+Dodge         0926 X222000-0    Ba                 004 Un
+Chartes       0930 X310000-0    Ba                 023 Un
+Minot         1023 X100000-0    Ba Va              000 Un
+Olympia       1024 X7669U5-5    Hi              B  103 Wi
+Montserrat    1029 D5586VC-7    Ag Ni              600 Wi
+Cluny         1030 X410000-0    Ba                 010 Un
+Livonia       1121 E2467BD-7    Ag Ni              105 Cs     f
+Cologne       1129 X5854P3-3    Lo Ni           B  510 Wi
+Burgos        1130 X6793O3-6    Lo Ni              104 Wi
+Selkirk       1221 X433000-0    Ba Po              004 Un
+Vogar         1223 X85A4N0-0    Lo Ni Wa        B  502 Wi
+Santa Maria   1228 X3465RD-0    Ag Ni           B  204 Wi
+Iona          1229 X322000-0    Ba Po              023 Un
+Ashern        1322 X9B4000-0    Ba Fl              012 Un
+Boissevain    1325 X100000-0    Ba Va              020 Un
+Tuxpan        1327 X100000-0    Ba Va              024 Un
+Mafeking      1421 D5552P2-8    Lo Ni              100 Wi
+Veracruz      1422 X9998S8-7                    B  220 Wi
+Bissett       1427 X110000-0    Ba                 023 Un
+Zbaraz        1429 X400000-0    Ba Va              005 Un
+Meleb         1524 C100000-0    Ba Va              005 Un
+Minitonas     1527 X4565RB-6    Ag Ni              405 Wi
+Eagan         1529 X4774R7-4    Lo Ni              304 Wi
+Velscur       1530 X100000-0    Ba Va              004 Un
+Assiniboia    1621 C755794-9  X Ag                 105 Na     f
+Truax         1624 X6876RA-3    Ag Ni           B  202 Wi
+Garrick       1625 X100000-0    Ba Va              010 Un
+Selkirk       1626 X78A5T9-5    Ni Wa              523 Wi
+Ebano         1629 X100000-0    Ba Va              003 Un
+Tajio         1630 X110000-0    Ba                 021 Un

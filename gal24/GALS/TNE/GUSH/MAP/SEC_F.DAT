@@ -1,0 +1,33 @@
+@SUB-SECTOR: sec_F   SECTOR: gush
+# Rure
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Gakhamesh     0912 A683701-C                       100 Rd     f
+Chulesh       0914 C5757B6-7    Ag In  [A7255C] R  213 Na     f
+Drayrk        0920 C150655-8    Po De (Jonkeer)    103 Cs     f
+Munnarn       1013 C4104A1-8    Ni              A  302 Rd     f
+Usdiki        1015 A664683-C    Ri Ag Cp           913 Rd     f
+Toraago       1018 A244513-A    Ag Ni              700 Rd     f
+Lishuggi      1019 C565651-A  N Ri Ag  [A6473E]    314 Rd     f
+Shir          1020 B1005UA-A    Ni     [A3573F]    704 Rd     f
+Heffone       1118 X333575-7    Po Ni  (Droyne) A  200 Na     f
+Aintrin       1119 C637650-8                    A  414 Rd     f
+Vlu'da'rin    1120 X504667-9    Va Ic           R  604 Wi     f
+Ushamdidishar 1213 C8D05U8-A  N Ni     [A5478D]    325 Rd     f
+Chansingol    1319 X570477-7          (Jonkeer) B  212 Na     f
+Platon        1412 C83A4U9-C  N Ni     [C7377G]    320 Rd     f
+Lanaas        1414 X9A9000-0                       004 --     f
+Guzrin        1417 X836000-0                       025 --     f
+Gagushilaag   1512 A4715C2-A    Ni                 102 Rd     f
+Divkar        1518 C382646-7    Ri Ni (Traypih)    214 Rd     f
+Higli         1519 C5617C7-8                       700 Rd     f
+Mentule       1520 C651858-7    Po                 103 Cs     f
+Booce         1612 X899476-7    Ni              B  500 Na     f
+Lendaarii     1613 X7A8575-5    Ni              B  102 Na     f
+Abir          1615 C445618-8    Ag                 503 Cs     f
+Imaparlu      1616 A556847-C  N        [A2778D]    104 Rd     f
+Gabradio      1618 C610524-A           [A2575E]    335 Rd     f
+Engallent     1619 C150474-A    Po     [A3676E] B  521 Rd     f
+Kerek         1620 A0006U7-A    Na     [A3579E]    103 Rd     f

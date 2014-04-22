@@ -1,0 +1,21 @@
+System: Oneria
+Subsector: Isi Ahto
+Sector: Gushemege Sector
+Coordinates: 2919 (H0509)
+UWP: D444136-8
+
+Starport: Poor
+Size: Small (5600-7200 km)
+Atmosphere: Thin, tainted
+Hydrographics: 40% water
+Population: 80
+Govt: Self-Perpetuating Oligarchy
+Law Level: Moderate
+Technology: Pre-Stellar
+
+Bases: Scout Base
+Trade Codes: Lo Ni           
+Travel Zone: Green
+Planetoid Belts: 0
+Gas Giants: 0
+Allegiance: Imperial

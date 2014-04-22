@@ -1,0 +1,42 @@
+@SUB-SECTOR: sec_o   SECTOR: oldexpan
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+So Skire      1732 X667843-1                    B  104 Wi     f
+Keghe         1733 X6B6000-0    Ba Fl              002 Un
+Ehart         1734 D348002-6    Lo Ni              512 Wi
+Lamneth       1735 X2436P7-4    Po Ni              214 Wi
+Poyzen        1736 X787355-9    Ba Lo Ni           503 RC     f
+Targa         1833 D5775RD-6    Ag Ni              210 Wi
+Peart         1834 X5657RD-8    Ag C:3             912 Wi
+Cobham        1835 X79A7U9-9    Wa                 702 Wi
+Grenbard      1836 X322000-0    Ba Po              011 Un
+Cleland       1837 X7C8000-0    Ba Fl              011 Un
+Janazzo       1838 B3546Q3-8    Ag Ni D:3          823 Wi     f
+Wrangell      1839 X666302-1    Lo Ni           B  103 Wi     f
+Dobbet        1840 X3747R8-6    Ag                 520 Wi
+Barlow        1934 D6875S5-7  T Ag Ni              813 Wi
+Bonham        1936 X8968TD-1                    B  700 Wi
+Schotz        1937 C5467S6-5  S Ag                 112 Wi
+Burbelson     1938 X6485RD-0    Ag Ni           B  413 Wi
+Pohl          2031 E7767Q5-2    Ag D:6          B  202 Wi
+Dunbar        2036 D4535O8-5  T Ni Po              420 Wi
+Mitmos        2037 X434000-0    Ba                 023 Un
+Pratt         2039 X8775T8-0    Ag Ni C:4       B  400 Wi
+Atkins        2132 XAAA000-0    Ba Fl Wa           014 Un
+Tama          2134 C8675R6-7    Ag Ni           B  421 Wi
+Khatru        2135 C5483S7-7    Lo Ni              214 Wi
+Canzar        2137 E4455P7-6    Ag Ni              315 Wi
+Palin         2234 X330000-0    Ba De Po           014 Un
+Dimeola       2236 C4882O3-6  T Lo Ni              314 Wi
+Hell          2237 D2603O0-6    De Lo Ni           111 Wi
+Patuxant      2240 X5977UA-6    Ag C:4          B  814 Wi
+Valdost       2332 E6935N0-5    Ni                 303 Wi
+Clarke        2333 D5668SA-6  T C:3                223 Wi
+Bordelon      2340 X3415Q5-2    Ni Po              900 Wi
+Salinos       2431 X97A8R5-5    Wa              B  305 Wi
+Hjorts        2432 X553200-5    Lo Ni Po           314 Wi
+Wildman       2434 X7877VB-4  T Ag              B  723 Wi
+Khan          2439 X634000-0    Ba                 003 Un
+Digriz        2440 X6894P6-5    Lo Ni              204 Wi

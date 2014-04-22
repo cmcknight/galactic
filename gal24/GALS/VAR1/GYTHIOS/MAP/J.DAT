@@ -1,0 +1,35 @@
+@SUB-SECTOR: Salamis SECTOR: Gythios Sector
+#
+# Jump-routes
+$0926 0726 -1 0
+$1028 0728 -1 0
+$0926 1028 0 0
+$1028 1228 0 0
+$1625 1725 1 0
+$0926 1024 0 0
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Grymston      0922 X592000-0    Ba Lo              014 Im 030
+Mariano       0926 A544732-B  N Ag                 723 Im 361
+Buena         0927 X332000-0    Ba Lo              015 Im 210
+Roynes        0930 E423125-8    Lo                 614 Im 020
+Antoinietta   1024 A785412-C                       211 Im 560
+MacAllus      1028 A88A844-B    Wa                 623 Im 866
+Qoqo          1030 E877342-7    Lo                 725 Im 550
+Gulgonen      1126 D591562-5  S                    903 Im 58I
+Achmed        1128 X200000-0    Ba Lo Va           003 Im 000
+Clarita       1221 A767958-C    Hi                 823 Im 09E
+Fleotig       1222 C321261-A    Lo                 711 Im 360
+Salamis       1228 A99A768-C    Ag Wa              515 Im 955
+Donia         1330 X120000-0    Ba De Lo           014 Im 000
+Gaese         1422 C967AA9-7  S Hi                 104 Im 3EL
+Walijan       1425 X252000-0    Ba Lo              002 Dr 200
+Kathathorn    1525 E8D6144-6    Lo                 102 Dr 850
+Ruodger       1528 E575422-6                       721 Dr 250
+Sandra        1530 X9C9000-0    Ba Fl Lo           002 Im 0B0
+Susan         1625 A764ABB-C  S Hi                 611 Dr 39Q
+Cutte         1626 D789650-8    Ag                 513 Dr 161
+Ament         1627 X523000-0    Ba Lo              022 Dr 290
+Barke         1630 C487412-B  S                    213 Im 350

@@ -1,0 +1,26 @@
+@dir=gals\gmc\gen\smallarm
+@Light Yellow
+
+Magellanic Empire standard issue small arms
+
+
+@Light Cyan
+   p1 & p4 Pistols, c1 & c3 Machine Carbines             @p1.txt
+   p2 Revolver, c2 Machine Carbine, r5 Rifle, r6 Shotgun @p2.txt
+   p3 Laser Pistol                                       @p3.txt
+   p5 Body Pistol                                        @p5.txt
+   p6 Pistol                                             @p6.txt
+   p7 Snub Pistol                                        @p7.txt
+   c4 Machine Carbine                                    @c4.txt
+   c5 Snub Machine Carbine                               @c5.txt
+   r1 Combat Rifle                                       @r1.txt
+   r2 Laser Rifle                                        @r2.txt
+   r3 Combat Rifle, r7 Sniper Rifle, r8 Combat Rifle     @r3.txt
+   r4 Shotgun                                            @r4.txt
+   r9 Combat Rifle                                       @r9.txt
+   r10 Combat Rifle, r11 Combat Rifle, r15 Combat Rifle  @r11.txt
+   r12 Sniper Rifle                                      @r12.txt
+   r13 Laser Rifle                                       @r13.txt
+   r14 Gauss Combat Rifle                                @r14.txt
+   r16 Gauss Sniper Rifle                                @r16.txt
+   r17 Combat Rifle                                      @r17.txt

@@ -1,0 +1,46 @@
+@SUB-SECTOR: Dunea SECTOR: Core
+#
+# Trade routes within the subsector
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Maasaanin     1732 C758323-9    Lo                 804 Im
+Riid          1733 B865132-8    Lo                 314 Im
+Mished        1736 B4208AC-C  N De Na Po           900 Ck
+Irkhar Kirk   1737 C374469-8    Ni                 700 Ck
+Ginna         1738 E8A6000-0    Ba Fl Lo Ni        013 Ba
+Enshuuar      1739 B6A6300-8    Fl Lo Ni           812 Ck
+Irkgiur       1831 C663421-4    Ni                 625 Im
+Shaaram       1833 E464100-5    Lo                 504 Im
+Khea          1836 C340855-B    De Po              703 Ck
+Anlumir       1837 BA9A35A-B    Lo Ni Wa           300 Ck
+Iraddii       1838 E989362-4    Lo Ni              203 Ck
+Rili Aash     1839 B782411-7    Ni                 501 Ck
+Saruumdiiush  1840 E743657-3    Ni Po              400 Ck
+Uushruu       1933 C599321-9    Lo                 604 Im
+Zishma Kha    1934 C886233-5    Lo                 200 Im
+Keshi         1938 B5662C9-B    Lo                 114 Ck
+Nii           1940 B548A8D-8    Hi In              420 Ck
+Daindkhara    2034 C324353-B    Lo                 703 Im
+Uundi Zi      2036 A410977-C  A Hi Na              804 Im
+Daaud Urle    2037 C333344-9    Lo Ni Po           820 Ck
+Gimmi Uussha  2038 C476333-A    Lo Ni              202 Ck
+Gikhii Iis    2040 A240512-8    De Ni Po           102 Ck
+Degkak Uun    2133 E88A453-5    Wa Lo              210 Im
+Diliig        2135 E749000-0    Ba                 013 Ba
+Kiir          2136 E77A000-0    Wa Ba              504 Ba
+Adkhi         2138 E888242-3    Lo Ni              400 Ck
+Nig           2139 C565347-9    Lo Ni              802 Ck
+Sidzer        2140 D200251-8    Lo Ni Va           910 Ck
+Kuuma         2232 C538252-8    Lo                 902 Im
+Miregzi       2237 B203266-9    Ic Lo Ni Va        700 Ck
+Busirkher     2334 E233000-0    Po Ba              003 Ba
+Gish          2335 B555385-9    Lo Ni              403 Im
+Adan          2336 D661411-3    Lo                 903 Im
+Shinzarkan    2338 B455213-9    Lo Ni              614 Ck
+Kim           2431 D7A8331-3    Lo Fl              512 Im
+Uumad         2433 D794400-5    Lo                 714 Im
+Iidkek        2435 BAB4331-7    Lo Fl              900 Im
+Ligmuu        2437 E636420-4    Ni                 402 Ck
+Inmaeg        2439 E384000-0    Ba Lo Ni           023 Ba

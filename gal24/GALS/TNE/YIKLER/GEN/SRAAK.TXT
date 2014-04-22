@@ -1,0 +1,347 @@
+   
+Contact: S'raak
+    by Paul O'Grady and David Schneider
+    Date: 22nd October 1994
+    
+     _________________________________________________________________
+   
+General Note
+
+   Since the emergence of the S'raak as a starfaring race, their extreme
+   hostility has prevented detailed research on either the S'raak or
+   their homeworld (Khaar 0221). Planetary data is cited from surveys
+   conducted during rediscovery of the S'raak in 1098-1099. Society and
+   physiological notes have been compiled from various diplomatic and
+   trading personnel who have had contact with the S'raak. Note that due
+   to the inability to conduct independent confirmation and the age of
+   some of the information, some data (such as population and technical
+   codes) is suspect and may be unreliable.
+   
+Physiology
+
+   S'raak are upright, bipedal organisms averaging a modest 1.5 metres in
+   height. They are covered with thick leathery scales in mottled brown
+   and yellow colours, although exact patterns appears to be dependant on
+   clan heritage. They are notable for their sulfur based metabolism
+   resulting from their evolution on a world with an atmosphere highly
+   tainted with sulphur. Sulphur dioxide is the primary respiratory
+   compound, acting in the same role as oxygen does in humans, and their
+   body chemistry and metabolism is comprised in sulphur saturated
+   compounds. S'raak DNA is configured in a left handed helix rather than
+   the right handed one as in humans, and their DNA repair mechanism is
+   so efficient that they are far more resistant to normally lethal doses
+   of radiation in all forms.
+   
+   S'raak are hermaphroditic. Foetal development occurs over a period of
+   five months, and young are born live through an abdominal urinogenital
+   opening. Physical maturation is complete at 6-7 standard years, with
+   mental and intellectual maturation some 4-5 years later. This leaves
+   an adolescent in between physical and intellectual maturation very
+   susceptible to suggestion, and such S'raak comprise the majority of
+   the labour force. Due to the reactive nature of a sulphur based
+   metabolism, S'raak life span is less than that of humans and mean age
+   at death is 45-50 standard years. There are no known anagathic
+   analogues.
+   
+   S'raak are non-homoeothermic and have no circadian rhythm. Instead
+   their metabolic rate is determined by their environmental conditions.
+   They require 4 hours rest in every forty or intellectual capacity is
+   reduced due to fatigue. Extended periods of conditions less than 20
+   degrees Celsius will bring on a catatonic like hibernation state.
+   
+   S'raak are omnivorous, with an emphasis on a high protein diet. They
+   have five basic senses, concentrating on visual and aural, with vision
+   extending into the near and far IR spectra and possessing low
+   frequency sound sensitivity.
+   
+History
+
+   Contacted by the Zhodani, Talpaku and Meichntid Ibl in 1100, although
+   they had been under covert surveillance since 1098. The reason for
+   contact was to coerce the S'raak to ally themselves, with the intent
+   of gaining a strategic foothold in the middle of the then
+   Talpaku-Zhodani Demilitarised Zone. Prior to contact, the S'raak were
+   a barbaric, uncivilised race locked in continual warfare between
+   warring Clans. Seeing the off-worlders as abominations in the view of
+   their complicated and badly understood religion, the S'raak Clans
+   unified and secretly declared a jihad to destroy all life not native
+   to their world (rather ambitious, but at tech level 4 they had little
+   comprehension of what this task entailed). Since contact, the S'raak
+   elite Council began soliciting all parties, plus various shady trading
+   organisations, and whilst playing each side off against one another,
+   exchanged their abundance of radioactives and heavy metals for
+   technological information, hardware and expertise. They also
+   instituted a breeding program to raise the S'raak population from
+   levels kept low by inter Clan warfare to create a massive army.
+   
+   The result was an enormous jump in tech level. However this technology
+   primarily applies to personal and heavy military equipment and space
+   transport technology. All other fields such as medicine, etc are
+   significantly lower, with some jumps in tech in selected areas such as
+   communications and power. Their small interstellar navy was built
+   using S'raak constructed hulls and imported jump drives. The primary
+   source of the jump drives were the Wyld World pirates and several
+   shady corporations. Other jump capable warships were "acquired" from a
+   variety of other sources.
+   
+   In 1160 the S'raak launched an invasion of the Zhodani Consulate and
+   the Talpaku Communality and raided systems in the region near to their
+   homeworld. The war initially went well for the S'raak who achieved
+   several noted victories through a combination of surprise and a
+   willingness to accept very heavy casualty rates. In time however, the
+   S'raak were pushed back into the area of the old Talpaku/Zhodani DMZ.
+   Due to troubles at home the various enemies of the S'raak did not
+   crush them but agreed to a ceasefire. The ceasefire was later
+   confirmed by a treaty which allowed the S'raak to keep those systems
+   in the old DMZ that they currently occupied and the S'raak Empire was
+   officially founded in 1162. See the S'raak War for further details.
+   
+S'raak Timeline
+
+   -950
+          S'raak achieve TL 1
+   -300
+          Zhodani Scouts discover budding S'raak Civilisation and declare
+          Khaar a Forbidden world. Talpaku and Meichntid Ibl agree and
+          also declare system off limits. After initial period of
+          interest, everybody moves on to other matters and the S'raak
+          are all but forgotten.
+   176
+          S'raak reach TL 2
+   723
+          S'raak reach TL 3
+   1031
+          S'raak reach TL 4
+   1098
+          Zhodani rediscover S'raak, but attempt to suppress news after a
+          plan is formed to use them for their own purposes.
+   1099
+          Talpaku and Meichntid Ibl independently hear rumours and (after
+          investigation) also rediscover the S'raak.
+   1100
+          Talpaku, Zhodani and Meichntid Ibl all contact S'raak hoping to
+          use them for their own purposes, triggering a massive
+          xenophobic reaction in the S'raak population. Clan Unification
+          - Elite Council formation and end of balkanisation. S'raak
+          Elite Council pretend to go along with all parties to gain
+          technical assistance but secretly declare Holy War against all
+          offworlders.
+   1102
+          Massive breeding program instigated by the Elite Council to
+          create an army for the upcoming Holy War.
+   1103
+          Nefarious traders begin exchanging military hardware for S'raak
+          heavy metals and radioactives.
+   1112
+          S'raak reach TL 5
+   1120
+          S'raak reach TL 6, nuclear weapons testing begins.
+   1124
+          Orbital defences around Khaar completed
+   1126
+          Automated system defences operative. S'raak declare system
+          off-limits to all vessels of foreign Empires.
+   1137
+          S'raak achieve TL 7
+   1153
+          S'raak achieve TL 8, hull building program begun using imported
+          jump drives to create a jump capable Navy. Jump drives are
+          obtained via Wyld Worlds pirates.
+   1159
+          S'raak attack systems of the Talpaku Communality, Meichntid Ibl
+          and Zhodani Consulate using vessels originating from an
+          opposing power. The S'raak hope to provoke war between the
+          three powers and attack once they have been weakened.
+   1160
+          S'raak plans uncovered by adventurers and leaked to Talpaku
+          Communality media. S'raak decide to invade everyone immediately
+          - S'raak War.
+   1161
+          S'raak beaten back and ceasefire called.
+   1162
+          S'raak sign treaty to end the war. S'raak Empire officially
+          created.
+   1181
+          S'raak expeditions launched into Tsadra Sector.
+   1185
+          First permanent S'raak colony established in Tsadra Sector.
+   1195
+          In response to increasing levels of piracy, Talpaku Communality
+          accuses S'raak Empire of issuing letters of marque.
+   1201
+          The Present. Diplomatic relations between the S'raak Empire and
+          everyone except the Wyld Worlds pirates are strained.
+          
+Society
+
+   The unification of S'raak Clans occurred in 1101 due to an
+   overwhelming xenophobic response to contact. The basic administrative
+   unit is still the Clan, with each Clan sending representatives to the
+   Administrative council, who deal with day to day tasks. Two other
+   councils exist; the Military Council and the Technological Research
+   Council. All three councils report solely to the Elite council,
+   comprised of Clan elders from the strongest Clans.
+   
+   Little detail is known about S'raak social structure. It is known that
+   virtually all S'raak are members of the military in some way. The
+   S'raak Empire maintains a standing army under the direct control of
+   the Military council, however each clan also maintains it's own
+   military forces which are under the direct control of the Clan elders.
+   In theory the Military Council may draw forces from the Clan military
+   forces, however inter Clan politics often causes problems with this
+   procedure. Since the creation of the S'raak Empire much of the
+   specialised labour and manufacturing tasks has been taken over by
+   Slaves on Khaar itself and non S'raak serfs on the worlds conquered by
+   the Empire.
+   
+   The only known S'raak custom is that the bodies of slain Warriors and
+   Elders are ritually consumed at a feast so that the soul of the dead
+   will remain with their tribe and aid it in times of great need. Many
+   researchers have referred to this custom as evidence that the S'raak
+   area race of uncivilised beings who have obtained advanced technology
+   much too soon and for which they are incapable of responsible use.
+   
+New Game Rules For S'raak
+
+   Note: S'raak characters are only possible if previously permitted by
+   the referee. They should be allowed only under exceptional
+   circumstances. Referees should consider it to be his or her duty to
+   victimise S'raak characters when outside their own space, because just
+   about everyone dislikes or outright hates them. The same applies to
+   the rest of the party where it is obvious they have a S'raak as a
+   friend. On some worlds, it is a criminal offence just to be a S'raak.
+   
+   S'raak should be rolled up as normal except that Strength and
+   Endurance/Constitution each have a +1 DM, Intelligence has a -1 DM and
+   Education has a -3 DM (minimum 1). Social Standing and/or Charisma are
+   normal on worlds of the S'raak Empire and when meeting other S'raak,
+   but otherwise treat each as if 3 lower than the actual value (minimum
+   1).
+   
+   To determine the age of a S'raak character, multiply number of terms
+   by 4 and add 11. Aging is resolved by rolling for all four stats
+   (Strength, Agility/Dexterity, Constitution/Endurance and Intelligence)
+   at the end of the fourth and subsequent terms, with a -1 DM applied to
+   saving rolls for the fifth and subsequent terms. Anagathics are not
+   available for S'raak. The reduction in a stat due to aging is 1 point,
+   plus the DM. So at the end of the fifth term, saves are at -2 and each
+   failed roll reduces the affected stat by 2. At the end of the sixth
+   term, saves are at -3 and each failed roll reduces the affected stat
+   by 3.
+   
+   The following TNE careers only are available for S'raak: Barbarian,
+   Bounty Hunter, Civil Engineer, Construction Worker, Corsair, Criminal,
+   Farmer, Hunter, Law Enforcement (actually a branch of the military),
+   Mechanic, Prisoner, Rebel, Scientist, Scout, Tough, Trader, Army,
+   Aviation, Navy, Marines, Special Ops. Note in particular that the
+   S'raak do not particularly like water (they patrol seas and oceans
+   from the air or space), so there is no merchant marine or wet navy
+   career and no S'raak character should select Swimming or Small/Large
+   Watercraft skills.
+   
+   When exposed to radiation, assume the exposure was only one-fifth the
+   actual value to administer effects. Burn damage (even from incendiary
+   chemicals and plasma/fusion gun debris) is always one-half normal.
+   Poison effects vary - the unusual nature of S'raak biology mean that
+   substances will not affect S'raak in the same way as humans. For
+   poisons, roll d6 and apply a DM to the poison damage die roll
+   accordingly: 1=-2, 2=-1, 3 or 4 means use die rolls unmodified, 5=+1,
+   6 =+2. This need only be done once per type of poison.
+   
+   S'raak do not react well to cold environments. Unprotected S'raak in a
+   cold region will begin to suffer from impaired mental processes after
+   three hours exposure. Their bodies also slow down, dramatically
+   reducing reaction times. After five hours continued exposure to a cold
+   environment a S'raak will fall into a state of hibernation and will
+   remain in that state until either the temperature improves, they
+   starve to death, or they die from excessive exposure and cold
+   (prolonged exposure to temperatures below 2 degrees Celsius.)
+   
+S'raak Homeworld
+
+   Khaar 0221 B5728CE-A  K             R 812 Sr G0V
+   
+   Khaar: Period 2.11 standard days. Diameter 8480 Kilometres. Density
+   1.3 (heavy core). Mass 0.317 standard. Mean surface gravity 0.811g.
+   Rotation Period 21 hours 12 minutes. Axial Inclination 33{ 46' 9.8".
+   Energy Absorption 0.860. Surface Atmospheric Pressure 0.85.
+   Composition: low oxygen-nitrogen mix with sulphur taint. Hydrographic
+   Percentage: 15% (liquid water). Mean Surface Temperature: 98{C (371
+   K). Native Life.Total World Population: Exact figure unknown.
+   Resources: heavy metals, ores, radioactives.
+   
+   Other Names: Shtenzh Zhi (Zhodani), S'raaka (Forday's Fortune)
+   
+   Political Structure: Contrary to what might be expected from the
+   Capital of an interstellar state, the surface of Khaar is divided into
+   various districts, each under the control of a different clan. The
+   size of each district varies according to the area granted to that
+   clan at the formation of the Elite Council. Typically the largest
+   Districts are in the possession of the strongest clans which make up
+   the Elite Council.
+   
+   Although every district is responsible to the Elite council, they are
+   virtually autonomous areas under the complete control of the ruling
+   clan. Each clan maintains its own standing army and rules its district
+   virtually as it desires - within certain restrictions imposed by the
+   Elite Council. Each year the Administrative Council informs each
+   district of what it must supply to the Empire. Also the Military
+   Council may requisition Clan troops to supplement Empire forces.
+   
+   The Military, Administrative, Research and Elite councils are based in
+   the Capital District, the largest of all the districts. The Capital
+   District is under the direct control of the Elite Council (via the
+   Administrative council). Khaar's primary Starport is also located in
+   the Capital District.
+   
+   WARNING: The Surface of Khaar is strictly off limits to non-S'raak
+   (except slaves). Note also that the environment of Khaar, in addition
+   to its sulphur taint, has numerous areas of high radiation.
+   
+Roleplaying S'raak
+
+   When roleplaying any S'raak character, it is important to remember
+   that all S'raak view non S'raak sophonts as abominations. This
+   attitude is a result of the teachings of their poorly understood
+   religion (it mostly being poorly understood because the S'raak aren't
+   too keen to explain it to abominations). S'raak typically view non
+   S'raak as something to be exploited or manipulated for their own
+   purposes.
+   
+   Most non S'raak find the S'raak to be arrogant, condescending and very
+   militant. Most S'raak who are expected to have frequent dealings with
+   non S'raak (such as traders or customs officials) are given special
+   diplomatic training to make them less hostile towards non S'raak.
+   However, only members of the S'raak Empire Diplomatic Corps are well
+   trained enough to disguise the natural S'raak contempt for all other
+   races.
+   
+   S'raak player characters should treat non S'raak members of their
+   party with a great deal of contempt and should always try to give the
+   impression that they are making a great sacrifice just being in their
+   company and, and in fact doing them a great favour by allowing the non
+   S'raak to be around them.
+   
+   Threats by non S'raak against a S'raak are seldom a good idea. S'raak
+   will often respond to a threat by a non S'raak with violence,
+   generally utilising the most powerful weapon available to them at the
+   time. S'raak will kill non S'raak with little provocation, often
+   having great difficulty seeing anything wrong with this (as all non
+   S'raak are abominations and will all have to be killed or enslaved
+   eventually anyway). It is a really bad idea for S'raak to become
+   involved with things like brawls, as casualties inevitably occur.
+   
+   Virtually all S'raak have a keen interest in technological items, even
+   if they have no idea what they are or what they do. S'raak are well
+   known for buying all sorts of odd pieces of technology, at all sorts
+   of prices, and shipping them back to Khaar for study by the research
+   council. An average S'raak has little real understanding of science or
+   how technology works and so will cheerfully buy all sorts of rubbish.
+   
+   When roleplaying S'raak characters it is important to bear in mind
+   that the S'raak are from a clan orientated culture which is extremely
+   militant. S'raak have not had access to high technology for long and
+   most of them have little understanding of how it works. More often
+   than not, when a S'raak is confronted with a difficult situation it
+   will attempt to resolve it by military means.
+   

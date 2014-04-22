@@ -1,0 +1,34 @@
+@SUB-SECTOR: sec_M   SECTOR: deneb
+#
+# Trade routes within the subsector
+$0233 3235 -1 0
+$0731 0730 0 -1
+$0731 0332 0 0
+$0233 0332 0 0
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Iruku         0138 B21048A-9    Ni                 501 Dd
+Inkekush      0233 A140548-E  N Ni Po De           631 Dd
+Saguenay      0235 B438256-F  N Lo Ni              324 Dd
+Taman         0237 E874300-4    Lo Ni              810 Dd
+Nouakchat     0238 C532114-6  S Lo Ni Po           103 Dd
+Aosta         0332 A669236-C    Lo Ni Re           412 Dd
+Furens        0334 C8AA698-A    Ni Fl Wa           603 Dd
+Upuraku       0336 B484554-9  W Ag Ni              301 Dd
+Tuwayk        0339 B672843-A                       501 Dd
+Zyedl         0431 E551443-5    Ni Po              501 Dd
+Endup         0436 D6939EG-9    Hi In              104 Dd
+Beaxon        0439 D88AA99-C    Hi Wa           A  923 Dd
+Noghon        0440 D79798B-9    Hi In              521 Dd
+Briaxis       0531 C120445-D    Ni Po De           901 Dd
+Maricutin     0534 B764000-A  N Lo Ni Ba           213 Dd
+Preslin       0633 B130679-E  N Na Ni Po De        310 Dd
+Brufort       0638 C669642-6    Ni Ri              420 Dd
+Qevar         0731 A2326AE-F  A Na Ni Po Cp        403 Dd
+Raguseppe     0734 B410555-B    Ni                 710 Dd
+Kiangya       0735 C7C0200-C  S Lo Ni De           714 Dd
+Taormina      0737 D3216AE-7    Na Ni Po           834 Dd
+Mtensc        0740 D351454-A    Ni Po              123 Dd
+Mephit        0833 C9B8436-7  S Ni Fl              302 Dd

@@ -1,0 +1,70 @@
+
+[Q] What are worlds & non-worlds?
+
+[A] A world is just that, a world, typically the mainworld of a
+star system. A non-world can be anything else, such as a deep
+space research or refueling station, a derelict spacecraft which
+is lost between the stars, astronomical curiosities such as
+neutron stars or black holes, or even gaseous nebulas, the
+stellar factories. Some examples of non-worlds are located in
+the Idhra/Gythios subsector of the Variant-1 galaxy.
+
+
+[Q] What are the basic differences between the data format used
+for worlds versus that used for non-worlds?
+
+[A] Quite a lot...
+
+Here is an example world to illustrate the UWP format used by
+this software:
+
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Thorp         2638 A671761-B  N                    900 Io 08N fxh
+                   ||||||| |  |                 |  ||| |  ||| |||
+         Starport -+|||||| |  +- Military Base  |  ||| |  ||| ||+- Hide (H,h, )
+        World Size -+||||| |       Travel Zone -+  ||| |  ||| |+- Map (x,y,z, )
+         Atmosphere -+|||| +- Technology Level     ||| |  ||| +- Attach (f,m, )
+       Hydrographics -+|||  Population Multiplier -+|| |  ||+- Export
+            Popultion -+||         Planetoid Belts -+| |  |+- Resource Level
+            Government -+|               Gas Giants -+ |  +- Indigenous Life
+              Law Level -+                 Allegiance -+
+
+Notes:
+   Travel Zone: <space>=green, A=amber, B=blue, R=red
+   Life, Resource, Export: These are all part of the homebrew system
+      and are only active when the "homebrew" method is in use.
+   Attach: A file (f) or a menu (m) may be attached to the hex to
+      give more detail about the world in question.
+   Map: Maps may be attached as well. In such cases, an "x" in this
+      position signifies that a world map is attached. "y" denotes a
+      map of the star system. "z" indicates both sorts of maps.
+   Hide: The world may also be hidden. "h" signifies a weak hide
+      (most of the stats are hidden from the user). "H" signifies a
+      strong hide (not even the world name will appear on the map,
+      although the marker signifying its presence will still be drawn).
+
+
+Here's another example, only this one is for a non-world:
+
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Derelict      2836 *3 Abandoned Vessel          R      Io     f H
+                   ||                           |      |      | |
+         Asterisk -++- Marker (1,2,3,4)         |      |      | +- Hide (H,h, )
+  (signifies this                  Travel Zone -+      |      +- Attach (f,m, )
+  as a non-world)                          Allegiance -+
+
+Notes:
+   Marker: 1=triangle, 2=square, 3=diamond, 4=lots-o-dots
+   Attach: f=file, m=menu
+   Map: Generally speaking, non-worlds don't have maps
+   Hide: H=strong, h=soft (strong hide will hide both the name
+      as well as the marker, while a soft hide will hide only
+      the explanation... in this case "Abandoned Vessel")
+
+Non-worlds can be edited just like worlds, even by the use of
+UWPedit which is accessable via the F3 key from the subsector map.
+

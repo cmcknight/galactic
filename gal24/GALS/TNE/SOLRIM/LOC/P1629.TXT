@@ -1,0 +1,16 @@
+Sirius C000368-C
+Starport: Routine         Size: Asteroid Belt
+Atmosphere: None          Hydrographics: No liquid water
+Population: 7,000         Govt: Captive Government
+Law Level: High           Technology: Average Stellar
+         
+Much of the asteroid belt around Sirius is made up of artificial satellites,
+mostly hollowed out planetoids moved from nearby systems. Terran Republic
+Marine and Naval personnel have swept the vast majority of these planetoids
+and found them uninhabited, though some were found to be in good working
+order (with the exception of their computers). Those planetoids which were
+salvageable were subsequently overhauled and reoccupied. A Terran outpost
+has been established on one of the recently refurbished planetoids (which
+was renamed Outpost Orion by its commander). Outpost Orion is expected to
+provide the Terran Navy a much needed forward base, and provide merchants
+with a safe harbor as they travel through this important crossroads system.

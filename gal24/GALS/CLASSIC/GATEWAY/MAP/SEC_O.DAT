@@ -1,0 +1,27 @@
+@SUB-SECTOR: o SECTOR: Gateway
+#
+# Jump-routes
+$1739 1637 -1 0 15
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Thane         2138 C999643-4    Ni                 914 Vi
+Kever         1832 C558445-6    Ni                 611 Vi
+Paradise of El2231 C757863-6                       913 Na
+Flemington    2133 B472789-8                       200 Na
+Ravashar      2233 C5449CC-8    Hi In Po           823 Na
+Catanin       1736 E673000-9    Lo Ni Ba        A  012 Vi
+Cinder        2140 X710000-9    Lo Ni Ba De        011 Vi
+Umbrin        1731 C558445-9    Ni                 912 Vi
+Caster        2035 C150459-9    Ni Po De           222 Na
+Nederen       1834 E631754-9    Na Po              510 Vi
+Mast          1835 C20088B-9    Na Va              910 Vi
+Sinest        2337 B575886-9                       924 Na
+Shin          2235 C400102-A    Lo Ni Va           812 Na
+Cloud         2037 D000200-A    Lo Ni As           510 Vi
+Iceball       1837 E21A321-A    Lo Ni Ic           412 Vi
+Holidin       1931 B220575-A    Ni Po De           113 Vi
+Waystation    2434 CS00749-A    De Va              410 Na
+Santee        1739 B777989-A    Hi In              214 Vi
+Hold-Your-Brea1839 DACA324-B    Lo Ni Fl Wa        511 Vi

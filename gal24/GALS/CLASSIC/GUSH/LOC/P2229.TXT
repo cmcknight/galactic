@@ -1,0 +1,21 @@
+System: Xanten
+Subsector: Dashinshaii
+Sector: Gushemege Sector
+Coordinates: 2229 (K0609)
+UWP: C593524-9
+
+Starport: Routine
+Size: Medium (7200-8800 km)
+Atmosphere: Dense, tainted
+Hydrographics: 30% water
+Population: 900,000
+Govt: Participating Democracy
+Law Level: Moderate
+Technology: Early Stellar
+
+Bases: None
+Trade Codes: Ni              
+Travel Zone: Green
+Planetoid Belts: 2
+Gas Giants: 2
+Allegiance: Imperial

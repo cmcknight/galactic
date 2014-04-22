@@ -1,0 +1,10 @@
+@SUB-SECTOR: sec_K   SECTOR: provence
+#
+# Trade routes within the subsector
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Karrdzae      1729 X457733-5    Ag                 223 Wi
+Oudzkharz     1828 X4666X4-9    Ag Ni Ri Dw        124 Dr     f
+Aegerri       2230 X775300-5    Ni Lo              104 Wi

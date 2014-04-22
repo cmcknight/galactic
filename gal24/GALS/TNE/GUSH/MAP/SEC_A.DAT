@@ -1,0 +1,8 @@
+@SUB-SECTOR: sec_A   SECTOR: gush
+#Riften
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Habenlt       0610 C86A75B-6    Ri Wa              102 Cs
+Menguno       0803 X7B1000-0  S Fl Ba  [C4277D]    000 Rd
+Gelhhach      0810 E558647-6    Ag Ni (Hhrachd)    201 Cs

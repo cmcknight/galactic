@@ -1,0 +1,117 @@
+
+    HIWG
+
+    HIWG Document: # HD3421                           Date: 05-01-1993
+
+    From: Leighton Piper
+          11 Skeffington Rd.,
+          Preston,
+          LANCS, PR1 5UP.
+          UK.
+
+    To:   David Burden, Gushemege Sector Analyst
+          Clayton R. Bush, Quadrant 1 Editor
+          J. Duncan Law-Green, Vland Domain Editor
+          Kevin Parry, HIWG UK
+
+    Subject: Balech subsector
+
+    Abstract: Summary of systems of the subsector and basic data.
+
+    BALECH SUBSECTOR
+
+    This subsector  (I of Gushemege) is  under the harsh rule  of Duke Rall
+    Talenn who  has used his position  to grab further power,  line his own
+    pockets (and those of his friends) and subjugate the people. He is only
+    tolerated by  the central Gushemege authorities  as he is control  of a
+    very strategically  valuable region. The  subsector fleets protect  the
+    spinward flanks of Gushemege from  the Federation of Ilelish and Aslani
+    Ihatei. Open criticism or action to curb the Duke's excesses may be the
+    excuse  he needs  set up  an independent  state (thereby  depriving the
+    sector of valuable resources) potentially hostile, or worse still, side
+    with  Dulinor.  Both  paths  would  leave  the  centre of Gushemege and
+    vulnerable to attack.
+
+    The  vapethi are  minor non-human  sophonts native  to Inapiirn (0723).
+    They are  pleiomorphic, having a  variety of shapes  to suit the  local
+    climate/environment, the company they are present with, status; this is
+    also altered by the individuals' emotional  state. The basic shape is a
+    rounded cylinder  with usually a  quartet of tentacle-like  appendages.
+    The 'skin' is also an important  indicator of mood where the darker the
+    shade the more intense and serious the individual's feelings.
+
+    Orren  Station  (0623)  was  once  a  Sylean  Scout  Service monitoring
+    station,  which was  established to  survey Verge  and the  edge of the
+    Great Rift. The outpost was attacked in  241 by some of the first aslan
+    ihatei to  enter Gushemege. The aslan  moved on but not  before killing
+    all  those at  the station  and stripping  the site  of everything that
+    could be carried away.
+
+    Mehrai  (Y944000-0)  is  ravaged  by  sandstorms  (with  winds reaching
+    200kph) across  most of the surface  - several vessels are  believed to
+    have been lost when attempting to enter the vicious atmosphere. In 1106
+    an independently-owned  long liner (the  "Barok") on a  trading mission
+    into Verge sector reported maneouvre  drive failure on going into orbit
+    around Mehrai. The ship's orbit began  to decay and the captain ordered
+    the passengers  and crew to abandon  the vessel in the  liner's launch.
+    The captain stayed aboard as the  launch moved off to Hanrii (0125) the
+    satellite of Mehrai. The ship was lost to all sensors as it entered the
+    atmosphere. The poor facilities at the class E starport and the savaged
+    nature of  the planet meant that  anything other than a  cursory search
+    could be undertaken.
+
+    Much of the equatorial zone of  Armec (0527) is covered in native flora
+    in a combined jungle/swamp habitat.  It is believed to potentially hold
+    vast reserves of  petrochemicals and other useful organics.  But as yet
+    no company has yet come up  with the substantial investment required to
+    undertake  the necessary  exploratory  work.  The class-A  starport was
+    built in expectation  of a rush to the world  to plunder its riches but
+    as yet this  influx has failed to materialised. It  is also rumoured to
+    be a safe haven for pirates which prowl the Verge-Gushemege border.
+
+    Name          Hex  UWP       B Remarks      Zone Data   Stellar Data
+
+    Hanrii        0125 E265568-6   Ag Ni             604 Im M4V
+    Egurgadi      0126 A65A200-F   Lo Ni Wa          503 Im K1V
+    Praodelf      0130 AAB687A-A   Fl                600 Im G4V M1V
+    Daze          0222 C776311-B   Lo Ni             700 Im K7II
+    Abalesk       0223 A433541-C N Ni Po             713 Im M0V
+    Stroend       0227 C86A7A9-A   Wa                324 Im M2V
+    Barren        0228 X652000-4   Lo Ni Po Ba   R   200 Im M4V M1D
+    Foussough     0229 D653004-5 S Lo Ni Po          300 Im K0V M5D
+    Estos         0230 A225653-D   Ni Cp             405 Im K2V M6D M1D
+    Fay           0327 A540620-9 N Ni Po             322 Im M0V M7D
+    Manuri        0328 B343462-D   Ni Po             902 Im M8III M8V
+    Somit         0329 X55A300-3   Lo Ni Wa      R   200 Im M6V
+    Rucciset      0422 B514554-B S Ni Ic             412 Im K0V
+    Charlotte     0428 A265301-D N Lo Ni             700 Im K6V
+    Kinurgii      0526 D200200-8   Lo Ni Va          622 Im K3V
+    Armec         0527 A895311-D   Lo Ni             603 Im G3V M7D
+    Prinargh      0529 B584100-E   Lo Ni             310 Im M8V M4D
+    Burle's Point 0523 B662204-B S Lo Ni             902 Im K3V M2D
+    Hartesh       0623 C657586-B   Ag Ni             305 Im M1III
+    Thelkourd     0626 C2607AC-7   De                413 Im K4V M5D
+    Guhnesh       0627 C757231-6   Lo Ni             300 Im M4V M2D
+    Norton        0628 C571400-A   Ni                302 Im K3V M2V M1D
+    Orren Station 0630 B5457A6-C   Ag                924 Im G4V M6D
+    Younis        0722 B110500-C N Ni                904 Im K3V
+    Inapiirn      0723 B542886-C   Po                110 Im G2V
+    Tungohl       0725 B411200-E   Lo Ni Ic          314 Im M3V M4D
+    PARALLEL      0727 E73A976-9   Hi Wa             314 Im M2V M5D
+    Wenton        0728 C33357C-A   Ni Po             500 Im M2III
+    Jousta        0729 B300532-D N Ni Va             422 Im M3V
+    Nonescue      0824 D547326-9 S Lo Ni             205 Im M1V K1D
+    Delaag        0826 B8B0895-B S De                713 Im M3V M5D
+    Loniva        0827 D203212-8 S Lo Ni Va Ic       905 Im M4VI
+    Query         0829 B645441-D   Ni                602 Im K2V
+
+    Highest Population =  9, Parallel (3.56 billion); Highest  tech level =
+    F, Egurgadi; Total Population = 5.24 billion.
+
+
+
+
+
+
+
+

@@ -1,0 +1,33 @@
+@SUB-SECTOR: vilis   SECTOR: spinmar
+#
+# Trade routes within the subsector
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Caloran       0911 C796746-5    Ag Tp              710 Cs
+899-076       0912 E201300-8    Lo Ni Va Ic        520 Cs
+Quare         0915 B200545-9    Ni Va              204 Fa
+Zeta 2        0919 X6B0000-0    Ba De           R  020 Cs
+Arden         1011 C554ACB-8    Hi Cx              110 Fa
+Choleosti     1018 C200100-9    Lo Ni Va           101 Re
+Margesi       1020 C575777-6    Ag              A  110 Re
+Frenzie       1116 A200436-A  N Lo Ni Va Cp        110 Re
+Garda-Vilis   1118 B978968-A  S Hi In Tp O:1119    112 Re
+Vilis         1119 A593A43-A    Hi In              120 Re
+Digitis       1212 E53678A-5                       120 Cs
+Edinina       1213 E400220-5    Lo Ni Va        A  401 Re
+Port Anselm   1214 C955300-8    Lo Ni Tp           210 Re
+Stellatio     1216 D5A4420-4    Fl Lo Ni           210 Re
+Arkadia       1217 E446945-6    Hi In              102 Re
+Tremous Dex   1311 B511411-C    Lo Ni Ic           201 Fa
+Mirriam       1315 E472300-8  N Lo Ni              110 Re
+Saurus        1320 D888588-7    Ag Ni Tp           820 Re
+Rangent       1411 E67A612-7    Ni Wa              703 Cs
+Denotam       1413 B739573-A  N Ni              B  324 Re
+Ficant        1417 E567353-5    Lo Ni              910 Re
+Tionale       1511 C674321-8    Lo Ni Tp        A  210 Re
+Calit         1515 C334967-7    C:1 Hi O:1413      101 Re
+Asgard        1519 X3437C7-2    Po              R  720 Re
+Tavonni       1520 E567000-7    Lo Ni              434 Re     m
+Phlume        1611 C887724-8    Ag Tp              110 Re

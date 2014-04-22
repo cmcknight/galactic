@@ -1,0 +1,42 @@
+
+UWP Strainer v1.0
+Public Domain 1997 Jim Vassilakos
+jimv@empirenet.com
+-----------------------------------------------------------------
+
+The UWP Strainer was written primarily for play-by-email referees
+who want to distribute a sector or individual subsectors to their
+players, but who want to hide some of the UWP stats before doing
+so. Via this program, you can overwrite particular columns of world
+and/or non-world data.
+
+For example, you could create a uwp.dat file in your sector (such
+as included with the gals\classic\beyond sector) which defines the
+question mark (?) to be a legal value for every UWP stat. Then you
+could use this program to "strain" all the usual UWP stats out of
+the subsector data files and replace them all with question marks,
+hence showing your players the positions of the various stars but
+not much else. This is useful for exploration-based campaigns where
+the players-characters are visiting new worlds for the first time.
+You may even want to strain out all the world names by changing
+them all to a single period "." (Galactic will interpret such a
+world as unnamed).
+
+Use the arrow keys to move around. Use any of the alpha-numeric or
+punctuation keys to modify either of the two "null-strings" shown
+in green. An example world and an example non-world, both shown in
+blue, will automatically adjust as you modify these "null-strings",
+showing you the practical effects of your modifications.
+
+When you are finally finished, hit the "insert" key. The program
+will create a "strained" directory under the map directory in the
+sector you are working on, and it will put all the strained
+subsector files there, using the same file names as were used for
+these files in the map directory. If you want these new files to
+take effect, you'll have to manually copy them to the map directory
+(make sure you keep a backup of the old ones somewhere).
+
+If you have any questions, feel free to write...
+
+jimv@empirenet.com
+

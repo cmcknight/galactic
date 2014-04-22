@@ -1,0 +1,178 @@
+# You can modify this file, but make sure you keep to the format.
+# The software is not very robust when it comes to reading this,
+# and it will want everything in exactly the right place.
+
+Starport
+pos=20 00
+X = None
+E = Frontier Quality
+D = Poor
+C = Routine
+B = Good
+A = Excellent
+
+Size
+pos=21 00
+R = Asteroid/Planetoid Ring
+S = Small (200-800 km)
+0 = Asteroid Belt
+1 = Small (800-2400 km)
+2 = Small (2400-4000 km)
+3 = Small (4000-5600 km)
+4 = Small (5600-7200 km)
+5 = Medium (7200-8800 km)
+6 = Medium (8800-10400 km)
+7 = Medium (10400-12000 km)
+8 = Large (12000-13600 km)
+9 = Large (13600-15200 km)
+A = Large (15200-16800 km)
+
+Atmosphere
+pos=22 00
+0 = None
+1 = Trace
+2 = Very thin, tainted
+3 = Very thin
+4 = Thin, tainted
+5 = Thin
+6 = Standard
+7 = Standard, tainted
+8 = Dense
+9 = Dense, tainted
+A = Exotic
+B = Corrosive
+C = Insidious
+D = Dense, high
+E = Ellipsoid
+F = Thin, low
+
+Hydrographics
+pos=23 23
+0 = No liquid water
+1-9 = ?0% water
+A = Water world
+
+Population
+pos=24 52
+0 = ?
+1 = ?0
+2 = ?00
+3 = ?,000
+4 = ?0,000
+5 = ?00,000
+6 = ? million
+7 = ?0 million
+8 = ?00 million
+9 = ? billion
+A = ?0 billion
+
+Govt
+pos=25 00
+0 = No government
+1 = Company/Corporation
+2 = Participating Democracy
+3 = Self-Perpetuating Oligarchy
+4 = Representative Democracy
+5 = Feudal Technocracy
+6 = Captive Government
+7 = Balkanization
+8 = Civil Service Bureaucracy
+9 = Impersonal Bureaucracy
+A = Charismatic Dictatorship
+B = Non-Charismatic Dictatorship
+C = Charismatic Oligarchy
+D = Religious Oligarchy
+E = Religious Autocracy
+F = Totalitarian Oligarchy
+
+Law Level
+pos=26 00
+0 = No Prohibitions
+1-3 = Low
+4-7 = Moderate
+8-9 = High
+A-D = Extreme
+E-G = Police State
+H-P = Slave State
+
+Technology
+pos=28 00
+0 = None/Primitive
+1-3 = Pre-Industrial
+4-5 = Industrial
+6-8 = Pre-Stellar
+9-A = Early Stellar
+B-D = Average Stellar
+E-G = High Stellar
+H-P = Extreme Stellar
+
+Life
+pos=59 00
+0 = Sterile
+1 = Proto-cellular
+2 = Single-cellular
+3 = Multi-cellular
+4 = Complex microscopic
+5 = Macroscopic
+6 = Primitive ecosystem
+7 = Teaming ecosystem
+8 = Proto-sentient
+9 = Sentient
+A = Non-spacefaring
+B = Early Spacefaring
+C = Cataclysm
+D = Green Hell
+
+Resource
+pos=60 00
+0 = Barren
+1-4 = Poor
+5-8 = Moderate
+9-C = Rich
+D-F = Extreme
+
+Export
+pos=61 00
+0 = None
+1 = Textiles
+2 = Wood Products
+3 = Livestock
+4 = Agro-Consumables
+5 = Pharmaceuticals
+6 = Petrochemicals
+7 = Biologicals
+A = Antimatter
+B = Bio-engineering
+C = Computers
+D = Industrial Crystals
+E = Electronics
+F = Farm Machinery
+G = Gemstones
+H = Heavy Metals
+I = Industrial Machinery
+J = Synthetic Fabric
+K = Synthetic Foods
+L = Industrial Chemicals
+M = Rare Minerals
+N = Weaponry/Armor
+O = Radioactives
+P = Polymers
+Q = Cybernetics
+R = Robots
+S = Starships
+T = Tools
+U = Underwater Equipment
+V = Vehicles/Gravitics
+W = Banking/Insurance
+X = Entertainment
+Y = Art/Publishing/News
+Z = Information/Research
+
+Planetoid Belts
+pos=53 53
+0-9 = ?
+
+Gas Giants
+pos=54 54
+0-9 = ?
+

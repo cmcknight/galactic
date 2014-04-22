@@ -1,0 +1,11 @@
+
+Rhylanor (Rhylanor:  Spinward Marches/2716)
+A434A34-F  A       Hi Cp   110 RE M2 V
+G=0.28, Day=1d 3:26:42.72, Year = 46d 17:16:47.71
+Atmo=0.16, Controlled Weather
+Temp= +21.3 (5/lat +15 to -35) (season +28.8 to -48.0, 48 deg lat)
+Daily temp range 120.56
+Ores; Metals; Durables, Consumables; Recordings, Software
+Conservative/Advancing, Unaggressive/Neutral, Harmonious/Aloof
+Legal:  4-07540     Tech  FE-FGFFE-FDFG-FE-F
+

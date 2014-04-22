@@ -1,0 +1,480 @@
+
+Phoebus  D267337-3
+
+        Size: Small: D=3D2400km               Atmosphere: Standard
+        Hydrographics: 70%                    Population: 8000
+        Government: Oligarchy                 Law Level: Low
+        Tech Level: 3 (Circa 1800)            Star port: Poor
+
+Physical Information
+   
+Durga
+   Agriculture on Phoebus is revolves around the Durga, a large lizard
+looking beast.  The Durga is actually warm blooded, but its tough leathery
+hide and long tail, make it look more like a Terran lizard than anything
+else.  The durga is a marsupial, nursing its young in a pouch on the
+underside of the female.  The durgas are omnivores they will scour the
+landscape, eating anything and everything in their path.  The residents
+have to be very careful what they leave near a durga, because the durga
+will try to eat anything. Many a tourist have lost their holovid bags,
+while filming a durga herd.
+
+   The Durga is a large, omnivore, marsupial creature native to Phoebus's
+highlands.  There are two distinct subspecies, the larger mountain variety
+and the smaller hill Durga.  The Durga is constantly eating and it will
+eat anything in its path, from bushes to carrion.  The  Durga has large
+nasal cavities that connects with its throat; this allows the Durga to
+make loud bellowing noises.  The durga herds use these sounds to
+communicate across the mountains.  The communication is fairly primitive,
+used mainly to let other herds know that a competitor is in the region, so
+that the two herds can avoid each other.  The herds avoid each other in
+order not to overgraze their territory.  A herd in the wild is made up of
+an equal number of male and female durgas.  Durgas mate in the early
+spring, the pregnancy lasts six months, and the young is born in early
+summer. Durgas never have multiple births.  The young is about the size of
+large piglet, and is stored in a pouch on the mother's underside. 
+
+   The skin of a Durga is a matte black, except for a brightly colored
+streak that runs from the tip of the tail, along the spine, to the brow 
+where it branches out to cover the entire head.  The colors are quite
+varied, the most common colors are yellows and greens, but blues and reds
+are not unheard of.  Each beast weighs about 2 metric tons, is about 3
+meters long, and 1 meter high.  They are fairly slow and very stupid. 
+
+
+
+Omnivore, Eater
+     Weight:     2000kg      Weapon:     Teeth & Claws
+     Hits:       6d20        To Hit:     9
+     Initiative: 3           Damage/Pen: 2d6/1
+     Armor:      1           Range:      Long
+ 
+History
+   Fuetz, as Pheobus was originally called, was rediscovered in 200.
+During the early part of her existence, Fuetz was nothing more than a
+mining colony from Vras (Aubaine) where many prospectors spent their lives
+trying to "strike it rich" on the planet.  Then in 1036, an independent
+miner discovered a mother load of Iridium.  The miner's name was Elan
+Diego. Fuetz's capital and only city is named for him.
+
+   When word of Elan's discovery got out, Fuetz developed almost
+overnight.  Many businesses moved in to try to get in on the profits.
+Within months, Fuetz was one of the quickest growing worlds in the Old
+Expanses.  Many entrepreneurs moved into the city looking to earn a quick
+credit from the miners who lived in the city.  Bars and brothels were
+slung up on every corner to fulfill the needs of the miners on Fuetz.
+Fuetz was truly a boomtown planet.
+
+   Then in 1101, the mine played out.  Many of the prospectors worked the
+area to try to find more of the precious metal, but no one was successful.
+The situation on Fuetz quickly degenerated, and eventually the subsector
+duke was called upon to institute martial law.  The population on Feutz
+dropped a little, but most of the people there were simple, poor miners,
+prostitutes, and bar tenders without enough credits to get offplanet.
+
+   During the following years, Feutz stabilized under martial law and
+eventually the Subsector Duke removed the martial law, but left his
+representative, Braylan Garett, there to "keep an eye on things."  It was
+the wisdom and guidance of Braylan Garett that kept the population of
+Feutz from extinction during the Final War and Collapse.
+
+   In 1131, Virus reached Feutz.  Many of the populace were killed almost
+immediately when the gravity generators that helped hold up mine shafts
+shut themselves off.  Those who were not killed immediately were left to
+fight for survival on the near barren world.
+
+   Braylan Garett was quick to react.  He appointed himself as Lord
+Regent, divided the land into manors, and set up the most influential and
+powerful people as citizens and manor directors.  Most of the citizens
+were assigned the task of providing food, either from growing plants, or
+durga herding.
+
+   Fuetz was not unharmed by Virus, but through careful planning and quick
+reaction, some were able to survive.  Shortly after Feutz was recontacted
+by the Reformation Coalition, the RC offered Fuetz membership, and they
+accepted.  Feutz changed its name, like many other worlds.  The new name,
+Pheobus, symbolizes the hope that the RC brings. 
+
+Economy
+   A large part of Phoeban agriculuture is centered around the Duraga.
+They are primarily used for meat, but almost all of the carcass is used
+for something. Farmers are able to get significant amounts of milk from
+female durgas.  Not as much as from Terran cattle, but the farmers are
+able to make cheese and other dairy products from it.  The Phoebans make
+an alcoholic drink named drakva from the fermented blood of young durgas.
+So far they have not found much of an export market for this drink, but
+they are still trying.
+
+   Almost all clothing on the planet is make from durga hide.   There are
+several reasons for this.  The durga hide makes very sturdy clothing
+providing warmth and protection from the elements and at the same time is
+very resistant to wear. Also there are not large quantities of plants to
+extract comfortable cloth from.   The soil is rocky and shallow and
+Phoeban agriculture  desperately lacks enough of the equipment needed to
+effectively till the  soil. Even the native plants have a hard time
+growing.  What plant that does grow is fairly hostile to human life.  It
+has a quite different biochemistry and very little of it is edible.  The
+Phoebans have found a small tuber, bleckban, and a weedy grain, kalea,
+that are  edible to humans; however, these plants are difficult to grow
+domestically and scarce in the wild.
+
+   Phoeban agriculture is very scattered. There are many small gardens in
+the city, which are tended by the unemployed. They careful tend these
+plots, fertilizing the soil, with treated human waste and anything else
+that would help supply needed nutrients. There are farms outside the city.
+These mainly raise durgas.  Durga ranching is effective but slow because
+the lack of adequate riding animals on Phoebus.  Phoeban "Lizardboys" have
+to either ride the  lethargic animals themselves or walk.  This limits
+herd size and makes  cross country durga drives very difficult. A small
+number of horses do exist but they  are difficult to feed on the scarce
+grains available.
+
+   There is not enough durga breeding stock or farming equipment to allow
+an expansion of farming under the manor system.  The Phoeban citizens are
+also unwilling to give up their control over the land.  Their response is
+to provide a bare subsistence ration to the urban jobless.  The RC is
+trying to persuade the citizens to undertake land-reform, but it is slow
+going.  The Citizen's contend that what they need is not more  TL-0
+agriculture but more TL-3 or even 4 agriculture.  Further, they believe
+the RC  should focus on developing Phoeban industry to the point that the
+manors  will have enough equipment to bring all of their land under
+cultivation.
+
+  In the meantime, RC is trying to encourage a practice of the urban poor
+that has existed since the collapse.  Areas of the old city are cleared of
+rubble, to reclaim the few TL-12 materials that Phoeban industry is
+capable of re-using.  The work is mostly done by the poor who sell it for
+a tiny amount.  As areas are cleared, the local inhabitants plant urban
+gardens to supplement the bland lizard broth and cheese they receive from
+the Citizens. It is all TL-0/1 agriculture, but the RC hopes that if more
+people could be moved out of the city, they might be able to produce
+enough to support themselves.
+
+   The RC has launched a bootstrap mission to Phoebus. The mission has
+started a small school in the city to educate the Phoeban children.  The 
+mission is also involved in helping educate the farmers in better
+agriculture techniques.  The Hivers of Seabridge Nest on Ra have recently
+introduced a few new plant varieties that should grow in the poor soil.
+This is the first year of crops for the new strains, so the success of the
+project is not yet known.
+ 
+   Overall the mission has been slow to yield results. Some of the
+problems stem from the stubbornness of the Lord Regent, Delvin Garett.  It
+seems that Garett is unwilling to ask for help from the Aubaine Relief
+Teams on the  planet for fear that he will show his dependence on Aubaine.
+While the Lord Regent has been assured that this will not be the case, he
+still holds this opinion.  Lord Regent Garett has however allowed Aubaine
+teams to help his people in lifting the tech level of the planet.
+
+   The bootstrap mission is made up of personnel from Aubaine, and Helios.
+The Helios personnel are able to bring a unique perspective to the work.
+They come from a planet that has a technological level only a bit above
+that of Phoebus.  While the Aubani can be arrogant about their
+technological superiority, the Heliosians are very humble and glad to help
+their fellow reformers.  This helps ease the tensions that might arise
+between the Centrist Phoebans and the personnel from the two Federalist
+worlds. 
+
+   Most outside observers feel that the Phoebans live fairly miserable
+lives, but the Phoebans have grown used to their lifestyle, and have
+developed a society wide contentment.   This is starting to change, as the
+people see what the rest of the RC is like.  The people are starting to
+put pressure on the Council of Citizens to  increase the quality of the
+life on Phoebus. The non-citizens want some of the technological devices
+that they see offworlders using.
+
+   The Council of Citizens does not have any excess money, to buy
+expensive off world luxury items.  They realize that if the non-citizens
+want off world goods, that the non-citizens will have to work more. Most
+non-citizens are used to not working, and are loath to change this.  The
+Council has started to pressure the RC to give them  more assistance. The
+Council is upset that many resources are being spent on planets in the
+Wilds that are already better off than Phoebus.  The RC is willing to help
+but wants the Council to institute some reforms.  The Council, however, is
+unwilling to start changing the very foundations of their civilization,
+and many of the RC advisors are becoming increasingly frustrated by the
+Council's stubbornness.
+
+Culture
+   Elan Diego is the capital of the planet; about five thousand people
+make it their home.  It surrounds the destroyed remnant of the
+pre-Collapse starport. The Royal Aircraft Company has created a new
+starport, little more than  a bare patch of dirt, it does possess a well
+and pumping station to provide unrefined fuel to visiting starships.  The
+company also runs balloon and  dirigible flights across the planet.  The
+dirigibles are steam powered and quite distinctive.  To the few tourists
+who come to the world, they are quaint  retrotech vehicles; to the natives
+they are the most advanced means of getting from here to there.  About
+two-thirds of the planetary population lives in Elan Diego, the rest are
+mainly farmers in the surrounding territory.
+
+   There are about 3000 "under-employed" in the city of Elan Diego. The 
+prime occupations are gardening and salvaging materials from the city
+ruins with primitive home-made hand tools.  This accounts for about 90% of
+Phoebus's material input but only a tiny fraction of its agricultural
+output.  The rest of the materials input comes from a few very small mines
+and some timber cutting just outside the city, which are run
+professionally. 
+
+   The Phoebans are out of arable land around the city.  All of the
+coastal and mountain areas are being cultivated or used for durga farms
+and the intervening hill and canyon country is too rugged to be worth
+farming.  The mountains could be more intensively cultivated by adding
+laborers, but this is the only area for agricultural expansion since all
+the land is already being used. 
+
+   Even working every available acre of the country-side as well as all
+the free patches of ground in the city, the Phoeban laborers do not eat
+well. Their diet consists principally of the bland native tubers, rough
+grains grown in the coastal flatlands, and durga-milk cheese made in the
+mountains. Most often the cheese is made into a thin  curd-type food, to
+minimize the effort in producing it, and  to make it more filling than
+solid cheese. Feeding the population with dairy products becomes very
+difficult in the summer when  high temperatures increase the risk of
+spoilage during transport.   These staple foods are supplemented with
+small amounts of durga meat, fresh during the autumn slaughter and dried
+or salted the  rest of the year.  The Citizens eat somewhat better, with
+fresh milk from their private animals, a wider array of vegetables from
+their gardens,  and more meat.  The staples of their diet, however, remain
+the same as the laborers.
+
+	More laborers are not used to increase output in the mountain durga
+pastures because of the lack of adequate housing.  The harsh winter and
+summer weather of Phoebus make proper housing a life-and-death issue.
+Workers are imported from the city during the spring birthing season and
+the autumn slaughter of adolescent males.  (Males do not give milk, and
+only a few are needed for breeding so the rest are slaughtered fairly
+young before the meat becomes inedibly tough.)  The temporary workers
+endure miserable conditions in tents, but are needed to get the work done. 
+
+	Housing is one of the planet's biggest problems.  Since the Collapse, 
+the population has been living in the remaining buildings in the city.
+Even with the massive population drop since the Collapse, the devastation
+from that period and the intervening years of decay have left very few
+habitable buildings. There simply are not enough Phoeban construction
+crews to maintain all of the old city's buildings.  The housing situation
+in the capital has stabilized around the communal living buildings, with
+the scant excess resources being devoted to building more permanent
+housing in the mountains.  This currently amounts to housing for only one
+additional worker per month.
+
+	As pressing as the housing problem is, the Council of Citizens  has
+determined that the best solution to Phoebus' problems is to develop the
+planet's industrial base, even if that means not being able to improve the
+housing situation in the short-term.  The disgruntled among the  Phoeban
+laborers complain that this is because the Citizens all live in their own
+homes, but most laborers trust the plans of the Citizens.  They feel that
+the Citizens have succeeded in keeping them feed and housed so far, and
+they are willing to trust them for the future.  In  practice, this means
+that the Citizen farmers are providing food for the  Citizen
+industrialists' workers and miners with the promise of later  repayment in
+industrial goods and housing.  The goal is to reach the point that such a
+settlement could be equipped.  With  continual industrial reinvestment and
+help from the RC, this should be  possible in less than a decade.
+
+Blacksmith's Daughter
+   The Blacksmith's Daughter is one the finest restaurant on Phoebus. This
+ranking is helped somewhat by the fact that there are only two restaurants
+on Phoebus and the other, the Taproom, is a low class dive.  The
+Blacksmith's Daughter mainly caters to the few offworlders who come to
+Phoebus.  Phoebus is becoming a crossroads of the Coalition, but most of
+these ships refuel at the gas giant and proceed on their way.
+Occasionally, however, a ship  does have to land for supplies, or for an
+emergency.
+
+   The Daughter serves a variety of native foods.  The chef, Tona Flenta
+has created several unique ways of preparing durga which are quite tasty.
+The restaurant has a sizable garden and it grows many offworld fruits and
+vegetables.  Local hunters provide several different types of fresh game
+that Flenta prepares. 
+
+   The Daughter is a large prewar mansion of that survived the Collapse 
+in remarkable shape. The dining room continues to serve as the dining room
+of the restaurant, and several other downstairs rooms are available as
+private dining rooms.  The upstairs has been turned into an inn.  The
+Blacksmith's Daughter has 20 rooms for rent.  Power is supplied by a small
+water wheel that turns a generator.  This supplies enough power to light
+electric light bulbs, which must be imported from off world. Rooms cost
+about 50Cr for a single, and 75Cr for a double.  Meals run about 35Cr.
+
+   The Daughter is owned and operated by Hsing Hsu Jones. For those 
+guests who want to see a bit more of the planet, Jones organizes hiking
+and hunting trips to the Irontooth mountains, as well as the occasional
+deep-sea fishing trip.  Many visiting ship's crewmen have been able to
+boast of  catching a razorfin.  Jones has also found that during 
+the winter the Ironfoot Mountains offer some very good skiing.  He tries
+to organize a ski trip once every 30 days during the winter.  He would
+like to buy a small chairlift from offworld and build a small ski lodge,
+but he does not have enough money right now, so he is looking for an
+offworld investor. 
+
+
+Society
+   Society on Phoebus is divided along class lines. About ten percent of
+the populace are Citizens, and thus members of the Council of Citizens.
+Citizenship is based on heredity, but both parents must be citizens for
+the distinction to pass to their children.  Citizens usually strongly
+discourage their children from marrying non-citizens for this reason.  The
+Council can vote on a simple majority to grant citizenship to a
+non-citizen. This is usually only done when the non-citizen performs a
+significant service to the planet or the Council.  The rest of the
+population either works on the manors that the Citizens run, or are
+unemployed and live in the ruins of the city. 
+
+   The Citizens rule the planet, with little input from the masses. This
+is not to say that the non-citizens are slaves of the Citizens.  The
+Citizens feel a genuine obligation to the masses.  They are raised from
+birth to recognize their duty to care and provide for the non-citizens.
+It is because of this sense of obligation that the Council of Citizens
+organizes the distribution of food to the unemployed urban dwellers.  They
+organize kitchens that provide durga stew and durga curd cheese to the
+unemployed. They do not just feed the unemployed; they also fund the
+construction of public works to entertain the non-citizens.   The most
+impressive is the massive public bath facility in downtown Elan Diego.  It
+is made of freshly quarried marble, and decorated with relief carvings of
+the history of the planet.  The baths can hold almost five hundred people
+at once.  It is a favorite gathering place to relax, and whittle away the
+day.  The baths took over twenty years to construct and are the pride of
+all Phoebans.  Offworld cynics  claim that the Citizens offer these tokens
+to keep the masses from uprising, and that the only reason they created a
+public bath, is because they were sick of smelling the unwashed masses. 
+
+   The Citizens also produce plays that are performed roughly every ten
+days. The plays often have a political moral, that promotes the status
+quo. Since the resumption of interstellar contact, the Council of Citizens
+has occasionally hired offworlder play companies to tour the area. Since
+Phoebus does not have a great deal of surplus funds, the off world acts
+they do manage to get are often second rate, but the non-citizens do not
+mind, just the chance to see offworlders is exciting.  Acts featuring
+exotic animals are very popular. 
+
+   The Council of Citizens is lead by the Lord Regent who is holding the
+planet while the subsector duke is unavailable.  Unfortunately the
+subsector duke and the entire feudal system was destroyed in the Collapse,
+but the people on Phoebus, have not bothered to change their government to
+suit the present. The Council holds monthly meetings at which they vote on
+issues brought to their attention by the Lord Regent.  Lord Delvin Garrett
+is the ruling lord regent; he lives in Stonecurtain Keep.  It is not the
+primitive building that it sounds like, but rather an impressive a
+pre-collapse mansion.
+
+   Citizens live in large manor houses, while employed non-citizens live
+in large communal housing near the manor.  The more unfortunate unemployed
+live in shanties constructed of materials salvaged from the remains of the
+city. The large communal housing  was originally pre-collapse warehouses.
+Few other antebellum buildings survived the collapse.  The warehouses have
+been subdivided into smaller compartments with makeshift partitions, and
+crude walls.  Privacy is very rare in the communal houses.  This is not to
+say life is miserable, the non-citizens have adapted to the lack of
+privacy, and have formed large pseudo families.  All adults in a given
+building share in the upbringing of the children, and there is always
+someone to talk to, or lend a helping hand. Some outsiders have suggested
+that given a few hundred years the non citizens would have degenerated
+into a primitive tribal society.
+
+   Life in the Manor houses is much more what outsiders find to be normal.
+Each Manor is occupied by an individual family, each focusing on an
+industry.  Most Manors are involved in agriculture, but some are involved
+with light manufacturing, such as wagon making, woodworking, etc. The
+citizens organize the non-citizens into work details, and in general are
+the bosses.
+
+   While it appears on the surface that the Citizens live a life of
+leisure while the non-citizens toil away, in actuality the citizens do not
+live that much better than the non-citizens.  They do live in private
+dwellings, get more flavorful food, and are able to afford cloth garments,
+but there simply is not enough surplus capital to provide large amounts of
+luxury goods.  The Citizens also work much harder than the non-citizens.
+The non-citizens are content with the arrangement, and resent offworlders
+telling them that they should change things.
+
+Politics
+   Phoebus is the most conservative world in the Coalition.  The Council
+of Citizens believes that most of the resources of the RC, should be
+focused on developing its member states, rather than rushing off into the
+Wilds.
+
+   Phoebus maintains a small military force of about 300 soldiers. Most of
+the soldiers are armed with polearms and muskets.  The Army has two
+platoons of durga cavalry. The durga are not very quick, and they are slow
+to accelerate, but once they get moving, they are hard to stop.  The
+durgas are also trained to put its cavernous maw to good use. Like every
+other Coalition world, Phoebus makes some contribution to the RC military,
+in their case they have sent a contingent of military cooks.  They are
+currently serving at the Marine training grounds on Aubaine.
+
+    Since there are no enemy nations to fight against, the Phoeban
+military primarily serves to protect the planet against raiders from the
+stars. At least that is what they claim, but in reality, they would be
+hard pressed to fight against a high tech oponent, but no such opponent
+has ever attacked and with the formation of the Coalition, it is unlikely
+one ever will. The military does keep busy, acting as a search and rescue
+force, scouting out the territory and marking potential hazards such as
+landslides, avalanche zones, etc. They also act as the planets police
+force, arresting  lawbreakers and usually sentencing them to hard labor.
+There isn't much crime, as there  isn't much worth stealing, most crimes
+are crimes of passion, and hardly ever result in death.  
+
+     The durga calvary plattons are the elite units of the Phoeban
+military. The troops are chosen from the children of citizens. The
+platoons were  created in 1135, soon after the collapse.  While the units
+have never seen combat, they continue to train.  They train their mounts
+to ride in precision formations, and often put on shows in Elan Diego for
+the Workers. Historically the troopers have been equipped with muskets,
+lances, and sabres.  The government has recently purchased several cases
+of the RC 7mm ACR (pg 60 RCEG) from Oriflamme.  The troopers still train
+with their muskets; the Citizens do want a back up in case supplies from
+Oriflamme are cut off, for what ever reasons.  The units have also had
+offers to travel to other worlds of the Coalition, to perform.  The
+Reformation Coalition Service Bueracracy likes the idea, as it will
+increase cultural awareness between the worlds of the RC. In addition it
+will bring in some hard currency to the planet allowing them to purchase
+offworld products.  Another reason is that it will allow the troops to
+experience advanced technology. This will help the planet develop in the
+long run, as more and more people see the benifits of technological
+development, they will want to make the neccesary sacrifices to achieve
+it.  Or so the ivory tower bueracrats think, time will tell.
+
+
+Phoebus				     
+ Soil Contaminant	     Local Dominant, -1 Ag Richness
+ Stellar Mass:1.7 		 Orbital Dist:2.8 au
+ Orbital Period:2.6years Rotation Period: 21hrs
+ Eccentricity:0.0
+ Density:High	         Gravity:.5
+
+Extended System
+Orbit      Name           UPP	    Satelite Orbit     Satellite UPP
+Primary   Gregor 412 A   F1 V
+  1       Raffel         X-354000-0
+  2       Burton         SGG
+             Lemke                       300             X101000-0    
+  3       Mentor         X-441000-0
+             Tianti                       50             X-S0000-0  
+             Aeron                        60             X-S0000-0                                                                                                                                                
+  4       Hrothgar       LGG
+             Clenof                         6            X200000-0
+             Orange                         7            X400000-0
+             Blodder                        8            X450000-0
+             Firestone                     10            X100000-0
+             Seran                         11            X300000-0
+             Constainte                    12            X230000-0
+             Stormy                        13            X79A0000-0
+             Baldwin                       25            X410000-0
+  5 	  Collinder      LGG
+             Duncan                         3            XS00000-0
+             Clem                          12            X400000-0
+             Phoebus                       13            D267337-3
+             Dirk                          25            X7B5000-0
+  6        Grinch         LGG                                    
+             Reggie                         7            X742000-0
+             Glory                          8            X300000-0
+             Sleof                         10            X610000-0
+             Diane                         55            X520000-0
+ 150 AU   Gregor 412 B   M7 V
+
+by 
+Lewis Roberts
+John Muir Macphearson
+Paul Walker
+Rich Osterero

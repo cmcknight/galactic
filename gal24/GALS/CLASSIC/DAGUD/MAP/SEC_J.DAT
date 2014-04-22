@@ -1,0 +1,45 @@
+@SUB-SECTOR: sec_J   SECTOR: dagudash.sec
+#
+# Trade routes within the subsector
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Wilderness    0921 B340766-C  N Po De              201 Im
+D'Artur       0924 AAE7443-F  N Ni Fl              420 Im
+Kirusis       0926 D533355-8  S Lo Ni Po           523 Im
+Perkurshir    0927 B466402-F  N Ni                 703 Im
+Iushush       0928 D7B0410-5  S Ni De              420 Im
+Lemimamur     0930 D8B4210-7  S Lo Ni Fl           321 Im
+Muruk         1021 D651566-4  S Ni Po              721 Im
+Kulisaan      1023 B324435-A    Ni                 213 Im
+Reshumirak    1025 C400534-9    Ni Va              103 Im
+Darzii        1026 C674444-A    Ni                 200 Im
+Giarkhesa     1027 C342366-9    Lo Ni Po           210 Im
+Liikiir       1029 A664695-D  N Ag Ni Ri           602 Im
+Naruppesh     1121 A688556-D    Ag Ni              203 Im
+Arlim Dusiru  1124 B252556-B  N Ni Po              600 Im
+Madingik      1126 A488366-E  N C3 Lo Ni           903 Im
+Akigir        1129 B664747-C  S Ag Ri              405 Im
+Ispumer       1222 C3349BA-D    Hi                 813 Im
+Nurashiu      1223 C100344-B  S Lo Ni Va           704 Im
+Nuaam Igzur   1227 B541722-A  S Po                 400 Im
+Darusush      1228 C42679B-8                       505 Im
+Shankida      1321 C452997-B    Hi Po              632 Im
+Khiishpur     1323 D8A5610-4    Ni Fl              601 Im
+Ipkur         1325 C464543-C    Ag Ni              305 Im
+Ursushur      1422 C363444-9  S Ni                 104 Im
+Omegindus     1424 C587757-7    Ag Ri              713 Im
+Station Three 1428 C735020-B  S Lo Ni              425 Im
+Gesrakur      1430 BAAA203-D  N Lo Ni Fl Wa        914 Im
+Ussine        1523 DA5A354-6  S Lo Ni Wa           705 Im
+parendis      1525 A639386-C    Lo Ni              903 Im
+Lansen        1526 C565330-7    Lo Ni              503 Im
+Calobrur      1528 B160488-E  N Ni De              110 Im
+Iilenkhis     1529 B551343-A    Lo Ni Po        A  703 Im
+Cr'cpuc       1530 C464455-C    Ni                 700 Im
+Apemkir       1622 C8AA456-A    Ni Fl Wa           700 Im
+Zukalis       1625 C321798-C    Na Po              503 Im
+Beleperan     1626 C788676-8  S Ag Ni Ri           805 Im
+Kuuranse      1629 C5348AA-7                       204 Im
+Haven's Gate  1630 C548200-B  S Lo Ni              614 Im

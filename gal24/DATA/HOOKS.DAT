@@ -1,0 +1,73 @@
+# Galactic Hooks
+#
+# Modify this file to tie your own programs into to Galactic,
+# thereby developing your own commands. For help, contact
+# jimv@empirenet.com
+#
+# Valid Variables:
+# <reader>         Name or Path of Text Reader (ex: less)
+# <editor>         Name of Path of Editor (ex: vi)
+# <galdir>         Galaxy Directory (ex: gals\classic)
+# <secdir>         Sector Directory (ex: gals\classic\spinmar)
+# <seclist>        Sector List (ex: gals\classic\classic.lst)
+# <secfilepath>    Sector File Path (ex: gals\classic\spinmar\spinmar.dat)
+# <subfilepath>    Subsector File Path (ex: gals\classic\spinmar\map\mora.dat)
+# <sublet>         Subsector Letter (ex: A)
+# <coord>          Hex Coordinate (ex: 0101)
+#
+# Format:
+#        1         2         3         4         5         6         7
+#234567890123456789012345678901234567890123456789012345678901234567890
+#Rem     E AC Command                                      Spec Rem
+#
+# Rem     = Remark
+# E       = "E" if extended ascii set, "-" otherwise
+# AC      = Ascii Code
+# Command = Command to DOS (variables may be included)
+# Special = E: Run egacolor (Gold on Blue) before issuing command
+#           U: reload uwp.dat after issuing command
+#           P: reload positional info after issuing command
+#           1: current cell must be occupied or command is ignored
+#           0: current cell must not be occupied or command is ignored
+
+Galaxy Map:
+#Rem     E AC Command                                      Spec
+?        - 63 <reader> help\gal-cmd.txt                    E    
+<        - 60 <editor> <seclist>                           E    
+F1       E 59 xtra\eg <galdir>\gen\galaxy.mnu <reader>          
+F2       E 60 xtra\eg <galdir>\gen\galaxy.mnu <editor>          
+F3       E 61 xtra\eg <secdir>\gen\sector.mnu <reader>     1    
+F4       E 62 xtra\eg <secdir>\gen\sector.mnu <editor>     1    
+F5       E 63 sub\secmnu <seclist>                              
+F        - 70 sub\findwrld <galdir>                              
+G        - 71 sub\gmap <galdir>                            P     
+M        - 77 sub\secmap <secdir>                          P1    
+
+Text Sector Map:
+#Rem     E AC Command                                      Spec
+<        - 60 <editor> <secfilepath>                       E    
+>        - 62 <editor> <subfilepath>                       E    
+?        - 63 <reader> help\sec-cmd.txt                    E    
+F        - 70 sub\flat <secdir>                                     
+G        - 71 sub\gmap <galdir>                            P     
+M        - 77 sub\secmap <secdir>                          P    
+U        - 85 <editor> <galdir>\uwp.dat                    EU   
+F1       E 59 xtra\eg <secdir>\gen\sector.mnu <reader>          
+F2       E 60 xtra\eg <secdir>\gen\sector.mnu <editor>          
+F5       E 63 sub\strain <secdir>\ *                               
+F7       E 65 xtra\eg <galdir>\gen\galaxy.mnu <reader>          
+
+Subsector Map:
+#Rem     E AC Command                                      Spec 
+<        - 60 <editor> <subfilepath>                       E    
+?        - 63 <reader> help\sub-cmd.txt                    E    
+E        - 69 <reader> help\extend.txt                     E    
+G        - 71 sub\gmap <galdir>                                 
+M        - 77 sub\secmap <secdir>                          P    
+T        - 84 <reader> help\trade.txt                      E    
+F3       E 61 sub\uwpedit <subfilepath> <coord>            1    
+F5       E 63 sub\strain <secdir>\ <sublet>                         
+F7       E 65 xtra\eg <secdir>\gen\sector.mnu <reader>     E    
+F10      E 68 sub\sub2bmp <subfilepath>                             
+Ins      E 82 sub\insdel (ins) <coord> <subfilepath>       0    
+

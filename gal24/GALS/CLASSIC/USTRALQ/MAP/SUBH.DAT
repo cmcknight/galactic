@@ -1,0 +1,37 @@
+@SUB-SECTOR: Iselle SECTOR: Ustral Quadrant
+#
+$2611 2811 0 0 12
+$2811 3112 0 0 12
+$3112 2914 0 0 12
+$2914 2915 0 0 12
+$2915 2916 0 0 12
+$2916 2719 0 0 12
+$2719 2619 0 0 12
+$2811 2909 0 -1 12
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+HOLLIE        2611 B586978-B  J Hi                 201 So     f
+Iselle        2617 A476756-C    Ag                 804 So     
+BOWLES        2619 B7B49A6-B  J Fl Hi              525 So     
+Gurnek        2713 B726667-5  M Ni O:(2611)        103 So     
+Poul          2714 C4687B8-8  M Ag                 220 So     
+Hamiss        2717 A657454-C    Lo Ni              704 So 
+Cermara       2719 A5468C9-9    C4                 700 So     
+Tikai         2811 C624462-6    Lo Ni O:(2611)     705 So 
+Le-tsu        2816 C656542-3  M Ag Ni              821 So 
+Erice         2819 C3437AB-6  M Po                 323 So     f
+Ullsom        2820 E300634-6    Na Ni Va           613 So 
+MOLLISON      2914 B5779A8-7    Hi In              803 So     
+Joelii        2915 A328541-E  J Ni                 313 So     f
+PLISKA        2916 C233A65-D  M Hi Na Po O:(2915   322 So
+Izir          2917 D989567-6    Ni O:(2915)        304 So     f
+Umak          2920 D345766-2    Ag O:(2819)        320 So     
+Welcin        3112 A425642-B    Ni                 405 So     f
+Sorenson      3117 C997798-5    Ag                 515 So     f
+Lyttin        3211 C658410-7    Lo Ni              503 So 
+Bonher        3213 X89566A-0    Ag Ni O:(3112)  R  204 So     
+Grammle       3214 B357432-9  M Lo Ni              204 So   
+Wabaska       3215 B5A0522-A    De Ni              204 So  
+Euase         3217 D63866A-5    Ni O:(3117)        825 So     
+Cavallo       3220 B000120-D  M As Lo Ni           301 So 

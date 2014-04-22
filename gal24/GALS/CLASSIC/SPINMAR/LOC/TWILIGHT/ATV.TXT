@@ -1,0 +1,32 @@
+   
+  ATV Details
+  -----------
+   
+   The ATV with extended range fuel bladder has a total of 600 energy
+   points, these are augmented by the on board solar cells. The ATV
+   energy consumption per hour is:
+
+Terrain    Movement    Life Support    Total
+Plain         1            1            2
+Rough         1            1            2
+Mountain      2            1            3
+   
+   Then there is an additional life support cost based upon the
+   temperature zone. Also based upon the zone, is the amount of energy
+   the solar panels are capable of providing. Again these values are per
+   hour and it should be remembered that the solar power generation
+   cannot recharge the fuel supply, it can only be used to offset fuel
+   consumption.
+
+ Zone       Life Support      Solar Generation
+Burning         3                   3
+Very Hot        2                   3
+Hot             1                   3
+Twilight        -                   2
+Cold            -                   1
+Frozen          1                   -
+   
+   ATV weapons fire should be handled exactly as in Across the Bright
+   Face/Mission of Mithril with the modification that the solar cells
+   cannot supply any of the power for weapons fire.
+

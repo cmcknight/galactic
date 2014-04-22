@@ -1,0 +1,29 @@
+
+From: David Burden <david@innocom.demon.co.uk>
+Date: Sat, 11 Jan 1997 08:14:07 GMT
+Subject: Hi all
+
+Hi,
+
+Just a quick first message. My name is David Burden (
+david@innocom.demon.co.uk or david.burden@sts.co.uk ). I've been the
+HIWG Gushemege analyst for almost ever and was responsible ( with my
+co-developer Leighton Piper ) for naming all the worlds in Gushemege
+and updating the sector files. I did my own sector viewer for the
+Atari, but with Galactic there's no need to convert it to the PC. I am
+kept pretty busy by Traveller writing commitments ( I co-authored The
+Long Way Home - the only M0 adventure, and set in Gushemege, and am
+writing new stuff for 1997  ), and so my main interest is in
+supporting Gushemege sector data. For TLWH I did a spreadsheet to
+"wind back" 1116 data to M), which I'll happily circulate if this
+interests people. 
+
+That's all for now, I look forward to participating in the list.
+
+--------------------------------------------------------------------------
+David Burden, Birmingham, UK
+Home: http://www.ftech.net/~innocom  Email: david@innocom.demon.co.uk 
+Work: http://www.sts.co.uk           Email: david.burden@sts.co.uk
+--------------------------------------------------------------------------
+
+

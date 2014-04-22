@@ -1,0 +1,13 @@
+@SUB-SECTOR: sec_L   SECTOR: deneb
+#
+# Trade routes within the subsector
+$2521 2520 0 -1
+$2521 2323 -1 0
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Geniishir     2521 A110123-D  N Lo Ni Cp           302 Dd
+Maelstrom     2522 B79A855-D    C5 Wa RsG          702 Dd
+Exotrope      2523 D300674-4  S Na Ni Va           401 Dd
+Newpenton     2721 C495321-A    Lo Ni              703 Dd

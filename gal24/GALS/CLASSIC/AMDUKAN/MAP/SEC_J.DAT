@@ -1,0 +1,44 @@
+@SUB-SECTOR: Ghadz SECTOR: Amdukan
+#
+# Trade Routes
+#
+$1529 1531 0 1 11
+$1529 1627 0 0 11
+$1525 1627 0 0 11
+$1525 1523 0 0 11
+$1523 1222 0 0 11
+$1023 0725 -1 0 11
+$1023 1222 0 0 11
+$1523 1620 0 -1 11
+$1627 1825 1 0 11
+$1529 1929 1 0 11
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UWP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Ete Oerr      0921 C12068B-9    De Na Ni Po     A  700 J-
+Akamun        0922 C233558-9  M Ni Po              222 J-
+Schwab        0923 D6765AB-4    Ag Ni              105 J-
+Odzue         1021 D7AA405-7    Fl Ni Wa           702 J-
+Denkon        1023 B8A5224-8    Fl Lo Ni           522 J-
+Zuelaeg       1123 C000101-A  M As Lo Ni           622 J-
+Sigi          1128 E43199C-6    Hi In Na Po        103 J-
+Digulamgi     1222 B520255-9  M De Lo Ni Po        800 J-
+Azaeng Ae     1226 C569264-6  M Lo Ni              821 J-
+Mobius        1227 X666324-1    Lo Ni           R  334 J-
+Aedzllag      1229 C87A300-8    Lo Ni Wa           100 J-
+Kfarrae       1323 C355522-7  M Ag Ni              424 J-
+Errghkugh     1324 D333599-5    Ni Po           R  511 J-
+Rueghoukh     1325 C576424-4    Ni              A  213 J-
+Zaliga        1327 C7A2110-8    Fl Lo Ni           904 J-
+Ousknakhs     1429 D88A100-9    Lo Ni Wa           900 Jc
+Vaeghz        1430 C899410-8    Ni                 510 Jc
+Urapaga       1521 CAB7110-9    Fl Lo Ni           501 Jc
+Vazukhs       1523 A766431-8    Ni                 800 Jc
+Mox Nix       1525 C354400-9    Ni C1              911 Jc
+Dharzseg      1526 C532452-8  M Ni Po              321 Jc
+Adisapa       1529 A59A8AA-A  J Wa Cp              102 Jc
+Oerrgadh      1622 CA68530-5  M Ag Ni              703 Jc
+Kenamkir      1623 C387664-6    Ag Ni Ri           404 Jc
+Fongue        1626 C888200-5  M Lo Ni              403 Jc
+Fritz         1627 B310884-B  J Na                 423 Jc
+Kaekhouz      1630 C966546-5    Ag Ni              404 Jc

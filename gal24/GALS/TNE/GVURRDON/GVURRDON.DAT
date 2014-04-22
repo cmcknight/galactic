@@ -1,0 +1,43 @@
+Gvurrdon Sector
+
+A: Ongvos                    sec_a.dat
+B: Zoghz                     sec_b.dat
+C: Adhsakh                   sec_c.dat
+D: Fanganger                 sec_d.dat
+E: Uerra Rueshken            sec_e.dat
+F: Dzen                      sec_f.dat
+G: Lla Iz Therrg             sec_g.dat
+H: Thoengling                sec_h.dat
+I: Kfan Uzangou              sec_i.dat
+J: Ruhk                      sec_j.dat
+K: Ksits Usathu              sec_k.dat
+L: Aelluekh                  sec_l.dat
+M: Llanic                    sec_m.dat
+N: Spurl                     sec_n.dat
+O: Uthe                      sec_o.dat
+P: Firgr                     sec_p.dat
+
+Bases:
+C = Vargr Corsair
+G = Vargr Navy
+H = Vargr Corsair & Navy
+Z = Zhodani Navy
+  = None
+
+Allegiance:
+01 Dr = Droyne
+02 Va = Vargr Non-aligned
+03 Vb = Thirz Empire
+04 Vc = Society of Equals
+05 Vd = Noerrgh Confederate
+06 Ve = Thoengling Empire
+07 Vf = Ongue Republic
+08 Vg = Allez
+09 Vh = Gvaeknoks Trade Union
+10 Vl = Rroerz Empire
+11 Vm = Rueks Legacy
+12 Vn = 40th Squadron
+13 Vp = Commonality of Kedzudh
+14 Vq = The Freedom League
+15 Zh = Zhodani
+

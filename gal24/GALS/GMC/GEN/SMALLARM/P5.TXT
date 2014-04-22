@@ -1,0 +1,38 @@
+p5 Body Pistol
+
+The p5 body pistol was developed to provide a concealable personal defence
+weapon for covert operatives. Manufactured entirely from advanced polymers
+and ceramics, the resulting weapon is virtually indetectable to TL 12 and
+below portal sensors. The p5 itself consists solely of the internal workings
+of the weapon and it can be concealed in an almost limitless variety of
+seemingly innocuous objects (cameras, purses, spectical cases etc.; anything
+large enough to hold the mechanical workings). It is widely rumoured that
+various intelligence agenices utilise even more advanced body pistols; but
+this is officially denied by the agencies concerned.
+
+The p5 is a semiautomatic pistol firing 5mm caseless rounds from a 6 round
+internal magazine. Due to the concealed nature of the p5, reloading the
+magazine is a difficult task and takes at least 18 seconds if it is possible
+at all. The p5 is widely used by both Imperial and Diadochi intelligence and
+law enforcement agencies, as well as being very popular amongst the criminal
+elements of Magellanic society. It is not however available for civilian
+purchase, but the Phoenix Corporation produce a similar model (the Agent P50)
+which is manufactured from standard alloys and utilises a conventional pistol
+shape. Naturally this weapon is detectable by most common methods and the
+specialist ceramic ammunition is not available on the civilain market.
+
+Weapon: p5 body pistol
+Action: Blowback - singleshot
+Ignition: Electric
+Tech Level: 11
+Calibre: 5mm MSO ceramic caseless
+Penetration: 2
+Range: contact
+Malfunction: reliable
+Shots: 6
+Mass: 0.18kg
+Reloads: 0.01kg
+Length: 7.1cm
+Cost: Cr 535 (Agent P50: Cr 200)
+Incidentals: 6 rounds ceramic ball: Cr 3 (0.01kg)
+             6 rounds conventional ball: Cr 1.2 (0.01kg)

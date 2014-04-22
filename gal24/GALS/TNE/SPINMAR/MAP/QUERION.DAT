@@ -1,0 +1,28 @@
+@SUB-SECTOR: querion   SECTOR: spinmar
+#
+# Trade routes within the subsector
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Atson         0111 B310598-8    Ni                 933 Na
+Yiktor        0114 C6B6431-A    Fl Lo Ni           123 Na
+Xhosa         0115 EA95124-4    Lo Ni              910 Na
+Prinx         0212 C436735-6                       120 Na
+Rushu         0215 E766774-4    Vw Ag Tn        B  303 Va
+Bael          0218 E200100-8    Lo Ni Va           812 Na
+Mizan-fel     0311 B46258A-8    Ni                 323 Na
+Izhedriel     0412 B200310-A  Z D:4 Lo Ni Va       701 Zh
+Attica        0414 C400546-8    Ni Va              810 Na
+Retinae       0416 E8C6AAA-5    Fl Hi RsD          110 Cs
+Zhda          0511 C786342-9    Lo Ni Tp           812 Zh
+Niabritedl    0512 E596400-4    Lo Ni              205 Zh
+Faisal        0518 D445436-3    Lo Ni              810 Cs
+Fiashzaikriq  0613 B869554-C    Ni Tp              901 Zh
+Shiadlia      0614 B254888-9  Z Cp                 204 Zh
+Dekalb        0618 EA8A799-6    Ri Wa              320 Cs
+Winston       0620 E887573-6    Ag Ni Tp        B  501 Da
+Plebradplozh  0712 C592320-8  Z Lo Ni              402 Zh
+Thanber       0717 B243653-C    Ni Po              810 Cs
+Entrope       0720 E336AAA-C    Hi                 110 Da
+Anselhome     0820 C110588-8    Ni                 601 Da

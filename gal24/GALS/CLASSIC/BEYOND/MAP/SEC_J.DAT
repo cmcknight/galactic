@@ -1,0 +1,56 @@
+@SUB-SECTOR: sec_J   SECTOR: beyond.sec
+#
+# Trade routes within the subsector
+$1522 1420 0 -1
+$1522 1523 0 0
+$1523 1423 0 0
+$1423 1425 0 0
+$1425 1325 0 0
+$1325 1324 0 0
+$1324 1223 0 0
+$1223 1124 0 0
+$1124 1024 0 0
+$1024 0925 0 0
+$0925 0825 -1 0
+$0929 0830 -1 0
+$1029 0830 -1 0
+$1130 1131 0 1
+$1624 1625 0 0
+$1624 1724 1 0
+$1624 1725 1 0
+$1628 1627 0 0
+$1628 1728 1 0
+$1628 1729 1 0
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Xerxes        0921 C526375-9    Ni                 7   Na
+Caveat        0923 E553566-7  I Ni Po              4   Na
+Godulas Shrel.0925 C876976-7    In                 7   Na     f
+Baden em Zee  0926 E220676-8    Na Ni Po           3   Dw
+Zydanayl      0929 B677524-7    Na Ni              4   Zc
+Maa'El        1024 B434789-7  S                    4   Na
+Miller's Para.1026 X566767-0    Ag Ri           R  9   Na     f
+Zydeterranal  1029 B554634-9    Ag Ni              2   Zc     f
+Yearning      1124 C373100-A  N Ni              R  6   Na     f
+Zydjabr       1130 C6296BF-A    Na Ni              4   Zc
+Refinnej      1221 C4269B9-7  S In                 1   Na
+Salle d'Armes 1222 E686334-5    Ni                 2   Na
+Iainthell     1223 D200657-9    Na Ni              1   Na
+Aerhy         1224 X200000-1                    R  0   Na     f
+Ktashisnif    1225 D965879-4    Ri                 4   Na     f
+Dawn          1321 E583889-2    Ri              A  9   Na
+Paldoran      1324 C763789-3    Ri              A  5   Na
+Ouiqawah      1325 C2002FF-9    Na Ni              5   Na
+No Hope       1421 E9A7597-5    Na Ni              9   Na
+La Belle      1423 A867540-8  S Ag Ni Ca           2   Na     f
+Wahl's Academy1425 A86A597-A    Ni                 4   Na     f
+Nueva Espana  1521 X00079B-2    Na              R  4   Na
+San Souci     1522 B727879-9    Na                 3   Na
+Zebulon       1523 B664212-7    Ni                 5   Na
+I'Sred*Nihil  1624 A767687-C  2 Ag Ni Ri        R  2   IS     f
+Gustavius     1625 D522169-8    Ni Po              5   IS
+D'Jean        1626 C987300-7    Na Ni              9   Na
+Mystere       1627 D98A669-7    Na Ni Ri           6   IS
+I'Sred*Ni Cl. 1628 A0004A7-C  2 Na Ni           R  9   IS     f

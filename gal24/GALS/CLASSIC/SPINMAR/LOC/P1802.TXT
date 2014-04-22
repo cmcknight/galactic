@@ -1,0 +1,94 @@
+Yres System  (Classic Era)
+
+Coordinates: Regina 0202, Spinward Marches
+Spectral Class/Size: Solo K0VI
+Stellar Mass: 0.43
+Stellar Luminosity: 0.117
+
+Orbit     Name           UPP        Remarks
+Primary   Ellenel        K0VI
+  1       Yres           BAC6773 7
+  2       Nugget         X200311 B  Mining
+  3       Lark's World   XA3A100 B  Research Station
+  4       Ballodust      LGG        Large Gas Giant
+
+
+Yres
+
+Diameter: 11221 miles
+Density: 0.98
+Mass: 2.7
+Mean Surface Gravity: 1.37
+Rotation Period: 6 hrs
+Orbital Radius: 0.52 AU
+Orbital Period: 89.75 dys
+
+Yres, once a proud monarchy ruled directly by the Marquis von
+Talbot, was reduced to anarchy after the 4th Frontier War.
+Although, the war was won, the Marquis was killed, and the planet
+broke out into rebellion against the ruling family. After two
+decades of police action on Yres, the Imperium has broken the
+revolutionary movement and established two rival governments on
+the world: The Wonderful Community, a religious dictatorship with
+strict moral codes, and the YLU (Yresian Liberty Union), a
+charismatic dictatorship ruled by popular conservative, Arthur
+Kuzumi.
+
+The starport, nested in the small neutral zone between the two
+nations, displays the Imperium's indifference between the two
+rival governments. Since the revolution, the household of von
+Talbot relocated to Menorb and has been elevated in status to the
+seat of the 8th County of Regina.
+
+The world's 34 million inhabitants, as divided as they are, can
+no longer instill rebellion for fear of being crushed by each
+other. However, neither can they choose a productive course for
+the world. This social conflict, as deadly as the corrosive
+atmosphere of the world, has created a climate of fear and
+desperation, where large-scale sabotage in the vast underground
+cities is commonplace. It is even rumored by high-level sources
+that TAS is currently in deliberation with the rival governments
+over whether or not to classify the planet as an amber zone.
+
+
+Nugget
+
+Diameter: 2103 miles
+Density: 0.13
+Mass: 0.0024
+Mean Surface Gravity: 0.035
+Rotation Period: 14 hrs
+Orbital Radius: 0.78 AU
+Orbital Period: 165 dys
+
+Nugget, essentially a large ball of ice with a small but dense
+rocky core, has been leased to Naugrim Enterprises, a sector-wide
+corporation with 7000 employees positioned locally. According to
+company spokespeople, Naugrim is conducting a speculative mining
+operation in order to determine the world's mineral assets, if
+any.
+
+
+Lark's World
+
+Diameter: 15460 miles
+Density: 0.68
+Mass: 4.9
+Mean Surface Gravity: 1.3
+Rotation Period: 21 hrs
+Orbital Radius: 0.94 AU
+Orbital Period: 218 dys
+
+The research station on Lark's World was originally set-up to
+investigate an abnormality in an otherwise common world. The
+planet's molten core is roughly a tenth of a percent of what
+should be expected given its size, age, and orbital radius.
+Fifty-four Imperial scientists (including a sixteen member team
+specializing in xeno-archeology)  are currently stationed on the
+world researching the phenomenon.
+
+
+-----------------------------------------------------------------
+System summary provided by the Internal Mapping branch of the
+Imperial Grand Survey. Jim Vassilakos (jimv@empirenet.com)
+

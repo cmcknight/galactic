@@ -1,0 +1,37 @@
+@SUB-SECTOR: sec_C   SECTOR: sorted
+#
+# Trade routes within the subsector
+$2010 1912 0 1
+$2010 2109 0 0
+$2109 2205 0 0
+$2205 2303 0 0
+$2303 2310 0 -1
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Shazam        1705 C411266-F    Lo Ni Ic           411 Im
+Mekashish     1707 B6766BE-9    Ag Ni              222 Im
+Mudge         1710 A463ACB-D    Hi                 222 Im
+Easter        1802 AAE7977-F    Hi Fl           A  403 Im
+Yeremyh       1804 A5207BF-F    Na Po De           503 Im
+Eshellim      1901 A76A8BB-E    Wa              A  212 Im
+Aspidistra    1909 B2009CB-E    Hi Na In Va        122 Im
+Nuugashur     1910 A535726-E                       102 Im
+Hiroshi       2001 A458774-E    Ag                 120 Im
+Charuth       2004 A786988-E    Hi                 502 Im
+Khiirshag     2010 A79A9BC-F  W Hi In Wa           903 Im
+Jackoyo       2102 B000510-B    Ni As              500 Im
+Sishera       2104 B233854-E    Na Po              802 Im
+Gunashnan     2105 A854966-E  N Hi                 102 Im
+Ogier         2106 B10088A-C    Na Va              300 Im
+Elusis        2109 A789831-E  N                    912 Im
+Ikaakur       2205 A2569B8-F    Hi              A  615 Im
+Zapuushar     2303 A858997-D  S Hi                 105 Im
+Ephemir       2308 A675999-F    Hi In              702 Im
+Estigrribia   2402 A566ABC-D    Hi                 120 Im
+Mushiddun     2403 C61088D-D    Na                 923 Im
+Nasu          2405 C334368-F    Lo Ni              301 Im
+Inidu         2406 C6BA413-C    Ni Fl Wa           113 Im
+Cambria       2407 B0009BF-E    Hi Na In As        913 Im
+Xiwa          2408 C300568-B    Ni Va           A  503 Im

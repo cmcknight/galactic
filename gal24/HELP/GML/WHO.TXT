@@ -1,0 +1,81 @@
+
+I've been trying to keep a list of people who have helped out with
+Galactic in various ways as well as a list of those who are simply
+using the program or have material to contribute. I'm making this
+public so that everyone can see what everyone else is doing in one
+concise file. If you want to be added to this list, taken off, or
+if you want your entry to be updated in some fashion, please
+contact me. Oh, and my apologies in advance if I've completely
+missed anyone.
+
+Charles Collin <charles@hebb.psych.mcgill.ca>: Alien World Names
+Lewis Roberts <lewis@chara.gsu.edu>: Started the TNE Galaxy,
+   Old Expanses (TNE), Alpha Leonis (TNE)
+Paul Dale <Paul.Dale@jcu.edu.au>: Scenario write-up
+David Burden <david@innocom.demon.co.uk>: Gushemege Sector
+Dakin Burdick <burdickd@indiana.edu>: Magyar Sector, Mailing List Admin
+James Burdick <twolf@tfs.net>: Fornast Sector (pbem & irc-gm)
+Stuart Dollar <sdollar@goodnet.com>: Dark Nebula (MT), Diaspora (CT/MT/TNE),
+   Dagudashaag, Massilia (MT), Reavers Deep, Spinward Marches (TNE), irc-gm
+Michel Boucher <alsandor@netcom.ca>: Beyond, Vanguard Reaches
+Leroy Guatney <lwlguatn@ouray.cudenver.edu>: Spica, HWIG-Quadrant 4,
+   Crucis Margin, Leonidae, Phlask, Langere, various Hiver sectors,
+   TrdB20.
+Grant Sinclair <grants@dove.net.au>: Yiklerzdanzh Sector
+Allen Shock <34zbtxq@cmuvm.csv.cmich.edu>: Foreven Sector
+Rob Dean <robdean@acess.digex.net>: World write-ups
+Douglas Berry <dberry@hooked.net>: World write-ups
+Jeff Zeitlin <jeff.zeitlin@execnet.com>: Amdukan, Antares, Arzul,
+   Empty Quarter, Mendan, and Stars' End (Classic Era).
+Michael Bailey <mickb@thehub.com.au>: World write-ups
+Alvin Plummer <alvin.plummer@sheridanc.on.ca>: World write-ups
+Chris Griffin <chris.griffen@octel.com>: Trojan Reaches, Corridor,
+   Vland, and numerous world write-ups (TNE)
+David Jaques-Watson <davidjw@pcug.org.au>: World write-ups
+Craig Gilmore <craig_gilmore@scenic.co.nz>
+Athol-Brose / R.N. Dominick <cinnamon@one.net>: T4 Core Sector
+Jens Maskus <Jens.Maskus@stud.uni-hannover.de>: Gateway (classic)
+Matthew Harelick <matth@tull.cuy.net>
+Goran Sjoberg <NGC1201@communique.se>
+Hans Rancke-Madsen <rancke@diku.dk>
+Michael Barry <Michael.Barry@FINANCE.ausgovfinance.telememo.au>
+Lan Kelly <CyberWere@ConnectI.com>
+Eris Reddoch <eris@pen.net>
+Mark Seemann <mark@dk-online.dk>
+John R. Snead <jsnead@netcom.com>
+Kenton E. Sinner <ksinner@solaria.sol.net>
+Craig Berry <cberry@hollywood.cinenet.net>
+Joe Gill <snowgen@wf.net>
+Patrick Thomas Morgan <duncan@poky.srv.net>
+Shelby Michlin <shelby7@ix.netcom.com>
+Andrew Wardell <wardell@m1.sprynet.com>
+Bill Hutchinson <hbill@primenet.com>
+Timothy M. Goodin <goodsuth@ix7.ix.netcom.com>
+R. John Morrow <bf679@freenet.carleton.ca>
+Derek Stanley <dstanley@direct.ca>
+Russ <Paragon369@aol.com>
+Andrew Boulton <aboulton@cix.compulink.co.uk>: solrim campaign diary
+Joe Hamrick / The Orcslayer <rguy@cdsnet.net>: alternate galaxy
+Andrew Vallance <a.vallance@netaccess.co.nz>: Greater Magellanic Cloud
+   Galaxy, Interstellar Wars Galaxy, graphic artist, judges guild sectors
+John Raynor <john.raynor@yale.edu>
+Rob Beck <beck@mail.all-net.net>: Glimmerdrift Reaches (not JG version)
+Arthur Murphy <MycroftHolmes@msn.com>
+Hugh Foster <100326.446@CompuServe.COM>
+Andrew Kemp <andrew.kemp@magicboard.win-uk.net>: win95 programmer
+Robert Eaglestone <eaglesto@nortel.ca>: perl hack
+Scott Galliand <galliand@juno.com>: Neworld Sector, Hadji Sector (hiwg),
+   developing T4-pbem in old earth union
+Mark Ayers <mark@bbic.com>: Alternate Galaxy
+John Watts <jwatts@catt.com>: Magyar & Solomani Sphere
+Peter Brenton <pete@cummings.uchicago.edu>: Glisten (1117)
+Derek Stanley <dstanley@direct.ca>: Daibei/Reaver's boarder (TNE)
+Rupert Boleyn <rboleyn@clear.net.nz>: Canopus
+Roger Myhre <starwolf@online.no>: Gvurrdon
+Martin Rait <fspace@ihug.co.nz>: Meshan
+Chris Trash: World write-ups (classic/reft)
+Michael Koehne <kraehe@bakunin.north.de>: Gushemege (TNE)
+Idiot/Savant <idiot@sans.vuw.ac.nz>: Alpha Leonis (TNE), Dagudashaag
+   (classic), Core (classic)
+Doug Snyder <GhanII@aol.com>: Ustral (classic)
+

@@ -1,0 +1,10 @@
+@SUB-SECTOR: sec_D   SECTOR: reft
+#
+# Trade routes within the subsector
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Arnorac       2509 E381444-8    Lo Ni              102 Na
+Gordon        2609 X310654-8    Na Ni              703 Na
+Schuuni       2904 EAAA431-8    Fl Lo Ni Wa        400 Na

@@ -1,0 +1,71 @@
+
+From: "James H. Jenkins" <s001jhj@alpha.wright.edu>
+Organization: TAU Games
+Date: Thu, 24 Apr 1997 13:17:32 -0700
+Subject: Bio & Intro [New]
+
+Hi! This is my intro/bio for the List.
+
+Name: James H. Jenkins
+Email: s001jhj@alpha.wright.edu
+WWW [under construction]: http://www.tightbeam.com/taugames
+
+What I'm doing now:
+
+a) I'm working (with excellent assistance from Jim V.) on making
+modifications/ changes to Galactic to enable the user to input different
+sector/subsector sizes, so that the program is also usable as a generic
+sfrpg utility for sector/quadrant generation, with an alternate world
+building formula. (So that sectors can be 5 X 5, with subsectors of 10 X
+10, or 20 X 20, or whatever [within limits of course, depending on
+screen sizes.])
+
+This will probably end up as a seperate program, that I'd like to have
+distributed to public domain, at the Galactic Website, or on my website
+space at Tightbeam.com
+
+My future plans:
+
+b) A new sector for Classic Traveller, preferably rimward of the
+Solomani Rim. Please send approval/ideas/suggestions on this. (Do I need
+_APPROVAL_, or do I just _DO THE THING_, then submit?)
+
+c) A scenario design for Classic Traveller.  I have some ideas cooking,
+but nothing solid, yet.
+ 
+d) In the future [this summer], I'd like to work on some type of add-on
+module for Galactic to handle trade, figuring trade routes, based on
+Merchant Prince, or Classic Trade System, that will let the user buy
+goods, and then calculate the best market world within a certain radius.
+(If this has been done already, I'd like to know.)
+
+Background Info/Bio:
+
+Age: 31
+
+Born in Pittsburgh, Pennsylvania.  Bought The Three Books in 77, after
+seeing Star Wars, and immediately started playing/reffing after that.
+Didn't discover T$R until about three years later.  As a teen, played
+most anything on the market by both "Hardcore" Wargame Companies, SPI,
+AH, etc. and RPG companies.
+
+Attended A Programming Tech school, but decided after 8 months that I
+was bored.
+
+Joined U.S. Navy in 1984, worked on Anti-submarine weapons systems for 9
+years, ran city-wide Battletech tournaments in San Diego, Ca. during
+that time, plus a Traveller campaign set in Classic Sol Rim for 6 real
+years of that time. Left the Navy in '92, during force draw-down.
+
+Went back to school to get a degree in Physics, learned a lot, then got
+tired of 8-10 hours of Differential Equations every night.  
+
+Currently pursuing BA in Asian Religions. 
+
+Last year, started my own roleplaying game company, am working to get my
+first sfrpg published.  
+
+Own about 90% of printed Traveller material, plus a whole bunch of other
+rpg/wargames.
+
+

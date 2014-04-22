@@ -1,0 +1,40 @@
+#--------1---------2---------3
+#PlanetName   Loc. Star(s)
+#----------   ---- --------
+@SUB-SECTOR: Dingtra SECTOR: Core
+Shipashuua    2521 
+Gimuur Luu    2524 
+Kisa          2526 
+Daa           2529 
+Gurdaan       2623 M1 V
+Idas          2624 F2 V M5 D
+Imsha         2625 
+Gashkanan     2628 
+Shesh         2630 
+Kiru uda      2721 
+Gaar          2729 
+Maan          2730 
+Uuggarkirber  2821 
+Muumi         2823 
+Bishaakuuka   2825 
+Gishashum     2829 
+Navlaand Sha  2830 
+Ekugush       2922 M1 V M9 D
+Uushba Sind   2924 
+Vlaki Khuu    2928 
+Danuuvlan     2929 
+Kamsii        3021 
+Gurishi       3022 G0 V M3 D
+Manluushagi   3025 
+Uumkishla     3026 
+Guuza Bem     3027 
+Duuguu        3028 
+Kagash        3121 
+Kankuup Ir    3123 
+Kadushii      3125 M2 V
+Arkadkhi      3127 
+Mish          3128 
+Keras Vla     3129 
+Agdam Gii     3130 
+Duuka         3226 
+Ashash As     3227 

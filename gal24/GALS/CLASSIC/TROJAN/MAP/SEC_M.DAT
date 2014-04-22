@@ -1,0 +1,39 @@
+@SUB-SECTOR: sec_M   SECTOR: trojan
+#
+# Trade routes within the subsector
+$0431 0430 0 -1
+$0132 0130 0 -1
+$0132 0232 0 0
+$0232 0531 0 0
+$0338 0139 0 0
+$0139 0240 0 0
+# into Beyond
+$0338 3236 -1 0
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Ftyewirl      0132 B4564LA-E  T Ni                 120 A7
+Elahkoi       0134 C5685M7-B    Ag Ni              722 As
+Uiwuar        0135 B1011G5-E    Lo Ic Ni Va        605 As
+Ealea         0139 B5765K7-9    Ag Ni              200 As
+Yekhtia       0232 B2233H6-B    Lo Ni Po           211 As
+Aehahr        0234 B1004M9-C    Va Ni              522 As
+Ftoakh        0236 E673AHC-C    In Hi C3           200 As
+Aohfeau       0240 B9987M4-A    Ag                 620 As
+Hkesuh        0332 BAA07K8-B  R De                 122 As
+Eaweiya       0335 A5406L7-A  T De Ni Po           610 A2
+Awo           0336 C8303G6-C    Lo De Ni Po        724 As
+Aiyostea      0338 B2006JB-9    Va Ni Na           805 As
+Hfa'yuweas    0431 B5553J8-C    Lo Ni              305 As
+Oseweheal     0531 B79A6N7-E  R Wa Ni              303 As
+Uaeakhea      0534 B5303K9-5  R Lo De Ni Po An     214 As
+Teharl        0536 C6544M3-B    Ni                 620 As
+Ehearye       0633 A5887H9-C  U Ag Ri              230 As
+Iysewekh      0640 A6205LA-E  R De Ni Po           504 A3
+Eiwakh        0738 D2007H7-A    Va Na              200 As
+Hkeleiakh     0739 C110000-0    Ba Lo Ni        R  705 As
+Stohyus       0835 A5678N6-E  R Ri C4              902 As
+Hkakh         0837 A3245J6-E  R Ni                 704 As
+Ohtae         0839 B6651M8-9    Lo Ni              903 As
+Uitasoayaw    0840 B5796J7-9  R Ni                 103 As

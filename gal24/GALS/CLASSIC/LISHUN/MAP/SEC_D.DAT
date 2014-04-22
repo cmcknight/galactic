@@ -1,0 +1,53 @@
+@SUB-SECTOR: sec_D   SECTOR: lishun
+#
+# Trade routes within the subsector
+$2509 2309 -1 0
+$2509 2709 0 0
+$2709 2810 0 0
+$2810 3113 0 1
+$2709 2908 0 0
+$2908 2905 0 0
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Ouse          2501 D444264-7    Lo Ni              903 V1
+Ibeem         2508 B4557C8-B  G Ag                 104 V1
+Angvoz        2509 B210415-F  G Ni                 420 V1
+Fuerorrton    2602 B557485-9    Ni                 500 V1
+Sograzung     2603 A66668A-B    Ag Ni Ri           802 V1
+Enging        2604 C332668-A    Na Ni Po           604 V1
+Sperris       2605 D687000-6    Lo Ni Ba           700 V1
+Varsdo        2608 E45579C-8    Ag                 115 V1
+Tyegueng      2609 E5467AB-4    Ag                 522 V1
+Sisri         2701 C79A5A7-5    Ni Wa              700 V1
+Aakhi         2702 B34356A-B    Ni Po              621 V1
+Banckert      2703 A40069A-E    Na Ni Va           104 V1
+Inkikhiir     2704 E686886-2    Ri                 900 V1
+Unnakaa       2705 C478541-9    Ag Ni              513 V1
+Dasakhaa      2706 E67188B-8                       825 V1
+Khalu         2709 A584578-B    Ag Ni              810 V1
+Angar IV      2801 D446269-6    Lo Ni              200 V1
+Gishmeg       2803 B886743-8    Ag Ri              920 V1
+Egmur         2806 C7AA256-E    Lo Ni Fl Wa        204 V1
+Garlii        2808 C210767-8    Na                 133 V1
+Kiidu         2810 A877578-F    Ag Ni              621 V1
+Criideu       2905 B635A86-F  G Hi                 103 V1
+Gegir         2906 B524755-9                       504 V1
+Ukim          2907 E645588-7    Ag Ni              523 V1
+Iisgamdi      2908 A12088B-F    Na Po De           300 V1
+Belfhi        2909 C58499A-7    Hi                 323 V1
+Urnakesh      3001 C324330-B    Lo Ni              802 V1
+Migisuudii    3002 D549542-7    Ni                 600 V1
+Iirkhishur    3003 D414234-7  C Lo Ni Ic           100 V1
+Zakishe       3004 B100453-B    Ni Va              605 V1
+Nakhimov      3006 C200578-9    Ni Va              203 V1
+Gaakhu        3008 C896000-7    Lo Ni Ba           504 V1
+Akitilon      3101 C666463-7    Ni                 105 V1
+Takaria       3104 B768200-C    Lo Ni              900 Vx
+Zasdikikur    3108 E525575-8    Ni                 601 V1
+Kikha         3201 C6858CB-3                       503 Vx
+Nezi          3202 E87A012-7    Lo Ni Wa           700 Vx
+Khiguki       3203 E439777-6                       203 Vx
+Dake          3204 C443456-B    Ni Po              321 Vx
+Pellor        3206 D998643-6  C Ag Ni              400 Vx

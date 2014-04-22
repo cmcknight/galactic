@@ -1,0 +1,45 @@
+@SUB-SECTOR: Idhra SECTOR: Gythios Sector
+#
+# Jump-routes
+$2931 2930 0 -1
+$2638 2839 0 0
+$2839 3139 0 0
+$2839 3140 0 0
+$3139 3140 0 0
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Antioch       2536 D55557C-9    Ag Ni              522 Io 330  z
+Dubhgan       2631 B345768-9  N Ag                 804 Na 300
+Dolgan        2635 E150533-5    De                 803 Io 740
+Thorp         2638 A671761-B  N                    900 Io 08N fx
+.             2733 *4 Gaseous Nebula                   Na
+.             2734 *4 Gaseous Nebula                   Na
+.             2735 *4 Gaseous Nebula                   Na
+.             2832 *4 Gaseous Nebula                   Na
+.             2833 *4 Gaseous Nebula                   Na
+.             2834 *4 Gaseous Nebula                   Na
+.             2835 *4 Gaseous Nebula                   Na
+Derelict      2836 *1 Abandoned Vessel          R      Io     f
+Pitstop       2839 *2 Refueling Station                Na
+Idhra         2931 A68987A-D  2                    804 Gw 55R
+.             2932 *4 Gaseous Nebula                   Na
+.             2933 *4 Gaseous Nebula                   Na
+Idhra's Claw  2934 *4 Gaseous Nebula                   Na
+.             2935 *4 Gaseous Nebula                   Na
+.             2936 *4 Gaseous Nebula                   Na
+Deep Lab      3031 *1 Research Station                 Gw
+.             3032 *4 Gaseous Nebula                   Na
+.             3033 *4 Gaseous Nebula                   Na
+.             3034 *4 Gaseous Nebula                   Na
+.             3035 *4 Gaseous Nebula                   Na
+Targon        3036 X435000-0    Ba Lo              000 Na 000
+.             3133 *4 Gaseous Nebula                   Na
+.             3134 *4 Gaseous Nebula                   Na
+.             3135 *4 Gaseous Nebula                   Na
+Newborn       3136 *3 Protostar                        Na
+Steorra       3139 B668632-9  2 Ag                 714 Na 540
+Fogter        3140 A77AAAC-E    Hi Wa              604 Na 3AX
+Brita         3232 X434000-0    Ba Lo              012 Na 500
+Yole          3233 X737000-0    Ba Lo              004 Na 250

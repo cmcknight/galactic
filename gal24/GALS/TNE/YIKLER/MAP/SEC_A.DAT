@@ -1,0 +1,30 @@
+@SUB-SECTOR: sec_A   SECTOR: yiklerzd
+#
+# Trade routes within the subsector
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Sabraiatl     0103 C899622-6    Ni                 500 Zh
+Dliaench Dich 0105 B525523-A  Z Ni                 604 Zh
+Zhdeeieplf    0106 C303266-B    Ic Ni Lo Va 0206   703 Zh
+Zhdliafrplia  0107 C67A100-5    Wa Ni Lo           902 Zh
+Dlarezhrbl    0110 C429444-7    Ni Lo              604 Zh
+Chiadr Tsash  0201 X858000-0    Ba              F  013 Zh
+Vachteblash   0206 B54664A-9    Ag Ni              612 Zh
+Blech Netlbr  0302 B655362-6    Lo Ni O:0103       404 Zh
+Fliaofraensh  0303 C679542-A    Ni                 615 Zh
+Zhaenzha      0305 A648613-B  Z Ag Ni D0           524 Zh
+Dlidl Razhbi  0309 A889368-9  Z Lo Ni O:0112       504 Zh
+Tsiesh Briafl 0402 X575600-0    Ag Ni Cw        F  200 Zh
+Niblaitsrie   0410 XAC3000-0    Ba Fl           F  004 Zh
+Dishtieinshial0502 C65A544-9    Wa Ni              304 Zh
+Tsishia' Chins0604 A10069D-C  Z Na Ni Va           322 Zh
+Chtesaidrdl   0605 D67A457-9    Wa Ni Lo           301 Zh
+Diaiebr Vri'  0610 B370642-8  Z De Ni D4           413 Zh
+Stielivrtl    0701 A5647A7-9  Z Ag                 524 Zh
+Poshtozhi'led 0702 E100467-7    Va Ni Lo O:0701 U  511 Zh
+Tostaavr      0707 C6697A7-6                       715 Zh
+Chtench       0708 A85AA45-B  Z Wa Hi Cp           305 Zh
+Pliezh        0802 E588674-5    Ag Ni Ri D7     U  404 Zh
+Zdeetsr       0803 C558ABA-8    Hi              U  423 Zh

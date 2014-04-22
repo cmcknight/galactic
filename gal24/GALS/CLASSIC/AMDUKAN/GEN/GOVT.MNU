@@ -1,0 +1,27 @@
+@dir=gals\classic\amdukan\gen
+@Light Yellow
+    The Julian Protectorate: Governmental Organization
+@Light Cyan
+        Governmental Structure of the Protectorate  @gov.txt
+@Light Yellow
+        The Member Confederations
+@Light Cyan
+            The Asimikigir Confederation        @ja.txt
+            The Hhkar Sphere                    @jh.txt
+            The Constellation of Koekhon        @jc.txt
+            The Hegemony of Lorean              @hl.txt
+            The Lumda Dower                     @jl.txt
+            The Commonwealth of Mendan          @jm.txt
+            The Alliance of Ozuvon              @jo.txt
+            The Pirbarish Starlane              @jp.txt
+            Rar Errall/The Wolves Warren        @vw.txt
+            The Rukadukaz Republic              @jr.txt
+            The Ukhanzi Coordinate              @ju.txt
+            The Vugurar Dominion                @jv.txt
+@Light Yellow
+        The Associated Confederations
+@Light Cyan
+            The Zuugabish Tripartite            @zu.txt
+            The Confederation of Bammesuka      @ba.txt
+            The Sarkan Constellation            @sc.txt
+

@@ -1,0 +1,46 @@
+@SUB-SECTOR: sec_F   SECTOR: sorted
+#
+# Trade routes within the subsector
+$1512 1813 1 0
+$1512 1311 0 0
+$1311 1207 0 -1
+$1418 1717 1 0
+$1418 1320 0 0
+$1320 1222 0 1
+$0919 0921 0 1
+$0919 0717 -1 0
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Fafhrd        0912 C620764-6    Na Po De           805 Im
+Kitchener     0913 BAC8645-C    Ni Fl              522 Im
+Alphanor      0914 A988995-F    Hi                 121 Im
+Lompoc        0918 C444634-A    Ag Ni              410 Im
+Cuchulain     0919 AA569BF-A    Hi                 723 Im
+Anacreon      1011 A562841-F    Ri                 113 Im
+Tisiphone     1020 B624885-F                       804 Im
+Dimmurak      1111 A657924-E    Hi                 704 Im
+Esperance     1116 A468878-F  N Ri              A  511 Im
+Mashaddun     1117 C994210-D    Lo Ni              620 Im
+Muan Irrzudh  1119 A66A786-D    Ri Wa              800 Ve
+Hsuishlesh    1120 A644986-F  N Hi In              323 Ve
+Boskone       1214 E00016A-E    Lo Ni As           302 Im
+Ludmilla      1216 A45689D-E                       213 Im
+Tunshaon Tyo  1218 A554986-F    Hi                 612 Ve
+Umieh         1219 B100886-E    Na Va              622 Ve
+Boqueron      1311 A0009A8-D    Hi Na In As     A  901 Im
+Hieronymus    1316 X530622-6    Na Ni Po De     R  713 Im
+Ahhunsal      1318 E521186-F    Lo Ni Po           202 Ve
+Hsivyu        1320 A133786-F    Na Po           A  620 Ve
+Hokchor       1417 C647586-C    Ag Ni              902 Ve
+Muan Ialour   1418 A556886-E                    A  112 Ve
+Ninshien      1419 B59A886-C    Wa                 824 Ve
+Oort          1511 A563896-F    Ri                 724 Im
+Ymir          1512 A6A6772-F    Fl              A  702 Im
+Dzim Zhia Gwi 1515 A456A86-F    Hi                 400 Ve
+Ewmiak        1516 A452986-F    Hi Po              605 Ve
+Flanders      1517 A755A86-F    Hi                 102 Ve
+Bellerophon   1519 A88A986-E    Hi Wa              733 Ve
+Orruiltan Tyu 1616 B121686-C    Na Ni Po           604 Ve
+Tyudhuar      1619 C599786-B                       612 Ve

@@ -1,0 +1,23 @@
+@dir=help\qna
+@Light Yellow
+
+                       Questions & Answers
+
+@Light Green
+     Since I received quite a few questions after the last
+     version of Galactic was released, I figured I'd better
+     beef up this section of the program or risk answering
+     the same stuff all over again.   :-)
+
+@Light Cyan
+     What's new?                        @new\new.mnu
+     How do I print?                    @print.txt
+     Help, I ran out of names!          @names.txt
+     Where do I get more sectors?       @sectors.txt
+     How do I delete galaxies/sectors?  @delete.txt
+     How can I attach pictures?         @pictures.txt
+     How do I share my work?            @share.txt
+     So when's the next upgrade?        @future.txt
+
+     Help with data formats             @data\data.mnu
+

@@ -1,0 +1,14 @@
+@SUB-SECTOR: sec_E   SECTOR: vland
+#
+# Trade routes within the subsector
+$0619 0422 0 1
+$0619 0921 1 1
+$0311 0408 0 -1
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Giikur        0211 A689421-B  N Ni                 910 Rv
+Omero         0311 A230320-F  N Lo Ni Po De        822 Rv
+Lalaki        0619 A9B3785-C    Fl                 702 Rv
+Rishiin       0711 C539332-A  S Lo Ni              610 Rv

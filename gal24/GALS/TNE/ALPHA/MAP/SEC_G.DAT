@@ -1,0 +1,39 @@
+@SUB-SECTOR: Orbdir     SECTOR: alphaleo
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Corosso       1711 X3425RA-8    Ni Po              203 Wi
+Ilana         1713 X4575RC-1    Ag Ni              125 Wi
+Yasselin      1714 X4643P4-6    Lo Ni              233 Wi
+Roseva        1717 X327000-0    Ba                 003 Un
+Renozo        1718 X5486R9-5    Ag Ni              200 Wi
+Illish        1719 X200000-0    Ba Va              003 Un
+Celfun        1720 X332000-0    Ba                 002 Un
+Darlany       1811 X524000-0    Ba                 005 Un
+Weeven        1812 X110000-0    Ba                 001 Un
+Etrez         1817 X739000-0    Ba                 014 Un
+Dry Body      1914 X300000-0    Ba Va              004 Un
+Rogrovil      1915 X100000-0    Ba Va              014 Un
+Beta Silab    1918 X328000-0    Ba                 012 Un
+Point         1919 X6727RE-7                       211 Wi
+Shilleman     1920 X7997S9-2                    B  600 Wi
+Walkriver     2011 X334000-0    Ba                 005 Un
+Lasso         2018 X3515N1-3    Ni Po              414 Wi
+Underhill     2019 X100000-0    Ba Va              004 Un
+Gorth         2111 X88A5RB-0    Ni Wa           B  204 Wi
+Agoria        2120 X210000-0    Ba                 000 Un
+524-698       2212 X100000-0    Ba Va              023 Un
+Mosellice     2213 X5653M0-9    Lo Ni              404 Wi
+Ravine        2218 E3424UB-7    Lo Ni Po           420 Wi
+Dolleva       2220 E7867S7-5    Ag Ri              220 Wi
+Fuilcwian     2311 D6554R8-6    Lo Ni              424 Wi
+Golabay       2314 XAA8000-0    Ba Fl              003 Un
+Thassor       2317 X6A2000-0    Ba Fl              000 Un
+Sevror        2318 X9B8000-0    Ba Fl              014 Un
+Gulinopa      2411 X4751RC-0    Lo Ni              403 Wi
+Valinii       2415 D3568T8-8                       104 Wi     f
+Orbdir        2416 C585832-B                       203 Na     f
+Giledian      2417 X738000-0    Ba                 024 Un
+Sylinea       2418 X584100-5    Lo Ni              523 Wi
+Oriah         2419 X000000-0    As Ba              013 Un

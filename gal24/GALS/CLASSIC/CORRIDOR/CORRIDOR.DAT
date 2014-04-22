@@ -1,0 +1,44 @@
+Corridor Sector
+
+A: Khouth                    sec_a.dat
+B: Khukish                   sec_b.dat
+C: Lemish                    sec_c.dat
+D: The Narrows               sec_d.dat
+E: Ian                       sec_e.dat
+F: Strand                    sec_f.dat
+G: Naadi                     sec_g.dat
+H: Uantil                    sec_h.dat
+I: Shush                     sec_i.dat
+J: The Empty Void            sec_j.dat
+K: Atu'l                     sec_k.dat
+L: Kivu                      sec_l.dat
+M: Two Worlds                sec_m.dat
+N: Ashishinipar              sec_n.dat
+O: Sinta                     sec_o.dat
+P: Sashrakusha               sec_p.dat
+
+Bases:
+N = Naval Base
+D = Naval Depot
+S = Scout Base
+W = Scout Way Station
+A = Navy & Scout Bases
+B = Navy & Scout Way Station
+C = Corsair Base
+G = Naval Base
+H = Naval & Corsair Bases
+J = Naval Base
+M = Military Base
+  = None
+
+Allegiance:
+12 St = Strephon's Worlds
+07 Na = Non-aligned
+04 Cs = Client State
+05 Ca = Corsair Alliance
+11 Rv = Restored Vilani Empire
+09 Va = Vargr (independant)
+10 Vf = Dzarrgh Federate
+06 Vg = Glory of Taarskoerzn
+13 Vh = Irrgh Manifest
+08    = Unknown

@@ -1,0 +1,43 @@
+@SUB-SECTOR: sec_H   SECTOR: hinter
+#
+# Trade routes within the subsector
+$3111 3009 0 -1
+$3111 2912 0 0
+$2912 2813 0 0
+$2813 2814 0 0
+$2814 2516 0 0
+$2516 2316 -1 0
+$2817 2917 0 0
+$2917 3117 0 0
+$3117 3119 0 0
+$2920 3218 0 0
+$3218 0119 1 0
+$2920 2821 0 1
+$2920 3021 0 1
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Whitesheet    2516 C787303-5    Ni                 902 Na
+Obendal       2614 B9D3431-7    Ni              A  504 Na
+Lost Echo     2615 B376148-8    Ni                 303 Na
+Carmine       2617 C7A2400-5    Ni                 703 Na
+Marble        2620 CAB4530-5    Ni                 504 Na
+Calbern       2713 C000543-A    Ni As              714 Na
+Mura          2813 B884556-A    Ni Ag              523 Na
+Tren          2814 B4007BG-B  F Va Na              711 Na
+Gruuvurr      2816 BAA9326-7    Ni                 904 Na
+Pru-magu      2817 A9B2433-A    Ni                 201 Gi
+Cerban        2912 C234420-A    Ni                 521 Na
+Treber        2916 A66A535-B    Ni Wa              610 Na
+Ar-domm'l     2917 A100374-C  J Ni Va              614 Gi
+Pru-drend     2920 D110564-A    Ni                 525 Gi
+Kwekyl        3015 B965645-8    Ni Ri Ag           104 Na
+Lermeliv      3111 E534622-2    Ni                 502 Cu
+Jukake        3114 C778530-3    Ni Ag              503 Na
+Pru-trumonn   3117 C543157-7    Ni Po              404 Gi
+Pru-devum     3119 C986666-6    Ni Ri Ag           914 Gi
+Speehl        3212 A000245-D    Ni As              504 Na
+Pru-gam       3218 C100344-9    Ni Va              602 Gi
+Ghi-nabrin'l  3219 X527333-1    Ni                 702 Gi
+Ghi-radul     3220 X8A0325-0    Ni De              203 Gi

@@ -1,0 +1,74 @@
+@SUB-SECTOR: sec_f   SECTOR: glimdrft
+#
+#Jump Routes
+$0919 0818 -1 0
+$0919 1019 0 0
+$1016 1118 0 0
+$1019 1118 0 0
+$1019 1120 0 0
+$1112 1211 0 0
+$1118 1216 0 0
+$1118 1119 0 0
+$1119 1120 0 0
+$1120 0921 0 1
+$1120 1420 0 0
+$1120 1220 0 0
+$1211 1210 0 -1
+$1211 1411 0 0
+$1211 1212 0 0
+$1212 1213 0 0
+$1213 1314 0 0
+$1216 1317 0 0
+$1220 1420 0 0
+$1314 1515 0 0
+$1317 1517 0 0
+$1317 1519 0 0
+$1411 1511 0 0
+$1411 1412 0 0
+$1412 1612 0 0
+$1420 1519 0 0
+$1420 1620 0 0
+$1420 1421 0 1
+$1511 1510 0 -1
+$1517 1618 0 0
+$1519 1618 0 0
+$1519 1820 1 0
+$1618 1817 1 0
+$1618 1719 1 0
+#
+#--------1---------2---------3---------4---------5----------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- --
+Sporades      0913 A160500-E    Ni                 300 Na
+Pola          0919 C000579-9    As                 501 Kx
+Zuica         1014 EAB1200-A    Ni                 100 Na
+Bolzano       1016 BABA400-B    Wa                 401 Kx
+Fridwell      1019 AAA3557-C    Ni                 900 Kx
+Tarlak        1112 C230572-9    Ni                 801 Gl
+Zathlid       1117 EAA4413-8                       701 Kx
+Iberia        1118 AAB48B9-A                       301 Kx
+Lazica        1119 CAC9567-7    Ni                 200 Kx
+Krax          1120 A782995-D    Ca                 401 Kx
+Tinworld      1211 C257376-6    Ni                 800 Gl
+Tokeebanga    1212 C000300-9    As                 101 Gl
+Uzi           1213 B564594-8    Ag                 700 Gl
+Asding        1216 A221798-D    Na                 100 Kx
+Siling        1218 C0008A6-A    As                 301 Kx
+Alan          1220 A000300-B    As                 701 Kx
+Redworld      1314 A000438-A    As                 201 Gl
+Utigur        1317 B342A98-E    In                 701 Kx
+Sabirian      1319 X000300-9    As                 401 Kx
+Waterstone    1411 A000944-A    As                 901 Gl
+Loo           1412 EAC3768-A                       700 Gl
+Frama         1419 C264740-5                       101 Kx
+Krina         1420 AAB4988-B  N                    300 Kx
+Quicksilver   1511 E0007A5-A    As                 601 Gl
+Yangky        1513 C200578-A    Ni                 901 Gl
+Whiteplains   1515 D695387-6    Ni                 900 Gl
+Zrintel       1517 C212474-A    Ni                 200 Kx
+Rasma         1519 C684763-7    Ri Ag           A  301 Kx
+Minotaur      1612 X100767-A    Na                 901 Gl
+Lodestone     1613 X200474-A    Ni                 601 Gl
+Logansport    1614 A110527-B    Ni                 601 Gl
+Tinto         1618 AAB4788-A                       400 Kx
+Zrotax        1620 B2319A5-9    In                 300 Kx

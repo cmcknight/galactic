@@ -1,0 +1,15 @@
+Athay D6796R7-7     
+
+Starport: Poor                   Size: Medium (8800-10400 km)
+Atmosphere: Standard, tainted    Hydrographics: 90% water
+Population: 6 million            Govt: TED
+Law Level: Moderate              Technology: Pre-Stellar
+         
+Athay: The TED at Athay is currently involved in building a naval fleet.
+However, the few ships he has managed to salvage have jump drives, but he
+lacks skilled astrogators.  As it is, they can only manage the 1 parsec
+jump to Galus.  The TED has been trying to get some astrogators, and is
+also trying to capture some ships from Galus, in the hopes of both  getting
+a pilot, and getting another vessel for his fleet.
+
+by Jon Goff (jongoff@et.byu.edu)

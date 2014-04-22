@@ -1,0 +1,35 @@
+@SUB-SECTOR: sec_j   SECTOR: oldexpan
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Moy           0922 X313000-0    Ic Ba              002 Un
+Avis          0924 X513000-0    Ic Ba              013 Un
+Berkin        0926 X66A7RB-5    Wa              B  904 Wi
+Reagan        0929 X210000-0    Ba                 012 Un
+Welch         0930 X3445R9-6    Ag                 322 Wi     f
+Dorian        1021 X310000-0    Ba                 003 Un
+Cooke         1024 X422000-0    Po Ba              000 Un
+Janie         1125 X7698T7-5                    B  813 Wi
+Slandow       1126 X9A4000-0    Fl Ba              004 Un
+Shenk         1128 X5548R9-3                    B  212 Wi
+Sovtor        1221 X302000-0    Ic Va Ba           000 Un
+Mueller       1223 C5548WB-9                       613 Wi
+Dunas         1224 X631000-0    Po                 002 Un
+Wall          1227 X500000-0    Ba Va              010 Un
+Fisher's Worl 1229 X7698RB-3                    B  404 Wi
+Marcena       1321 X5757RA-7    Ag              B  514 So
+Solee         1322 C6758P1-9  N                    700 So
+Barnet        1327 X631000-0    Na Ba              014 Un
+Tequila       1328 X3716S5-7    Ni                 214 Wi
+Hindahl       1422 X7548RB-4                    B  600 So
+Kmak          1424 C6968R5-7                       801 So
+Herbe         1426 X8C5000-0    Fl Ba              003 So
+Clallum       1427 D78A8T9-8    Wa                 602 Wi
+Yontez        1527 E6639PG-6    Hi              B  802 Wi
+Kruml         1528 X330000-0    De Ba Po           003 Un
+Aniston       1621 X412000-0    Ic Ba              001 Un
+Dothan        1623 X5497RA-4                    B  603 Wi
+Canton        1626 X3446V9-4    Ag                 220 Wi
+Astrid        1628 X200000-0    Ba Va              001 Un
+Olney         1629 X511000-0    Ic Ba              004 Un

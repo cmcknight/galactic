@@ -1,0 +1,19 @@
+
+Freiwelt (1018) is not a full member of the Beltan Empire - only the 
+nation of Arcadia. It is currently fighting the Purity Front for planetary 
+dominance - and with the huge influx of aid since it joined the 
+Empire in 1200 it has been slowly but steadily winning the battle.
+
+Nation UWPs are: Arcadia  D657746-9 M         Pm:8
+                 Purity   E6578AF-5           Pm:2
+
+Other minor nations are either in the Purity Front, or the Arcadian
+League.
+
+The Military base is operated by the Empire, and supports both Arcadia 
+and forward based Naval units. It also has a comprehensive ABM network
+to protect Arcadia against nuclear attack.
+
+Purity has been forced to look for outside aid, and Kranak had provided
+some TL-9 equipment in exchange for relic equipment.
+

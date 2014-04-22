@@ -1,0 +1,30 @@
+@SUB-SECTOR: Bikali SECTOR: Arzul
+#
+$0211 0310 0 -1 11
+$0211 3212 -1 0 11
+$0211 0611 0 0 11
+$0611 0912 1 0 11
+$0519 0722 0 1 11
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Imkha         0116 C547420-6  S Ni                 304 Hl
+Kulirzir      0119 X140000-0    Ba De Lo Ni Po     001 Jh
+Gisanal       0211 A778778-7    Ag                 523 J-
+Kaspur        0213 D237438-9    Ni                 001 J-
+Aedzae        0313 C692745-6  S                    902 J-
+Zoegaekhso    0411 D438344-9  S Lo Ni              713 J-
+Garfaerroe    0414 C55888B-A                       413 J-
+Khoengkuerrgh 0416 X100000-0    Ba Lo Ni Va        012 Hl
+Agusha        0417 E649315-C    Lo Ni              805 Hl
+Bikali        0518 B5977AB-5    Ag                 623 Hl
+Kongrougzog   0519 A567ADF-7    Hi                 304 Hl
+Orrgorkso     0611 A63A310-C  N Lo Ni Wa           214 J-
+Umanirgilunud 0619 X210000-0    Ba Lo Ni           024 Hl
+Kungangfuk    0711 D3244BA-A    Ni                 300 J-
+Kfodha        0715 A883997-B  N Hi                 310 Na    
+Dakanikiguri  0716 B47255A-B    Ni                 013 Na
+Anweg         0718 C79749A-9  S Ni                 304 Na
+Ivavours      0811 E453536-A    Ni Po              310 J-
+Kirralimigag  0820 CAA685B-B    Fl                 603 Hl
+

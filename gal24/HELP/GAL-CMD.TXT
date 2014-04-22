@@ -1,0 +1,69 @@
+
+The Galaxy Map shows a regional map of sectors. Ones that have
+been developed to some degree are shown in blue while ones that
+haven't been developed (which contain only UWP data) are shown
+in green. Ones that have not yet been created, if their names
+are known, are shown in dark grey. Here are some commands you
+can try:
+
+ K/J/H/L/<Arrows>   Move to Neighboring Sector
+     <Enter>        Select/Create Sector
+      <Ins>         Create Sector
+      <Del>         Delete Sector
+        <           Edit Sector List
+        F           Find World (search entire galaxy)
+        G           Galaxy Dot-Map
+        I           Import Galaxy from .sar file
+        M           Sector Map
+        N           Establish Sector Name
+        X           Export Galaxy to .sar file
+      F1/F2         View/Edit Galaxy Notes
+      F3/F4         View/Edit Sector Notes
+        F5          Sector Menu
+        F6          Move Sector
+     <Esc>, Q       Return to Menu of Galaxies
+
+Developer Info:
+
+The galaxy map uses the sector list for the displayed galaxy
+(for example: gals\classic\classic.lst). Here's a look at a few
+entries in the Classic Galaxy's list file:
+
+Directory of Sectors
+-------------------------------------------------------------
+core         Core Sector                          4    1    K
+beyond       The Beyond                           -1   1    L
+corridor     Corridor Sector                      2    0    K
+spinmar      Spinward Marches                     0    0    L
+alphacru     Alpha Crucis                         5    4    I
+
+The numbers to the right signify the positions (x,y) of the
+sectors. In this file, Spinward Marches has been arbitrarily
+chosen as the origin (0,0). Moving right increases "x" while
+moving down increases "y". The rightmost letter indicates the
+sector's color: L=Blue, K=Green, I=Grey. Sectors which are
+colored grey are assumed to not exist in actual data until
+they have been created. Any of these colors may be used:
+
+ A  Black    E  Red       I  Dark Grey     M  Light Red
+ B  Blue     F  Magenta   J  Light Blue    N  Light Magenta
+ C  Green    G  Brown     K  Light Green   O  Light Yellow
+ D  Cyan     H  White     L  Light Cyan    P  Bright White
+
+As previously stated, I've been using light cyan (L) to
+signify a sector that has been at least partially developed
+(i.e. that has a few world write-ups and/or some general
+information about the region). Light green (K) has been used
+to signify a sector that has UWP and world names but is
+otherwise undeveloped. You can change the sector colors
+however you wish by editing the sector list ("<" key) of
+any of the galaxies, assigning whatever meaning to the colors
+you wish to use. The only exception to this rule is with dark
+grey (I). The program will spot these sectors and handle them
+differently from the rest, drawing on the assumption that
+these sectors are entirely undeveloped and exist only in name.
+In short, don't manually change the color of the dark grey (I)
+sectors unless you know what you're doing. Let the program do
+it for you automatically when you generate data for these
+sectors.
+

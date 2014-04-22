@@ -1,0 +1,53 @@
+@SUB-SECTOR: stars_H   SECTOR: vland
+#
+# Trade routes within the subsector
+#
+#--------1---------2---------3
+#PlanetName   Loc. Stars(s)
+#----------   ---- ---------
+Iigshuren     2511 G6 V
+Imziinune     2512 M7 V
+Shiigus       2513 F9 V M9 V
+Gookir        2515 K4 V
+Khe           2518 M6 V
+Muukakam      2519 M4 V
+Ma            2520 M4 V M5 V
+Kimii         2611 M1 V M4 V
+Gaska Khiin   2612 M8 V
+Kusu          2613 K5 IV
+Malta         2615 M9 V M2 V
+St. George    2616 G1 IV
+Dudid         2618 M8 V M7 V
+Mennoral      2620 F0 V
+Aanshi        2713 M9 V
+Eriston       2716 A7 V G5 V
+Alkhaas       2812 M6 V A3 III
+Karmanidora   2815 K3 V
+Faranidon     2816 M3 V
+Tazaris       2818 M0 V
+Anzalits      2820 M1 V A8 D
+Naalkin       2911 M2 V M4 V
+Damakho       2912 F6 V
+Mimere        2914 M0 V M3 V
+Lormiza       2915 M4 V K4 V
+Iizmarna      2916 M5 V
+Beroni        2918 M6 V M2 V
+Alanidon      2919 M0 V M6 V
+Sidenis       2920 M3 V K9 V
+Lourer        3011 M2 V M7 V
+Zaan          3014 G3 V
+Sikal         3018 M7 V M5 V
+Braldini      3019 M6 V A1 D
+Trilorn       3020 K7 V F6 D
+Kalanuu       3111 M6 V
+Dusuurag      3115 F3 V M4 V
+Kirlasesh     3116 G4 V
+Altman        3117 A8 V
+Aarkhiin      3119 M8 V
+Urkimgar      3211 M2 V
+Amnukun       3212 M8 V
+Ami           3213 G0 V M9 V
+Khunimmam     3214 M5 V
+Shaia         3215 M9 V
+Kigirgam      3216 M4 V
+Gisharu       3218 M5 V M7 V

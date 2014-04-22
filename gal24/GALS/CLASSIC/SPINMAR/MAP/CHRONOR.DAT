@@ -1,0 +1,39 @@
+@SUB-SECTOR: Chronor   SECTOR: Spinward Marches
+#
+# Trade routes within the subsector
+$0103 0802 -1 0 13
+$0103 0304 0 0 13
+$0303 0307 0 0 13
+$0307 0608 0 0 13
+$0608 0610 0 0 13
+$0304 0705 0 0 13
+$0610 0712 0 1 13
+$0705 0904 1 0 13
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Zeycude       0101 C330698-9    Na Ni Po De        613 Zh
+Reno          0102 C1207B9-A    Na Po De           603 Zh
+Errere        0103 B263664-B  Z C0 Ni Ri           910 Zh
+Cantrel       0104 C366243-9    Lo Ni              520 Zh
+Gyomar        0108 D8B2889-5    Fl                 824 Na
+Thengo        0202 C868586-5    Ag Ni              801 Zh
+Rio           0301 C686648-8    Ag Ni Ri           201 Na
+Gesentown     0303 B21169B-C  Z Na Ni Ic           801 Zh
+Chronor       0304 A6369A5-D  Z Hi Cp              304 Zh
+Atsa          0307 B4337CA-A  Z Na Po              810 Zh
+Whenge        0503 D648500-8    Ag Ni              610 Na
+Enlas-du      0601 E975776-6    Ag                 323 Na
+Algebaster    0605 C665658-9    Ag Ni Ri           410 Na
+Rasatt        0607 E883401-7    Ni                 910 Na
+Ninjar        0608 A211666-C  Z Ni Na              410 Zh
+Sheyou        0610 B756779-A  Z Ag                 111 Zh
+Indo          0703 E334662-5    Ni                 320 Na
+Nerewhon      0704 E738475-7    Ni                 820 Na
+Cipango       0705 A886865-C  Z Ri                 121 Zh
+Stave         0710 E7667A8-2    Ag                 801 Na
+Narval        0805 D525688-6  Z Ni              A  603 Na
+Plaven        0807 E845300-3    Lo Ni              910 Na
+Quar          0808 B532720-B  N Na Po           A  401 Im
+Frond         0810 E9C3300-9    Lo Ni Fl           103 Cs

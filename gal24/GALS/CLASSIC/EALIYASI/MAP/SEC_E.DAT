@@ -1,0 +1,48 @@
+@SUB-SECTOR: sec_E   SECTOR: ealiyasi
+#
+# Trade routes within the subsector
+$0311 0309 0 -1
+$0311 0511 0 0
+$0511 0514 0 0
+$0511 0712 0 0
+$0611 0513 0 0
+$0712 0912 1 0
+$0416 0318 0 0
+$0318 0322 0 1
+$0320 0520 0 0
+$0520 0522 0 1
+$0520 0719 0 0
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Keiaoukhri    0113 B1106JB-9    Na Ni              100 As
+Iywheiyel     0114 A56A4J7-C    Ni Wa              903 As
+Eaalkhel      0115 A7B45JA-D    Fl Ni              310 As
+Hkauehirl     0116 C7658LA-C    Ri                 600 A8
+Ikheaaw       0119 C74A7J8-B    Wa                 204 As
+Khteauwel     0213 B6877K8-B    C5 Ag Ri           131 As
+Aihaowkhtirl  0215 E1000K7-7    Va                 312 As
+Yeiyearailia  0311 B1003G7-D    Lo Ni Va           104 As
+Aulaiiyoileah 0318 A2105L8-E    Ni                 424 A6
+Ftuiheaoel    0320 B64A2G7-C    C3 Lo Ni Wa        504 As
+Aliyaeakh     0414 C3243G5-7  R Lo Ni              800 A3
+Iyaleweawaooi 0416 B1100J8-9                       303 As
+Teiih         0418 E1107J6-B    Na                 313 As
+Oukhheatrui   0419 E1104HB-9    Ni                 424 As
+Uieyuh        0420 D8485M8-A    Ag Ni              421 As
+Uawiywei      0511 A7722K7-D    Lo Ni              524 As
+Eilriaiaus    0512 E4748HA-7                       623 As
+Aokah         0513 A5746K5-E    Ag Ni              600 As
+Altleaair     0514 A2611G9-C    Lo Ni              305 As
+Hleaew        0517 C5315M7-8    Ni Po              821 As
+Uiheaail      0520 A2007H5-E  R Na Va              514 As
+Orlkheaala    0611 A5416J8-E    Ni Po              402 As
+Iyrkyalo      0620 C1005J4-7    Ni Va              800 As
+Kyoiluayahai  0712 B89A6JA-C  R Ni Wa              310 As
+Ailyuwftea    0719 B1007JA-D    Na Va              923 As
+Tokhhkyoh     0814 B5314L4-E    Ni Po              903 A0
+Yaoaarl       0816 B7748N5-E                       505 As
+Eshkoakh      0817 X3001M9-9    Lo Ni Va           104 As
+Yeyaoirti     0818 C2446H7-A    Ag Ni              915 As
+Eawea'ye      0820 D2541G9-6    Lo Ni              301 As

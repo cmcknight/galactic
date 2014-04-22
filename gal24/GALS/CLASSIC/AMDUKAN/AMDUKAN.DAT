@@ -1,0 +1,46 @@
+Amdukan
+
+A: Zimigsika                 SEC_A.DAT
+B: Rego                      SEC_B.DAT
+C: Bauk's Reach              SEC_C.DAT
+D: Faraeng                   SEC_D.DAT
+E: Sakas                     SEC_E.DAT
+F: Ozuvon                    SEC_F.DAT
+G: Hikaru                    SEC_G.DAT
+H: Urru                      SEC_H.DAT
+I: Julian                    SEC_I.DAT
+J: Ghadz                     SEC_J.DAT
+K: Nalimim                   SEC_K.DAT
+L: Mesmabi                   SEC_L.DAT
+M: Vector                    SEC_M.DAT
+N: Divide                    SEC_N.DAT
+O: Bordarnaa                 SEC_O.DAT
+P: Lorean                    SEC_P.DAT
+
+Bases:
+  = None
+J = Naval Base
+F = Naval and Military Bases
+M = Military Base
+D = D Base
+C = C Base
+G = G Base
+
+Allegiances:
+15 JP = Julian Prot. (Unincorporated)
+15 Jc = Julian Prot. (Const. of Koekhon)
+15 Jo = Julian Prot. (Alliance of Ozuvon)
+15 Ja = Julian Prot. (Asimikigir Confed.)
+15 Jr = Julian Prot. (Rukadukaz Rep.)
+15 Hl = Julian Prot. (Lorean Hegem.)
+15 Jh = Julian Prot. (Hhkar Sphere)
+15 J- = Julian Prot. (Unincorporated)
+15 Jm = Julian Prot. (Cmnwlth of Mendan)
+15 Jl = Julian Prot. (Lumda Dower)
+15 Jv = Julian Prot. (Vugurar Dominion)
+15 Jp = Julian Prot. (Pirbarish Starlane)
+15 Ju = Julian Prot. (Ukhanzi Coord.)
+11 Vw = Julian Prot. (Rar Errall/Wolves W.)
+09 Na = Non-Aligned
+08    = Unknown
+

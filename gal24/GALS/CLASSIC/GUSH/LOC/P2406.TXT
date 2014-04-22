@@ -1,0 +1,21 @@
+System: Ellus
+Subsector: Taapvaia
+Sector: Gushemege Sector
+Coordinates: 2406 (C0806)
+UWP: A73A8CF-C
+
+Starport: Excellent
+Size: Medium (10400-12000 km)
+Atmosphere: Very thin
+Hydrographics: Water world
+Population: 200 million
+Govt: Charismatic Oligarchy
+Law Level: Police State
+Technology: Average Stellar
+
+Bases: None
+Trade Codes: Wa              
+Travel Zone: Green
+Planetoid Belts: 0
+Gas Giants: 3
+Allegiance: Imperial

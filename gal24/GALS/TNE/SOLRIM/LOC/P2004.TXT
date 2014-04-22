@@ -1,0 +1,24 @@
+Charuth B7869A7-9          
+Starport: Good              Size: Medium (10400-12000 km)
+Atmosphere: Dense           Hydrographics: 60% water
+Population: 6 billion       Govt: Charismatic Dictatorship
+Law Level: Moderate         Technology: Early Stellar
+ 
+    The only system in this subsector which retained interstellar capability
+through the Collapse is Charuth, which still operates a number of pre-Collapse
+starships. Construction began recently on new TL 10 starship designs utilizing
+jump drive components from old, no longer functional vessels. Scientists and
+engineers are also working to make new jump drive components, and are less
+than a year away (provided their supply of lanthanum is not interrupted, see
+below) from having this capability once again. UWP stats for Charuth will
+then become A7869A7-A.
+
+    Explorers from Charuth have ventured out to a number of local systems
+since the Collapse. Though a few vampire ships and free traders have been
+encountered, so far no other civilization capable of producing starships has
+been found. Many intellectuals on Charuth have begun to theorize that no other
+such civilization will be found, as the Collapse has apparently destroyed all
+others. This has caused the Charuth government to assume an extremely
+cautious approach in sending out exploratory vessels, since if Charuth is the
+last of its kind, all starships resources must be husbanded very carefully
+until new ones can be constructed in quantity.

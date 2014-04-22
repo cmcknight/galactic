@@ -1,0 +1,18 @@
+@SUB-SECTOR: sec_E   SECTOR: reft
+#
+# Trade routes within the subsector
+$0118 3117 -1 0
+$0118 0217 0 0
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Grudovo       0111 B260453-E    Ni De              914 Dd
+Banskonno     0112 A482444-C    D6 Ni              204 As
+Bastion       0118 B737332-B  R Lo Ni              701 As
+Aldaya        0212 B885620-6  R Ag Ni              423 As
+Neon          0216 D9B227A-4    Lo Ni Fl           923 As
+Cerebin       0217 B323662-C    Na Ni Po           534 As
+Helifil       0313 D110724-8    Na Rs              403 As
+Tonnurad      0416 B463695-7    Ni Ri              803 Na
+Fraaga        0511 B691420-D    Ni Fl              702 Dd

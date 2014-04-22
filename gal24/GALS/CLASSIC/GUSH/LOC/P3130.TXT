@@ -1,0 +1,21 @@
+System: Akhudgir
+Subsector: Shire
+Sector: Gushemege Sector
+Coordinates: 3130 (L0710)
+UWP: AA87132-C
+
+Starport: Excellent
+Size: Large (15200-16800 km)
+Atmosphere: Dense
+Hydrographics: 70% water
+Population: 60
+Govt: Self-Perpetuating Oligarchy
+Law Level: Low
+Technology: Average Stellar
+
+Bases: None
+Trade Codes: Lo Ni           
+Travel Zone: Green
+Planetoid Belts: 0
+Gas Giants: 4
+Allegiance: Imperial

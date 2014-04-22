@@ -1,0 +1,40 @@
+@SUB-SECTOR: sec_O   SECTOR: gvurrdon
+#
+# Trade routes within the subsector
+#
+$2040 2037 0 0 2
+$2037 2234 0 0 2
+$2234 2232 0 0 2
+$2232 2530 1 -1 2
+$2037 1738 0 0 2
+$1738 1539 -1 0 2
+$2232 2030 0 -1 2
+$2240 2540 1 0 4
+$2436 2638 1 0 4
+$2436 2339 0 0 6
+$2137 1738 0 0 4
+$1738 1839 0 0 4
+$1738 1936 0 0 4
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Erzthung      1734 E75A440-6    Ni Wa              623 Vr
+Uthith        1738 B210577-C  G Ni Cx              623 V4
+Forrodhkhokh  1839 B75827B-B    Lo Ni              201 V4
+Aethkaek      1933 B66A512-C  C Ni Wa              502 Vr
+Thaeuevae     1936 D546300-8  G Lo Ni              724 V4
+Kousuesi      1938 EA9A325-5    Lo Ni Wa           724 V4
+Urrllongonu   2037 B266545-9    Ag Ni              301 V4
+Ougzdaelzoerrg2040 A899335-B  C Lo Ni              825 Va
+Daeksuzaethuku2137 B645677-A    Ag Ni              523 V4
+Gzogzu        2232 B550889-9  C Po De              701 Va
+Tinkaeghzzakle2234 B444233-A    Lo Ni              810 Va
+Pandrin       2240 B260675-B  C Ni Ri De           201 Vk     f
+Knall         2331 A000000-C    Lo Ba As Ni        510 Va
+Zoe           2334 E757499-5    Ni                 132 Va
+Otsesu        2336 E673442-5    Ni                 625 Vk
+Kaets         2338 B636631-7  C Ni                 111 Vk
+Ueghrrozue    2339 A6A47BA-A  C Fl                 913 Vk
+Ghisaersae    2340 C758646-7  C Ag Ni              702 Vk
+Aerrkhukhkaeko2433 B639663-9  C Ni                 701 Va
+Triad         2436 B587777-8  G Ag Ri              320 Vk

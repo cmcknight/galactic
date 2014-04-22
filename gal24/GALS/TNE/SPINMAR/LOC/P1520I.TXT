@@ -1,0 +1,51 @@
+
+System Details
+
+Orbit    Name             UPP           Remarks
+------------------------------------------------------------------------
+Primary  Tarlac           G6 II         magnitude -2.44
+2        Gnat             Y310000-0     tidal lock
+3        Tarlac 2         Y530000-0     revolves around Tarlac 2a
+      1  Ring System      YR00000-0
+      8  Tarlac 2a        Y500000-0     revolves around Tarlac 2
+     10  Tarlac 2b        Y320000-0
+4        Tarlac 3         Y530000-0
+      4  Tarlac 3a        Y330000-0
+     40  Tarlac 3b        Y220000-0
+5        Tarlac 4         Y820000-0     volcanic
+      9  Tarlac 4a        Y760000-0
+     20  Tarlac 4b        Y400000-0
+6        Tarlac 5         HAB0000-0     4 plates, 1 volc rgn. Ores, Gems
+     50  Tarlac 5a        Y450000-0     tidal lock
+7.4      The Peanuts      Y000320-C     90,000 planetoids. Ores
+8.4      *Ryzel           Large GG      100,000 km radius
+      2  Ring System      YR00000-0
+      4  Ryzel 1          Y253000-0
+      8  Habitatatatatat  H667000-0     Ag, Or, Rad, Petro. 13 deg. C
+     11  Ryzel 3          Y8A5000-0     tidal lock. Ores, Gems
+     15  Ryzel 4          Y584000-0     retrograde
+     30  Ryzel 5          H465000-0     no resources
+    125  Tavonni          B567642-D  S  Ag Ni Ri. 13 deg.C
+    200  Ryzel 7          Y236000-0     -3 deg. C
+9        Tarlac 8         Y889000-0
+     11  Tarlac 8a        Y733000-0
+     35  Tarlac 8b        Y500000-0
+10       Solitaire        Y996000-0
+11       Chips            Y000000-0     10,000 planetoids
+12       Martini          Large GG      90,000 km radius
+      1  Ring System      YR00000-0
+      7  Tarlac 12a       H664000-0     tidal lock
+     10  Tarlac 12b       H665000-0
+     13  Tarlac 12c       Y500000-0     tidal lock
+     25  Tarlac 12d       Y400000-0     tidal lock
+13       Vermouth         Small GG      56,000 km radius
+      2  Ring System      YR00000-0
+      3  Ring System      R000000-0
+      4  Tarlac 13a       Y200000-0
+      6  Tarlac 13b       Y300000-0
+     40  Tarlac 13c       H656000-0     retrograde
+     50  Tarlac 13d       Y100000-0
+14       The Ice-Cubes    Y000000-0     40,000 planetoids
+15       Scotch           Small GG      27,000 km radius
+     10  The Rock         H643000-0
+

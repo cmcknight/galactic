@@ -1,0 +1,45 @@
+@SUB-SECTOR: Celebes   SECTOR: Antares
+#
+# Trade routes within the subsector
+#
+$3139 0338 1 0 11
+$3139 2940 0 0 11
+$2940 2638 0 0 11
+$2638 2634 0 0 11
+$2634 2935 0 0 11
+$2634 2235 -1 0 11
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Ngimi         2535 A510113-C    Lo Ni              302 Im 
+Kinuun        2536 B333432-E  N Ni Po              604 Im 
+Kidkugur      2537 B610646-8    Na Ni              803 Im 
+Aoa           2538 CAC3303-C    Lo Ni Fl           310 Im 
+Laupla        2631 C464310-7  S Lo Ni              725 Im 
+Rinotawha     2634 A99A8BE-E    Wa                 420 Im 
+Ghou          2635 C554A74-8    Hi                 934 Im 
+Gidenlari     2637 B463005-B    Lo Ni              204 Im 
+Likarudig     2638 A8AA7BD-F  W Fl Wa              205 Im 
+Jan           2639 E200445-8    Ni Va              304 Im 
+Kidilidkiki   2734 X3228A5-2    Na Po           R  802 Im 
+Ddochidduth   2736 E755255-6    Lo Ni              112 Im 
+Tunpen        2739 C583543-9  S Ni                 514 Im 
+Kaadukushga   2740 A7B3123-B    Lo Ni Fl           110 Im 
+Sisha         2833 E994411-8    Ni                 305 Im 
+Tuohpaapten   2835 D765100-6  S Lo Ni              823 Im 
+Korparov      2840 B8B0A74-C    Hi De              600 Im 
+Diiku         2932 D262545-7  S Ni                 510 Im 
+Ulminsjep     2933 E000266-8    Lo Ni As           404 Im
+Tutoknytos    2935 B140547-B    Ni Po De           404 Im 
+Orsze         2938 B6657CA-7  N Ag                 604 Im
+Sheswyn       2940 A7B1365-A  A Lo Ni Fl           804 Im 
+Lakikhelar    3031 C748127-8  S Lo Ni              823 Im 
+Az            3033 C444778-6    Ag                 413 Im 
+Limaarnudu    3037 B632335-A  N Lo Ni Po           103 Im 
+Cesten        3038 B6B5533-A    Ni Fl              722 Im 
+Shashgugim    3131 X768774-1    Ag Ri           R  323 Im 
+Swar          3135 C777200-A  S Lo Ni              813 Im 
+Dini          3139 C382999-C    Hi                 113 Im 
+Amumakuga     3235 B99A79D-9    Wa                 432 Im 
+Kashikabiig   3237 D667300-7    Lo Ni              804 Im 
+

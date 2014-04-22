@@ -1,0 +1,47 @@
+@SUB-SECTOR: sec_P   SECTOR: mendan.sec
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+$3236 0237 1 0 11
+$3236 2835 0 0 11
+$2835 2737 0 0 11
+$3236 3038 0 0 11
+$3038 2639 0 0 11
+$2639 2737 0 0 11
+$2634 2435 -1 0 11
+$2634 2835 0 0 11
+$3233 3236 0 0 11
+$2639 2340 -1 0 11
+$3236 3239 0 0 11
+$3239 3201 0 1 11
+$3233 3230 0 -1 11
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX f
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Zazun         2534 C410444-6    Ni                 804 Ju 
+Uerru         2535 D8DA897-5    Fl Wa              602 Ju 
+Argisikin     2539 C230415-A  M De Ni Po           203 Ju 
+Anagh         2540 C778111-8    Lo Ni              134 J- 
+Toenghur      2632 C576477-5    Ni              R  513 Ju 
+Thaedh        2634 B478788-A  J Ag                 803 Ju 
+Oellaez       2639 B889368-7    Lo Ni              704 Ju 
+Ibardan       2734 C230472-6  F De Ni Po           823 Ju 
+Amiggus       2737 C477987-9    Hi In              403 Ju 
+Udkimer       2740 C300778-9  M Na Va              922 J- 
+Nonooleo      2835 B78A323-B  F Lo Ni Wa           912 Ju 
+Kfugae        2836 C110678-9  J Na Ni           R  905 Ju 
+Aerrodz       2837 C542444-6    Ni Po              321 Ju 
+Agkher        2933 C89A348-A    Lo Ni Wa           504 Ju 
+Okhaer        2940 C210763-9  J Na                 720 Jr 
+Bashkari      3032 E2458B9-6                    A  900 J- 
+Nerikhir      3038 C578536-4  M Ag Ni              822 Jr 
+Torc          3039 E967797-4    Ag Ri              524 Jr 
+Chicinoe      3040 B665462-A    Ni                 523 Jr 
+Oghllakhs     3136 C59A310-8    Lo Ni Wa           134 Jr 
+Iskhug        3233 B787523-A  F Ag Ni              222 Jr 
+Tuthourr      3234 C867358-7  M Lo Ni              104 Jr 
+Imikari       3236 B58A667-B  J Ni Ri Wa Cp        302 Jr
+Anik Og       3239 B969014-9  M Lo Ni              204 Jr 
+

@@ -1,0 +1,9 @@
+@SUB-SECTOR: stars_P   SECTOR: trojan
+#
+# Trade routes within the subsector
+#
+#--------1---------2---------3
+#PlanetName   Loc. Stars(s)
+#----------   ---- ---------
+Sarage        2938 F1 V
+Auitawry      3140 G6 V

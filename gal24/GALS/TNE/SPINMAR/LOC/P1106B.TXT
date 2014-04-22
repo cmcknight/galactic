@@ -1,0 +1,32 @@
+
+System Information
+
+Orbit           Name            UPP             Remarks
+--------------------------------------------------------
+Primary         Galant          G7 V
+0               Smear           G100168-C       Mi
+1               Imkhiir         YS00000-0
+2               Jewell          A777999-C       Hi In Cp
+        2       Pearl           F30246A-B       Qb
+        5       Cascot          YS00000-0
+       25       Opal            F10026B-C       Mi
+3               Planetoid Belt  Y000517-B       Mi
+4               Nieuport        Large GG
+        1       Ring System     YR00000-0
+        4       Guynemer        F500368-C       Nv
+        6       Fonck           Y200000-0
+       11       Mannock         Y3A2000-0
+       25       Boelke          YS00000-0
+       45       Bishop          G10036A-C       Mi
+5               Planetoid Belt
+6               Umsakhulag      Small GG
+        3       Ring System     YR00000-0
+       30       Isagair         Y310000-0
+      250       Virunkariish    YS00000-0
+7               Quokka          Small GG
+        8       Numbat          YS00000-0
+       13       Outpost         H200118-C       Re
+8.4             Katyn           F400369-C       Nv
+
+(Nv - Naval Base, Qb - RQS Base)
+

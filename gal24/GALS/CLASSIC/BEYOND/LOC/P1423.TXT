@@ -1,0 +1,9 @@
+System: La Belle
+
+This system is a relay point.
+
+A Relay Point is a location committed to the relaying of data, goods, or
+entities for specific purposes.  Many of these are Licensed Information/
+Communication Exchange (LICE) relay points; some of these are Imperial
+way stations leased from, or at least tolerated by, the Comsentient Alliance.
+(from BEYOND, Paranoia Press, 1981, p. 3).

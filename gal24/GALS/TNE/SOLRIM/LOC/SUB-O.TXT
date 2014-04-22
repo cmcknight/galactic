@@ -1,0 +1,27 @@
+
+Gemini Subsector
+----------------
+Gemini Subsector: The Gemini Subsector has an estimated population in 1202
+of 4.68 billion, a decline of approximately 77 percent from its
+Pre-Collapse population. Its highest population is 2.38 billion, at
+Chernozem, and its highest tech level is 9 at Hamilcar, Chernozem,
+Hephaistos and Greenpernt.
+
+Gemini Subsector (historical): The Gemini Subsector had an estimated
+population in 1117 of approximately 20.06 billion. Its highest population
+was 5.81 billion at Hamilcar, and its highest tech level was 14 at Ys,
+Hamilcar, Aristotle, and Remulak.
+
+
+
+Subsector Notes
+---------------
+	The Gemini subsector is named for the bright stars of the Castor
+system (which contains an unusual grouping of 3 binary pairs) and the
+Pollux system (a 'K' class giant), which from Earth appear as "twin" star
+systems, moving together through the evening sky. The asteroid belts in
+these systems are quite different. The Pollux belt is little more than
+gravel, making commercial exploitation unprofitable; the Castor belts, on
+the other hand, are rich in metals, ices, and simple organics. Before the
+Collapse, the Castor system supported a population over five billion.
+

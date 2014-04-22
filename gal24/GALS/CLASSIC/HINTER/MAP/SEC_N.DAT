@@ -1,0 +1,39 @@
+@SUB-SECTOR: sec_N   SECTOR: hinter
+#
+# Trade routes within the subsector
+$1531 1730 1 -1
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Hotspur       0933 C110569-A    Ni                 504 Na
+Xenxeng       0938 C100210-8    Ni Va              312 Na
+Red Sky       0939 D56667A-4    Ni Ri Ag           302 Na
+Shan-Hu       1038 C11058A-9    Ni                 633 Na
+Hefry's Dregs 1040 A100020-A    Ni Va              503 Na
+Parmenter     1131 E100235-9    Ni Va              704 Na
+Strom         1132 B461656-8  F Ni Ri              603 Na
+Ayyar         1134 B110144-C    C0 Ni              312 Na
+Nix           1136 E100200-7    Ni Va              603 Na
+Strabbid      1139 B100842-8    Va Na              612 Na
+Leroy         1231 C574969-9    Hi In           A  111 Na
+Vizier        1233 C52A220-9    Ni Wa              104 Na
+Yoryunssoy    1235 E254562-4    D5 Ni Ag           711 Na
+Eskerson      1237 D222425-9    Ni Po              905 Na
+Champion      1238 A889330-C    Ni                 803 Na
+Slider        1334 C588210-4    Ni                 203 Na
+Elan          1335 B3218AC-A    Po Na              303 Na
+Avatar        1339 E436000-7    Ni Ba              604 Na
+Leenitakot    1432 X77A6BB-1    C8 Ni Wa        R  310 Ow
+Gammist       1435 B551201-9  F Ni Po              403 Na
+Murmur        1436 B9B448B-A  F Ni              A  704 So
+Nectar        1438 D485776-7    Ri Ag              103 Na
+Rendezvous    1439 D310033-6    Ni                 504 Na
+Base 45       1440 B351105-8    Ni Po              304 Na
+Kervid        1531 E99A7CD-7    Wa              A  804 Ow
+Keasarge      1536 B110253-A    Ni                 404 Na
+Brand         1539 B4595A9-B  M Ni                 913 Na
+Gamvina       1632 B94A6BE-9    Ni Wa              903 Na
+Nerkaal       1634 C422637-5    Ni Po Na           904 Na
+Driank        1635 B110455-D  M Ni                 504 Na
+Cinder        1640 D300387-6    Ni Va              404 Na

@@ -1,0 +1,38 @@
+@SUB-SECTOR: sec_A   SECTOR: deneb
+#
+# Trade routes within the subsector
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+New Ramma     0108 C465740-9  S Ag Ri              803 Re
+Marz          0201 A5848A9-B  S V:2             A  801 Na
+Carthage      0202 C2107B9-B    Na V:6          A  224 Na
+Enaaka        0203 A777886-C    An V:1           I 122 Re
+Rubrak        0207 C554524-9  S Ag Ni V:5          901 Re
+Oekhs         0208 D263473-7  S Lo Ni Vw           202 Re
+Kretikaa      0209 B20068B-D    Ni Va Na           823 Re
+Kiiga         0303 E530526-8    De Ni Po           601 RF
+Riacon        0304 B666441-C  N Lo Ni Rw:2         701 Re
+Saki          0306 C276746-9    Ag Rw:V            401 Re
+Horizon       0310 D110737-9    Na                 624 Re
+Ghuksrregz    0403 C254435-A  S Lo Ni Vw           120 RF
+Miwald        0404 B53359B-C  S Ni Po              302 Re
+Pretoria      0406 A656A87-E  N Hi Cp Rw:0         220 Re
+L'sis         0409 A764873-9  N Ri V:3 Rw:V        201 Re
+El D'Nah      0502 C549457-B  S Lo Ni              202 RF
+Spectre       0503 C100656-8    Na Ni Va           402 RF
+Ash           0504 A540889-8  S Po De V:0          101 RF
+Aegzaeng      0508 B697433-A  N Lo Ni Vw           601 Re
+Redi          0509 D575534-5    Ag Ni An V:6 C:4   912 Re
+Gra-Bie       0510 C23027C-B    De Lo Ni Po        320 Re
+Kirklend      0602 A668547-A  N Ni Ag V:4          223 RF
+Carmel        0604 C346441-7    Lo Ni              102 RF
+Urnas         0609 A120974-F  S De Hi In Na Po     810 Re
+Taa           0701 X650677-3    De Ni Po V:2    B  230 Wi
+Dilex         0702 X626000-0    Ba                 002 --
+Hylaxis       0709 B7B2355-C    Fl Lo Ni           622 Re
+Naali         0710 D61647A-A  S Ic Lo Ni           424 Re
+Gnaghdze      0803 D55846A-2    Lo Ni Vw           301 RF
+Jode          0805 B9A6683-9    Fl Ni V:2          210 RF
+Therm         0809 C9B0489-7  S De Lo Ni           513 Re

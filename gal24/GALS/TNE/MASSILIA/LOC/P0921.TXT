@@ -1,0 +1,14 @@
+Selruke X3523M0-4  
+
+Starport: None                 Size: Small (4000-5600 km)
+Atmosphere: Thin               Hydrographics: 20% water
+Population: 5,000              Govt: Tribal Government
+Law Level: No Prohibitions     Technology: Industrial
+                      
+	Half a dozen of tribes of almost barbarian nomads survive in the planet.
+The Vampire Fleet based at Strogy has occasionally raided this world to
+capture children who can be trained as technicians or tripulants.
+
+
+by Carlos Alos-Ferrer (Alos@merlin.fae.ua.es)
+

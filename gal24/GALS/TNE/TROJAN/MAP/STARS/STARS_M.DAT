@@ -1,0 +1,31 @@
+@SUB-SECTOR: stars_M   SECTOR: trojan
+#
+# Trade routes within the subsector
+#
+#--------1---------2---------3
+#PlanetName   Loc. Stars(s)
+#----------   ---- ---------
+Ftewiri       0132 K4 V
+Elahkoi       0134 K2 V
+Ulwuar        0135 F1 V M4 V
+Ealea         0139 G5 V F7 D
+Yekhtia       0232 G0 V M8 V
+Aehahr        0234 M7 V M9 V
+Floakh        0236 F4 V M9 V M7 V
+Aohfeau       0240 F3 V M8 V
+Hkesuh        0332 M4 V
+Eaweiya       0335 K7 V M3 V
+Awo           0336 M2 V
+Aiyostea      0338 M5 V K3 D
+Hfa'yuweas    0431 F3 V M4 V
+Oseweheal     0531 F7 V M9 V M0 V
+Uaeakhea      0534 F6 V
+Tehari        0536 F3 V M7 V
+Ehearye       0633 F1 V
+Iysewekh      0640 F2 V
+Eiwakh        0738 M5 V
+Hkeleiakh     0739 K5 V
+Stohyus       0835 F6 V M2 V
+Hkakh         0837 K6 V
+Ohtae         0839 F8 V M6 V
+Uitasoayaw    0840 F3 V A2 D

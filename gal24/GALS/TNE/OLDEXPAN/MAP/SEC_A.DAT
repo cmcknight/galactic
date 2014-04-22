@@ -1,0 +1,20 @@
+@SUB-SECTOR: sec_a   SECTOR: oldexpan
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Croesus       0108 X230000-0    Ba De Po           004 Un
+Datarkt       0109 X433000-0    Ba Po              004 Un
+Elyan         0201 X7528RB-3    Po              B  302 Wi
+Thubria       0204 X112000-0    Ba Ic              000 Un
+Larmix        0209 D7878WE-4                    B  604 Wi
+Bincia        0302 C5986Q9-6 S  Ag Ni D:4          315 Wi
+Kri           0304 X6464R9-5    Lo Ni              302 Wi
+Diacy         0306 X6679S8-8    Hi D:1          B  802 Wi
+Styge         0310 E6556S3-4    Ag Ni C:5       B  913 Wi
+Dethenes      0403 XA89ARB-A    Hi              B  730 Wi
+Larspri       0408 X1B1000-0    Ba Fl              000 Un
+Preodis       0508 X3415U8-2    Ni Po              104 Wi
+Eupry         0603 D4446UB-6    Ag Ni              614 Wi
+Linourice     0606 X521000-0    Ba Po              001 Un
+Inthra        0607 X422000-0    Ba Po              024 Un

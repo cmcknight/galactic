@@ -1,0 +1,40 @@
+@SUB-SECTOR: sec_J   SECTOR: massilia
+#
+# Trade routes within the subsector
+$1430 1133 0 1
+$1430 1533 0 1
+$1430 1630 0 0
+$1630 1731 1 1
+$1430 1328 0 0
+$1328 1322 0 0
+$1322 1419 0 -1
+$1322 1121 0 0
+$1121 0919 0 -1
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Selruke       0921 C352422-B  S Ni Po              213 Li
+Rigaal        0928 B100679-E    Ni Va Na           714 Li
+Far Trinity   1025 D767661-7  S Ni Ri Ag           601 Li
+Hiponee       1027 B686351-B  N Ni Lo              721 Li
+Dreva         1028 E30089D-7    Va Na              610 Li
+Lagna         1029 A110A97-G    Hi In Na           231 Li
+Strogy        1121 A425347-E    Ni Lo              604 Li
+Elemza        1122 E10046B-9    Ni Va              303 Li
+Stenardee     1130 B110346-D    Ni Lo              114 Li
+Adep 5        1223 D45458B-7  S Ni Ag              903 Li
+Zetra         1321 B7A2544-B    Ni Fl              813 Li
+San Son       1322 A864337-E    Ni Lo              803 Li
+Levatra       1325 B200262-E    Ni Va Lo           503 Li
+Talow         1326 B7B0676-A  S Ni De              102 Li
+Tlasov        1328 A100663-F    Ni Va Na           903 Li
+Prindee       1330 D443578-9  S Ni Po              524 Li
+Mag' Lphr     1424 B100435-F  S Ni Va              703 Li
+Nindaro       1428 B9896BB-A    Ni                 300 Li
+Shiwonee      1430 AA86831-G  N Ni An Cp           433 Li
+Lasiter       1522 E210843-9    Na              A  302 Li
+Thun          1524 C000653-D    Ni As Na        A  614 Li
+Revie         1621 A978757-D    Ag                 805 Li
+Pohkrow       1629 B568338-C    Ni Lo              502 Li
+Bisks Planet  1630 B55A476-E  S Ni Wa              112 Li

@@ -1,0 +1,56 @@
+
+Sysmap v1.0
+Public Domain 1997 Jim Vassilakos
+jimv@empirenet.com
+
+Sysmap is a quick & dirty star system mapper. The general idea is
+that you're given a random star system which has no bearing to the
+mainworld stats used in Galactic. Your job is to edit the star
+system to your liking.
+
+Here's a brief summary of the available commands:
+
+      Arrows          Movement
+     PgUp/PgDn        Go to top/bottom
+      Q/Esc           Quit (saving changes)
+       ?/H            View this file
+       1/2            Move planet along orbit
+       3/4            Move orbit left/right (eccentricity)
+       5/6            Make orbit thinner/fatter (eccentricity)
+        A             Add new planet
+        C             Change color of planet or star
+        D             Change planet's/star's description
+        M             Change planet's # of moons
+        N             Change planet's/star's name
+        O             Change color of planet's orbit
+        P             Change planet type (includes planet removal)
+        S             Change star type
+        #             Change planet's orbit
+       Ins            Attach file, menu, or world map
+       Del            Detach file, menu, or world map
+   Enter/Space        View attachment
+        >             Edit attachment
+        <             Save & edit star system file directly
+      Ctrl-L          Redraw map
+      Ctrl-X          Exit (without saving changes)
+        F1            Generate new star system (keeping hub stars)
+        F2            Generate new star system (ditching hub stars)
+       F10            Dump display to bitmap
+
+Note that inner orbits are red, biozone orbits are green, outer
+orbits are blue, asteroid belt orbits are grey, and eccentric
+orbits are magenta. If an orbit comes up that's colored yellow
+(which may happen if you use the "S" function), that means the
+orbit is inside the primary's vaporization limit (where rock
+literally boils away). In any case, any world residing in such
+an orbit would be rather unlikely.
+
+Note also that many star systems are actually "double" systems (two
+star systems in relatively close proximity). If a far companion is
+present, that means the star system you're looking at is a doubleu
+system. Hit <enter> at the "Far Companion" to see the other half of
+the system.
+
+Good luck, and please send suggestions, bug reports, and questions
+to jimv@empirenet.com or to the Galactic Mailing List.
+

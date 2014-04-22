@@ -1,0 +1,31 @@
+@SUB-SECTOR: Querion  SECTOR: Spinward Marches
+#
+# Trade routes within the subsector
+$0712 0610 0 -1 13
+$0712 0614 0 0 13
+$0614 0412 0 0 13
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Atson         0111 B310598-8    Ni                 933 Na
+Yiktor        0114 C6B6431-A    Ni Fl              123 Na
+Xhosa         0115 EA95124-4    Lo Ni              910 Na
+Prinx         0212 C436635-6    Ni                 720 Na
+Rushu         0215 E765664-4    Ag Ni Ri           903 Va
+Bael          0218 E200100-8    Lo Ni Va           812 Na
+Mizan-fel     0311 B46258A-8    Ni                 323 Na
+Sansibar      0412 B200310-A  Z D4 Lo Ni Va        701 Zh
+Attica        0414 C400546-8    Ni Va              810 Na
+Retinae       0416 E8C69AA-5    Hi Fl              910 Cs
+Terra Nova    0511 C786342-9    Lo Ni              812 Na
+Asmodeus      0512 E596400-4    Ni                 205 Zh
+Faisal        0518 D445436-3    Ni                 810 Cs
+Lebeau        0613 B869554-C    Ni                 901 Zh
+Querion       0614 B254788-9  Z Ag Cp              804 Zh
+Dekalb        0618 EA8A799-6    Ri Wa              320 Cs
+Winston       0620 E887573-6    Ag Ni              501 Sw
+Rapp's World  0712 C592320-8  Z Lo Ni              402 Zh
+Thanber       0717 B243653-C    Ni Po              210 Cs
+Entrope       0720 E336AAA-C    Hi                 720 Sw
+Anselhome     0820 C110588-8    Ni                 601 Sw

@@ -1,0 +1,28 @@
+
+From: Jim Vassilakos <jimv@empirenet.com>
+Subject: Re: Question on sending contributions
+Date: Wed, 8 Jan 1997 10:45:33 -0800 (PST)
+
+galliand@juno.com writes: 
+> How are we going to handle the contributions?  Are we going to send
+> them to a central location, send to the list, or what?
+
+Please send your contributions either to the list address or to me
+directly. For binary files (such as zip files, or gifs if you want to
+send me some art), I can handle MIME-encoding but prefer uuencoding
+if you can do that. Either way though, I should be able to process
+it just fine. I'd prefer it if you made your text submissions in
+plain ol' text format since this is the format the program assumes
+(it is also best if you keep the line lengths below 80 columns and
+use spaces rather than tabs for paragraph indentation and centering).
+One additional note about the formatting. The dos version of "less",
+which does most of the text reading for Galactic, ignores the
+tilde-character (~) for some reason. Hence, it's best to avoid using
+this character if at all possible. I may decide to switch to a
+program called "browse" if this becomes a problem. Finally, please
+include your name & email address in the actual files you send me so
+that there's no chance of me screwing up and failing to properly
+credit the submission.
+
+Many thanks...  jimv@empirenet.com
+

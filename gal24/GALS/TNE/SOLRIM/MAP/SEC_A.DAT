@@ -1,0 +1,27 @@
+@SUB-SECTOR: sec_a   SECTOR: solrim
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Faiwyd        0105 X500000-0    Ba Va              012 Un
+Darrukesh     0106 B485854-9  N Ri                 823 Na
+Iddamakur     0110 B779976-9    Hi In              103 Na     f
+Basil         0207 E8427R6-4    Po              B  234 Wi
+Amkhalarug    0301 X4436R9-2    Ni Po           B  304 Wi
+Atalanta      0304 E4763RB-5    Lo Ni              203 Wi
+Sidon         0308 X6B9000-0    Ba Fl              003 Un
+Gramercy      0405 X330000-0    Ba De              000 Un
+Urud          0407 X100000-0    Ba Va              002 Un
+Morgana       0501 XA9A8WE-6    Wa              B  923 Wi
+Ugarup        0502 X89A8RE-6    Wa              B  102 Wi
+Ixtloc        0509 X530000-0    Ba De              000 Un
+Rilke         0604 X59A000-0    Ba Wa              020 Un
+Epsilon Cygni 0606 X000000-0    Ba As              025 Un
+Goshen        0609 X5775RC-4    Ag Ni              100 Wi
+Nukaash       0610 D2477R9-7    Ag                 120 Wi
+Obrichenny    0701 X6435M4-8    Ni Po              605 Wi
+Kropotkin     0703 C4446TB-9  C Ag Ni              220 Wi     f
+Thamber	      0704 X4547R5-6    Ag                 212 Wi
+Athene        0706 X6B9000-0    Ba Fl              025 Un
+Leonore       0807 X310000-0    Ba                 012 Un
+Azun          0809 X4767RB-1    Ag              B  110 Wi

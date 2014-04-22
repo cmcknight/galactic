@@ -1,0 +1,16 @@
+Elan X668969-3
+
+Starport: None               Size: Medium (8800-10400 km)
+Atmosphere: Standard         Hydrographics: 80% water
+Population: 1 billion        Govt: Captive Government
+Law Level: High              Technology: Pre-Industrial
+      
+
+Elan (2302) Mina (2401) and Solarda (2403) are Virus-controlled states
+and satellites of the Black Curtain. Elan and Solarda, in addition to
+salvage sites for Vampire ships in service to the fleets of the
+Curtain, are also exporters of shipbound human slaves. The inhabitants
+of Mina have successfully fled into the underground and have, to date,
+avoided such terrible fates.
+
+by  Chris Griffen <cgriffen@cisco.com>

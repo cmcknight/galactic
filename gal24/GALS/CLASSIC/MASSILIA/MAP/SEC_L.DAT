@@ -1,0 +1,51 @@
+@SUB-SECTOR: sec_L   SECTOR: massilia
+#
+# Trade routes within the subsector
+$2621 2718 0 -1
+$2621 2523 0 0
+$2621 2822 0 0
+$2822 2624 0 0
+$2822 3122 0 0
+$2822 2926 0 0
+$2926 2727 0 0
+$2727 2529 0 0
+$2529 2130 -1 0
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Logol         2521 B5735A9-B    Ni                 713 Ma
+Gernice       2522 B684645-B    Ni Ri Ag           810 Ma
+Barden        2523 B355787-B  S Ag              A  601 Ma
+Feiths        2529 A3108BC-E    Na                 824 Ma
+Shigeko       2530 C363832-8                       110 Ma
+Lendining     2621 A545743-D    Ag                 304 Ma
+Goematt       2622 C8C7304-B  S Ni Fl Lo           320 Ma
+Lorfee        2624 B865465-C  S Ni                 802 Ma
+Rolando       2630 D100345-B    Ni Va Lo           702 Ma
+Baetrin       2724 B68856A-C    Dw Ag Ni           622 Ma
+Seneca        2727 B265379-C  N Ni Lo              510 Ma
+Rinkenbine    2729 B11037A-F    Ni Lo              201 Ma
+Ferron        2730 B491651-C    Ni                 303 Ma
+Macaw         2822 A726742-E                       603 Ma
+Jobi          2827 B100453-F    Ni Va              314 Ma
+Gilafill      2828 B484253-E    Ni Lo              900 Ma
+Giirsha       2925 B87AA97-F    Hi In Wa           110 Ma
+Nova          2926 B200303-E  S Ni Va Lo           211 Ma
+Haterbur      2927 B110246-F    Ni Lo              402 Ma
+Varglen       2929 B110687-C    Ni Na              400 Ma
+Danmer        2930 B525554-E    Ni              A  401 Ma
+Haela         3021 B553400-D    Ni Po              603 Ma
+Erro          3026 B729110-C    Ni Lo              812 Ma
+Poorstar      3027 B100333-E  N Ni Va Lo           802 Ma
+Glerum        3122 A000300-G    Ni As Lo           800 Ma
+Mingle        3123 D100897-A    Va Na              514 Ma
+Tooka         3124 A241553-G  S Ni Po An Cp        602 Ma
+Noplace       3125 B100777-D    Va Na              124 Ma
+Whidden       3127 A466542-E    Ni Ag           A  813 Ma
+Lensfer       3128 B331510-E    Ni Po              100 Ma
+Gelornamite   3129 C8A1756-A    Fl                 123 Ma
+Tichette      3221 B551314-C    Ni Po Lo           401 Ma
+Goldazax      3222 EAA47AD-8    Fl                 802 Ma
+Nystrom       3225 A568333-C  S Ni Lo              105 Ma
+Shallow       3228 B87A345-D    Ni Wa Lo           602 Ma

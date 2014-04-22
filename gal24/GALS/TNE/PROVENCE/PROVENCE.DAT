@@ -1,0 +1,33 @@
+Provence Sector
+
+A: Llaezgaen                 sec_a.dat           f
+B: Vorvoun                   sec_b.dat           f
+C: Grnouf                    sec_c.dat           f
+D: Tsaegag                   sec_d.dat           f
+E: Anghikh                   sec_e.dat           f
+F: Kaegrogz                  sec_f.dat           f
+G: Gveghz                    sec_g.dat           f
+H: Thon                      sec_h.dat
+I: Dzarrvaer                 sec_i.dat           f
+J: Aenkuk                    sec_j.dat           f
+K: Karrdzae                  sec_k.dat           f
+L: Kaerfoz                   sec_l.dat           f
+M: Lighoz                    sec_m.dat           f
+N: Voudzeur                  sec_n.dat           f
+O: Uekhourg                  sec_o.dat           f
+P: Daekvagul                 sec_p.dat           f
+
+Bases:
+G = Vargr Naval Base
+  = None
+
+Allegiance:
+14 Dr = Rurevayn Domain
+11 KV = Knokseng Confederation
+12 Va = Independent Vargr World
+10 Vi = Llaeghskath Interacterate
+13 Vl = Lair Protectorate
+09 Wi = Wilds
+08 -- = None
+08    = Unknown
+

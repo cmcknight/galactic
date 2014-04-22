@@ -1,0 +1,57 @@
+@SUB-SECTOR: sec_A   SECTOR: vland
+#
+# Trade routes within the subsector
+$0107 3208 -1 0
+$0408 0311 0 1
+$0107 0408 0 0
+$0408 0404 0 0
+$0404 0502 0 0
+$0502 0902 1 0
+$0502 0439 0 -1
+$0404 0605 0 0
+$0605 0807 0 0
+$0807 1208 1 0
+$0408 0708 0 0
+$0708 0807 0 0
+$0708 0709 0 0
+$0709 1011 1 1
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Aakhorn       0101 D256654-7    Ag Ni              204 Rv
+Rokii         0102 E799345-7    Lo Ni              210 Rv
+Maluuf        0104 E332338-9    Lo Ni Po           110 Rv
+Gikkon        0105 E343500-B    Ni Po              932 Rv
+Taraddiin     0107 C656563-B    C1 Ag Ni           311 Rv
+Hakkat        0109 C658787-5  S Ag                 823 Rv
+Ossin         0110 B100877-B    Na Va           A  705 Rv
+Kalkako       0202 C444405-9  S Ni                 324 Rv
+Bannon's World0203 E100488-C    Ni Va              120 Rv
+Khankari      0205 B885311-D    Lo Ni              110 Rv
+Lankhi        0209 E746552-5    Ag Ni              503 Rv
+Khalgun       0210 E576534-6    Ag Ni              601 Rv
+Anert         0303 B9B366A-C    Ni Fl              610 Rv
+Skathi        0306 B585598-8  A Ag Ni              210 Rv
+Enard         0307 C8D27AC-9  S Fl                 501 Rv
+Kuk           0402 C240222-7  S Lo Ni Po De        901 Vn
+Apkeraas      0403 C438547-8    Ni                 420 Rv
+Katti         0404 A8A8210-C    Lo Ni Fl           404 Rv
+Shaddukan     0408 B622156-F  A Lo Ni Po           410 Rv
+Lugaluru      0502 C859343-C    Lo Ni              201 Vn
+Gamibuu       0506 B524610-9  A Ni                 101 Rv
+Kharta        0507 E352655-A    Ni Po              804 Rv
+Arfaan        0508 B767300-C    Lo Ni              713 Rv
+Athanuez      0601 B100863-A    Na Va              101 Vn
+Sheshat       0605 A526111-B  N Lo Ni              124 Rv
+Rakurram      0610 B200369-B  N Lo Ni Va           212 Rv
+Taegzdueg     0701 C665452-8    Ni                 314 Vn
+Khigapka      0703 B797457-B    Ni                 902 Rv
+Shukhuge      0705 C727830-8                       110 Rv
+Lenordi       0707 D000487-7  S Ni As              310 Rv
+Voskhod       0708 B1109ED-F  W Hi Na In           101 Rv
+Kharzet       0709 A565597-E    Ag Ni              601 Rv
+Ogerrgh       0801 E62A837-7    Wa                 110 Vn
+Kegirur       0804 D76A945-7    Hi Wa           A  901 Va
+Gadiga        0806 E88A102-9    Lo Ni Wa        A  101 Rv
+Kunumi        0807 A254312-D    Lo Ni              621 Rv

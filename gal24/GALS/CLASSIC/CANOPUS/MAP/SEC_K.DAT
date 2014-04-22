@@ -1,0 +1,36 @@
+@SUB-SECTOR: sec_K   SECTOR: canopus
+#
+# Trade routes within the subsector
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Alcoa         1724 C234873-B                       423 So
+Alayne        1725 C444688-8  S Ni                 325 So
+Bahrair       1726 E244143-6    Ag Lo Ni           800 So
+Ouerton       1728 B545761-B  N                    103 So
+Tung          1824 E431973-9    Hi In Na Po        124 So
+Chani         1826 C000785-C    As Na Va           200 So
+Giorgia       1828 E7827A8-6                       820 So
+Ellison       1829 D775344-7    Ag Lo Ni           614 So
+Dostoevsky    1830 C457323-7  S Ag Lo Ni           913 So
+Stagger       1923 A61567B-D  N Ic Ni              801 So
+Feron         1926 B9786AB-9    Ni                 415 So
+Ness          2024 B88457A-A  N Ag Lo Ni           332 So
+Erin          2025 E000687-9    As Na Ni Va        604 So
+Hamid         2125 B876AEJ-A  A Hi In              503 So
+Mimi          2126 D245415-6  S Ag Lo Ni           612 So
+Coalan        2127 C320446-A    De Lo Ni Po        403 So
+Balorak       2129 A685764-B    Ri                 204 So
+Quaan         2224 C443496-A    Lo Ni Po           914 So
+Fulton        2228 AAE1642-E    Ni                 324 So
+Scala         2229 C421997-A    Hi In Na Po        504 So
+Euphemia      2230 C587533-9  S Ag Lo Ni           912 So
+Sadus         2321 B1417A8-D    Po                 513 So
+Aryeh         2322 A100311-E    Lo Ni Va           405 So
+Bellamy       2326 E577531-5    Ag Lo Ni           524 So
+Keluin        2330 A968988-D  N Hi                 700 So
+Kraemer       2422 B424342-D    Lo Ni              704 So
+Calldwr       2425 B486220-B  A Ag Lo Ni           313 So
+Krystal       2429 D343653-4    Ni Po              614 So
+Pingeala      2430 B585735-9                       810 So

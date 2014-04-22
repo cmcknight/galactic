@@ -1,0 +1,37 @@
+@SUB-SECTOR: sec_G   SECTOR: gvurrdon
+#
+# Trade routes within the subsector
+#
+$2414 2715 1 0 4
+$2414 2518 1 0 4
+$1717 1616 -1 0 4
+$1717 1919 0 0 4
+$1919 2219 0 0 4
+$1919 1721 0 1 4
+$1716 1616 -1 0 9
+$1716 1915 0 0 9
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Zuerrguell    1713 B432321-A  G Lo Ni Po           120 Vq
+Rirrrronggzerz1714 B3728AD-B                       110 Vq
+Ghugi         1716 B686567-B    Ag Ni              404 Vq
+Lloursouth    1717 A253A9E-C    Hi Po              602 Vq
+Uzotssaza     1816 B225435-D    Ni                 101 Vq
+Tsenggvaksdzon1912 E54379A-5    Po                 910 Vq
+Osuekha       1914 E692166-5    Lo Ni              424 Vq
+Aedzaerz      1915 D7658BA-2                       303 Vq
+Vanas         1918 B79879C-6    Ag                 135 Vq
+Dhallas       1919 B663564-9    Ni                 603 Vq
+Aekfo         2015 B645444-8    Ni                 523 Vq
+Gurzueng      2018 B788300-B    Lo Ni              122 Vq
+Goedhung      2111 B66A512-C    Ni Wa              502 Va
+Ekakh         2117 B334579-C  G Ni                 724 Vq
+Tseghagvarz   2118 B675746-5    Ag                 613 Vq
+Knaegadae     2119 A525566-D    Ni                 924 Vq
+Idza          2219 B5748AA-5  G                    812 Vq
+Rrouzasun     2316 E000110-7    Lo Ni As           414 Vt
+Kfugvugzozoaek2412 A77A111-9    Lo Ni Wa           901 Vt
+Soungadano    2414 B671363-A  G Lo Ni              520 Vt     f
+Aekhreng      2418 B559676-B    Ni                 904 Vt
+Ngekoe        2419 B276479-B    Ni                 710 Vt

@@ -1,0 +1,28 @@
+@dir=gals\classic\reft\map
+@Light Yellow
+
+Reft Sector / Data Files
+
+@Light Cyan
+      Sector Data                  @..\reft.dat
+      Credits                      @..\credits.txt
+
+@Light Green
+      Subsector Data
+@Light Cyan
+       A: Vestus                   @sec_a.dat
+       B: Macon                    @sec_b.dat
+       C: Two Little               @sec_c.dat
+       D: Barker                   @sec_d.dat
+       E: Usher                    @sec_e.dat
+       F: Sagitarian               @sec_f.dat
+       G: Lost Way                 @sec_g.dat
+       H: Gome                     @sec_h.dat
+       I: Void 8                   @sec_i.dat
+       J: New Islands              @sec_j.dat
+       K: Old Islands              @sec_k.dat
+       L: Limon                    @sec_l.dat
+       M: Alone                    @sec_m.dat
+       N: Evestin                  @sec_n.dat
+       O: Arcrant                  @sec_o.dat
+       P: Moibin                   @sec_p.dat

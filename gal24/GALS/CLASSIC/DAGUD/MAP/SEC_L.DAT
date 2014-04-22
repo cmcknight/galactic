@@ -1,0 +1,44 @@
+@SUB-SECTOR: sec_L   SECTOR: dagudash.sec
+#
+# Trade routes within the subsector
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Proctonir     2521 C424258-E    Lo Ni              823 Im
+Emarkus       2522 C555485-8    Ni                 504 Im
+Khusgulur     2525 C373988-D    Hi In              813 Im
+Rraeghzoez    2526 B775452-E  N Ni                 212 Im
+Dummur        2529 C5299BB-E  S Hi In              801 Im
+Niishulam     2623 B432579-C  N Ni Po              614 Im
+Imern         2624 C748654-6  S Ag Ni           A  801 Im
+Serusi        2625 E540667-6    Ni Po De           402 Im
+Khasha        2627 C672235-A    Lo Ni              400 Im
+Inshaam       2721 A66958B-C  A Ni              A  504 Im
+Collette      2725 A342644-F  A Ni Po              414 Im
+Pukh          2727 B535610-B  A Ni                 714 Im
+Shershe       2728 C340874-B    Po De              502 Im
+Denisol       2729 C655754-7  S Ag                 403 Im
+Minsur        2821 C224349-C    Lo Ni              222 Im
+Khuulush      2822 D651210-5  S Lo Ni Po           222 Im
+Laeris        2827 B100447-B  N Ni Va              720 Im
+Quinarim      2828 B98A47B-E  A Ni Wa              403 Im
+Khiishi       2830 B77A279-E  N Lo Ni Wa           203 Im
+Baladine      2922 B303420-D  S Ni Va Ic           203 Im
+Anpanaar      2923 C343531-7    Ni Po              923 Im
+Shea          2927 E651976-8    Hi Po              303 Im
+Shurkig       2928 A234665-F    Ni                 610 Im
+Pamnagagur    3024 C785497-A  S Ni                 915 Im
+Kestona       3027 B576322-8  N Lo Ni              310 Im
+Dashgurus     3028 C768635-5  S Ag Ni              912 Im
+Frey          3029 C361303-9    C0 Lo Ni           700 Im
+Khaamumlar    3030 E230761-6    Na Po De           520 Im
+Depot         3121 A310244-D  D Lo Ni              310 Im
+Zerpekush     3122 C120744-A    Na Po De           804 Im
+Zhummuuki     3124 C74A622-7    Ni Wa              522 Im
+Kan           3126 A433314-G    Lo Ni Po           204 Im
+Dupligi       3221 C76A105-A  S Lo Ni Wa           113 Im
+Dinzur        3222 A120326-E  N Lo Ni Po De        310 Im
+Kedden        3223 B485524-A    Ag Ni              313 Im
+Namkigem      3227 B665648-9  S Ag Ni Ri           600 Im
+Ishmurish     3228 D000200-B  S Lo Ni As           700 Im

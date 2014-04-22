@@ -1,0 +1,23 @@
+Pohkrow X5685Q6-6
+
+Starport: None               Size: Medium (7200-8800 km)
+Atmosphere: Standard         Hydrographics: 80% water
+Population: 200,000          Govt: Charismatic Oligarchy
+Law Level: Moderate          Technology: Pre-Stellar
+     
+Three different populations inhabit the planet. One, numbering over
+100,000, descends from Geonee refugees from Shiwonee ("Lost Geonee"), who
+were stranded in the planet when fleeing back from the Nes'Vra subsector,
+after the start of the Geoneecide. They are governed by a charismatic,
+technically-oriented oligarchy. The second, slightly smaller, descends from
+ordinary refugees from all over the subsector, settled in the world by a
+corporation during Hard Times. They are governed by a democratic system. The
+last one, nomadic in nature and numbering just a few thousands, descends
+from the original, true inhabitants of the world, and are governed by a
+self-perpetuating oligarchy based around a few families.
+	The two major populations inhabit areas thousands of kilometers away, but
+are aware of each other. However, contacts have not been peaceful. The
+Geonee community is "humanophobic", due to harsh memories from the Geoneecide.
+
+
+by Carlos Alos-Ferrer (Alos@merlin.fae.ua.es)

@@ -1,0 +1,39 @@
+@SUB-SECTOR: sec_a   SECTOR: massilia
+#
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Meridian      0121 D6574Q6-5    Lo Ni              404 Wi
+Albion        0123 E5653O3-6    Lo Ni              225 Wi
+K'Zass        0124 X2466R8-7    Ag Ni              414 Wi
+Lant          0125 X110000-0    Ba                 000 Un
+Dalsam        0130 X9B2000-0    Ba Fl              013 Un
+Aymon         0221 X6573O3-5    Lo Ni              414 Wi
+Huon          0223 X100000-0    Ba Va              021 Un
+Kiholm        0226 X200000-0    Ba Va              003 Un
+Dezik         0228 X9C8000-0    Ba Fl              005 Un
+Viiman        0321 C8876V8-8    Ag Ni              410 Wi
+Kirgis        0325 X95A001-0    Wa              B  023 Un
+Eskatrayot    0327 X5888TB-2    Dw              B  204 Wi
+Dirac         0330 X7B5000-0    Ba Fl              012 Un
+Zaibeth       0425 X110000-0    Ba                 024 Un
+Rocks         0426 X000000-0    As Ba              004 Un
+Savisz        0428 X9777M0-3    Ag              B  122 Wi
+Kingston      0430 XACA000-0    Ba Fl Wa           014 Un
+Marach        0522 D4849R9-6    Hi              B  104 Wi
+Bloom         0524 C5665R8-8    Ag Ni              204 Wi
+Damber        0525 X473401-5    C2 Lo Ni           403 Wi
+Nowell        0526 X4413Q5-8    Lo Ni Po           210 Wi
+Reon          0528 X9A7000-0    Ba Fl              002 Un
+Xarian        0529 X7687RA-4    Ag Ri           B  623 Wi
+Quuke         0530 X100000-0    Ba Va              001 Un
+Kinnas        0621 XAC7000-0    Ba Fl              010 Un
+Nananana      0624 X8C1000-0    Ba Fl              004 Un
+Beoff         0627 X7A1000-0    Ba Fl              005 Un
+Crian         0630 X527000-0    Ba                 003 Un
+Mura          0725 X9D3000-0    Ba Fl              012 Un
+Goglus        0726 X4465M0-5    Ag Ni           B  203 Wi
+Bathy         0728 X300000-0    Ba Va              003 Un
+Phlox         0825 D6524RB-8    Lo Ni Po           201 Wi
+Hervey        0826 X5544P3-5    Lo Ni           B  120 Wi

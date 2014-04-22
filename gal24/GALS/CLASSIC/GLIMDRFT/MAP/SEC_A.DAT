@@ -1,0 +1,16 @@
+@SUB-SECTOR: sec_a   SECTOR: glimdrft
+#
+#Jump Routes
+
+#
+#--------1---------2---------3---------4---------5---------6----
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- --
+Verglavia     0105 E338772-6                       200 Na
+Bursa         0202 D5406B5-5    Ni                 701 Na
+Kofu          0306 A000368-C    As                 601 Na
+Clearwater    0409 B3777B2-7    Ag                 200 Na
+Depew         0603 X7C7000-0  S                    001 Cs
+Garati        0706 CA98440-4    Ni                 400 Na
+Harahan       0710 B863400-7    Ni                 200 Na
+Mantua        0803 A9CA657-C    Ni Wa              601 Na

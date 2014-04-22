@@ -1,0 +1,29 @@
+
+     Porozlo System Details
+
+     Orbit      Name            UPP          Remarks
+     ----------------------------------------------------
+     Primary    Corusca         M1 V
+     0          Porozlo         A867A74-B    Hi Tn
+          50    Jelorba         G546467-B    Fa Mi
+     1          (Empty Orbit)
+     2*         Glint           M7 V
+     0          Czaczezhnia     Small GG     Size 60
+     1          Ring System     YR00000-0
+     2          Ring System     YR00000-0
+          5     Glyph           Y300000-0    Va
+          7     Tybalt          Y100000-0    Va
+          13    Aamed           Y200000-0    Va
+          55    Padenton        YS00000-0    Va
+     3          Brazhorno       Y1A0102-B    Re
+          13    Alec            YS00000-0    Va
+          40    Cela            GS00207-A    Va
+     4          Milano          Y600000-0    Va
+     5          Borges          F410663-A    Co
+          8     Blanca          Y100000-0    Va
+          35    Sinai           HS00107-B    Re Va
+     6          Calyph Orga     G500636-B    Re Va
+     7          Mandrigora      H643437-B    Mi
+
+     * Companion star
+

@@ -1,0 +1,20 @@
+@SUB-SECTOR: stars_C   SECTOR: gvurrdon
+#
+# Trade routes within the subsector
+#
+#--------1---------2---------3
+#PlanetName   Loc. Stars(s)
+#----------   ---- ---------
+Okfitos       1709 F3 V
+Gzazogze      1807 F0 V M5 D
+Gkakhaellan   2002 F0 V
+Tanga         2005 M3 V
+Ragzael       2010 F5 V M8 D
+Vorroeng      2101 K2 VI
+Ikhotakhang   2209 F6 IV
+Karrksinarka  2302 G2 V
+Uthisodzugoksa2305 K9 V
+Khagogksi     2307 M1 V
+Gaengour      2404 M3 V
+Ilughavo      2407 M0 V
+Sagukhunngo   2408 M1 V M6 D

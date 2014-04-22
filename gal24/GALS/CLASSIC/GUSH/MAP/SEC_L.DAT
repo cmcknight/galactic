@@ -1,0 +1,48 @@
+@SUB-SECTOR: sec_L   SECTOR: gush
+#
+# Trade routes within the subsector
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Joand         2521 C8A9632-C  S Ni Fl              504 Im
+Mapock        2523 D546325-9  S Lo Ni              700 Im
+Ioyx          2525 B6B2246-B  N Lo Ni Fl           203 Im
+Joffe's World 2526 B3106A9-D  A Na Ni De           502 Im
+Etwefrewa     2527 B366547-9    Ag Ni              720 Im     f
+Khankaar      2625 E633323-A    Lo Ni Po           302 Im     f
+Bliand        2626 A948423-A    Ni                 422 Im
+Imarshas      2627 C9C69EE-9  S Hi Fl              124 Im     f
+Kunggy        2628 C885115-B  S Lo Ni              711 Im
+Nosy Be       2629 B69A633-8    Ni Wa              300 Im
+Majunga       2630 E8AA68A-9    Ni Fl Wa           910 Im
+Doposeng      2723 C494100-A    Lo Ni              300 Im
+Memern        2724 A340332-C    Lo Ni Po De        802 Im
+Moytra        2725 A636859-B    Cp                 410 Im     m
+Loholoka      2726 C456316-B    Lo Ni              400 Im
+Irkhun        2730 C4508B6-7  S Po De              100 Im     f
+Fuch          2821 E451686-6    Ni Po              803 Im
+Zomandao      2822 C688557-B    Ag Ni              200 Im
+Anech Issan   2824 C264684-6  S Ag Ni Ri           302 Im     m
+Ushuuri       2828 C83A987-C  S Hi Wa              113 Im
+Sersoolm      2829 B2208CG-B  A Na Po De           822 Im
+Dendouth      2830 C200665-8    Na Ni Va           101 Im
+Edat          2921 B437850-E  N                    102 Im     m
+Goye          2923 C767565-7  S Ag Ni              410 Im
+Oieakh        2924 E337123-6    Lo Ni              412 Im
+Hkeakewoirea' 2925 C998956-D    Hi In              802 Im     m
+Taeahtaho     2930 D887331-5  S Lo Ni              504 Im     f
+Suysu         3023 C0008CC-C  S Na As           A  812 Im     f
+Brase         3024 C756553-A    Ag Ni              904 Im
+Beangub       3026 D786511-7  S Ag Ni              100 Im
+Gier          3027 B5A6455-A  N Ni Fl              803 Im
+Doucttru      3028 B798400-A  S Ni                 305 Im
+Phaln         3029 B120963-F    Hi Na In Po De     712 Im     m
+Vammuun       3122 D200558-A    Ni Va              900 Im
+Bivaud        3126 B9C5555-D  S Ni Fl              203 Im
+Akhudgir      3130 AA87132-C    Lo Ni              604 Im     m
+Vohitsara     3223 B110589-F  A Ni                 503 Im
+Ars           3224 C656752-7    Ag                 104 Im
+Joyrest       3226 E546567-5    Ag Ni              104 Im
+Moskett       3228 C2007BC-7    Na Va              425 Im
+Tsihombe      3230 B764454-E  A Ni                 600 Im

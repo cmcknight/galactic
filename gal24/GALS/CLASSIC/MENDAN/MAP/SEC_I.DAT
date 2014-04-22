@@ -1,0 +1,34 @@
+@SUB-SECTOR: sec_I   SECTOR: mendan.sec
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX f
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Gukham        0121 C785412-8    Ni C0              303 Va
+Kengighon     0122 C30078B-9  C Na Va           R  921 Va
+Egva Ors      0125 E66A566-5    Ni Wa              604 Va
+Aeghzath      0130 E479441-8    Ni                 603 Vx
+Ougzto        0221 A59A8AB-9    Wa              A  814 Va
+Un Aekho      0223 C100556-B  H Ni Va              724 Va
+Osaelon       0227 C7B8434-5    Fl Ni              310 Va
+Faethaeng     0229 C537385-6    Lo Ni              222 Vx
+Gvazoekh      0325 X658799-0    Ag              A  203 Va
+Muzalag       0326 C562666-6  M Ni Ri              905 Sc
+Aenggho       0328 B69A677-A  M Ni Wa              203 Sc
+Oukael        0421 C5A635A-A    Fl Lo Ni           103 Sc
+Vungoerrg     0426 E99A654-8    Ni Wa              410 Sc
+Asarki        0521 C7A49AD-A    Fl Hi              500 Sc
+Souzu         0522 B455446-A  F Ni                 701 Sc
+Ozuen Arr     0523 A588579-8  J Ag Ni              522 Sc
+Uedhfe        0621 C654357-8  M Lo Ni              803 Sc
+Durshad       0624 E332668-5    Na Ni Po           323 Sc
+Ounoeth       0628 E67A886-6    Wa                 222 Sc
+Gupiggi       0724 C547303-5    Lo Ni              500 Sc
+Agugurkir     0725 C995426-7  M Ni                 204 Sc
+Sarkan        0726 A459ABG-E    Hi Cp              604 Sc
+Ministee      0729 A476343-C    Lo Ni              910 Sc
+Meshuga       0826 B7B7797-A  M Fl                 805 Sc
+

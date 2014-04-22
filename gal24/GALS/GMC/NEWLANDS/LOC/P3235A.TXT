@@ -1,0 +1,21 @@
+System: Gibraltar
+Subsector: Monta
+Sector: Newlands
+Coordinates: 3235 (P0805)
+UWP: A5979AA-B
+
+Starport: Excellent
+Size: Medium (7200-8800 km)
+Atmosphere: Dense, tainted
+Hydrographics: 70% water
+Population: 2 billion
+Govt: Charismatic Dictatorship
+Law Level: Extreme
+Technology: Average Stellar
+
+Bases: Navy, Scout & Diadochi
+Trade Codes: Hi In           
+Travel Zone: Amber
+Planetoid Belts: 1
+Gas Giants: 0
+Allegiance: Imperial Diadochi

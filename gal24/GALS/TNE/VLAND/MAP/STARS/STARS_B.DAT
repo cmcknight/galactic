@@ -1,0 +1,39 @@
+@SUB-SECTOR: stars_B   SECTOR: vland
+#
+# Trade routes within the subsector
+#
+#--------1---------2---------3
+#PlanetName   Loc. Stars(s)
+#----------   ---- ---------
+Otsaellghue   0902 K4 V
+Iishashun     0906 A8 IV
+Jiinasha      0909 M1 III
+Odhughe       1001 K9 V M5 V
+Anaanika      1003 M4 V
+Esngougz      1004 M4 V
+Laaru         1007 G6 IV
+Azu           1102 M0 V B3 D
+Gvaellekh     1104 F3 V M4 V
+Sikilar       1107 G9 V
+Vakhoneri     1108 M0 III
+Suragginsu    1109 F4 V M9 V
+Liwar         1110 K8 V
+Erim          1201 M0 V M6 V
+Anghurr       1202 K5 V
+Angvae        1203 F3 II K6 II
+Kummus        1206 M3 V
+Vhodan        1208 G0 II K4 IV
+Enpar Konal   1309 K0 V
+Deraan        1403 M3 V
+Diiron        1405 G1 V
+Timat         1406 M5 V
+Guusimka      1407 M1 V
+Maran         1408 M5 V
+Zentove       1410 K0 V G4 V
+Odinaga       1505 M1 V G7 D
+Audhumla      1509 M3 V B1 D
+Gamgilebo     1604 F1 IV M2 V M9 V
+Dannar        1606 F7 V M4 V
+Riinel        1608 M6 V
+Sakkuum       1609 M9 V
+Zentove       1410 K0 V G4 V

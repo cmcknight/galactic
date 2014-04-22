@@ -1,0 +1,21 @@
+Hinterworlds - Credits
+----------------------
+
+The Hinterworlds data was ftped from Sunbane.
+
+Similar data seems to have been published in issue 39 of
+Challenge, put out by Game Designers' Workshop in 1989.
+The Hinterworlds article lists the following credits:
+
+  Design . . . . . . . . . . . . Rob Caswell, Karl Johnson
+  Design Assistance. . . . . . . .Tom Peters, Mike Mikesh,
+                           Joe Fugate Sr., Marc W. Miller,
+                                          Thomas McCarroll
+  Technical Support, Maps . . . .Digest Group Publications
+  Development . . . . . . . .Timothy B. Brown, Deb Zeigler
+
+Although there is no precise game-date for any of the data,
+they are current as of sometime during the MegaTraveller Era.
+The jump/trade routes reflect both those of individual client
+states as well as those of the larger empires.
+

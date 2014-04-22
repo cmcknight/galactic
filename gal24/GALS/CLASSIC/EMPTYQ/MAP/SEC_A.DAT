@@ -1,0 +1,39 @@
+@SUB-SECTOR: sec_A   SECTOR: emptyq
+#
+# Trade routes within the subsector
+#
+$0208 3108 -1 0
+$0208 0511 0 1
+$0208 0205 0 0
+$0205 0302 0 0
+$0302 0601 0 0
+$0601 0639 0 -1
+$0709 0511 0 1
+$0709 0705 0 0
+$0705 1004 1 0
+$0601 0705 0 0 
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Amagasaki     0110 C656623-6    Ag Ni C:3          910 Jr
+Orzabal       0201 C673102-8    Lo Ni              223 Jr
+Arrikeshmundin0204 B372352-7    Lo Ni           R  501 Jr
+Pax Deorum    0205 B8B058A-8    De Ni              122 Jr
+Iipkhudi      0206 A472511-B    Ni                 812 Jr
+IKON          0208 C668986-8    Hi Ni              514 Jr
+Hildegard     0302 A330756-B    De Na Po           111 Jr
+Edash Mas...  0305 B338478-C    Lo Ni              932 Jr     f
+Dungii        0308 C201264-9    Ic Lo Ni O:0208    103 Jr
+Gagiiranur    0406 B320203-8    De Lo Ni Po Na  A  901 Jr
+Shodoshima    0410 C55A879-5    Wa                 511 Jr
+Ryt Thoudhutz 0501 C232464-9    Ni Po Lo C2 O:0601 822 Jr
+Asummirap     0510 B663779-7    Ri                 914 Jr
+Maistoelat    0601 A500243-8    De Lo Ni Va        704 Jr
+Solstice      0605 C99A466-9    Ni Wa Lo Mr        300 Jr
+Mirukuseki    0704 C437697-8    Ni                 403 Jr
+Okayama       0705 A634422-8    Lo Ni              903 Jr
+Hyuga         0706 DS00000-7    Lo Va              402 Jr
+Engarmi       0709 A330444-E    De Ni Lo Cp     A  812 Jr
+Siidkirgumar  0805 E542453-6    Lo Ni Po           403 Jr
+Urshem        0809 DAC05DE-A    De Po              420 Jr

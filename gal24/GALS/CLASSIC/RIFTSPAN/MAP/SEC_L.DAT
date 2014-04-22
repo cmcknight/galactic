@@ -1,0 +1,17 @@
+@SUB-SECTOR: sec_L   SECTOR: riftspan
+#
+# Trade routes within the subsector
+$2521 2423 -1 0
+$2726 2423 -1 0
+$2726 2729 0 0
+$2729 3030 0 0
+$3030 2933 0 1
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Stairearlehfa 2521 C422AH9-9    Hi Na In Po        305 Na
+Uiryo'yahoh   2726 B1206K7-D    Na Ni Po De        203 Na
+Esui          2729 B2004K6-E    Ni Va              202 As
+Hluarelai     3030 B4613M7-9    Lo Ni              804 Na
+Oyoiy         3121 B6985JA-A    Ag Ni              400 Na

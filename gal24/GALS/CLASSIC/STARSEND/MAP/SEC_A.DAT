@@ -1,0 +1,43 @@
+@SUB-SECTOR: The Sandwords SECTOR: Star's End
+#
+# Trade Routes
+#
+$0201 3202 -1 0 11
+$0710 1109 1 0 11
+$0710 0806 0 0 11
+$0710 0408 0 0 11
+$0408 0406 0 0 11
+$0406 0404 0 0 11
+$0404 0201 0 0 11
+$0201 0140 0 -1 11
+$0710 0613 0 1 11
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Akhaka        0101 B584675-A  N Ag                 300 Hl    
+Kakunasgup    0102 C524314-B    Lo                 404 Hl    
+Umpagu        0104 X432000-0    Ba Lo              004 Hl    
+Iigigsu       0201 A484438-E                       803 Hl    
+Kagag         0205 CAB7440-9  S Fl                 600 Hl    
+Khaka         0208 C667A48-A    Hi                 114 Hl    
+Ishgadugis    0209 E9B45BA-B    Fl                 304 Hl    
+Gashuukhe     0309 A246686-C    Ag                 312 Hl    
+Kargumar      0401 C682100-6    Lo                 924 Hl    
+KumguulusHlu  0404 B556845-B    Ag Ni              514 Hl
+Guukiinmile   0406 A97899C-B    Hi                 100 Hl    
+Legumenkig    0408 A444ABA-C  N Hi                 923 Hl    
+Dikemu        0409 X150000-0    Ba De Lo           004 Hl
+Adurnii       0509 C685440-5                       724 Hl    
+Esherkhesh    0510 C57379A-8                       604 Hl    
+Untouchable   0601 X000000-0    As Ba Lo An     R  001 Hl     f
+Liigagidii    0603 C596653-8    Ag                 503 Hl    
+Luzumam       0605 X500000-0    Ba Lo Va           003 Hl    
+Kagiirze      0606 E346400-3                       220 Hl    
+Sukiirusidar  0607 E411325-9    Ic Lo              313 Hl    
+Kushuni       0610 C538200-7    Lo                 104 Hl    
+Gamushii      0703 C643222-5    Lo                 403 Hl    
+Ugirum        0706 BA889C9-B    Hi                 401 Hl    
+Giikiikhir    0710 B597563-7  N Ag                 701 Hl    
+Ikamki        0806 A85AA84-D  S Hi Wa              502 Hl    
+Shikhiniluu   0807 X000000-0    As Ba Lo           011 Hl    
+

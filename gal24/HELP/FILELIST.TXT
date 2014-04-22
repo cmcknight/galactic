@@ -1,0 +1,85 @@
+The files which you should have with this package are:
+
+gal.exe            galactic - main program
+gal.cfg            configuration data (the current settings)
+less.exe           text reader
+browse.com         text reader
+vi.exe             text editor
+ted.com            text editor
+data\*.*           various data files for galactic
+help\*.*           various help files for galactic
+sub\*.*            various subprograms which include...
+sub\arch.exe       galaxy/sector archiver
+sub\cfg.exe        configuration program
+sub\findwrld.exe   world finder
+sub\flat.exe       flat text sector writer
+sub\funky.exe      funky text (used for the main menu)
+sub\hexworld.exe   world mapper
+sub\insdel.exe     world insertion/deletion program
+sub\j3edit.exe     personal jump route table editor
+sub\makegal.exe    galaxy maker
+sub\makesec.exe    sector maker (includes sector questionnaire)
+sub\secgen.exe     sector generator for galactic
+sub\secmap.exe     graphical sector mapper
+sub\secmnu.exe     sector menu
+sub\strain.exe     data-strainer for pbem gms
+sub\sub2bmp.exe    subsector bitmapper
+sub\sysmap.exe     star system mapper
+sub\uwpedit.exe    universal world profile editor
+xtra\*.*           various extras which include...
+xtra\colors.dat    list of colors which "eg" uses
+xtra\eg.exe        source for electric guildsman menuing system
+xtra\egacolor.com  modifies screen colors for easy reading
+xtra\ls.exe        directory listing program
+xtra\pkunzip.exe   popular dearchiving program
+xtra\pkzip.exe     popular archiving program
+xtra\rm.exe        file deletion program
+xtra\vi.txt        help file about vi.exe
+section2\*.*       program for sectioning dgp-sectors into gal-subsectors
+convert\*.*        program for converting gal23 galaxies to gal24 format
+gals\*.*           various galaxies
+gal.lst            list of galaxies currently on disk
+
+Each Galaxy directory is set up as follows:
+
+                           Galaxy Directory
+                                  |
+        -----------------------------------------------------
+        |                  |              |                 |
+       GEN             <sectors>      <galaxy>.lst       uwp.dat
+     General          Sector Sub-       List of        UWP Stats &
+   Subdirectory       directories       Sectors        Definitions
+
+    (General info,     (One sub-       (List of        (list of uwp
+    top menu is        directory       sectors         stats and the
+    galaxy.mnu)        for each        contained       possible values
+                       sector)         in galaxy)      of each)
+
+Each galaxy also contains a where.dat file which contains two numbers
+(X,Y), telling the program of the user's last known coordinates while
+visiting the galaxy.
+
+Each sector directory is set up as follows:
+
+                            Sector Directory
+                                   |
+      -------------------------------------------------------------
+      |             |              |              |               |
+     GEN           LOC            MAP         HEX & SYS      <sector>.dat
+   General      Locations      Map files     Hexworld &      Basic Sector
+ Subdirectory  Subdirectory   Subdirectory   Sysmap Dirs
+ 
+ (General info,   (World       (Subsector     (Hexworld      (List of
+ top menu is      write-ups    data files     world maps     subsectors,
+ sector.mnu)      which you    from which     and Sysmap     base codes,
+                  create)      the maps       star system    & allegiance
+                               are drawn)     maps           codes)
+
+Each sector may also contain a uwp.dat file. This file acts as a
+continuation of the uwp.dat contained in the galaxy directory, and in
+cases of conflict, the uwp.dat at the sector level supercedes the one
+at the galaxy level. Compare gals\classic\uwp.dat and gals\classic\
+beyond\uwp.dat for an example of how this works.
+
+   Hit <Q> to return to Help Menu
+

@@ -1,0 +1,39 @@
+@SUB-SECTOR: sec_H   SECTOR: gvurrdon
+#
+# Trade routes within the subsector
+#
+$3120 2821 0 1 4
+$3120 3117 0 0 4
+$3117 3213 0 0 4
+$3117 2916 0 0 4
+$2916 2715 0 0 4
+$2715 2414 -1 0 4
+$2518 2414 -1 0 4
+$3120 3221 0 1 4
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Dzoekhsunoullo2513 C569512-7    Ni                 220 Vt
+Foel          2514 A687210-B    Lo Ni              901 Vt
+Tsorgoelae    2515 B20069A-C    Na Ni Va           610 Vt
+Unggvokhaengar2518 B8B5521-8  G Ni Fl              402 Vt
+Knoerrgh      2611 E23099C-8  C Hi Na Po De        901 Va
+Gzaer         2613 A10069B-E    Na Ni Va           313 Vt
+Luthours      2617 B551633-8    Ni Po              723 Vt
+Knuerz        2620 B749776-6                       501 Vt
+Dhanrranoez   2715 B9A8375-8    Lo Ni Fl           702 Vt
+Aerzdanthi    2717 D84A699-5    Ni Wa              524 Vt
+Radellogvate  2720 B7B8215-8    Lo Ni Fl           601 Vt
+Kfuevavae     2913 B636657-8  G Ni                 604 Va
+Olgan         2916 B88A302-9    Lo Ni Wa           401 Vt
+Uefokung      3012 B403313-A    Lo Ni Ic Va        220 Va
+Ounoe Eglloegh3017 B403313-C    Lo Ni Ic Va        723 Vt
+Koesolaedze   3020 C585210-8    Lo Ni              102 Vt
+Zaersougvivu  3114 C423303-7    Lo Ni Po           120 Vt
+Thoengling    3117 A9AA6BA-B  G Ni Fl Wa Cx        902 Vt
+Surrghkoeg    3120 A97A6AF-B    Ni Wa              901 Vt
+Outhzaekaefakh3211 A896314-A    Lo Ni              703 Va
+Eksfarrarr    3213 A671777-7                       822 Vt
+Tuelehollar   3217 A252554-9    Ni Po              211 Vt
+Ikkhadzkfaghuk3218 A6858CB-7                       801 Vt
+Rroungkhi     3220 B736543-C    Ni                 203 Vt

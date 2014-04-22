@@ -1,0 +1,68 @@
+Nagiida C667978-9       
+
+Starport: Routine                   Size: Medium (8800-10400 km)
+Atmosphere: Standard                Hydrographics: 70% water            
+Population: 5 billion               Govt: Balkanization
+Law Level: High                     Technology: Early Stellar
+         
+	Nagiida was settled by Vilani colonists during First Imperium times, and
+has maintained a Vilani culture since then. Along the history, the world has
+been one of the major opponents to the Geonee influence in the area.
+	Both the Rebellion and the Collapse hit Nagiida harshly. In addition to
+military attack, the already impoverished economy of the overpopulated world
+suffered badly when local Hortalez et Cie's managers decided to flee the
+world to relocate the corporation assets in the Tanny Project, in 1124. The
+situation exploded when thousand of natives tried to seize control of the
+corporation starships that were taking its employees out of the planet. In a
+few weeks, corporation mercenaries were fighting both the populace and the
+local army. When Hortalez et Cie's personnel finally was evacuated, the
+planet was left in complete chaos.
+	Hard Times did nothing to help the world's economy. When the Virus arrived,
+the planet population had already suffered a spectacular decrease, with
+hundreds of millions of people dying from starvation, disease, or in petty
+civil wars. Virus finished the job. From the pre-Rebellion population figure
+of 80,000 millions, only 3,000 millions survived in 1131. Seventy years
+later, population recovery has lead to the current 5,000 millions figure.
+	The planet is heavily balkanized, with 6 major nations and around twenty
+minor ones. Conflicts and even open warfare among them is not unusual, as no
+supranational government exists. The major nations are:
+
+	Nagiishan League: A loose alliance of cities and noble states with feudal
+structure. Population: 1,000 millions. Government: 5 (Feudal technocracy).
+Law level: 6. Tech level: A.
+	Dekaan Republic: A highly centralized federation, ruled mostly as a Vilani
+bureau. The republic owns a C starport (downport only). Population: 700
+millions. Government: 9 (Impersonal bureaucracy). Law level: A. Tech Level: B.
+	Freedom Area: A religious, technophobic dictatorship. Population: 500
+millions. Government: D (Religious dictatorship). Law level: C. Tech level: 5.
+	Gemdurkhaagash District: An hereditary barony currently ruled by an
+Iishakku or Baron. The current Iishakku, Shannash Gemdurkhaagash, holds
+power by virtue of controlling a few dozens of relic grav tanks. Population:
+300 million. Government: B (non-charismatic dictatorship). Law level: 9.
+Tech level: 8.
+	Kishnaar City-State: An independent, populous city which maintains control
+of an extensive region around itself. Population: 200 million. Government: 4
+(Democracy). Law level: 4. Tech level: 8.
+	Zunarsha: A corporation which is directly in control of a large
+archipelago, and is also a major economic power in most of the other
+nations. Owns a C starport. Population: 200 million. Government: 1
+(Corporation). Law level: 3. Tech level: B.
+	The remaining nations have a joint population of 2,500 millions, a mean law
+level of 8, and a mean tech level of 8.	In summary:
+
+	Nation				Pop.(millions)		Gov.	Law	TL
+	Nagiishan League			 1,000		5	6	9
+	Dekaan Republic			           700		9	A	B
+	Freedom Area				   500		D	C	5
+	Gemdurkhaagash District		           300		B	9	9
+	Kishnaar City-State			   200		4	4	9
+	Zunarsha Corporation		           200		1	3	B
+	Rest (aggregate)			 2,500		7	8	9
+	TOTAL (aggregate)			 5,400		7	8	9
+
+	The Geonee Confederation has contacted Nagiida, but most of the Vilani
+governments actively oppose any contact. A Geonee consulate exists within
+Zunarsha's territory, but the Dekaan Republic has forbidden all Geonee to
+enter its territory.
+
+by Carlos Alos-Ferrer <alos@merlin.fae.ua.es>

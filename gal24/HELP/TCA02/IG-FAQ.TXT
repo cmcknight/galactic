@@ -1,0 +1,355 @@
+
+From: sdollar@goodnet.com (Stuart L. Dollar)
+Newsgroups: rec.games.frp.misc
+Subject: Imperium Games FAQ
+Date: Wed, 23 Oct 1996 16:45:52 GMT
+
+Imperium Games FAQ:
+
+PART I: GENERAL INFORMATION 
+
+Q.  What is a FAQ?
+
+A.  FAQ is short for "Frequently Asked Questions."  Thus, a FAQ is a
+list of frequently asked questions on a particular subject, along with
+answers to those questions.
+
+
+Q.  What is the purpose of this FAQ?
+
+A.  The Imperium Games FAQ has been created in order to provide a
+single source of answers for questions regarding Imperium Games,
+Inc.'s product schedules, Traveller rules clarifications, and general
+information relating to Imperium Games' product line.
+
+
+Q.  How accurate is this FAQ?
+
+A.  As accurate as it can be, given that humans are involved at every 
+step of the process.  Sometimes there is a miscommunication or 
+misunderstanding that results in inaccurate information.  Other times,
+items in this FAQ (such as release dates) get changed after the FAQ is
+presented online.
+    While every effort is made to ensure that the information
+contained herein is accurate at the time of presentation, mistakes
+will happen from time to time.  Please keep that in mind, and be
+forgiving of the representative who posts the information. :)
+
+
+Q.  Where can I find the latest copy of this FAQ?
+
+A.  Peter Miller (no relation to Marc) maintains an excellent 
+Traveller-related web-site at
+(http://www.dragonfire.net/~pm/traveller/) and the latest version of
+this FAQ can always be found there.
+
+
+Q.  Who or what is Imperium Games?
+
+A.  Imperium Games, Inc. (IG) is the company which publishes the
+Traveller role-playing game.  The staff of IG includes:  Ken Whitman,
+Lester Smith, Greg Porter, Don Perrin, Ashe Marler, Matt Machtan, and
+Timothy Brown.
+
+
+Q.  Who is Marc Miller?
+
+A.  Marc Miller is the man who invented the Traveller role-playing
+game, and who holds the trademark for the Traveller name, as well as
+the copyrights to products published by Game Designers' Workshop (the
+company which published Traveller from 1977 through February, 1996).
+His company is FarFuture Enterprises (FFE).  Marc continues to be
+involved with the Traveller game, by advising IG and posting
+frequently to the Traveller Mailing List (TML), among other ways.  
+
+
+PART II: Communicating With Other Traveller Enthusiasts 
+
+Q.  Are there any web sites with information about Traveller?
+
+A.  Information about Traveller can be obtained from the Imperium
+Games Web Site (http://www.imperiumgames.com), which also contains
+many links to other sites of interest to Traveller enthusiasts. 
+
+
+Q.  Are there any IRC channels that are Traveller-related?
+
+A.  Yes.  Use any undernet.org server (i.e.,
+atlanta.ga.us.undernet.org, saltlake.ut.us.undernet.org,
+chicago.il.us.undernet.org, or london.uk.eu.undernet.org), and join
+#traveller.  It's not an official channel yet (not enough users), but
+you will find at least a few fellow Traveller enthusiasts there most
+evenings (US time).  
+    Get in touch with your Internet Service Provider if you need 
+information on using IRC.
+
+
+Q.  How do I get more information about the TML (Traveller Mailing
+List)?
+
+A.  James Dempsey runs a superlative TML web-site
+(http://www.spirit.com.au/~jamesd).  Go there for information on the
+TML, including how to join the mailing list.
+
+
+Q.  Who do I contact if I need an official answer to a
+Traveller-related question?
+
+A.  If you have questions about general Traveller information,
+including release dates, rules interpretations, questions about this
+FAQ, errata notes, and so on, you may post them to either the
+Traveller Mailing List or the rec.games.frp.misc newsgroup.  This is
+the preferred method, as it allows others to see the question and
+subsequent answer, thus avoiding duplication.
+    However, you may have reason to e-mail one of the IG
+representatives directly.  The official IG representatives are:
+Joseph E. Walsh (ransom@iconnect.net), Stuart L. Dollar
+(sdollar@goodnet.com), and Guy "Wildstar" Garnett (wildstar@qrc.com).
+Their responsibilities, in general, are as follows:
+    Joe Walsh handles overall coordination, and has specific 
+responsibility for questions posted on the TML and/or authored by TML 
+participants.
+    Stu Dollar handles all questions posted to the useNET newsgroup 
+rec.games.frp.misc and/or authored by participants of that newsgroup.
+    Guy Garnett handles issues related to the various ship/craft
+design systems used in the Traveller game, star travel as presented in
+the Traveller game, and other such technical questions.
+    If you are unsure who to contact, just send the question to the
+TML or rec.games.frp.misc, and you can be sure you will get an answer
+from the appropriate person.
+    Please keep in mind that we reserve the right to re-post any 
+questions, whether sent to the TML, useNET, or to one of the private 
+email addresses.  This is generally only done if it is deemed that an 
+answer to the question will benefit the whole group.  In short,
+though, no such communications should be considered private.
+    Finally, if you have questions that are business-related (i.e.,
+you want to get a License to publish Traveller items or a Letter of 
+Permission, you want to check on your specific order, or you want to 
+place an order), contact Imperium Games.  They can be contacted at:
+       Imperium Games, Inc.
+       P.O. Box 481
+       Lake Geneva, WI 53147
+       Phone: 1-414-249-9430
+       Fax: 1-414-249-9456
+       Web Site:  http://www.imperiumgames.com
+
+
+Q.  Where do you get your Official Answers?
+
+A.  Some answers come from our own knowledge of the Traveller game, 
+while others come from the folks at Imperium Games.
+
+
+PART III: PRODUCT RELEASE INFORMATION 
+
+Q.  When will [insert product here] be shipped?
+
+A.  The correct schedule for products to be shipped (that is, when
+they will begin to be shipped to dealers and those who ordered
+directly through IG) as of the date of this FAQ is:
+
+        Starships                       November 15
+        JTAS                            November 15
+        Citizens of the Imperium        November 15
+        Aliens Archive                  November 15
+        Central Supply Catalog          December 1
+        Milieu 0                        December 15
+        First Survey                    December 15
+
+
+Q.  When is my T4 hardback going to arrive? 
+
+A.  It depends.
+All Orders:  The hardbacks were shipped in approximately the same 
+sequence in which orders were received.  As of October 25, all the 
+hardbacks should be either in the mail or at their destinations.  IG 
+wants to express their sincere thanks for the great patience everyone 
+has shown in waiting for their orders to be filled.
+
+U.S. Orders:  Some were shipped via Priority Mail, while others were 
+shipped via 4th Class Mail, depending on the date on which the order
+was placed.  For details of when your specific order was shipped,
+please call or write to Imperium Games.
+
+Foreign Orders:  Foreign orders will take longer to arrive than orders
+shipped to the continental U.S. 
+
+
+Q.  Why is it taking so long to get my T4 hardback?
+
+A.  IG was overwhelmed with orders for the hardback, and were caught 
+somewhat unprepared.  They have only one person available to do the 
+shipping (including printing labels, packaging the goods, etc.).  
+    IG plans to improve their shipping process for future product 
+shipments. 
+
+
+Q.  How many copies of T4 have sold as of October 22, 1996?
+
+A.  Approximately, the totals are:
+       Hard Covers:   2,800
+       Soft Covers:   5,000
+
+
+Q.  When will an error-corrected version of Traveller be available?
+
+A.  That's hard to say.  The real answer is, as soon as the current  
+print run of traveller sells out.  IG produced one print run, and
+immediately sold out.  They were still in the process of determining
+all the error corrections that would be necessary in order to make
+the "version 1.1" edition, so they had another print run done with the
+same plates (and, therefore, the same errors).  Once that second print
+run sells out, IG will be able to have new plates made (without the
+errors), get a print run done, and get the books on the shelves.
+    So, reasonably, one could conjecture that IG might have the error-
+corrected version of T4 out sometime during the first or second
+quarter of 1997, depending on how well T4 sells during Christmas.
+
+
+PART IV: SPECIFIC QUESTIONS ABOUT IG PRODUCTS 
+
+Q.  What is going to be changed about Traveller history?
+
+A.  In one sense, nothing.  The official word is, everything that was 
+official Traveller history before, will remain Traveller history in
+T4.  However, there is a caveat:  history is always written by the
+victors.  So, what you know to be true now, may not in fact turn out
+to be true in the final analysis.  
+
+
+Q.  What is the scope of the upcoming Central Supply Catalog (CSC) 
+supplement?
+
+A.  The CSC will have a huge amount of equipment, as well as a very
+robust small craft design system.  CSC's focus is on equipment
+available in Milieu 0.
+
+
+Q.  What about equipment for subsequent Milieux?
+
+A.  New equipment will be published for subsequent Milieux when each 
+Milieu book is published.  At this point, it is unknown whether that
+will take the form of a section of each Milieu book, a separate
+CSC-type book, or be some combination depending on the Milieu in
+question.
+
+
+Q.  What changes will be made in subsequent printings of Marc Miller's
+Traveller (T4, the main Traveller rule book)? 
+
+A.  The next printing of T4 will simply have errata notes in the back
+of the book.  The printing after that will be version 1.1, and will
+have all the noted errors corrected (but will have the same artwork).
+
+
+Q.  I really don't like [insert a rule from T4 here] . . .
+
+A.  If you don't like something about any IG product, feel free to
+change it!  The folks at IG realize they aren't gods, and are
+therefore unable to create the perfect system for everyone.  Their
+philosophy is that they are producing _guidelines_, not laws carved in
+stone.  And, if you do create new rules, please share them online!
+(See below for copyright information related to this subject.)
+
+
+Q.  My local game store doesn't carry Traveller products.  (Or, "There
+aren't any Traveller players in my area.")
+
+A.  Ask the owner of your friendly local game store if you can run a 
+demo of the Traveller game.  If s/he will let you do so, some ideas 
+for what to do include:
+        1)  Run through some _extremely simple_ scenarios with 
+            prospective customers.  These might be simply hitting
+            a target - give them a character, a situation, a little
+            build up, and a number to roll.  Act out the consequences.
+        2)  Get a few members of your gaming group together, and play
+            at the store, if they'll allow it and have an area where
+            customers can stop by and watch you play.
+        3)  Your own ideas
+        The point is, demand drives supply.  If you would like to see
+a supply of Traveller products at your local game store, help to
+create the demand and let the game store owner know that demand
+exists.  If you can stir up enough demand among the gaming community
+in your area, the game store owner will almost certainly begin
+carrying lots of Traveller products.
+        Plus, you you may end up making some new gaming friends! :)
+
+
+Q.  What is Imperium Games doing to improve the quality of their
+products?
+
+A.  The first edition of T4 did not meet the standard of quality that 
+Imperium Games wants its products to maintain.  This was primarily due
+to the time constraint they were working under; there just wasn't
+enough time available to do the job as well as they wanted to.  To
+combat this problem, IG has off-loaded its business functions onto its
+parent organization (Sweet Pea Entertainment), and has asked Joe
+Walsh, Stuart Dollar, and Guy "Wildstar" Garnett to assist with
+customer relations on the Internet.  This frees up Imperium Games to
+focus more fully on producing quality products in a timely manner.
+
+
+PART V: COPYRIGHT POLICY INFORMATION 
+
+Q.  What is IG's copyright policy in regards to original works posted
+to the Traveller Mailing List, WWW sites, and/or Usenet?
+
+A.  Just include "Traveller is a Registered Trademark of FarFuture 
+Enterprises" in the document, and IG will be fine with it, so long as 
+you don't sell you work (or make money off of it in any way) - see 
+below.
+    Imperium Games and FarFuture Enterprises _encourage_ fans to
+create their own rules variants, equipment, settings, etc.  They
+further encourage those who create such new aspects of the Traveller
+universe to freely share their work.  The game can only be improved by
+such fan interaction.
+
+
+Q.  If I make an original work for Traveller, who owns it?
+
+A.  You do (you may want to include a copyright notice in your
+document, thus explicitly stating you ownership of your own work).
+But, you cannot make money from your work without doing one of the
+following:
+    1)  Getting a Letter of Permission (call or write to IG for
+details)
+    2)  Becoming a Licensee (call or write to IG for details)
+    3)  Having a Licensee publish your work (call or write IG for
+details)
+    Also, if you are making your work available on a a given site 
+(WWW, FTP, Telnet, etc.), you may want to include a notice that the 
+material may be removed at any time without notice.  That way, if you 
+decide to publish your work, you will be able to take it out of public
+access (if you so desire), without surprising anyone who expects it to
+remain there.
+
+
+Q.  Is there any way around all of this stuff?
+
+A.  Yes.  Don't mention Traveller in your article, and don't pull 
+material from any Traveller product.  Say it is an article for use
+with science fiction RPG's, and keep it generic.
+
+
+Q.  Can IG or FFE publish my original Traveller work without my
+permission?
+
+A.  No.  They cannot take your original work and publish it without
+first getting your permission.
+
+
+
+Q.  What is the policy regarding copying previously published works by
+Game Designers' Workshop to the internet (or elsewhere)?
+
+A.  You have to get written permission from Marc Miller 
+(FarFuture@aol.com) in order to legally do so.  He holds all the 
+copyrights on all such material.
+_________________________________________________________________________
+This completes the Imperium Games FAQ . . . for now!
+
+Stuart L. Dollar                         sdollar@goodnet.com
+Official USENet Spokesperson for Imperium Games
+------------------------------------------------------------
+"Resistance to tyrants is obedience to God."  -Thomas Jefferson
+

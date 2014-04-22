@@ -1,0 +1,34 @@
+@SUB-SECTOR: sec_E   SECTOR: gvurrdon
+#
+# Trade routes within the subsector
+#
+$0216 0215 0 0 4
+$0216 0517 0 0 4
+$0215 0512 0 0 4
+$0512 0212 0 0 4
+$0512 0709 0 -1 4
+$0817 1116 1 0 9
+$0817 1015 1 0 4
+$0817 0720 0 0 4
+$0720 0821 0 1 4
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Fufoekkfal    0112 E638665-6    Ni                 312 Vp
+Taraeng       0113 B00098C-A    Hi Na In As        212 Vp
+Onagzorrruell 0212 D889737-2                       601 Vp
+Kerkukhaeka   0215 B888554-B    Ag Ni              325 Vp
+Saezghen      0216 B200A72-C  G Hi Na In Va        402 Vp
+Telfazagnou   0220 E7A5542-8    Ni Fl              724 Vp
+Gzoulakhgha   0317 B793ACD-D    Hi In              310 Vp
+Zuts Asgning  0411 B43677B-B  G                    222 Vp
+Uefokung      0419 D433640-6  C Na Ni Po           821 Vp
+Uthgvoe       0512 A481466-B    Ni Cx              710 Vp
+Gvoeloegnoethu0517 B63A410-A  G Ni Wa              702 Vp
+Aroelloe      0613 B9C5533-9    Ni Fl              303 Vp
+Luerrghankaerz0618 E276445-5    Ni                 812 Vp
+Agsaez        0619 DAC8787-9    Fl                 534 Vp
+Suedh         0719 B436113-D    Lo Ni              510 Vp
+Tsukifi       0720 B97788C-8                       220 Vp
+Khaeknae      0815 B485898-9    Ri                 102 Vp
+Ellallue      0817 B302632-9    Na Ni Ic Va        901 Vp

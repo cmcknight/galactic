@@ -1,0 +1,46 @@
+@SUB-SECTOR: Cemplas SECTOR: Core
+#
+# Trade routes within the subsector
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Wastam        0921 E6A7777-8    Fl                 310 Li
+Celetron      0922 A375000-F  N Lo Ni Ba           302 Li 
+Ur            0929 D649577-A  S Ni                 500 Li 
+Drag          1022 D473322-6  S Lo Ni              313 Li 
+Exod          1023 B323555-B    Ni Po           A  500 Li 
+Shalam        1028 C250644-A    Ni Po De           401 Li 
+Ye-lu         1123 A100134-G  N Lo Ni Va           825 Li 
+Pixtome       1124 A8AA453-F  A Ni Fl Wa           112 Li 
+Meman         1125 D652552-9  S Ni Po              210 Li 
+Gashil        1129 C6A4511-8    Ni Fl              504 Li 
+Evad          1130 C79A468-C  S Ni Wa              501 Li 
+Ehok-ta       1221 BAD5446-9  S Ni Fl              113 Li 
+Bendo         1222 B577875-8                       613 Li 
+Dingus        1223 D556444-9  S Ni              A  930 Li 
+Eshon         1225 E341766-7    Po                 510 Li 
+Orguush       1226 A485334-D    Lo Ni              222 Li 
+Lishiruud     1228 B6979AA-7    Hi In              313 Li 
+Digitus       1229 D35469A-5    Ag Ni              613 Li 
+Renu          1321 B66468B-7    Ag Ni Ri           600 Li 
+Keplo         1322 B675898-B  N                    223 Li 
+Bogustin      1323 A3105AC-F  S Ni                 103 Li
+Ushtar        1328 B647554-D  N Ag Ni              302 Li 
+Calesson      1330 B685643-8    Ag Ni Ri           200 Li
+Eorvin        1421 B436868-B  S                    922 Li 
+Chok-ta       1422 C7C2048-B    Lo Ni Fl           911 Li 
+Khusgurlu     1424 B6529EG-D  N Hi Po              214 Li 
+Spirn         1428 A656541-C    Ag Ni              600 Li 
+Alton         1430 B100542-F  N Ni Va              403 Li 
+Suhtlam       1522 B7C0000-A    Lo Ni De Ba        600 Li 
+Belicose      1523 A596236-C    Lo Ni              713 Li 
+Shibashliim   1524 B626A8C-G  N Hi In              412 Li 
+Noesh         1526 E403472-8    Ni Va Ic           623 Li 
+Biirk         1529 D210101-9    Lo Ni              524 Li 
+Santar        1530 B563101-E  N Lo Ni              802 Li
+Heraldia      1622 C120576-D    Ni Po De           401 Li 
+Velpare       1623 A567634-9  S Ag Ni              424 Li 
+Kirkus        1625 B885640-B  N Ag Ni Ri           714 Li 
+Shirg         1628 B6337C9-B  S Na Po              204 Li 
+Rashiuon      1630 B130221-E    Lo Ni Po De        403 Li 

@@ -1,0 +1,19 @@
+@dir=gals\classic\amdukan\gen
+@Light Yellow
+
+Amdukan / General Information
+
+@Light Cyan
+      Sector Data                  @..\map\data.mnu
+      Credits                      @..\credits.txt
+
+@Light Yellow
+   The Julian Protectorate
+
+@Light Cyan
+      Astrographical Overview      @astro.txt
+      Historical Overview          @history.mnu
+      Governmental Organization    @govt.mnu
+      Aliens of the Protectorate   @aliens.mnu
+      The Tetusu-Dene Scale        @td.txt
+

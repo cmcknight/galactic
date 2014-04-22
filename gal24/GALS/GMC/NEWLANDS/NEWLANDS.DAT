@@ -1,0 +1,50 @@
+Newlands
+
+A: Lango                     a.dat               f
+B: Efpora                    b.dat               f
+C: Mitre                     c.dat               f
+D: Mehrtz                    d.dat               f
+E: Firstfall                 e.dat               f
+F: Strali                    f.dat               f
+G: Caro                      g.dat               f
+H: Empty Quarter             h.dat               f
+I: Starlane                  i.dat               f
+J: Veran                     j.dat               f
+K: Wertya                    k.dat               f
+L: Diska's Folly             l.dat               f
+M: Jnisck                    m.dat               f
+N: Dilly                     n.dat               f
+O: Britannia                 o.dat               f
+P: Monta                     p.dat               f
+
+Bases:
+N = Navy
+S = Scout
+2 = Navy & Scout
+3 = Navy & Diadochi
+4 = Scout & Diadochi
+5 = Navy, Scout & Diadochi
+D = Diadochi
+M = Mwoah Unity
+J = Agor Council
+I = Independent Military
+  = None
+
+Allegiance:
+10 Ma = Magellanic Empire
+09 Br = Pricipality of Breakout
+09 Dr = Magellanic Empire (Direct)
+06 Da = Imperial Diadochi
+06 Tz = Principality of Tzu Hui
+06 Mr = Grand Duchy of Margaret
+06 Ca = Caro Dominion
+06 Ki = Archduchy of Kiakoura
+06 Th = Grand Duchy of Thebes
+06 Co = Corinthian Union
+06 So = Principality of Sodor
+06 Fa = Faorin Confederation
+11 Ka = Karadzic Empire
+13 Sa = Agor Council (Jneril)
+07 Mw = Mwoah Unity
+12 Id = Independent
+08    = Unknown

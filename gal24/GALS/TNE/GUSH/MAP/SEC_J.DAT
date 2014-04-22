@@ -1,0 +1,54 @@
+@SUB-SECTOR: sec_J   SECTOR: gush
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Obarr         0921 X534000-0    Ba                 004 --
+Chang         0922 X775134-6    Lo Ni              303 Wi
+Gigimu        0923 XA9A869-4    Wa              B  602 Wi
+Zilu          0924 X326000-0    Ba                 001 --
+Tamesh        0925 X87A7AB-4    Wa              B  102 Wi
+Igamaal       0926 X457669-4    Ag Ni           B  203 Wi
+Saol          0927 X678469-5    Lo Ni              121 Wi
+Ongelbal      0928 X692322-4    Lo Ni              113 Wi
+Dehruu        0930 X442422-7    Lo Ni Po           523 Wi
+Bragg         1021 X47138A-7    Lo Ni              400 Wi
+Lorris        1023 X120000-0    Ba Po De           015 --
+Ienda         1025 X767443-0    Lo Ni              204 Wi
+Fiaf          1026 X78A410-5    Lo Ni Wa           200 Wi
+Taluu         1027 X200000-0    Ba Va              022 --
+Justine       1029 X270458-3    Lo Ni De           502 Wi
+Panisse       1122 X436000-0    Ba                 013 --
+Rumulaar      1123 D88A200-7    Lo Ni Wa           201 Wi
+Creca         1124 X524000-0    Ba                 012 --
+Hanseat       1125 X300000-0    Ba Va              000 --
+Unuv          1127 X223000-0    Ba Po              002 --
+Kaakaa        1128 X35056B-4    Ni Po De           202 Wi
+Intnalta      1129 X220000-0    Ba Po De           013 --
+Coernelf      1221 X410000-0    Ba                 002 --
+Syrol         1223 X363667-2    Ni              B  203 Wi
+Forgane       1225 X321000-0    Ba Po              024 --
+Iest          1227 X331000-0    Ba Po              024 --
+Indurain      1228 X455546-7    Ag Ni              203 Wi
+Lish          1321 X665324-4    Lo Ni              121 Wi
+Berall        1322 X587332-3    Lo Ni              104 Wi
+Vesuata       1328 X130000-0    Ba Po De           003 --
+Yellsar       1422 D2627AB-5                       103 Wi
+Fairbriar     1423 X411000-0    Ba Ic              004 --
+Diro          1425 X000000-0    Ba As              003 --
+Tikav         1426 C26386B-9                       504 Wi
+Xerxes        1430 X526000-0    Ba                 000 --
+Haysher       1521 D764853-6                    B  203 Wi
+Cervantes     1522 C567674-7    Ag Ni              111 Wi
+Colehco       1523 XAE7000-0    Ba                 023 --
+Andonin       1525 X410000-0    Ba                 003 --
+Griissound    1526 X362525-1    Ni                 212 Wi
+Whiapluur     1528 X498569-2    Ag Ni              113 Wi
+Twahoy        1529 X441444-6    Lo Ni Po           304 Wi
+Hemster       1530 X420000-0    Ba Po De           005 --
+Blullaygh     1622 X648431-0    Lo Ni           B  103 Wi
+Fraynj        1623 X848434-4    Lo Ni              500 Wi
+Leraag        1624 X520000-0    Ba Po De           003 --
+Emur          1625 X264577-4    Ag Ni              114 Wi
+Nuuhlam       1627 X400000-0    Ba Va              022 --
+Pesuune       1629 X534000-0    Ba                 015 --

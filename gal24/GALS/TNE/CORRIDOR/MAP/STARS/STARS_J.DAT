@@ -1,0 +1,8 @@
+@SUB-SECTOR: stars_J   SECTOR: corridor
+#
+# Trade routes within the subsector
+#
+#--------1---------2---------3
+#PlanetName   Loc. Stars(s)
+#----------   ---- ---------
+Lasher        1430 K4 III

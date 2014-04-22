@@ -1,0 +1,30 @@
+c4 Machine Carbine
+
+The c4 machine carbine is the standard issue Magellanic sidearm for front
+line non-combatant personnel. It fires a conventional 8.5mm caseless round
+(as used by the p6 pistol) from a 75 round detachable magazine. It is capable
+of firing in semiautomatic, 5 round burst, or full cyclic (750rpm, giving a
++1DM attack per 75 rounds fired) modes. The c4 is fully gyrostabilised and
+fitted with an intergral laser sight (accepting the same battery packs as the
+r3 and r11). Whilst the c4 is capable of being fired as a handgun with the
+stock collapsed, it is intened to primarily be fired as a longarm. The c4 is
+also produced as the semiautomatic only Phoenix 4000 carbine for the civilian
+market.
+
+Weapon: c4 machine carbine
+Action: Blowback - singleshot, burst (5), cyclic (750)
+Ignition: Electric
+Tech Level: 10
+Calibre: 8.5mm MSO caseless
+Penetration: 3
+Range: short
+Malfunction: reliable
+Shots: 75
+Mass: 2.1kg
+Reloads: 0.75kg
+Length: 51.8cm (31.8cm with stock collapsed)
+Cost: Cr 900 (Phoenix 4000: Cr 770)
+Incidentals: 75 rounds ball: Cr 12 (0.6Kg)
+             5 hour rechargeable battery pack: Cr 3 (0.3kg)
+             20 hour disposable battery pack: Cr 1.5 (0.3kg)
+             empty 75 magazine: Cr 35 (0.15Kg)

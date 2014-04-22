@@ -1,0 +1,58 @@
+
+Graff           D3457O7-8 Ni Ag         (1201)
+                B345657-D Ni Ag         (1105)
+
+Size: Small (5100 km)                   Atmosphere: Thin, tainted
+Hydrographics: 50% water                Population: 12 million
+Government: Representative Democracy    Law Level: Moderate
+Tech Level: Pre-Stellar (circa 1990)    Starport: Poor
+
+Pre-Collapse Population: 7 million      Pre-Collapse TL: Average Stellar
+Objective Classification: IIa
+
+        Even colder than Leng, Graff's terrain is split between
+utterly dry and barren plains and uplands and deep, ice-covered 
+"crater-seas". The depths of these seas are warmed in places by 
+tectonic activity, which has led to some small oases of life on the
+otherwise barren world. The atmospheric taint is mostly sulphur 
+compounds spewed into the air by volcanoes, though the extremely
+low atmospheric moisture level also contributes to its unbreathability.
+
+        Before the Collapse, Graff was a fairly standard F-Tech world,
+its population of seven million living in both undersea and underground
+habitats. Several species of oasis-life were farmed and herded, and traded
+to other worlds in exchange for high-tech manufactured goods. Prior warning 
+of the Virus led to most of the cities totally severing their data links 
+before they were infected, thus the Collapse did not wreak its full 
+horrors on Graff. However, several of the the surface settlements were
+invaded by Virus, and the news (carried by a few refugees) underscored 
+the dangers of communication. Graff is only just beginning to recover from
+its retreat into isolationism, the cities only recently having joined 
+together to form a planetary government along federal lines. The various 
+communities govern themselves in their own manner (usually some form of
+democratic government), and provide representatives for a planetary
+concillium. As a hold-over from the previous F-Tech constitution most 
+councillers are selected on the basis of their expertise, rather than
+being popularly elected. There are no organised political parties in
+the planetary government, though there is an informal division between 
+"progressives", who favour limited interstellar contact, and 
+"conservatives", who point to the horrors of the Collapse as an 
+illustration of the dangers of such contact. The current consensus is 
+slightly progressive - thus, the starport remains open, and the small
+planetary navy (a scout and a converted fat trader, neither jump capable)
+does not warn ships away. 
+
+Graff Government Values:
+        Corruption:             Low
+        Talent:                 Moderate
+        Cruelty:                Low
+        Aggression:             Low
+        Paranoia/Xenophobia:    Moderate
+
+Armed Forces of Graff:
+ Total Personnel:   30000
+ Wet Navy:           1500 (6 TL-8 patrol craft)
+ Air Force:          9000 (45 combat aircraft)
+ Space Force:         600 (2 armed merchantmen)
+ Ground Forces:     18900 (9 maneuvre battalions, 1 @ TL-B)
+                          

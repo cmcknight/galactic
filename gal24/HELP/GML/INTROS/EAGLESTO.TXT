@@ -1,0 +1,18 @@
+
+From: "Robert Eaglestone" <eaglesto@nortel.ca>
+Date: 06 Jan 1997 14:40 EST
+Subject: Introductions
+
+Introduction
+-------------
+Rob Eaglestone
+eaglesto@nortel.ca
+
+I am a Traveller fan and a Perl hacker; I've written numerous
+scripts in support of the Traveller universe.  I would love
+to help generate whatever raw data is wanted.  My humble
+talents are at your disposal.
+
+I'm hoping to contribute reams of generated [sub]sector data.
+
+

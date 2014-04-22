@@ -1,0 +1,43 @@
+Spica
+
+A: Naav                      sec_a.dat           f
+B: Bain                      sec_b.dat           f
+C: Spica                     sec_c.dat           f
+D: al Ajib                   sec_d.dat           f
+E: Tupindur                  sec_e.dat           f
+F: Three Spheres             sec_f.dat           f
+G: Virginis                  sec_g.dat           f
+H: Sline                     sec_h.dat           f
+I: Boreal                    sec_i.dat           f
+J: Flux                      sec_j.dat
+K: Farbor                    sec_k.dat
+L: Erest                     sec_l.dat
+M: Trillion                  sec_m.dat           
+N: Tohira                    sec_n.dat
+O: Kurfane                   sec_o.dat
+P: Syzygy                    sec_p.dat           f
+
+Bases:
+A = Navy & Scout Bases
+D = Naval Depot
+N = Naval Base
+S = Scout Base
+C = Scout & Hiver Base
+T = Hiver Temp Base
+H = Hiver Staging Base
+L = Federation Navy Base
+E = Fed. Embassy Center
+M = Fed. Military Base
+F = Fed. Military&Navy Base
+G = Solomani Navy Base
+  = None
+
+Allegiance:
+09 Hv = Hive Federation 
+11 Hh = Federation Develop Agency 
+07 Xh = FDA world outside of HF
+02 H* = Star Patterns Trading
+10 Hi = Six Eyes Nest
+08 Un = Unpopulated
+04 Wi = Wilds
+02 Na = Non-aligned

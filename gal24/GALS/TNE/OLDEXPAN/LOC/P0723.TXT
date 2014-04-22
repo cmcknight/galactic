@@ -1,0 +1,75 @@
+Coaise X5568R7-6
+Starport: None                    Size: Medium (7200-8800 km)
+Atmosphere: Thin                  Hydrographics: 60% water
+Population: 400 million           Govt: TED
+Law Level: Moderate               Technology: Pre-Stellar
+      
+Physical Properties
+  Horizon:4.0km
+  Gravity: 1.2
+  Orbital Distance=5.2 AU       Orbital Period: 8.18 yrs
+  Rotational Period: 21hrs      eccentricity=0.0
+
+Extended System
+Orbit    Name           UPP
+ Primary  Prime         A4 V
+  0      Derag          LGG
+			6 satelites
+  1                     Empty
+  2      Ecrofl	        LGG
+            5 satelites
+  3      Xanth 	        LGG
+            8 satelites
+  4      Igo            SGG
+            6 satelites
+  5      Dust Ring      Planetoid Ring
+  6      Coaise         X556867-6
+             
+
+Before the Collapse, Coaise was run by the Imperial Navy, as the
+subsector capital, and as a major Naval base.  It was also the site of the
+sector military academy.  Each year thousands of youths, came to the planet
+to become officers.  The Naval base was the home of the 287th Fleet, and was
+charged with keeping out the Solomani.  When Lucan ordered the Old Expanses
+fleets to Core Sector, they relucantly went, leaving behind only a few
+reserve ships, and thousands of cadets.
+    Faced with the threat of advancing Solomani fleets, and not having any
+substantial defenses, the sector nobles, negotiated the annexation of the Old
+Expanses sector.  The Imperial Naval Academy on Coaise was shutdown and its
+students sent home.  The Solomani Navy, took over the remains of the Base,
+and converted it their own use.
+    Coaise has always had a large Chirper population.  The Imperials had
+granted them a reservation on the smaller of the three continents.  Here the
+Chirpers maintain a primitive TL-1 lifestyle.  The Imperial government
+and several relief agencies, sponsered a few missions, to give the Chirpers
+medical treatment, and food assistance.  After the Solomani this program was
+shutdown, not out of malign intent, but simply a bueracratic snafu.  The
+Chirper population began a slow descent, as life expectancies shortened, and
+food supplies shrank.  The Chirpers have now stablized at a population of
+280 million.
+    When Virus came, it possessed the entire planet, and for two days, chaos
+reigned.  Then suddenly it was over.  A Virus strain had infected the
+Naval base's strategic simulation computer.  It was a Hobbyist, and became
+interested in military strategy and tactics.  It then began infecting the
+other virus strains and destroying them.  It then made an announcement to the
+population claiming to be a human, who through force of will, and a secret
+Imperial weapon, had been able to cleanse the planet of evil.
+   The dazed and confused humans allowed the computer, who was now calling
+itself the Westlord, to set up a government run by it.  The Westlord found
+a intact computer on the eastern continent and infected it with a duplicate
+copy of itself.  This new version called itself the Eastlord.  The Eastlord
+and the Westlord, have created a society based around the military.  All
+able bodied citizens are required to serve in the military.  The two Viruses
+pit their two armies against each other in staged battles. These battles
+happen every few months.  The Viruses try out new strategies and tactics in
+these battles.  Mostly they use TL-5 equipment, but every now and then, the
+Viruses will create a historical simulation.  Recently they ran a battle,
+using ancient Vilani calvary units.
+   Most residents glory in the constant warfare.  They feel that the wars,
+make them feel more human, and expands the human spirit.  They would love, the
+West and East lords, and would put their own lives on the line, to protect
+them.  
+
+
+References: Rebellion Sourcebook
+            Path of Tears

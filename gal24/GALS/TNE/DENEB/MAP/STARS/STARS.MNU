@@ -1,0 +1,22 @@
+@dir=gals\tne\deneb\map\stars
+@Light Yellow
+
+Deneb Sector / Stellar Data
+
+@Light Cyan
+       A: Pretoria                 @stars_a.dat
+       B: Lamas                    @stars_b.dat
+       C: Antra                    @stars_c.dat
+       D: Million                  @stars_d.dat
+       E: Sabine                   @stars_e.dat
+       F: Inar                     @stars_f.dat
+       G: Dunmag                   @stars_g.dat
+       H: Atsah                    @stars_h.dat
+       I: Star Lane                @stars_i.dat
+       J: Vincennes                @stars_j.dat
+       K: Usani                    @stars_k.dat
+       L: Geniishir                @stars_l.dat
+       M: Gulf                     @stars_m.dat
+       N: Zeng                     @stars_n.dat
+       O: Kamiar                   @stars_o.dat
+       P: Vast Heavens             @stars_p.dat

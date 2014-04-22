@@ -1,0 +1,21 @@
+System: Jasper
+Subsector: Isi Ahto
+Sector: Gushemege Sector
+Coordinates: 2915 (H0505)
+UWP: A463566-E
+
+Starport: Excellent
+Size: Small (5600-7200 km)
+Atmosphere: Standard
+Hydrographics: 30% water
+Population: 400,000
+Govt: Captive Government
+Law Level: Moderate
+Technology: High Stellar
+
+Bases: None
+Trade Codes: Ni              
+Travel Zone: Green
+Planetoid Belts: 0
+Gas Giants: 0
+Allegiance: Imperial

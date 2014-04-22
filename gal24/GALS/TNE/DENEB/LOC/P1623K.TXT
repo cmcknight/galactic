@@ -1,0 +1,33 @@
+
+  HRD System Details
+  
+   Orbit      Name           UPP         Remarks
+   Primary    YG-437         M5 III
+   0-3        Within sphere of star
+   4          Scorch         Y430000-0   Va
+       8      Ash            Y100000-0   Va
+       35     Ember          Y100000-0   Va
+   5          Shade          YS00000-0   Va
+   6          Nazgul         Y450000-0
+       35     Beege          Y300000-0   Va
+   7          Planetoid Belt G000312-F   As Nv *
+   8          Fuel Depot     H300463-F   Nv Va
+       6      JV-224         Y200000-0   Va
+       8      JV-076         YS00000-0   Va
+       15     JV-075         YS00000-0   Va
+   9          HRD            A401754-F N Na Va Ic
+   10         Sleet          G905267-E   Va
+   11         Graul Orin     Y100000-0   Va
+       7      KY-073         YS00000-0   Va
+       9      KY-052         YS00000-0   Va
+   12         Outcast        G977162-E
+   13         Untouchable    YS00000-0   Va
+  
+   * Majority owned by Sternmental Horizons.
+ 
+   NOTE: The IISS satellite naming convention used during the Grand
+   Survey in HRD system was to apply the surveyor's initials, followed by
+   the G rating of the world without its decimal point. Thus, JV-224 was
+   named by a scout with the initials "JV," and the world's gravity was
+   recorded at 0.224 Gs.
+

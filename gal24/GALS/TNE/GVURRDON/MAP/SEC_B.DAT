@@ -1,0 +1,30 @@
+@SUB-SECTOR: sec_B   SECTOR: gvurrdon
+#
+# Trade routes within the subsector
+#
+$1009 1112 0 1 4
+$1310 1112 0 1 4
+$1310 1511 0 1 4
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Onllae Roungo 0901 B886639-4    Ag Ni Bl Wi        810 Va
+Korruelloko   0904 X100000-0    Va Ba Wi           003 Va
+Taekfoengsegzo0908 B866553-9    Ag Ni Cx           901 Vd
+Luerrgnudhlaer1009 B657337-7  G Lo Ni              323 Vb
+Gzonough      1010 D524842-4    Na                 930 Vb
+Aksugzael     1102 XAC5000-0    Ba Fl Wi           002 Va
+Ngues         1104 E777200-4    Lo Ni Wi           201 Va
+Rueskhen      1106 X220000-0    Ba De Wi           022 Va
+Tsuengingeguek1107 B5A5204-B    Lo Ni              814 Va
+Louks Aek     1109 E384026-3    Lo Ni              703 Vb
+Uekongull     1201 X779000-5    Ba Lo Ni Wi        901 Va
+Kukhvu        1305 X000000-0    Ba As Wi           011 Va
+Rinvoengerrazo1307 X110000-0    Ba Wi              001 Va
+Vaeghovangugh 1310 A576842-8                       324 Vb
+Oungeghuegue  1502 X324000-0    Ba Wi              021 Va
+Dhueks        1503 X433000-0    Ba Wi              001 Va
+Naen Dzi Ona  1504 X55856D-3    Ag Ni Bl Wi        702 Va
+Roedz         1506 B585400-8  G Ni Bl Wi           201 Va
+Gikhs         1508 C766568-5    Ag Ni Bl Wi        901 Va
+Iloungrraegzer1602 E538442-7    Ni Lo Po Bl Wi     101 Va

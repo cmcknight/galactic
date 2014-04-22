@@ -1,0 +1,54 @@
+@SUB-SECTOR: sec_M   SECTOR: lishun
+#
+# Trade routes within the subsector
+$0132 3232 -1 0
+$0134 3232 -1 0
+$0236 3137 -1 0
+$0132 0331 0 0
+$0331 0431 0 0
+$0431 0830 0 -1
+$0134 0236 0 0
+$0236 0338 0 0
+$0338 0301 0 1
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Samphan       0132 C797000-8    Lo Ni Ba           910 Li
+Ribunu        0133 B655743-8  S Ag              A  300 Li
+Erlukam       0134 A337200-G  N Lo Ni              312 Li
+Ram Sho       0136 C675662-9    Ag Ni              104 Li
+Amkash        0138 B4277AC-A                       812 Li
+Polaz         0139 C744202-C    Lo Ni              213 Li
+Vodyr         0140 B782999-A    Hi                 414 Li
+Kulas Pha     0232 C646344-7    Lo Ni              213 Li
+Irkila        0234 C483504-D    Ni                 714 Li
+Gidin         0235 B2106A9-E    Na Ni              610 Li
+Sered Pha     0236 A524367-F    Lo Ni              513 Li
+Sulai         0237 E42299C-C    Hi Na In Po        920 Li
+Iidimar       0239 C6B58BB-7    Fl                 104 Li
+Shuun         0331 A9B59CC-E  N Hi Fl              632 Li
+Panak Pha     0332 C000400-D  S Ni As              400 Li
+Galake        0334 C7A5648-9    Ni Fl              714 Li
+Ragapa        0335 E403472-8    Ni Va Ic           403 Li
+Kakilar       0336 C210101-B    Lo Ni              513 Li
+Canback       0337 C556300-C  S Lo Ni              520 Li
+Maelgard      0338 A947558-F    Ag Ni              402 Li
+Kaakumu       0431 A211454-E    Ni Ic              305 Li
+Anga          0434 A512669-D    Na Ni Ic           103 Li
+Inader        0437 E565777-4    Ag Ri              602 Li
+Liisarkuur    0532 B788326-D    Lo Ni              300 Li
+Dene Po       0533 B673020-8    Lo Ni              702 Li
+Nakhelishiir  0632 B647777-9  N Ag                 203 Li
+Kose          0634 B554346-8    Lo Ni              404 Li
+Bimada        0637 C200679-A    Na Ni Va           923 Li
+Pemonamsha    0638 D436452-8    Ni                 522 Li
+Irkha         0639 C341843-B  S Po                 100 Li
+Mabod Pha     0731 C100320-D    Lo Ni Va           925 Li
+Imaakaan      0732 C494410-7    Ni                 510 Li
+Luugu         0740 B683230-8    Lo Ni              803 Li
+Iskirkish     0832 C100598-E  S Ni Va              404 Li
+Suumikush     0834 C563224-7  S Lo Ni              303 Li
+Iimuu         0836 B87A335-C    Lo Ni Wa           313 Li
+Gapiga        0837 C8A5003-7  S Lo Ni Fl           524 Li
+Loshad        0840 C4447AB-A    Ag                 400 Li

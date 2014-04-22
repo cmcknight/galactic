@@ -1,0 +1,305 @@
+
+    HIWG
+
+    HIWG Document: # HD3419.1                         Date: 16-10-1992
+
+    From: Leighton Piper
+          11 Skeffington Rd.
+          PRESTON
+          Lancs., PR1 5UP.
+          UK.
+
+    To  : David Burden, Gushemege Sector Analyst.
+          Clayton R. Bush, Quadrant 1 Editor.
+          J.Duncan Law-Green, Vland Domain Editor.
+          Kevin Parry, HIWG(UK).
+
+    Subject: CABAl (Computer Augmented Behavoiral Alteration)
+
+    Abstract:
+
+    The  use of  microscopic biochip  implanted into  the hypothalamus  and
+    other hormonal  control regions of  the brain (ie  secondary implant in
+    the pituitary  gland) to modify  behavoir. External stimulation  of the
+    hypothalamus by  the pre-programmed neuroprocessor  at specific regions
+    leading to  the release of  specific hormones. These  specific hormones
+    can bring about rapid and  particular metabolic change; effect whole or
+    isolated regions of the human  body. Can interfere with natural hormone
+    release   and/  or   function  through   sympathetic,  synergistic   or
+    antagonistic/ blocking effects.
+
+    There can also be direct stimulation  of pleasure and pain centres. The
+    controlled release of the bodies natural 'pain killers' - endorphines -
+    can  be used  as a  very  effective,  safe, cheap  and rapid  method to
+    relieve  pain. On  the battlefield  it could  help to  overcome certain
+    logistical problems  and enable the  recipient to continue  in his/ her
+    actions  without recourse  to direct  medical intervention.  It is also
+    envisaged that  the 'pleasure and  pain' centres approach  to convicted
+    criminals  could ensure  compliance with  prison rules  and regulations
+    thus reducing tension and manpower.
+
+    Detail:
+
+    The process can have profound medical benefits for those suffering from
+    a variety  of  hormonal  and  neuronal/cerebral  disorders ranging from
+    growth stimulation  to control of fertility,  from modulation of kidney
+    function to stimulation of nerve function and heart control. The use of
+    natural   endorphines,  as   stated  above,   are  very   useful  where
+    conventional anasthetics pose a risk to the patient.
+
+    The biochip can be inserted by  a competent surgeon in under two hours,
+    and removed in  a quarter of the time. The  process has not been widely
+    implamented due to its re-classification as a military project and even
+    this developmental use has been limited in scope.
+
+    The  CABAl  project  was  developed  by  a  team  at the Bioengineering
+    Research Bureau  of Shishmadarshag LIC,  led by professor  Rae Tuliiga.
+    The  concept of  direct manipulation  of human  action/ behavoir by the
+    introduction  of  advanced  neuro-electronic  systems  incorporated and
+    controlling living tissue has had a long history. The most recent phase
+    include the  insights gain by  this particular line  of research reared
+    its head at an obscure side  meeting of the Bioelectronics Group at the
+    Shudusham  Robotics  Conference  of  1083  where  Tuliiga  was a junior
+    research associate  at the Lemkkoll-Hamun  University on Anjiv  (Tansa/
+    Gushemege 3006). The  ideas taken away from the  meeting were to remain
+    dormant  in Tuliiga's  mind until  he was  elevated to  the head of the
+    Neuropharmacology Unit with the Bureau where his ambition bore fruit.
+
+    Initially  the corporate  planners at  ShMaSh were  skeptical on  being
+    presented with the application of  funds for extensive research in this
+    field. They argued  that the controversial nature of  the project could
+    seriously undermine the market base for ShMaSh if the details were ever
+    made   public  before   the   initial   feasability  studies   and  the
+    socio-psychological impact could be  ascertained. Also the introduction
+    of  a  working  system  may  well  be  relativelly  cheap compared to a
+    complete  course of  orthodox  i.e.  neuro-drugs; this  would seriously
+    erode company profits in this  area. However the initial resistence was
+    overcome partly due  to the fact that most of  the executives were sure
+    that the project would never amount  to much and partly prevent Tuliiga
+    from leaving and taking his ideas to another company.
+
+    Within four years  of the start of the project  the research team had a
+    working  system introduced  in a  terran pig.  Eighteen months later in
+    1115 the team had introduced a prototype biochip into a human volunteer
+    with  a  hereditary  hormone  defficiency.  The  neuroprocessor and its
+    associate effector circuits were used to compensate for the defficiency
+    by  a  specific  stimulation  of  primary  effector  cells  within  the
+    hypothalamus. The success of this  first human experiment paved the way
+    for the introduction  of the primary goals of  the research, namely the
+    external  control of  mood and  behavoir. This  stage ran into problems
+    however.  The  breakdown  of  control  led  to  an imbalance in hormone
+    production  which in  turn led   to acute  psycheatric problems  in the
+    volunteer. The man stole an auto-rifle  (and a couple of magazines) and
+    fired indiscriminately into a holiday  crowd killing seven and injuring
+    fourteen others.  The local police  killed him after  tracking him down
+    and cornering him  but not after he had  wounded three officers. ShMaSh
+    had to bring  a great deal of political pressure  (and a few bribes) to
+    halt an inquiry. The project was  nearly cancelled at this juncture but
+    survived through the dogged persistence of Tuliiga.
+
+    The problems were  quickly identified and the project  continued with a
+    set of human volunteers which brought about rapid progress in the work.
+    The research was set to  developed for commercial exploitation when the
+    military  stepped in  and in  effect took  control of  the work and the
+    direction of  the project. This  caused deep outrage  amongst the staff
+    and Tuliiga  resigned in protest over  the hijacking of the  project by
+    the  military. As  the work  now  went  under the  banner of  essential
+    military research  the heirarchy of the  armed forces perceived Tuliiga
+    as a security risk due to his  much publicised comments on the work. He
+    was placed under house arrest where he died in a suspicious fire.
+
+    A major development took place on 213-1118 when there was a break-in at
+    the research lab. Thieves were obviously professionals who knew exactly
+    what  they were  after, taking  computer records,  hand written  notes,
+    papers and  hardware. There was  no trace left  that could give  a clue
+    towards the identities  of the criminals. The work  has not resurfaced,
+    the  conclusion reached  by administrators  of the  project is that the
+    theft was organised  for the benefit of a  'hostile power' -a euphamism
+    for one of  the factions fighting over the  Iridium Throne. The current
+    favourite for  the position of the  sponsor of the theft  is Dulinor or
+    one  of his  agencies. The  work is  probably being  developed for  its
+    military  potential, a  daunting prospect  when coupled  to some of the
+    elite  Ilelish commando  teams who  already have  a infamous reputation
+    without body enhancement.
+
+    The  first sight  of this  technology  in  the open  has come  with the
+    emergence  of a  class of  underlife  in  the seamier  side of  Kesser,
+    primary city on Masa (2513).  These individuals have had CABAl biochips
+    implanted into the brain and are set to stimulate the pleasure centres.
+    These individuals  do little but sit  in a dream-like state  and slowly
+    die,  oblivious to  their bodies'  suffering.  For  many it  is a  last
+    desperate, but for  them entrancing, act. Others have  used the devices
+    to boost their responses
+
+    The  most  exciting  and  most  dangerous  discovery  evolving from the
+    development  of  the  CABAl  work  has  been  the  interaction  of chip
+    recipients  with computer  systems. The  initial studies  on the  first
+    volunteers showed  that during the  monitoring of the  neuroprocessor's
+    effects on the host, certain  anomalies in the computer were discovered
+    to  coincide with  specific brain  wave frequencies.  Positive feedback
+    experiments  showed  that  subjects  could  excercise  some  measure of
+    control over the computers.
+
+    Implementatiom:
+
+    Any  individual  wishing  to   undergo  a  'psychochip'  neuroprocessor
+    inplantation  procedure must  go through  a series  of prepatory tests.
+    This   includes   a   full    general   medical   plus   physiological,
+    psychological-personality and neurological tests to assess suitability.
+    Laboratory assays cover aspects such as tissue typing and immunological
+    rejection assessment  as well as  screens for biochemical  and hormonal
+    abnormalities (other than that being treated) and carriage of microbial
+    pathogens.   Following  this   comes  pre-operative   preparation,  the
+    implantation procedure itself and finally one or more follow-up checks.
+
+    The implantation of the chips requires a technical base in medicine and
+    of computing  of at least  average stellar; the  importance attached to
+    the operation  emphasises the need for  a skilled surgeon -  the better
+    the  surgeon  the  greater  the  chance  of  success.  The chips can be
+    manufactured  at tech  level 12   and therefore  the operation  has the
+    potential of being  performed on a wide basis as  long as the knowledge
+    is available.
+
+    The range of chip functions are potentially limitless although many are
+    dangerous to implement and/ or are illegal. The following list is but a
+    short  and rough  outline of  the available  feesible designs and their
+    specific effects (Individual referees should feel free to develop their
+    own ideas and the subsequent game effects - the author would be pleased
+    to here from any).
+
+    Hormonal: Base price of implant Cr.125,000
+    The  hormonal  implant  is  in  essence  the  original idea fostered by
+    Tuliiga using  a computer chip desighned  to specifically stimulate the
+    hypothalamus and the pituitary  glands to compensate for defficiencies.
+    The biochip controls the  complex electrochemical activities associated
+    with   the   secretion   and   passage   of   chemicals   through  cell
+    microchanneles.  The method  of action  of the  CABAl chips  within the
+    brain are essentially similar across  the subtypes, although placing of
+    chips, sensors and control structures vary.
+
+    Effects can be  seen almost immediatelly, the chips can  be set to give
+    appropriate stimulation,  or alternatively at greater  expense the chip
+    can  be  programmed  to  repond  to  bio-electrical  signals  from  the
+    brain  stem. This  requires a  period of  training ten  times 1D days -
+    progress is monitored at the regular check-ups.
+
+    The implant introduced for purely  medical reasons has effects specific
+    for the  condition to which  the neuroprocessor was  added. The hormone
+    production  is  achieved  via  controlled  impulses.  There  are  other
+    specific neuroprocessor implants which for example through training and
+    control can  lead to the  specific production of  adrenalin (through an
+    indirect  path).  In  the   best-trained  individuals  the  raising  of
+    adrenalin levels  at will, seeing increases  of hormone of up  to 200%.
+    This  leads  to  increased   metabolic  activity  temporarily  boosting
+    strength and endurance two points. The response lasts for up to half an
+    hour; there  is a refractory period  of four hours where  a response is
+    not possible.
+
+    Neuronal: Base price Cr.250,000.
+    This type of implant can lead  to a general and specific stimulation of
+    voluntary, skeletal,  muscle - although  those taking a  more expensive
+    option and  more lengthy, vigorous training  can specifically a;ter the
+    pattern  of  involuntary  muscle  contraction  (i.e.  of  the heart and
+    gastrointestinal tract muscle).
+
+    Training  to acheive  muscle control  is of  the same  duration as that
+    required  for  the  specific   hormonal  control  above.  The  specific
+    stimulation of particular muscle sets (or indeed an overal stimulation)
+    can lead to an enhancement of body strength by up two points.
+
+    Then  'general  control'-type  neoroprocessor  implant  was  originally
+    designed  for  those  individuals  suffering  from  a variety of muscle
+    wasting  diseases where  neurone degeneration  has lead  to failure  of
+    natural stimulation and control.
+
+    Axonal-Cerebral: Base price Cr.325,000.
+    This type of implant is the  most expensive, dangerous yet promising in
+    its effects.  The first neuroprocessors  used were of  a general nature
+    designed  to  compensate  those  with  defects  in  the neuronal/axonal
+    pathways of the  brain that give rise to  various cognitive, memory and
+    muscle abnormalities.
+
+    General  benefits for  those suffering  from any  of the above problems
+    will include improvements in recall  and cognitive abilities etc enough
+    to  overcome the  original defect.  Specific enhancements  of cognitive
+    functions  can raise  intelligence by  one point  and an improvement in
+    recall  of memory  can raise   apparent education  by one  point. These
+    effects  last up  to three  hours and  can be  utilised once every six,
+    during which time the individual usually must rest.
+
+    The  enhanced  cognitive  neuroprocessor  comprises a cerebral-computer
+    interface  and  controlling  system.  Electrical  signals  generated by
+    thought  process  are  converted  into  binary  codes that can directly
+    make  switches in  electronic pathways  of any  linked processor-driven
+    device.  Prolonged training  of up  to 12  months is  needed for  these
+    functions  to  be  mastered  and  is  analagous  to  certain  abilities
+    possessed by  special, zhodani psionic  adepts. These adepts  can alter
+    the bits of  data held on computers (see 'Travellers  Digest 1' or Best
+    of Travellers Digest vol.1' - Adventure 1 by DGP).
+
+    The enhanced chip costs up to ten times the basic price - this includes
+    all the costs involved in monitoring and training.
+
+    To   determine  the   psychological  suitability   of  a   subject  for
+    implantation:
+    Routine, Det, 30 min (time optional),(uncertain).
+    Referee:  The determination  relates to  the player's/NPC's  ability to
+    convince  a  psychologist  that  they  will  be  able  to cope with the
+    implant.
+
+    To determine the physical suitability of a subject for implantation:
+    Routine, Med, special *, 1 hour (optional), (uncertain).
+    Referee: The medical skill relates  to the investigating physician. The
+    special  modifier  comes  into  force  at  the referee's discretion and
+    relates to  any particular physical  problems or enhancements  that the
+    player/NPC has.
+
+    Both  the  above  tasks  must  be  successfully  negotiated  before the
+    character can proceed onto the next  stage. Both tasks can be attempted
+    again if an individual fails, with the following modifications; for the
+    first task the difficulty increases one level for each previous failure
+    i.e. second  attempt is difficult, for  the second task the  ability to
+    make another attempt  depends on the level of mishap.  If the mishap is
+    at  the  destroyed  level,  some  fundamental  incompatability has been
+    discovered and no further attempt may  be made. At major level then the
+    examining doctor has discovered some potentially fatal disease/disorder
+    in the individual  (which should be easily cured  - randonmly determine
+    the nature  of the disease).  This disease must  be treated before  the
+    physical suitability task  is attempted. This second attempt  is at the
+    next difficulty level; only one re-try is possible. The superficial and
+    minor mishaps increase the task difficulty one level. Multiple re-tries
+    are possible as long as determination rolls are successful.
+
+    To prepare an individual for implantation procedure:
+    Routine, Med, Dex, 15 min (optional), (uncetain, hazardous).
+    Referee:  The  skills  apply  to  the  supervising  physician.  Failure
+    indicates that there is some small  problem. A retry is possible unless
+    there  is a  destroyed mishap,  a major  mishap increases  the task one
+    level.
+
+    To perform the implantation procedure:
+    Difficult, Med, Dex, 30 min (optional), (uncertain, hazardous).
+    Referee: Again the skills apply to  the principle medic involved in the
+    operation.  Success  will  only  become  apparent  some  time after the
+    operation -  recovery period is  10 times the  time increment at  which
+    point  the   biochip  functions  can  be   activated.  Mishaps  can  be
+    potentially fatal; a destroyed mishap signifies death to the recipient,
+    a major  mishap  leaves  the  recipient  with  some degree of permanent
+    damage - intelligence  and dexterity are reduced by  one point. A minor
+    mishap  leads  to  the  permanent  loss  of  either one intelligence or
+    dexterity point.  For all categories  including superficial there  is a
+    coma following failure, the more severe  the level of mishap the longer
+    and deeper the coma.
+
+    To follow up an individual after implantation:
+    Routine, Med, Int, 15 min (optional).
+    Referee: These  check-ups should occur  once every two  weeks for three
+    months to  monitor progress, iron  out any problems  and spot potential
+    trouble. These consultations are designed to evaluate and implament the
+    physiological and  psychological changes brought  about by the  working
+    chip.
+
+
+
+
+

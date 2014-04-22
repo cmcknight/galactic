@@ -1,0 +1,33 @@
+@SUB-SECTOR: sec_A   SECTOR: gvurrdon
+#
+# Trade routes within the subsector
+#
+$0709 0512 0 1 4
+$0709 0807 0 0 4
+$0807 1009 1 0 4
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Enjtodl       0104 C8A8100-8  Z Lo Ni Fl           501 Zh
+Zhenchve'chip 0202 B666558-8    Ag Ni              902 Zh
+Matlmadl      0205 B646730-8    Ag                 822 Zh
+Dho Ega       0208 E480653-8    Ni Ri De           510 Vp
+Zaerrg        0306 C674683-8    Ag Ni              103 Va
+Unoldhasaellae0309 B300687-9    Na Ni Va           501 Vp
+Angudh        0401 E7A77BA-B  C Fl                 721 Va
+Knoelurzudal  0402 A352614-D    Ni Po              803 Va
+Duduell       0403 C352215-6  C Lo Ni Po           203 Va
+Tarraekhs     0405 B000657-C  C Na Ni As           311 Va
+Uedhoelukhue  0407 B300314-9    Lo Ni Va           920 Vp
+Roeknughroe   0410 B100A99-C  G Hi Na In Va        924 Vp
+Gvuksdourrgh  0502 A685132-C  G Lo Ni              803 Va
+Songi         0503 B736467-A    Ni                 110 Va
+Llaegh        0504 B638359-9  C Lo Ni              110 Va
+Torrvagve     0505 A577226-C    Lo Ni An           520 Va
+Dzukoun       0703 B788899-7    Ri An              414 Vs
+Onengoen      0709 B450778-A    Po De              302 Vp
+Zangerr       0803 D100542-7    Ni Va              723 Vs
+Ksaghae       0804 D878310-5  C Lo Ni              310 Vs
+Tengerkukokhs 0807 C87A532-8  G Ni Wa              322 Vp
+Ellfoegoezou  0808 E58878B-5    Ag Ri              810 Vp
+Gantsugh      0809 A000100-D    Lo Ni As           420 Vp

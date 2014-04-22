@@ -1,0 +1,79 @@
+
+Dzarrvaer Subsector: The Dzarrvaer Subsector has an estimated population in
+1202 of approximately 16 billion, a decline of 85.5% from its Pre-Collapse
+population. Gnerang has the highest population (7 billion). Knokseng has
+the highest tech level rating (10). The Dzarrvaer subsector had an
+estimated population in 1120 of approximately 114 billion. Its highest
+population was 60 billion at Tuerrg, which shared highest tech level honors
+with Dzarrvaer (15).
+
+KV allegiance code impact upon government code in UWP:
+ 0 Anarchy
+ 1 Tribal Government
+ 2 Direct Democracy
+ 3 Charismatic Dictatorship (Low Law Level tendencies)
+ 4 Representative Democracy
+ 5 Technocratic Oligarchy
+ 6 Technologically Elevated Dictator (Law Level DM corresponds accordingly)
+ 7 Balkanization (no clear "leading" nation)
+ 8 Charismatic Dictatorship (High Law Level tendencies)
+ 9 Charismatic Oligarchy
+ A Civil Service Bureaucracy
+ B Self-Perpetuating Oligarchy
+ C Impersonal Bureaucracy
+ D Religious/Mystic Dictatorship/Autocracy (any of 4 possible combinations)
+
+The dual appearance of Charismatic Dictatorship reflects the local Vargr
+preference to follow governments of this type.
+
+B in the PPG column continues to stand for Balkanized.
+
+Subsector Notes:
+
+The home of the Dzarrgh Federate during the last decades of the Third
+Imperium, this subsector enjoyed prosperity through trade with its
+neighboring states and the Imperium itself. When the Rebellion broke out
+and the Corridor fleet was removed, the Vargr interpreted this as a sign of
+weakness. Greed overcame them and their neighbors. They drove rimward and
+began their plunder of Corridor. Imperial booty was hauled back home and
+prosperity continued in a different way. This greed was their undoing as
+the raiders brought back infected equipment and ships. Virus consumed these
+worlds just as these worlds had consumed the Imperial worlds in Corridor.
+
+Amazingly enough, many worlds in this subsector fought successfully against
+Virus. Although 100 billion Vargr died, the population today is over 16
+billion. 12 worlds have functional starports. After a couple of decades of
+defending their homeworlds, these worlds, isolated from the next by no more
+than 2 parsecs began to cooperate with one another. In the spirit of the
+old Dzarrgh Federate, a new interstellar state was formed, the Knokseng
+Confederation.
+
+The Knokseng Confederation isn't much more that a support group in the year
+1202. Member worlds trade with one another and share in the patrol duties,
+ever alert for possible Vampire fleets. The links between these worlds is
+tenuous at best. A patrol even monitors the dead Kas (627) system in case
+any Vampire ships attempt to refuel at the gas giants.
+
+A critical juncture in this chain lies at Oksruenvae (526). This world is
+the coreward link to the rimward portion of the chain. It lies 2 parsecs
+away from both Oth Uegaen (325) and Gvae (624). If it were to fall, the
+rimward chain would be seperated from the coreward portion by 3 parsecs.
+Ships that can make that leap are even fewer in supply than the Jump 2
+ships. For this reason, the oppressive T.E.D. in command of this world is
+tolerated. The Knokseng Confederation maintains a non-interference policy.
+So long as the T.E.D. keeps the starport open and doesn't attack any
+off-worlders, they'll leave him alone. There are several factions that war
+on and off with the T.E.D. but none has been successful enough in defeating
+him.
+
+Future Plans of the Knokseng Confederation:
+
+  1. Scout out and survey an area of 5 parsecs in all directions and look
+     for survivors and reestablish contact with them.
+  2. Invite recovered worlds (those still not heavily infested with Virus)
+     into the Confederation, i.e. Dzarrvaer.
+  3. Establish a permanent presence at Kas to support area patrols.
+  4. Upgrade infrastructure and education of current member worlds to TL-8,
+     9, & 10.
+  5. Upgrade all starports to at least a "C" rating.
+

@@ -1,0 +1,43 @@
+@SUB-SECTOR: Mimu   SECTOR: Dagudashaag
+#
+# Trade routes within the subsector
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Kashmiir      0103 A9687BB-D  N Ag                 313 St 
+Kedaa         0105 B551410-A  S Ni Po              402 St 
+Akimu         0106 C9B69CC-9  S Hi Fl              303 St 
+Zukchurukh    0108 C582867-8    Ri                 715 St 
+Tscho         0109 C685767-8    Ag Ri              904 St 
+Kaza          0110 C442510-B    Ni Po              924 St 
+Nuikh         0201 A310200-F    Lo Ni              410 St 
+Osakis        0202 D675723-7    Ag                 503 St 
+Mimu          0208 A4579A9-D    Hi Cp              801 St
+Rathas        0210 A95A8DB-B    Wa                 903 St 
+Halimaa       0301 D3B85CA-D  S Ni Na Fl An     R  612 St 
+Karrana'ch    0302 C455541-9  S Ag Ni              903 St 
+Manoh         0307 C000667-A    Na Ni As           713 St
+Ges           0401 D868431-4  S Ni                 703 St 
+Serpents Reach0402 A66975A-E  S Ri                 514 St 
+Tree'chuakh   0405 B789753-E  N Ri                 810 St 
+Muikha        0406 A000524-E  N Ni As              722 St
+Kaldi         0407 C94736B-8  S Lo Ni              713 St 
+Tae           0408 C252664-9  S Ni Po              604 St 
+Ushkhuur      0502 CA7A774-9    Wa                 510 St 
+Geka          0503 D311553-A  S Ni Ic              304 St 
+Gushnemasha   0504 D888778-6    Ag Ri              413 St 
+Iiu           0505 A5A689B-A  S Fl                 302 St 
+Siakmasfa     0506 A140233-D  N Lo Ni Po De        704 St 
+Refuge        0509 D578664-3    Ag Ni              224 St 
+Ninaan        0601 C344543-A    Ag Ni              235 St 
+Seminary      0604 C222425-B  S Ni Po           A  900 St 
+Zishku        0610 C7A5776-B    Fl                 524 Li 
+Zuiar         0705 B450967-D  N Hi Po De           323 St 
+Khumara       0707 D561520-9  S Ni                 900 St 
+Ssi           0708 A75886A-D  N                    803 St 
+Irshe         0709 B94A100-D  N Lo Ni Wa           813 St 
+Sheaniki      0801 C612521-7    D2 Ni Ic           604 St 
+Khan          0802 C89A5A9-7  S Ni Wa              102 St 
+Chiauk        0803 A231557-G    Ni Po An           403 St 
+Andalusia     0810 B372348-B  N Lo Ni              100 Li 

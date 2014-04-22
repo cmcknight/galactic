@@ -1,0 +1,28 @@
+@dir=gals\classic\gvurrdon\map
+@Light Yellow
+Gvurrdon Sector / Data Files
+
+@Light Cyan
+      Sector Data                  @..\gvurrdon.dat
+      Stellar Data                 @stars\stars.mnu
+      Credits                      @..\credits.txt
+
+@Light Green
+      Subsector Data
+@Light Cyan
+       A: Ongvos                   @sec_a.dat
+       B: Zoghz                    @sec_b.dat
+       C: Adhsakh                  @sec_c.dat
+       D: Fanganger                @sec_d.dat
+       E: Uerra Rueshken           @sec_e.dat
+       F: Dzen                     @sec_f.dat
+       G: Lla Iz Therrg            @sec_g.dat
+       H: Thoengling               @sec_h.dat
+       I: Kfan Uzangou             @sec_i.dat
+       J: Ruhk                     @sec_j.dat
+       K: Ksits Usathu             @sec_k.dat
+       L: Aelluekh                 @sec_l.dat
+       M: Llanic                   @sec_m.dat
+       N: Spurl                    @sec_n.dat
+       O: Uthe                     @sec_o.dat
+       P: Firgr                    @sec_p.dat

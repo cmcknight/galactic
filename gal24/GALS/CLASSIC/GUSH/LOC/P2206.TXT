@@ -1,0 +1,21 @@
+System: Painntu
+Subsector: Taapvaia
+Sector: Gushemege Sector
+Coordinates: 2206 (C0606)
+UWP: D547658-7
+
+Starport: Poor
+Size: Medium (7200-8800 km)
+Atmosphere: Thin, tainted
+Hydrographics: 70% water
+Population: 7 million
+Govt: Feudal Technocracy
+Law Level: High
+Technology: Pre-Stellar
+
+Bases: Scout Base
+Trade Codes: Ag Ni           
+Travel Zone: Green
+Planetoid Belts: 0
+Gas Giants: 1
+Allegiance: Imperial

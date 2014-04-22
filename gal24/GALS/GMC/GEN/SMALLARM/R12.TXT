@@ -1,0 +1,34 @@
+r12 Sniper Rifle
+
+The r12 sniper rifle was the standard issue Magellanic sniper weapon until
+the introduction of the r16 gauss sniper rifle in 2361T. First issued in
+2283T, the r12 was a very popular (if somewhat specialised) weapon; and is
+still frequently encountered with Diadochi forces unable or unwilling to use
+the more advanced r16. The r12 has recently seen a surge in popularity with
+the introduction of the Phoenix 1200, a semiautomatic only version for the
+civilian market.
+
+The r12 is a bullpup sniper rifle firing a caseless 7.5mm discarding sabot
+round with a 6mm tungsten alloy penetrator from a 30 round detachable
+magazine. The r12 is fully gyrostabilised and fitted with an internal laser
+sight. The r12 is capable of firing in either semiautomatic or 5 round burst
+mode. The weapon is fitted with a bipod to assist in accurate long range
+shooting and can accept all standard Magellanic enhanced sighting devices.
+
+Weapon: r12 sniper rifle
+Action: Gas retarded blowback - singleshot, burst (5)
+Ignition: Electric
+Tech Level: 10
+Calibre: 7.5(6)mm MSO caseless
+Penetration: 6
+Range: long
+Malfunction: reliable
+Shots: 30
+Mass: 9.0kg
+Reloads: 0.6kg
+Length: 109cm
+Cost: Cr 1900 (Phoenix 1200: Cr 1420)
+Incidentals: 30 rounds DS: Cr 90 (0.5kg)
+             5 hour rechargeable battery pack: Cr 3 (0.3kg)
+             20 hour disposable battery pack: Cr 1.5 (0.3kg)
+             empty 30 round magazine: Cr 75 (0.1kg)

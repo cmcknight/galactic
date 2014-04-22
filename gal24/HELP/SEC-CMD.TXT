@@ -1,0 +1,26 @@
+
+List of Commands for Sector Map Screen
+--------------------------------------
+
+ K/J/H/L/(Arrows)       Move to Neighboring Subsector
+  PgUp/PgDn/Tabs        Move to Sector Edge
+
+ (Enter)/(Space)        Enter a Subsector
+
+        >               Edit Subsector Data File
+        <               Edit Sector Data File
+        F               Dump Sector to Flat Text
+        G               Galaxy Dot-Map
+        M               Map of Entire Sector
+        U               Edit Galaxy's UWP.DAT File
+      F1/F2             View/Edit Sector Notes
+        F5              Strain Sector
+        F7              View Galaxy Notes
+
+     (Esc)/Q            Return to the Galaxy Map
+
+        ?               View This List
+
+
+    Hit <Q> to return to Sector Map Screen
+

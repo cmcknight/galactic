@@ -1,0 +1,33 @@
+@SUB-SECTOR: sec_n   SECTOR: Diaspora
+#
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Frock         0931 X5A4000-0    Ba Fl              011 Un
+Nappa         0932 X6967Q3-4    Ag              B  422 Wi
+Emeluura      0935 X200000-0    Ba Va              004 Un
+Woken         0936 E9985P7-8    Ni Ag D:0          301 Wi
+Chamawa       0935 D7436P5-8    Ni Po           B  302 Wi
+Dikon         0940 X529000-0    Ba                 000 Un
+Yatustuhexna  1031 X451433-3    Ni Po Lo D:9       313 Dr
+Gus           1034 X6543N1-8    Ni                 504 Wi
+Cole          1035 X210000-0    Ba                 003 Un
+Frey          1133 X536000-0    Ba                 004 Un
+Alki          1136 X100000-0    Ba Va              004 Un
+Usheriima     1138 X534000-0    Ba                 013 Un
+Adryanne      1139 X530000-0    Ba De              011 Un
+Musiiba       1233 X3442O5-5    Ni Lo              324 Wi
+Snoquaimie    1236 X7865RC-3    Ni              B  300 Wi
+Chicago       1331 X3714P5-3    Ni Lo C:2       B  104 Wi
+Duwamish      1336 X4667SC-4    Ag              B  225 Wi
+Ica           1338 X000000-0    As Ba              024 Un
+Nape          1339 X000000-0    Ba As              024 Un
+Dawns         1340 D6568V6-3    Ag                 202 Wi
+Semaachi      1433 X2547R8-3    Ag              B  403 Wi
+Burien        1435 X201000-0    Ba Va Ic           003 Un
+Garaag        1438 E3806T9-3    Ni De           B  212 Wi
+Obiods        1440 X000000-0    Ba As              022 Un
+Prosser       1539 XA888R6-4                    B  210 Wi
+Prestwick     1639 D76A557-7    Ni Wa              202 Na
+Biremeruun    1640 D9867O3-3    Ag              B  510 Wi

@@ -1,0 +1,28 @@
+@dir=gals\classic\riftspan\map
+@Light Yellow
+
+Riftspan Reaches / Data Files
+
+@Light Cyan
+      Sector Data                  @..\riftspan.dat
+      Credits                      @..\credits.txt
+
+@Light Green
+      Subsector Data
+@Light Cyan
+       A: Aulryakh                 @sec_a.dat
+       B: Hwiwuiyo                 @sec_b.dat
+       C: Tyehlai                  @sec_c.dat
+       D: Ewasya'                  @sec_d.dat
+       E: Trawo                    @sec_e.dat
+       F: Aokiylair                @sec_f.dat
+       G: Ryuhleiea                @sec_g.dat
+       H: Iyhaseakh                @sec_h.dat
+       I: Yuhiyah                  @sec_i.dat
+       J: Jikhyrleirla             @sec_j.dat
+       K: Hryehkhtyei              @sec_k.dat
+       L: Aoheiroiao               @sec_l.dat
+       M: Ftyoauial                @sec_m.dat
+       N: Ioihlehwa                @sec_n.dat
+       O: Tuistao                  @sec_o.dat
+       P: Wahtoikoeakh             @sec_p.dat

@@ -1,0 +1,42 @@
+@SUB-SECTOR: Divide SECTOR: Amdukan
+#
+# Trade Routes
+#
+$1040 0639 -1 0 11
+$1040 1238 0 0 11
+$1238 1135 0 0 11
+$1135 1533 0 0 11
+$1533 1531 0 0 11
+$1531 1529 0 -1 11
+$1533 1835 1 0 11
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UWP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Llangfaek     0933 C246789-7    Ag              A  905 J-
+Bivouac       0935 B330887-A  M De Na Po        A  723 J-
+Iniim         0938 E75455A-3    Ag Ni           A  901 Jr
+Aekhueg       0939 C89A343-A  M Lo Ni Wa           304 Jr
+Aezogzug      1032 C8A68BD-7  M Fl                 300 J-
+Thersites     1040 B8CA264-A    Fl Lo Ni Wa        903 Jr
+Ukh Fathoe    1132 E520422-3    De Ni Po           212 J-
+Misaara       1133 C523030-8    Lo Ni Po           902 J-
+Engaedh       1134 E525411-4    Ni                 624 J-
+Akimikan      1135 B5108B8-A    Na                 222 J-
+Anshada       1136 C110445-8  M Ni                 320 J-
+Anuthe        1231 E99A798-6    Wa                 304 J-
+Taxgo         1235 E241A75-8    Hi In Po        A  503 J-
+Dirdir        1238 A520761-A    De Na Po Cp        100 J-
+Dzaengvoe     1240 C777446-6    Ni                 105 Jr
+Tilt          1331 C210577-A    Ni                 923 Jc
+Outsoer       1336 D546888-3                    R  802 J-
+Tsolall       1337 C223531-A    Ni Po              810 J-
+Jyestha House 1432 B755547-6  F Ag Ni              600 Jc
+Blibdapa      1434 EAC8AAC-A    Fl Hi              823 J-
+Didiina       1440 C464244-9    Lo Ni              524 J-
+Kangaes       1531 A520596-9  J De Ni Po           403 Jc
+Agveth        1533 B000678-A  M As Na Ni           923 Jc
+Ogdze         1534 E866027-6    Lo Ni              724 J-
+Orzig         1537 E5657B7-1    Ag                 822 J-
+Deadpan       1636 E510100-6    Lo Ni              200 J-
+Philip        1637 D548543-4    Ag Ni              712 J-
+

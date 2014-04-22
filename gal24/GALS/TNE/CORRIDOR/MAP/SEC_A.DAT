@@ -1,0 +1,36 @@
+@SUB-SECTOR: sec_A   SECTOR: corridor
+#
+# Trade routes within the subsector
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Tersta        0102 E474533-6    Ag Ni An           120 Wi
+Khouth        0104 X8C3000-0    Fl Ba              020 --
+Ankirst       0105 D356102-6    Lo Ni              121 Wi
+Ofo-Nebus     0106 C541425-7    C:1 Lo Ni Po       301 Wi
+Synez         0109 X864231-6    Lo Ni              320 Wi
+Koergfoes     0205 X54356A-5    Ni Po Rs        B  122 Wi
+Mikesh        0206 X8B7000-0    Fl Ba              025 --
+Pergzitt      0209 X625000-0    Ba                 011 --
+Dry           0210 X110000-0    Ba                 001 --
+Serk          0304 X89A851-4    Wa              B  523 Wi
+Hesarus       0306 X25356E-7    Ni Po              120 Wi
+Caulins Belt  0307 X000000-0    Ba As              001 --
+Faraway       0308 X682540-1    Ni                 313 Wi
+Auritaurus    0401 D859366-7    Lo Ni              321 Wi
+Rrev Rigr     0402 X100000-0    Ba Va              010 --
+Sigma 7       0407 X000000-0    Ba As              002 --
+Koppel        0502 X463010-3    Lo Ni              134 Wi
+Naxx-lygo     0509 X7B5000-0    Fl Ba              012 --
+Pamock        0510 X46156B-4    Ni                 223 Wi
+Greenrok      0601 X560200-1    Lo Ni De           101 Wi
+Taratun       0603 X8A3000-0    Fl Ba              023 --
+Aka Gee       0605 X432000-0    Ba Po              003 --
+Degarla       0606 X610000-0    Ba                 010 --
+Desolate      0608 X9B2000-0    Fl Ba              020 --
+Semiplast     0609 X461669-6    Ni                 402 Wi
+Gzorraeth     0701 B490445-7    Lo Ni De           201 Wi     f
+Mowanda       0709 X200000-0    Ba Va              011 --
+Treshurii     0804 X335000-0    Ba                 023 --
+Bersha        0807 X552343-4    D:1 Lo Ni Po       402 Wi

@@ -1,0 +1,44 @@
+Empty Quarter
+
+A: Engarmi                   sec_a.dat
+B: Daskomo                   sec_b.dat
+C: Link                      sec_c.dat
+D: Kosh                      sec_d.dat
+E: Requiem                   sec_e.dat
+F: Flandry                   sec_f.dat
+G: Cotan                     sec_g.dat
+H: Nisaga                    sec_h.dat
+I: Lentuli                   sec_i.dat
+J: Tsuchida                  sec_j.dat
+K: Hebrin                    sec_k.dat
+L: Beta Niobe                sec_l.dat
+M: Nulinad                   sec_m.dat
+N: Tairtsu                   sec_n.dat
+O: Irash                     sec_o.dat
+P: Nosso Nosso               sec_p.dat
+
+Bases:
+N = Navy
+S = Scout
+  = None
+
+Allegiance:
+15 JP = Julian Prot. (Unincorporated)
+15 Jc = Julian Prot. (Const. of Koekhon)
+15 Jo = Julian Prot. (Alliance of Ozuvon)
+15 Ja = Julian Prot. (Asimikigir Confed.)
+15 Jr = Julian Prot. (Rukadukaz Rep.)
+15 Hl = Julian Prot. (Lorean Hegem.)
+15 Jh = Julian Prot. (Hhkar Sphere)
+15 J- = Julian Prot. (Unincorporated)
+15 Jm = Julian Prot. (Cmnwlth of Mendan)
+15 Jl = Julian Prot. (Lumda Dower)
+15 Jv = Julian Prot. (Vugurar Dominion)
+15 Jp = Julian Prot. (Pirbarish Starlane)
+15 Ju = Julian Prot. (Ukhanzi Coord.)
+01 Vw = Julian Prot. (Rar Errall/Wolves W.)
+12 Im = Third Imperium
+10 Cs = Julian non-member client state
+09 Na = Non-Aligned
+08    = Unknown
+

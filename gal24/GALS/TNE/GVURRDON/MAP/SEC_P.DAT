@@ -1,0 +1,39 @@
+@SUB-SECTOR: sec_P   SECTOR: gvurrdon
+#
+# Trade routes within the subsector
+#
+$2633 2433 -1 0 2
+$2633 2731 0 0 2
+$2940 2937 0 0 4
+$2937 2638 0 0 4
+$2638 2540 0 0 4
+$2540 2240 -1 0 4
+$2937 3035 0 0 4
+$3035 3034 0 0 4
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Ngoluts       2531 B304738-9    Ic Va              803 Va
+Fae Kodh      2536 D445313-7    Lo Ni Sv           301 Va
+Torrknungazarr2537 A753300-C    Lo Ni Po           903 Vp
+Ksunekso      2540 B525575-A    Ni                 424 Vp
+Ightursksoetha2633 B300223-C    Lo Ni Va           410 Va
+Vakunggvoruego2634 B333887-7    Na Po              201 Va
+Gzaell        2638 E773541-5    Ni                 910 Vp
+Thurruegvudhot2731 C88A200-6    Lo Ni Wa           603 Ve
+Asugunkhodz   2735 B97A313-A    Lo Ni Wa           502 Va
+Roukhagzvaengo2740 E526899-7                       813 Vp
+Oegaeldu      2832 B200443-A    Ni Va              602 Va
+Kedzudh       2833 B000525-D    Ni As              822 Va
+Gzoghz        2834 B74A421-C    Ni Wa              503 Va
+Rruthaekuksu  2840 D231210-6    Lo Ni Po           823 Vp
+Afougae       2936 B000598-E    Ni As              123 Vp
+Scangen       2937 B88557A-C    Ni As              224 Vp
+Galla         2940 B686275-8  H Lo Ni              502 Vp
+Ughz          3034 A424451-G  G Ni Cx              302 Vp
+Ganokoulovaenu3035 B352231-8  C Lo Ni Po           801 Vp
+Llaekag       3040 X520100-4  C Po                 523 Vp
+Oziz          3133 B677433-B    Ni                 924 Vp
+Torrrrerz     3137 A463951-C    Hi                 521 Vp
+Gvutson       3233 A85A7CE-8    Wa                 520 Vp
+Oertsous      3238 E253A9E-A  C Hi Po              602 Vp

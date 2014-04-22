@@ -1,0 +1,35 @@
+@SUB-SECTOR: sec_O   SECTOR: canopusc
+#
+# Trade routes within the subsector
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Bachylar      1732 X575130-7    Ag Lo Ni           124 Wi
+Sparrowhawk   1733 X333000-0    Ba                 012 --
+De Moyne      1734 X7B0000-0    Ba De              012 --
+Taupo         1737 X564458-8    Ag Lo Ni           451 Wi
+Williamsburg  1832 X334000-0    Ba                 014 --
+Pyersson      1833 X45776A-3                    B  223 Wi
+Mueller       1834 X666540-2    Ag Lo Ni        B  315 Wi
+Huron         1838 E769879-8    Ri              B  302 Wi
+Alviss        1932 X221000-0    Ba                 003 --
+McNally       1934 X475672-5    Ni                 300 Wi
+Lawrence      1936 E69A573-5    Lo Ni Wa        B  115 Wi
+Holden        2033 X333000-0    Ba                 014 --
+Jewish        2034 X566642-2    Ni Ri           B  104 Wi
+Shmuel        2035 X56A045-6    Wa                 005 Wi
+Crender       2036 X460102-3    De Lo Ni           224 Wi
+Fioria        2037 X300000-0    Ba Va              000 --
+Pendragon     2038 X89A48B-2    Lo Ni Wa        B  114 Wi
+Hansel        2131 X100000-0    Ba Va              003 --
+Ambrosius     2135 X100000-0    Ba Va              004 --
+Loki          2140 X565200-0    Ag Lo Ni           203 Wi
+Elke          2234 X335000-0    Ba                 004 --
+Edmonds       2240 X252001-4    Ba                 022 Wi
+Florence      2332 X313000-0    Ba Ic              014 --
+Filio Petri   2333 D654869-5                    B  401 Wi
+Diconson      2340 X300000-0    Ba Va              002 --
+Apollyon      2432 X436000-0    Ba                 004 --
+Lincoln       2436 X636000-0    Ba                 003 --
+Ernst         2437 E84A688-8    Ni Wa              305 Wi

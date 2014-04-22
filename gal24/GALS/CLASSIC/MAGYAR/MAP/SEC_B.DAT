@@ -1,0 +1,45 @@
+@SUB-SECTOR: sec_B   SECTOR: magyar
+#
+# Trade routes within the subsector
+$0903 0805 -1 0
+$0903 1105 0 0
+$1105 1403 0 0
+$1105 1208 0 0
+$1208 1408 0 0
+$1403 1605 0 0
+$1408 1512 0 1
+$1605 1807 1 0
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Akludu        0902 B368669-D  S Ag Ni Ri           804 Da
+Daftrew       0903 B78A878-E  A Wa Ri              515 Da
+Opoyama       0904 C954358-C    Lo Ni              200 So
+Far Light     0910 D32157A-A    De Ni Po           500 So
+Wrath         1002 C550566-A    De Ni Po           603 Da
+Relatte       1003 A857432-E    Ni                 402 So
+Jondrea       1004 X545332-3    Lo Ni              423 So
+Mafred        1008 C53846A-C    Ni                 600 To
+Sumio         1101 C2116AB-A    Ic Na Ni           924 So
+Xian          1103 B7B48DC-9  W Fl                 522 So
+Ko's World    1105 B369775-D    Cp Xb Ri           902 So
+Mubark        1106 D101220-B    Ic Lo Ni Va        911 So
+G'anshum      1109 E654678-6    Ag Ni              300 So
+Seladur       1207 C565651-9    Ag Ni Ri           200 So
+Bageakke      1208 A7BA543-E  N Fl Ni Wa           202 So
+Tarn          1209 A747220-E  W Lo Ni              205 So
+Joppa         1302 B201575-E    Ic Ni Va           800 So
+Cueball       1305 D15156A-A    Ni Po              803 Sa
+Sorang        1307 C111641-C    Ic Na Ni           300 So
+Al-Medif      1309 X87A775-5    Wa                 203 So
+Chorus        1403 A944768-C  A Ag                 415 Sa
+Sapphire      1404 B89A797-D    Wa                 100 Sa
+Tooma         1407 A255332-E    Lo Ni              205 To     f
+Heichel       1408 B7B8684-B    Fl Ni              904 So
+Olsson        1409 D478577-A    Ag Ni              610 So
+Greencastle   1410 C576830-9                       400 So
+Youngland     1504 D596325-7    Lo Ni              600 So
+Desolation    1506 B401000-E    Ba Ic Lo Ni Va     110 So
+Summer's Lot  1604 C8C9244-C    Fl Lo Ni           400 So
+Goodhurst     1605 A535649-E  W Ni                 903 So

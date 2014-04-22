@@ -1,0 +1,36 @@
+@SUB-SECTOR: sec_g   SECTOR: Spica
+#
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Albumena      1613 XAE93N2-3    Lo Ni           B  103 Wi
+Antilles      1616 B769522-9  M Ni                 204 Hv
+Halderaan     1617 X200000-0    Ba Va              004 Un
+Parathos III  1618 X89A5RC-0    Ni Wa           B  200 Wi
+Foreseven     1712 D5678U6-3    H:0 Hn          B  300 Wi
+Xoar Zeta     1714 C31156B-8    Ni Ic Nh O:2003    402 Xh
+Nehndil       1717 C550201-9    Lo Ni Po De        105 Hv
+Egesta        1718 E7B4305-9    Fl Lo Ni Cm        320 Hv
+Upsilon       1811 X401000-0    Ba Va Ic           004 Un
+Tsent         1818 A765861-D  L T:5 Ri St O:1922   603 Hv
+Lelihr        1819 B798601-B    Ag Ni              323 Hv
+Raral         1820 E58A5I5-5    Ni Wa              510 Hv
+Delea I       1913 X231000-0    Ba Po              000 Un
+Caldor        1914 D3774O0-2    Lo Ni Hp        B  514 Wi
+Sorgho        1919 X6A4000-0    Fl Ba              003 Un
+Aesop         2015 D8953QA-6    Lo Ni              300 Wi
+Adamantium    2113 X201000-0    Ba Va Ic           000 Un
+Rasomb        2117 B464204-9    Lo Ni Hp           602 Hv
+Deru Nooq     2118 A8628J4-9  L Ri                 210 Hv
+Zokel         2120 D634563-6    Ni Cm Nh O:0102 A  934 Hv
+Nandan        2218 B440201-8  L Lo Ni Po De        614 Hv
+Dapan         2219 C411462-8    Lo Cm Ic O:0102    520 Hv
+Raphael       2312 X5505Q5-4    Ni Po De        B  103 Wi
+Gabriel       2313 X7C5000-0    Fl Ba              004 Un
+Cache         2314 X8B5000-0    Fl Ba              004 Un
+Triarchos     2317 X520000-0    Ba Po De           012 Un
+Baren         2318 B6517I1-B  L Po                 700 Hv
+Piyrul        2320 E530367-5    Lo Cm Po De Nh  A  700 Hv
+Michael       2412 X000000-0    Ba As              022 Un
+Nyebal        2420 B231202-8    Lo Ni Cm Po        813 Hv

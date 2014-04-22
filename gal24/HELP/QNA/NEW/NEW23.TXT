@@ -1,0 +1,23 @@
+
+[Q] What was new in version 2.3?
+
+[A] Here are the new contributions:
+
+  * Jens Maskus contributed the Gateway Sector (originally by DGP)
+  * idiot@sans.vuw.ac.nz contributed the Dagudashaag Sector (borrowing
+    world names from work by Jae Campbell, Duncan Law-Green, Leighton
+    Piper and Nick Walker) as well as the Core Sector (though this one
+    is still largely in need of world names)
+  * Lewis Roberts contributed updates to his TNE galaxy
+
+Here are the new program features:
+
+  * Added automated jump route creation (F6) to subsector map
+  * Added star system map creation (F9) to subsector map
+  * Added dump-to-bitmap feature (F10) to various maps using
+    SAVESCR v0.6 by Aaron Zabudsky <zabudsk@ecf.utoronto.ca>
+  * Created data\hooks.dat file to control the calling of
+    various subprograms by Gal. You can modify this file to hook
+    programs that you have written into Gal, adding entirely new
+    features to the software.
+

@@ -1,0 +1,18 @@
+@dir=gals\gmc\newlands\loc\
+@Light Yellow
+
+          R-7855T System
+
+@Light Green
+   IMSC Navigation Notice
+@Red
+   *******WARNING*******
+@Light Green
+   LOCAL INTERDICTION
+   R-7855T, Newlands 0708
+
+@Light Cyan
+      Public Data                  @p0708.txt
+      Common Knowledge             @p0708b.txt
+      Classified Information       @p0708c.txt
+

@@ -1,0 +1,52 @@
+@SUB-SECTOR: sec_I   SECTOR: magyar
+#
+# Trade routes within the subsector
+$0125 0227 0 0
+$0125 0223 0 0
+$0223 0523 0 0
+$0227 0427 0 0
+$0227 0428 0 0
+$0428 0531 0 1
+$0523 0624 0 0
+$0624 0427 0 0
+$0624 0722 0 0
+$0722 0921 1 0
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Vaneken       0122 C7B78A9-9    Fl                 804 So
+Ulm           0125 A548666-E    Ag Ni              503 Oc
+Rosefeld      0130 E5218CB-9    Na Po              824 So
+Campany       0223 B641888-B    Po                 900 Oc
+Romm          0224 B331321-D    Lo Ni Po           600 Oc
+Adopoulos     0225 C100599-E    Ni Va              503 Oc
+Ock           0227 A9A8855-E  A Cp Fl              813 Oc     f
+Tworek        0229 E8AA446-A    Fl Ni Wa           510 So
+Usi Ub        0321 C696966-A    Hi In              323 Oc
+Wright        0322 C000356-D    As Lo Ni           510 So
+Ciaconn       0327 C89A220-C    Lo Ni Wa           704 Oc
+Tenson        0329 C63257A-A    Ni Po              602 So
+Awrenek       0330 D556110-8    Lo Ni              824 So
+Rishi         0423 E101668-9    Ic Na Ni Va        822 Oc
+Mitaro        0425 B895301-D    Lo Ni              302 Oc
+Harsanyi      0427 A342468-E    Ni Po              710 Oc
+Weiji         0428 A441677-E    Ni Po              422 So
+Shorne        0523 B69A668-E  S Ni Wa              902 Oc
+Butchko       0524 E101572-B    Ic Ni Va           804 Oc
+Lancess       0526 C677430-9    Ni                 800 Oc
+Harnish       0528 D3408AD-8    De Po              120 So
+Troy          0530 C462369-B    Lo Ni              510 Oc
+Pathak        0623 D721400-B    Ni Po              310 So
+Iouo          0624 A79A96B-E  N Xb Hi In Wa        710 Oc
+Esteraj       0625 C7B7400-D    Fl Ni              301 So
+Lovich        0627 C111224-D    Ic Lo Ni           303 So
+Jafar         0721 X359100-8    Lo Ni              115 So
+Damond        0722 B450788-D    De Po              414 So
+Boracim       0723 A101232-E    Ic Lo Ni Va        203 So
+Ristel        0724 C536555-C    Ni                 705 So
+Blade         0824 C99A567-B    Ni Wa              402 Oc
+Nait          0825 B8C7005-E    Fl Lo Ni           324 So
+Sod           0827 B852423-D    Ni Po              700 So
+Britten       0829 A99A247-E    Lo Ni Wa           500 So
+Haworth       0830 E653574-9    Ni Po              830 So

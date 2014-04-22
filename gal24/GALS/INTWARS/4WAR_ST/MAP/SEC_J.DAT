@@ -1,0 +1,33 @@
+@SUB-SECTOR: sec_J   SECTOR: 4war_st
+#
+# Trade routes within the subsector
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Enulsur       0921 C341636-9    Ni Po              722 Zs
+Girmukam      0922 E232000-0    Ba Lo Ni Po        023 Zu
+Akarla        0923 B666651-B    Ag Ni Ri           320 Zs
+Likagan       0924 E532000-0    Ba Lo Ni Po        020 Zu
+Ishumled      0926 C577514-4    Ag Ni              511 Zs
+Kash          0929 C324410-9    Ni                 605 Zs
+Iili          1022 E535000-0    Ba Lo Ni           011 Zu
+Fomalhaut     1024 E8C8000-0    Ba Fl Lo Ni        102 Zu
+Khulampu      1026 E9A7000-0    Ba Fl Lo Ni        022 Zu
+Gashidda      1127 A36A956-B  N Hi Wa              623 Zs
+Ishkur        1129 B562958-B  N Ri                 813 Zs
+Dingir        1222 AA89A56-B  N Hi Cp              205 Zs
+Kinunir       1224 C532753-8    Na Po              205 Zs
+Shulgi        1324 E512000-0    Ba Ic Lo Ni        003 Zu
+Shilgiili     1326 B67A857-A  N Wa              A  202 Zs
+Enki Kalamma  1327 E200000-0    Ba Lo Ni Va        013 Zu
+Karkhar       1424 D675542-6    Ag Ni              813 Zs
+Shuruppak     1427 C000418-8    As Ni              233 Zs
+Iilike        1429 A455738-A  T Ag              A  524 Tc
+Altair        1522 E000000-0    As Ba Lo Ni        020 Zu
+Zaggisi       1523 C799443-6    Ni                 901 Zs
+Meshan        1526 A435719-B  N                    301 Zs
+Markhashi     1529 E301367-8    Ic Lo Ni Va        305 Tc
+Shulimik      1530 D7837C5-8    Ri                 302 Tc
+Apishal       1622 B633643-7  N Na Ni Po           224 Zs
+Sirus         1629 C000326-9    As Lo Ni           900 Tc

@@ -1,0 +1,50 @@
+@SUB-SECTOR: sec_A   SECTOR: provence
+#
+# Trade routes within the subsector
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Ngulruedukh   0101 X8A1000-0    Fl Ba              012 --
+Gzaerzserorgh 0102 X69A437-4    Wa Ni           B  301 Wi
+Thurraekh     0103 X8A1000-0    Fl Ba              003 --
+Kuerrgoeng    0107 X788642-4    Ag Ni              214 Wi
+Gaeksuergh    0108 X561698-3    Ni                 622 Wi
+Adzoeknogh    0109 X424000-0    Ba                 003 --
+Ang Aeth      0110 E444300-5    Ni Lo              325 Wi
+Aellorr       0203 X756897-5                       215 Wi
+Kunag         0204 X300000-0    Va Ba              012 --
+Kota          0205 X100000-0    Va Ba              011 --
+Ath Aghe      0210 X685633-4    Ag Ni Ri           124 Wi
+Ae Uer        0302 D787523-8    Ag Ni              513 Wi
+Vaggvuek      0303 X535000-0    Ba                 002 --
+Kath          0304 X110000-0    Va Ba              004 --
+Taktelugh     0305 X55866D-2    Ag Ni           B  222 Wi
+Sa Thaen      0306 D68A544-7    Wa Aq Ni           113 Wi
+Llaes         0308 D764799-6    Ag              B  904 Wi
+Oghzourr      0309 X515000-0    Va Ic Ba           024 --
+Urr Orr       0401 D558456-5    Ag Ni              324 Wi
+Ardhaer       0402 X233000-0    Po Ba              013 --
+Klur          0403 X310000-0    Va Ba              024 --
+Ouskathoerz   0406 D558635-8    Ag Ni              822 Wi
+Ranghou       0409 C444545-6    Ag Ni              420 Wi
+Founeghen     0410 X381625-0    Ni              B  904 Wi
+To Oukan      0502 C642634-9    Ni                 714 Wi
+Nurugholi     0507 X634000-0    Ba                 022 --
+Zekhghe       0508 X779374-4    Ni Lo           B  315 Wi
+Vo Dikh       0603 C244556-8    Ag Ni              322 Vi
+Llaegharrgh   0604 C666855-A                       824 Vi
+Ung Uksa      0606 D686846-7                       423 Wi
+Khid          0608 X210000-0    Va Ba              014 --
+Urerknun      0701 D95A412-6    Ni                 503 Wi
+Okhoe         0702 X524000-0    Ba                 024 --
+Faarzgaen     0704 X000000-0    As Va Ba           014 --
+Vo Oeg        0705 X66486B-4    Hi              B  404 Wi
+Arri          0706 X648657-4    Ag Ni           B  134 Wi
+Vrraknog      0707 X678874-3                    B  104 Wi
+Ngekhong      0709 X7A4000-0    Fl Ba              023 --
+Errokdzor     0710 X539000-0    Ba                 004 --
+Vungeketh     0801 X759746-2    Aq                 103 Wi
+Tughghorr     0805 X456776-4    Ag              B  323 Wi
+Rothksigho    0809 X88A57B-3    Wa Aq           B  901 Wi
+Alloghz       0810 X9C6000-0    Fl Ba              012 --

@@ -1,0 +1,36 @@
+@SUB-SECTOR: sec_c   SECTOR: massilia
+#
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Tersani       1703 X100000-0    Ba Va              003 Un
+Varina        1705 X110000-0    Ba                 004 Un
+Dodda Vis     1804 X5444N0-5    Lo Ni              410 Wi
+Ketola        1807 X3543M0-5    Lo Ni              302 Wi     f
+Riarette      1808 X110000-0    Ba                 014 Un
+Engorr        1809 X110000-0    Ba                 000 Un
+Peneplain     1905 X4653N1-6    Lo Ni              414 Wi
+Madden        1907 X524000-0    Ba                 024 Un
+Ektorr        1909 X4638R8-6    Ri                 211 Wi     f
+Khishan       1910 X100000-0    Ba Va              014 Un
+Marfa         2001 X200000-0    Ba Va              003 Un
+Germer        2004 X100000-0    Ba Va              024 Un
+Iggarir       2007 X787ARF-5    Hi              B  123 Wi     f
+Irlu          2008 X200000-0    Ba Va              003 Un
+Wikk          2010 X6487S7-8    Ag                 224 Wi     f
+Trikster      2102 X200000-0    Ba Va              014 Un
+Inarim        2103 X565AS8-8    Hi                 103 Wi
+Landwasser    2105 X8755RC-3    Ag Ni           B  424 Wi
+Murcia        2109 X564AWC-7    Hi                 214 Wi     f
+Symond        2201 X638000-0    Ba                 004 Un
+Bakerian      2301 X421000-0    Ba                 003 Un
+Elan          2302 X668969-3    Hi              B  105 Bc     f
+The Auybes    2305 X300000-0    Ba Va              013 Un
+Terelleresika 2306 X342002-5                       102 Un
+Dumeras       2308 X7899R9-6    Hi              B  203 Wi
+Mina          2401 X461421-3    Lo Ni           B  404 Bc     f
+Solarda       2403 X798551-5    Ag Ni           B  402 Bc     f
+Rizon         2405 X5454T6-0    Lo Ni           B  213 Wi
+Perilous      2406 X7686R9-4    C4 Ag Ni Ri     B  434 Wi
+Wynd          2407 X310000-0    Ba                 014 Un

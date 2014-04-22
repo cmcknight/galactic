@@ -1,0 +1,28 @@
+@SUB-SECTOR: Kristos SECTOR: Gythios Sector
+#
+# Jump-routes
+$3022 2820 0 -1
+$3022 3019 0 -1
+$3027 3129 0 0
+$3129 2930 0 0
+$2930 2931 0 1
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Carpathia     2529 E72A434-9    Wa                 724 Na 860
+Eborane       2627 X260000-0    Ba De Lo           014 Na 010
+Copeland      2724 X525000-0    Ba Lo              004 Gw 260
+Bulgaria      2825 X234000-0    Ba Lo              004 Gw 110
+Roberti       2924 X5A0000-0    Ba De Lo           015 Gw 040
+Lao           2925 X7A3000-0    Ba Fl Lo           022 Gw 030
+Kristos       2930 A464AFJ-B  N Hi              R  912 Gw 46N
+Xocholactl    3022 B633854-A  2                    802 Fc CA6
+Stella        3024 C000200-9  S As Lo              504 Gw 010
+Garton        3025 X212000-0    Ba Ic Lo           004 Gw 040
+Augustus      3027 A756A9A-C  N Hi                 513 Gw 395
+Gisele        3126 X674000-0    Ba Lo              023 Gw 340
+Hanlo         3127 X300000-0    Ba Lo Va           003 Gw 040
+Cwen          3129 A798699-A  S Ag                 915 Gw 485
+Druk          3229 X542000-0    Ba Lo              010 Gw 050
+Fizbo         3230 X899000-0    Ba Lo              022 Gw CA0

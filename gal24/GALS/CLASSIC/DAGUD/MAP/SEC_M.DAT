@@ -1,0 +1,37 @@
+@SUB-SECTOR: Bolivar   SECTOR: Dagudashaag
+#
+# Trade routes within the subsector
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Ekha          0137 C568310-7    Lo Ni           A  904 Fi
+Altamachi     0138 B201240-D    Lo Ni Va Ic        112 Fi 
+Dudin         0230 B9CA9CE-F    Hi Fl Wa           900 Li
+Danse         0232 D9B4743-9  S Fl                 802 Li 
+Gaad          0235 C778543-8    Ag Ni              103 Fi 
+Kinhe         0236 D435875-6  S                    224 Fi 
+Bolivar       0240 A78699D-F  A Hi Cp              814 Fi 
+Kinhe         0331 E79A687-6    Ni Wa              404 Li 
+Cobija        0440 A775456-D    Ni                 503 Fi 
+Eddum         0531 D797978-9    Hi In              102 Li 
+Khaguu        0535 C110530-9  S Ni                 712 Fi 
+Tarija        0539 B20056B-C    Ni Va              810 Fi 
+Shanim        0540 B000661-C  N Na Ni As           803 Fi 
+Shumuu        0631 C300100-A  S Lo Ni Va           202 Li 
+Anshaar       0633 C637334-B  S Lo Ni              624 Li 
+Khika         0635 B500021-D  N Lo Ni Va           602 Fi 
+Gya           0636 C546110-B    Lo Ni              412 Fi 
+Lamdas        0638 B541330-9  S Lo Ni Po           604 Fi 
+Ascension     0639 A1206AC-F  N Na Ni Po De        810 Fi 
+Mindahm       0733 C4367BA-9    C0                 704 Li 
+Apolo         0734 B9AA887-E  N Fl Wa              620 Li 
+Khimkaa       0735 B5958A6-7                       102 Li 
+Nimluin       0736 C7539EH-A  S Hi Po              504 Fi 
+Rruekhsik     0738 B866145-A  N Lo Ni              700 Fi 
+Hanas Soujourn0739 B100101-E    Lo Ni Va           202 Fi 
+Mimku         0831 C200441-A    Ni Va              800 Li 
+Shashankhu    0832 D324640-6  S Ni                 532 Li 
+Argo          0833 A45369B-F    Ni Po              223 Li 
+Tureis        0839 D748369-6  S Lo Ni              104 Fi 
+Uusjar        0840 B561422-C    Ni                 902 Fi 

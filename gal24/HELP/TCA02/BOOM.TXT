@@ -1,0 +1,318 @@
+From: HDHale@aol.com
+Date: Tue, 15 Oct 1996 15:05:57 -0400
+Subject: Re: IG FAQ, 10/14/96
+
+Preface: I am not a lawyer, but I do know a fair amount about copyright law.
+
+Joe Walsh writes:
+>> Which means they can use any material I place on my web site WITHOUT
+>> paying me?  I hope not.  Seriously though, am I right in my
+>> interpretation of this writing?  Say I put a starship up on my page
+>> (using T4 rules), and have the proper copyright information on it.
+>> This means that IG can come along and use it for whatever they want,
+>> because they own it?
+>
+>Not necessarily.  *FFE* could come along and use it.  You see, you are 
+>building on AND REFERENCING a property of FarFuture Enterprises.  Without 
+>FFE, you wouldn't HAVE a product/article/whatever. 
+
+   Wrong.  Actually the correct interpretation goes something like this:  all
+original work belongs to its creator, unless the creator gives up the rights
+to it, in which case the rights (and thus the work) belong to the owner of
+the rights.
+
+   That is why if Imperium Games publishes your adventure in JTAS, they must
+purchase it from you first, even though it is based upon Marc Miller's
+copyrighted work.  If IG decided to go the route that Traveller Chronicle
+went, the rights to the material are temporarily surrendered for the purposes
+for publication.  After that, the copyright reverts back to the author. 
+
+   If IG told you differently, they need to consult a copyright attorney.
+
+>To get around this, you have to get a Letter of Permission from FFE, or 
+>pay for a License.  
+
+   This is true in cases where you are going to be using someone else's
+copyrighted material on an ongoing basis, such as for a Web site, for a
+magazine.
+
+>Why?  Without enforcing those rules, FFE could LOSE it's Trademark and 
+>Copyrights!  That's the way the law works.
+
+   The law states that any *original* material you produce belongs to *you*
+and that it is up to *you* to enforce the copyright.  THere have been cases
+where the national government of a given country has helped copyright holders
+in enforcing copyrights (such as the U.S. government's intervention on behalf
+of software makers with the PRC regarding software piracy, but the government
+(in the U.S. at least) is under no obligation to do so.
+
+>Xerox has to VIROROUSLY pursue those who say their photocopiers
+>"xerox."  Similar for Kimberly-Clark and their trademark "Kleenex."  
+
+   Xerox won this case by the way, even though the word "xerox" has actually
+come into common usage.
+
+>Let's say FFE let people use the Traveller trademark, and produce 
+>products (even not for sale) for free, and continue owning those 
+>products.  Then let's say I come along and produce a product, say it is 
+>for Traveller, and start selling it without paying FFE a license fee.  If 
+>Marc hauled me into court over it, I could point to all the people he let 
+>slide, and say that Traveller was no longer a Trademark, but rather it 
+>was in the public domain - a generic name - because he let others use it 
+>without paying a license fee.  I would almost certainly WIN, and be 
+>allowed to sell my "Traveller" products without paying Marc.
+
+   Actually it depends.  If the people using the Traveller name did so only
+with permission, and then you did your bit without permission, he could still
+sue you.
+
+>In short, it doesn't mean IG and FFE/Marc Miller are jerks - they HAVE to 
+>treat it that way if they want to retain their legal rights.
+
+   Neither IG or FFE/Marc Miller has the right to claim any original work by
+someone else, even if it is based on their copyrighted material, as their
+own.  They *could* sue someone for using copyrighted material without
+permission, but that is the extent to wish they can pursue it.
+
+>Hope this clears it up.
+
+   I'm afraid you may have instead created a firestorm.  Welcome to the wide,
+wide world of Public Relations.  You may want to invest in a fireproof suit
+in the near future....
+
+>PS: I personally doubt it that FFE/IG would publish someone's work 
+>without at least asking permission. (My personal opinion, mind you.)  But, 
+>legally, yes, you are correct - anything with the Traveller name on it 
+>is either MM's property, or he has licensed it to be made.  There  can 
+>be no in-between, legally speaking.
+
+   Not exactly.  Once again, Marc Miller retains the rights to the Traveller
+name and any associated copyrighted material, *but* as stated previously, any
+*original* work still belongs to the author, not to Marc Miller/FFE.  
+
+   Of course to *publish* any work based on MM's copyrighted material
+requires at least a letter of permission, something that this mail list has. 
+
+------------------------------
+
+From: 34zbtxq@cmuvm.csv.cmich.edu (Susan M. Shock)
+Date: Tue, 15 Oct 1996 15:32:47 -0400
+Subject: IG's Copyright Stance
+
+Repeat after me..."IMPERIUM GAMES IS NOT TSR...IMPERIUM GAMES IS NOT TSR..."
+
+        Seriously, while IG I'm sure has no desire to make any of the fans
+angry, they have to protect their copyrights. That is an unfortunate fact of
+legal life. The disclaimer is a way to do that. While it TECHNICALLY means
+that FFE owns anything we write that uses Traveller as it's basis (which is
+fine with me, by the way), I'm sure they would not publish something without
+at least giving credit. I don't write the stuff I've posted for money. If IG
+likes my work and wants to ask me for something that they will pay me for,
+that would be great, but that's not what I write the things I write for.
+        If you really are concerned about making money from your Traveller
+related materials, don't post them! IG isn't responsible for unsolicited
+material. I thought (and I HOPE) that this forum and associated Web pages
+are for the FREE discussion of Traveller and related subjects.
+                                        Allen                               
+
+------------------------------
+
+From: shadow@krypton.rain.com (Leonard Erickson)
+Date: Tue, 15 Oct 1996 10:49:10 PST
+Subject: Re: IG FAQ, 10/14/96
+
+> Imperium Games FAQ                                        October 14, 1996
+> Q.  What is IG's copyright policy in regards to original works posted to 
+> the Traveller Mailing List, WWW sites, and/or Usenet?
+>
+> A.  Just include "Traveller is a Registered Trademark of FarFuture 
+> Enterprises.  Copyright (c) 1996" in the document, and IG will be fine 
+> with it.  Be aware that this makes your work the property of FFE, though.
+
+Not unless you put "FarFuture Enterprises" after the "Copyright 1996".
+
+The usual intent of a notice like this is twofold. By acknowledging the
+trademark, you help them protect it. The copyright notice (with *your*
+name) just establishes that it's a copyrighted work, and that folks
+need permission to re-publish it, *especially* if they are going to
+*alter* it. That helps protect Far Future's rights also, because it
+keeps people from thinking that they can lift details out for their own
+use (if it wasn't copyrighted, they could!)
+
+BTW, you either use "copyright <year>", "<copyright symbol> <year>" or
+"copyright <copyright symbol> <year>" with the copyright owner's name
+following. The third form is considered rather silly. The copyright
+symbol *must* be a complete circle around the c to be legally valid. So
+"(c)" is a waste of time.
+
+So would you please check and see whether Far Future is requiring that
+there simply be a copyright notice, or that the copyright actually be
+assigned to them.
+
+I'm willing to bet it's the former, not the latter.
+
+------------------------------
+
+From: eris@pen.net (Eris Reddoch)
+Date: Tue, 15 Oct 96 16:30:12 -0500
+Subject: Re: IG Trademark Policy
+
+On 10/15/96 at 08:15 AM,  Joe Walsh <ransom@connect.iconnect.net> said:
+>Okay.  Let's not argue about it.  I'm just relaying what Ken Whitman said 
+>to me.  I asked him what the official policy was regarding new rules, 
+>equipment, deck plans, etc. for Traveller which were posted to UseNET, 
+>TML, and/or a web site.  And he told me exactly what is in the FAQ.
+
+I agree arguing won't do any good.  However, this is an important point
+that should be cleared up.  A great deal of bad blood was brewed over the
+actual and precieved polcies of TSR in this area.  I fully understand FFE
+and IG's need to protect their rights, but there is a fine line to walk
+here between protecting their rights and freezing out fan participation.
+                                                       
+YOU shouldn't try to state IG or FFE's policy in this area, because you
+aren't offical.  Ken and Marc *need* to do it!
+
+I *hope* their position will be somewhat more liberal and fan
+friendly than certain other companies.  Either way, this is an issue that
+won't go away, and will get ugly if it isn't dealt with.
+
+------------------------------
+
+From: shadow@krypton.rain.com (Leonard Erickson)
+Date: Tue, 15 Oct 1996 17:52:10 PST
+Subject: Re: IG FAQ, 10/14/96
+
+> On Mon, 14 Oct 1996, The Golem wrote:
+>> Which means they can use any material I place on my web site WITHOUT paying
+>> me?  I hope not.  Seriously though, am I right in my interpretation of this
+>> writing.  Say I put a starship up on my page (using T4 rules), and have the
+>> proper copyright information on it.  This means that IG can come along and
+>> use it for whatever they want, because they own it?
+>
+> Not necessarily.  *FFE* could come along and use it.  You see, you are 
+> building on AND REFERENCING a property of FarFuture Enterprises.  Without 
+> FFE, you wouldn't HAVE a product/article/whatever.  
+>
+> To get around this, you have to get a Letter of Permission from FFE, or 
+> pay for a License.  
+>
+> Why?  Without enforcing those rules, FFE could LOSE it's Trademark and 
+> Copyrights!  That's the way the law works.
+
+Sorry, they can lose their trademarks. They *cannot* lose their
+copyrights. The laws involved *quite* different.
+
+> Xerox has to VIROROUSLY pursue those who say their photocopiers
+> "xerox."  Similar for Kimberly-Klark and their trademark "Kleenex."  In 
+> private conversaton is one thing, but once it is public - ie, Puffs (TM) 
+> calling their products "Kleenex" - there is a legal problem, whether the 
+> TM owner wants to face it or not.
+
+Aspirin was a trademark and is the classic example of losing one thru
+failure to protect. And I thought that Kleenex had lost trademark
+status long ago?
+
+> Let's say FFE let people use the Traveller trademark, and produce 
+> products (even not for sale) for free, and continue owning those 
+> products.  Then let's say I come along and produce a product, say it is 
+> for Traveller, and start selling it without paying FFE a license fee.  If 
+> Marc hauled me into court over it, I could point to all the people he let 
+> slide, and say that Traveller was no longer a Trademark, but rather it 
+> was in the public domain - a generic name - because he let others use it 
+> without paying a license fee.  I would almost certainly WIN, and be 
+> allowed to sell my "Traveller" products without paying Marc.
+
+As long as the people *referring to* the Traveller trademark include
+mention that it *is* a trademark, the trademark status is not in
+danger. It's allowing people to use your trademark as if it was a
+generic term that can lose you the trademark.
+
+And as far as copyright goes, you are free to let some people use your
+copyrighted material for free and insist that others pay for it. That's
+your option and has no effect on your copyright.
+
+What you do have to worry about is people releasing *Public domain*
+material that incoroprates your copyrighted work. That's why (for
+example) Borland requires you to either put *your* copyright on
+software produced with their compilers or include a notice indicating
+that your program contains code copyrighted by them.
+
+> In short, it doesn't mean IG and FFE/Marc Miller are jerks - they HAVE to 
+> treat it that way if they want to retain their legal rights.
+
+I suspect that the statement Joe made needs a bit of fine tuning. There
+are things that FFE needs to do. But they cannot require us to assign
+them rights in *our* creations. They can no more market something I
+write that is based on the Traveller rules *without* my permission than
+I can market it without *their* permission.
+
+> PS: I personally doubt it that FFE/IG would publish someone's work 
+> without at least asking permission. (My personal opinion, mind you.)  But, 
+> legally, yes, you are correct - anything with the Traveller name on it 
+> is either MM's property, or he has licensed it to be made.  There  can 
+> be no in-between, legally speaking.
+
+Sorry, there *is* a middle ground. They cannot stop me from writing
+anything I please. They can stop me from publishing it, but even then,
+if I have the money, I can take them to court claiming that my work is
+not sufficiently derivative for them to claim that I'm infringing on
+their copyright. The court decides.
+
+And if they try to publish it without my permission, they *will* lose.
+Because *I*, and *I* alone have copyright on the portions of the work
+that are *not* taken from the rules & background. So unless they
+acquire those rights from me, they are in trouble.
+
+So the possibilities are:
+
+1. exclusively their work
+2. part theirs, part mine
+3. exclusively mine
+
+In case 2, I can license them to use my material, they can license me
+to use theirs, or we can do some sort of joint venture. But for
+*anyone* to publish the material *all* of the people with rights to it
+have to be dealt with.
+
+And if FFE or anybody else says I *must* assign my rights to them to
+write anything usable with their game, *I* sure as hell won't write for
+them. And it'll be because they'd be going *far* beyond what is
+necessary to protect their rights.
+
+------------------------------
+
+From: Joe Walsh <ransom@connect.iconnect.net>
+Date: Tue, 15 Oct 1996 09:56:01 -0500 (CDT)
+Subject: More on the Copyright Issue.
+
+I sent a letter to Marc Miller asking the following question:
+
+[snip]
+Are you, however, giving a blanket Letter of Permission to publish original 
+Traveller works on the Internet, so long as the TM notice is included?  
+That is, if a person publishes a derivative work on the Internet, 
+receives no money for doing so, and has the TM notice in the document, is 
+that document legally theirs?
+[snip]
+
+I'll let you know what his response is, as soon as I get it.
+
+------------------------------
+
+From: Joe Walsh <ransom@connect.iconnect.net>
+Date: Tue, 15 Oct 1996 22:08:56 -0500 (CDT)
+Subject: IG Copyright Issue
+
+Hi folks,
+
+What say we put the speculation on the back burner until Marc responds to 
+my question?  
+
+To re-iterate:  I reported exactly what Ken Whitman told me, including a 
+fragment of the actual coversation, from my notes.  Subsequent 
+speculation, by me as well as others, is just that: speculation.  Until 
+we hear from Marc Miller, we don't really know what the policy is.
+
+-Joe (who figures he won't need to turn on the furnace this winter, what 
+with all the heat coming his way for free[G])
+

@@ -1,0 +1,30 @@
+@SUB-SECTOR: stars_E   SECTOR: corridor
+#
+# Trade routes within the subsector
+#
+#--------1---------2---------3
+#PlanetName   Loc. Stars(s)
+#----------   ---- ---------
+Shinku        0111 F9 V
+Kiran         0112 M0 V K5 V
+Aga Sugek     0113 M4 V K7 V
+Khikhuushir   0115 M0 V
+Ka Eto        0119 M3 V
+Erlu          0213 M6 V
+Lobok         0218 G1 V
+Jubal         0311 G8 IV M8 D
+Muugagen      0312 M6 V
+Yubitty       0313 K9 V
+Daban         0411 K2 V
+Ian           0416 M2 V
+Irasumshu     0417 M0 V
+Linix' Cha    0511 M2 V
+Beta Regilis  0512 M1 V
+Kumorle       0513 K7 V
+Raiga         0516 M8 V
+Ikhur         0611 M0 V
+Dywosik       0614 G5 V M8 V
+Vom           0617 F9 V
+Teras         0714 M3 V M0 D
+Lysio         0815 M0 V
+Antiquity     0816 F6 V

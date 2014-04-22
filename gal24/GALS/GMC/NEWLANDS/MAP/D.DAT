@@ -1,0 +1,24 @@
+@SUB-SECTOR: Mehrtz SECTOR: Newlands
+#
+# Jump-routes
+
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Florence      2502 C431415-8    Ni Po              121 Ka
+Dayton        2503 D584656-2    Ag Ni Ri           912 Id
+Likud         2508 D310658-6  S Na Ni              402 Ma
+Saladin       2606 A764757-9  I Ag Ri              911 Ma     f
+Natase        2607 X886000-0    Ba Lo Ni           004 Ma
+Jakob         2702 E98796B-3  I Hi              R  224 Ka     m
+Orcho         2704 E54077C-1    De Po              803 Id      
+Ciarbea       2705 EA8A87A-5    Ri Wa              404 Id      
+Karadzic      2803 A765735-9  I Ag Cp              411 Ka     f
+Solstice      2805 D440575-5    De Ni Po           910 Id      
+Tscharner     2809 E868777-0    Ag Ri              235 Id
+Hakam         3007 E694403-4    Ni                 623 Id
+Integra       3102 EA9A300-4    Lo Ni Wa           120 Id
+Angles        3103 X340600-0    De Ni Po           700 Id
+Al-Shana      3205 D591876-2                       202 Id
+Porrilla      3207 C000652-A    As Na Ni        A  200 Id     m

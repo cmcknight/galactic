@@ -1,0 +1,29 @@
+@SUB-SECTOR: Vald               SECTOR: alphaleo
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Dalmina       1721 X110000-0    Ba                 000 Un
+Darlok        1722 X332000-0    Ba                 004 Un
+Seliman       1724 X5465RA-4    Ag Ni              400 Wi
+Psion         1727 X4455RC-5    C4 Ag Ni           410 Wi
+Delta Doradus 1728 X300000-0    Ba Va              003 Un
+Drek          1921 X5435RE-0    Ni Po           B  324 Wi
+Zilon         1924 X8B6000-0    Ba Fl              013 Un
+Porens        2021 X565400-6    Lo Ni              203 Wi
+Dalos         2027 X8A5000-0    Ba Fl              025 Un
+Shen          2029 X7A2000-0    Ba Fl              023 Un
+Zanig         2121 X527000-0    Ba                 012 Un
+Flora         2122 X100000-0    Ba Va              011 Un
+Teta Lise     2127 X6588RB-3                    B  603 Wi
+Pesacce       2129 X5780P6-7                       214 Un
+Vald          2226 X9D6000-0    Ba Fl              024 Un
+Rilo          2228 X4914RC-2    Lo Ni              104 Wi
+Verin         2229 X79A3N5-4    Lo Ni Wa        B  223 Wi
+Totu          2230 X7774P7-6    Lo Ni           B  203 Wi
+Haven         2324 X000000-0    As Ba              002 Un
+Lonug         2325 E5534TA-6    Lo Ni Po           414 Wi
+Olina         2328 X7A2000-0    Ba Fl              024 Un
+EAM 321       2423 X200000-0    Ba Va              013 Un
+Delin         2425 X7786WB-0    Ag Ni           B  200 Wi
+Ben's Oath    2426 X7457P4-6    Ag                 203 Wi

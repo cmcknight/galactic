@@ -1,0 +1,383 @@
+   
+Talpaku Vehicles
+    By Grant Sinclair
+    Date: 1st January 1997
+   
+     _________________________________________________________________
+   
+   This description of Talpaku craft was written by Whakipl Measured
+   Pace, a sales executive for the largest Talpaku vehicle company,
+   Kiplkhewhawhe.
+   
+Contents
+
+    1. Introduction
+    2. Starships
+          + Katwha Type A Free Trader
+          + Kzodazdak Type A2 Free Trader
+          + Zdayok Type A2 Free Trader
+          + Hwhibuhwha Type J Interplanetary Seeker
+          + Tetukov Type PW Mining Habitat
+    3. Vehicles
+          + Kuzda Air/Raft
+    4. Robots
+          + Yatikiki Biological Sampler Robot
+            
+Introduction
+
+   Our long technological history has been intermittent, driven by
+   different factors at different times. It also reflects the long period
+   of isolation that has ended only in the last 900 years. The result are
+   technologies that are sophisticated, but often not very compatible
+   with equivalents developed by other cultures. This means that many of
+   our items can only be repaired on their own worlds. The main
+   exceptions are the jump drive and certain other starship related
+   technologies, since these were obtained from the Zhodani and follow
+   Zhodani design principles.
+   
+   About 80% of our existing military and civilian starships, vehicles
+   and robots range from TL 11-12. The remaining 20% of civilian designs
+   are pre TL 11, though TL 13 designs have reached the mass production
+   stage in the last few years. The remaining 20% of military designs are
+   split 15% pre TL 11 and 5% TL 13 designs. In all cases, power plants
+   can be one TL higher than the rest of the design, thanks to our
+   proficiency in this area.
+   
+Starships
+
+   Civilian starships range from 100 tons to about 25000 tons. A handful
+   of larger ships exists in private hands, but the occasional needs for
+   huge vessels are satisfied only by leasing military transports.
+   
+   Military starships range from 100 tons to 100,000 tons. We prefer to
+   have greater numbers of smaller craft than small numbers of huge
+   craft. We use planetoids of all sizes for system defense; many are
+   just hollowed out planetoids armed with missile launchers and without
+   even a manoeuvre drive.
+   
+   A few military non-starships (buffered planetoid designs) exist that
+   are larger than 100,000 tons.
+   
+   Both military and civilian designs are long and angular, following the
+   original Zhodani influence. Interior design is also similar to Zhodani
+   design, except for living quarters; these are open space, with
+   communal sleeping quarters. There are some small cubicles for study
+   and meditation. The total space used for accommodation is the same as
+   human designs.
+   
+   Outside the Communality, weapons are powered down only for the first 5
+   days in jump space or when in starports felt to be particularly safe.
+   Within the Communality, weapons are powered down permanently. We do
+   not venture outside the Communality with weapons powered down, as we
+   fear that even the short time to warm start could be our undoing. We
+   have no particular preference for battle power plants, but it is
+   sometimes necessary when more power is needed and there is
+   insufficient space in the power plant room to install a larger power
+   plant.
+   
+  Katwha Type A Free Trader
+  
+   Craft ID:Talpaku Katwha Free Trader, Type A, TL 12, MCr 36.781
+   (including 20% discount) Hull:180/450, Disp=200, Config=1SL,
+   Armour=40F, Unloaded=1546 tons, Loaded=2719 tons Power:4/8,
+   Fusion=495Mw (TL 13), Duration=30/90 Loco:4/8, Maneuver-1, 4/8,
+   Jump-1, NOE=160 kph, Cruise=750 kph, Top=1000 kph, Agility=0
+   Commo:Radio=System Sensors:EMS Passive=Interstellar, EMS Active=Far
+   Orbit, ActObjScan=Rout, ActObjPin=Rout, PasEngScan=Rout
+   Off/Def:Hardpoints=2, DefDM=+2 Control:Computer=1x3, Panel=Dyn Link x
+   331, Special=HeadsUpx3, Environ=Basic Env, Basic LS, Extended LS, Grav
+   Plates, Inertial Comp Accom:Crew=4 (Bridge=2, Engineer=1, Steward=1),
+   "Staterooms"=10, LowBerths=6, HighPsg=4, MidPsg=2, LowPsg=6
+   Other:Cargo=1140 kl, Fuel=468 kl, PurificationPlant (14 hours),
+   ObjSize=Average, EmLevel=Faint
+   
+   The Katwha class Free Trader is designed to carry cargo and passengers
+   from one end of the Communality to the other. Most owners do not
+   bother with weapons (since piracy is rare and resistance of military
+   vessels is futile), though some add sandcaster or missile turrets.
+   Some spare space has been allocated to the bridge to allow for control
+   panel units for any weapons which may later be added. Double occupancy
+   of crew is not required unless gunners are present.
+   
+   Energy weapons are harder to install, for there is far less spare
+   power for even a single laser turret. It is not possible to enlarge
+   the existing power plant, so it is necessary to convert the low berth
+   room or some cargo space into an auxiliary power plant room.
+   
+   There is a cargo-only variant of the Katwha which has only three
+   staterooms, no low berths, no steward, cargo 1599 kl, loaded weight
+   3178 tons and discounted cost MCr 34.301.
+   
+   All Katwha class vessels have names starting with a "K".
+   
+  Kzodazdak Type A2 Free Trader
+   
+   The Kzodazdak class Far Trader is mainly used to carry cargo and
+   passengers within the Communality, though it is also used to trade
+   with the Zhodani Consulate and the Meichntid Ibl. It differs from the
+   Katwha in that it has jump-2, 368 dynamically linked panels, 8
+   staterooms, Purification Plant (22 hours), 950 kl cargo, loaded weight
+   1914.265 tons, discounted cost MCr 40.99.
+   
+   The cargo-only variant of the Kzodazdak has three staterooms, no low
+   berths, no steward, cargo 1302 kl, loaded weight 2263.265 tons and
+   discounted cost MCr 39.153.
+   
+   All Kzodazdak class vessels have names starting with a "Kz".
+   
+  Zdayok Type A2 Free Trader
+  
+   Craft ID:Talpaku Zdayok Trader, Type A2, TL 12, MCr 89.2 (including
+   20% discount) Hull:360/900, Disp=400, Config=1SL, Armour=40F,
+   Unloaded=3022 tons, Loaded=6177 tons Power:11/22, Fusion=1485 Mw (TL
+   13), Duration=30/90 Loco:8/16, Maneuver-1, 11/22, Jump-2, NOE=160 kph,
+   Cruise=750 kph, Top=1000 kph, Agility=0 Commo:Radio=System Sensors:EMS
+   Passive=Interstellar, EMS Active=Far Orbit, ActObjScan=Rout,
+   ActObjPin=Rout, PasEngScan=Rout Off/Def:Hardpoints=4, BeamLaser= x02
+   (Batt 001, Bear 001), Missiles= x02 (Batt 001, Bear 001) Def:DefDM=+3
+   Control:Computer=1x3, Panel=Dyn Link x 691, Special=HeadsUpx3,
+   Environ=Basic Env, Basic LS, Extended LS, Grav Plates, Inertial Comp
+   Accom:Crew=5 (Bridge=2, Engineer=1, Gunners=2), "Staterooms"=4,
+   LowBerths=6 Other:Cargo=3117 kl, Fuel=936 kl, PurificationPlant (22.5
+   hours), HE Missile magazine=12, ObjSize=Average, EmLevel=Faint
+   
+   The Zdayok class Trader is mainly used for trade outside the
+   Communality. It is sometimes found in the hands of a single-ship small
+   company, but is usually owned and operated by a takh or small company
+   which owns several ships.
+   
+   There are two spare hardpoints, so extra weapons can be installed if
+   desired. To do this, the low berth room or some cargo space must be
+   converted into an auxiliary power plant room. Spare space has been
+   allocated to the bridge to allow for the associated extra control
+   panel units. The extra two gunners can be accommodated by everyone
+   being in double occupancy.
+   
+   All Zdayok class vessels have names starting with "Zd".
+   
+  Hwhibuhwha Type J Interplanetary Seeker
+   
+   Craft ID:Talpaku Hwhibuhwha Seeker, Type J, TL 12, MCr 15 (including
+   20% discount) Hull:63/158, Disp=70, Config=2SL, Armour=40F,
+   Unloaded=580 tons, Loaded=1156 tons Power:3/6, Fusion=414 Mw (TL 13),
+   Duration=60/180 Loco:1/2, Maneuver-1, NOE=n/a, Cruise=750 kph,
+   Top=1000 kph, Vacuum=1200, Agility=0/2* Commo:Radio=Far Orbit
+   Sensors:EMS Passive=Interplanetary, EMS Active=Far Orbit, Densitometer
+   High Pen/50m, 2 heavy robotic arms, ActObjScan=Rout, ActObjPin=Rout,
+   PasObjScan=Diff, PasObjPin=Diff, PasEngScan=Rout Off/Def:Hardpoints=1,
+   PulseLaser=x01 (Batt 001, Bear 001) Def:DefDM=+2/+3*
+   Control:Computer=0/bisx3, Panel=Dyn Link x70,
+   Special=LargeHoloDisplay, Environ=Basic Env, Basic LS, Extended LS,
+   Grav Plates, Inertial Comp, Air Lock Accom:Crew=1 (Bridge=1),
+   "Staterooms"=1 Other:Cargo=564.7 kl, Fuel=163.2 kl, ObjSize=Average,
+   EmLevel=Faint
+   
+   The Hwhibuhwha class Interplanetary Seeker is often found in systems
+   with rich belts that can sustain a permanent belter population (and so
+   vessels do not need a jump drive). The pulse laser is used only for
+   carving up planetoids, so the power plant is powered down most of the
+   time (the duration stated provides for 240 hours use of the laser).
+   Stats marked with a * are affected by power plant status (e.g. agility
+   0 when powered up, 2 when powered down). Obviously, the laser can be
+   used for combat purposes when necessary.
+   
+   Although the craft can be operated by a single person, a crew of 2 is
+   more usual. This prevents loneliness and makes it more feasible that
+   the necessary skills are well represented. Occasionally, these craft
+   are found with a crew of 4, with each person specialising in some
+   required skill and allowing 24 hour operation of the prospecting
+   mission.
+   
+   When used with a Tetukuv mining habitat, these craft have scoops
+   added.
+   
+  Tetukov Type PW Mining Habitat
+   
+   Craft ID:Talpaku Tetukov Seeker, Type PW, TL 12, MCr 76.865 (including
+   20% discount) Hull:540/1350, Disp=600, Config=8USL, Armour=45,
+   Unloaded=3942 tons, Loaded=5691 tons Power:8/16, Fusion=1080 Mw (TL
+   13), Duration=30 Loco:11/22, Maneuver-1, NOE=n/a, Cruise=750 kph,
+   Top=1000 kph, Vacuum=1200, Agility=0 Commo:Radio=Far Orbitx2
+   Sensors:EMS Passive=Interplanetary, EMS Active=Far Orbit, 4 heavy
+   robotic arms, ActObjScan=Rout, ActObjPin=Rout, PasEngScan=Rout
+   Off/Def:Hardpoints=6 Def:DefDM=+1 Control:Computer=0/bisx3, Panel=Dyn
+   Link x714, Special=LargeHoloDisplayx2, Environ=Basic Env, Basic LS,
+   Extended LS, Grav Plates, Inertial Comp, Air Lockx4 Accom:Crew=4
+   (Bridge=2, Engineering=1, Medic=1), "Staterooms"=45, "MidPsg"=56,
+   EmergLowBerth, SubCraft=Interplanetary Seekersx2 Other:Cargo=1719 kl,
+   Fuel=432 kl, Purification Plant (51.8 hours), ObjSize=Average,
+   EmLevel=Moderate/Faint (powered up/down)
+   
+   The Tetukov class mining habitat is mostly used by communes which wish
+   to live in a planetoid belt, living a belter lifestyle. It is also
+   used by larger companies.
+   
+   The duration assumes that the manoeuvre drive is used for only 5 days
+   (i.e. to travel to and from the planetoid belt and otherwise used only
+   for occasional orbital adjustments). The duration can be extended
+   indefinitely if one of the carried subcraft (c.f. Hwhibuhwha class
+   Interplanetary Seeker) is fitted with scoops and is sent on occasional
+   missions to a gas giant to gather fuel (purification is done upon
+   return).
+   
+   The craft needs only 4 crew but allows for a permanent population of
+   60 Talpaku. The 45 "Staterooms" represent space for immediate living
+   quarters and also areas needed for residents of all ages (e.g. general
+   entertainment, education, fitness and medical facilities). One of the
+   spare computers is used for entertainment and education unless needed
+   by an emergency.
+   
+   The robotic arms are used in the cargo bay. The emergency low berth is
+   for medical use. No provision for environment controls are made in the
+   cargo, fuel and subcraft areas (not even grav plates). The air locks
+   are used for access to the cargo bay (1), the subcraft (2) and the
+   outside (1).
+   
+   There is a variant of this craft without a manoeuvre drive. These are
+   bases, rather than craft, and must be moved by a tug or similar
+   vessel.
+   
+   The Talpaku Communality stations military bases in belts which
+   superficially resemble these habitats. The military bases are armed
+   with missiles, energy weapons and/or fighters and are used for
+   surprise attacks during invasions by such external threats as the
+   Zhodani. Power plants are powered down to resemble the profile of a
+   real Tetukov mining habitat and only a Passive Object Pinpoint from a
+   densitometer will reveal the true nature of the craft. The minimum
+   size of a prospecting claim is far greater than the maximum range of a
+   densitometer, so the stations are normally safe from such detection.
+   If a civilian craft does close to TL 15 densitometer range of a
+   station, some crews will fire to protect their secret, even though
+   this is technically against orders. It should be noted that an
+   advantage of contact with the Imperium was that the Talpaku now know
+   the ranges of many Zhodani sensors.
+   
+   It is sometimes said that trigger-happy prospectors who attack those
+   who intrude on their claim space are not prosecuted as strongly as
+   they should. This allows the military to cover up the occasional
+   shooting by claiming that the victim was actually attacked by a
+   trigger-happy civilian and it was not them at all.
+   
+Vehicles
+
+   Vehicles are prolific in our decentralised society. All vehicles
+   include computers, providing such features as navigational assistance,
+   proximity alerts and cruise control at a minimum. All airborne
+   vehicles can be controlled remotely, by the owner or by a traffic
+   control computer.
+   
+   In the larger settlements of some worlds (e.g. Talpakuhome), traffic
+   density makes central traffic control the only safe option. Most of us
+   prefer traffic control computers anyway, since this allows us to
+   concentrate on conversations with other passengers, listening to
+   music, doing hobbies or work, or putting our makeup on.
+   
+   Vehicle design is similar to that of humans, but there are some
+   differences:
+     * Accommodation need be doubled only if journeys of more than 9
+       hours are expected.
+     * Extended accommodations need only be provided if journeys of more
+       than 9 hours are expected.
+     * Civilian vehicles usually have "adequate" or "roomy" interiors,
+       since this better allows the occupants to amuse themselves on
+       journeys.
+     * Basic life support is common in vehicle designs intended for the
+       whole Communality, since only two of our worlds have breathable
+       atmospheres. This allows us to remove compressors and filters for
+       journeys.
+     * Robot brains are often found in "deluxe" versions of longer-range
+       vehicles, though these are only about skill level 1 or 2 and
+       cannot handle extreme terrain or weather conditions.
+       
+  Kuzda Air/Raft
+  
+   Craft ID:Talpaku Kuzda Air/Raft, TL 12, Cr 713,085 Hull:2/5, Disp=2,
+   Config=1SL, Armour=4F, Unloaded=6.3 tons, Loaded=6.8 tons Power:1/2,
+   Fusion=2Mw (TL 13), Duration=15/45 Loco:1/2, Low Power H-Grav,
+   Thrust=12 tons, NOE=160 kph, Cruise=675 kph, Top=900 kph,
+   MaxAccel=0.75G Commo:Radio=Continental(5000km) Sensors:All Weather
+   Radar=VDist (50 km), Synthetic Vision, ActObjScan=Diff, ActObjPin=Diff
+   Off/Def:None Control:Computer=0x2, Dyn Link Accom:Crew=1 (operator),
+   Seats=Roomyx5, Adequatex1, Env=Basic Env, Ext ls, inertial comp
+   Other:Fuel=1.8 kl, Cargo=.442 kl, ObjSize=Small, EmLevel=Faint,
+   LtRobotArmx2
+   
+   The Kuzda air/raft is a typical vehicle owned by those who live in
+   outlying communities but must commute to larger settlements on a
+   regular basis. Although the design assumes routine journeys will not
+   exceed 9 hours, the speed of the vehicle makes most destinations
+   accessible in this time. Due to the cost, this vehicle is sometimes
+   purchased by a commune rather than an individual.
+   
+   Extended life support is provided for convenience and also to allow
+   the owner the option of using the vehicle for journeys of more than 9
+   hours (this has no effect on performance except to reduce the maximum
+   number of passengers).
+   
+   The first robot arm is in the cargo compartment and loads baggage. The
+   second is in the cabin and performs basic steward functions.
+   
+   In deluxe models, such as those produced by my own company
+   Kiplkhewhawhe, a robot brain replaces the primary computer: CPU=11
+   linear, 10 parallel, 1 synaptic, Storage=30 standard, FundLogic=Low
+   Autonomous, FundCmd=Full Command, Software=Grav Vehicle-1, Steward-1.
+   Extra cost Cr 108,700.
+   
+Robots
+
+   Robots have normally been used to replace manual labour rather than
+   tasks involving intelligence; this tendency has increased, thanks to
+   Virus. For efficiency, manual worker robots are found in groups, where
+   one is a master robot and the rest are brainless slave robots. The
+   master robot itself can be controlled remotely by radio.
+   
+   When a robot has need for "cargo space" (to carry tools, ore samples
+   or the like), we instinctively place it in the lower torso, rather
+   like a pouch.
+   
+   Robots are open-frame unless the environment in which they work makes
+   enclosure necessary (as is the case with the sampler robot below).
+   Unlike human society, open frame robots are quite acceptable (and
+   cheaper, too!). Their owners sometimes like the incongruity of an open
+   frame robot adorned with a feathered cap or scarf.
+   
+   We have no need to anthropomorphise our robots and would not bother
+   with pseudo-biological types, even if we could build them.
+   
+  Yatikiki Biological Sampler Robot
+  
+   RobotID:Talpaku Yatikiki Biological Sampler Robot, TL 12, Cr 246,925,
+   UPP LAx54x (Strength L=20) Hull:14/35, Size=350 litres, Config=2,
+   Armour=2A, Weight=300 kg Power:5/10,FuelCell=75 kw (TL 13),
+   Duration=180 hours Loco:1/2, 2 legs, Speed=3
+   Commo:Radio=Regional(500km) Sensors:Visualx2 (with light intensifier
+   and passive IR), Touchx2 (extra sensitivity), Olfactory (extra
+   sensitivity), Audiox2 (extra sensitivity), Taste, Video Recorder 2D,
+   Spotlight Off:Snub Pistol (with tranq) Def:None Brain:CPU=19 linear,
+   10 parallel, 2 synaptic, Storage=36 standard, FundLogic=Low
+   Autonomous, FundCmd=Basic Command, Software=Biology-3, Close Combat-1,
+   Hunting-2, Snub Pistol-1, Recon-2 Append:Light Armx2 Other:Fuel=54
+   litres, Cargo=29 litres, ObjSize=Tiny, EmLevel=Faint
+   
+   A more interesting type of Talpaku robot is the Yatikiki Biological
+   Sampler Robot. Our complex nutritional needs can make colonies very
+   reliant on foodstuffs imported from offworld, so it is important to
+   make the most use of the biospheres of all our worlds. This robot is
+   designed to go about the wilderness, looking for plants and small
+   animals. The robot can be instructed to search for any new organism,
+   or given particular criteria to use in searching.
+   
+   Biological surveys normally make robots responsible for different
+   areas within the survey region. Each robot is dropped into the centre
+   of its area, together with a refrigeration unit and hydrogen gas tank.
+   From its base, each robot makes numerous field trips, progressively
+   covering the surrounding area. The inbuilt radio is used when the
+   mission is complete or when some pre-designated situation occurs.
+   
+   The video recorder can be replaced by a video camera, which transmits
+   video images back to the mission supervisor. Another version has a
+   half normal size fuel tank, allowing extra storage space.
+   
+   There are apocryphal stories of sampler robots capturing Zhodani
+   spies, mistaking them for wildlife.
+   

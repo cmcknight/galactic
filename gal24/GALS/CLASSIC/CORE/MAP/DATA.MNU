@@ -1,0 +1,28 @@
+@dir=gals\classic\core\map
+@Light Yellow
+
+Core Sector / Data Files
+
+@Light Cyan
+      Sector Data                  @..\core.dat
+      Credits                      @..\credits.txt
+
+@Light Green
+      Subsector Data
+@Light Cyan
+       A: Apge                     @sec_a.dat
+       B: Perite                   @sec_b.dat
+       C: Ameros                   @sec_c.dat
+       D: Shinkan                  @sec_d.dat
+       E: Sanches                  @sec_e.dat
+       F: Mekee                    @sec_f.dat
+       G: Core                     @sec_g.dat
+       H: Kaskii                   @sec_h.dat
+       I: Bunkeria                 @sec_i.dat
+       J: Cemplas                  @sec_j.dat
+       K: Chant                    @sec_k.dat
+       L: Dingtra                  @sec_l.dat
+       M: Cadion                   @sec_m.dat
+       N: Ch'naar                  @sec_n.dat
+       O: Dunea                    @sec_o.dat
+       P: Saregon                  @sec_p.dat

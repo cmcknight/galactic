@@ -1,0 +1,44 @@
+@SUB-SECTOR: Mora SECTOR: Spinward Marches 
+#
+# Trade routes within the subsector
+$3030 3032 0 1
+$3030 3029 0 0
+$3029 2927 0 0
+$2927 2828 0 0
+$2927 3025 0 0
+$3025 3124 0 0
+$3025 2726 0 0
+$3124 3324 1 0
+$2726 2324 -1 0
+$2621 2323 -1 0
+$2621 2520 0 -1
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Heroni        2521 B6449B9-8    Hi In              721 Im
+Byret         2523 B485697-6    Ag Ni Ri           812 Im
+Pimane        2527 E500343-4    Lo Ni Va           803 Im
+Fosey         2621 A633656-A    Na Ni Po           620 Im
+Mercury       2624 B658663-8  A Ag Ni              304 Im
+Tivid         2627 C534477-8    Ni                 401 Im
+Carey         2726 C579221-9    Lo Ni              910 Im
+Duale         2728 A5437BF-B    Po                 401 Im
+Catz          2824 C22048C-9    Ni Po De           510 Im
+Meleto        2827 C675100-5  S Lo Ni              724 Im
+Hexos         2828 B534420-8  N C3 Ni              123 Im
+Pedase        2830 C415346-7  S Lo Ni Ic           101 Im
+Moran         2924 C367300-8  N Lo Ni           A  201 Im
+Maitz         2927 A201511-B    Ni Va Ic           122 Im
+Mainz         2930 C553352-A  S Lo Ni Po           803 Im
+Brodie        3021 C410468-7    Ni                 114 Im
+Rorise        3022 C994100-A    Lo Ni              502 Im
+Jokotre       3024 B6548D9-7                       810 Im
+Fornice       3025 A354A87-C    Hi                 202 Im
+Grille        3026 E410335-7    Lo Ni              701 Im
+Pallique      3029 A511965-E    Hi Na In Ic     A  320 Im
+Nexine        3030 C97A443-8  S Ni Wa              801 Im
+Nadrin        3123 D120203-6  S Lo Ni Po De        920 Im
+Mora          3124 AA99AC7-F  A Hi In Cx           112 Im
+Dojodo        3223 C512311-7  S C0 Lo Ni Ic        710 Im
+Fenl's Gren   3228 C647346-9    Lo Ni           A  423 Im

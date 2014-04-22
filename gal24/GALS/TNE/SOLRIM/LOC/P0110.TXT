@@ -1,0 +1,29 @@
+Iddamakur B779976-9
+Starport: Good                  Size: Medium (10400-12000 km)
+Atmosphere: Standard, tainted   Hydrographics: 90% water
+Population: 1 billion           Govt: Balkanization
+Law Level: Moderate             Technology: Early Stellar
+                
+	Iddamakur has had an interesting history. During the rule of the 
+Solomani (prior to the First Solomani Rim War), Iddamakur was used as a 
+planetary prison for all the "undesirable elements" of the region. Different
+populations of dissidents were distributed among the planet's twelve small 
+continents and numerous archipelagos; use of technology above TL 4 was 
+prohibited, as was sea travel between groups. After the First Solomani Rim 
+War, the Imperial government made an effort to assist the economic 
+development of the world by constructing a class 'A' starport, which linked 
+the relatively more prosperous worlds of Basil and Darrukesh with the rest 
+of the sector. The strategy worked, and by 1117, Iddamakur had a tech level
+of 8, and was becoming a leading producer of inexpensive, basic consumer 
+goods. The Second Solomani Rim War caused a change in production priorities
+to items to support the local Imperial war effort. Control of the system
+changed hands several times during the war, and the system was in Solomani 
+hands at the time of the Collapse. Though not heavily damaged by Virus,
+with the markets for its products gone practically overnight, the world 
+suffered a severe economic depression which led to political anarchy. 
+Today, Iddamakur is balkanized, though the various factions cooperate on 
+trade and defense issues. The last three years have seen a dramatic up turn
+in Iddamakur’s economic fortunes, as new products and new markets for these 
+products (Darrukesh, and other independent "survivor" worlds in adjoining
+sectors) have opened up.
+

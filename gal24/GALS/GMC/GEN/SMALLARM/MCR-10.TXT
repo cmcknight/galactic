@@ -1,0 +1,40 @@
+Mwoah MCR-10 Combat Rifle
+
+The MCR-10 is the Magellanic designation for the standard combat rifle of the
+Mwoah Unity. It was first encountered during the Second Mwoah War and has
+proven to be a very effective weapon. The Mwoah designation for the weapon is
+the "Akalisr Zhor santi nor ri" abbreviated to "AZ 739". The MCR-10 is an
+exceptionally accurate rifle and it's small calibre round gives it impressive
+penetration. It's primary drawbacks are it's length and heavy recoil. The
+close similarities between Human and Mwoah hands means that the MCR-10 can be
+used by Humans without penalty. The MCR-10 is also produced by the Aragi
+Dominion as the Rf-359a. The Rf-359a is slightly redesigned to make it more
+suitable for human use, but the changes are minor.
+
+The MCR-10 is a bullpup combat rifle, firing a cased 4.5mm ball round from a
+detachable 60 round magazine. The MCR-10 is capable of firing in either
+semiautomatic, 3 round burst, or full cyclic (600 rpm) modes. On full cyclic
+setting the MCR-10 can make one +1DM attack per 60 rounds. The MCR-10 is
+fully gyrostabilised and is fitted with a recoil absorbing stock and a Muzzle
+brake to compensate for it's heavy recoil. The MCR-10 can accept a number of
+advanced sighting devices, but due to the poor eyesight of the Mwoah, these
+are rarely encountered. Sighting devices are somewhat more common with the
+Aragi produced Rf-359a.
+
+Weapon: MCR-10 combat rifle
+Action: Recoil - singleshot, burst (3), cyclic (600)
+Ignition: Percussion
+Tech Level: 10
+Calibre: 4.5mm Mwoah cased
+Penetration: 5
+Range: short
+Malfunction: reliable
+Shots: 60
+Mass: 4.8kg
+Reloads: 0.5kg
+Length: 77.2cm
+Cost: Cr 1060
+Incidentals: 60 rounds ball: Cr 15 (0.45Kg)
+             empty 60 round magazine: Cr 25 (0.05Kg)
+             6 hour rechargeable battery pack: Cr 2 (0.2kg)
+             24 hour disposable battery pack: Cr 1 (0.2kg)

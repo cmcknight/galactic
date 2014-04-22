@@ -1,0 +1,35 @@
+@SUB-SECTOR: Khandi   SECTOR: dagudash.sec
+#
+# Trade routes within the subsector
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Lupigaa       1711 E350421-5    Ni Po De           404 Im
+Iesha         1712 C7AA886-C  S Fl Wa              213 Im
+Folly         1713 C300459-A    Ni Va              623 Im
+McKenzie      1717 B200223-B  S Lo Ni Va           304 Im
+Shuada        1718 B100634-F    Na Ni Va           401 Im
+Cruachan      1813 B7AA235-E    Lo Ni Fl Wa        520 Im
+Mahonri       1816 B411548-E  N Ni Ic           A  501 Im
+Shaia         1911 B000500-D    Ni As              913 Im
+Eaunna        1912 C300667-C  S Na Ni Va           221 Im
+Tiffany       1913 D458520-A  S Ag Ni              322 Im
+Rukhigu       1918 C410976-E  S Hi Na In           710 Im
+Dehkaim       1919 BA75149-8    Lo Ni              603 Im
+Iunda         1920 D8B0535-5  S Ni De              503 Im
+Dishalu       2013 A453764-B  N Po                 524 Im
+Shibishlim    2015 B466A55-D  N Hi                 801 Im
+Dauni         2020 A310554-F    Ni                 923 Im
+Tomb          2111 B000575-F  N Ni As              504 Im
+Mirnaa        2113 C443578-B    Ni Po              324 Im
+Khandi        2119 A222A87-F    Hi Na In Po        312 Im
+Urdi          2216 D2106A9-8  S Na Ni              602 Im
+Arnakhish     2317 A75A552-D    Ni Wa              104 Im
+Zaankhid      2318 A300533-F  N Ni Va              611 Im
+Karbi         2320 C8D3663-A  S Ni Fl              325 Im
+Edsham        2412 C226520-9  S Ni                 503 Im
+Gakhir        2413 A4007B9-F  N Na Va              704 Im
+Irlu          2415 C000565-C  S Ni As              624 Im
+Dua           2416 C33147A-A  S Ni Po              702 Im
+Kishgakhir    2418 B454402-F    Ni                 714 Im

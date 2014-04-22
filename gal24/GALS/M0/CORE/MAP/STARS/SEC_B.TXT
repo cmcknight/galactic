@@ -1,0 +1,35 @@
+#--------1---------2---------3
+#PlanetName   Loc. Star(s)
+#----------   ---- --------
+@SUB-SECTOR: Perite SECTOR: Core
+Dis           0903 
+Oorpic        0905 
+Muumuu        0906 
+Gish          0907 
+Gisid         0910 
+Mishaar       1002 A2 V
+Uusla         1008 
+Luumiiliiplen 1009 
+Kiimi Di      1101 
+Gipirkash     1102 
+Rae           1104 
+Uurruu E      1108 
+Uuruun Kuu    1109 
+Kargi         1202 
+Limashimii    1204 
+Miilapkhas    1205 
+Uumaad Nurir  1302 
+Ashduuma      1307 
+Akpussagna    1308 
+Uuniluu       1309 
+Gag           1403 
+Imguu         1407 
+Uurgin        1410 
+Zepdind Ir    1503 
+Kuum          1505 
+Kakaaguur     1506 
+Asmi          1508 
+Kinuu         1510 
+Giiar E       1605 
+Sirma         1609 K4 V M3 D
+Nagan         1610 

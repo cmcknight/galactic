@@ -1,0 +1,55 @@
+@SUB-SECTOR: Trin  SECTOR: Spinward Marches
+#
+# Trade routes within the subsector
+$2839 3139 0 0
+$2839 2940 0 0
+$2839 2739 0 0
+$2739 2637 0 0
+$2637 2537 0 0
+$2637 2936 0 0
+$2936 3235 0 0
+$3235 3032 0 0
+$2537 2536 0 0
+$2536 2336 -1 0
+$2536 2733 0 0
+$2733 2334 -1 0
+$2733 3032 0 0
+$3032 3030 0 -1
+$3235 0233 1 0
+$2739 2902 0 1
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Burtson       2534 C462667-8    Ni Ri              402 Im
+Squanine      2536 A300550-B    Ni Va              303 Im
+Dobham        2537 A450457-A  S Ni Po De           523 Im
+Pyramus       2538 E566335-2    Lo Ni              214 Im
+Thisbe        2539 E4305AD-5    Ni Po De           322 Im
+Aramis        2540 B659772-6                       924 Im
+Robin         2637 C00059C-C    Ni As              212 Im
+D'Mara        2638 E75A798-5    Wa                 910 Im
+Kelcher       2639 C525567-9    Ni                 602 Im
+Tussinian     2731 B678324-7    Lo Ni              520 Im
+Edenelt       2733 A4638BD-B                       934 Im
+Conway        2735 D894586-7  S Ag Ni              311 Im
+Doods         2739 C4439DF-7  S Hi In Po           423 Im
+Leander       2832 E695244-5    Lo Ni              801 Im
+Pepernium     2833 D567530-3    Ag Ni              503 Im
+Traltha       2834 B790630-6    Ni De              410 Im
+Farquahar     2839 C625563-7  S Ni                 201 Im
+Raydrad       2933 E99467A-6    Ag Ni              303 Im
+Zyra          2934 B555448-7    Ni                 301 Im
+Murchison     2935 B544433-6  N Ni                 305 Im
+Hammermium    2936 A5525AB-B    Ni Po              535 Im
+Thornnastor   2940 D534443-8  S C1 Ni              804 Im
+Katarulu      3032 B252665-B  B Ni Po              201 Im
+Prilissa      3035 B985588-6    Ag Ni              510 Im
+Tee-Tee-Tee   3038 C110530-9    Ni                 902 Im
+Youghal       3039 AA95365-B    Lo Ni              201 Im
+Tenelphi      3040 D76A579-9  S Ni Wa              901 Im
+Zephyr        3138 X89556A-3    Ag Ni           R  404 Im
+Chamois       3139 B544642-5  S Ag Ni              723 Im
+Ramiva        3233 B1107A7-8    Na                 913 Im
+Trin          3235 A894A96-F  A Hi In Cp           101 Im
+Hazel         3236 C645747-5    Ag              A  110 Im

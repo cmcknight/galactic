@@ -1,0 +1,35 @@
+#--------1---------2---------3
+#PlanetName   Loc. Star(s)
+#----------   ---- --------
+@SUB-SECTOR: Cadion SECTOR: Core
+Lash          0132 
+Pumuuda       0133 
+Miise         0134 
+Maish Uun     0135 
+Ziris         0138 
+Shardir Aagkuu0139 
+Aadkhien      0140 
+Giuum Gim     0231 
+Sishar        0234 
+Gasha Uusar   0236 
+Bur           0240 
+Guuriir       0331 
+Mige Ris      0332 
+Irka          0334 
+Kiimaa        0338 
+Gizar Ik      0431 
+Khiieshirk    0432 
+Uumaamuushgii 0437 
+Indand        0439 
+Ganshas       0440 
+Dauur         0531 
+Lia           0537 F4 V
+Anemzaa       0635 
+Vlimas        0637 
+Zzugep        0731 M1 V
+Laari         0734 
+Aapas Mi      0735 
+Shash         0737 
+Kuuki Zaa     0831 
+Laaze         0835 
+Night         0839 K8 VI M4 D

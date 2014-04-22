@@ -1,0 +1,45 @@
+@SUB-SECTOR: sec_H   SECTOR: ealiyasi
+#
+# Trade routes within the subsector
+$2514 2412 -1 0
+$2514 2314 -1 0
+$2612 2412 -1 0
+$2514 2612 0 0
+$2612 2712 0 0
+$2712 2610 0 -1
+$2712 2912 0 0
+$2912 3013 0 0
+$2912 2910 0 -1
+$2912 3011 0 0
+$3011 2911 0 0
+$3011 3211 0 0
+$3211 3210 0 -1
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Kewhalreh     2514 A4787M9-D    Ag                 700 As
+Ftehi         2515 D8665N7-9    Ag Ni              403 As
+Iwuaalr       2612 A87A8N5-E    Wa                 124 As
+Alriyeaos     2712 A6492M9-E    Lo Ni              303 As
+Ileyawea      2714 C788321-3    Lo Ni              700 Na
+Toaakhitleil  2720 C5549AC-4    Hi                 204 Na
+Staoirheah    2814 D9A26K8-B    Fl Ni              715 As
+Yeeri         2815 C100222-2    Lo Ni Va           503 Na
+Iyyoeaw       2816 C457753-2    Ag                 815 Na
+Teawea        2817 E536547-2    C4 Ni              713 Id
+Aliywei       2819 A997310-7  F Lo Ni              104 Id
+Eiea'yorl     2911 A4266K4-A    Ni                 804 As
+Youirlei      2912 B6682H4-E    Lo Ni              814 As
+Ewae          2913 C4756M4-8    Ag Ni              101 As
+Kaoeiwoas     2919 B421799-4  F Na Po              704 Id
+Eiskaeah      3011 B6233L3-9    Lo Ni Po           522 A4
+Easyah        3013 B4326JA-C    Na Ni Po           614 As
+Hkaearlwi     3015 X7661G3-6    Lo Ni              602 As
+Iywyeilka     3018 E556788-0    Ag                 921 Id
+Earlaieah     3020 E464323-0    Lo Ni              223 Id
+A'yoeah       3111 D4352G4-6    Lo Ni              202 As
+Hlearli       3211 AAB25N5-E    Fl Ni              404 As
+Wulooil       3212 X4847L8-B    Ag Ri              212 A0
+Khaea         3216 C9B43M7-9    Fl Lo Ni           101 As
+Saihe         3220 C548324-3    Lo Ni              712 Id

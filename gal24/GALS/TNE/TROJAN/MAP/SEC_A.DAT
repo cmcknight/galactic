@@ -1,0 +1,28 @@
+@SUB-SECTOR: sec_A   SECTOR: trojan
+#
+# Trade routes within the subsector
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Taltern       0103 E530240-5    Lo Ni Po De        302 Na
+Bilke         0110 D987343-9    Lo Ni Tp           802 Fl
+Szirp         0201 A236656-D    Ni                 100 Na
+Sam's World   0202 E100956-8  S Na Hi In Va        103 Na     f
+Dustpan       0204 A750879-9    Po De           B  100 Na
+Heath         0209 B487532-C    Ag Ni              622 Na
+Vip           0210 A121644-D  F Na Ni Po           804 Fl
+Crescent      0307 B420878-8    Na Po De        B  104 Na
+Trossachs     0310 A897A44-D  F Hi In Tp           302 Fl
+Marseilles    0403 D540412-8    Lo Ni Po De        202 Na
+Paques        0404 C9E6400-5    Lo Ni              423 Na
+Viceroy       0408 B8D3615-D    Ni                 104 Na
+Allemagne     0503 C688000-0    Ba Tp           R  020 Na
+Sable des Etos0504 B00099B-E    Na Hi In As        131 Na     f
+Strend        0505 B4369FB-F    Hi                 202 Na
+Halka         0510 B865544-A    Ag Ni Tn St        813 Fl
+Armada        0608 A540244-A    Lo Ni Po De        400 Na
+Adhara        0609 B27A668-8    Ni Wa O:0608       802 Na
+Zephyr        0702 B999545-8    Ni Tp              114 Na
+Fomalhaut     0802 B510200-D    Lo Ni              304 Na
+Hadara        0809 D3117A8-7    Na Ic              203 Na

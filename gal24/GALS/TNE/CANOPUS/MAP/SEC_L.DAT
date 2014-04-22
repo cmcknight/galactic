@@ -1,0 +1,30 @@
+@SUB-SECTOR: sec_L   SECTOR: canopusc
+#
+# Trade routes within the subsector
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Parish        2524 D86976D-5    Ri              B  124 Wi
+Tarbell       2529 X310000-0    Ba                 003 --
+Beagan        2625 X639000-0    Ba                 010 --
+Mabel         2626 D88A220-5    Lo Ni Wa           402 Wi
+Rex           2722 C547768-8                       323 Wi
+Fater         2724 X9C3000-0    Ba Fl              023 --
+Tark          2725 X529000-0    Ba                 023 --
+Lares         2825 X000000-0    As Ba              024 --
+Chare         2827 X433000-0    Ba                 025 --
+Kathleen      2828 C794640-8    Ni              B  323 Wi
+Bellanca      2924 X899002-5    Ba                 004 Wi
+Foirenza      2928 X401000-0    Ba Ic Va           014 --
+Saltmersh     3023 X6A3000-0    Ba Fl              000 --
+Dalthoth      3026 X635000-0    Ba                 003 --
+Royce         3122 X423000-0    Ba                 011 --
+Odysseus      3123 X9B3000-0    Ba Fl              003 --
+Gerry         3125 X450469-4    De Lo Ni Po        110 Wi
+Bremen        3127 X230000-0    Ba De              023 --
+Armco         3128 X256769-4                       104 Wi
+Copyn         3221 X6746BB-7    Ni                 102 Wi
+Adolphus      3224 D443568-6    Lo Ni Po           004 Wi
+Rogerson      3228 C885557-6    Ag Lo Ni        B  410 Wi
+Vengs         3229 D561636-5    Ni                 104 Wi

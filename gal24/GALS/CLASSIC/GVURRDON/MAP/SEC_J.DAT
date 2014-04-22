@@ -1,0 +1,40 @@
+@SUB-SECTOR: sec_J   SECTOR: gvurrdon
+#
+# Trade routes within the subsector
+#
+$1623 1721 1 0 4
+$1623 1724 1 0 4
+$0930 1132 0 1 4
+$0930 0929 0 0 4
+$0929 1027 0 0 4
+$1027 1327 0 0 4
+$1129 1132 0 1 9
+$1129 1327 0 0 9
+$1327 1527 0 0 9
+$1527 1728 1 0 9
+$1623 1726 1 0 9
+$1623 1320 0 -1 9
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Daerrg        0926 C636627-9    Ni                 723 Vr
+Orra          0929 A00089C-F  G Na As Cx           710 Vr
+Uegukell Vakfe0930 BAD48AD-6    Fl                 102 Vr
+Gegvouk       1023 B9AA887-C    Wa Fl              104 Va
+Saell         1027 A357AAC-F  G Hi                 102 Vr
+Tagath        1125 B989559-A    Ni                 701 Vr
+Raezarourkolla1126 C466400-B    Ni                 521 Vr
+Langaetoukoe  1128 E433573-7    Ni Po              120 Vr
+Koekhae       1129 B67A101-A    Lo Ni Wa           724 Vr
+Aedhar        1225 B4908C9-A    De                 422 Vr
+Voullatueng   1226 A203326-E    Lo Ni Ic Va        421 Vr
+Akhaedag      1327 B463355-B  G Lo Ni              801 Vr
+Kfolaell      1421 B86AAA6-B    Hi Wa              403 Vp
+Ogvasaekha    1428 B667877-9    Ri                 122 Vr
+Orz           1429 D95A88C-6    Wa                 524 Vr
+Fagvaenghuenou1430 B440786-8    Po De              925 Vr
+Raersava      1524 B100262-A    Lo Ni Va           903 Vq
+Kaneldhuelloug1527 A6535A9-A    Ni Po              523 Vr
+Ghenkerongolu 1528 B331778-B    Na Po              601 Vr
+Illkarkunotoe 1622 B54587A-A                       420 Vq
+Taeksoudhagnou1623 A5A488C-D  G Fl Cx              323 Vq

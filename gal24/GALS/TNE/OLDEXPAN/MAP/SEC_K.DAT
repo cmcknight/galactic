@@ -1,0 +1,36 @@
+@SUB-SECTOR: sec_k   SECTOR: oldexpan
+#
+#--------1---------2---------3---------4---------5-----f----6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Rotal         1721 X5467R9-6    Ag              B  702 Wi
+Bote          1727 X7787T6-7    Ag                 200 Wi
+Ames          1821 X500000-0    Ba Va              010 Un
+Ropram        1822 X4678S3-5                    B  824 Wi
+Mager         1825 E8668V9-4                    B  315 Wi
+Antalan       1826 X435000-0    Ba                 013 Un
+Rolf          1827 X5947RF-1    Ag              B  903 Wi
+Letron        1829 D2727XA-8    Ag                 401 Wi
+Cupprio       1922 X6652N6-5    Lo Ni              114 Wi
+Moppo         1925 X836000-0    Ba                 014 Un
+Phildelia     1928 X100000-0    Ba Va              014 Un
+Villan        2021 X231000-0    Ba Po              013 Un
+Bytor         2022 X5436R7-6    Ni Po              801 Wi
+Femerial      2030 X6657R7-2    Ag C:3          B  410 Wi
+Ramaka        2123 X7967S3-6    Ag                 610 Wi
+Barsk         2124 X100000-0    Ba Va              011 Un
+Mexit         2125 X4557RD-6    Ag                 813 Wi     f
+Lapper        2126 X4557VF-1    Ag C:4          B  103 Wi
+Elanor        2127 X333000-0    Ba Po              004 Un
+Darpi         2130 X4536RB-3    Ni Po           B  802 Wi
+Gonzu         2221 X9DA6P3-1    Fl Ni Wa        B  400 Wi
+Harple        2225 X100000-0    Ba Va              012 Un
+Traynos       2227 D5627N1-8                       320 Wi
+Welzer        2228 X5798R7-1                    B  120 Wi
+Karse         2229 X2415RF-8    Ni Po              304 Wi
+Kolop         2325 D6626Q2-7    Ni                 504 Wi
+Samosk        2329 X200000-0    Ba Va              012 Un
+Goldbach      2422 D4453T7-7    Lo Ni              102 Wi
+Kolipio       2424 X226000-0    Ba                 005 Un
+Allenz        2425 X656100-6    Lo Ni              203 Wi
+Quest         2428 E7667RA-7    Ag                 222 Wi

@@ -1,0 +1,42 @@
+@SUB-SECTOR: Shinkan SECTOR: Core
+#
+# Trade routes within the subsector
+$2901 3040 0 -1
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+.             2501 B000556-E  N Ni As              200 Li 
+.             2503 B000100-C  N Lo Ni As           704 Li 
+.             2507 A9867BC-D  N Ag                 810 Li 
+.             2602 B4447AA-A    Ag                 401 Li 
+.             2603 EAAA303-B    Lo Ni Fl Wa        303 Li 
+.             2606 B347431-E  N Ni                 905 Li 
+.             2608 B557899-8  A                    713 Li 
+.             2609 B599313-E  N Lo Ni              713 Li 
+.             2610 B594769-A    Ag                 205 Li 
+Derku         2703 C610989-D    Hi Na In           603 Li 
+.             2705 E356100-8    Lo Ni              301 Li 
+.             2706 B364500-D  A Ag Ni              514 Li 
+.             2707 C525340-8  S Lo Ni              800 Li 
+.             2709 B000203-F  N Lo Ni As           503 Li 
+.             2802 B678896-C                       625 Li
+.             2803 A427456-D    Ni                 504 Li 
+.             2904 D572834-6  S                    720 Li 
+.             2906 B200878-D    Na Va              603 Li 
+.             2910 B211112-F  N Lo Ni Ic           323 Li 
+.             3002 C344886-9                       220 Li 
+.             3003 B665355-A  N Lo Ni              410 Li 
+.             3005 B304842-B    Va Ic              422 Li 
+.             3008 A4007B9-F  N Na Va              401 Li 
+.             3101 B73A146-C  S Lo Ni Wa           104 Li 
+.             3103 B439568-E    Ni                 214 Li 
+.             3104 E200776-A    Na Va              931 Li 
+.             3105 B300732-E  N Na Va              210 Li 
+.             3106 B425278-A    Lo Ni              403 Li 
+.             3203 C668769-5  S Ag Ri              911 Li 
+.             3205 B765662-7  N Ag Ni Ri           713 Li 
+.             3206 C646444-8    Ni                 304 Li 
+.             3207 C567789-6    Ag Ri              600 Li 
+.             3208 E400102-B    Lo Ni Va           904 Li 
+.             3210 A965312-C    Lo Ni              505 Li 

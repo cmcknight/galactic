@@ -1,0 +1,34 @@
+@SUB-SECTOR: sec_l   SECTOR: Diaspora
+#
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Seagull       2521 X7B1000-0    Ba Fl              003 Un
+Amoy          2524 X4546RA-5    Ni Ag              305 Wi
+Baraduusa     2528 X3421O1-3    Ni Po Lo           415 Wi
+Ferenira      2724 X100000-0    Ba Va              023 Un
+Daaliisa      2725 E7677O4-7    Ag C:2          B  414 Wi
+Eloji         2728 D8466P4-8    Ni Ag              402 Wi
+Exeter        2729 X7698R6-8                    B  824 Wi
+Muni          2825 D3426P0-6    Po                 605 Wi
+Promise       2827 C5427T6-9    Po                 602 Wi
+Pozan         2830 X232000-0    Ba                 003 Un
+Orsk          2922 X535000-0    Ba                 012 Un
+Lot           2925 X2456RC-4    Ni Ag              303 Wi
+Vahana        2926 X65A5RD-0    Ni Wa           B  103 Wi
+Udone         2927 X000000-0    Ba As              014 Un
+Gorky         2929 X200000-0    Ba Va              011 Un
+Execute       2930 E6845S7-5    Ni Ag           B  103 Wi
+Isis          3022 X3547RD-3    Ag                 914 Wi
+Napiiresha    3023 X559202-2    Ni Lo           B  123 Wi
+530-053       3027 X4432N2-5    Ni Po Lo           422 Wi
+Davao         3029 X100000-0    Ba Va              013 Un
+Nysorb        3030 X9B6000-0    Ba Fl              033 Un
+Tenmet        3121 X110000-0    Ba                 003 Un
+Tazmania      3123 X4564SA-3    Ni Lo              304 Wi
+Sligo         3126 X8783P4-3    Ni Lo           B  203 Wi
+Siitahr       3129 X8783P4-3    Ni Lo           B  505 Wi
+Ijiwa         3224 X7664O0-4    Ba Va              002 Wi
+Lekhaana      3225 X100000-0    Ba Va              024 Un
+Cosenza       3228 X527000-0    Ba                 012 Un

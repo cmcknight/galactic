@@ -1,0 +1,106 @@
+
+Bruyere System
+   
+   Bruyere (Usani: Deneb/2023) C524367-A_S _Lo Ni O:1829__822 Re F0 V
+   G=0.614 Density=1.00 Day=13:36:25.71; Year=3y 216d 18:15:09.79
+   Atm=0.20, No Weather Control
+   Temp= 22.4 degrees (orbital ecc= +/- 0.45 degrees) (5/lat +15 to -35)
+   (season +13.8 to -23)
+   Daily temp range: 27.89 to -32
+   Compounds; None; Parts; Recordings
+   Conservative/Indifferent, Competitive/Neutral, Harmonious/Aloof
+   Legal 7-47A88 Tech AA-ABA9B-CBB9-AB-F
+   
+   Bruyere system was initially overlooked when the IISS made its first
+   foray into Deneb Sector. And for good reason. The system is weak in
+   natural resources and thus a poor candidate for development.
+   
+   From space, it's parched gray countenance does little to entice
+   travellers to touch down on its surface. The planet's very thin
+   atmosphere and liquid oceans are tainted by sulphur compounds that
+   were released by eons ago by now-dormant volcanoes. Nearly all of the
+   planet's water is concentrated into a single large ocean in the
+   southern hemisphere.
+   
+   However, because the system possesses two gas giants it eventually
+   attracted traders and freighters making the run between Liran and
+   Minocoy. Scouts from the exploration branch set up rudimentary
+   starport facilities at the system mainworld and an outer system world
+   now known as Carthage. The IISS released more detailed survey
+   information and opened the system to institutional study.
+   
+   Scientists from the Deneb and Usani eventually came to the planet (by
+   this time unaffectionately named "872-444" by the IISS) to research
+   its atmospheric taints.
+   
+   Dr. Ibsen Bruyere of the University of Usani first set foot on the
+   planet's surface in 574. He and his research team spent six months on
+   the barren world. During that time, they discovered the planet's vast
+   network of natural catacombs. More amazing to Bruyere and his team of
+   scientists was that the catacombs were inhabited by sentient beings!
+   
+   Several thousand Chirpers were discovered living in dispersed hovels
+   hundreds of meters beneath the planet's surface. Though Chirpers had
+   already been discovered on other worlds spinward of the Great Rift, it
+   was an amazing find considering the planet's inhospitable environment.
+   The scientists discovered that beneath the world's surface, higher
+   atmospheric pressure and oxygen content made the environment
+   survivable by the Chirpers.
+   
+   The system mainworld was named after the scientist who made this
+   wonderful discovery. Since Dr. Bruyere's discovery, research teams
+   from neighboring systems have visited the planet frequently primarily
+   to study its subterranean native inhabitants.
+   
+   In recent times, archaeological teams have hypothesized that discovery
+   of a new Ancients site is imminent on the world. They believe the
+   catacombs are the remnants of some form of Ancient residential
+   construction that the Chirpers inhabited during the intervening
+   millenia.
+   
+   While the research teams continue to visit the world at a consistent
+   rate, the scout service and RQS have also established a steady
+   presence in the system. Because of the system's location between
+   several strategic worlds, it makes a fine refueling and calibration
+   point for scout and quarantine ships. The scouts on Bruyere also serve
+   as law enforcement and "park rangers," protecting the native
+   population of the planet.
+   
+   The RISS has recently given visitation permits to several Droyne
+   Kroyloss' that intend to caste willing members of the Chirper
+   population, thus indoctrinating them into Droyne culture. The
+   suspicious Bruyerian Chirpers were at first cold to the idea, but
+   racial recognition and curiosity about the koynisin ritual has begun
+   to bring them out of their subterranean homes.
+   
+  Miscellaneous Notes and System Data
+  
+   Molten core; mass=.24; axial tilt=23 degrees; orbital
+   eccentricity=0.15; representative authority=single ruler w/ two
+   magistrates (Executive/Judicial two-way division of power)
+   
+  Bruyere System Details
+  
+ Orbit    Name           UPP         Remarks
+ Primary  Farraday       F0 V
+  0       Eides          Y100000-0   Ba Va
+  1       Hodges         Y320000-0   Ba
+  2       Barium         Y220000-0   Ba
+  3       (Empty Orbit)
+  4       Inner Belt     Y000000-0   As Ba
+  5       Bruyere        C524367-A S Lo Ni O:1829
+  6       Crenshaw       Small GG
+  7       (Empty Orbit)
+  8       (Empty Orbit)
+  9       Outer Belt     Y000000-0   As Ba
+  10      True Cardy     Large GG
+      4   Maldron        Y402000-0   Ba Ic Va
+      5   Aidan          Y210000-0   Ba
+      6   Krew           Y220000-0   Ba
+      7   Rodey          Y200000-0   Ba Va
+      8   Ozinn          Y701000-0   Ba Va
+      9   Carthage       G743267-9   Lo Sc
+      10  Weeb           YS00000-0   Ba Va
+      35  Weggant        Y632000-0   Ba
+      45  Bryant's Peak  Y330000-0   Ba
+

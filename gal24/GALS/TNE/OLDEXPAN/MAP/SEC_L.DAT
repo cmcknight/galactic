@@ -1,0 +1,30 @@
+@SUB-SECTOR: sec_l   SECTOR: oldexpan
+#
+#--------1---------2---------3---------4---------5-----f----6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Usinea        2523 X310000-0    Ba                 024 Un
+Vreeland      2524 D5537T6-8    Po                 204 Wi
+New Bond      2529 D66A100-8    Lo Ni Wa           302 Wi
+New Dakar     2621 X8A1000-0    Ba Fl              001 Un
+Vendtup Stati 2622 X7694U7-6    Lo Ni              514 Wi
+Porrl         2628 X8581Q5-1    Lo Ni           B  400 Wi
+Lannor        2726 X2436RA-2    Ni Po           B  711 Wi
+Republicos    2727 X64A5O4-2    Ni Wa           B  112 Wi
+Vendtup       2728 X64A5RA-5    Ni Wa              314 Wi
+Albach        2823 X4583M4-5    Lo Ni              504 Wi
+Burncloud     2824 XAB3000-0    Ba Fl              012 Un
+Ayra          2825 X521000-0    Ba Po              023 Un
+Scorch        2828 X5416N7-7    Ni Po              400 Wi
+Cold Rock     2829 X400000-0    Ba Va              005 Un
+Reine         2924 D79A6Q6-5    Ni Wa           B  904 Wi
+Olorna        2928 D3535R7-5    Ni Po              301 Wi
+Chapet        3025 X510000-0    Ba                 001 Un
+New Titan     3125 X100000-0    Ba Va              003 Un
+Neuruhr       3126 X3765S9-3    Ag Ni C:4          202 Wi
+Portrine      3128 X2611M3-4    Lo Ni              411 Wi
+Lorsch        3223 B89A3Q9-7    Lo Ni Wa           403 Wi
+En Livereh    3224 X98A4R5-4    Lo Ni Wa        B  202 Wi
+Haven         3225 X537000-0    Ba                 013 Un
+Curuna        3226 X7A3000-0    Ba Fl              004 Un
+Urbain        3229 C4537S4-7    Po                 800 Wi

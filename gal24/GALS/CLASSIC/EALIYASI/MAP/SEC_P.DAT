@@ -1,0 +1,37 @@
+@SUB-SECTOR: sec_P   SECTOR: ealiyasi
+#
+# Trade routes within the subsector
+$2732 2630 0 -1
+$2732 2932 0 0
+$2932 3031 0 0
+$2738 2937 0 0
+$2937 3035 0 0
+$3035 3135 0 0
+$3135 0135 1 0
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Ftiweayeha    2531 E8A78H7-B    Fl                 903 As
+Yesuaouaeil   2539 CAA40M7-9    Fl                 413 As
+Aisaoheiltlalr2631 C8C47N8-A    Fl                 204 As
+Aihoairl      2638 D4763L7-A    Lo Ni              112 A4
+Hkahaoralr    2732 A7761J8-D    Lo Ni              602 As
+Eaweaiwya     2737 C7967K8-9    Ag                 112 As
+Eilehaiiyh    2738 B3340G5-8  T                    223 As
+Ou'ao         2740 C2435JA-A    Ni Po              110 As
+Awalea        2835 D6376N5-B    Ni                 501 As
+Hkase         2837 C78A6MA-8    Ni Wa Ri           602 As
+Fuaeihel      2839 E5594L6-A    Ni                 302 A6
+Yesail        2932 B4738N7-E                       214 As
+Aiiyhhkoaw    2935 C4734L6-A    Ni                 414 A9
+Kiysahikhaa   2937 B8793GA-D  T D1 Lo Ni           802 As
+Feaei         3031 A3376K3-B    Ni                 301 As
+Tlealoikh     3032 C8B35N5-8    Fl Ni              203 As
+Eihoeyokhara  3033 D4537M7-7    Po                 422 As
+Hkaoi'        3035 C5792G3-A    Lo Ni              603 As
+Fteirhai      3036 E9AA3M6-9    Fl Lo Ni Wa        702 As
+Eiwhwe        3133 C6743KA-8    D0 Lo Ni           823 As
+Tileaye'      3135 B6784H7-D  T Ni                 601 As
+Khasuareir    3231 D4446M8-9    Ag Ni              223 As
+Hlorliarl     3235 E6797N5-A                       715 As

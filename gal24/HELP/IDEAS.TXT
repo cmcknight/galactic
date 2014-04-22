@@ -1,0 +1,269 @@
+
+                      Topics to Think About
+                      ---------------------
+
+Hoth was an ice planet. Vulcan was a world of volcanos. Nice and
+simple on the surface, but how bland and homogenous when you
+consider how big planets really are. On Earth, we've got a
+variety of settings, from the urban streets of New York to the
+jungles of South America to the Himalayan Mountains to the vast
+Sahara desert. An alien landing in the latter might conclude that
+Earth is a great desert world... like Dune.
+
+When you design your worlds as well as your overall setting,
+there are lots of topics which you might want to hit. Each of
+these deserves a little consideration (or perhaps even a lot).
+Just think of this a short checklist in case you're stuck for
+ideas.
+
+
+Religion:
+
+Religion is one of the most fundamental aspects of human society.
+While some might argue that belief in the supernatural and in the
+divine is dying away with advances in science and technology,
+others could effectively argue the opposite: that the more we
+learn about our universe, the more incredible it all seems to be.
+Consider what the state of religion is in your campaign. Is there
+just one God, many, or no gods at all? Do people believe in the
+"soul"? If so, where do they think it comes from, and perhaps
+just as importantly, where do they think it goes?
+
+For an example of what I'm talking about, one of my cousins in
+Greece came up with the following idea (she's got weird ideas,
+but that's part of what makes her fun).
+
+   We are souls who experience a number of lives. Each is
+   lived in order to learn certain lessons. At the conclusion
+   of this process, the soul is "mature", and it splits into
+   two parts. Then the process begins anew.
+
+Think of souls as little single-celled organisms. Here's an idea
+which I came up with a few years ago (just as a disclaimer, I
+think I was stoned at the time).
+
+   God is a very, very bored mathematician. So bored is God
+   that she likes to create various universes each constructed
+   of natural laws. Laws are all that she creates. The rest is
+   purely random. In some of these universes have evolved
+   sentient life. Intrigued, God has decided to take part in
+   these settings by projecting her "soul" into the beings
+   living there. You are God, only you don't realize it until
+   you die.
+
+Belief structures such as these can get really wild. The trick is
+that they need to be an aid toward social cohesion or they won't
+last for very long (now we're talking about the natural selection
+of belief structures). For instance, in the prior example, people
+might be more likely to cooperate because they view the people
+they dislike as near complements of themselves, perhaps part of a
+former self within which the two were once entwined. In the later
+example, they view the people they dislike as being of literally
+the same soul but different circumstances (genetics and
+upbringing), however the "realization" that they both share the
+same soul is enough to get them to cooperate. Of course, what
+both of these structures lack are reward/punishment mechanisms,
+but that can always be added.
+
+In short, if religion still exists in the future, it may be far
+removed from the religions we know of today. Considering the
+possibilities is part of science fiction.
+
+
+Technology:
+
+Of course, worlds may vary widely in technical level, however,
+most likely, there will be a large grouping at some technical
+mean. You need to decide what that mean is. Typical technical
+categories include:
+
+   * Materials technology: What new materials are there and what
+     are their properties?
+   * Energy technology: To what extent are fusion, antimatter, or
+     other energy production techniques in use, and what is the
+     effect on planetary industry?
+   * Information technology: Is there artificial intelligence and
+     how good is it? What jobs have been replaced? What has been
+     the effect on society?
+   * Communication technology: Are there any means of FTL
+     communications?
+   * Terraforming technology: How easy is it to turn a dead world
+     into a living planet?
+   * Nanotechnology: To what extent are microscopic robots in
+     use for various engineering or medical purposes?
+   * Medical technology: To what extent has disease been
+     mastered, how long do people live (is non-aging possible),
+     what about cybernetics, what about gene/trait selection,
+     what about limb/organ regeneration, and what has been the
+     overall effect on society of all this?
+   * Gravitic technology: To what extent has gravity been
+     harnessed in transportation and construction?
+   * Warp/Jump/Hyperspace technology: How do ships get from one
+     star to another, what are the energy requirements, and what
+     are the special limitations and/or dangers involved?
+   * Weapons technology: What are the most devastating weapons
+     of the setting and how are they controlled by the powers
+     that be?
+   * Super technology: Are there any technical artifacts from
+     ancient interstellar civilizations?
+
+
+Civilization:
+
+How civilized is your setting overall, and how civilized are
+various worlds in specific? In the shift from Classic Traveller
+to MegaTraveller to The New Era, we see a sharp downward spiral
+in the level of civilization. A low civilization creates unique
+opportunities for characters to get away with things which they
+wouldn't otherwise be able to get away with, but it can also be
+confining in terms of adventuring possibilities. For instance,
+one of the strong-points of Classic Traveller is that it was able
+to create a setting in which thousands of widely divergent
+civilizations could co-exist within a single interstellar
+tapestry. The adventuring possibilities, in such a setting, were
+virtually limitless. By comparison, the New Era was criticized
+when it first came out for being mainly about "smash & grab"
+adventures.
+
+What civilization level you choose has a lot to do with what sort
+of mood you are trying to create, however, if you focus
+exclusively on mood, you can end up limiting the types of
+adventures which will work in the setting.
+
+
+Politics:
+
+Is humanity (or the dominant PC race) wrapped up in a single
+empire or republic or confederation of states? Or are there many
+small and independent nations, each with their own governments
+and rulers who answer to no one save themselves and their
+respective populations? Are there any lingering tensions or good
+feelings between neighboring nations over particularly noteworthy
+incidents in history, either ancient or recent?
+
+    Tip from John Novak (jsn@cegt201.bradley.edu):
+
+    No matter what the precise nature of your political setup
+    always try to include _two_ dimensions of political swing.
+    If there's only one spectrum, things get boring pretty
+    quickly, because you can always figure out who wants what,
+    and which side they're likely to be on. But include two
+    dimensions, and you can have shifting alliances, temporary
+    coalitions, and manipulations behind the scenes causing
+    strange bedfellows.
+
+
+Alien Races:
+
+Which are the most dominant races? How well do they get along?
+Have they warred with each other in the past? Do they share
+similar goals and similar forms of government, or is co-existence
+not an option? Do they keep to their own countries, or do they
+mix freely within single states? Are there any lingering tensions
+or good feelings between specific racial groups over particularly
+noteworthy incidents in history, either ancient or recent?
+
+
+Economics:
+
+What is the most accepted form of currency? Does it have any
+physical manifestation (ala Star Trek's Latinum Bars) or is it
+purely conceptual (Traveller's Credits). Are there any unusual
+forms of currency? Does each world have its own planetary
+currency? Is there an interstellar stock exchange and, if so,
+where is it located (assuming it even has a central location)?
+How does the government keep people from counterfeiting? How
+powerful are the businesses (i.e. megacorporations) and the
+banks? To what extent do they hold the strings of power?
+
+
+
+
+                        Creative Methods
+                        ----------------
+
+Sometimes, particularly when starting a new world, a city, or
+even a starport, the brain just gets clotted. You have so many
+ideas, you just don't know where to begin. Here are some methods
+which will hopefully help you take that first step of getting
+your ideas down on paper, and they might also help to get the
+creative juices flowing when you find yourself running short of
+ideas.
+
+
+Web it Out:
+
+Start with the name of a place such as a new world you are
+creating. Circle it in the center of a large piece of paper.
+Think of some aspects (the starport, corporate strongholds, major
+cities, natural resources). It helps to think of names as you go
+along (you might want to generate a random list beforehand). For
+the major cities, create various locations around them (museum of
+antiquities, university of technical studies, etc). Repeat the
+process through several iterations, creating the names of the
+important NPCs for each area. Draw lines between NPCs and
+establish relationships. Once the relationships are in place,
+adventure opportunities should become more apparent.
+
+      Some possible relationships between important NPCs:
+       1) Owes Favor             6) Revenge-Hatred
+       2) Secret Infatuation     7) Spurned Love
+       3) Mutual Backscratching  8) Mutual Backstabbing
+       4) Mutual Secret          9) Blackmail
+       5) Family Relation        10) Family Feud
+
+
+Roll up Some History:
+
+Remember, also, that worlds are not static, frozen in time where
+nothing ever happens. Every society is likely to have its own
+unique history. It may be worth it to you to generate a few
+random events if you need some inspiration:
+
+      Some Possible Random Events:
+   1d6
+    1   Event from on High (caused by the actions of important
+           characters on the interstellar stage)
+      1d4
+       1  Punishment
+       2  Technical Aid
+       3  Orders
+       4  Economic Aid
+    2   War
+      1d4
+       1  Against Aliens
+       2  Against Pirates
+       3  Against Another World
+       4  Civil War
+    3   Recent or Recurrent Natural Disasters
+      1d6
+       1  Quake
+       2  Tornado
+       3  Flood
+       4  Meteorite
+       5  Fire
+       6  Plague/Famine
+    4   Major Construction
+      2d4
+       2  Majestic City
+       3  Transportation system
+       4  Top-notch University
+       5  High-tech Library
+       6  Amazing Cathedral
+       7  Power generation system
+       8  Make up something weird
+    5   Religious Upheaval
+      1d4
+       1  Religious Assassination
+       2  Religious Coup
+       3  Strange Religious Edict
+       4  Holy War
+    6   Political Upheaval
+      1d6
+       1  Political Assassination
+       2  Military Coup
+       3  Strange Political Edict
+       4  Riots
+       5  Slave/Workers Rebellion
+       6  Civil War
+

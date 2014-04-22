@@ -1,0 +1,32 @@
+@SUB-SECTOR: sec_a   SECTOR: massilia
+#
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Luong         2531 X500000-0    Ba Va              014 Un
+Oreo          2540 X100000-0    Ba Va              013 Un
+Misthaven     2632 X7588S8-5                    B  203 Wi
+Ortega        2633 X426000-0    Ba                 003 Un
+Landis        2640 X522000-0    Ba                 010 Un
+Cordell       2731 X100000-0    Ba Va              003 Un
+Jenina        2732 X2645O0-7    Ag Ni              223 Wi
+Floting       2734 X6557R6-6    Ag                 211 Wi
+Vonda         2735 X110000-0    Ba                 031 Un
+Wedna         2737 X6732N3-1    Lo Ni           B  404 Wi
+Mona          2738 X210000-0    Ba                 000 Un
+Cusgrove      2739 EA764O2-3    Lo Ni           B  504 Wi
+Goiri         2837 X200000-0    Ba Va              013 Un
+Amanita       2931 X100000-0    Ba Va              003 Un
+Doane         2932 X6766O3-4    Ag Ni           B  614 Wi
+Quoc          2933 X410000-0    Ba                 014 Un
+Parahee       2934 X100000-0    Ba Va              013 Un
+Mission       2938 X574403-5    Lo Ni              202 Wi
+Granporr      3035 C4767Q9-6  N Ag                 413 Wi
+Dobaran       3131 X793301-5    Lo Ni              200 Wi
+Blaser        3136 X100000-0    Ba Va              023 Un
+Malaga        3139 X423000-0    Ba                 022 Un
+Domy          3231 X85A303-6    Lo Ni Wa           305 Wi
+Randanna      3232 X300000-0    Ba Va              003 Un
+Double        3233 X100000-0    Ba Va              004 Un
+Esten         3236 X100000-0    Ba Va              003 Un

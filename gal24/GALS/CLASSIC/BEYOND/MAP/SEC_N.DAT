@@ -1,0 +1,45 @@
+@SUB-SECTOR: sec_N   SECTOR: beyond.sec
+#
+# Trade routes within the subsector
+$0931 1131 0 0
+$1131 1130 0 -1
+$1034 0834 -1 0
+$1034 1134 0 0
+$1134 1335 0 0
+$1335 1535 0 0
+$1535 1533 0 0
+$1335 1436 0 0
+$1436 1437 0 0
+$1437 1438 0 0
+$1438 1539 0 0
+$1539 1739 1 0
+$1140 1141 0 1
+$1140 1137 0 0
+$1137 1436 0 0
+$1436 1635 0 0
+$1635 2235 1 0
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Zydpharn      0931 B764700-7    Ag                 6   Zc
+Zydpedallion  0932 B869700-8    Na                 6   Zc
+Reading Gaol  1034 A925032-A  2                 R  3   Na     f
+Clanheim      1039 B450561-9    Na Ni Po           9   Na
+Zydmnar       1131 A89A410-9    Na Ni              6   Zc
+Rock          1134 C62698D-9    In              R  3   Na     f
+S. Arcturus II1137 B1623F9-E  I Ni              R  8   Na     f
+Hard Place    1140 BAA8700-9  S Na                 1   Na
+Shrine        1332 E4641A0-0    Ni                 4   Na
+Hichmakani    1335 A876320-A  N Ni                 7   Na     f
+Thessalae     1340 C000160-8    Na Ni              3   Na
+0.4 Surtan    1433 EAAA651-8    Ni                 4   Es     f
+Amnesty       1436 C987759-7    Na Ri              4   Na
+Big Harpe     1437 E8633A0-9    Ni              A  5   Na
+Little Harpe  1437 E6643A0-8    Ni              A  3   Na
+Cahokia       1438 A7638FF-C  M Ca                 6   Na     f
+Bloodgard     1533 A9A5642-A  S Ni              A  2   Na
+Cziltang Brone1535 B767400-9  D Na Ni              1   Na
+Shaft         1539 A844495-9    Ni                 9   Na     f
+Th'X #1138    1632 X633809-7    Na Po              2   Na     f
+Thule         1635 C876270-5    Ni                 6   Na

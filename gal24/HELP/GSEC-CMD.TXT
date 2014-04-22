@@ -1,0 +1,20 @@
+
+List of Commands for Graphical Sector Map Screen
+------------------------------------------------
+
+ K/J/H/L/(Arrows)       Move to Neighboring Sector
+                        (only works if there is an adjoining sector)
+
+        1               Toggle Jump Route Display
+        2               Toggle Red Hex (world descriptions) Display
+        3               Toggle Red/Amber Zone Display
+
+       F10              Dump Sector Map to Bitmap
+
+     (Esc)/Q            Return to Text Sector Map
+
+        ?               View This List
+
+
+    Hit <Q> to return to Graphical Sector Map
+

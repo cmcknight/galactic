@@ -1,0 +1,138 @@
+
+[Q] Are there any other Classic or MT Sectors which can be run
+with this program? I looked for the Sunbane FTP archive but
+couldn't find it.
+
+[A] Several years ago, Digest Group Publications (DGP) released
+about thirty-five sectors to an archive they had at GEnie. Mark
+Cook and Mike Metlay, two Traveller Mailing List members,
+transferred these sectors over to the Sunbane FTP archive which
+was _the_ Traveller archive back in those days. It was even
+administered by Dan Corrin who once also ran the TML back before
+James Perkins was doing it. Unfortunately, Dan changed jobs (as
+system administrators are wont to do), and the Traveller archive
+at Sunbane is now quite defunct (i.e. non-existent). Fortunately,
+however, I made copies of the sectors on my hard drive just in
+case such an event were to transpire, and I can email them to you
+in pkziped/uuencoded or pkziped/mime-encoded format.
+
+Alternately, you can find them online:
+
+   http://traveller.is-bremen.de/
+   ftp://elendor.sbs.nau.edu/pub/rpg/traveller/sectors
+
+I also included with this package a short program that attempts
+to separate these (Sunbane-format) sector files into subsector
+files which Galactic can read. Check out section2.exe which in
+the section2 directory.
+
+A word of warning, however. At present, section2 won't work on
+a sector file in which any of the worlds are unnamed. This is a
+significant problem, because the majority of the sectors from
+Sunbane are incomplete, particularly when it comes to world
+names. What I figure happened is that DGP must have had a
+program to shoot out a bunch of sector data for the entire
+Imperium and surrounding areas, but apparently they had to go
+in and do most of the world naming by hand, and they just never
+got around to it for many of these sectors, or if they did get
+around to it, they got to it after the sectors had already been
+released. The thirteen classic sectors I included with Galactic
+v2.0 are the only sectors of the Sunbane archive (aside from two
+which seem to be unofficial) which contained complete data (i.e.
+where all the worlds have names).
+
+-  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -
+
+[Q] Any ideas for fixing the problem?
+
+[A] There are a few different ways I can think of in which the
+incomplete sectors could be incorporated into this program. The
+first would be to simply make-up names for the unnamed worlds.
+The second would be to simply put a period "." as the world name
+for all the unnamed worlds. Galactic will interpret this as
+meaning that the world has no name.
+   A third way would entail going through old DGP Traveller
+Digests & copying the world names into the data files. It seems
+that after DGP released its incomplete sector data to GEnie, it
+continued to work on the data and finished naming the worlds of
+a few more sectors. It then published this data in its Traveller
+Digest Magazine. Hence, it would be relatively easy to take one of
+the incomplete Sunbane sectors and simply add world names to it
+from the sector data published in the Traveller Digest issue
+covering that sector.
+
+-  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -
+
+[Q] Would that be legal?
+
+[A] Under current policy, I'm guessing that it's condoned.
+   Roger Sanger (rodge@cyberspace.com) recently purchased the
+copyrights to the old DGP material and said on 16-Oct-96 (see
+the Traveller Copyright Archive at the bottom of the main help
+page) that he considers much of this data to be background
+info, and that he feels it should be open game for Marc Miller
+or his designees to republish. Marc stated that he feels much
+the same (on the issue of foreground vs background info), and
+he's given his okay to our use of this data.
+   So far Marc has been wonderful about granting permission.
+He's even given the go-ahead for the incorporation of Traveller
+News Service articles into Galactic as well as many of the
+world briefs from the Regency Sourcebook. In short, he's gone
+to great lengths to extend a friendly hand to Traveller
+enthusiasts on the Internet.
+   However, after living through the TSR/Copyright Debate, I
+have to admit that I still worry that Marc or (more likely)
+some future holder of the Traveller copyrights may reverse
+this policy at some point in the future (as TSR did with
+respect to fan-authored, AD&D-compatible material). That
+person might even state that permission to use was never
+actually given in the first place, that it was a mis-
+understanding (this was also TSR's claim, see my homepage
+for more information about all this).
+   Perhaps this is just the paranoid side of me coming out,
+but I can't help but think how such a scenario would raise
+interesting legal questions with respect to the copyright-
+ability of UWP data. Given its nature (just a bunch of
+randomly generated statistics), I'm not at all certain how a
+court would rule. The world names, of course, particularly if
+they were not randomly generated, might be viewed as a
+separate matter entirely, and the relation between those
+names and the UWP stats of a series of given worlds might,
+likewise, fall under some rationale for copyright protection,
+but fortunately, at least at present, we don't have to worry
+about such legal maneuvering, as premission to use this data
+has been granted.
+
+-  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -
+
+[Q] Is there any way to be 100% safe?
+
+[A] I think that if Marc Miller granted the TML an explicit
+license for the purpose of developing Traveller sectors, then
+we would probably be on pretty firm ground. That would be sort
+of the ideal situation, where the fans themselves are constantly
+contributing to the official setting, and, of course, distributing
+that setting via CD-ROM and/or FTP would drop production costs to
+such a level that, really, there would be no upper limit with
+respect to how much work could be accepted. I'm not sure if this
+idea is very realistic, however. It represents a big change in the
+way that things are done in the RPG publishing industry, and
+Marc may not be willing to take such a high-profile risk,
+particularly since the Traveller name still holds enough value
+that he can continue to lease the Traveller-license to a number
+of RPG publishers, the latest two being Imperium Games and Steve
+Jackson Games.
+   Because of these concerns, I think perhaps the safest option
+for netters is to just start an alternate Traveller universe and
+not worry about trying to keep up with the official setting. No
+doubt, most TMLers will shy away from this option, first because
+it involves starting from scratch, but second, and even more so,
+because they are interested in participating in the advancement
+of the "official" setting. This, of course, was Digest Group's
+original interest, and they did quite well for quite a long time
+in advancing the setting that GDW initially created, but
+conflicts over where to take the setting inevitably happened, and
+the end result, as we all know, is that DGP bailed out. In short,
+it's a choice over which of the two is more important: absolute
+creative freedom or being "official". Take your pick.
+

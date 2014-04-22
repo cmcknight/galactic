@@ -1,0 +1,23 @@
+@SUB-SECTOR: sec_K   SECTOR: vanguard
+#
+# Trade routes within the subsector
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+WHITESTAR     1721 B3569C9-C    Hi In           G  704 Na     f
+Semkarr       1730 AA66945-C  J Hi In Rs           631 Ac     f
+Delphye       1821 C355723-5    Ag              G  512 Na
+Syreeta       1824 B543522-A    Ni Po           G  822 Na     f
+Aubusson      1827 A252145-B  J Lo Ni Po        G  623 Na
+Melroh's World1830 B655611-D    Ag Ni              501 Ac
+CIRCULUS      1922 B000996-A  J As Hi Na        G  122 Na     f
+Erzurum Con.  1923 D503679-4  M Ic Na Ni        A  513 Na     f
+HYPERION      1926 A510AB9-A    Hi Na           A  104 Na     f
+Lithopaga     1929 A4048A9-9  J Ic              A  415 Na
+Oltrogge      2021 C543455-8    Ni Po           G  713 Na
+Yarx          2025 C000764-A    As Na     1926  G  514 Na
+COTINGA       2224 C725979-8  M Hi In           A  812 Na
+Cabranidi     2227 E588512-3    Ag Ni           G  203 Na
+Lost Sogamoso 2322 E664403-5    Ni              A  103 Na
+Toungoo       2426 C000630-9  V As Na Ni        G  712 Na

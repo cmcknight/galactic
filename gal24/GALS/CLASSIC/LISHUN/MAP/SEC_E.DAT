@@ -1,0 +1,52 @@
+@SUB-SECTOR: sec_E   SECTOR: lishun
+#
+# Trade routes within the subsector
+$0111 2912 -1 0
+$0118 3117 -1 0
+$0111 0309 0 -1
+$0118 0316 0 0
+$0316 0616 0 0
+$0616 0815 0 0
+$0815 1114 1 0
+$0616 0719 0 0
+$0719 0621 0 1
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Oksanad       0111 A569359-D    Lo Ni              613 Rv
+Vakada        0112 B100000-D  N Lo Ni Va Ba        610 Rv
+Ropha         0116 B410100-B  N Lo Ni              201 Rv
+Darad         0117 B675335-A    Lo Ni              902 Rv
+Solod         0118 A310411-F    Ni                 701 Rv
+Omshona       0119 B420535-A  N Ni Po De           704 Rv
+Zemud         0212 B6868BC-7  N                    501 Rv
+Kaso          0214 B200951-F    Hi Na In Va        304 Rv
+Opnoz         0217 C22179B-8    Na Po              103 Rv
+Pholan        0218 C8B7100-D  N Lo Ni Fl           821 Rv
+Popok         0311 A87A79B-C    Wa                 714 Rv
+Hrun          0312 C5169C7-D  N Hi In Ic           913 Rv
+Sima          0315 C758757-6    Ag                 900 Rv
+Pryden        0316 A75A956-F  N Hi Wa              702 Rv
+Odrairo       0317 E458673-7    Ag Ni              504 Rv
+Lakakmu       0318 B350886-C  N Po De              712 Rv
+Pradman       0411 B6A587A-B    Fl              A  200 Rv
+Olny          0412 A569964-F    Hi                 214 Rv
+Silverring    0414 A000743-F  N Na As              610 Rv
+Kigkar        0417 B543324-C  N Lo Ni Po           703 Rv
+Nara Pha      0420 D645623-8    Ag Ni              904 Rv
+Gishinridu    0513 C536333-A  N Lo Ni           A  800 Cv
+Rakrarro      0516 C88A69A-7    Ni Ri Wa           604 Li
+Haraffii      0517 C00098C-F    Hi Na In As        413 Li
+Nora Pha      0519 E666200-8    Lo Ni              901 Li
+Lashlaminan   0612 C595575-9  S Ag Ni           A  500 Li
+Gikimurka     0614 D120862-8  S Na Po De           702 Li
+Maneg Pha     0616 A655742-E  N Ag                 405 Li
+Dekilari      0711 D8A6203-8  S Lo Ni Fl           610 Li
+Larkarda      0712 B6A6764-C  N Fl                 522 Li
+Khamsir       0713 E451588-5    Ni Po              304 Li
+Apmudurduna   0714 B327634-9    Ni                 404 Li
+Osaed         0719 B458654-A  N Ag Ni              802 Li
+Arlir Li      0815 C454510-C  N Ag Ni              300 Li
+Dimadkha      0816 C100740-B  S Na Va              404 Li
+Eisar         0819 E978757-8    Ag                 403 Li

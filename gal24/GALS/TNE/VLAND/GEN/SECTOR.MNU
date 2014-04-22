@@ -1,0 +1,12 @@
+@dir=gals\tne\vland\gen
+@Light Yellow
+
+Vland Sector / General Information
+
+@Light Cyan
+      Credits                      @..\credits.txt
+      Sector Data                  @..\map\data.mnu
+      Library Data                 @lib.txt
+      The Answerin                 @answerin.txt
+      The Thaggeshi                @thaggesh.txt
+

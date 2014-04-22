@@ -1,0 +1,46 @@
+@SUB-SECTOR: Stavrula SECTOR: Gythios Sector
+#
+# Jump-routes
+$1704 1504 -1 0
+$1704 1506 -1 0
+$1708 1607 -1 0
+$1704 1806 0 0
+$1710 1910 0 0
+$1910 2010 0 0
+$2010 2210 0 0
+$2010 2112 0 1
+$2010 2211 0 1
+$2409 2412 0 1
+$2409 2510 1 0
+$1718 1710 0 0
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Laguerre      1702 X100000-0    Ba Lo Va           005 Na 000
+Victoire      1703 E344122-8    Lo                 603 Na 110
+Stavrula      1704 A686656-C    Ag                 101 An 140
+Linotype      1708 C400257-7    Lo Va              124 An 020
+Erminric      1709 X230000-0    Ba De Lo           012 An 000
+Carroll       1710 C493546-8                       713 An 38D
+Prinice       1806 C556ABA-8  S Hi                 100 An 19H
+Mansfield     1807 X400000-0    Ba Lo Va           003 Na 030
+Rutledge      1808 X6A3000-0    Ba Fl Lo           003 Na 050
+Echule        1810 X431000-0    Ba Lo              004 Na 850
+Doghailen     1902 B54A652-B    Ag Wa              214 Na 375
+Bronx         1903 C98A134-A    Lo Wa              814 Na 640
+Chunder       1905 C451126-A    Lo                 922 Na 640
+Ruse          1906 X100000-0    Ba Lo Va           002 Na 020
+Adirondack    1910 A57AAAE-D  2 Hi Wa              502 Dr A8R
+Dartmouth     2007 E457200-7    Lo                 820 Na 510
+Gara          2009 E9C9100-9    Fl Lo              614 Na 050
+Celestra      2010 A755977-E  2 Hi                 923 Dr 0AY
+Kort          2101 B89A669-6    Ag Wa              214 Na 4A2
+Descartes     2102 X226000-0    Ba Lo              004 Na 620
+Korell        2203 X310000-0    Ba Lo              003 Fc 040
+Ghaur         2210 B638855-7  N                    104 Dr 3AI
+Smithfield    2302 X100000-0    Ba Lo Va           004 Fc 000
+Aloysius      2304 C7856AB-4  S Ag                 720 Fc 040
+Waldburga     2401 X200000-0    Ba Lo Va           013 Fc 010
+Roberta       2403 B438632-B                       703 Fc A6V
+Parse         2409 B580333-9  S De Lo              503 Dr 040

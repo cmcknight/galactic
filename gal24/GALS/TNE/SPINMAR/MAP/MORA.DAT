@@ -1,0 +1,33 @@
+@SUB-SECTOR: mora   SECTOR: spinmar
+#
+# Trade routes within the subsector
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Heroni        2521 B644AB9-8    Hi In Tp           121 Re
+Byret         2523 B485697-6    Ag Ni Ri           812 Re
+Pimane        2527 E500343-4    Lo Ni Va           903 Re
+Fosey         2621 A633656-A    Na Ni Po           820 Re
+Mercury       2624 B658663-8  A Ag Ni Tp Mr        404 Re
+Tivid         2627 C534477-8    Lo Ni           B  401 Re
+Carey         2726 C579221-9    Lo Ni              910 Re
+Duale         2728 A5438BF-B    Po RsA             101 Re
+Catuz         2824 C22067C-9    J:9 Na Ni Po De B  510 Re
+Meleto        2827 C675100-5  S Lo Ni Tp           724 Re
+Hexos         2828 X534000-0    Ba              R  023 Re     m
+Pedase        2830 C415346-7  S Lo Ni Ic           101 Re
+Moran         2924 C367300-8  N Lo Ni           A  201 Re
+Maitz         2927 A201511-B    Ni Va Ic           122 Re
+Mainz         2930 C553352-A  S Lo Ni Po           803 Re
+Brodie        3021 C410468-7    Lo Ni O:3020       114 Re
+Rorise        3022 C994100-A    Lo Ni Tp           502 Re
+Jokotre       3024 B6549D9-7    Hi Tp              110 Re
+Fornice       3025 A354A87-C    Hi                 202 Re
+Grille        3026 E410335-7    Lo Ni              701 Re
+Pallique      3029 A5119C7-E    Na Hi In Ic     A  620 Re
+Nexine        3030 C97A443-8  S Lo Ni Wa           801 Re
+Nadrin        3123 D120203-6  S Jw Lo Ni Po De     920 Re
+Mora          3124 AA99AC7-F  A Hi In Cx           112 Re
+Dojodo        3223 C512311-7  S C:0 Lo Ni Ic       710 Re
+Fen's Gren    3228 C647346-9    Lo Ni Tp        A  423 Re

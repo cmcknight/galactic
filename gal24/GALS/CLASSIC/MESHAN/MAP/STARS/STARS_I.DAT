@@ -1,0 +1,35 @@
+@SUB-SECTOR: stars_I   SECTOR: meshan
+#
+# Trade routes within the subsector
+#
+#--------1---------2---------3
+#PlanetName   Loc. Stars(s)
+#----------   ---- ---------
+Zolag         0123 F4 V
+Ourskhaeth    0124 F1 D
+Agolrok       0128 F9 V
+Ung Aesa      0129 M6 II
+Dzelsoull     0223 F5 D
+Galigun       0225 G0 V
+Aegartuer     0226 F3 D
+Cadutah       0229 M3 V
+Ovoe          0321 G8 V
+Uetsae        0324 F1 V M1 D M5 D
+Al Ezen       0421 F6 D
+Kherskfon     0422 M5 V
+Oukso         0424 F3 D M0 D
+Death's Sin   0425 M1 V M5 D
+Akhan         0524 G9 D
+Limada        0622 F3 V
+Kougkaez      0625 F3 D
+Vaekh Oen     0626 M0 V M5 D
+Dzugen        0627 F9 V
+Ounuekhue     0628 F8 V M7 D
+Varraeg       0630 F6 V M5 D
+Arfeg         0723 G1 V
+Kanukor       0725 G4 V
+Knougza       0729 F6 V M4 D
+Ueruekh       0826 G2 III
+Dhaekneng     0827 M4 V
+Dzare         0829 M3 V
+Ooelzarz      0830 G7 D M5 D

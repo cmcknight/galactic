@@ -1,0 +1,28 @@
+@SUB-SECTOR: sec_P   SECTOR: yiklerzd
+#
+# Trade routes within the subsector
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Dushegadaar   2531 A879796-B  X                    716 Na     f
+Eblplons      2532 C5223A6-8    Lo Ni Po           594 Na     f
+Vlados        2535 E500100-0    Lo Ni Va           370 Na     f
+Brianchvrench 2537 C855988-8    Hi              R  938 Na     f
+Greytown      2633 C447441-7    Lo Ni              950 Gs     f
+Caveat        2733 C7A3645-9    Fl Ni              592 Gs     f
+Glenaura      2734 B757503-B  M Ag Ni              714 Gs     f
+Kusiahatai    2735 A575737-D  J Ag                 936 Gs     f
+Iqlneshav     2738 E210654-9    Na Ni              158 Na     f
+Duneed        2832 A000744-C  J As Na              370 Gs     f
+Chejieb       2834 B400783-B    Na Va An           262 Gs     f
+Shining Face  2836 D5657DI-A    Ag              A  359 Na     f
+Iareflonzal   2933 B110757-B    Na C2              871 Gs     f
+Odreitsvoz    2934 B573474-9    Lo Ni           A  793 Gs     f
+Ancona        3032 B566876-C  M Ri                 615 Gs     f
+Yadrishipl    3035 C210432-A    Lo Ni              713 Na     f
+Fliebrtsel    3135 X8C2457-9    Fl Ni Lo        F  402 Zh
+Abrzhdedl     3137 XA5A000-0    Ba Wa           F  002 Zh
+Arikrfekr     3235 X200012-A    Lo Ni Va        F  902 Zh
+Jeshiel       3237 X8A0830-8    De              F  403 Zh
+Rodebr Rifia  3239 X368899-E    Ri C6           F  310 Zh

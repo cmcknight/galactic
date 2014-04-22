@@ -1,0 +1,37 @@
+@SUB-SECTOR: sec_I   SECTOR: hinter
+#
+# Trade routes within the subsector
+$0128 0528 0 0
+$0528 0524 0 0
+$0524 0623 0 0
+$0623 0824 0 0
+$0824 0924 1 0
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Kunlam        0123 D451522-3    Ni Po              613 Na
+Relar         0124 C467669-4    Ni Ri Ag           115 Na
+Khi           0126 A643500-B    Ni Po              805 Na
+Irdikur       0128 B666777-8    Ri Ag           A  221 So
+Mire          0322 C66859D-7    Ni Ag              402 Na
+Aympe         0326 A6A037A-9  F C5 Ni De           223 Na
+Strabbin      0327 B765236-B    C2 Ni           A  603 Na
+Galazii       0328 B8A3679-6  M Ni                 713 Na
+Benson        0423 A357200-F    Ni                 702 Na
+Arkina        0424 B997621-7    Ni Ag              803 Na
+Morgan's Rest 0521 C525200-9    Ni                 512 Na
+Turek         0523 E89A7BB-7    Wa                 103 Na
+Riies         0524 C888975-8    Hi                 923 Na
+Assar         0525 C744010-6    Ni                 103 Na
+Everana       0526 B538555-9    Ni                 501 Na
+Windsor       0528 B652542-A  M Ni Po              703 Na
+Torrent       0621 C78A379-8    Ni Wa              414 Na
+Calmere       0622 D655643-4    Ni Ag              503 Na
+Straub        0623 C11088A-9    Na                 124 Na
+Hugus         0624 D334554-8    C5 Ni              302 Na
+Brannif       0721 C100126-9    Ni Va              721 Na
+Windrift      0722 C366559-A    Ni Ag              904 Na
+Hapsburg      0725 B521345-8  M Ni Po           A  603 So
+Nullia        0824 A4669B7-D  F Hi                 524 Na
+Sweet Water   0830 B475545-C    Ni Ag              902 Na

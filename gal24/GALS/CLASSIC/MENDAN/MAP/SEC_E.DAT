@@ -1,0 +1,36 @@
+@SUB-SECTOR: sec_E   SECTOR: mendan.sec
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX f
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Ilarba        0111 D868747-1    Ag Ri              302 Na
+Fourroek      0113 X646254-3    Lo Ni           R  103 Va
+Tahigon       0212 C7BA325-9    Fl Lo Ni Wa        203 Va
+Koeghz        0218 X857220-2    Lo Ni           R  203 Va
+Shimaash      0314 C56A7BC-A  M Wa                 200 Ba
+Fisch         0316 B778795-9  M Ag                 904 Ba
+Iriger        0317 D557997-6    Hi                 300 Ba
+Umar          0319 B210985-9    Hi Na In           304 Ba
+Siirash       0320 C310265-A    Lo Ni              104 Na
+Ukhar         0411 E16069E-7    De Ni Ri           504 Ba
+Arrghung      0419 X99A630-3  C Ni Wa           R  124 Va
+Giidiluu      0512 C100455-B    Ni Va              804 Ba
+Bakaum        0514 A794752-C  J Ag Cp              705 Ba
+Arkadish      0515 A000624D     As Na Ni           222 Ba
+Eshla         0516 A67A541-A  J Ni Wa              222 Ba
+Asduga        0518 C200796-9    Na Va              900 Ba
+Luugiika      0519 D468422-5    Ni                 705 Na
+Guggaku       0611 B445997-C    Hi In              203 Ba
+Mardin        0614 C510999-9    Hi Na In           111 Ba
+Ishziig       0716 C6887BE-5    Ag                 522 Na
+Lerigem       0718 A562310-B  G Lo Ni           A  202 Va
+Amamkhi       0720 DAB6404-5    Fl Ni              623 Na
+Imakhu        0811 C1007B9-9    Na Va              703 Ba
+Stone         0812 C200635-9    Na Ni Va           220 Ba
+Iirish        0814 C447133-8    Lo Ni              804 Va
+Uuram         0815 X447005-3    Lo Ni An        R  211 Va
+

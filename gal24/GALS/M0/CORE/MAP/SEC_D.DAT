@@ -1,0 +1,42 @@
+@SUB-SECTOR: Shinkan SECTOR: Core
+#
+# Trade routes within the subsector
+$2901 3040 0 -1
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Erani         2501 B000699-B    Na Ni As           100 Im
+Gigi          2503 E000000-0    As Ba              004 Ba
+Ninnund       2507 A98669B-9    Ag Ni Ri           410 Im
+Gasa Kuu      2602 B444200-8    Lo                 201 Im
+Arunde        2603 EAAA231-7    Lo Fl Wa           903 Im
+Margish Liir  2606 C347241-A    Lo                 805 Im
+Duur          2608 B55737A-6    Lo                 513 Im
+Bambe         2609 C599300-B    Lo                 713 Im
+Kerliar       2610 C5949BG-7    In Hi              605 Im
+Derku         2703 C610A9E-A    Hi Na In           303 Im
+Uundiirshiikis2705 E356000-0    Ba                 001 Ba
+Sinmig        2706 C364451-A    Lo                 214 Im
+Kalanaauud    2707 E525000-0    Ba                 000 Ba
+Kimvle        2709 A000669-C  N Na Ni As           503 Im
+Gekhuu        2802 B678555-8    Ag Ni              825 Im
+Kersi Am      2803 B427568-B    Ni                 404 Im
+Ishnuunar     2904 E572535-3    Ni                 220 Im
+Damki Im      2906 B200ABG-9    Na In Hi Va        903 Im
+Shusa Liishli 2910 E211000-0    Ic Ba              023 Ba
+Isuur         3002 C344300-7    Lo                 920 Im
+Iidsha        3003 E665000-0    Ba                 010 Ba
+Aarza Kand    3005 C304645-8    Ni Va Ic           822 Im
+Mim           3008 A400466-B    Lo Va              201 Im
+Edza          3101 E73A000-0    Wa Ba              004 Ba
+Gar           3103 B43968B-B    Ni                 514 Im
+Aadkha Na     3104 E200120-6    Lo Va              431 Im
+Kir           3105 C300542-B    Ni Va              910 Im
+Uumuurler     3106 B425222-9    Lo                 803 Im
+Maain         3203 D668530-4    Ag Ni              611 Im
+Iidshuu       3205 C765356-6    Lo                 313 Im
+Dim           3206 D646269-6    Lo                 904 Im
+Imkhag Guu    3207 C56736A-4    Lo                 700 Im
+Agduu         3208 E400000-0    Va Ba              004 Ba
+Kamnakiiaar   3210 A96545A-A    Lo                 405 Im

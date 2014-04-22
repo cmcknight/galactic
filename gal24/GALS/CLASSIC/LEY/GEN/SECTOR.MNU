@@ -1,0 +1,11 @@
+@dir=gals\classic\ley\gen
+@Light Yellow
+
+Ley Sector / General Information
+
+@Light Cyan
+      Sector Data                  @..\map\data.mnu
+      Credits                      @..\credits.txt
+
+      Introduction                 @intro.txt
+

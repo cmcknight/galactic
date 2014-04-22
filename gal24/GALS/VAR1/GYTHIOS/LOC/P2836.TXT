@@ -1,0 +1,20 @@
+Derelict
+Subsector: Idhra
+Sector: Gythios Sector
+Coordinates: 2836 (P0406)
+
+This parsec is empty, except for a warship which misjumped here
+several years back. It was during an attack from Gresson's Worlds
+against the Ionian Republic, and during the battle, the fleet was
+forced with withdraw. Unfortunately, their main carrier didn't
+make it, and was presumed lost. The admiral in charge of the
+expedition realized that because of the proximity of the
+nebula, she couldn't communicate home, so he sent a plea for
+assistance to the nearest neutral star system, the ordered her
+crew into cold sleep. Somehow, Ionian agents found out about the
+communique, and an Ionian taskforce has claimed salvage rights
+and evacuated the crew for interrogation. The drives are so
+badly mangled, however, that it is unlikely that the vessel will
+ever jump again, so only the most valuable components are being
+taken.
+

@@ -1,0 +1,45 @@
+@SUB-SECTOR: Sword Worlds   SECTOR: Spinward Marches
+#
+# Trade routes within the subsector
+$0921 0922 0 0 14
+$0922 1424 0 0 14
+$0927 1524 0 0 14
+$1522 1526 0 0 14
+$1526 1329 0 0
+$1329 0930 0 0
+$1123 1221 0 0 14
+$1221 1121 0 0 14
+$1526 1824 1 0
+$0930 0732 -1 1
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Hrunting      0921 B463747-9  M Ri                 313 Sw
+Tizon         0922 B386887-A  M Ri                 323 Sw
+Narsil        0927 B574A55-A  M Hi In              224 Sw
+Flammarion    0930 A623514-B  B Ni Po              710 Im
+Colada        1022 B364685-B  M Ag Ni Ri        A  211 Sw
+Anduril       1026 B985855-B  M Ri                 222 Sw
+Mjolnir       1121 B530544-A  M Ni Po De           522 Sw
+Joyeuse       1123 B464778-A  M Ag Ri           A  201 Sw
+Orcrist       1126 B8A6733-A  M Fl                 401 Sw
+Enos          1130 E25059B-4  M Ni Po De           710 Sw
+Gungnir       1221 B444779-8  M Ag                 432 Sw
+Gram          1223 A895957-B  M Hi In Cp           603 Sw
+Excalibur     1225 B324755-A  M                    402 Sw
+Tyrfing       1324 B637735-A  M                    701 Sw
+Sacnoth       1325 B775956-C  M Hi In              801 Sw
+Caladbolg     1329 B365776-A  S Ag Ri              710 Im
+Beater        1424 B685686-A  M Ag Ni Ri           610 Sw
+Gunn          1429 E344110-8    Lo Ni           A  602 Im
+Caliburn      1430 E000514-A    Ni As              924 Im
+Dyrnwyn       1522 B958412-A  M Ni                 201 Sw
+Durendal      1523 B687334-B  M Lo Ni              714 Sw
+Hofud         1524 B666553-A  M Ag Ni              501 Sw
+Sting         1525 B645896-A  M                    302 Sw
+Biter         1526 B354623-A  M Ag Ni              301 Sw
+Steel         1529 E655000-7    Lo Ni Ba           324 Sw
+Iron          1626 E529000-9    Lo Ni Ba           714 Sw
+Bronze        1627 E201000-9    Lo Ni Va Ic Ba     510 Sw
+Mithril       1628 E568000-7    Lo Ni Ba           301 Sw

@@ -1,0 +1,15 @@
+Chernozem BA85984-9
+Starport: Good                  Size: Large (15200-16800 km)
+Atmosphere: Dense               Hydrographics: 50% water
+Population: 2 billion           Govt: Civil Service Bureaucracy
+Law Level: Moderate             Technology: Early Stellar
+
+Chernozem is the last remaining Bootean world that maintained acapability
+to construct new space hulls (but not starships). Primarily a world of
+merchants, Chernozem has over the last couple of decades amassed a
+considerable system defense force. This has made the main world safe from
+pirate raids, but the merchant fleet is still being slowly depleted by
+pirates. So far, the Chernozem merchants have been able to replace their
+losses by purchasing new starship components from the Terran Republic, but
+the director of the Bureau of Defense wants to take a more aggressive tact
+against the pirate threat.

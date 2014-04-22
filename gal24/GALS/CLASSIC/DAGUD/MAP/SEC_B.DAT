@@ -1,0 +1,40 @@
+@SUB-SECTOR: Old Suns   SECTOR: dagudash.sec
+#
+# Trade routes within the subsector
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Ediishudir    0901 A9B0642-C  N Ni De              604 St 
+Amnuus        0902 DAAA745-8    Fl Wa              120 St
+Lenkaa        0904 D403266-A    Lo Ni Va Ic        904 St
+Uushagkir     0905 C552369-A    Lo Ni Po           704 St
+Gvadh         0906 B867730-B    Ag                 103 St
+Shukain       0909 C6B1689-6  S Ni Fl              422 Li
+Luuar         0910 C653362-8  S Lo Ni Po           622 Li
+Ikiir         1004 A5A4304-F  N Lo Ni Fl           810 St
+Birkhi        1005 A2378A7-C                       505 St
+Adaim         1007 B227448-A  N Ni                 601 Li
+Shurkikhi     1010 B527485-9    Ni                 621 Li
+Ekuu          1102 D4467B9-9  S Ag                 402 St
+Kadgishbur    1105 D140358-A    Lo Ni Po De        601 St
+Ha'arn        1107 D220236-9    Lo Ni Po De        804 Li
+Asashluu      1108 B8B6534-B  S Ni Fl              102 Li
+Kii'kii       1110 C743376-9  S Lo Ni Po           110 Li
+Miam          1202 A567369-D    Lo Ni              204 St
+Ziruushda     1204 A977377-A    Lo Ni           A  400 St
+Mirkigii      1206 B21067B-C  N Na Ni              903 Li
+Imau          1207 A564233-C  N Lo Ni              502 Li
+Gurgesku      1208 B5A4779-D    Fl                 113 Li
+Degushush     1302 C9C58AB-B    Fl                 402 St
+Misir         1401 D425699-A    Ni                 925 St
+.             1402 D69799A-A  S Hi In              203 St
+Shidu         1406 C365535-A  S Ag Ni              814 Li
+Imgaa         1409 A769762-B    Ri                 824 Li
+Giinashkhid   1502 D9B6957-A  S Fl Hi              314 St
+Dardua        1503 C667013-A    Lo Ni              104 St
+Kimalad       1506 A7859CB-E    Hi                 603 Li
+Bastion       1507 B957000-A    Lo Ni Ba        A  200 Li
+Kiuur         1602 C435420-8    Ni              A  605 St
+Aam           1604 C562224-A    Lo Ni              403 Li
+Dardua        1605 C350688-8    Ni Po De           323 Li

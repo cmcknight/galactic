@@ -1,0 +1,43 @@
+#--------1---------2---------3
+#PlanetName   Loc. Star(s)
+#----------   ---- --------
+@SUB-SECTOR: Saregon SECTOR: Core
+Mie Uur       2532 
+Mid           2534 
+Duunpigamuur  2536 
+Duuind        2538 
+Uumda         2540 
+Uurkuumluu    2631 
+Arvlaa Gam    2635 
+Vled          2636 
+Suuashuur     2639 
+Dishadshii    2640 M1 V
+Miip          2731 
+Uurkhir       2732 
+Gaen Luum     2736 
+Sinad         2832 M4 V M5 D
+Khuir         2836 
+Igla          2837 M2 V M9 D
+Gaeshme       2839 
+Gumir Gaeg    2840 
+Dinenruum     2931 
+Ganad         2933 M0 V
+Dishe         2934 
+Amuur Keiir   2935 
+Saregon       2936 M3 V M6 D
+Uurigger      2937 
+Shakiiga      2938 K4 V
+Ashmelam      3033 
+Iishaanka     3034 
+Lashupii      3037 
+Kiiguuga      3039 
+Unlakhar      3040 K3 V
+Ashga         3131 
+Kiir          3132 
+Nin           3133 
+Arla          3135 
+Iimdii        3137 
+Kerumirgaa    3140 
+Gau           3234 
+Daii          3235 
+Luushdeam     3238 

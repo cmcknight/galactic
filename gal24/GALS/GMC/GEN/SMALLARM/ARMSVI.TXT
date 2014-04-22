@@ -1,0 +1,31 @@
+Armstrong MkVI Revolver
+
+The Armstrong MkVI revolver is a popular shipboard security weapon. It fires
+either a 9mm full charge caseless ball or reduced charge cassless HEAP round
+from a 6 round cylinder. The MkVI is a standard top break single and double
+action revolver, featuring a decocking lever allowing the weapon to be
+carried safely with the hammer resting on a loaded chamber. When using the
+HEAP round the weapon can be regarded as a low recoil weapon for zero-g
+combat. Unlike many revolvers the MkVI does not feature a removable cylinder
+for quick reloading and therefore the cylinders must be reloaded whilst still
+in the weapon. To assist in loading, a 'speedloader' has been developed. This
+is a simple mechanical device holding 6 rounds, which can then be inserted
+into the cylinder in one action. The speedloaders themselves have no
+effective mass, but they are somewhat bulky when loaded with ammunition.
+
+Weapon: Armstrong MkVI revolver
+Action: Single/Double mechanical - singleshot
+Ignition: Percussion
+Tech Level: 10
+Calibre: 9mm Armstrong caseless (Ball or HEAP)
+Penetration: 3, HEAP: 4
+Range: very short
+Malfunction: reliable
+Shots: 6
+Mass: 0.7kg
+Reloads: 0.05kg
+Length: 19.9cm
+Cost: Cr 120
+Incidentals: 6 rounds ball: Cr 1 (0.05Kg)
+             6 rounds HEAP: Cr 10 (0.05kg)
+             6 round speedloader: Cr 3 (0.0Kg)

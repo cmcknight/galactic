@@ -1,0 +1,164 @@
+Imperial Collage of Heralds, Information Division
+Document NJR-3121/7
+001-2370T
+
+Warships of the Magellanic Empire
+The Terran Magellanic Empire maintains many different types of space going
+vessels to fulfil a diverse range of functions. Amongst these are many vessels
+with the primary purpose of waging war. These warships are found in either the
+Imperial Magellanic Navy or the Imperial Magellanic Scout Corp.
+
+The Imperial Magellanic Navy
+The Imperial decree which established the Imperial Navy in 2214T has this to
+say on the role of the Navy: "The Magellanic Division of the Imperial Terran
+Navy is charged with defending the borders and interests of The Magellanic
+Territories of the Terran Empire as directed by the Emperor or Empress or his
+or her duly appointed representative; and rendering such assistance to the
+civil administration of the said Territories as shall be required of it,
+without endangering its primary role of defence of the realm". The decree also
+prohibits current serving or reserve military personnel from holding the
+positions of either Seneschal of Defence or Deputy Seneschal of Defence for
+the Navy, thus establishing the principle of civilian control of the Navy.
+
+Administratively the Navy is organised into named stations (such as the Rift
+Station) and the central bureaus (such as the Construction and Design Bureau).
+Each station is responsible for the day to day administration of the naval
+assets in it's four subsectors, such as training, payroll, recruiting,
+maintenance of vessels, control of naval bases etc. The various central
+bureaus are responsible for long term planning and control.
+
+Tactically the Navy is divided into numbered squadrons (with the exception of
+the named King Charles III Squadron). These squadrons are consist of a number
+of homogenous main force ships (ships of the line or frigates) and their
+supporting vessels. The King Charles III Squadron is an exception to this,
+consisting of a heterogenous mix of main force ships and supporting vessels.
+In peacetime these squadrons are allocated to a station or to the Grand Fleet,
+which controls their deployment. In peace each station will have one or two
+regular squadrons and between one to five Diadochi squadrons allocated to it.
+The Grand Fleet acts as a central reserve to meet emergencies; and usually
+consists of two regular squadrons (one of which will be the King Charles III
+Squadron) and three to five Diadochi squadrons.
+
+In wartime each station produces a numbered Fleet. These fleets are not tied
+to the station, but can be deployed independently as required. Squadrons are
+attached to the fleets and the fleets then control the deployment of them. The
+stations continue to have a small number of squadrons attached to maintain a
+presence and meet crisis's. These will generally be lower tech second line
+Diadochi units, as the first line units are deployed to war fronts (however
+there are exceptions, it would be hard to envision the Mwoah March Station
+without at least one first line squadron).
+
+Squadrons
+Currently the navy maintains three types of squadrons: line squadrons based
+around ships of the line; frigate squadrons based around frigates; and
+particular service squadrons which are temporary units formed for a specific
+mission and comprise such ships as are required to achieve that mission.
+Currently the Navy has eight line squadrons, three frigate squadrons, one
+particular service squadron, and the King Charles III Squadron (which is best
+regarded as a combined line and frigate squadron). The particular service
+squadron is the Querad Squadron, which controls the ships based in the Querad
+Union according to the Treaty of Hakkon. The Querad Squadron is not a
+permanent formation and draws it personnel from the regular squadrons on a
+temporary basis.
+
+Carriers are an exception to the above rule, in that they are not organised
+into squadrons but task forces. Each carrier task force generally comprises
+one carrier (occasionally two) and a small number of escorting corvettes. The
+Navy currently has one carrier task force.
+
+The Imperial Magellanic Scout Corp
+The IMSC was established by Viceroy Robert III in 1331T from the remnants of
+the old Imperial Terran Scout Service which had remained in the Cloud after
+the collapse of the wormhole at Breakout. The IMSC became an organ of the
+Magellanic Empire from its very inception in 2127T and was indeed instrumental
+in shaping the circumstances which lead to its creation. The primary roles of
+the IMSC are to maintain communications between the worlds of the Empire and
+to explore new territory. To fulfil these roles the IMSC maintains a large
+fleet of space faring vessels ranging from 10 ton life boats to 12,000 ton
+ships of the line.
+
+All the vessels of the IMSC are placed under the control of the Scout Fleet of
+the Operations Office. The Scout Fleet is responsible for the administration
+of all IMSC vessels. Scout vessels may be crewed by personnel not assigned to
+the Scout Fleet, but the vessels themselves still belong to the Scout Fleet
+even when assigned to support another branch.
+
+As part of its role in maintaining communications within the Empire, the IMSC
+has the responsibility for keep the spacelanes free of piracy and lawlessness.
+The Patrol Service of the Communications Office is the IMSC branch which
+fulfils this function. To achieve this mission, the Patrol Service is assigned
+a large number of warships. Most of these are smaller escort ships ranging
+from 200 ton sloops to 1,200 ton corvettes, but the service does have at its
+disposal a small number of larger ships up to frigate size. The Patrol Service
+can (and does) call upon the Navy to support its operations if required.
+During wartime the Patrol Service is placed under the operational control of
+the Navy and is generally heavily reinforced by IMSC, Imperial Navy and
+Diadochi ships. The Communications Office also operates the Imperial Courier
+Service which transports mail and Imperial goods and personnel throughout the
+Empire. The Imperial Courier Service also has at its disposal many ships.
+Generally these will be smaller 100 ton to 300 ton couriers.
+
+The Survey Office and the Exploration Office also have at their disposal a
+large number of diverse ships. These range from 100 ton scouts to 12,000 ton
+ships of the line. In peacetime these ships will carry out their normal
+non-military duties of exploration and mapping, but in wartime their regular
+duties are scaled down and their ships made available to the Patrol Service
+and the Navy.
+
+Warships
+	Ships of the line
+Ships of the line are large ships designed to defeat other ships in battle.
+They are divided into three "rates" (1st to 3rd) depending on their size and
+armament. First rate's are armed with a spinal neutral particle accelerator
+or spinal meson accelerator; whilst the second and third rates are armed with
+missile bays.
+
+	Frigates
+Smaller ships designed primarily for strike and scouting. They are built
+around a main armament of missile bays and are capable of limited use in the
+line of battle. Like Ships of the line they are divided into rates (4th and
+5th) depending on size and armament. These ships are often employed as
+commerce raiders during wartime.
+
+	Carriers
+Carriers are large ships (about the size of a 2nd or 3rd rate) designed to
+carry fighters into battle. Their primary armament are their fighters, but
+they also carry a large number of missile and energy weapons to provide fire
+support for surface forces. Their armament also usually includes a single
+neutral particle accelerator for use against vacuum worlds. Carriers
+themselves make poor combat ships due to the trade offs required to carry a
+useful number of fighters, but their compliment of fighters, large size and
+good endurance make them excellent deep penetration raiders and support ships
+for surface forces.
+
+	Corvettes
+Large escorts which screen the line of battle. Corvettes are classified as
+6th rate ships. Corvettes are mostly armed with missiles but lack the staying
+power of a frigate. They are capable of limited strike and scouting roles, but
+can not stand in the line of battle. In battle they are employed to counter
+enemy small craft, cover the reserve and to finish off crippled vessels.
+
+	Sloops
+Smaller escorts designed for patrol duties. Sloops are considered to be of the
+7th rate. Their small size and limited armament make them unsuitable for
+employment in battle. These ships make up the backbone of the IMSC's Patrol
+Service, but are rare in the Navy during peacetime.
+
+	Couriers and Scouts
+These are the smallest warships (100 tons to 200 tons), but one of the most
+vital. Their role is to maintain communications by carrying messages and vital
+freight and personnel. Built around the largest jump drive available, armed
+strictly for self defence and usually unescorted, their usual response to
+enemy ships will be a hasty jump out of system.
+
+	Fighters
+These are non-jump capable space craft designed for combat roles. Their
+primary roles are firstly to provide interface support for surface forces,
+and secondly to engage enemy small craft in space combat. Almost invariably
+their primary and often sole weapon is a single missile mount.
+
+	Transports and Freighters
+These unglamorous but high value ships are designed to carry equipment and
+personnel between worlds. They are generally large (8,000 tons to 20,000 tons)
+and capable of making planet fall. Slow, poorly armed and armoured, they
+require escorts to stand up to enemy warships.

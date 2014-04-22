@@ -1,0 +1,34 @@
+Liaw C5687T9-5
+
+Starport: Routine           Size: Medium (7200-8800 km)
+Atmosphere: Standard        Hydrographics: 80% water
+Population: 20 million      Govt: Totalitarian Oligarchy
+Law Level: High             Technology: Industrial
+             
+	In pre-Rebellion times, Liaw was basically a huge agricultural exploitation
+owned by a mid-sized corporation, Garunda Trading, controlled by the Vilani
+megacorporation Zirunkariish. This corporation owned or controlled a number
+of agricultural worlds throughout Massilia, including e.g. Tanny (Shokee
+subsector, 1238). In the huge corporate asset exchange of 1121, Garunda
+Trading control was transferred to Hortalez et Cie. Later, in Hard Times,
+the world received hundreds of thousands of refugees from other worlds of
+the subsector, notably from Forquee and Udipeni.
+	When the Virus reached Liaw, most of the automated agricultural
+exploitations were left in complete chaos, as automated harvesters started
+chasing humans. The orbital complex, which combined starport facilities and
+a naval base, re-entered atmosphere after being taken over by a suicidal
+strain of Virus.
+	But Liaw's population was low, resources high, and TL was only 9, so Virus
+was unable to cause long term trouble. Population actually recovered beyond
+the original levels after some decades of isolation.
+	Nowadays, Liaw is governed by the Survival Committee, an oppressive
+minority descended from a mixture of corporate Hortalez and Cie executive
+officers and Margaret's Navy officers. The Committee maintains power by use
+of recovered TL-9 technology. The starport (which is downport only) is the
+base of three SDBs, which have been used more often to land in rebel cities
+as a show of strength than to actually patrol the system.
+	Remarkably, one quarter of the population is comprised by Geonee, but no
+Geonee has never formed part of the Committee. Several Geonee technicians
+have been executed in the last decade, charged with treason.
+
+by Carlos Alos-Ferrer (Alos@merlin.fae.ua.es)

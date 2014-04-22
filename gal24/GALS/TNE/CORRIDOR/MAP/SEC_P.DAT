@@ -1,0 +1,52 @@
+@SUB-SECTOR: sec_P   SECTOR: corridor
+#
+# Trade routes within the subsector
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Zendiisica    2534 X400000-0    Ba Va              023 --
+Desolation    2535 X470000-0    Ba De              001 --
+Sorrock       2536 X300000-0    Ba Va              020 --
+Nowbee        2537 X552755-5    Po              B  723 Wi
+Riyten        2538 X6A2000-0    Fl Ba              024 --
+Ression       2540 X400000-0    Ba Va              023 --
+Umaraag       2631 X469886-7    C:6                533 Wi     f
+Sumeszu       2632 X100000-0    Ba Va              010 --
+Tant          2634 X573444-7    Lo Ni              301 Wi
+Conn          2636 X472669-4    Ni              B  102 Wi
+Sintoshee     2640 X65676C-2    Ag              B  603 Wi
+Kanorb        2733 X47377B-4                    B  224 Wi     f
+Nart-roft     2735 X5758A9-5                    B  824 Wi
+Viewday       2738 X673302-2    Lo Ni              401 Wi
+Tatsnank Defu 2740 X561210-2    Lo Ni           B  422 Wi
+Radical       2831 D559449-7    Lo Ni              510 Wi
+Starting      2833 X130000-0    Ba Po De           023 --
+Igudi         2836 E586644-0    Ag Ni           B  814 Wi     f
+Sepstar       2837 D568488-7    Lo Ni              220 Wi
+Ecktars Eckto 2932 X589233-5    Lo Ni              522 Wi
+Sashrakusha   2933 XAB4000-0    Fl Ba              001 --
+Yull-jettii   2934 D86A000-7    Lo Ni Wa           423 Wi
+Trickster     2935 X120000-0    Ba Po De           024 --
+Hendrick      2937 X320000-0    Ba Po De           014 --
+United        2940 X66A631-4    Ni Wa           B  110 Wi
+Stagers       3032 X446201-5    Lo Ni              424 Wi
+Sinist III    3033 X326000-0    Ba                 010 --
+Dialreck      3036 D5858CF-5  N                 B  710 Wi
+Yur Hur Ged   3038 X211000-0    Ba Ic              020 --
+Prefostered   3039 X420000-0    Ba Po De           024 --
+Shishashu     3040 X312000-0    Ba Ic              022 --
+Xapoqoz       3131 X853777-2    Po              B  401 Wi
+Unikeejaf     3132 E768556-4    Ag Ni           B  102 Wi
+Cafad         3135 X666542-5    Ag Ni              210 Wi     f
+Wenty-ruu     3136 X201000-0    Ba Va Ic           001 --
+Idanchy       3137 E789322-7    Lo Ni              203 Wi
+Yigh          3138 E999677-6    Ni              B  520 Wi
+Mappeh        3139 X997767-4    Ag              B  724 Wi
+Creading      3140 X66A447-3    Lo Ni Wa           301 Wi
+Pink Sky      3231 X474558-3    Ag Ni              101 Wi
+Above         3232 X726000-0    Ba                 003 --
+Seshotinam    3234 X200000-0    Ba Va              023 --
+Sharkhagu     3235 X341476-4    Lo Ni Po           301 Wi
+Lesha         3238 X988100-2    Lo Ni           B  122 Wi
+Palama        3240 X597103-6    Lo Ni              301 Wi     f

@@ -1,0 +1,22 @@
+@SUB-SECTOR: sec_O   SECTOR: trojan
+#
+# Trade routes within the subsector
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Wesiyeah      1731 D6412M9-9    Lo Ni Po           823 As
+Aiwewakh      1733 BA961G3-D    Lo Ni              404 As
+Ohraihah      1734 E8B67J7-8    Fl                 124 As
+Ayayo         1735 C0006H4-D    Na Ni As An     B  820 As
+Feaheaha      1736 E3012G8-9    Lo Ni Va Ic        200 As
+Afeakter      1835 A69A7NA-C  U Wa                 114 As
+Ralaiw        1931 B4205M4-D    Ni Po De           422 As
+Ereah         1933 B67A3G9-E    Lo Ni Wa           531 As
+Hewekho       2133 E1007KA-7    Na Va              923 As
+Airliweiw     2134 D3676HB-A    C:6 Ag Ni Ri    B  513 As
+Tisilli       2137 B78A945-A  R Hi Wa              804 Na
+Khtiyrio      2232 DA887KA-B  R Ag Ri              222 As
+Eaohfose      2233 B6736L7-B  T Ni Tp              105 A5
+Gikarlum      2234 B110687-9    Na Ni              114 Na
+Burgess       2332 B796633-7    Ag Ni Tp           703 As

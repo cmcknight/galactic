@@ -1,0 +1,23 @@
+
+[Q] What was new in version 2.1 of the program?
+
+[A] With the 2.1 upgrade, I concentrated mainly on bug fixes
+and various subtle improvements while at the same time adding
+as many world descriptions as I could easily find. Here's the
+main stuff:
+
+  * Aside from red/amber zones, blue zones are now possible
+  * Govt definitions separated into a user-modifiable data file
+  * Population code interpretation routine fixed
+  * Several sector construction menus redesigned for easier use
+  * Option added for generating completely unsettled sectors
+  * Configuration options incorporated directly into main menu
+  * Jump route table separated into user-modifiable data file
+  * Enabled the user to control the color of the jump routes
+  * Developed an interactive world editor
+  * Added several world write-ups from the RICE archives
+  * Added Gushemege Sector from David Burden's HIWG archive
+  * Added a one-sector TNE galaxy put together by Lewis Roberts
+  * Added Paul Dale's "Shadows" adventure (Spinward Marches/1510)
+  * Added a history for the Variant-1 Galaxy
+

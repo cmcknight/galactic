@@ -1,0 +1,9 @@
+@dir=gals\gmc\newlands\gen
+@Light Yellow
+
+Newlands / General Information
+
+@Light Cyan
+      Credits                                  @..\credits.txt
+      Sector Data                              @..\map\data.mnu
+      Newlands Sector                          @newlands.txt

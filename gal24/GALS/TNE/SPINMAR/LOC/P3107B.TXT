@@ -1,0 +1,32 @@
+System Details
+
+Primary F8V
+ Orbit  Name          UPP     Satellite Orbit  Satellite UPP
+   1   Yilla       X900000-0
+   2   Damion      X100000-0
+   3   Gregor      X100000-0
+   4   Aeron       X564000-0
+   5   Zenthra       LGG
+        Diamond Ring                 6          R000000-0
+        Gennifer                    12          X100000-0
+        Lewis                       15          X427344-8
+        Hunter                      40          X770000-0
+        Artemis                     45          X468000-0
+        Aimee                       55          X799000-0
+   6   Barkenoff   X859000-0
+   7   Dwight      X535000-0
+        Davros                        5          XR00000-0
+   8   Firefly     X452000-0
+        Shadows                       8          X132000-0
+        Ember                        30          XS00000-0
+        Grunt                        40          X140000-0
+   9   Dale        X665000-0
+  10   Megalith    XA8A000-0
+        Rhodes                        4          XS00000-0
+        Donkey                        5          XS00000-0
+        Czarina                       8          XS00000-0
+
+   Note: While Artemis looks like an attractive world from the UPP, it is
+   far from it. It is currently undergoing severe vulcanism. This makes
+   the planet extremely dangerous.
+ 

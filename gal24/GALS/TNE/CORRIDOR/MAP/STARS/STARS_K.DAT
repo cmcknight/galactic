@@ -1,0 +1,9 @@
+@SUB-SECTOR: stars_K   SECTOR: corridor
+#
+# Trade routes within the subsector
+#
+#--------1---------2---------3
+#PlanetName   Loc. Stars(s)
+#----------   ---- ---------
+Rill          1923 M9 V K0 D
+Atu'l         2121 G8 III M3 V

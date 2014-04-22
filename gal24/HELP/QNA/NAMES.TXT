@@ -1,0 +1,24 @@
+
+[Q] What am I supposed to do when the files in the data\names
+directory run out of names for me to use during automatic sector
+generation?
+
+[A] The original versions of these files are available in
+data\names\old, so you can just copy those over. If, however,
+you want to insert new names into one or more of these files,
+there are several random name generation programs out there.
+One of my favorites was written by Mike Harvey (mike@cs.pdx.edu),
+which, when last I checked, was available at:
+
+     ftp://ftp.cs.pdx.edu/pub/people/mike/names-1.0.zip
+
+It also looks like he's upgraded this program a bit (the new
+version has lots of command line parameters and wants the user to
+specify an "ele" file on the command line as well). This new
+version is available at:
+
+     ftp://ftp.cs.pdx.edu/pub/people/mike/names201.zip
+
+Make sure you specify the "-d" option when you unzip either of
+these two programs.
+

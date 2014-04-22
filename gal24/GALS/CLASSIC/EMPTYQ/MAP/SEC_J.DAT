@@ -1,0 +1,27 @@
+@SUB-SECTOR: sec_J   SECTOR: emptyq
+#
+# Trade routes within the subsector
+#
+$1230 1233 0 1
+$1328 1230 0 0
+$1328 1529 0 0
+$1529 1930 1 0
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Kurayoshi     1030 C8B07A9-F    De RsA          A  304 Im
+Diefenbaker   1129 A210522-C    Ni                 404 Im
+Arabia        1130 D648443-5  S Lo Ni              310 Im
+Tarascon      1228 B774567-B    Ag Ni O:1328       523 Im
+Sio'mawasi    1229 C7C0874-6  S De Sw              805 Im
+Narada        1230 A757744-7    Ag                 702 Im
+Yamaguchi     1326 B433214-A    Lo Ni Po           510 Im
+Aswan         1328 A420432-B    Lo Ni Po De Cp     803 Im
+Listualro     1329 C443320-6    Lo Ni Po           823 Im
+Chisholm      1427 B84A212-8    Lo Ni Wa           603 Im
+Kitayushu     1429 C501203-7    Lo Ni Va Ic        603 Im
+Goto Retto    1430 E8A6563-6    Ni Fl O:1328       804 Im
+Cobweb Station1527 A774334-8    Lo Ni              914 Im
+Dotilla       1529 B140644-8    Ni Po De           905 Im
+Starsky       1530 E338686-8    Ni                 214 Im

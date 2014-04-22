@@ -1,0 +1,39 @@
+@SUB-SECTOR: sec_c   SECTOR: Spica
+# 
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Trivia        1601 X201000-0    Ba Va Ic           000 Un
+Rippel        1604 X8435N5-3    Ni Po           B  100 Wi
+Pugeot        1605 E4425U9-4    Ni Po           B  100 Wi
+Xoar Delta    1607 D311764-5    Na Ic Nh O:2003 A  700 Xh
+Nightshield   1702 X201000-0    Ba Va Ic           003 Un
+Gronin        1705 E8846N2-6    Ag Ni St        B  810 Wi
+(Skull Hills) 1706 X7A09V8-6    Hi De           B  104 Wi
+Storewell     1802 X520000-0    Ba Po De           003 Un
+Xoar Beta     1805 E310362-4    Lo Ni Nh O:2003 A  600 Xh
+Dobson Parish 1901 D8768RA-3                    B  213 Wi
+Xoar Alpha    1904 X411863-5    Na Ic Nh O:2003 A  120 Xh
+Ringwald      1905 X722000-0    Ba Po              000 Un
+Padre         1906 X330000-0    Ba Po De           000 Un
+Wemutta       1907 X6588RA-0    Hp              B  420 Wi
+Xoar Gamma    1909 D311861-4    Na Ic Nh O:2003 A  600 Xh
+Ceril         1910 X200000-0    Ba Va              010 Un
+Liam          2002 X899000-0    Ba                 002 Un
+Tyrolia       2003 A41199B-C    Na Hi In Ic Nh     703 Xh
+Nugent        2010 X431000-0    Ba Po              004 Un
+Strictland    2103 X5507RB-6    Po De           B  103 Wi
+Malley        2105 D6608S8-4    De              B  102 Wi
+(Good Place)  2109 C6A5731-7    Fl Nh              614 Xh
+Spica         2205 D7556TC-5    Ag Ni           B  704 Wi
+Faller        2207 D5577SA-4    Ag Hp           B  113 Wi
+Stewart       2306 B49A7RC-7    Wa                 111 Wi
+Spyral        2307 D4567VB-8    Ag Hp              803 Wi
+Term Tukera   2310 X6A2000-0    Fl Ba              004 Un
+Apollo        2401 X523000-0    Ba Po              004 Un
+Port Manatee  2404 X79A1M2-7    Lo Ni Wa           314 Wi
+Mandayyay     2405 X6413RA-5    Lo Ni Po           304 Wi
+Wycliff       2406 X4403RA-0    Lo Ni Po De        230 Wi
+Abbott        2407 X6657R7-5    H:0 Ag Hn       B  705 Wi
+Wunderkind    2410 X4512O2-6    Lo Ni Po           112 Wi

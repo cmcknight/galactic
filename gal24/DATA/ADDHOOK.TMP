@@ -1,0 +1,7 @@
+Text Sector Map:
+P        - 80 pe Empire
+T        - 84 pe Turn
+
+Subsector Map:
+P        - 80 pe World <subfilepath> <coord>               1
+

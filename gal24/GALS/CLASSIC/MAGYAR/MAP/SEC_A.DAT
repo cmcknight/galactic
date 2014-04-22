@@ -1,0 +1,51 @@
+@SUB-SECTOR: sec_A   SECTOR: magyar
+#
+# Trade routes within the subsector
+$0102 0203 0 0
+$0105 0205 0 0
+$0203 0205 0 0
+$0203 0601 0 0
+$0203 0505 0 0
+$0409 0211 0 1
+$0505 0805 0 0
+$0805 0903 1 0
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Oasis         0102 B5507A9-A  W De Po              104 So
+Pity          0104 C301200-E    Ic Lo Ni Va        901 So
+Reynold       0105 C101899-C    Ic Na Va           811 Re
+Vala's World  0106 D550210-7    De Lo Ni Po        904 So
+Wu            0203 B66A99A-E  A Cp Xb Hi Wa        203 Wu
+Clan          0205 B340988-E  N De Hi In Po        804 So
+Spit          0208 C550846-A    De Po              803 So
+Merak         0210 C62187B-A    Na Po              305 So
+Placid        0303 B445433-C    Ni                 514 So
+Veller        0305 E246468-A    Ni                 203 Re
+Tamroff       0308 E775302-9    Lo Ni              920 So
+Rudikk        0309 E301720-A    Ic Na Va           304 So
+Carn          0310 C4306AA-C    De Na Ni Po        203 So
+Downfall      0403 C547100-C    Lo Ni              204 So
+Oyama         0404 B550565-C    De Ni Po           703 Wu
+Brandon       0409 A645555-E    Ag Ni              920 So
+Fairbairn     0502 E550210-7    De Lo Ni Po        621 So
+New Sol       0503 X501956-6    Hi Ic In Na Va     220 So
+Greenvald     0504 B864695-A  W Ag Ni Ri           600 So
+Holywell      0505 B7B9432-E    Fl Ni              603 So
+Redden        0509 C354110-A    Lo Ni              414 So
+Sharn         0601 A7568BG-D                       200 Sh
+Yamashita     0602 E000535-C    As Ni              711 So
+Dillman       0605 A983025-D  W Lo Ni              513 So
+David's Drop  0608 E7B9445-9    Fl Ni              501 So
+Trikak        0701 C374867-A                       905 Sh
+Justin        0703 D210547-9    Ni                 720 So
+Zilla         0705 E467556-A    Ag Ni              303 So
+Bindas        0707 E550534-8    De Ni Po           905 So
+Icolka        0708 B997520-C  N Ag Ni              100 So
+Yazi          0710 E550677-8    De Ni Po           900 So
+Bupaj         0804 E220267-B    De Lo Ni Po        404 De
+Deriabar      0805 C501576-B    Ic Ni Va           604 De
+Nova Dune     0807 C410227-D    Ex Lo Ni           200 Im     f
+Saratela      0808 E985513-7    Ag Ni              304 So
+Kuxald        0809 B553434-B    Ni Po              220 So

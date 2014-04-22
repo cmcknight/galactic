@@ -1,0 +1,39 @@
+@SUB-SECTOR: sec_B   SECTOR: sorted
+#
+# Trade routes within the subsector
+$1105 0704 -1 0
+$1105 1304 0 0
+$1105 1207 0 0
+$1207 1311 0 1
+$1304 1504 0 0
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Porlock       0902 C433855-9    Na Po              813 Im
+Bethe         0903 B422677-A    Na Ni Po           512 Im
+Llewellyn     0907 B20058A-D    Ni Va              522 Im
+Ganelon       0909 C430212-9    Lo Ni Po De        312 Im
+Poseidon      0910 D8AA169-D    Lo Ni Fl Wa        622 Im
+Khedish       1002 A556889-F                    A  322 Im
+Shaabipili    1007 A553875-F  N Po                 814 Im
+Coriolanus    1105 A237876-E  S                    410 Im
+Tammuz        1107 A7549A9-F    Hi                 623 Im
+Quaver        1110 A1118BC-F    Na Ic              735 Im
+Akimasi       1201 C8A5455-6    Ni Fl              212 Im
+Sase          1202 C34778B-B    Ag                 214 Im
+Biggles       1205 B236965-B    Hi                 200 Im
+Ascalon       1207 A562AAF-E  W Hi                 423 Im
+Vanefa        1304 A5639A6-F    Hi                 512 Im
+Rimmon        1306 X222000-0    Lo Ni Po Ba     A  320 So
+Gulimaru      1402 C7A678C-A    Fl                 312 Im
+Esterhazy     1404 C335420-C    Ni                 902 Im
+Azaremiid     1405 A766A72-C    Hi                 912 Im
+Catseye       1406 C222577-B    Ni Po              710 Im
+Suleiman      1504 AA6498B-F  N Hi Cp              902 Im
+Rossyg        1505 A785797-E    Ag Ri              414 Im
+Ai Jabry      1507 A7659BB-E    Hi                 920 Im
+Imarir        1510 A250877-F  N Po De              334 Im
+Dolfuss       1604 B100547-E    Ni Va              602 Im
+Madder        1607 C532430-8    Ni Po              902 Im
+Okefenokee    1609 C337868-C                    A  825 Im

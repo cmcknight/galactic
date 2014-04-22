@@ -1,0 +1,100 @@
+-----------------------------------------------------------------------
+Michael Glew - School of Math Phys Comp & Elec - Macquarie University
+-----------------------------------------------------------------------
+
+  1 2 3 4 5 A B C D E F G H I J K L M N O P Q R S T
+6 . . . . . . . . . . . . . . . . . . . . . . . . .
+7 . . . . . . . . . . . . . . . . . . . . . . . . .
+8 . . . . . . . . . . . . . . . . . . . . . . . . .
+9 . . . . . . . . . . . . . . . . . . . . . . . . .
+0 . . . . . . . . . . . . . . . . . . . . . . . . .
+a . . . . . . . . . o o . . . . . . . . . . . . . .     .  uncharted
+b . . . . . . . o o o o o o o . . . . . . . . . . .     o  charted
+c . . . . . . . o o o o o o o o o o o o o . . . . .     x  data on sunbane
+d . . . . . o o o o o o o x o o o o o o o . . . . .
+e . . . . . o o x x x x x x x o o o o o o . . . . .
+f . . . . . o o x x x x x x x o o o o o o . . . . .
+g . . . . . o o x x x x x x x o o o o o o . . . . .
+h . . . . . o o x x x x x x x o o o o o o . . . . .
+i . . . . . o o x x x x x x x o o o o o . . . . . .
+j . . . . . . . o o o o o o o o o o o o . . . . . .
+k . . . . . . . . . . . . o o o o o o o . . . . . .
+l . . . . . . . . . . . . o o o . . . . . . . . . .
+m . . . . . . . . . . . . . . . . . . . . . . . . .
+n . . . . . . . . . . . . . . . . . . . . . . . . .
+o . . . . . . . . . . . . . . . . . . . . . . . . .
+p . . . . . . . . . . . . . . . . . . . . . . . . .
+q . . . . . . . . . . . . . . . . . . . . . . . . .
+
+Sector Names
+------------
+aE      Rzakki                            gB    Touchstone
+aF      Listanaya                         gC    Riftspan Reaches
+bC      Ghoekhnael                        gD    Verge
+bD      Ksinanirz                         gE    Ilelish
+bE      Zao Kfeng Ig Grilokh              gF    Zarushagar
+bF      Knaeleng                          gG    Massilia
+bG      Kharrthon                         gH    Delphi
+bH      Oeghz Vaerrghr                    gI    Glimmerdrift Reaches
+bI      Kfazz Ghik                        gJ    Crucis Margin
+cC      Knoellighz                        gK    Kaa G!'kul
+cD      Dhuerorrg                         gL    Gzirr!k'l
+cE      Ngathksirz                        gM    K'trekreer
+cF      Fa Dzaets                         gN    Nuughe
+cG      Gzaekfueg                         gO    N!!krumbiix
+cH      Lloellerz                         hA    Ftaoiyekyu
+cI      Trenchans      (Imperial)         hB    Afawahisa
+        Rukhs Dall     (Vargr)            hC    Hlakhoi
+cJ      Ktiin'gzat                        hD    Ealiyasiyw
+cK      Mugheen't                         hE    Reaver's Deep
+cL      Grikr!ng                          hF    Daibei
+cM      Ukaarriit!!b                      hG    Diaspora
+cN      Kring Noor                        hH    The Old Expanses
+cO      Mbil!!gh                          hI    Hinterworlds
+dA      Tienspevnekr                      hJ    Leonidae
+dB      Ziafrplians                       hK    Extolian        (Imperial)
+dC      Gvurrdon                                Krurrihkugr     (K'kree)
+dD      Tuglikki                          hL    Ricenden        (Imperial)
+dE      Provence                                Gnoghikt!       (K'kree)
+dF      The Windhorn                      hM    Blaskon         (Imperial)
+dG      Meshan                                  Okteekrul       (K'kree)
+dH      Mendan                            hN    Nooq            (Imperial)
+dI      Amdukan                                 Hkimbiipam      (K'kree)
+dJ      Ingukrax                          hO    Gzektixk
+dK      Gn'hk'r                           iA    Waroatahe
+dL      Gur                               iB    Karleaya
+dM      Un'k!!k'ng                        iC    Staihaia'yo
+dN      Xaagr                             iD    Iwahfuah
+dO      Eekrookrigz                       iE    Dark Nebula
+eA      Far Frontiers                     iF    Magyar
+eB      Foreven                           iG    Solomani Rim
+eC      The Spinward Marches              iH    Alpha Crucis
+eD      Deneb                             iI    Spica
+eE      Corridor                          iJ    Phlask
+eF      Vland                             iK    Centrax
+eG      Lishun                            iL    Wrenton
+eH      Antares                           iM    Folgore
+eI      The Empty Quarter                 iN    Avereguar
+eJ      Star's End                        jC    Aktifao
+eK      Gh!hken                           jD    Uistilao
+eL      Ruupiin                           jE    Ustral Quadrant
+eM      Raakaan                           jF    Canopus
+eN      Uuk                               jG    Aldebaran
+eO      Gnaa limb'kr                      jH    Neworld
+fA      Vanguard Reaches                  jI    Langere
+fB      The Beyond                        jJ    Drakken
+fC      Trojan Reach                      jK    Lorspane
+fD      Reft Sector                       jL    Porlock
+fE      Gushemege                         jM    Kidunal
+fF      Dagudashaag                       jN    Treece
+fG      Core                              kH    Hadji
+fH      Fornast                           kI    Storr
+fI      Ley Sector                        kJ    Mikhail
+fJ      Gateway                           kK    Darret
+fK      Luretiir!girr                     kL    Ataurre
+fL      X'kug                             kM    Katoonah
+fM      Kilong                            kN    Uytal
+fN      Bar'kakr                          lH    RimReach
+fO      Mighabohk                         lI    Phlange
+gA      Iphigenaia                        lJ    Tracerie
+

@@ -1,0 +1,32 @@
+@SUB-SECTOR: sec_H   SECTOR: meshan
+#
+# Trade routes within the subsector
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Gvonuth       2513 C454204-9  C Lo Ni              200 V5
+Aeksnue       2517 C556010-8  C Lo Ni              801 V5
+Onggag        2612 E647556-5  C Ag Ni              305 V5
+Ghaekhngo     2619 B496788-9  G Ag                 900 Vo
+Ghan Ugz      2713 C257220-8    Lo Ni              221 V5
+Urrarzak      2716 B567643-5    Ag Ni Ri           504 Vo
+Diralaarpen   2718 C140622-9  H De Ni Po           124 Vo
+Gurupi        2720 D435567-7  C Ni                 403 Vo
+Fagus Agh     2815 C522343-6    Lo Ni Po           504 Vo
+Ouzudz        2818 B632663-6    Na Ni Po           324 Vo
+Shurgi        2819 A447554-E  G Ag Ni Cp           524 Vo
+Ugvu Oe       2914 C8C6453-6    Fl Ni              700 Vo
+Lizirshish    2915 C30059A-A  C Ni Va              703 Vo
+Ogkokoez      2916 C979434-9    Ni                 523 Vo
+Dharkaeng     2917 C589545-9    Ni                 404 Vo
+Ouva          2919 B567527-6    Ag Ni C6           614 Vo
+Anglir        3014 B130832-C    De Na Po           925 Vo
+Araxa         3020 A673004-A    Lo Ni              903 Va
+Ksungoz       3113 B747643-6    Ag Ni              724 Va
+Shimgugi      3116 C574110-8    Lo Ni              402 Va
+Ukfovae       3119 C8766AA-7    Ag Ni              704 Va
+Kuun          3120 C400341-7    Lo Ni Va           603 Va
+Kfuekhvu      3215 E634105-7    Lo Ni              503 Va
+Usumkii       3216 C77A8B9-8    Wa                 423 Va
+Gathitsir     3220 C876300-5  C Lo Ni              322 Va

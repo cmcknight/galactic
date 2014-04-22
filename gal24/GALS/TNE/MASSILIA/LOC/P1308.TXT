@@ -1,0 +1,18 @@
+Lattaunist X4445S6-4            
+
+Starport: None                        Size: Small (5600-7200 km)
+Atmosphere: Thin, tainted             Hydrographics: 40% water
+Population: 400,000                   Govt: Mystic Dictator
+Law Level: Moderate                   Technology: Industrial
+       
+
+Lattaunist  was an agricultural world. Most of the population
+was divided in a big city containing a starport facility, and many modern
+farms. The majority of the porpulation was Chipers who were used as
+agricultural hands. When Virus strikes, the city was nearly destroyed by a
+nuclear explosion due to the crash of a hugh freighter. Most of Humans
+where killed, so the rate of Chipers growed. No one is living in the
+wreckage of the town now.
+              
+Nicolas Lejeune (nlejeune@suresnes.marben.fr)
+

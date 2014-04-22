@@ -1,0 +1,35 @@
+@SUB-SECTOR: sec_H   SECTOR: yiklerzd
+#
+# Trade routes within the subsector
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Soliatlrizh   2512 D320420-6    De Ni Po Lo     U  420 Zh
+Qro'vepl      2516 B7C1778-A  Z Fl                 104 Zh
+Ech           2519 C4547AB-9  M Ag                 520 Na
+Dlidl         2612 C000344-9    As Lo Ni           410 Zh
+Zdoflqriaqr   2615 C655559-8    Ag Ni              100 Zh
+Vamtliaz      2617 B426652-B  Z Ni                 900 Zh     f
+Utu           2620 A5689BB-C  A Hi Cx              410 AU
+Itlfeklkrekl  2714 A988898-E  Z Ri Cp              304 Zh
+Jidrbliam     2716 D120651-A    De Na Ni Po        110 Zh
+Ssenuiku      2719 B4937X4-A  P                    703 Dr
+Zhdi'apl      2812 E573432-3    Ni Lo              603 Zh
+Pafltezhdr    2814 C333330-B    Lo Ni Po           114 Zh
+Omzhea'iazh   2815 C676433-5    Ni Lo              500 Zh
+Bepl          2817 C5848BF-4    C2                 700 Zh
+Qapriez       2819 B66A888-B  Z Ri Wa C8           304 Zh     f
+Riefshtep     2912 A5279A7-D  Z Hi In              112 Zh
+Kienzhqlied   2915 X8B0000-0    Ba De           F  001 Zh
+Fenchzhe      2919 C000767-7    As Na O:2819       512 Zh
+Blentstadl    3011 D779723-7                       621 Zh
+Chatipqi'itler3013 E351336-3    Lo Ni Po           910 Zh
+Bajchaplfrabl 3015 C40276A-9    Ic Na Va O:2714    525 Zh
+Zdich         3111 B433678-9    Na Ni Po           114 Zh
+Otedrel       3112 X798000-0    Ba              F  010 Zh
+Elshienja     3113 C57568A-5    Ag Ni              900 Zh
+Prokefriabr   3114 E4345A7-8    Ni                 503 Zh
+Tlish         3119 B464552-8  Z Ag Ni              325 Zh
+Adrdochdachia 3211 B767557-A    Ag Ni              501 Zh
+Edshanjo      3217 X656651-2    Ag Ni           F  802 Zh

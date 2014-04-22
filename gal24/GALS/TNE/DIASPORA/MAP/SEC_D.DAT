@@ -1,0 +1,41 @@
+@SUB-SECTOR: sec_d   SECTOR: Diaspaora
+#
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Medora        2501 X422000-0    Ba                 003 Un
+Tsinan        2503 X4726RB-2    Ni                 804 Wi
+Forward       2504 X838000-0    Ba                 013 Un
+Fuso          2508 X7B3000-0    Ba Fl              004 Un
+Ashizar       2509 X6548RA-4                    B  711 Wi
+Accra         2604 X354504-9    Ag              B  303 Wi
+Khavle        2605 X334000-0    Ba                 005 Un
+Daasha        2606 X62A000-0    Ba Wa              003 Un
+Shareduu      2609 X231000-0    Ba                 021 Un
+Matunuck      2701 E8537R8-8    Po              B  912 Wi
+Hike          2707 X7824Q3-0    Ni Lo           B  225 Wi
+Gorakpur      2709 X000000-0    Ba As              014 Un
+Voss          2802 D867200-8    Ni Lo              403 Wi
+Raaza         2806 X4455RD-4    Ni Ag              315 Wi
+Blanket       2807 X224000-0    Ba                 001 Un
+Lar           2901 X331000-0    Ba                 004 Un
+Muuze         2905 X792001-0    Ni Lo              113 Wi
+Dordogne      2906 X4544P6-1    Ni Lo           B  504 Wi
+Nihesi        2908 X7B1000-0    Ba Fl              004 Un
+Toggle        2910 X100000-0    Ba Va              003 Un
+Sanborn       3001 D483103-5    Ni Lo              104 Wi
+Tommot        3003 X210000-0    Ba                 012 Un
+146-685       3004 X7944SA-1    Ni Lo           B  200 Wi
+Wake          3005 X6524O2-4    Ni Po Lo           400 Wi
+Muyudness     3006 X100000-0    Ba Va              000 Un
+Ningho        3008 X5770N4-4    Ni Lo              304 Wi
+Rockcaster    3009 X69A4P4-0    Ni Wa Lo        B  103 Wi
+Dehrapur      3102 X423000-0    Ba                 001 Un
+Farm          3104 X6566RC-7    Ni Ag              604 Wi
+Agaaga        3109 X5573P8-1    Ni Lo C:1          120 Wi
+Ashii         3201 X6948T8-4                    B  412 Wi
+Savan         3202 X4446Q6-6    Ni Ag           B  803 Wi
+Aight         3203 X7527P3-7    Po D:1          B  401 Wi
+Ihishi        3204 D5413RB-8    Ni Po Lo D:1       404 Wi
+Halle         3206 X626000-0    Ba                 002 Un

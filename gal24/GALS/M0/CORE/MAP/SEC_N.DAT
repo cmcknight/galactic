@@ -1,0 +1,42 @@
+@SUB-SECTOR: Ch'naar SECTOR: Core
+#
+# Trade routes within the subsector
+$1638 1601 0 1
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Siniir Sa     0931 A599300-A    Lo Ni              514 Im
+Kis           0933 B88A300-9    Lo Ni Wa           311 Im
+Geam          1033 E556000-0    Ba                 004 Ba
+Gur           1034 D533687-4    Na Ni Po           600 Im
+Madalagaa     1035 B581232-8    Lo                 103 Im
+Nuukhish      1037 D542354-5    Lo Po              924 Im
+Maur Na       1038 B358431-9    Lo                 514 Im
+Davla         1040 E528000-0    Ba                 025 Ba
+Aursis        1134 A545520-B  N Ag Ni              900 Im
+Kaamind       1140 CAF3515-8    Ni Fl              500 Im
+Diam Kani     1232 E130000-0    Po De Ba           022 Ba
+Laap          1233 E375000-0    Ba                 024 Ba
+Iipgiir       1236 C491356-B    Lo                 503 Im
+Miikuu Ar     1237 E6A7354-4    Lo Fl              803 Im
+Iirbasur      1239 C547879-8                       202 Im
+Lam           1240 E223000-0    Po Ba              014 Ba
+Anshar        1334 EACA000-0    Fl Wa Ba           012 Ba
+Umkashuu      1335 C35499D-9    Hi                 222 Im
+Kuka          1336 EA97000-0    Ba                 003 Ba
+Rid           1338 C695131-8    Lo                 602 Im
+Saar          1431 E494000-0    Ba                 003 Ba
+Diirmuu       1434 E755000-0    Ba                 003 Ba
+Arvlesaaish   1436 E6B0000-0    Ba De              001 Ba
+Mishaa        1437 B9A8100-7    Lo Fl              713 Im
+Minduun Sammad1440 A58A411-C    Lo Wa              203 Im
+Emsha I       1531 C3339CC-9    Na Po Hi           213 Im
+Zagi Uu       1533 C647259-6    Lo                 702 Im
+Gid           1534 B76A533-B    Ni Wa              103 Im
+Shueshlar     1536 D435268-7    Lo Ni              102 Ck
+Uurme         1538 A343211-9    Lo Ni Po           401 Ck
+Dimanaam      1539 A583350-C  N Lo Ni              104 Ck
+Reshi Uun     1633 E300000-0    Na Va Ba           001 Ba
+Hiilev        1635 D62759B-7    Ni                 714 Ck
+Malaaash      1638 E759123-3    Lo Ni              312 Ck

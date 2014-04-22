@@ -1,0 +1,69 @@
+@SUB-SECTOR: sec_b   SECTOR: ley
+#
+#Jump Routes
+$0908 0709 -1 0
+$0908 0910 0 0
+$0908 1206 0 0
+$0910 0710 -1 0
+$0910 1010 0 0
+$1004 0804 -1 0
+$1004 1005 0 0
+$1004 1104 0 0
+$1005 1205 0 0
+$1010 1211 0 1
+$1102 1103 0 0
+$1102 1202 0 0
+$1103 1104 0 0
+$1104 1403 0 0
+$1202 1303 0 0
+$1205 1305 0 0
+$1205 1206 0 0
+$1303 1403 0 0
+$1305 1405 0 0
+$1403 1502 0 0
+$1403 1405 0 0
+$1405 1407 0 0
+$1407 1509 0 0
+$1502 1440 0 -1
+$1509 1411 0 1
+#
+#--------1---------2---------3---------4---------5---------6----
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- --
+Drewatol      0902 E68A654-4    Wa                 100 Im
+Tipherat      0904 D100322-B    Ni                 601 Im
+Flamgard      0906 CA9A231-C    Wa                 800 Im
+Crateria      0908 B858795-A    Ag                 901 Im
+Camsteris     0910 B877A69-B    In                 100 Im
+Dayzhian      1002 E733664-A    Na                 501 Im
+Wolfstar      1004 A664666-B  N Ca                 401 Im
+Nirgym        1005 A687856-A    Ri                 800 Im
+Argusiar      1008 D110313-9    Ni                 401 Im
+Evereve       1010 E331578-C    Ni                 800 Im
+Arhanan       1101 C140324-8    Ni                 901 Im
+Brangath      1102 B757736-A    Ag                 700 Im
+Jadis         1103 E000445-A    As                 301 Im
+Javelin       1104 B959969-8                       500 Im
+Kerielia      1105 D99A969-7    Wa                 601 Im
+Espartis      1109 D976775-6    Ag                 700 Im
+Harock        1110 C511631-8    Na                 700 Im
+Unicorn       1201 D87A576-6    Wa                 301 Im
+Lunisae       1202 CA54754-8    Ag                 800 Im
+Kizator       1205 B965A79-9                       700 Im
+Ravish        1206 B867779-9    Ri Ag              400 Im
+Deepwar       1207 C000797-C    As                 401 Im
+Newhip        1208 D300348-A    Ni                 901 Im
+Geberah       1209 AA77676-8    Ag                 900 Im
+Moonchild     1210 C488640-8    Ri Ag              901 Im
+Arasket       1301 D233437-9    Ni                 700 Im
+Mendicant     1302 XAA9000-0                    R  001 Im
+Revel         1303 A585658-5    Ag                 600 Im
+Fastil        1304 D120336-9    Ni                 501 Im
+Olidriks      1305 B666987-9                       300 Im
+Dornis        1403 BA76A95-A  N In                 101 Im
+Dreamith      1405 B567847-A  S Ri                 801 Im
+Dramelian     1407 A567A65-C                       600 Im
+Misterias     1409 EAA9887-A                       100 Im
+Auglis        1501 XACA000-0    Ba              R  000 Im
+Xanthaer      1502 A977966-B  N In                 801 Im
+Lavinia       1509 B887778-A  N Ri Ag              900 Im

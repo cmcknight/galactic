@@ -1,0 +1,48 @@
+@SUB-SECTOR: sec_K   SECTOR: lishun
+#
+# Trade routes within the subsector
+$2025 1627 -1 0
+$1730 1627 -1 0
+$1730 1631 -1 1
+$1730 1932 0 1
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Kensus        1722 E8959CF-A    Hi In           A  703 Li
+Ii Gir Da Ken 1723 C75A779-7    Wa                 902 Li
+Lishun Aster  1724 C000634-9    Na Ni As           414 Li
+Solu One      1725 C888200-8  S Lo Ni              200 Li
+Luniku Mishu  1730 A867424-F    Ni                 813 Li
+Capula Raiz   1823 B140722-F  C Po De              601 V1
+Sukamshu      1826 C35549B-A    Ni                 900 V1
+Bern          1827 E335336-8    Lo Ni              121 V1
+Rishaa As     1829 E120564-7    Ni Po De           200 Li
+Rael Raiz     1922 D330400-C    Ni Po De           514 V1
+Gikisaa       1923 E100125-7    Lo Ni Va           901 V1
+Ashun         1926 C736324-9    Lo Ni              310 V1
+Kuroshio      1927 B898599-B  H Ag Ni              723 V1
+Ushulun       1929 B98A862-D  G Ri Wa              401 V8
+Isasa Belt    1930 E000655-B    Na Ni As           120 Li
+Bethany       2021 C545765-5  C Ag                 804 V1
+Periment      2022 C23445A-B  C Ni                 400 V1
+Atista        2023 B427535-F  G Ni                 501 V1
+Arashi        2024 B200457-C  C Ni Va              103 V1
+Takao         2025 A130641-F  G Na Ni Po De        700 V1
+Corning       2122 C483141-A    Lo Ni              700 V1
+Lam           2124 A562656-D    Ni Ri              525 V1
+Kaagirdip     2126 E487655-6    Ag Ni Ri           800 V8
+Rilaarga      2127 C596322-7    Lo Ni              103 V8
+Astoria       2129 E73A300-9    Lo Ni Wa           420 V8
+Nightsky      2222 C410300-B    Lo Ni              623 V1
+Dohnvielle    2224 E332338-9    Lo Ni Po           723 V1
+Gikuniir      2226 B501031-8  G Lo Ni Va Ic        433 V8
+Pilii         2228 C63A853-C    Wa                 702 V8
+Gugiler       2321 C3235AB-8    Ni Po              204 V1
+Inad          2326 D8AA545-9    Ni Fl Wa           510 V8
+Iragshus Zike 2329 B537647-8    Ni                 110 V8
+Juneau        2423 E100566-9    Ni Va              303 V1
+Steret's Rock 2424 E300136-8    Lo Ni Va           202 V1
+Midashar      2426 E646427-4    Ni                 200 V8
+Alliance      2427 C342555-D  H Ni Po              800 V8
+Wontime       2428 B251320-9    Lo Ni Po           505 V8

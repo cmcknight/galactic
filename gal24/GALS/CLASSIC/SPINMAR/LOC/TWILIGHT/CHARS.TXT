@@ -1,0 +1,36 @@
+   
+  Characters
+  ----------
+
+   This adventure is intended for a band of adventurers numbering at
+   least three and no more than seven with five to seven being best.
+
+1 Travil  Commander     A95747   Age 42   6 terms   Cr 8000
+  Leader-2, Admin-1, ATV-1, Computer-1, Pilot-1, Streetwise-1,
+  Survival-1, Vacc Suit-1, Snub Pistol-0, Cutlass-0         Snub Pistol
+
+2 Sherina Pilot         878B83   Age 30   3 terms   Cr 1500
+  Pilot-6, Navigation-1, Vacc Suit-1, Carbine-0, Computer-0     Carbine
+
+3 Bruce   Surveyor      3855CA   Age 34   4 terms   Cr 2000
+  Surveying-3, ATV-1, Bribery-1, Vacc Suit-1, Computer-0
+  Laser Rifle-0, Forward Observer-0                         Laser Rifle
+
+4 Grindle Geologist     6B3477   Age 26   2 terms   Cr 3500
+  Geology-2, ATV-1, Chemistry-1, Shotgun-1, Vacc Suit-0         Shotgun
+
+5 Hanit   Surveyor      736555   Age 22 1 term   Cr 1000
+  Surveying-2, Geology-1, Physics-1, Auto Rifle-0, Computer-0
+  Vacc Suit-0                                                Auto Rifle
+
+6 Aryven  Planetologist 978364   Age 38   5 terms   Cr 4000
+  Chemistry-2, Geology-2, Physics-2, Surveying-1, SMG-1,
+  Vacc Suit-1, Engineering-0, Mechanical-0, Pilot-0                 SMG
+
+7 Grog    Grunt/Cook    BAA686   Age 50   8 terms   Cr 2500
+  Cutlass-5, Plasma Gun-3, Gunnery-2, Laser Carbine-2,    Laser Carbine
+  Rifle-2, Shotgun-2, SMG-2, Battle Dress-1, Brawling-1, Cooking--6
+
+8 Bob     Engineer      4959B8   Age 34   4 terms   Cr 4500
+  Engineering-3, Electronic-2, Jack-of-all-trades-2, Mech-2    Tool Kit
+

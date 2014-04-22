@@ -1,0 +1,13 @@
+
+   Resource Stat Explained
+   -----------------------
+   0: Barren
+   1-4: Poor: Basic chemical diversity necessary to support
+           indigenous life. Otherwise, no claim to fame.
+   5-8: Moderate: Moderate resource base capable of being
+           exploited for export.
+   9-C: Rich: Rich resource base, one of which could command
+           subsector-wide influence.
+   D+ : Extreme: Very rich resource base, one of which could
+           command sector-wide influence.
+

@@ -1,0 +1,28 @@
+@dir=gals\classic\starsend\map
+@Light Yellow
+
+Star's End / Data Files
+
+@Light Cyan
+      Sector Data                    @..\starsend.dat
+
+@Light Green
+      Subsector Data
+@Light Cyan
+       A: Guukiinmile                @sec_a.dat
+       B: Kedepar                    @sec_b.dat
+       C: Two Sparks                 @sec_c.dat
+       D: Rift Center                @sec_d.dat
+       E: Void's Edge                @sec_e.dat
+       F: Five Systems               @sec_f.dat
+       G: Lesser Depths              @sec_g.dat
+       H: Greater Depths             @sec_h.dat
+       I: Near Void                  @sec_i.dat
+       J: Empty Void                 @sec_j.dat
+       K: Empty Depths               @sec_k.dat
+       L: Gnaxkra                    @sec_l.dat
+       M: Far Void                   @sec_m.dat
+       N: Kukurragzal                @sec_n.dat
+       O: Erkoop                     @sec_o.dat
+       P: Hkur!                      @sec_p.dat
+

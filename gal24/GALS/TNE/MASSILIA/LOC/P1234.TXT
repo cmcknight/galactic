@@ -1,0 +1,10 @@
+Weemar D000467-9
+
+Starport: Poor                    Size: Asteroid Belt
+Atmosphere: None                  Hydrographics: No liquid water
+Population: 20,000                Govt: Captive Government
+Law Level: Moderate               Technology: Early Stellar
+   
+Mining colony from the Dekaan Republic of Nagiida.
+
+by Carlos Alos-Ferrer <alos@merlin.fae.ua.es>

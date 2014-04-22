@@ -1,0 +1,56 @@
+Not that it's important or anything, but this was the
+galdata\secgen.dat file used to generate this sector:
+
+sector:Gythios Sector
+galdir:var1
+secdir:gythios
+#-------------------------------------------------
+#Sector                       dir        %  Soc Al
+#-------------------------------------------------
+A: Petrina                    a         45   C  Im
+B: Helenos                    b         40   M  An
+C: Stavrula                   c         35   S  Na
+D: Argyris                    d         30   S  Fc
+E: Petrula                    e         40   M  Im
+F: Antigone                   f         35   S  An
+G: Draco                      g         30   S  Dr
+H: Corinth                    h         25   S  Fc
+I: Gythios                    i         35   S  Im
+J: Salamis                    j         30   S  Im
+K: Maria                      k         25   S  Dr
+L: Kristos                    l         20   B  Gw
+M: Thrace                     m         30   S  Im
+N: Attica                     n         25   S  Im
+O: Ionia                      o         20   B  Io
+P: Idhra                      p         15   B  Io
+#-------------------------------------------------
+#Allegiance Codes           Col
+#------------------------------
+Im  Terran Empire           12 
+Na  Non-aligned             7 
+Cs  Client State            4 
+Io  Republic of Ionia       14 
+Fc  Freeworld Coalition     11 
+Dr  Draco Corporation       10 
+Gw  Gresson's Worlds        9 
+An  Duchy of Antigone       13 
+#-------------------------------
+#Soc Codes:
+#B=Backwater S=Standard M=Mature C=Commercial_Hub
+#
+#Col Codes:
+#1   Blue
+#2   Green
+#3   Cyan
+#4   Red
+#5   Magenta
+#6   Brown
+#7   White
+#8   Dark Grey
+#9   Light Blue
+#10  Light Green
+#11  Light Cyan
+#12  Light Red
+#13  Light Magenta
+#14  Light Yellow
+#15  Bright White

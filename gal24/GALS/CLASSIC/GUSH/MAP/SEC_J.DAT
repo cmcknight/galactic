@@ -1,0 +1,56 @@
+@SUB-SECTOR: sec_J   SECTOR: gush
+#
+# Trade routes within the subsector
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Obarr         0921 B53468A-B  N Ni                 204 Im
+Chang         0922 A775112-C    Lo Ni              703 Im
+Gigimu        0923 EA9A941-B    Hi In Wa           902 Im
+Zilu          0924 B326353-B  W D1 Lo Ni        A  401 Im
+Tamesh        0925 B87A740-9    Wa                 202 Im
+Igamaal       0926 B457669-C    Ag Ni              403 Im
+Saol          0927 E678457-A    Ni                 321 Im
+Ongelbal      0928 C692300-8    Lo Ni              313 Im
+Dehruu        0930 E442586-A    Ni Po              223 Im
+Bragg         1021 C471344-A    Lo Ni              900 Im
+Lorris        1023 C120000-E    Lo Ni Po De Ba     615 Im
+Ienda         1025 C767469-B    Ni                 704 Im
+Fiaf          1026 E78A442-9    Ni Wa              500 Im
+Taluu         1027 C200879-C  S Na Va              822 Im
+Justine       1029 C270679-A    Ni De              602 Im
+Panisse       1122 X436457-7    Ni              R  313 Im
+Rumulaar      1123 C88A203-8    Lo Ni Wa           401 Im
+Creca         1124 B524537-A  S Ni                 412 Im
+Hanseat       1125 A300532-C    Ni Va              300 Im
+Unuv          1127 C223689-9    Na Ni Po           102 Im
+Kaakaa        1128 C350553-C    Ni Po De           702 Im
+Intnalta      1129 B220457-G    Ni Po De           813 Im
+Coernelf      1221 E410578-6    Ni                 802 Im
+Syrol         1223 B36366A-C  S Ni Ri           A  503 Im
+Forgane       1225 A321341-E  A Lo Ni Po           824 Im
+Iest          1227 C33169D-B  S Na Ni Po           524 Dr
+Indurain      1228 E455553-8    Ag Ni              403 Im
+Lish          1321 C665300-9    Lo Ni              421 Im
+Berall        1322 B587345-B  S Lo Ni              404 Im
+Vesuata       1328 A130477-D  N Ni Po De Cp        703 Im
+Yellsar       1422 C262888-7    Ri                 703 Im
+Fairbriar     1423 B411789-B  N Na Ic              704 Im
+Diro          1425 B000331-D  S Lo Ni As           103 Im
+Tikav         1426 B263867-D  N Ri                 604 Im
+Xerxes        1430 B526543-E  N Ni                 600 Im
+Haysher       1521 C7648BB-6                       203 Im
+Cervantes     1522 B567664-7  N Ag Ni Ri           111 Im
+Colehco       1523 BAE7230-A  S Lo Ni Fl           623 Im
+Andonin       1525 C410225-D    Lo Ni              303 Im
+Griissound    1526 E362513-5    Ni                 512 Im
+Whiapluur     1528 B498536-9  N Ag Ni              413 Im
+Twahoy        1529 E441441-9    Ni Po              704 Im
+Hemster       1530 B420510-B  N Ni Po De           205 Im
+Blullaygh     1622 C648453-B  S Ni                 603 Im
+Fraynj        1623 C848523-B    Ag Ni              300 Im
+Leraag        1624 C520455-9  S Ni Po De           203 Im
+Emur          1625 C264599-A    Ag Ni              314 Im
+Nuuhlam       1627 D400102-9  S Lo Ni Va           522 Im
+Pesuune       1629 C534544-A    Ni                 615 Im

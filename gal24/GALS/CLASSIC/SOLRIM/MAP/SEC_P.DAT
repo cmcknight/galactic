@@ -1,0 +1,42 @@
+@SUB-SECTOR: sec_P   SECTOR: sorted
+#
+# Trade routes within the subsector
+$2538 2138 -1 0
+$2538 2636 0 0
+$2538 2740 0 0
+$2740 2939 0 0
+$2939 2937 0 0
+$2937 3232 0 0
+$2636 2835 0 0
+$2835 3235 0 0
+$2636 2734 0 0
+$2734 2732 0 0
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Carchemish    2536 D778169-E    Lo Ni              403 So
+Thetis        2538 A56A944-E    Hi Wa           A  810 So
+Tlaloc        2631 B645661-E    Ag Ni              803 So
+Elisinore     2635 C1206A9-C    Na Ni Po De        302 So
+Pavel         2636 A899799-E                       320 So
+Ochre         2731 A250839-E  N Po De              203 So
+Lyonesse      2732 C6978A6-9                       223 So
+Trapezus      2734 A633886-E    Na Po              804 So
+Laputa        2740 A7559D9-E  N Hi Cp              824 So
+Goliad        2834 B67A531-C    Ni Wa              815 So
+Kukulcan      2835 A568A9A-D    Hi                 421 So
+Cyprian       2836 C510310-D    Lo Ni              603 So
+Jocasta       2840 D532110-E    Lo Ni Po           415 So
+Skanderbeg    2932 A1448A7-E  N                    502 So
+Cyan          2937 A452767-C    Po                 603 So
+Santorini     2938 A689856-D    Ri                 305 So
+Hasdrubal     2939 A4548CF-C                       920 So
+Caprice       3035 A7669AA-C  N Hi                 822 So
+Saskatoon     3132 A887989-C    Hi              A  504 So
+Amaterasu     3134 B54889D-C                       124 So
+Xantippe      3136 D7B9266-9    Lo Ni Fl           614 So
+Oberon        3232 A562998-D  N Hi                 904 So
+Scipio        3234 X577775-7    Ag              R  202 So
+Culdee        3235 A68A998-9    Hi Wa              522 So
+Dunsinane     3239 B312588-9    Ni Ic              722 So

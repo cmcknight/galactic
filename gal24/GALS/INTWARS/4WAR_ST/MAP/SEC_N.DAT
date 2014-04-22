@@ -1,0 +1,33 @@
+@SUB-SECTOR: sec_N   SECTOR: 4war_st
+#
+# Trade routes within the subsector
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+.             0931 X113000-0    Ba Ic Lo Ni        010 Us
+.             0938 X000000-0    As Ba Lo Ni        002 Us
+.             1032 X547000-0    Ba Lo Ni           011 Us
+Twylo         1034 D551422-3    Ni Po              503 Tc
+Poictesme     1035 D468757-3    Ag Ri              301 Tc
+Tarsus        1136 E785775-4    Ag Ri              103 Tc
+Haddad        1137 C47A538-6    Ni Wa              122 Tc
+Labrys        1140 X976614-4    Ag Ni           R  205 Na
+Luuru         1234 E9B7412-7    Fl Ni              320 Tc
+Aeneas        1237 D438415-6    Ni                 133 Tc
+Hibernia      1239 D647543-4    Ag Ni              914 Tc
+Mirabilis     1332 B453876-5    Po                 205 Tc
+Sequoyah      1337 D487636-3    Ag Ni              602 Tc
+Aegir         1339 E76A455-4    Ni Wa              202 Tc
+Dirac         1340 E522643-4    Na Ni Po           203 Tc
+Teucer        1435 E759570-2    Ni                 302 Tc
+Saxe          1437 D763602-3    Ni                 221 Tc
+Aquitaine     1439 D887527-5    Ag Ni              205 Tc
+Capella       1440 B000754-8  S As Na              223 Tc
+Sarpedon      1533 E312637-6    Ic Na Ni           201 Tc
+Polyphemus    1537 D358666-4    Ag Ni              214 Tc
+Vantage       1538 E8DA000-0    Ba Fl Lo Ni Wa     034 Tc
+.             1540 X755000-0    Ba Lo Ni           021 Us
+Baraka        1636 D456675-2    Ag Ni              214 Tc
+Krokinole     1637 E211657-3    Ic Na Ni           113 Tc
+

@@ -1,0 +1,20 @@
+Revie C9788P8-8
+
+Starport: Routine                   Size: Large (13600-15200 km)
+Atmosphere: Standard, tainted       Hydrographics: 80% water
+Population: 100 million             Govt: Charismatic Dictators
+Law Level: High                     Technology: Pre-Stellar
+ 
+Before the collapse, Revie was governed by a feudal system based on
+technical classes. When the Virus struck, the world was left in chaos for
+several decades, until a single, charismatic leader was able to re-unify all
+the planet. His daughter is the current leader, with the title of Queen.
+Under her rule, Revie population has actually experienced a steady recovery
+and has, in fact, slightly exceeded the pre-Collapse level.
+	In the last decade, Revie has been able to put in operation a small fleet
+of half a dozen old starships, under the command of a former Naval officer
+who hibernated in 1130 and was discovered in-system in 1185. Some scouts
+have contacted Forquee (Forquee subsector, 1719).
+
+by Carlos Alos-Ferrer (Alos@merlin.fae.ua.es)
+

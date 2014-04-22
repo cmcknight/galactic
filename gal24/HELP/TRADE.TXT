@@ -1,0 +1,26 @@
+Trade Codes & Supplemental Remarks
+
+Ag = Agricultural
+An = Archeological Site
+As = Asteroid Belt
+Ba = Barren World
+Cp = Subsector Capital
+Cx = Sector/Regional Capital
+De = Desert World
+Ex = Exile Camp
+Fl = Fluid (non-water) Oceans
+Hi = High Population
+Ic = Ice-Capped
+In = Industrial
+Lo = Low Population
+Mr = Military Rule
+Na = Non-Agricultural
+Ni = Non-Industrial
+Po = Poor
+Pr = Prison Camp
+Ri = Rich
+Rs = Research Station
+Va = Vacuum World
+Wa = Water World
+Xb = Xboat Station
+

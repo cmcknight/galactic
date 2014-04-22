@@ -1,0 +1,34 @@
+@SUB-SECTOR: sec_C   SECTOR: yiklerzd
+#
+# Trade routes within the subsector
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Stovozh Friezh1709 C554576-9    Ag Ni              413 Zh
+Paapadliek    1710 CACA210-B    Ni Lo Fl           402 Zh
+Veriapr       1805 A304477-B    Ic Ni Va Lo        503 Zh
+Sobrechvri    1809 A402274-D  Z Ic Ni Va Lo        500 Zh
+Yienchbrej    1902 C651559-9    Ni Po           U  913 Zh
+Shishto'dridl 1903 B4357F8-7                       914 Zh
+Dizedivr To   1908 B634334-8    Lo Ni              712 Zh
+Proza Zdiafl  1909 B634522-9    Ni                 203 Zh
+Cochints Kant 1910 D655356-8    Lo Ni              200 Zh
+Tliavl Kich   2002 C659100-B    Lo Ni              900 Zh
+Piadrliz      2004 B55A222-8    Lo Ni Wa           704 Zh
+Shaeensh      2005 B661397-A    Lo Ni              501 Zh
+Kizdalfa      2007 A433AC7-E  Z Hi Na Po Cp        324 Zh     f
+Abrievie      2010 B99558A-A    Ag Ni              500 Zh
+Predrnzhcho   2101 A270789-C  Z De                 203 Zh
+Mikliezh      2105 B322355-A  Z Lo Ni Po           603 Zh
+Dloiach       2107 B100520-A    Ni Va              224 Zh
+Drazna'chi    2108 A4387BC-B                       904 Zh
+Zhdaenz       2110 A596423-9  Z Ni Lo              300 Zh
+Bianzh        2202 B8A6411-B    Fl Ni Lo           315 Zh
+Qrifoplsidl   2302 B694536-8    Ag Ni C0           703 Zh
+Dlezvetl      2304 C684688-8    Ag Ni Ri D8     U  304 Zh
+Jdaiebr       2305 E8855A8-6    Ag Ni              221 Zh
+Kroshzi       2306 A000585-E    As Ni              711 Zh
+Zhdits Zdats  2402 A9B49AD-E    Fl Hi              504 Zh
+Eshedrtlial   2407 C514836-7    Ic                 204 Zh
+Zhdiazh       2410 B130735-D    De Na Po           524 Zh

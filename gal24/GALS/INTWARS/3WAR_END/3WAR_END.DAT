@@ -1,0 +1,35 @@
+Solomani Rim (2158)
+
+A: Ultima                    sec_a.dat
+B: Suleiman                  sec_b.dat
+C: Concord                   sec_c.dat
+D: Harlequin                 sec_d.dat
+E: Alderamin                 sec_e.dat
+F: Esperance                 sec_f.dat
+G: Vega                      sec_g.dat
+H: Banasdan                  sec_h.dat
+I: Albadawi                  sec_i.dat
+J: Dingir                    sec_j.dat
+K: Sol                       sec_k.dat
+L: Arcturus                  sec_l.dat
+M: Jardin                    sec_m.dat
+N: Capella                   sec_n.dat
+O: Gemini                    sec_o.dat
+P: Kukulcan                  sec_p.dat
+
+Bases:
+N = Vilani
+T = Major Terran
+S = Minor Terran
+  = None
+
+Allegiance:
+10 Zs = Ziru Sirka
+11 Zu = Ziru Sirka (unsettled)
+12 Zv = Ziru Sirka (Vegan)
+14 Tc = Terran Confederation
+15 Ds = Disputed
+09 Id = Independent
+04 Ve = Vegan Polity
+05 Us = Unsettled
+06 Na = Native Race

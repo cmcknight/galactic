@@ -1,0 +1,33 @@
+@SUB-SECTOR: sec_N   SECTOR: yiklerzd
+#
+# Trade routes within the subsector
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Majdr         0934 C7B6345-7    Fl Lo Ni           804 Na     f
+Vledriant     0940 X210000-0    Ba                 023 Na
+Yellow Ocean  1031 A89A728-9    Wa                 904 CA     f
+Satsva        1035 B00068A-9    As Na Ni           322 Na     f
+Rajash        1036 B85A475-B    Ni Wa Lo           403 Na     f
+Ishnad        1037 C634520-6    Ni                 624 Na     f
+Hard Air      1132 AAD6949-C  C Hi                 210 CA     f
+Cauldron      1133 A8A3726-C    Fl                 611 CA     f
+Sanzhkria     1136 X735000-0    Ba                 002 Na
+Melchizhdrenk 1139 C876599-7    Ag Ni              324 Na     f
+Winters Blanke1231 B62A8AA-B    Wa                 601 CA     f
+Vriasheshki   1237 B56368A-A    Ni Ri              901 Na     f
+Pranjadraparat1239 X301200-5    Ic Lo Ni Va        313 Na     f
+Sokr Jakkia   1338 E54846A-6    Ni Lo O:1438       624 Na     f
+Merikrer      1431 X402000-0    Ba Ic Va           002 Na     f
+Ravlda        1435 C698234-7    Lo Ni              100 Na     f
+Brinzhianzh   1437 B867689-A    Ag Ni Ri An        201 Iz     f
+Jonjivr       1438 AAD5254-E  Z Lo Ni Rs Cp        604 Iz     f
+Forge         1531 C10066D-7  M Na Ni Va O:1631 A  120 Na     f
+Sesh          1532 X100000-0    Ba Va              021 Na
+Drianshstitl  1537 B561789-9    Ri                 603 Iz     f
+Fretstlapl    1538 B2529CB-C    Hi Po              703 Iz     f
+Hammer        1631 B5527AD-9  M Po              A  814 Na     f
+Yojidrishtats 1632 X200000-0    Ba Va              000 Na
+Zdantsplitskli1636 B869582-B  I Ni                 220 Iz     f
+Sejchiet      1639 A586AC8-E  Z Hi D0              925 Iz     f

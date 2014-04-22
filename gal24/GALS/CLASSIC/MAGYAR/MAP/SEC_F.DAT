@@ -1,0 +1,54 @@
+@SUB-SECTOR: sec_F   SECTOR: magyar
+#
+# Trade routes within the subsector
+$0920 1119 0 0
+$0920 0921 0 1
+$1016 0814 -1 0
+$1119 1418 0 0
+$1119 1016 0 0
+$1418 1415 0 0
+$1415 1213 0 0
+$1418 1521 0 1
+$1213 1512 0 0
+$1512 1408 0 -1
+$1512 1912 1 0
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Baelen        0913 B6548AC-C                       433 So
+Valentin      0915 D340464-9    De Ni Po           803 Ic
+Packard       0918 B899437-D  W Ni                 402 So
+Simovia       0919 B450663-C    De Ni Po           410 Ek     
+Turnwall      0920 B794620-B    Ag Ni              802 So
+Icenogle      1016 A676538-E    Ag Ni              410 Ic     f
+Ekar          1018 C7839DE-8    Hi                 210 Ek
+Furhma        1114 C768355-B    Lo Ni              100 So
+Nishikiori    1116 C455868-A                       600 Ic     f
+Gilcrest      1119 B831756-C    Xb Na Po           110 So
+Al-Aziz       1120 B785300-C  W Lo Ni              503 So
+Karma         1212 E243734-8    Po                 504 So
+Patnode       1213 A320545-E    De Ni Po           823 So
+Nettle        1214 B355899-D                       500 So
+New Winnipeg  1217 B511530-E  N Ic Ni              233 So
+Cowan         1218 C6A8887-A    Fl                 300 So
+Jolly         1220 D7B9653-9    Fl Ni              900 So
+Garvey        1313 B49A123-E    Lo Ni Wa           803 So
+The Rock      1314 B300234-E  W Lo Ni Va           315 So
+Sylva         1316 C47956A-C    Ni                 205 Lg     f
+Fazio         1320 B476212-D    Lo Ni              402 So
+Waltermire    1411 D7558BF-7                       300 So
+Heath         1412 D99A8A9-9    Wa                 724 So
+Raleigh       1413 E550658-7    De Ni Po           820 So
+Landgrebe     1415 B574625-C  D Cp Xb Ag Ni        100 Lg
+Finn          1416 B799200-E  S Lo Ni              511 So
+Patterson     1418 A377862-E  A                    223 Ic
+Dahlpacker    1420 E265474-9    Ni                 400 So
+Crisp         1511 A440210-E    De Lo Ni Po        420 So
+Minsk         1512 C2319BB-C    Hi Na Po           600 Mi
+Roblig        1513 B101863-E  N Ic Na Va           902 Mi
+Zathaneze     1516 C557343-B    Lo Ni              310 So
+Quraifi       1517 E000673-9    As Na Ni           505 So
+Nethery       1612 B101102-E    Ic Lo Ni Va        614 So
+Intress       1619 C6A3435-C    Fl Ni Rs           600 So
+Sumerfelt     1620 C655446-A    Ni                 320 So

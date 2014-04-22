@@ -1,0 +1,8 @@
+@SUB-SECTOR: sec_H   SECTOR: riftspan
+#
+# Trade routes within the subsector
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Ahoahea       3219 A2406M4-A    Ni Po De           202 Na

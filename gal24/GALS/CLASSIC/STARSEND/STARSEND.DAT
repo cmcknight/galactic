@@ -1,0 +1,44 @@
+Star's End
+
+A: The Sandworlds            sec_a.dat
+B: Kedepar                   sec_b.dat
+C: Two Sparks                sec_c.dat
+D: Rift Center               sec_d.dat
+E: Al Mayadin                sec_e.dat
+F: Five Systems              sec_f.dat           f
+G: Lesser Depths             sec_g.dat
+H: Greater Depths            sec_h.dat
+I: Nyridea                   sec_i.dat
+J: Empty Void                sec_j.dat
+K: Empty Depths              sec_k.dat
+L: Gnaxkra                   sec_l.dat
+M: Tamnai                    sec_m.dat
+N: Krukurragzal              sec_n.dat
+O: Ekoop                     sec_o.dat
+P: Hkur!                     sec_p.dat
+
+Bases:
+N = Navy
+S = Scout
+2 = Navy & Scout
+  = None
+
+Allegiance:
+11 KC = K'kree Client State
+15 JP = Julian Prot. (Unincorporated)
+15 Jc = Julian Prot. (Const. of Koekhon)
+15 Jo = Julian Prot. (Alliance of Ozuvon)
+15 Hl = Julian Prot. (Lorean Hegem.)
+15 Jh = Julian Prot. (Hhkar Sphere)
+15 Jr = Julian Prot. (Rukadukaz Repub.)
+15 J- = Julian Prot. (Unincorporated)
+15 Jm = Julian Prot. (Cmnwlth of Mendan)
+15 Jl = Julian Prot. (Lumda Dower)
+15 Jv = Julian Prot. (Vugurar Dominion)
+15 Jp = Julian Prot. (Pirbarish Starlane)
+15 Ja = Julian Prot. (Asimikigir Confed.)
+15 Ju = Julian Prot. (Ukhanzi Coord.)
+15 Vw = Julian Prot. (Rar Errall/Wolves W.)
+09 Na = Non-Aligned
+08    = Unknown
+

@@ -1,0 +1,24 @@
+
+These are the Classic Era stats for Gerome:
+
+System: Gerome
+Subsector: Rhylanor
+Sector: Spinward Marches
+Coordinates: 2818 (H0408)
+UWP: X573000-0
+
+Starport: None
+Size: Medium (7200-8800 km)
+Atmosphere: Standard, tainted
+Hydrographics: 30% water
+Population: 7
+Govt: No government
+Law Level: No Prohibitions
+Technology: None/Primitive
+
+Bases: None
+Trade Codes: Lo Ni Ba        
+Travel Zone: Red
+Planetoid Belts: 0
+Gas Giants: 1
+Allegiance: Imperial

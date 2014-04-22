@@ -1,0 +1,101 @@
+p1 Pistol, p4 Pistol, c1 Machine Carbine & c3 Machine Carbine
+
+Whilst the p1 pistol and c1 machine carbine are no longer standard issue
+weapons in any Magellanic service, they remain very popular with lower tech
+Diadochi and civilians. Both weapons fire the same 7.5mm cased ammunition and
+their 15 and 30 round magazines are interchangeable (however the 75 round
+magazine can only be used with the c1, which must then be used two handed).
+Both weapons were designed for the IMSC at the same time as the r3 rifle (and
+are also TL 10 designs) and share many features with that weapon. As with the
+r3, they both can fire ammunition manufactured between TL 6 and TL 10 with no
+appreciable loss of performance and their ammunition can be readily reloaded.
+The p1 can only fire in semiautomatic mode, but the c1 can also fire in
+semiautomatic, 3 round burst and full cyclic (750rpm, giving a +1DM attack
+per 75 rounds). Whilst the c1 is designed to be fired as a longarm, it can be
+fired one handed with the stock collapsed. The c1 is fully gyrostabilised and
+features an intergral laser sight. Both are still produced within the Empire
+by a number of manufacturers for the civilian and Diadochi market; and the
+Phoenix P10 and C75 (a semiautomatic only version of the c1) are
+representative of these. They are also standard issue with the Civtra
+Confederation who produce them as the M4 pistol and M5 submachine gun.
+
+Weapon: p1 pistol
+Action: Recoil - singleshot
+Ignition: Percussion
+Tech Level: 10
+Calibre: 7.5mm IMSC cased
+Penetration: 2
+Range: Very Short
+Malfunction: reliable
+Shots: 15
+Mass: 0.75kg
+Reloads: 0.15kg
+Length: 19cm
+Cost: Cr 215
+Incidentals: 15 rounds: Cr 1.2 (0.12kg)
+             empty 15 round magazine: Cr 10 (0.03kg)
+
+Weapon: c1 machine carbine
+Action: Blowback - singleshot, burst (3), cyclic (750)
+Ignition: Percussion
+Tech Level: 10
+Calibre: 7.5mm IMSC cased
+Penetration: 3
+Range: Short
+Malfunction: reliable
+Shots: 30 or 75
+Mass: 2.0kg
+Reloads: 0.3kg or 0.7kg
+Length: 60.2cm (40.2cm with stock collapsed)
+Cost: Cr 900 (Phoenix C75: Cr 770)
+Incidentals: 15 rounds: Cr 1.2 (0.12kg)
+             5 hour rechargeable battery pack: Cr 3 (0.3kg)
+             20 hour disposable battery pack: Cr 1.5 (0.3kg)
+             empty 30 round magazine: Cr 20 (0.06kg)
+             empty 75 round magazine: Cr 35 (0.1kg)
+
+
+During the First Mwoah War, both the p1 and c1 were redesigned to enable
+their manufacture at tech level 6. The resulting redesigns were designated
+the p4 and c3 respectively. The c3 lacks the gyrostabilisation of the c1, but
+retains the laser sight with reduced battery life. Apart from this, and the
+greater weight, the p4 and c3 are functionally identical to the p1 and c1.
+The Konig KLP-3 is a semiautomatic only version of the c3 produced by Konig
+Arms MCC for the civilian market. Several manufacturers produce versions of
+the p4 for the civilian market under a variety of designations.
+
+Weapon: p4 pistol
+Action: Recoil - singleshot
+Ignition: Percussion
+Tech Level: 6
+Calibre: 7.5mm IMSC cased
+Penetration: 2
+Range: Very Short
+Malfunction: reliable
+Shots: 15
+Mass: 1.1kg
+Reloads: 0.15kg
+Length: 19cm
+Cost: Cr 215
+Incidentals: 15 rounds: Cr 1.2 (0.12kg)
+             empty 15 round magazine: Cr 10 (0.03kg)
+
+Weapon: c3 machine carbine
+Action: Blowback - singleshot, burst (3), cyclic (750)
+Ignition: Percussion
+Tech Level: 6
+Calibre: 7.5mm IMSC cased
+Penetration: 3
+Range: Short
+Malfunction: reliable
+Shots: 30 or 75
+Mass: 2.5kg
+Reloads: 0.3kg or 0.7kg
+Length: 60.2cm (40.2cm with stock collapsed)
+Cost: Cr 560 (Konig KLP-3: Cr 430)
+Incidentals: 15 rounds: Cr 1.2 (0.12kg)
+             2 hour rechargeable battery pack: Cr 5 (0.5kg)
+             8 hour disposable battery pack: Cr 2.5 (0.5kg)
+             empty 30 round magazine: Cr 20 (0.06kg)
+             empty 75 round magazine: Cr 35 (0.1kg)
+

@@ -1,0 +1,53 @@
+@SUB-SECTOR: sec_G   SECTOR: lishun
+#
+# Trade routes within the subsector
+$1712 1511 -1 0
+$1712 1914 0 0
+$2312 1516 -1 0
+$2312 2415 0 0
+$2415 2516 1 0
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Selsho        1711 E4968A6-B    Hi                 310 V1
+Uzyang        1712 C777242-8    Lo Ni              215 V1
+Annor Raiz    1811 D1308BB-A  C Na Po De           603 V1
+Rerogom       1813 B9B4630-A  C Ni Fl              400 V1
+Oezygurs      1814 A443103-E    Lo Ni Po           501 V1
+Anossed       1815 B586757-C  C Ag Ri              712 V1
+Rizygyer      1818 E426354-B    Lo Ni              103 Va
+Kashuegnz     1911 E374694-8    Ag Ni              210 V1
+Gonaed        1912 C79478A-A    Ag                 204 V1
+Ngesuegn      1913 C658530-A    Ag Ni              904 V1
+Zugrora       1914 B8A7879-9  C Fl                 103 V1
+Koqrillii     1915 C77A536-8    Ni Wa              110 V1
+Repheda       1916 C634466-8  C Ni                 203 V1
+Paia Raiz     1917 D460640-7    Ni Ri De           202 V1
+Gadrodso      1919 D311002-6  C Lo Ni Ic           900 Va
+Gungevue      2012 E878475-9    Ni                 920 V1
+Othsekuu      2013 B789866-C    Ri                 200 V1
+Siken         2016 D676120-6    Lo Ni              813 V1
+Rolae Pha     2017 E572565-6    Ni                 200 V1
+Sharlii       2018 E6769AA-A    Hi In              710 V1
+Thegor        2111 C543552-9    Ni Po              713 V1
+Zeus          2112 C9C3756-B    Fl                 302 V1
+Aggen         2113 C748868-A                       705 V1
+Ong Newly     2119 C150201-B    Lo Ni Po De        304 V1
+Snaqk World   2120 E9AA105-B    Lo Ni Fl Wa        900 V1
+Morin         2211 E85AAAC-9    Hi Wa              904 V1
+Ziungozyye    2213 E97A430-A    Ni Wa              820 V1
+Angeo Xy      2216 B476365-D  C Lo Ni              704 V1
+Kageo         2220 D468542-6    Ag Ni              614 V1
+Catalyst      2312 A400300-E  G Lo Ni Va           204 V1
+High Sheton   2313 B231510-A    Ni Po              100 V1
+Carsin        2314 E536446-7    Ni                 804 V1
+Pact          2316 E86A252-9    Lo Ni Wa           910 V1
+Iconshuu      2320 B644369-D    Lo Ni              800 V1
+Orwell        2411 B785015-9    Lo Ni              415 V1
+Kalahari      2413 B1307BB-F    Na Po De           310 V1
+Dzatye        2415 C753889-9  C Po                 103 V1
+Kely-sugn     2417 E200645-8    Na Ni Va           510 V1
+Trigon Orbit  2418 E362867-6    Ri                 824 V1
+Rastar        2419 B693587-A  C Ni                 100 V1
+Blue          2420 B200557-F    Ni Va              903 V1

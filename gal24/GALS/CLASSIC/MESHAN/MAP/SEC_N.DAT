@@ -1,0 +1,46 @@
+@SUB-SECTOR: sec_N   SECTOR: meshan
+#
+# Trade routes within the subsector
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Thukhdzen     0931 E456444-6  C Ni C0              724 Vo
+Koenzonakh    0934 B589544-A    Ni                 924 Vo
+Odhduroul     0935 E000521-9    As Ni              510 Vo
+Sukknou       0937 B6A8562-9    Fl Ni              904 Vo
+Laekfae       0939 C234559-B    Ni                 703 Vv
+Thaengorrg    0940 C578656-6    Ag Ni              412 Vv
+Foegoekh      1031 D530742-5    De Na Po           303 Vo
+Ganakhukha    1033 B778100-A  G Lo Ni              605 Vo
+Aengkfae      1034 C000766-9    As Na              514 Vo
+Irrgo         1035 E7765A8-3  C Ag Ni              134 Vo
+Thusaen       1036 E79A659-5    Ni Wa              503 Vo
+Aesthagz      1037 C520355-A    De Lo Ni Po        401 Vo
+Shugemansar   1040 D100558-9  C Ni Va              723 Vv
+Osang         1131 C100245-B  G Lo Ni Va           112 Vo
+Thotsdhar     1134 D669269-4    Lo Ni              404 Vo
+Keghag        1136 A7CA220-C  G Fl Lo Ni Wa        103 Vo
+Egirrg        1137 E7C4105-8  C Fl Lo Ni           204 Vo
+Gatskour      1139 A9EA103-E    Fl Lo Ni Wa        623 Vv
+Ghaello       1231 B454135-A    Lo Ni              924 Vo
+Taeltueng     1234 C868200-5  C Lo Ni              910 Vo
+Ranoti        1237 E655AB7-9  C Hi                 803 Vo
+Tsuthaegz     1239 D69A545-5    Ni Wa              802 Vv
+Llenggorr     1240 C88A353-9  C Lo Ni Wa           304 Vv
+Zerroegh      1332 X598200-3    Lo Ni              921 Vo
+Dulaeghur     1336 B100474-A    Ni Va              903 Vv
+Meyussyus     1339 D66755A-6  C Ag Ni C3           900 Vv
+On Alzur      1340 E7668AE-5  C                    903 Vv
+Konukh        1431 C530437-7    De Ni Po           500 Vo
+Ongaen        1433 C552236-6  C Lo Ni Po           224 Vo
+Akse          1434 B576831-5                       500 Vo
+Kakror        1437 A666642-A  G Ag Ni Ri Cp        213 Vv
+Oghzaen       1439 C7898A9-6                       502 Vv
+Elishu        1534 B598224-7  G Lo Ni              604 Vo
+Ezae          1535 C885677-7  G Ag Ni              402 Vo
+Kekhtuks      1539 C300423-A  G Ni Va              100 Vv
+Khuulurshii   1540 C436783-9  G                    504 Vv
+Kashi         1631 C453112-8  G Lo Ni Po           510 Vo
+Ughllalar     1638 D655663-2  G Ag Ni              100 Vv
+Kfa Zukhu     1640 B88586A-9  G Ri                 122 Vv

@@ -1,0 +1,25 @@
+@dir=gals\classic\gush\gen
+@Light Yellow
+
+Gushemege Sector / General Information
+
+
+@Light Cyan
+      Quick Introduction                          (D. Burden)  @intro.txt
+      Sector Data                    @..\map\data.mnu
+      Sector Overview                             (D. Burden)  @gush_04.txt
+      Duke Kirshaam Miikadgaa                     (D. Burden)  @gush_08.txt
+      Biographical Dictionary                     (D. Burden)  @gush_09.txt
+      Gushemege Archipelago                       (L. Piper)   @gush_14.txt
+
+      Subsector Summaries          @subs.mnu
+      Alien Summaries              @aliens\aliens.mnu
+
+      Corporations of Gushemege                   (D. Burden)  @gush_10.txt
+      Fleets of Gushemege                         (D. Burden)  @gush_11.txt
+      Travel Companies of Gushemege               (L. Piper)   @gush_17.txt
+      Colleges of Gushemege                       (L. Piper)   @gush_18.txt
+      Religions of Gushemege                      (L. Piper)   @gush_25.txt
+
+      Strephon's Covert Security Bureau           (A. Slack) @gush_03b.txt
+      Computer Augmented Behavioral Alteration    (L. Piper) @gush_19.txt

@@ -1,0 +1,25 @@
+
+System Details
+
+Primary F8V
+ Orbit     Name     UPP
+    0      Star     K2 V
+    1               LGG
+       8            x-670000-0
+      10            x-600000-0
+      12            x-200000-0
+      35            x-800000-0
+      40            x-S00000-0
+    2               SGG
+       1            x-R00000-0
+      20            x-S00000-0
+      45            x-S00000-0
+      50            x-S00000-0
+    3      Gerome   X-573344-8      RED ZONE
+       1            x-R_00000-0
+       7            x-S00000-0
+       9            G-202255-F
+
+   The Navy has built a small repair facility base, to help maintain the
+   quarantine.
+

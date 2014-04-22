@@ -1,0 +1,39 @@
+World: Thorp
+Subsector: Idhra
+Sector: Gythios Sector
+Coordinates: 2638 (P0208)
+UWP: A671761-B-08N
+
+Starport: Excellent
+Size: Medium (8800-10400 km)
+Atmosphere: Standard, tainted
+Hydrographics: 10% water
+Population: 90 million
+Govt: Captive Government
+Law Level: Low
+Technology: Average Stellar
+Life: Sterile
+Resource: Moderate
+Export: Weaponry/Armor
+Planetoid Belts: 0
+Gas Giants: 0
+
+Allegiance: Republic of Ionia
+Bases: Navy
+Trade Codes: None
+Travel Zone: Green
+
+Thorp was settled nearly a century ago by settlers from what
+would later become the Ionian Republic. The world was initially
+resistant to becoming a member of the republic, but encroachment
+by the dictatorship of Gresson's Worlds changed their mind.
+
+The "Thorps", as they are called, still feel an affiliation
+with the neutral worlds in this subsector, particularly with
+Steorra & Fogter, since both worlds have always had friendly
+relations with them. As for democracy, however, much of the
+population looks upon it as a farce, as they have to cope
+with a military governor, at least until their application
+as a full status member of the republic goes through the
+Ionian government.
+

@@ -1,0 +1,11 @@
+@SUB-SECTOR: stars_N   SECTOR: corridor
+#
+# Trade routes within the subsector
+#
+#--------1---------2---------3
+#PlanetName   Loc. Stars(s)
+#----------   ---- ---------
+Ashishinipar  0931 G0 V K5 D
+Nadnamnarni   1033 M4 V
+Tristira      1140 F7 V
+Tarin Sink    1432 M7 II M1 V

@@ -1,0 +1,45 @@
+@SUB-SECTOR: sec_g  SECTOR: Diaspaora
+#
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Avat          1713 X200000-0    Ba Va              023 Un
+Weyburn       1717 X437000-0    Ba                 001 Un
+Shaanii       1814 X457004-6    Ni Lo              104 Wi
+Waboni        1815 X6727RE-4                    B  613 Wi
+Umorphutwyo   1816 X410000-0    Ba                 021 Un
+Dryden        1818 E7596Q8-8    Ni                 413 Wi
+Megelina      1819 X300000-0    Ba Va              004 Un
+Remington     1820 X8A6000-0    Ba Fl              002 Un
+Ekuur         1911 X658300-2    Ni Lo           B  104 Wi
+Raymore       1912 E3568AD-8                       112 Na
+Khanii        1914 X53A000-0    Ba Wa              013 Un
+Daazu         1916 X5A1000-0    Ba Fl              000 Un
+Tigo          1918 X410000-0    Ba                 002 Un
+Arrow Rock    1919 X110000-0    Ba                 010 Un
+Feeble        2012 X100000-0    Ba Va              015 Un
+Coop          2013 X328000-0    Ba                 002 Un
+Opheim        2015 X7873P4-4    Ni Lo              202 Wi
+Depot         2018 X000000-0    Ba As              012 Un
+Nugual        2019 X7743S7-6    Ni Lo           B  104 Wi
+Bifirs        2112 E6437R8-8    Po                 220 Wi
+Grand Fork    2114 X5495O1-5    Ni                 302 Wi
+Gyration      2115 X100000-0    Ba Va              004 Un
+Kandom        2116 X6558RA-3                    B  704 Wi
+Princess      2117 X110000-0    Ba                 003 Un
+Hold          2118 X100000-0    Ba Va              024 Un
+Gilboa        2211 X6477R9-4    Ag              B  710 Wi
+Gecko         2212 E5924U9-7    Ni Lo              504 Wi
+Netti         2213 X9B8000-0    Ba Fl              013 Un
+Yossem        2216 X100000-0    Ba Va              000 Un
+Guild         2311 X200000-0    Ba Va              003 Un
+Oath          2312 X110000-0    Ba                 003 Un
+Raasara       2314 X6796R7-0    Ni              B  512 Wi
+Gilgamesh     2317 X100000-0    Ba Va              001 Un
+Beep          2411 X310000-0    Ba                 003 Un
+Hewes         2414 X336000-0    Ba                 014 Un
+Trot          2415 X110000-0    Ba                 001 Un
+Chief         2417 X100000-0    Ba Va              014 Un
+Didinka       2419 X3782P4-0    Ni Lo              203 Wi
+Layne         2420 X7968R6-3                    B  305 Wi

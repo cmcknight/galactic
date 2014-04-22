@@ -1,0 +1,48 @@
+@SUB-SECTOR: sec_G   SECTOR: magyar
+#
+# Trade routes within the subsector
+$1720 1521 -1 1
+$1912 1512 -1 0
+$1912 2214 0 0
+$1916 2214 0 0
+$1916 1918 0 0
+$1918 1720 0 0
+$2214 2411 0 0
+$2411 2512 1 0
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Namedih       1713 B350430-E  A De Ni Po        R  200 So     f
+Headley       1714 E99A855-B    Wa                 914 So
+Reed          1720 B876523-B    Ag Ni              200 So
+Nubtar        1815 B7B9899-E  W Fl                 510 Nu
+Vivian        1817 B421346-E    Lo Ni Po           404 So
+Higdon        1818 C999775-9                       301 So
+Pearce        1911 C4318AB-A    Na Po              303 So
+Dixon         1912 B320644-E    De Na Ni Po        520 So
+Tralp         1913 D968998-8    Hi                 304 So
+Abrell        1915 C322664-B    Na Ni Po           204 Nu
+Dreesen       1916 A201652-E    Ic Na Ni Va        200 So
+Ownes         1917 C786567-9    Ag Ni              814 Nu
+Wackowsk      1918 A7B5775-E    Fl                 705 So
+Pieper        1919 C566773-9    Ag Ri              403 So
+Tryon         2012 C110447-C    Ni                 700 So
+Ensley        2019 B150578-E  S De Ni Po           403 So
+Frostfelter   2118 B7BA778-E  N Fl Wa              704 So
+Rogalle       2213 E301666-9    Ic Na Ni Va        202 So
+Coglan        2214 AA9A8A6-E    Cp Wa              904 Im
+Vaderwall     2218 C652453-B    Ni Po              622 So
+Eoyang        2219 D545575-9    Ag Ni              503 So
+Last Pine     2312 E456561-8    Ag Ni           A  220 Al
+Boldfulch     2314 C331444-B    Ni Po              900 So
+Cloverreach   2316 E873640-8    Co Ni              300 Im
+Rodriguez     2317 D521320-8    Lo Ni Po           624 So
+Otha          2319 E334522-9    Ni                 600 Im
+Alto          2411 A1018AE-E    Ic Na Va        A  710 Al
+Boshkoff      2412 D636857-8                       504 Im
+Stevanic      2413 C797687-8    Ag Ni              404 Im
+Clarmoment    2415 B443426-C    Ni Po              500 Im
+Dexter        2416 B587510-C    Ag Ni              103 Im
+Schaut        2418 C240115-A    De Lo Ni Po        604 Im
+Drang         2419 E301124-B    Ic Lo Ni Va        614 So

@@ -1,0 +1,248 @@
+From: Jim Vassilakos <jimv@empirenet.com>
+Date: Wed, 16 Oct 1996 15:07:50 -0700 (PDT)
+Subject: IG's New Copyright Policy
+
+Marc Miller wrote me today concerning the recent copyright controversy.
+Since there's still confusion on the list as to exactly where he stands,
+I'm going to post what he sent along with my rather lengthy reply. Here goes:
+
+> I specifically encourage, support, and allow fan-authored, not-for-profit,
+> Traveller-compatible (for any version of Traveller) articles and materials,
+> including deck plans, network posts, and freeware. Provided they acknowledge
+> the Traveller trademarks and copyrights.
+>
+> I think it is stupid for the publisher of a role-playing game to not allow
+> (or encourage) those who buy and play the game to express themselves about
+> it. The requirement for the acknowledgement is to prevent the game system (or
+> parts of it) from falling into the public domain or the trademark becoming
+> liable to challenge.
+>
+> Marc Miller
+ 
+I'm glad to learn that we share the same philosophy on this issue. As
+you may know, it was only two years ago that TSR began telling ftp-sites
+around the world to delete their archives of fan-authored, AD&D-
+compatible material. Quite a few of my own donations got demolished in
+those purges (about 500-600 pages of an online magazine I used to edit),
+so if I seem rather persistent about this issue, it's only because
+getting burned once has left an indelible impression, not to mention a
+bitter taste for RPG companies in general and TSR in particular. Since
+Imperium games seems to have more than its fair share of ex-TSR employees,
+I was naturally interested to learn your copyright policy.
+
+Speaking of ex-TSR employees, I'm have to admit that I'm rather confused
+by some of Ken Whitman's statements on this issue which appear, at first
+glance, to conflict with your own statements above. Perhaps you can shed
+some light on this matter. This is an excerpt of a recent conversation
+between Joe Walsh and Ken Whitman.
+
+Joe: "What is IG's copyright policy vis a vis TML/Web/UseNET-published 
+materials for traveller, regarding: 1) original works, and 2) copyrighted 
+works."
+
+Ken:  "What do you mean by original works?"
+
+Joe:  "Stuff that people make up on their own, like new equipment, new 
+rules, etc."
+
+Ken:  "Well, as long as they put 'Traveller is a registered trademark of 
+FarFuture Enterprises.  Copyright (c) 1996' in there, there's no problem."
+
+Joe:  "So that means that, technically, all such works are the property 
+of FFE...?"
+
+Ken:  "Yeah.  We've been lax in our enforcement of this requirement, but 
+we really have to be more careful.  FFE could lose its Trademark.  But, 
+we don't want to anger the fans."
+
+My 1st question:
+
+Did Ken Whitman really mean to indicate here that any time a Traveller-
+fan writes some form of original but Traveller-compatible work (adventure,
+rules supplement, world description, character write-up, etc), that the
+individual in question must include a statement that transfers ownership
+of their original work to FFE? And if this is what he really meant to
+say, is this something that you agree with?
+
+I can understand acknowledging the Traveller trademark and FFE's
+copyrights, but this statement by Ken Whitman seems, in my mind, to go
+too far. After I first heard about it, I suggested on the TML what I
+thought was a reasonable alternative statement... one which would
+protect FFE quite well but which would also allow the individual authors
+to maintain ownership over their own work. Here is my suggested
+statement once again:
+
+  "Traveller is a registered trademark of FarFuture Enterprises (FFE).
+  Use of this trademark or of any material copyrighted by FFE is not
+  to be interpreted as a claim on such material. This work is to be
+  considered "unofficial" and FFE cannot be held liable for damages,
+  material or otherwise, resulting from its use. This work is
+  copyright 1996 (author's name). All rights reserved, except that
+  FFE may draw on this work in any fashion they deem appropriate."
+
+This reason I include the last sentence is just for IG's own protection,
+as it is possible that by pure coincidence, IG might publish something
+fairly similar to something a fan writes, and this line would protect
+them from the fan suing (not that I could envision this ever happening,
+but it pays to cover your aft-quarters every now and then). Of course,
+the fan would have to rely on IG's sense of "rightness" to not publish
+their work wholesale without compensation, but I don't see this as a
+problem. Some people (like myself) might not even want compensation,
+and might amend the last sentence to read: "All rights reserved, except
+that FFE is invited to draw on this work or even republish it without
+requesting permission."
+
+My 2nd question:
+
+Do you have a problem with this disclaimer? If so, what's the matter
+with it? I don't want to be pushy here. If all you require is that
+people acknowledge your trademarks and copyrights, that's fine. I'm
+just trying to suggest a little something extra so that you'll be
+better protected, but I'm not a lawyer, so what do I know?
+
+Oh, and a 3rd question, since I'm on a roll:
+
+Can we include official sector data in starmapping freeware? I'm
+assuming the answer is yes, but I want to make absolutely sure
+that it's okay with you.
+
+------------------------------
+
+From: rodge@cyberspace.com (Roger Sanger)
+Date: Wed, 16 Oct 1996 15:37:54 -0700
+Subject: DGP COPYRIGHTS
+
+Dear Traveller Afficionados and TML'ers,
+ 
+It  has  never  been  the  intention  of  MM  or  DGP to create a
+situation in which background for the game was barred from future
+reference in the game.
+ 
+That is, DGP was given an  open hand to draw upon GDW's Traveller
+materials, and in return gave MM and his associates equal freedom
+to design new Traveller game  materials based upon the background
+presented in  DGP's works. DGP  entered into this  agreement with
+the  full  awareness  that  Marc's  rights  of  derivation  would
+continue even  after DGP's right  to publish game  material under
+the  Traveller trademark  expired.
+ 
+Of  course,  the  scope  of  the  agreement  was  limited  to the
+publication  of  materials  for  the  Traveller role-playing game
+market. Any use of DGP's materials outside that market by Marc or
+his associates would require a new agreement with DGP.
+ 
+Under this  arrangement, once something  integral to the  setting
+was created  -- such as  a key person  (the Emperor, a  planetary
+leader, the head of a  major regional corporation, etc.), a piece
+of equipment, a class of ships, a planet (or culture, government,
+or organization),  etc. -- these  things could be  represented in
+new game works because they comprised the background of the game,
+that  is, they  DEFINED THE  MILIEU. The  text and  illustrations
+themselves could  not be reprinted,  but any idea  that fell into
+the category of "background" could  be drawn upon in the creation
+of new Traveller game products.
+ 
+The notable  exception to the reprint  restriction concerns data.
+Most  of  the  data  presented  in  the  game  consists  of  pure
+background,  and can't  be presented   in any  other way  than by
+reprinting it  verbatim. Planet names, UWP's,  sector data lists,
+ship  class  names,  ship  statistics,  and  other  data  can  be
+reprinted directly in new Traveller  game products (by Marc or by
+whomever he designates).
+ 
+The  copyright  limitations  mostly  concern  foreground.  Player
+characters, adventures, NPCs  insignificant to the superstructure
+of  the milieu,  their personal  activities, specific encounters,
+etc. Even though  these persons and events could  be mentioned in
+passing,  neither MM  nor DGP  would ever  consider reworking  an
+adventure  done  by  the  other,  or  making  use  of  their star
+characters, without getting permission first.
+ 
+As you can see, the distinction between foreground and background
+material  is highly  subjective, and  relies upon  the trust  and
+goodwill between  the parties involved.  For instance, throw-away
+references  were  often  picked  up  and  fleshed  out in greater
+detail, even some that could be identified as "foreground".
+ 
+One  thing you  need to  understand about  Marc is  that he takes
+pride in being the creator and leader of Traveller, and we at DGP
+have always found him to be a fair and honorable ruler. You don't
+have  anything  to  worry  about.  Marc's  main  concern  is  the
+happiness of his customers and followers.
+ 
+We at  DGP are very  happy that Marc  is in control  of Traveller
+once again, and we feel that it is a position he truly deserves.
+ 
+Sincerely,
+ 
+Roger Sanger
+Digest Group Publications
+
+------------------------------
+
+From: Joe Walsh <ransom@connect.iconnect.net>
+Date: Wed, 16 Oct 1996 18:32:58 -0500 (CDT)
+Subject: IG's Copyright/Trademark Policy (Clarification)
+
+Okay, folks, I have the answer to the copyright policy question.  I'll 
+try to be as concise and unambiguous as possible.  Nevertheless, I'm not 
+perfect (duh![G]), so if you think something seems awfully unfair or if 
+you have questions, please don't hesitate to ask for a clarification.
+
+IG Copyright Policy
+
+If you produce an original work for use with Traveller, you are the 
+copyright holder (see copyright law for details).  You own that original 
+work.
+
+However, IG and FFE ask that you put the trademark notice on that 
+original work.  This is done in order to protect their trademark.  
+
+If you want to distribute that work for free, that's where it ends.  No 
+more rules or provisions.  Create your original work, put the trademark 
+notice on it, and you own it.  It's all legal-like[G].
+
+If, however, you want to make money from that work, you will have to get 
+in contact with IG, get a Letter of Permission or a License, and do all 
+that is involved in such contracts (for details, contact Imperium 
+Games).  Alternatively, you can get in touch with Gold Rush Games, Sword 
+of the Knight Publications, or any other Officially Licensed publisher of 
+Traveller material (I don't know of any others at this point, but that 
+doesn't mean there aren't any others).  These folks can legally publish 
+your work since they are Licensees.  See these companies for details on 
+getting your work published with them.
+
+Finally, if IG wishes to take your work and publish it, they must 
+first come to an agrement with you, since it is your work.
+
+I hope that clears everything up.  I'm sorry for the confusion caused by 
+my earlier posting.  Please forgive me.  I am new to this job (been at it 
+7 days now, in fact), so I'm bound to make mistakes. :(
+
+I'll do better next time. 
+
+------------------------------
+
+From: FarFuture@aol.com
+Date: Thu, 17 Oct 1996 05:57:37 -0400
+To: jimv@e2.empirenet.com
+Subject: Re: Traveller Copyright Archive (v0.1)
+
+In a message dated 96-10-16 14:55:35 EDT, you write:
+> "Traveller is a registered trademark of FarFuture Enterprises (FFE).
+> Use of this trademark or of any material copyrighted by FFE is not
+> to be interpreted as a claim on such material. This work is to be
+> considered "unofficial" and FFE cannot be held liable for damages,
+> material or otherwise, resulting from its use. This work is
+> copyright 1996 (author's name). All rights reserved, except that
+> FFE may draw on this work in any fashion they deem appropriate."
+
+Portions are copyright (c) 199x Far Future Enterprises.
+
+That recognizes things that are Traveller and are included into whatever is
+being written.
+
+Marc
+
+Portions are copyright (c) GDW or its successor FFE
+

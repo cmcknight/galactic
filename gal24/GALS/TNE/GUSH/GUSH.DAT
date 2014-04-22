@@ -1,0 +1,35 @@
+Gushemege Sector
+
+A: Riften                    sec_a.dat
+B: Khiira                    sec_b.dat
+C: Taapvaia                  sec_c.dat
+D: Tansa                     sec_d.dat           f
+E: Gandonen                  sec_e.dat
+F: Rure                      sec_f.dat           f
+G: Ankhsusgar                sec_g.dat
+H: Isi Ahto                  sec_h.dat
+I: Balech                    sec_i.dat
+J: Sallounn                  sec_j.dat
+K: Dashinshaii               sec_k.dat
+L: Shire                     sec_l.dat
+M: Vipach                    sec_m.dat
+N: Laeth                     sec_n.dat
+O: Truax                     sec_o.dat
+P: Lagan                     sec_p.dat
+
+Bases:
+N = Naval Base
+D = Naval Depot
+S = Scout Base
+W = Way Station
+A = Navy & Scout Bases
+B = Navy & Way Station
+  = None
+
+Allegiance:
+14 Rd = Rurevayn Domain
+11 Na = Non-aligned
+12 Cs = Client State
+10 Wi = Wilds
+08 -- = None
+08    = Unknown

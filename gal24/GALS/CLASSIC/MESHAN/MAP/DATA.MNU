@@ -1,0 +1,28 @@
+@dir=gals\classic\meshan\map
+@Light Yellow
+Dagudashaag Sector / Data Files
+
+@Light Cyan
+      Sector Data                  @..\meshan.dat
+      Stars Data                   @stars\stars.mnu
+      Credits                      @..\credits.txt
+
+@Light Green
+      Subsector Data
+@Light Cyan
+       A: Raen                      @sec_a.dat
+       B: Lues                      @sec_b.dat
+       C: Ungersol                  @sec_c.dat
+       D: Dekesh                    @sec_d.dat
+       E: Yonder                    @sec_e.dat
+       F: Arena                     @sec_f.dat
+       G: Varson                    @sec_g.dat
+       H: Maramar                   @sec_h.dat
+       I: Mersol                    @sec_i.dat
+       J: Zisran                    @sec_j.dat
+       K: Tokho                     @sec_k.dat
+       L: Oraros                    @sec_l.dat
+       M: Khuulu                    @sec_m.dat
+       N: Faengfel                  @sec_n.dat
+       O: Ekso                      @sec_o.dat
+       P: Sudzum                    @sec_p.dat

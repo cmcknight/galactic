@@ -1,0 +1,40 @@
+@SUB-SECTOR: trin   SECTOR: spinmar
+#
+# Trade routes within the subsector
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Burtson       2534 C462667-8    Ni Ri O:2536       602 Re
+Squanine      2536 A300550-B    Ni Va              303 Re
+Dobham        2537 A450457-A  S Lo Ni Po De        523 Re
+Pyramus       2538 E566335-2    Lo Ni              214 Re
+Thisbe        2539 E4305AD-5    Ni Po De           322 Re
+Aramis        2540 B659872-6    Tp              B  324 Re
+Ayoreldold    2632 X895674-8    Ag Ni Tp An     R  301 Re
+Robin         2637 C00059C-C    Ni As              212 Re
+D'Mara        2638 E75A898-5    Wa                 110 Re
+Keltcher      2639 C525567-9    Ni O:2637          602 Re
+Tussinian     2731 B678324-7    Lo Ni Tp           520 Re
+Edenelt       2733 A4639BD-B    Hi                 134 Re
+Conway        2735 D894586-7  S Ag Ni Tp           311 Re
+Dodds         2739 C443ADF-7  S Hi In Po           123 Re
+Leander       2832 E695244-5    Lo Ni Tp           801 Re
+Pepernium     2833 D567530-3    Ag Ni              503 Re
+Traltha       2834 B790630-6    Ni De An           610 Re
+Farquahar     2839 C625563-7  S Ni O:2739          201 Re
+Raydrad       2933 E99467A-6    Ag Ni Tp        B  603 Re
+Zyra          2934 B555448-7    Lo Ni              301 Re
+Murchison     2935 B544433-6  N Lo Ni              305 Re
+Hammermium    2936 A5525AB-B    Ni Po              535 Re
+Thornnastor   2940 D534443-8  S C:1 Lo Ni          804 Re
+Katarulu      3032 B252665-B  B Ni Po Mr           801 Re
+Prilissa      3035 B985588-6    Ag Ni Tp           510 Re
+Tee-Tee-Tee   3038 C110530-9    Ni                 902 Re
+Youghal       3039 AA95365-B    Lo Ni O:3235       201 Re
+Tenelphi      3040 D76A579-9  S Ni Wa           B  901 Re
+Zephyr        3138 X89556A-3    Ag Ni Tp O:3039 R  404 Re
+Chamois       3139 B544742-5  S Ag                 123 Re
+Ramiva        3233 B1108A7-8    Na                 113 Re
+Trin          3235 A894A96-F  A Hi In Tp Cp        101 Re     f
+Hazel         3236 C645747-5    Ag Tp           A  210 Re

@@ -1,0 +1,49 @@
+@SUB-SECTOR: sec_K   SECTOR: vland
+#
+# Trade routes within the subsector
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Asanik        1722 E454244-7    Lo Ni              104 Wi
+Kalimgar      1725 X79967A-6    Ni                 624 Wi
+Gunavarum     1726 X553544-8    Ni Po              104 Wi
+Ashok         1728 C698355-6  N Lo Ni              120 Wi
+Kargem        1729 X110000-0    Ba                 020 --
+Lurkha        1730 X674632-2    Ag Ni An        B  820 Wi
+Iikhok        1821 X334000-0    Ba                 024 --
+Kasear        1822 X54776A-5    Ag              B  220 Wi
+Karfir        1825 X75386D-7    Po              B  423 Wi
+Sindal        1830 X9B8000-0    Fl Ba              001 --
+Sagida        1923 X223000-0    Ba Po              002 --
+Nimmer        1928 X420000-0    Ba Po De           024 --
+Sakhem        1929 X404000-0    Ba Va Ic           010 --
+Ziirkago      1930 X878558-3    Ag Ni           B  313 Wi
+Emrim         2022 X100000-0    Ba Va              001 --
+Zhattar       2023 X88A113-4    Lo Ni Wa           310 Wi
+Gaarluzargu   2027 C775648-6    C:6 Ag Ni          820 Wi
+Gabik         2029 X512000-0    Ba Ic              033 --
+Duusan        2030 X9CA000-0    Fl Ba Wa           022 --
+Lekkon        2122 D440522-4    Ni Po De           501 Wi
+Blikig        2123 X5A4000-0    Fl Ba              001 --
+Razzun        2124 X47266B-4    Ni                 710 Wi
+Shib          2125 X799697-5    Ni              B  310 Wi
+Dekhuun       2126 X478567-4    Ag Ni              420 Wi
+Gunnar        2129 X000000-0    Ba As              000 --
+Karlum        2221 X5AA000-0    Fl Ba Wa           020 --
+Markassar     2222 X7787CB-3    Ag              B  923 Wi
+Gurzish       2223 X76A654-6    Ni Wa              301 Wi
+Iamone        2225 X110000-0    Ba                 024 --
+Zikurag       2227 X536000-0    Ba                 024 --
+Munakhiin     2229 X202000-0    Ba Va Ic           010 --
+Gikarlum      2321 X432000-0    Ba Po              033 --
+Hefas         2322 D77587A-7                       615 Wi
+Zruub         2323 X353447-3    Lo Ni Po           203 Wi
+Firdakh       2324 X332000-0    Ba Po              020 --
+Derkhuun      2325 X310000-0    Ba                 005 --
+Fharnas       2328 X8A8000-0    Fl Ba              001 --
+Tobrun        2329 X400000-0    Ba Va              001 --
+Umzgaa        2330 X000000-0    Ba As              000 --
+Martle        2425 X140305-4    Lo Ni Po De        524 Wi
+Khanaddar     2426 X000000-0    Ba As              002 --
+Irgar         2429 X120000-0    Ba Po De           012 --

@@ -1,0 +1,57 @@
+@SUB-SECTOR: sec_L   SECTOR: mendan.sec
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+$2624 2424 -1 0 11
+$2624 2922 0 0 11
+$2624 2927 0 0 11
+$2927 3029 0 0 11
+$3029 3230 0 0 11
+$3230 3233 0 1 11
+$3122 0223 1 0 11
+$3122 2922 0 0 11
+$3230 0127 1 0 11
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX f
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Uvoullen      2521 C326368-9  M Lo Ni           A  410 Ja 
+Irrkeng       2523 C784595-7  M Ag Ni              424 Ja 
+Miduushii     2527 C442748-7    Po                 700 Ja 
+Muremi        2530 D301345-9    Ic Lo Ni Va        700 Ja 
+Aenkong       2622 C422789-8    Na Po           R  423 Ja 
+Nenkun        2624 B989A9C-C  M Hi                 624 Ja 
+Aekhel        2626 C221468-A    Ni Po           A  704 Ja 
+Scar          2627 B200648-B    Na Ni Va           820 Ja 
+Cliffs        2628 C5218CA-5    Na Po              701 Ja 
+Unogzaez      2629 C678452-7  M Ni                 310 Ja 
+Laargi        2721 C5568A9-5  M                    922 Ja 
+Dolon         2723 A566668-7    Ag Ni Ri           104 Ja 
+Namdi         2725 C558001-8    Lo Ni              204 Ja 
+Ghuets        2726 B534116-9    Lo Ni              110 Ja 
+Ulag Ugh      2822 D556898-2                    R  311 Ja 
+Ghourz        2823 C763103-8    Lo Ni              904 Ja 
+Usikaspe      2824 C100764-9  M Na Va              403 Ja 
+Uetherr       2825 D5307A7-5    De Na Po           604 Ja 
+Airus         2922 A4439A9-E  F Hi In Po Cp        222 Ja
+Kfangurr      2924 C320775-7  M De Na Po           500 Ja 
+Kahn          2926 E463410-4    Ni                 604 Ja 
+Simuurish     2927 C896551-5  M Ag Ni              704 Ja 
+Baduda        2928 C655141-8    Lo Ni              824 Ja 
+En Olae       2929 D4576A9-5    Ag Ni              223 Ja 
+Gung-ho       3023 C98585A-9  M Ri                 800 Ja 
+Gagorrg       3025 B320737-A    De Na Po           710 Ja 
+Karukdze      3026 C388587-6  M Ag Ni              523 Ja 
+Volrang       3028 C322455-B  F Ni Po              422 Ja 
+Talsego       3029 B776611-6  M Ag Ni              502 Ja 
+Philoctetes   3122 A67A223-D    Lo Ni Wa           524 Ja 
+Iluke         3123 E754352-5    Lo Ni              305 Ja 
+Ounggzul      3124 B525758-7  J                    803 Ja 
+Arsdorr       3126 C766345-6    Lo Ni              522 Ja 
+Igzaeg        3129 D9D9866-5    Fl                 524 Ja 
+Zadudur       3221 B621662-8  J Na Ni Po           922 Ja 
+Barbur        3225 C459777-5  F                    223 Ja 
+Pegush        3228 E7A6111-6    Fl Lo Ni           703 Ja 
+Iddii         3230 B677755-7    Ag                 103 Ja 
+

@@ -1,0 +1,20 @@
+
+[Q] I'm working on a new galaxy, and I'd like to send it to a
+friend. What should I do?
+
+[A] Use the "X" key at the galaxy menu to export your galaxy,
+putting it into a ".gar" (galaxy archive) file. Using the "X"
+key at the galaxy map will export a sector to a ".sar" (sector
+archive) file. Using the "I" key at either map will allow for
+the importing of these files.
+
+-  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -
+
+[Q] I'm not ambitious enough to tackle a whole galaxy, but I have
+been writing some world descriptions which you might want to include
+in the next version of this program. What format is best for you?
+
+[A] Plain ol' text is best for me. Just email me your stuff, and if
+it looks like you've run it through a spell-checker and got most of
+the commas in the right places, I'll take care of the rest.
+

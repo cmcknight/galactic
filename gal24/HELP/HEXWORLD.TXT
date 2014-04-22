@@ -1,0 +1,37 @@
+Hexworld v1.1
+Public Domain 1997 Jim Vassilakos
+jimv@empirenet.com
+
+Hexworld is a quick & dirty mapping program that will allow you
+to draw out the major continents and oceans of your world with a
+minimum of time and effort. The grid is based on the typical
+icosahedral projection of twenty interlocking triangles which is
+common to many game systems. Each of these is, in turn, divided
+into hexagons. The program uses 490 of these hexes, and the width
+of a single hex is approximately 1/35th of the world's circumference.
+You can place up to forty "locations" on your world and attach text
+or menu files as you deem appropriate. Note that Hexworld assumes
+that all your text/menu attachments go in the same directory as your
+(.hex) mapfile. Locations w/o attachments are colored blue on the
+inside, and locations w/ attachments are colored red on the inside.
+
+Here's a brief summary of the available commands:
+
+      Arrows          Movement
+       A-P            Color hex
+      Q/Esc           Quit (saving changes)
+        R             View this file
+        S             Summary stats
+       Ins            Insert location
+       Del            Delete location
+        >             Edit location
+   Enter/Space        Read about location
+    Ctrl-E, <         Save & Edit map file directly
+      Ctrl-F          Fill fifth-section with one color
+      Ctrl-G          Fill globe with one color
+      Ctrl-L          Redraw map
+      Ctrl-S          Save map (without quitting)
+      Ctrl-X          Exit (without saving changes)
+        F1            Toggle hex# display
+        F10           Dump worldmap to bitmap
+

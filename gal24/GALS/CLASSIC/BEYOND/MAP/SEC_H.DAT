@@ -1,0 +1,25 @@
+@SUB-SECTOR: sec_H   SECTOR: beyond.sec
+#
+# Trade routes within the subsector
+$2519 2619 0 0
+$2617 2619 0 0
+$2719 2619 0 0
+$2819 2619 0 0
+$2619 2820 0 0
+$2619 2621 0 1
+$2819 2922 0 1
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Mal'Jlan      2512 B537AA8-7                    A  4   MF     f
+Dismal        2519 B351687-9    Na Ni Po           3   Na
+D Cirith Ungol2617 B486988-9                       3   Na     f
+Lesser Dismal 2619 A5D7597-8    Na Ni              2   Na     f
+Mal'Zlim      2712 E516578-8    Ni              A  5   MF
+Normal        2719 C8651FF-A  T Ni              A  3   Na     f
+Northstar     2819 DJVVVVV-G  2 Ri Ca              6   Na     f
+Great Dismal  2820 A6M2675-B  N Ni Ca              4   Na
+Mal'Tlan      2912 C834340-7    Ni              A  8   MF
+Mal'Rift      3011 X899947-5    Na In           R  5   MF
+Mal'Thys      3012 E87727A-4    Na Ni           A  2   MF

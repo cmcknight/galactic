@@ -1,0 +1,41 @@
+@SUB-SECTOR: stars_H   SECTOR: trojan
+#
+# Trade routes within the subsector
+#
+#--------1---------2---------3
+#PlanetName   Loc. Stars(s)
+#----------   ---- ---------
+Pryme         2513 F0 V
+Nekrino       2515 M4 V
+Boulder       2517 K2 V K4 D
+Eksoset       2520 F6 V
+Intelia       2612 F4 V
+Gor           2614 M5 V
+Scaladon      2616 F6 V
+Empire        2711 G2 V M4 V
+Hradus        2714 F1 V M6 V
+Hexx          2715 F6 V
+Iilgan        2719 G7 V
+Saurus        2813 F0 V
+971-852       2814 F6 V M3 V
+Ardasii       2815 F7 V
+Wilderman     2819 F7 V
+Pandora       2820 F0 V
+Darchona      2912 F9 V
+Sabruse       2915 F3 V M5 V
+Imisaa        2916 F8 V M5 V
+Fist          2918 F1 V
+Dimorus       3011 G0 V M7 V
+Elphinstone   3012 F1 V
+Ayidem        3013 M2 V
+Pichot        3015 F1 V M8 V
+New           3016 F9 V
+Khaliki       3111 F5 V
+Simok         3113 F0 V
+Attee         3116 F9 V
+Eshadi        3117 M7 V
+New Moscow    3119 F8 V
+Berg          3212 F5 V
+Kedus         3213 F8 V
+Tobia         3215 F7 V
+Batav         3219 M6 II

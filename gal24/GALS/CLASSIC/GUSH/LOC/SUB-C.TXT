@@ -1,0 +1,112 @@
+
+HIWG Publication Number:   3406                  Release Date:   901022
+
+From:     David Burden
+          Gushemege Sector Analyst
+          47 Middle St
+          Brockham
+          BETCHWORTH
+          Surrey RH3 7JT
+          UK
+
+To:       Kevin Parry, HIWG UK
+          Clayton Bush, Quadrant 1 Editor
+          J Duncan Law-Green, Vland Domain Editor
+
+Subject:  Taapvaia Subsector Summary
+
+Abstract:
+
+     A   map  and  basic  system  information  for  Taapvaia
+     ( Gushemege C ) is presented. Information is dated 1116.
+
+TAAPVAIA SUBSECTOR
+
+     Taapvaia subsector ( subsector C of Gushemege ) lies within  the
+Lancian Cultural Region.  It was the least affected Lancian subsector
+during  the Vilani Pacification Campaign,  and as a result retains  a
+strong Lancian identity.  Oroth remains a radioactive wasteland  from
+the  ravages  of  the  Campaign,  although  a  terraforming  team  is
+currently  in  residence.  Ranant  and Mestitela  were  resettled  by
+Makhidkarun after the Campaign.
+
+     The  corporate world of Trama rebelled against Imperial rule  in
+980,  in  an  attempt to free itself from  Imperial  restrictions  on
+psionic  research.  The world was brought back into line by  blockade
+and Makhidkarun now oversees the operations of Trama Oy.
+
+     Irkhi  and  Painntu are partners in a  powerful  trade  alliance
+that  dominates industrial and agricultural trade within the  Painntu
+cluster. A new class A orbital starport is being built at Painntu.
+
+     Penelasse orbits a close binary,  the larger component of  which
+features  an  extraordinary  degree  of  chromospheric  and  starspot
+activity.  IISS  maintains  a network of solar observatories  in  the
+system, and conducts chromospheric probe research here.
+
+Name          Loc  UWP    Bases Classification Zn Data Al Stars
+
+Roy           1801 A130755-F  N Na Po De           203 Im M0 V
+Moseesi       1810 E21087C-8    Na                 400 Im M1 V
+Trama         1905 B7B0510-E    Ni De              603 Im G0 II
+Ranant        2007 C251888-B    Po                 902 Im G1 V
+Sypny         2008 C552684-A    Ni Po              904 Im M9 V M7 VI
+Mishiin       2105 E332753-9    Na Po              103 Im G4 V M2 D
+Ivto          2106 B425410-B  N Ni                 504 Im M1 V M7 D
+K'ketopan     2107 D232465-A    Ni Po              724 Im M4 V
+Hilcaa        2108 E54089B-4    Po De              322 Im M2 VI M3 D
+Brice         2110 B8A9762-C  N Fl                 400 Im M2 V
+Mestitela     2202 B55589C-8  S                    203 Im K2 V M5 D
+Uurkhi        2205 E221667-9    Na Ni Po           212 Im A3 V
+Painntu       2206 D547658-7  S Ag Ni              701 Im M3 V
+Irkhi         2207 C678977-C    Hi In              222 Im K2 V
+Sehnaihal     2210 C658833-6  S                    713 Im M4 V
+Kiind         2303 D868554-A  S Ag Ni              512 Im G0 V M6 D
+Sharenga      2305 A68499B-F    Hi Cp              602 Im K3 V M4 D
+Mulanje       2306 E797410-9    C7 Ni              124 Im K1 V
+Penelasse     2307 C221585-C  S Ni Po              400 Im M1 V M4 D
+Choma         2308 E340546-6    Ni Po De           401 Im G3 V
+Oroth         2309 B672300-D    Lo Ni              101 Im M8 V
+Viskka        2310 A794524-D    Ag Ni              500 Im M1 V M1 D
+Hannbrous     2404 D759635-4    Ni                 320 Im F3 V M5 D
+Ellus         2406 A73A8CF-C    Wa                 203 Im M4 V
+Cirsel        2408 A538411-F    Ni                 923 Im M3 V
+Admalaknii    2410 C88A455-B    Ni Wa              204 Im K0 V M9 D
+
+     Taapvaia subsector contains 26 worlds with a total population  of
+13 billion.  The highest population level is 9, at Irkhi and Sharenga.
+The  average tech level is 10,  and the highest tech level is  15,  at
+Roy, Sharenga, and Cirsel. All worlds are members of the Imperium.
+
+
+
+                              Sinta
+
+
+            K            ----------------              T
+            h                   |                      a
+            i                   |                      n
+            i                                          s
+            r            Map of Subsector              a
+            a
+                                |
+                                |
+                         ----------------
+
+
+                            Ankhsusgar
+
+
+                  T A A P V A I A   S u b s e c t o r
+
+                      Subsector C of Gushemege
+
+
+
+
+
+
+
+
+
+

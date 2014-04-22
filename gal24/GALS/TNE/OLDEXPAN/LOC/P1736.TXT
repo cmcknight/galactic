@@ -1,0 +1,28 @@
+Poyzen X7873R5-0
+
+       Size: Medium (10400-12000 km)              Atmosphere: Dense
+       Hydrographics: 70% water                   Population: 5,000
+       Govt: Feudal Technocracy                   Law Level: Moderate
+       Technology: 9                              Starport:E
+ 
+	On 05/I/1202 Baldur started a colonization effort on this world. They 
+have sent several thousand colonists to this new planet.  Oriflamme has 
+helped by supplying farmers.  This is part of a joint effort to expand the
+rimward portion of the Coalition.  It will also supply Baldur with much 
+needed agricultural imports.
+ 
+	Poyzen, the colony site, is unusual in planetological terms, in that it
+originally had an atmosphere classified as tainted, due to volcanic
+pollutants in its atmosphere. However, the world's volcanism has passed into
+a dormant phase, and the planet's atmosphere has cleaned itself up to the
+point where it is no longer rated as tainted. The world is thought to be
+uninhabited, having only been the site of a Last Imperium scout base
+destroyed in the Collapse.
+	
+    Actually the planet is occupied by a few hundred decendents of the 
+Scout Base's staff.  They are very primitive, TL 0 with a few relic
+weapons, the most important of which is a relic laser rifle.  The 
+tribe's chief possesses this.
+
+References:
+World Tamer's Handbook

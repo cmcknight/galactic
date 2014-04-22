@@ -1,0 +1,49 @@
+@SUB-SECTOR: sec_N   SECTOR: gvurrdon
+#
+# Trade routes within the subsector
+#
+$1539 1738 1 0 2
+$1539 1238 0 0 2
+$1238 1336 0 0 4
+$1336 0937 0 0 4
+$1238 1039 0 0 4
+$1039 0739 -1 0 9
+$1039 1238 0 0 8
+$1238 1336 0 0 8
+$1336 1134 0 0 9
+$1134 1132 0 0 9
+$1134 1132 0 0 8
+$1134 0935 0 0 4
+$1132 1333 0 0 4
+$1333 1535 0 0 4
+$1333 1631 0 0 4
+$1631 1830 1 -1 9
+$1631 1830 1 -1 8
+$1132 0930 0 -1 4
+$1132 1129 0 -1 9
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Vurrfourraeksa0934 A65A255-A    Lo Ni Wa           422 Vr
+Saksoukuer    0935 B5727AC-6  G                    712 Vr
+Aerritho      0937 B30086B-B  G Na Va              701 Vc
+Neridhueraeng 0938 B431334-B    Lo Ni Po           501 Vc
+Ghin          0939 C47778C-6    Ag                 810 Vc
+Dheg          1034 E310335-7    Lo Ni              204 Vr
+Koekh Uez     1036 A453672-9    Ni Po              724 Vc
+Inghinfudzolor1037 B6A5786-8    Fl                 343 Vc
+Zaenluekegze  1039 B200686-8    Na Ni Vc           334 Vc
+Ogotelloegzlli1132 A576842-8                       324 Vr
+Aeggiks       1134 A505401-E    Ni Ic Va           920 Vr
+Akfukh        1140 D330689-7    Na Ni Po De        603 Vc
+Udaethaen     1233 E221336-9    Lo Ni Po           720 Vr
+Ksorraknue    1236 B200657-C    Na Ni Va           104 Vc
+Uerzthu       1238 B325986-B    Hi In              302 Vc
+Sethgnakh     1333 D86769C-4    Ag Ni Ri           535 Vr
+Okfozarrga    1336 A596322-9    Lo Ni Cx           313 Vc
+Thoghaezae    1337 E5A1100-8    Lo Ni Fl           601 Vc
+Dharrgkhaksuza1434 B843200-7    Lo Ni Po           901 Vr
+Noe           1535 A110464-D    Ni                 323 Vr
+Dhaengae      1539 B9789AA-A    Hi In              410 Va
+Ougzsaeg      1631 E9A9741-8    Fl                 602 Vr
+Usere         1634 B200664-7    Na Ni Va           224 Vr

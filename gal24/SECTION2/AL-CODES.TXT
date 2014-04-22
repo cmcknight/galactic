@@ -1,0 +1,587 @@
+
+                                ALEGIANCE CODES
+                                       
+   By: Leroy W.L. Guatney <lwlguatn@ouray.cudenver.edu>
+   
+   
+     _________________________________________________________________
+   
+   
+   
+   Atlas of the Imperium (Second Survey)/MTAv1&2 (non-Vargr)/MTJ4:
+
+A0  Yerlyaruiwo Tlaukhu Bloc                    HIERATE
+A1  Khaukeairl Tlaukhu Bloc                     HIERATE
+A2  Syoisuis Tlaukhu Bloc                       HIERATE
+A3  Tralyeaeawi Tlaukhu Bloc                    HIERATE
+A4  Eakhtiyho Tlaukhu Bloc                      HIERATE
+A5  Hlyueawi/Isoitiyro Tlaukhu Bloc             HIERATE
+A6  Uiktawa Tlaukhu Bloc                        HIERATE
+A7  Ikhtealyo Tlaukhu Bloc                      HIERATE
+A8  Seieakh Tlaukhu Bloc                        HIERATE
+A9  Aokhalte Tlaukhu Bloc                       HIERATE
+Ak* Akeena Union                                Gateway
+Ak* Auftei Ktaih                                Hanstone
+Am  Amondiage                                   Reft
+Ar  Aoiftu Roakh                                Banners
+As  Aslan Hierate/Colonies                      HIERATE
+Aw  Yehaso Clan (Aslan)                         Reaver's Deep
+Av  Avalar Consulate                           (Foreven/The Beyond)
+Bs* Belgardian Sojourn                          Trojan Reach
+Bs* Bright Star Cooperate                       Malorn
+Ca* Principality of Caledon (see Cp)            ARCHAIC Reaver's Deep
+Cb  Carrillian Assembly                         Reaver's Deep
+Cd  Confederation of Duncinae                   Reaver's Deep
+Ch  Union of Chapet                             The Old Expanses
+Cl  Corellian League/Colony                    (The Beyond/Vanguard Reaches)
+Cn  Creation of Nonpareil                      (Malorn/Hadji)
+Cp  Principality of Caledon                     Reaver's Deep           (TTC)
+Cs  Client State (Imperial)                     IMPERIUM+
+Ct  Carter Technocracy                          Reaver's Deep
+Da  Darrian Confederation                       The Spinward Marches
+Dc  Delsun Comagistrant                         Banners
+Dd  Domain of Deneb                             DENEB
+Dg*                                             Reaver's Deep
+Dg* Dienabach Gru\pen                           Neworld  (u\ = u umlaut)
+Dj  Daprolix Juncture of Suns                   Malorn
+Dn  Demos of Nobles                             Neworld
+Dr  Droyne                                      The Spinward Marches
+Dt  Duchy of Trelyn                            (Far Frontiers/Vanguard Reach.)
+En  En Liverech                                 The Old Expanses
+Es* Eslyat                                      Vanguard Reaches
+Es* Esperanza                                   Reft
+Et  Etra                                        Hfiywitir
+Fa* Federation of Arden                         The Spinward Marches
+Fd  Federation of Daibei                       (Daibei)
+Fg  Federation of Garrone                       The Beyond
+Fl  Florian League                              Trojan Reach/The Beyond
+Fo  Fteiheiel Oih                               Hanstone
+Ga* Galian Federation                           Gateway
+Ga* Gralyn Assemblage                           Reaver's Deep
+Gd  Grand Duchy of Douglas (Caledonian)         Reaver's Deep          (LWLG)
+Gf  Glimmerdrift Spread                         Glimmerdrift Reaches
+Gk  Khan World League                           Reaver's Deep
+Gl  Glorious Empire                             Trojan Reach
+Go  Gerontacrcy of Ormine/Gyj-nuah 'Oew         Dark Nebula
+Gr* Gazala Cooperative/Colony                   Glimmerdrift Reaches
+Gt  Great Terbah                                Malorn
+Hc* Council of Heads                            Hanstone
+Hl  Hegemony of Lorean                          Empty Quarter
+Ho  Hochiken People's Assembly                  Gateway
+Hv  Hive Federation                             FEDERATION
+Hy  Hreahiyouea                                 Fahreahluis
+Id  Islaiat Dominate                            Reaver's Deep
+If  Iyeaao'fte                                  Ustral Quadrant
+Im  Third Imperium                              IMPERIUM
+Jd  Joie De Vivre                               Malorn
+Jf  Jonson-Bowes Federation                     Hadji
+Jn  Jurisdiction of Nadon                      (Hanstone/Canopus)
+Jo* Joyeuse                                     Reft
+Jr* Julian Protectorate                        (Amdukan)
+Ke  Katanga Empire                              The Beyond
+Kk  The Two Thousand Worlds (K'kree)            KKREE
+Kl  Khuur League                                Ley
+Ko  Khosarliyh                                  Hfiywitir
+Kt  Ktouho'as                                   Fahreahluis
+La  League of Antares                           Antares
+Lv  Lords of Vision                             Malorn
+Ly  Lanyard Colonies                            Reaver's Deep         (TNE-P)
+Ma* Grand Duchy of Marlheim (see Mh)            ARCHAIC Reaver's Deep (TNE-P)
+Ma* Margaret's Stronghold                      (Delphi)
+Me  Megusard Corporate                          Gateway
+Mh  Grand Duchy of Marlheim                     Reaver's Deep         (MTAv2)
+Mk  Marrakesh Trade Association                 The Beyond
+Mu* Malorn Union                               (Malorn)
+Mu* Murian                                      Vanguard Reaches
+Na  Non-Aligned (Human)                         IMPERIUM+
+Nb  Neubayern                                   Reft
+Nc* New Colchis                                 Reft
+Nc* Nakris Confederation                        The Beyond
+Nh  New Home                                    Reft
+Oc  (Oceanus?)                                  Reaver's Deep
+Of  Oleaiy'fte                                  Ustral Quadrant
+Ok  (? Kolath?)                                 Reaver's Deep
+Pb  Parity of Brothers                         (Malorn/Hadji)
+Pl  Plavian League                              Gateway
+Po  Portine League                              The Old Expanses
+Pu  Purity                                      Reaver's Deep         (TNE-P)
+Ra  Ral Ranta                                   Hinterworlds
+Re* Renkard Union                               Gateway
+Rm  Regency of Muirimi                         (Iphigenaia/Theron)
+Sa* Sansterre                                   Reft
+Sa* Sea'ai'teluarliyh                           Fahreahluis
+Sa* Saul Empire                                 Glimmerdrift Reaches
+Sb* Serendip Belt                               Reft
+Se  Steaak'heafera                             (Irlaftalea/Hfiywitir)
+Sf  Senlis Foederate                            Trojan Reach
+Sh  Steaakh Hlaia                               Ahkiweahi
+Sl  Slovenian Protectorate                      Glimmerdrift Reaches
+So  Solomani Confederation                      SOLOMANI
+Sw* Swanfei Free Worlds                         Gateway
+Sw* Sword Worlds Confederation                  The Spinward Marches
+Sy* Sylean Federation                           Core
+Sy* Steaakh Yeasaol                             Hfiywitir
+Ta*                                             Reaver's Deep
+Ta* Tealou Arlaoh                              (Uistilrao/Ustral Quadrant)
+Tb  Trita Brotherhood                           Canopus
+Tr* Toh Republic                                Malorn
+Tr* Trindel Confederacy                         Gateway
+Tw  Theocracy of Weltschmerz                    Malorn
+Uh  Ulane Hierate (Union of Harmony)           (Reaver's Deep/Dark Nebula)
+Um  Union of Melzirn                            The Beyond
+Va  Vargr (Non-Aligned)                         VARGR
+Ve* Vegan Autonomous District                   Solomani Rim
+Vi* Viyard Concourse                            Gateway
+Wc  Counsel of the Wise                         Hadji
+Wd  Winston Democracy                          (Hadji)
+Ww  Woal Warliylr                               Banners
+Zh  Zhodani Consulate/Colonies                  ZHODANI
+Zl  Pa'an (Zhodani Client)                      Trojan Reach
+
+   
+   
+   Alien Module 3-Vargr codes:
+
+Vd* Dzen Aeng Kho (Society of Equals)           Gvurrdon
+Ve* Ekhelle Ksafi (40th Squadron)               Gvurrdon
+Vg* Gaerr Thue (Pact of Gaerr)                  Gvurrdon
+Vk  Kedzudh Aeng (Commonality of Kedzudh)       Gvurrdon
+Vn* Rukh Aegz (Worlds of Leader Rukh)           Gvurrdon
+Vp* Thirz Uerra (Thirz Empire)                 (Gvurrdon/Usingou)
+Vr* Gnoerrgh Rukh Lloell (Anti-Rukh Coalition)  Gvurrdon
+Vs  Saeknouth Igz (Saeknouth Dependency)        Gvurrdon
+Vt  Thoengling Raghz (Thoengling Empire)       (Gvurrdon/Tuglikki)
+Vu* Urukhu (Nation of Urukhu)                   Gvurrdon
+
+   codes (I forget the source) as assigned by ?:
+
+Bv  The Biumvirate                              Far Frontiers
+Dh  Descarothe Hegemony                         Far Frontiers
+Fs  Federation of Alsas                         Far Frontiers
+Hc* Haladon Cooperative                         Far Frontiers
+Ls  The League of Suns                          Far Frontiers
+Pr* The Protectorate                            Far Frontiers
+Sc* Salinaikin Concordance                      Far Frontiers
+Td  The Trelyn Domain                           Far Frontiers
+Ug  The Union of Garth                          Far Frontiers
+Za  Domain of Alntzar                           Far Frontiers
+Zc* Colonade Administration District           (Far Frontiers/Vanguard Reach.)
+Zf  The Four Worlds                             Far Frontiers
+Zm  Mnemosyne Principality                      Far Frontiers
+Zp  The Zelphic Primacy                         Far Frontiers
+
+   
+   
+   post Fifth Frontier War allegiances:
+
+Bw  Border Worlds                               The Spinward Marches
+Sw* Sword Worlds Confederation                  The Spinward Marches
+SW  Sword Worlds Union                          The Spinward Marches
+
+   
+   
+   Useful additional codings:
+
+A#  Aslan Tlaukhu Clan (# is a number)          HIERATE
+A*  Aslan Clan (* is a letter)                  HIERATE
+H*  Hiver Client/Component (* is a character)   FEDERATION
+J*  Julian Protectorate (* is a character)      Mendan/Meshan/Amdukan
+V*  Vargr (* is a letter)                       VARGR
+Z*  Zhodani Client (* is a letter)              ZHODANI
+
+   Hinterworlds codes (Challenge 39):
+
+Ac* Anubian Trade Coalition                     Hinterworlds
+Cu  Cytrialin Unity                            (Hinterworlds)
+Gi  Gniivi                                     (Hinterworlds)
+Lp  Council of Leh Perash                      (Hinterworlds)
+Ow  Outcasts of the Whispering Sky              Hinterworlds
+Ra  Ral Ranta                                   Hinterworlds
+
+   
+   
+   Factions of the Rebellion codes:
+
+Dd  Domain of Deneb                             DENEB
+Fd  Federation of Daibei                        IMPERIUM
+Fi  Federation of Ilelish                       IMPERIUM
+La  League of Antares                           IMPERIUM
+Li  Lucan's Imperium                            IMPERIUM
+Ma* Margaret                                    IMPERIUM
+Rv  Ziru Sirka                                  IMPERIUM
+St  Strephon's Imperium                         IMPERIUM
+
+   Hard Times states/regions
+
+Fr  Frontier                                    tzone
+Ou  Outlands                                    tzone
+Wi  Wilds                                       tzone
+Ac* Khavle Accordment                           Diaspora                (AGD)
+Bc  Backman Cluster                             Diaspora
+Ca* Alurzan Cartel                              Diaspora
+Du  Duwamish League                             Diaspora
+Ec  Ecclesiasty of Narquel                      Diaspora
+Fd  Federation of Daibei                       (Daibei)
+Hd  Hewes Dyad                                  Diaspora               (LWLG)
+Ju* Vassalry Judiciate                          Diaspora
+Kh  Khavle Accordment (see Ac)                  ARCHAIC Diaspora         (HT)
+No  New Order Vigilance Alliance                Diaspora
+Pr* Unity of Promise                            Diaspora
+Rs  Rintarna Economic Sphere                    Reaver's Deep         (TNE-P)
+Sb* Bootean Federation                          Solomani Rim
+So  Solomani Confederation                      SOLOMANI
+Un  Union of Sufren                             Diaspora
+
+   New Era codes: (u) = unpublished
+
+--  Barren World in the Wilds                   Diaspora
+Ae  Aellelaek Ksafi                         (u) Windhorn               (LWLG)
+Ca* Confederation of Antares                    Lishun
+CH  Hiver Client State                      (u) The Old Expanses        (GEO)
+Cs  Client State (X-Imperial, Regency)      (u) DENEB                  (LWLG)
+Da  Daryen Confederation                    (r) The Spinward Marches   (LWLG)
+DL  Dingir League                           (u) Solomani Rim            (HDH)
+Dp  Duchy of Pendang                            Reaver's Deep         (TNE-P)
+Dr  Droyne                                      The Spinward Marches   (LWLG)
+Fa* Federation of Arden                         The Spinward Marches   (LWLG)
+GC  Gram Confederation                      (u) The Spinward Marches   (LWLG)
+Gc  Gotsdzo Uerra Client State              (u) Windhorn               (LWLG)
+Gr* Grendal                                     Reaver's Deep         (TNE-P)
+GU  Gotsdzo Uerra                           (u) Windhorn               (LWLG)
+Gu  Gralyn Union                                Reaver's Deep         (TNE-P)
+H*  Hiver Star Patterns Trading             (u) YOUNG WORLDS           (LWLG)
+Hb  Hub Worlds                                  Massilia
+Hf  Hive FDA Uplift/Observation Site        (u) FEDERATION             (LWLG)
+Hv  Hive Federation                             FEDERATION             (LWLG)
+Ie  Iltharan Empire                             Reaver's Deep         (TNE-P)
+Ka  Kidunal Abeyance                        (u) Kidunal                (LWLG)
+Na  Non-aligned                                 IMPERIUM+
+NS  New Sacnoth Dominate                    (u) The Spinward Marches   (LWLG)
+NU  Narsil Union                            (u) The Spinward Marches   (LWLG)
+RC  Reformation Coalition                       RC (The Old Expanses)
+Rc  Reformation Coalition Client State      (u) RC                      (HDH)
+Re* Regency of Deneb                            DENEB
+Sp  The Spartan Empire                      (u)(Massilia/Delphi)        (SDM)
+Su  Covenant of Sufren                          Diaspora
+SW  Sword Worlds                            (r) The Spinward Marches   (LWLG)
+Ta* Taskaeri Nation                         (u) Glimmerdrift Reaches    (J_F)
+Tc  Terran Republic Client State            (u) Solomani Rim            (HDH)
+TR  Terran Republic                         (u) Solomani Rim            (HDH)
+TV  Voskl Trade Alliance                    (u) The Old Expanses        (GEO)
+Ur  Uris League                             (u) Glimmerdrift Reaches    (J_F)
+Va  Vargr world                             (u) The Spinward Marches   (LWLG)
+Vr* Vargr Worlds in the Regency             (u) DENEB                  (LWLG)
+Wi  Wilds (uses special TNE governments)        IMPERIUM+
+Xh  Hive FDA extra-Federation operation     (u) FEDERATION             (LWLG)
+Zh  Zhodani Consulate                       (u) The Spinward Marches   (LWLG)
+
+   Gvurrdon/HIWG Quadrant I ((Myhre-NE)++):
+
+Dr  Droyne                                     (Gvurrdon)
+Va  Vargr Non-aligned                          (Gvurrdon)
+Vb* Thirz Empire                               (Usingou/Gvurrdon)
+Vc* Dzen Aeng Kho (Society of Equals)           Gvurrdon
+Vd* Noerrgh Confederate                         Gvurrdon
+Ve* Thoengling Raghz (Thoengling Empire)        Gvurrdon
+Vf* Ongue Republic                              Gvurrdon
+Vg* Allez                                       Gvurrdon
+Vh* Gvaeknoks Trade Union                       Gvurrdon
+Vl* Rroerz Uerra                                Gvurrdon
+Vm* Rueks Legacy                                Gvurrdon
+Vn* Ve Ekhlle Ksafi (40th Sqaudron)             Gvurrdon
+Vp* Kedzudh Aeng (Commonality of Kedzudh)      (Gvurrdon/The Spinward Marches)
+Vq* The Freedom League (Corsair's Den)          Gvurrdon
+Zh  Zhodani Consulate                          (Gvurrdon)
+
+   Yiklerzdanzh/HIWG Australia (++):
+
+AU  Akigura Union                               Yiklerzdanzh
+CA  Carillon Harmonies                          Yiklerzdanzh
+Cc  Carillon Client State                       Yiklerzdanzh
+Gs  Glenauran Signatorate                       Yiklerzdanzh
+Ic  Izrats Kriezhlas Unity Client State         Yiklerzdanzh
+Iz  Izrats Kriezhlas Unity                      Yiklerzdanzh
+Mc  Meichntid Ibl Client State                  Yiklerzdanzh
+Mi  Meichntid Ibl                               Yiklerzdanzh
+Sr  S'raak Empire                               Yiklerzdanzh
+TL  Talpaku Communality                         Yiklerzdanzh
+TC  Talpaku Communality Client State            Yiklerzdanzh
+
+   Julian Protectorate and surrounds/HIWG Quadrant II (++):
+
+Ba  Confederation of Bammesuka                  Mendan                  (C49)
+Cs  Client state (Imperial)                     IMPERIUM+
+Ga* Third Imperium of Gashikan                 (Gashikan)               (C49)
+Hl  Hegemony of Lorean                         (Mendan)
+J-  Julian Protectorate (J_)                   (Amdukan)                (C49)
+Ja  Asimikigir Confederation                   (Mendan)                 (C49)
+Jc  Constellation of Koekhon                    Amdukan
+Jh  Hhkar Sphere                                Amdukan
+Jl  Lumda Dower                                 Amdukan
+Jm  Commonwealth of Mendan                     (Mendan)                 (C49)
+Jo* Alliance of Ozuvon                          Amdukan
+Jp  Pirbarish Starlane                          Mendan                  (C49)
+Jr* Rukadukaz Republic                         (Amdukan)                (C49)
+Ju* Ukhanzi Coordinate                          Mendan                  (C49)
+Jv  Vugurar Dominion                            Mendan                  (C49)
+Jz  Zuugabish Tripartite (see Zu)               ARCHAIC Amdukan
+J_  Julian Protectorate (J-)                   (Amdukan)                (C49)
+Kl  Khuur League                                Ley
+Na  Non-aligned                                 IMPERIUM+
+Sc* Sarkan Constellation                        Mendan                  (C49)
+Va  Non-aligned Vargr                           IMPERIUM+VARGR
+Vw* Rar Errall (The Wolves Warren)              Amdukan
+Vx  Antares Pact                               (Mendan)                 (C49)
+Zu  Zuugabish Tripartite                        Mendan                  (C49)
+
+   Hiver Federation and surrounds/HIWG Quadrant IV (++):
+
+Ac* Anubian Trade Coalition                     Hinterworlds            (C39)
+Au  Amalgamation Union (Gold Union)         -- (Crucis Margin)         (LWLG)
+Ch  Union of Chapet                             The Old Expanses        (GEO)
+CH  Hiver Client State                      NE  The Old Expanses        (GEO)
+Cr  Corona Regnum (Imperial Cs)                (Kaa G!'kul)            (LWLG)
+Cu  Cytrialin Unity                            (Hinterworlds)           (C39)
+DL  Dingir League                           NE  Solomani Rim            (HDH)
+En  En Liverech                                 The Old Expanses        (GEO)
+Fh  Federation of Heron                         Crucis Margin          (LWLG)
+Gf  Glimmerdrift Spread                        (Glimmerdrift Reaches)
+Gi  Gniivi                                     (Hinterworlds)           (C39)
+Gr* Gazala Cooperative/Colony                   Glimmerdrift Reaches   (LWLG)
+H*  Hiver Star Patterns Trading             --  YOUNG WORLDS           (LWLG)
+Hb  Hub Worlds                              NE  Massilia
+Hf  Hive FDA Uplift/Observation Site        --  FEDERATION             (LWLG)
+Hs  Lishun Suuguki (Vilani Nomads/Hiver Cs)    (Gzirr!k'l)             (LWLG)
+Hv  Hive Federation                         --  FEDERATION
+Ia  Ithklur Aexzz (People's Empire)            (Centrax)               (LWLG)
+Im  Third Imperium                              IMPERIUM
+Kk  The Two Thousand Worlds (K'kree)            KKREE
+Ka  Kidunal Abeyance                        --  Kidunal                (LWLG)
+Kr  Krotan Primacy                             (Gzirr!k'l)             (LWLG)
+Lp  Council of Leh Perash (Hiver Cs)           (Hinterworlds)           (C39)
+Lx  Losan Xkeerikulookree                       Kaa G!'kul             (LWLG)
+Mp  Munsonian Principality                     (Kaa G!'kul)            (LWLG)
+Ow  Outcasts of the Whispering Sky              Hinterworlds            (C39)
+Oz  Ozymic Heliad                               Crucis Margin          (LWLG)
+Po  Portine League                              The Old Expanses        (GEO)
+Ra  Ral Ranta                                   Hinterworlds            (C39)
+RC  Reformation Coalition                   NE  RC (The Old Expanses)
+Rc  Reformation Coalition Client State      NE  RC                      (HDH)
+Rp  The Platonic Republic                   --  Centrax                (LWLG)
+Sa* Saul Empire                                 Glimmerdrift Reaches   (LWLG)
+Sl  Slovenian Protectorate                      Glimmerdrift Reaches   (LWLG)
+Sp  The Spartan Empire                      NE (Massilia/Delphi)        (SDM)
+So  Solomani Confederation                      SOLOMANI
+Su  Covenant of Sufren                      NE  Diaspora
+Ta* Taskaeri Nation                         NE  Glimmerdrift Reaches    (J_F)
+Tc  Terran Republic Client State            NE  Solomani Rim            (HDH)
+TR  Terran Republic                         NE  Solomani Rim            (HDH)
+TV  Voskl Trade Alliance                    NE  The Old Expanses        (GEO)
+Up  United Pact                                 Kaa G!'kul             (LWLG)
+Ur  Uris League                             NE  Glimmerdrift Reaches    (J_F)
+Ve* Vegan Autonomous District                   Solomani Rim
+Wi  Wilds (uses special TNE governments)    --  IMPERIUM+
+Xh  Hive FDA extra-Federation operation     --  FEDERATION             (LWLG)
+Yc  Yeskoth Corporate                           Kaa G!'kul             (LWLG)
+    HDH = Harold D. Hale
+          (Analyst: Solomani Rim)
+    J_F = Jeffrey Freeman
+          (Analyst: Glimmerdrift Reaches)
+    LWLG= Leroy W.L. Guatney
+          (Anylyst: Spica; Quadrant Editor)
+    GEO = Mark "Geo" Gelinas
+          (Analyst: Diaspora, The Old Expanses, Alpha Crucis)
+    SDM = Stuart D. Machin
+          (Analyst: Delphi)
+
+   Vargr Extents (from MTAv1) codes:
+
+    (Note: !?! = Not located, while Vo, Vx are spotted twice
+           !Knoellighz! is possibly not the name of this sector: see AM4)
+Va  Vargr (Non-Aligned)                         VARGR
+Vb* Bakne Alliance                             (Dhuerorrg/Tuglikki)
+Vc* Anti-Rukh Coalition                         Gvurrdon
+Vd* Democracy of Greats                        (!Knoellighz!/Dhuerorrg)
+Ve* Empire of Varroerth                        (Ngathksirz)
+Vf* Dzarrgh Federate                           (Provence)
+Vg* Glory of Taarskoerzn                       (Provence)
+Vh* Irrgh Manifest                             (Provence/Corridor)
+Vi* Llaeghskath Interacterate                   Provence
+Vj  Jihad of Faarzgaen                          Provence
+Vk  Commonality of Kedzudh                     (Gvurrdon/The Spinward Marches)
+Vl* Lair Protectorate                          (Provence/Ngathksirz)
+Vm* Members of Knaeleng                         Dhuerorrg
+Vn* Ngath Confederation                        (Windhorn/Vland)
+Vo  Opposition Alliance                        (!Knoellighz!/Gvurrdon|Meshan)
+Vp* Thirz Empire                               (Usingou/Gvurrdon)
+Vq* Society of Equals                           Gvurrdon
+Vr* Worlds of Leader Rukh                       Gvurrdon
+Vs  Saeknoth Dependency                         Gvurrdon
+Vt  Thoengling Empire                          (Gvurrdon/Tuglikki)
+Vu* United Followers of Augurgh                (Tuglikki/Deneb)
+Vv  Voekhaeb Society                           (Meshan/Lishun)
+Vw* People of Wanz                              Tuglikki
+Vx  Antares Pact                               (Antares|!Knoellighz!/Gvurrdon)
+Vy  Yfagg Congress                             (!?!)
+Vz  Worlds of Master Zer                       (!?!)
+V1  First Fleet of Dzo                         (Lishun/Meshan)
+V2  Windhorn Pact of Two                        Tuglikki
+V3  Third Empire of Gashikan                   (Gashikan)
+V4  40th Sqaudron                              (Gvurrdon/The Spinward Marches)
+V5  Ruler of Five                              (Gzaekfueg/Meshan)
+V6  Assemblage of 1116                          Tuglikki
+V7  17th Disjuncture                           (Windhorn)
+V8  Council of the Four-Pair                    Lishun
+V9  Infinity League                             !Knoellighz!
+V0  Akhorgh Seperate                            Fa Dzaets
+VA  Alliance of Tju                            (Kharrthon/Knaeleng)
+VB  Brzeh Council                               Ghoeknael
+VC  Hezeraek Connective                        (Ogadogorz/Ogzuekhfos)
+VD  Delegation of Targhae                       Kharrthon
+VE  Agents of Eloeghoe                          Listanaya
+VF  Far Stars Unanimity                         Zao Kfeng Ig Grilokh
+VG  Glorious Sons of Raek                      (Kharrthon/Gzaekfueg)
+VH  Tyryk Hegemony                             (!?!)
+VJ  Authority of Joekghr                        Kfazz Ghik
+VK  Koenotz Empire                             (Knaeleng/Zao Kfeng Ig Grilokh)
+VL  League Alliance                             Listanaya
+VM  Mazaroegh Dominion                          Ogadogorz
+VN  Drr'lana Network                           (Gashikan/Gazekfueg)
+VP  Kechk Pact                                  Ksinanirz
+VQ  Union of Yoetyqq                            Gashikan
+VR  Kechk Reversion                             Ksinanirz
+VS  Jarrgh Subjugate                            Zao Kfeng Ig Grilokh
+VT  Trae Aggregation                            Trenchans
+VU  Union of Seekers                            Rzakki
+VX  Vaoekghirkhr Exchange                      (Oeghz Vaerrghr)
+VZ  Ruzz Confederation                          Rzakki
+
+   Allegiances which have appeared in The Traveller Chronicle:
+
+A   Domain of Alntzar                           Far Frontiers
+B   The Biumvirate                              Far Frontiers
+C   Colonade Administration District           (Far Frontiers)
+Cp  Principality of Caledon                     Reaver's Deep
+D   Descarothe Hegemony                         Far Frontiers
+Fa* Federation of Alsas                         Far Frontiers
+H   Haladon Cooperative                         Far Frontiers
+Im  Third Imperium                             (Reaver's Deep)
+L   The League of Suns                          Far Frontiers
+M   Mnemosyne Principality                      Far Frontiers
+P   The Protectorate                            Far Frontiers
+SC  Salinaikin Concordance                      Far Frontiers
+T   The Trelyn Domain                           Far Frontiers
+U   The Union of Garth                          Far Frontiers
+W   The Four Worlds                             Far Frontiers
+X   Emulan Treaty World                         Far Frontiers
+Z   The Zelphic Primacy                         Far Frontiers
+Zc* Lenj - Zhodani client state                 Far Frontiers
+Zh  Zhodani Consulate                          (Far Frontiers)
+    ++It should be noted that the allegiance Ok from Atlas of the Imperium
+    was dropped from the listing of Caledon subsector in TTC#5. Those
+    worlds are now Imperial.
+
+   Allegiances by sector from Atlas of the Imperium:
+
+    The Spinward Marches  Cs,Da,Dr,Fa,Im,Na,Sw,Va,Zh
+    Deneb                 Cs,Im,Na,Va
+    Corridor              Cs,Im,Na,Va
+    Vland                 Cs,Im,Na,Va
+    Lishun                Cs,Im,Na,Va
+    Antares               Cs,Im,Jr,La,Na,Va
+    Empty Quarter         Cs,Hl,Im,Jr,Na
+    Trojan Reach          As,Bs,Cs,Fl,Gl,Im,Na,Sf,Zl
+    Reft                  Am,Cs,Es,Im,Jo,Na,Nb,Nc,Nh,Sa,Sb
+    Gushemege             Cs,Im,Na
+    Dagudashag            Im
+    Core                  Im,Sy
+    Fornast               Im
+    Ley                   Cs,Im,Kl,Na
+    Riftspan Reaches      As,Na
+    Verge                 As,Im,Na
+    Ilelish               Cs,Im
+    Zarushagar            Cs,Im,Na
+    Massilia              Im
+    Delphi                Cs,Im,Na
+    Glimmerdrift Reaches  Cs,Gf,Gr,Im,Na,Sa,Sl
+    Hlakhoi               As
+    Ealiyasiyw            As,Id,Na
+    Reaver'S Deep         As,Aw,Ca,Cb,Cd,Cs,Ct,Dg,Ga,Gk,Id,Im,Ly,Ma,Na,Oc,Ok,
+                          Pu,So,Ta,Uh
+    Daibei                Im,Na
+    Diaspora              Im
+    The Old Expanses      Cs,Ch,En,Im,Na,Po,So
+    Hinterworlds          Cs,Im,Na,Ra
+    Staihaia'Yo           As
+    Iwahfuah              As
+    Dark Nebula           As,Go,Na,So,Uh
+    Magyar                Im,So
+    Solomani Rim          Im,So,Ve
+    Alpha Crucis          Im,Na,So
+    Spica                 Hv,Na,So
+
+   Allegiances by sector from Alien Module 3-Vargr:
+
+    Gvurrdon              Cs,Na,Va,Vd,Ve,Vg,Vk,Vn,Vp,Vr,Vs,Vt,Vu,Zh
+
+   Allegiances by sector from (I forget the source) as assigned by me:
+
+    Far Frontiers         Bv,Dh,Fs,Hc,Ls,Na,Pr,Sc,Td,Ug,Za,Zc,Zf,Zm,Zp
+
+   
+   
+   
+     _________________________________________________________________
+   
+   I have yet to do this for the post second survey (ie. Rebellion) data
+   since it is by definition incomplete and changing.
+   
+   Any allegiance code eclosed in parentheses and with question mark
+   indicates that I have some question as to the validity. This is mostly
+   because I can not recall all of the sources (and their official
+   status). Any sector names in parentheses indicate that the government
+   apparently overlaps other sector(s) but they are not published. In
+   cases where an allegiance overlaps only a single sector border, I have
+   tried to show both sector names. For allegiances which enter more than
+   two sectors, I have used the sector name which has the greatest extent
+   of the state. Due to my posting of credits/sources after the sector, I
+   have restricted all multi-sector listings to the single greatest
+   extent of the state.
+   
+   I have put together a sector listing of the Spinward Marches for the
+   Regency team (under Mike Mikesh) and had provided the base-line
+   listing for the New Era version yet to be completed. I have included
+   all of those allegiance codes in this list as well.
+   
+   I have completed naming of all of the states in the regions labeled
+   "Mixed Client States" and "Scattered Client States", as well as a
+   couple of states that were not on the original GDW 1981 map. Work
+   proceeds.
+   
+   More codes probably exist. I'll try to keep this updated, so pass on
+   your comments!
+   
+   The text is from the original document in the GEnie RT library, which
+   shows to have been uploaded by LSP.MEYERS, but I have been unable to
+   find out who had originally created this list. I have made so many
+   format revisions, I now consider the list to be mine. I have tried to
+   & track sources when known. The Far Frontiers list has not been
+   published to my knowledge, so duplicates from there are less of a
+   concern. I had decided to put together a list so that it would be
+   possible to look up what was published and maybe minimize further
+   duplication. A '*' in column 3 means the allegiance code is duplicated
+   from elsewhere. I have laid out this file so a sort will group
+   allegiance codes together.
+   
+   I have merged the S&A/V&V allegiance codes with the Atlas/Imperium
+   section at the beginning of the document, as I did not think it was
+   appropriate for a separate section like the treatment of V&V Vargr
+   allegiance codes. Perhaps another all Aslan S&A section will be
+   appropriate at a later date. I have added the sections for Factions of
+   the Rebellion, Hard Times states/regions, codes used (so far) in the
+   New Era, and those which have been printed (so far) in The Traveller
+   Chronicle (TTC). Thanks for the on-line response I have received from
+   HIWG'rs.
+   
+   Leroy W.L. Guatney <lwlguatn@ouray.cudenver.edu>
+   

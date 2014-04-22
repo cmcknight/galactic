@@ -1,0 +1,40 @@
+@SUB-SECTOR: sec_H   SECTOR: sorted
+#
+# Trade routes within the subsector
+$2812 2910 0 -1
+$2812 2915 0 0
+$2915 2517 0 0
+$2517 2218 -1 0
+$2915 0114 1 0
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Dipuska       2513 A662AB8-E    Hi                 220 Im
+Mandrake      2514 A366AA9-E    Hi                 313 Im
+Urizen        2516 C8C8430-C    Ni Fl              223 Im
+Murphy        2517 A3449BE-E    Hi In              902 Im
+Ganesh        2518 A766A57-E  S Hi                 710 Im
+Mimiis        2612 B200789-E    Na Va              312 Im
+Imkhammash    2617 A25588A-E                       113 Im
+Cantania      2618 A56898B-F    Hi                 201 Im
+Khugi         2713 X000000-0    Lo Ni As Ba     R  220 Im
+Pinnashdug    2714 B478888-C                       822 Im
+Nyarlathotep  2720 C000267-E    Lo Ni As           623 Im
+Nisinasha     2812 A9EA987-E  W Hi Fl Wa           704 Im
+Immir         2816 C000530-A    Ni As              202 Im
+Aqilat        2820 B000630-E    Na Ni As           911 Im
+Sathyos       2911 A479726-E                       734 Im
+Rild          2912 XAC7774-9    Fl              R  722 Im
+Newcomb       2913 D441443-6    Ni Po              502 Im
+Pajang        2915 A373772-E  N                    110 Im
+Noricum       2918 A38A7CC-F  N Wa              A  202 Im
+Banasdan      2920 A653A44-F    Hi Po              523 Im
+Ariel         3011 B514735-E    Ic                 805 Im
+Uku           3015 B636794-E                    A  813 Im
+Altiplano     3017 A8D8864-E    Fl                 215 Im
+Sashingun     3113 A653865-D    Po                 420 Im
+Ludovic       3213 A665977-D    Hi              A  804 Im
+Cephesa       3217 B222431-F    Ni Po              602 Im
+Lakamsal      3218 C545786-A    Ag                 504 Im
+Onathy        3219 C5218A7-E    Na Po              700 Im

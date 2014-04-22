@@ -1,0 +1,39 @@
+@SUB-SECTOR: sec_A   SECTOR: lishun
+#
+# Trade routes within the subsector
+$0309 3107 -1 0
+$0309 0111 0 1
+$0309 0806 0 0
+$0806 1006 1 0
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Ishimaga      0101 A734433-9    Ni                 600 Vv
+Ashki         0110 A89A533-D    Ni Wa              303 Rv
+Rasan         0201 E000689-7    Na Ni As           803 Vv
+Ilani         0203 E300346-9    Lo Ni Va           222 Na
+Shuka         0205 BACA37B-C  N Lo Ni Fl Wa        303 Cv
+Odsad         0206 B9D8686-A    Ni Fl              901 Rv
+Umilikha      0210 B7A5344-B  N Lo Ni Fl           604 Rv
+Ambon         0301 E45098C-9    De                 502 Vv
+Irgukh        0303 E331A85-A    Hi Na Po           514 Vv
+Kilikiir      0309 A411799-D    Na Ic              620 Rv
+Zheos Theong  0401 E52A220-A    Lo Ni Wa           103 Vv
+Sproan        0406 C41298B-E  N Hi Na In Ic        701 Li
+Saden         0407 B48559A-B    Ag Ni              200 Li
+Breeden       0408 E110510-9    Ni                 314 Li
+Barapalok     0501 E310776-8    Na                 604 Vv
+Satin         0504 D766989-7    Hi                 104 Vv
+Aamigim       0505 E160400-8    Ni De              820 Vv
+Sorsa Pha     0604 C484575-B  C Ag Ni              413 Vv
+Vakkuum       0607 A4439BE-F    Hi In Po           603 Li
+Irgiida       0610 C542597-7    Ni Po              300 Li
+Shiime        0702 E000362-7    Lo Ni As           915 Vv
+Norijo        0705 C4426B7-B  C Ni Po              400 Vv
+Naloz         0707 B242457-C    Ni Po           A  600 Na
+Amumisshar    0802 C584332-8    Lo Ni              100 Vv
+Sharasham     0805 A441768-B    Po                 203 Vv
+Pei Ok        0806 X270100-3    Lo Ni De           313 Vv
+Gegirur       0808 C200774-A  N Na Va              224 Li
+Phago         0810 B120896-F  N Na Po De           112 Li

@@ -1,0 +1,35 @@
+@SUB-SECTOR: sec_F   SECTOR: vland
+#
+# Trade routes within the subsector
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Iren          1011 X8C1000-0    Fl Ba              014 --
+Ashku         1012 D554554-6    Ag Ni              402 Wi
+Vallae        1112 X897767-5    Ag An           B  710 Wi
+Thogho        1113 D898622-7    Ag Ni           B  920 Wi
+Gukhaga       1114 X877334-0    Lo Ni           B  410 Wi
+Darmagu       1116 X412000-0    Ba Ic              001 --
+Uris Belt     1117 X000000-0    Ba As              001 --     f
+Daku          1119 X332000-0    Ba Po              004 --
+Ideshe        1120 X96966A-3    Ni              B  420 Wi
+Gagzoe        1211 X585301-4    Lo Ni              402 Wi
+Siruga        1215 X100000-0    Ba Va              001 --
+Estoff        1217 X6B6000-0    Fl Ba              020 --
+Ramir         1219 X66A200-0    Lo Ni Wa        B  201 Wi
+Imik          1220 X263212-6    Lo Ni              224 Wi
+Kema          1311 X100000-0    Ba Va              010 --
+Taksar        1312 X432000-0    Ba Po              010 --
+Hisus         1313 D77876B-4  S Ag              B  414 Wi
+Anik          1317 E44146C-4    Lo Ni Po           511 Wi
+Ganar         1319 X200000-0    Ba Va              021 --
+Karka         1412 X200000-0    Ba Va              001 --
+Centra        1414 X592434-1    Lo Ni           B  324 Wi
+Astira        1417 E552354-7  S Lo Ni Po           320 Wi
+Luunbu        1515 X8A6000-0    Fl Ba              010 --
+Duam          1516 X464779-5    Ag                 610 Wi
+Kagamira      1519 X47766B-6    Ag Ni              825 Wi     f
+Shulishu      1520 X352445-3    Lo Ni Po           110 Wi
+Ersii         1612 X361455-7    Lo Ni              210 Wi     f
+Midku         1619 C764324-7    Lo Ni              510 Wi

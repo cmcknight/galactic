@@ -1,0 +1,13 @@
+@SUB-SECTOR: sec_O   SECTOR: reft
+#
+# Trade routes within the subsector
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Arraste       2139 D593630-5    Ni                 804 Wi
+Jacob         2239 X100000-0    Ba Va              002 --
+Fresneise     2240 X728000-0    Ba                 022 --
+Pit Stop      2337 D593300-6    Lo Ni              111 Wi
+Uxors         2435 XAA7000-0    Ba Fl              004 --
+Mieniept      2436 X794400-5    Lo Ni              300 Wi

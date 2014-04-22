@@ -1,0 +1,34 @@
+@SUB-SECTOR: sec_p   SECTOR: Diaspora
+#
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Kappa         2535 X224000-0    Ba                 003 Un
+Boley         2539 X434000-0    Ba                 011 Un
+Egg           2631 X000000-0    Ba As              014 Un
+Donegal       2632 X100000-0    Ba Va              004 Un
+Bikar         2633 E79A3N2-7    Ni Wa Lo           413 Wi
+Lira          2635 X527000-0    Ba                 002 Un
+Ekhapen       2636 X100000-0    Ba Va              004 Un
+Khesandadu    2731 X7883M0-6    Ni Lo              200 Wi
+Ryvo          2734 X6823N5-7    Ni Lo              421 Wi
+Khirekera     2834 X4514T9-2    Ni Lo Po        B  104 Wi
+Acorn         2835 X100000-0    Ba Va              002 Un
+Montezuma     2836 D5627Q6-5                    B  204 Wi
+Dijon         2838 X234000-0    Ba                 034 Un
+049-949       2839 X620000-0    Ba                 013 Un
+Suudo         2840 D7785R8-6    Ba De           B  102 Wi
+Quarry        2933 X99A2Q2-3    Ni Wa Lo        B  304 Wi
+Sofar         2939 X8B4000-0    Ba Fl              000 Un
+Taumotu       3033 X100000-0    Ba Va              005 Un
+Mitchell      3034 X100000-0    Ba Va              003 Un
+Agiruur       3036 X9A3000-0    Ba Va              003 Un
+Kide          3131 D6847RA-8    Ag                 220 Wi
+Lefiguura     3132 X8685RA-3    Ni Ag           B  110 Wi
+Kipper        3134 X110000-0    Ba                 023 Un
+Gresham       3138 X110000-0    Ba                 004 Un
+Uppsala       3139 D9795UE-4    Ni                 212 Wi
+Futok         3140 C5947S6-7    Ag                 201 Wi
+Dessel        3231 X100000-0    Ba Va              003 Un
+Lebherz       3236 E6578U6-5                    B  213 Wi

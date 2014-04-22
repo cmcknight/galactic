@@ -1,0 +1,130 @@
+
+From: Jim Vassilakos <jimv>
+Subject: Copyright Question for IG
+To: traveller@NS.MPGN.COM
+Date: Wed, 18 Sep 1996 12:21:15 -0700 (PDT)
+
+Here's another copyright question for the powers that be at IG.
+Since I put out the latest version of the Galactic Sector Viewer
+last month, several people have contacted me telling me that they
+are manually entering more sector data, and some of them expressed
+an interest in having their work appear in the program's next
+release.
+
+The folks who contacted me are:
+Dakin Burdick (burdickd@hamlet.ucs.indiana.edu): Magyar Sector
+Stu Dollar (sdollar@goodnet.com): Dk. Nebula, Diaspora, Dagudashaag
+J.D. Burdick (JD.Burdick@t-online.de): Fornast
+Michel Boucher (alsandor@netcom.ca): Beyond, Vanguard Reaches
+
+(As an aside, Charles Collin (charles@hebb.psych.mcgill.ca) has
+also been of immense help in enabling the program's sector
+generator to include the option to use alien names files for naming
+worlds in randomly generated alien sectors.)
+
+Now, many of the aforementioned sectors are being created using
+sector data and/or world names that were gleaned from official
+Traveller supplements (or, in Mike's case, Paranoia Press Traveller
+supplements). What I'm wondering is, am I allowed to include these
+sectors, seeing as not all the data came from DGP's GEnie archive?
+I would really like to include these seven sectors with the next
+release of the program, but I don't want to step on anyone's toes.
+Of course, the program will be distributed free-of-charge, and I'll
+be happy to make all the appropriate disclaimers just so people
+know that I'm not trying to usurp anyone's copyright or trademarks.
+In short, is this okay?
+
+jimv@empirenet.com
+
+PS: Gal 2.1 is available at http://www.cs.ucr.edu/~jimv
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+From FarFuture@aol.com Sun Sep 22 08:23:48 1996
+From: FarFuture@aol.com
+Date: Sun, 22 Sep 1996 11:14:18 -0400
+Subject: Re: another copyright question
+
+You understand that the data you are including is circa 1105 (rather than the
+circa 0 of the Milieu Zero).
+
+OK. You have permission to include that subsector data with the appropriate
+disclaimers and acknowledgements. 
+
+Traveller is a registered trademark of Far Future Enterprises. Portions of
+the material in this <product> are copyright 1977-1996 Far Future
+Enterprises. Give a contact reference (to Imperium Games web page maybe.
+
+Marc Miller
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+From: Jim Vassilakos <jimv>
+Subject: Re: another copyright question
+To: FarFuture@aol.com
+Date: Sun, 22 Sep 1996 12:05:23 -0700 (PDT)
+
+> You understand that the data you are including is circa 1105 (rather than
+> the circa 0 of the Milieu Zero).
+
+Yeah... it's classic/megatraveller era. So be it. I'm not really all
+that much into the official setting anyway, but there are folks on
+the TML who are, so I'm just trying to support their efforts. I imagine
+some folks will want to type in the Core sector at Milieu Zero. Others
+may want to continue expansion of the TNE galaxy. Since these folks
+aren't trying to sell their work, nor am I, I was hoping you would
+grant us general permission to incorporate "official" sector data into
+the program so long as we include the appropriate disclaimers and
+acknowledgements.
+
+> OK. You have permission to include that subsector data with the appropriate
+> disclaimers and acknowledgements. 
+
+Great. Will you extend this to "official" sector data in general, so I
+don't need to ask your permission every time somebody wants to type in
+another Traveller sector?
+
+Also, I heard some folks are working on some sort of "project dulinor".
+Hope it goes well. On the off-chance that this stalls for some reason,
+please keep in mind that I made "Galactic" public domain, so if you
+folks at IG want to include it with any of your products (like the
+star atlas, for example), you've got my blessing. On the off-chance
+that you actually decide to do this, however, please let me know
+beforehand so I can make sure everyone who contributed to the program
+is happy with the idea (I'm sure most everyone would be more then
+delighted).
+
+Anyway, please keep in touch, whichever your decisions on the above,
+and good luck with T4.
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+From: FarFuture@aol.com
+Date: Thu, 26 Sep 1996 06:13:42 -0400
+To: jimv@e2.empirenet.com
+Subject: Re: Sector Data query (2nd try)
+
+Our plan for Milieu Zero is to produce an Atlas with locations but no data
+for most of the universe. Players / referees would fill in as they adventure
+/ map. Necessarily, the details of each world would be different for each
+group's campaign. We would define some places (the Core region, the Vland
+region, the Sol region, and a few others) but not "canonize" other specific
+world data.
+
+Behind all that would be information like yours, for those who want a totally
+consistent map.
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+From: Jim Vassilakos <jimv>
+Subject: Re: Sector Data query (2nd try)
+To: FarFuture@aol.com
+Date: Thu, 26 Sep 1996 07:44:02 -0700 (PDT)
+
+Sounds good. Of course, plans are known to change. Therefore, on the
+off-chance that people find lots of official sector data which they want
+to enter into Galactic and other sector-mapping freeware, are they allowed
+to do so? In short, is it permissible to redistribute "official" sector
+data (regardless of milieu) so long as it is done free of charge and so
+long as the source is acknowledged?
+

@@ -1,0 +1,22 @@
+
+     Northammon System Details
+
+     Orbit      Name         UPP          Remarks
+     ---------------------------------------------------
+     Primary    Kalighril    K5 V
+     0          Usher Belt   H000166-A    As
+     1          Northammon   B764767-9 A  Ag Ri Tp St Mr
+        10      Burden       G586667-B    Fa Co Nv Sc
+        45      Galinor      Y332568-B    Co Nv Sc
+     2          Clarion      H40036A-B    Nv Sc
+         7      Ivid         Y100000-0    Va Ba
+        30      Danglo       YS00000-0    Va Ba
+     3          Portnoy      Y100000-0    Va Ba
+     4          Glacia       G607227-A    Va Ic Sc
+         1      Ring System  YR00000-0
+     7          Icicle       Y100000-0    Va Ba
+        25      Tundra       Y300000-0    Va Ba
+     5          Sanjivva     GA75566-B    Re Co Nv Sc
+        50      Herschmann   F660365-B    Re Nv Sc
+     6          Yaka         YA6A166-A
+

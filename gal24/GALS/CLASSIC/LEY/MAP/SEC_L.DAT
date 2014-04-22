@@ -1,0 +1,48 @@
+@SUB-SECTOR: sec_l   SECTOR: ley
+#
+#Jump Routes
+$2522 2422 -1 0
+$2628 2727 0 0
+$2628 2729 0 0
+$2727 2826 0 0
+$2727 2928 0 0
+$2729 2929 0 0
+$2826 2926 0 0
+$2926 3125 0 0
+$2928 2929 0 0
+$2928 3127 0 0
+$2929 3129 0 0
+$3125 3127 0 0
+$3127 3128 0 0
+$3128 3129 0 0
+#
+#--------1---------2---------3---------4---------5----------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- --
+Arodites      2522 A584697-B  N Ri Ag              201 Im
+Bamoth        2625 D534495-9  S Ni                 300 Sy
+Zavan         2626 E350396-7    Ni                 301 Sy
+Urias         2628 A794998-A  N In                 900 Sy
+Tikvah        2727 C876897-A                       500 Sy
+Pibeseth      2728 D8AA897-7    Wa                 801 Sy
+Serah         2729 C734796-9                       500 Sy
+Jaakan        2824 EA9A397-9    Ni                 600 Sy
+Lamech        2826 D230496-A    Ni                 401 Sy
+Danites       2828 D9A8794-9                       800 Sy
+Eliakim       2830 E423213-9    Na                 700 Na
+Emmor         2923 EACA293-9    Ni                 800 Sy
+Higgaion      2924 D6A5934-9    Ni                 700 Sy
+Ahira         2926 B567898-9  N Ri                 101 Sy
+Rechah        2928 A676998-A    In                 601 Sy
+Sopater       2929 A567899-B  N Ca                 901 Sy
+Rabmag        3023 D7C8296-A    Ni                 100 Sy
+Jagur         3024 D210397-9    Ni                 301 Sy
+Jeheil        3028 C110496-A    Ni                 701 Sy
+Kenaz         3121 D9AA353-8    Ni                 300 Na
+Ramathaim     3122 D65A610-9    Wa                 100 Na
+Nethum        3124 E324294-9    Ni                 300 Sy
+Gatiameth     3125 B655598-A  S Ag                 700 Sy
+Bazluth       3127 B668798-A  N Ag                 800 Sy
+Diblath       3128 D000497-A    As                 101 Sy
+Achbor        3129 A865997-A  N                    300 Sy
+Kirdon        3230 E412320-9    Ni                 600 Na

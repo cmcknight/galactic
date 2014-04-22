@@ -1,0 +1,33 @@
+System: Capon
+Subsector: Lunion
+Sector: Spinward Marches
+Coordinates: 2324 (K0704)
+UWP: B747748-A
+
+Starport: Good
+Size: Medium (10400-12000 km)
+Atmosphere: Thin, tainted
+Hydrographics: 70% water
+Population: 60 million
+Govt: Representative Democracy
+Law Level: High
+Technology: Early Stellar
+
+Bases: Navy
+Trade Codes: Ag              
+Travel Zone: Green
+Planetoid Belts: 1
+Gas Giants: 0
+Allegiance: Imperial
+
+Extended Stats:
+A747748-B   N   Ag     810  Re     F9v
+Gravity: 0.6     Day: 33h 40m 48s     Year: 678d 6h 29m (standard)
+Axial Tilt: 24d 13m 02s
+Atmosphere: 0.65, Oxygen: 23%, No weather control
+Temp.: -6  (+/- 6 lat, +18 to -42) (season: +14.4 to -24)
+Daily temp. range: +7.5 to -16.5
+Conservative, Advancing  Peaceful, Unagressive  Regional, Aloof
+Agricultural, Agroproducts
+Law: 8-667A6  Tech: B9-BAACB-BBBA-BB-F
+

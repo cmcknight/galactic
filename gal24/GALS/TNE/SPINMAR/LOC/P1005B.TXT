@@ -1,0 +1,15 @@
+
+System Information
+
+Orbit           Name            UPP             Remarks
+Primary         Talau           M1 V            Far Companion
+0               Ruby            B400445-B       Ni Va Qb
+        4       Lahr            YS00000-0
+1               Boyden          Small GG
+        7       Athelbard       YS10000-0
+       35       Eloise Tay      H100166-B       Qb
+Secondary       Papaiete        M7 D
+
+(Qb - Quarantine Base)
+
+   

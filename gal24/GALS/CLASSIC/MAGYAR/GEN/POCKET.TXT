@@ -1,0 +1,135 @@
+                    POCKET EMPIRES OF THE MAGYAR SECTOR
+
+One distinguishing factor of the Magyar sector is the great number
+of "pocket empires," ie. small empires that range in possessions
+2 stars to about 20.  Their possessions may be attributed to 
+either colonization, conquest, or perhaps an ancient allegiance.
+Both the Imperial and Solomani zones have such empires in
+abundance.  The largest of these is the Ockian Ring of Worlds,
+(which controls 16 systems), Acara (9 systems), & Harpring (6
+systems).  Below is a listing of all pocket empires and their
+holdings:
+
+
+POCKET EMPIRES BELONGING TO THE IMPERIUM:
+
+Code  Name               Possessions
+-----------------------------------------
+AM -- Amon               Hagymasi
+
+AU -- Austa              Douglas
+                         Nahn
+                         Ziaeehezar
+
+RE -- Reynold            Veller
+
+
+POCKET EMPIRES BELONGING TO THE SOLOMANI CONFEDERATION:
+
+Code  Name               Possessions
+-----------------------------------------
+AC -- Acara              Ginivia
+                         Helm
+                         Jaro
+                         Lanchester
+                         Langas
+                         Ramanian
+                         Shanhaiching
+                         Smilgys
+
+AL -- Alto               Last Pine
+
+BL -- Blackjack          Krupp
+
+BO -- Bobbo              Cea
+
+DA -- Daftnew            Akludu
+                         Wrath
+
+DE -- Deriabar           Bupaj
+
+EK -- Ekar               Simovia
+
+ET -- Ethlum             Issekhee
+
+GU -- Gursky             Tatsuya
+
+HA -- Hachiman           Kriss
+                         Truelock
+
+HE -- Hessoun            Strom
+
+HR -- Harpring           Dyavai
+                         Ebisu
+                         Mazotz
+                         Needler
+                         Tuxhorn
+
+IC -- Icenogle           Nichikiori
+                         Patterson
+                         Valentin
+
+KL -- Kline              Brand
+                         Sterchi
+
+LA -- Lachlan            Joce
+
+LG -- Landgrebe          Sylva
+
+MI -- Minsk              Roblig
+
+MO -- Morsen             Kroovand
+
+NU -- Nubtar             Abrell
+                         Ownes
+
+OC -- Ock                Adopoulos
+                         Blade
+                         Butchko 
+                         Campany
+                         Ciaconn
+                         Harsanyi
+                         Iouo 
+                         Lancess 
+                         Mitaro
+                         Rishi
+                         Romm
+                         Shorne 
+                         Troy 
+                         Ulm
+                         Usi Ub
+
+RA -- Randzo             Tyrrell
+                         Veneet
+
+SA -- Sapphire           Chorus
+                         Cueball
+
+SH -- Sharn              Trikak
+
+SK -- Stanko             Burvee
+                         Danko
+
+SR -- Stansifer          Firels
+
+ST -- Stancombe          Farringhaus
+
+TL -- Tolson             Esuan
+                         Plage
+
+TO -- Tooma              Mafred
+
+WA -- Wair               Amonchomchu
+                         Bowmar
+                         Papesh
+
+WI -- Wilkerson          Quizen
+                         Regasas
+
+WU -- Wu                 Oyama
+
+XI -- Xianjin            Falkenthal
+                         Rundle
+
+ZO -- Zongwu             Asorret
+

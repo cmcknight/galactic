@@ -1,0 +1,9 @@
+@SUB-SECTOR: sec_M   SECTOR: corridor
+#
+# Trade routes within the subsector
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Ishirdu       0338 X776301-1    Lo Ni              403 Wi     f
+Esi-obe       0638 C542668-9    Ni Po              711 Wi     f

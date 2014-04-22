@@ -1,0 +1,74 @@
+
+[Q] In the gals\classic\gush\map\sec_c.dat file, I see the
+following stuff:
+
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Mulanje       2306 E797410-9    C7 Ni              124 Im     f
+Penelasse     2307 C221585-C  S Ni Po              400 Im     f
+Choma         2308 E340546-6    Ni Po De           401 Im     m
+Oroth         2309 B672300-D    Lo Ni              101 Im     f
+Viskka        2310 A794524-D    Ag Ni              500 Im
+Hannbrous     2404 D759635-4    Ni                 320 Im
+Ellus         2406 A73A8CF-C    Wa                 203 Im     m
+Cirsel        2408 A538411-F    Ni                 923 Im     f
+
+What's this mean?
+
+[A] This file you're looking at is a subsector file. It contains
+world data, one world per line. The "Loc" entries represent the
+hex/parsec locations of these worlds, their coordinates within the
+sector. The UPP code contains starport, size, atmosphere type,
+hydrographics, population, government type, law level, and the
+technological level of the world (which are all defined in the
+gals\classic\uwp.dat file). Then comes the base entry (it looks
+like Penelasse has a scout base). Then there are the trade codes
+represented by two-symbol combinations within the notes section.
+Then there's the Travel Zone (blank means it's green, i.e. nothing
+special, but A=Amber and R=Red, indicating places you'd probably
+rather avoid). The PBG section shows the population multiplier, the
+number asteroid belts, and the number of gas giants. Next is the
+allegiance section (all these worlds are "Im" for Imperial
+allegiance). Then there's the LRX section, which is usually only
+used with the homebrew/variant world generation system presented as
+an alternative to the official system. Here we would see the life,
+resource, and export codes of the world in question, although in
+this subsector file, they aren't being used. See the Variant-1
+galaxy for a situation where they are.
+   Finally there's the "*" field beginning in the 63rd column
+which serves several special purposes. It can contain up to three
+characters. The first column in used for file/menu attachment.
+The second column is used for map attachment. The third column is
+used for the "hide" flag
+
+File/Menu attachment: An "f" here means that there's a description
+file written in plain language about this world. These files are
+contained (in this instance) in the gals\classic\gush\loc directory.
+The text file for Mulanje is gals\classic\gush\loc\p2306.txt. An "m",
+however, means that there are several description files which are
+accessible from a menu file. The menu file for Choma is
+gals\classic\gush\loc\p2308.mnu.
+
+Map attachment: An "x" here means that there's a world map located
+in the "hex" directory of the sector in question. Galactic makes
+use of hexworld.exe to draw these maps. See the example map at
+Thorp/Idhra/Gythios of the Variant-1 Galaxy. A "y" means that
+a map of the star system is present. "z" means that both sort of
+maps are available.
+
+"Hide" flag: An "h" or an "H" may be placed in this field. This
+signifies that the stats for this world are to be hidden from the
+casual user, probably meaning that nobody has yet explored the
+world and so that any information about it is privledged for the
+GM's eyes alone. Big "H" is considered to be a stronger "hide" then
+small "h", so that with big "H" in effect, not even the world's
+name will be displayed.
+   If you use Galactic in your campaign, you might want to mark a
+whole slew of worlds with the "h" or the "H", so that your players
+can't see what's there. Then, when they get to the world and begin
+learning more about it, you can remove the "hide" flag and perhaps
+even have them write a report describing what they found (this is
+ideal for exploration-based campaigns where the characters are on
+a scouting mission).
+

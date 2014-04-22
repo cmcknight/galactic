@@ -1,0 +1,37 @@
+Phoenix G30 Gauss Rifle
+
+The Phoenix G30 is the first civilian gauss rifle to enter volume production.
+First introduced by the Phoenix Corporation in 2361T, it was initially aimed
+at the 'varmint rifle' market, where it's silent operation is a distinct
+advantage. However the ease with which the weapon could be converted to
+fully automatic fire rapidly lead to it's popularity with criminal elements.
+This in turn lead to the G30 being banned on many worlds. In response to
+this, the Phoenix Corporation has recently introduced the G30 Series 2, with
+improved tamperproof electronics and a mechanical linkage in the action. It
+should be noted that the G30 will be an unreliable weapon if converted to
+fully automatic fire (assuming a rate limiter is also used, without a rate
+limiter it will be very unreliable).
+
+The G30 is a conventionally stocked semiautomatic gauss rifle, firing 3mm
+ferrotungsten needles from a detachable 50 round magazine. The magazine
+contains 50 superconductor banks which power the weapon. These magazines may
+be recharged from any standard high energy source. The G30's needles are
+interchangeable with those used in the military r14 and r16 gauss rifles. The
+G30 is fitted with an intergral laser sight, powered by an internal 5 hour
+rechargeable battery.
+
+Weapon: Phoenix G30 gauss rifle
+Action: Electric blowback - singleshot (Series 2: Electromechanical)
+Ignition: Electric
+Tech Level: 12
+Calibre: 3mm gauss needle
+Penetration: 4
+Range: short
+Malfunction: reliable
+Shots: 50
+Mass: 1.8kg
+Reloads: 0.6kg
+Length: 58.8cm
+Cost: Cr 530
+Incidentals: 50 needles: Cr 16 (0.07kg)
+             empty 50 round magazine: Cr 30 (0.53kg)

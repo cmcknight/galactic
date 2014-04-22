@@ -1,0 +1,37 @@
+@SUB-SECTOR: sec_M   SECTOR: meshan
+#
+# Trade routes within the subsector
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Dakak         0134 C9889CE-5    Hi                 600 V7
+Kalih         0236 C53068A-7    De Na Ni Po        603 Vv
+Ueksuerrg     0237 D436230-8  C Lo Ni              402 Vv
+Faerr Or      0332 D120566-8    De Ni Po           403 Vv
+Lakzorr       0333 B644484-A    Ni                 803 Vv
+Tukogan       0336 C510947-9  G Hi Na              504 Vv
+Onlek         0340 C533447-7    Ni Po              202 Vv
+Ozsueku       0433 C520483-5    De Ni Po           812 Vv
+Tsursazaer    0434 B654402-B  G Ni                 704 Vv
+Dilok         0436 C32097B-9  G De Hi In Na Po     924 Vv
+Allal         0531 C234474-A    Ni                 623 Vo
+Otskur        0536 A67458B-C    Ag Ni              123 Vv
+Ishlidiimdu   0539 C450588-7    De Ni Po           123 Vv
+Zae Errsu     0631 D358746-5    Ag C6              104 Vo
+Tangoegz      0632 C2008BC-9    Na Va              103 Vo
+Jerumen       0633 D767689-4  C Ag Ni Ri           525 Vo
+Aksa          0637 C300677-9    Na Ni Va           203 Vv
+Othaegae      0639 C350556-7    De Ni Po           803 Vv
+Kakar         0640 C432500-B  C Ni Po              723 Vv
+Igwana        0733 C556000-8  C Ba Lo Ni           000 Vo
+Aeksunkung    0735 C7687AA-3    Ag                 734 Vo
+Enan          0736 A8C7547-D  G Fl Ni Cp           720 Vo
+Ararumush     0740 E675632-3  C Ag Ni              923 Vv
+Lleghzoth     0831 B977664-5    Ag Ni              723 Vo
+Dhaenzueg     0832 C767776-5    Ag                 302 Vo
+Okalak        0833 C554974-5    Hi                 802 Vo
+Oekfozak      0834 C6A4367-7  C Fl Lo Ni           804 Vo
+Ukkhukedh     0838 C550503-8  C De Ni Po           602 Vv
+Gaez Are      0839 C69A354-B    Lo Ni Wa           305 Vv
+Arida         0840 C4208DF-6  C De Na Po           203 Vv

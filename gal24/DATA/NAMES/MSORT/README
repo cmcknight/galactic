@@ -1,0 +1,21 @@
+To install MSORT, just copy the files into a directory in your DOS path. No
+other installation is needed (assuming you have already uncompressed the
+file, or you would not see this information).
+
+For simple sorting, just type:
+   MSORT InputFile SortedFile
+where IinputFile is the file to sort, and SortedFile is the file to contain
+the results.
+
+There are many options available to control the sorting. There is also a
+faster version SSORT included, but it can only sort files that can fit in
+memory.
+
+Read MSORT.DOC for more information about how to use this program.
+
+This package is Free-But-Ware. This means that a donation is requested, but
+the program will not nag you for money. Please register even if you decide
+not to donate. Your comments and suggestions are welcome.
+
+MSORT.EXE, SSORT.EXE, TESTFILE.COM and MSORT.DOC are all
+Copyright 1994, Martin Katz, Ph.D.  All rights reserved.

@@ -1,0 +1,31 @@
+@SUB-SECTOR: stars_P   SECTOR: gvurrdon
+#
+# Trade routes within the subsector
+#
+#--------1---------2---------3
+#PlanetName   Loc. Stars(s)
+#----------   ---- ---------
+Ngoluts       2531 M4 V
+Fae Kodh      2536 M9 V M1 D
+Torrknungazarr2537 G8 V M0 D
+Ksunekso      2540 M9 VI
+Ightursksoetha2633 G9 V M4 D
+Vakunggvoruego2634 M3 V
+Gzaell        2638 K9 V M7 D
+Thurruegvudhot2731 G9 V
+Asugunkhodz   2735 K3 V
+Roukhagzvaengo2740 F4 V
+Oegaeldu      2832 G2 V M9 D
+Kedzudh       2833 M8 V
+Gzoghz        2834 M0 V
+Rruthaekuksu  2840 K7 III M5 D
+Afougae       2936 M1 III
+Scangen       2937 K4 II
+Galla         2940 M0 V
+Ughz          3034 M4 V
+Ganokoulovaenu3035 M5 V
+Llaekag       3040 M1 V
+Oziz          3133 G0 V M8 D
+Torrrrerz     3137 M5 III M6 D
+Gvutson       3233 G6 V
+Oertsous      3238 M4 V M4 D

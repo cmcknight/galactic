@@ -1,0 +1,9 @@
+@SUB-SECTOR: sec_P   SECTOR: deneb
+#
+# Trade routes within the subsector
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Lorin Antune  2734 D525867-3                       410 Na
+Asharam       3031 C76279A-3    Ri                 622 Cs

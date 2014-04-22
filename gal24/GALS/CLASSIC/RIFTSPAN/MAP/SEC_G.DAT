@@ -1,0 +1,18 @@
+@SUB-SECTOR: sec_G   SECTOR: riftspan
+#
+# Trade routes within the subsector
+$1816 1615 -1 0
+$1816 2219 0 0
+$2219 2521 1 1
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Wiyeare       1714 A2765M5-B    Ag Ni              622 As
+Iukheaw       1715 D2005H5-7    Ni Va              203 As
+Aufusyah      1716 B6831HB-B    Lo Ni              812 As
+Ruhkei        1815 C5862H4-6    Lo Ni              600 As
+Aoki          1816 B8883G3-C  T Lo Ni              604 As
+Youiar        1914 B5A72M4-9    Lo Ni Fl           703 As
+Ahfatre       2219 B2414N9-E    D1 Ni Po           502 As
+Iyakhoryeh    2419 B6396H5-D    Ni                 404 As

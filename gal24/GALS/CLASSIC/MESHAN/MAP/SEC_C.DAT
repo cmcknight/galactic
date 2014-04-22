@@ -1,0 +1,35 @@
+@SUB-SECTOR: sec_C   SECTOR: meshan
+#
+# Trade routes within the subsector
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Ngollogzou    1703 E88A568-4  C Ni Wa C3           802 V5
+Tibushi       1704 C445000-8  C Ba Lo Ni           002 V5
+Khongeks      1706 C5487AD-6  G Ag                 120 V5
+Oungrrarr     1707 C665541-6  C Ag Ni              310 V5
+Lorgo         1710 C540AED-B    De Hi In Po        204 V5
+Tufae         1801 C797779-3    Ag                 300 V5
+Arrkfan       1803 D736533-5    Ni                 502 V5
+Oungaenogh    1809 D5578C9-3                       724 V5
+Rrongaerrg    1901 C510121-8  C Lo Ni              404 V5
+Ansana        1903 A68A569-D  G Ni Wa Cp           201 V5
+Uegthoeke     1906 E66146A-5  C Ni                 811 V5
+Thaegz        1908 A688001-A    Lo Ni              503 V5
+Inudak        2001 B576955-8  G Hi In              800 V5
+Urrall        2007 X1508AE-3    De Po              803 V5
+Azgul Kou     2008 C67A002-8  G Lo Ni Wa           723 V5
+Ennaekhs      2102 E52545A-5  C Ni                 903 V5
+Rrotoe        2104 X866410-0  C Ni                 400 V5
+Kughurr       2105 B530566-8  G De Ni Po           802 V5
+Ozullnoz      2107 D566432-2  G Ni                 502 V5
+Aerro         2108 C332213-A  G Lo Ni Po           123 V5
+Oezoethun     2205 D400112-7    Lo Ni Va           734 V5
+Kanogo        2209 X8849DD-0    Hi                 303 V5
+Aghodoun      2210 D52089B-5    De Na Po           902 V5
+Kursuz        2302 X430979-5  C De Hi In Na Po     104 V5
+Uerrursors    2305 X368200-2  C Lo Ni              124 V5
+Alunag        2310 X678345-3  C Lo Ni              824 V5
+Enanin        2403 X244676-3  C Ag Ni              403 V5
+Khikollang    2406 D569551-6    Ni                 303 V5

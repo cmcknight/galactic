@@ -1,0 +1,17 @@
+Adep 5 E4545Q4-6
+
+Starport: Frontier Quality          Size: Small (5600-7200 km)
+Atmosphere: Thin                    Hydrographics: 40% water
+Population: 500,000                 Govt: Charismatic Oligarchy
+Law Level: Moderate                 Technology: Pre-Stellar
+  
+Roughly half of the surface of the planet is desertic. The population
+inhabits the more temperate areas  in a network of communities. The world is
+governed by The Farmers Council, a charismatic oligarchy formed by the
+descendants of landlords and executives of former agricultural corporations.
+The world has suffered occasional raids from the Vampire Fleet based at
+Strogy.
+
+
+by Carlos Alos-Ferrer (Alos@merlin.fae.ua.es)
+    

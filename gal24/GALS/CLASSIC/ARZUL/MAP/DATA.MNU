@@ -1,0 +1,27 @@
+@dir=gals\classic\arzul\map
+@Light Yellow
+
+Arzul / Data Files
+
+@Light Cyan
+      Sector Data                    @..\arzul.dat
+
+@Light Green
+      Subsector Data
+@Light Cyan
+       A: Dzerrgh                    @sec_a.dat
+       B: Fosten                     @sec_b.dat
+       C: Voeraghz                   @sec_c.dat
+       D: Khefs Dzo                  @sec_d.dat
+       E: Bikali                     @sec_e.dat
+       F: Kotsfa                     @sec_f.dat
+       G: Lekorma                    @sec_g.dat
+       H: Ghap Dall                  @sec_h.dat
+       I: Nishamidu                  @sec_i.dat
+       J: Gorzadi                    @sec_j.dat
+       K: Veldt                      @sec_k.dat
+       L: Prairie                    @sec_l.dat
+       M: Forstner                   @sec_m.dat
+       N: Ambro                      @sec_n.dat
+       O: Plains                     @sec_o.dat
+       P: Desert                     @sec_p.dat

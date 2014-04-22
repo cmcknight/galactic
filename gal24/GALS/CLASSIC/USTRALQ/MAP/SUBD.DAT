@@ -1,0 +1,38 @@
+@SUB-SECTOR: Thalia SECTOR: Ustral Quadrant
+#
+$3203 3004 0 0 12
+$3004 2803 0 0 12
+$3004 2706 0 0 12
+$2706 2909 0 0 12
+$2909 3008 0 0 12
+$2909 2811 0 1 12
+$3203 0139 1 -1 4
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+KHOASTARL     2502 E434AH8-D    Hi                 725 As     
+Araulis       2503 C86A6M7-C    Ni Wa              310 As     
+Kasru         2507 A876577-A  M Ag Ni              305 So     
+Grahame       2508 C666410-5    Lo Ni              204 So 
+SOAFEALEIHAI  2601 C1609M7-E    De Hi              400 As     
+Kranthar      2604 E9C3446-5    Fl Lo Ni           521 So     
+Sheu          2606 C4258BB-8  M                    713 So     
+Socorro       2608 D49079E-4    De                 703 So     
+Lovenia       2609 EAA4444-6    C1 Fl Lo Ni        813 So     
+Malaga        2610 D254549-3    Ag Ni              605 So  
+Aikoutruaaii  2701 B4642G7-E    Lo Ni              220 As 
+Ontinal       2703 C200525-9    Ni Va              404 So  
+Tysaro        2706 A563442-7    Lo Ni              924 So  
+Shoals        2708 E789653-6    Ni Ri              124 So      
+Aldaya        2803 B627210-8  M Lo Ni              723 So     f 
+Montov        2902 D523677-2    Na Ni Po           122 So     
+THALIA        2909 B464AAD-B  M Hi Cx              404 So     f
+Varise        3002 C423589-6    Ni Po              302 So     
+RANGEL        3004 B558ADA-9  M Hi                 424 So     
+Boushi        3008 B41046A-C  M Lo Ni O:(2909)     503 So 
+Ligh          3105 B87977C-A                       311 So     
+Bedurlu       3110 D54348A-2    Lo Ni Po           821 So     
+Doyle         3203 A646544-B    Ag Ni              605 So     
+Opova         3206 B536530-B    Ni                 802 So 
+Aachen        3208 A574766-8    Ag Mr           A  204 So     f
+VILNIUS       3209 E616ABA-7    Hi Ic In           300 So     

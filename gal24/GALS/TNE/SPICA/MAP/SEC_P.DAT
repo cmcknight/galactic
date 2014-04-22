@@ -1,0 +1,29 @@
+@SUB-SECTOR: sec_p   SECTOR: Spica
+#
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Shipsboat     2532 B668513-C  L Ag Ni Hp           503 H*
+Nehlar        2536 B8425I4-B    Ni Po              900 Hv
+Raghehk       2537 A956522-C  E Ag Ni              424 Hv
+Kinyar VI     2539 B47A862-D  L Wa O:2938          204 Hv
+Momentory     2632 A584101-C  E Lo Ni              400 Hv
+Rekar         2637 E201213-8    Lo Ni Cm Va Ic     805 Hv
+Flotz Geb     2639 C323401-A    Lo Ni Cm Po        102 Hv
+Namek         2640 D334402-A  M Lo Ni Cm           824 Hv
+Pehnon        2833 D556206-5    Lo Ni Hp           513 Hv
+Hrilll        2834 C9DA8K4-C    Wa Nh              915 Hv
+Roror         2934 B799101-8  F Lo Ni              913 Hv
+Bilda         2936 C57A105-8    Lo Ni Wa           403 Hv
+Wrengax       2938 B8C6304-D  L Fl Lo Ni Cm Cp     804 Hv
+Pixhemp       2940 B7B4464-6    Fl Lo Nh O:2938 A  411 Hv
+Bihtis        3032 C201201-A    Lo Ni Cm Va Ic     510 Hv
+Nehbir        3034 C523505-4    Ni Cm Po           603 Hv
+Dihyral       3035 C8C4326-B  M Fl Lo Ni Cm        323 Hv
+Ryapak III    3036 E687405-8    Lo Ni              414 Hv
+Import Yards  3040 B434567-C  F Ni Cm Nh O:2532    410 H*
+Ridhi         3134 E638513-9    Ni Cm              400 Hv
+Zonggand      3138 C795206-6  M Lo Ni              420 Hv
+Petar         3237 E201206-4    Lo Ni Cm Va Ic     602 Hv
+Ourn          3238 E311368-6    Lo Ni Cm Ic Nh  A  610 Hv

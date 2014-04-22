@@ -1,0 +1,31 @@
+@SUB-SECTOR: Galloway   SECTOR: alphaleo
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Telgar        2531 X5412M0-1    Lo Ni Po           221 Wi
+Garmine       2532 X5566T7-8    Ni Ag              610 Wi
+Druze         2535 X9B2000-0    Fl Ba              002 Un
+Cletus        2539 X544000-0    Ba                 002 Un
+Galloway      2540 X9A4000-0    Fl                 024 Un
+Hymnet        2631 X6597V8-8    Ni              B  100 Wi
+Smilek        2635 X110000-0    Ba                 000 Un
+Troygreene    2639 X8B2000-0    Fl                 000 Un
+Domingo       2735 E64A6UB-7    Ni Wa           B  311 Wi
+Ekrit         2738 X6A0000-0    Ba                 001 Un
+Shockley      2740 X100000-0    Va Ba              005 Un
+Basil         2831 E6456U9-7    Ni Ag              105 Wi
+Westen        2834 X100000-0    Va Ba              013 Un
+Bella Vista   2836 X567200-0    Lo Ni              104 Wi
+Inchon        2931 X347000-0    Ba                 000 Un
+Fate          2932 X100000-0    Va Ba              000 Un
+Eden          3032 X6693N1-6    Lo Ni              303 Wi
+Marchant      3034 X5667S5-3    Ri Ag              100 Wi
+Billowight    3036 X323000-0    Ba                 002 Un
+Hadj          3038 E5697T8-4    C:5 Ri            B203 Wi
+Gadgick       3133 X6848WA-6                      B822 Wi
+New Jakarta   3135 XA8A6O3-3    Ni Wa              103 Wi
+Puertovalez   3137 X6515RB-2    Ni                 203 Wi
+Bismalia      3140 X100000-0    Va Ba              002 Un
+Tirane        3235 X400000-0    Va Ba              011 Un
+Ramadan       3240 D5778WA-9    Hi In              203 Na     f

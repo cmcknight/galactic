@@ -1,0 +1,2331 @@
+Herein follows the February 1993 discussion caused by original
+bitch/moan :-)
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+
+Date: Wed, 10 Feb 93 09:25:42 EST
+From: burt@ptltd.com (Burton Choinski)
+Subject: New World Generation
+
+I had something similar I whipped up (then left alone when the game prospect
+dissappeared).  I was more extensive in some ways, and not all of them
+would "fit" the normal traveller scheme.  Some of the quickies:
+
+  1) Low pop worlds (I forget the definition of "low pop" in this sense...I
+     can check the program at home tonight and get back to you) rolled on
+     a smaller government table that included some of the "high pop" 
+     governments...it was not a straight 2d6-7+pop deal.  The way it worked:
+         Low Pop (Pop 5-) : Roll on subset table to find government.
+         Mid Pop (Pop 6-8) : Roll on "mid" table.
+         High Pop (pop 9+) : roll on "high" table.
+
+     The Low table has some high entries, like religious oligarchy, etc.
+     The mid table and high tables did not have Anarchy.  The High table
+     removed some of the governments that really do not work well with high
+     populations, and added a higher chance of balkenization.
+
+   2) Tech limits
+     I also imposed limits on survivability for worlds.  If too nasty to live
+     on for the tech, it becomes empty.  I tweaked population similar to
+     how you handled it, though.
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+
+Date:     Wed, 10 Feb 1993 04:04:50 -0500
+From: Arthur Green <ARTHUR@cclana.ucd.ie>
+Subject: Re: TML nightly: Msgs 5175-5177 V51#14
+
+One major factor -- local sun type. Looking through the stuff in
+Imperial Encyclopedia, you see lots of Ag worlds orbiting M V suns.
+Without some major fudging World Builder's HB gives sub-zero equatorial
+temperatures for these.
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+
+From: mcknight@etcetc.fidonet.org (Chuck McKnight)
+Date: Wed, 10 Feb 1993 08:43:50 -0600
+Subject: Modified UWP system
+
+JV> Sonthert      1918 X6266AB-3    Ni              R  314 Im
+
+JV> Here we have a couple million folks making a living with their 19th
+JV> century technology, and look what they have to breathe: a very thin
+JV> (and tainted) atmosphere. For all intents and purposes, a vacuum. I
+JV> know... I know... they can get by with combination
+JV> respirators/filtermasks, right? All couple million of them? With
+JV> technology which is over a century old? I can just see it now.
+JV> "Don't go outside, son. Yer might have to breathe or somethin'."
+JV> Hey, at least TAS had the sense to classify it as a red zone (don't
+JV> go there if you're addicted to oxygen).
+
+    Let me offer an alternative for Sonthert.  Like many other worlds during
+the Long Night, Sonthert was cut off from the Imperium mainstream.  As an
+underground colony, isolated from the rest of the subsector it's inhabitants
+lost much of their knowledge regarding their technology.  The atmosphere
+generators continued to provide the underground habitations with adequate
+oxygen, and the colonists also found several variety of fungi that produced
+small amounts of gases that were breathable and began using them to supplement
+the atmosphere generators.  As time progressed, the society grew more
+structured along the lines of 19th century England (Earth).  Although the
+starport at Sonthert has been reestablished, the general populace retain the
+societal views developed during the long night.
+
+JV> Okay, all kidding aside, the thing that gets me about planets like
+JV> this is that anybody decided to colonize them in the first place.
+JV> Agreed, with a bit of technology, people can survive just about
+JV> anywhere they want to survive, but why bother? I see a nice dirtball
+JV> only five parsecs trailing.
+
+Why colonize a planet with a difficult environment?  Why look for gold or oil
+in Alaska? <grin>  Seriously, there might have been something of value there
+when the colony was set up or it might have been a strategic point to occupy.
+
+JV> #PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al.
+JV> #----------   ---- ---------  - --------------- -  --- --
+JV> La'Belle      2416 C564112-4    Lo Ni              701 Im
+
+JV> Now this is sweet. We're talking primo-atmosphere (none of that
+JV> chewable Los Angeles gunk). And lo and behold, who shows up to catch
+JV> the view? A whopping seventy people. We have more folks on the TML
+JV> than this. Yes... I know... the planet is corporate owned, but who
+JV> really cares? Why waste a virtual paradise (at least compared to
+JV> that other place) on seventy stinking corporate losers (or maybe
+JV> corporate winners in this case). Ah, yes... I can see some cool
+JV> scenarios... the corporate paradise. The wooing ground for potential
+JV> investors. Perhaps it's just one big golf course. You tee-off from
+JV> orbit.
+
+JV> But the fact is, this would never happen. When the place gets
+JV> colonized way back when, people are gonna zoom in on this little
+JV> speck of rock like nothing you've ever seen, and any corporation
+JV> that wants it is gonna have to pay through the nose (and a few other
+JV> choice orifices) to get it.
+
+Unless the corporation got there first.  And was capable of providing enough
+mercenaries to keep it private.
+
+JV> My point: this situation shouldn't happen. It goes not only against
+JV> intuition and common sense, it goes against the principle of greed,
+JV> the fundamental root of human nature (yes, I'm down on humanity, but
+JV> that's not the point here). The point is that this rule system is...
+JV> flawed, no other way to put it. (I can see several people shaking
+JV> their heads and saying "you mean you just figured this out?") Hey,
+JV> I've always been a big believer in classic traveller, and the
+JV> spinward marches are about as classic as you can get. But the point
+JV> stands, there's something rotten in the Lanth subsector, and it
+JV> mostly likely extends from the whole set of rules on UWP generation.
+
+I disagree.  Greed would be precisely why both might be the way they are. 
+However, I lean far more toward space opera than hard sci-fi when I'm running
+FRP/SFRPs.  However, there might be other factors as to why there are only 70
+people on La'Belle.  How about the only safe area in this paradise will house
+about 70 people?  I look upon the current system as the engine that makes me
+use my imagination, to try to reason why an otherwise inhospitable world would
+be colonized.  However, that's my viewpoint and nobody else's.  <grin>
+
+JV> Think about it. You roll up some dinky little ice-ball as the main
+JV> world in your star system and then you try telling me that the fact
+JV> that this tiny speck of crud has no atmosphere, that it has no
+JV> liquid water, and that it hasn't even a modicum (I like the word) of
+JV> elbow room.... and then you try telling me it's just as likely to
+JV> have 50 billion people on board as that garden terra-prime paradise
+JV> just a couple of parsecs down the road. I don't think so. Yes... you
+JV> can explain it away. You can say, "Oh, there's this wonderful
+JV> lanthanum mine." Or you can say. "These people live here... because
+JV> it's their home" (and then smile convincingly). But it doesn't work.
+JV> This isn't a little inconsistency. This is whopping big one. It's
+JV> gigantic. It's glaring. It's pesky and annoying (like me), but most
+JV> of all, it's just plain stupid.
+
+Nah, I'd say the little ice ball was the spiritual center of a culture and all
+the populace lives ship board packed around the little ice ball either in
+space stations or some other technological marvel that masks the true nature
+of the ice ball (it's actually a size A world with one hell of a spacial
+distortion <grin>).  :-)  Of course, if it's pesky and annoying to you, you
+always have the option of changing the UWP.  After all, when was the last time
+the IISS came through here?
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+
+Date: Wed, 10 Feb 93 23:13:29 PST
+From: jimv (james vassilakos)
+Subject: Cold suns & soft science: UWPs revisited
+
+In this article I'm addressing points made with respect to the
+modified system for UWP (main world) generation which I presented
+in the previous night's mailing. In the first segment, I am
+replying to Arthur Green, who feels that the local sun type should
+also be considered when determining main world features,
+particularly population. In the second segment, I am answering
+Chuck McKnight, who views the bizarre results which are generated
+by the unmodified system to be an indispensible source of
+inspiration for his soft-science approach to the game.
+
+** Section 1 **
+
+Arthur Green <ARTHUR@cclana.ucd.ie> writes:
+> One major factor -- local sun type. Looking through the stuff in
+> Imperial Encyclopedia, you see lots of Ag worlds orbiting M V suns.
+> Without some major fudging World Builder's HB gives sub-zero equatorial
+> temperatures for these.
+
+Hmm... I wasn't aware of this, but I'll toss out my thought for whatever
+they're worth (probably not much). Type M stars are the cool-red
+variety. Even a main sequence (size V) example puts out considerably
+less radiation than the "average" star. It's so low that for an M0-V,
+the habitable zone is roughly 30 gigameters distant (or orbit 0
+according to the traveller rules). When you start dimming the star
+down to M5-V or even M9-V, the habitable zone falls ever further
+closer to the star (well within this imaginary "orbit 0" established
+in book six of the classic rules). Now the question really is, how
+much faith can we put in this "orbit 0"? Thinking like a humanities
+major, I see no reason why a planet shouldn't be able to get as
+close to its star as it wants to (barring the vaporization distance,
+which isn't going to be very lengthy in this case).
+
+You've got to remember that "orbit 0" is a figment of somebody's
+imagination. There are no rail-road tracks out there in space
+dictating where a planet must orbit. Orbit numbers are a convenience
+instated by the rules. Nothing more.
+
+Even if you argue that they are based on astronomical observations
+(the ratio of orbital distances and so forth), you still have to
+realize that these observations have been taken from one star
+system, ours, and that we haven't yet had a chance to verify the
+theory with data on other star systems. So, in short, I don't
+really think the problem is with the sector data so much as it
+is with the system design rules... i.e., the extended system
+design rules maybe shouldn't have relied to stringently to these
+artifical orbit numbers.
+
+> How about including some sort of -x here for "unsuitable" sun type?
+> Actually a negative DM for mean planetary temperature would be better.
+
+Now having said that, I have to address this question, and to
+be honest, it's one I'd rather not address simply for the fact
+that I'd prefer not to have to deal with extended system design
+(basis system design is enough of a can of worms all by itself,
+thank you). Agreed, the barrier between the basic and extended
+systems is also artifical, and if you want to do things right,
+you should always consider the star's size and spectral type
+before proceeding to world generation. Nevertheless, how often
+do your players want to know the spectral class of the star
+in a particularly system? For my game at least, details like that
+are largely irrelevant. To go a step further, how many of your
+players know astronomy well enough that such an issue would
+hinder their "suspension of disbelief" and thus their enjoyment
+of the game? I haven't met a player yet who regarded star size
+and spectral class as anything other than ignorable minutia.
+
+In short, the modified system for UWP generation was meant to
+fix something that is not ignorable. After that (the basic
+system) is working, then at least we might have a solid enough
+foundation to proceed into the particulars of the extended
+system generation. But this is not the time to get into those
+sorts of questions. Still, I appreciate your comments. I just
+want to focus on this main problem for now.
+
+** Section 2 **
+
+To refresh the reader, Sonthert is a world of 3 million inhabitants.
+They subsist with almost no atmosphere to speak of in a technological
+state equivalent to the pre-indistrial era on Earth, circa 1800.
+The questions are "why" and "how".
+
+Sonhert/Lanth 1918 X6266AB-3    Ni              R  314 Im
+
+mcknight@etcetc.fidonet.org (Chuck McKnight) writes:
+>    Let me offer an alternative for Sonthert.  Like many other worlds during
+>the Long Night, Sonthert was cut off from the Imperium mainstream.  As an
+>underground colony, isolated from the rest of the subsector it's inhabitants
+>lost much of their knowledge regarding their technology.  The atmosphere
+>generators continued to provide the underground habitations with adequate
+>oxygen, and the colonists also found several variety of fungi that produced
+>small amounts of gases that were breathable and began using them to supplement
+>the atmosphere generators.  As time progressed, the society grew more
+>structured along the lines of 19th century England (Earth).  Although the
+>starport at Sonthert has been reestablished, the general populace retain the
+>societal views developed during the long night.
+>Why colonize a planet with a difficult environment?  Why look for gold or oil
+>in Alaska? <grin>  Seriously, there might have been something of value there
+>when the colony was set up or it might have been a strategic point to occupy.
+
+Okay. You're making one basic argument here: that Sonthert's situation
+can be explained... that with some imagination, it can be rationalized,
+and that in the process, we can come up with an interesting and distinctive
+history and culture for the planet and its inhabitants. That's fine. I agree
+with you.
+
+However, in the process of making this argument, you've completely
+ignored mine. My argument was this: the system for UWP generation is
+broken because it gives us unwelcome results with such alarming
+consistency that it confounds the imagination to have to keep
+coming up with new explanations and rationalizations on why such
+and such a planet shouldn't exist but does. I think that having this
+sort of world appear every once in a while is okay. But making it a
+standard outcome of the system is only indicative of a broken system.
+
+Take a second and think about it. True, we have lot of people working
+the oil and minerals up in Alaska, but the system doesn't say anything
+about oil and minerals. The unmodified/broken system says, if you
+take a dinky, icy world (which happens to be the mainworld of a
+star system), and you compare it against any other main world (even
+the terra-prime worlds out there), the chances of the ice ball having
+a higher population are 50%. In real life, if you take 1000 square
+miles of alaska (or antartica, or sibera, or the sahara desert...
+any place which is "inhospitable") and you compare it against 1000
+square miles of any place which is hospitable, ask yourself, what
+are the odds that the yuchy-foo place is going to have a higher
+population than the garden paradise? My guess is that the odds are
+well below 50%. Of course, that doesn't preclude it from ever
+happening. The scenario you describe is still possible. All I'm
+trying to do is make the system more reflective of what we'd
+expect on average.
+
+>I lean far more toward space opera than hard sci-fi when I'm running
+>FRP/SFRPs. I look upon the current system as the engine that makes me
+>use my imagination, to try to reason why an otherwise inhospitable world
+>would be colonized. However, that's my viewpoint and nobody else's.
+
+No, I'm sure that a lot of other people share your view, but if you
+prefer feeling like an extremist, why don't you just scratch the
+die modifiers altogether? Why make any attempt to get the UWP to
+conform with our expectations unless the attempt is a good and
+reasonable one? I think our difference here may simply be one of
+degree. You are happy enough with the unmodified system that the
+work needed to change it and make it better acts as a sort of
+inertia (which is probably the same reason I'm still playing AD&D,
+albeit largely modified). And please don't take this as a flame.
+It's not meant as such. And I do agree with you, that the softer
+the science in your game, the less desirable a reality-based system
+for UWP generation becomes.
+
+>Nah, I'd say the little ice ball was the spiritual center of a culture and all
+>the populace lives ship board packed around the little ice ball either in
+>space stations or some other technological marvel that masks the true nature
+>of the ice ball (it's actually a size A world with one hell of a spacial
+>distortion <grin>).  :-)  Of course, if it's pesky and annoying to you, you
+>always have the option of changing the UWP.  After all, when was the last time
+>the IISS came through here?
+
+Again, it is pesky and annoying, and the unmodified system generates
+too many of these pesky and annoying planets to modify by hand. A better
+system is called for (IMHO). Either that, or we can chuck this so-called
+hard-science/reality-based approach and start playing Star Trek.
+
+Or maybe I should just look for another hole to bury myself in. :-)
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+
+Date: Wed, 10 Feb 93 23:46:45 EST
+From: wildstar@moeng2.morgan.edu (Derek Wildstar)
+Subject: Random Replies
+
+On Jim's Modified Generation System:
+ 
+One possibility to consider for worlds with Tainted atmospheres is that there
+is a native "minor" race; this species is very likeley to not notice the taint
+(in fact, it might be beneficial to them).  If this is the case, there should
+be no negative DM for thin tainted, standard tainted, and dense tainted
+atmospheres, and no TL minimum.
+ 
+The other thing I noticed was the negative starport DM on worlds with
+very small populations.  This should be generally true, but exceptions
+do exist --- the resort world with nearly no permanent residents but a
+Class A or B port; the mining outpost with a few thousands of
+inhabitants and a very high traffic level.
+ 
+All in all, nice work.  The world generation is one thing that has a
+good chance of being changed in T:TNE; so it is possible that this will
+be improved for the next incarnation of Traveller.
+ 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+
+Date: 11 Feb 1993 21:43:08 -0700 (MST)
+From: Stephen Wright <NCC1701@corral.uwyo.edu>
+Subject: Traveller UWP generator...
+
+Hello.  Just read your post on TML about your modified world
+generator.  Like you, I've often thought the Classic Traveller
+world generator was far too random and produced entirely non-
+sensical results.  Unlike you, I never devoted any thought as
+to how to easily change it.  I just did it the hard way--if I
+got results I was unhappy with, I fudged them...
+
+I looked over your post, and I find your suggested DMs well
+thought-out; at first glance, I can't offer any real critique.
+But I'd like to sponge off on your offer of an MSDOS-executable
+that will do all the hard work for me...if that offer is still
+open.  Maybe after playing with the generator for awhile, I'll
+see something I don't like, and propose an algorithm modifier.
+(Then again, to be honest, I've been "satisfied" with the old
+one for fifteen years; and I never did anything with it, so
+take that with a grain of salt).
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+
+Date: Fri, 12 Feb 93 14:26:52 +1100
+From: "Bruce Pihlamae" <pihlab@hhcs.gov.au>
+Subject: RE: UWPs revisited
+
+> Again, it is pesky and annoying, and the unmodified system generates
+> too many of these pesky and annoying planets to modify by hand. A better
+> system is called for (IMHO). Either that, or we can chuck this so-called
+> hard-science/reality-based approach and start playing Star Trek.
+>
+> Or maybe I should just look for another hole to bury myself in. :-)
+
+No, I like what you've done so far.
+
+I'm not greatly involved in system/planet design but I may give you something
+to help so...
+
+Perhaps the problem lies in the fact that we've only got one set of generation
+rules that are trying to generate everything based on either too many
+random variables or restricting ourselves to too few variations.
+
+I can see that you've got 4 things to contend with
+  
+    1.  What are the physical characteristics of the planet (iceball whatever).
+
+    2.  What life/society has evolved on this planet without intervention
+        by outside star fareing societies?
+
+    3.  What space faring culture has interfaced with this planet/society
+        and why?
+
+    4.  How long have 1 and 2 been interacting and has the type of interaction
+        changed regularly and how often?
+
+Generate the planet as realisticly as you like.
+
+Try generating items 2 and 3 separately and then merge them together to give
+the final society entity.  Initial settings in one will effect settings in
+the other and vice versa.  
+
+If you factor in item 4 as a number of times to iterate through the
+relationship routine (and the type of relationship can change) then I think
+you can build reasonable worlds AND all of those weird no atmosphere high
+population worlds AND JUSTIFY THEM in the actual design process.
+
+Have a think about it, it's a lot of work but you read like you want
+something this detailed.
+
+It's sort of like a character generator for worlds
+
+    - roll the stats            (generate the world), 
+    - determine initial hobbies (generate local society),
+    - determine professions     (generate external influences), and
+    - generate skills           (iterate to determine changes).
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+
+Date: Fri, 12 Feb 93 17:19:23 +1100
+From: langsl@cbr.hhcs.gov.au
+Subject: re: variant basic system generation
+
+1. Thankyou for posting the variant basic system. I agree with your basic 
+principles, but I haven't had time to try it out for real.  I would 
+certainly be interested in any changes you make to the system.
+
+2. I like the 'basic system' idea.  It is enough to start developing a 
+world from, and allows for creativity and flexibility, plus providing 
+inspiration for world detail in the first place.  If your system produces 
+more reasonable results most of the time then this is fine by me: less 
+hassle working out explanations for improbable results every 3rd system or 
+whatever, as you suggest. 
+
+3. I don't use extended system generation, so star type doesn't worry me.  
+But maybe you could add generation of an appropriate stellar type to your 
+system, purely as an extension for 'feel', to go with gas giants, 
+asteroids, bases etc.
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+
+From: jeff.zeitlin@execnet.com (Jeff Zeitlin)
+Date: 12 Feb 93 (01:45)
+Subject: tml nightly: msgs 5175-51
+
+  Why exclude law level from the tech modifier?  The more
+  oppressive a society is, the less likely it is that the geniuses
+  will appear and create the new technology.  Earth history bears
+  this view out; the cultures that made the largest advances in
+  technology were the ones with high levels of personal freedom.
+  Certainly, other, less free cultures may do a better job of
+  exploiting some forms of technology, but they'll probably get it
+  from a culture that is more free.  I'd hardly expect a totally
+  oppressive theocracy to be innovative...
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+
+Date: Fri, 12 Feb 93 12:32:07 -0500
+From: snow@lyrae.DNET.NASA.GOV (Martin Snow)
+Subject: Minimum orbital distance
+
+It's not true that there is no "minimum" orbital distance for a planet around
+a dim star.  There's something called tidal stress which is caused by the
+difference in gravitational pull from the star on the close side of the planet
+vs. the farther side.  At the distance of the sun from the earth, the tidal
+stress doesn't do more than puff up the ocean (which causes the ocean tides
+you've probably heard of). :-)  As an aside, the sun-earth tide is larger
+than the moon-earth tide, or so I'm told.
+
+Anyway, if your planet is too close to its M5 V star, tidal stress will
+overcome the gravitational binding and the planet will break up.  That's
+why there's a minimum distance for stable orbits for planets.
+
+For items which are not bound by gravity, e.g. a space ship, the minimum
+orbit is MUCH smaller.
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+
+Date: Fri, 12 Feb 93 09:50:52 PST
+From: jimv@ucrengr.ucr.edu (james vassilakos)
+Subject: More on UWPs
+
+wildstar@moeng2.morgan.edu (Derek Wildstar) writes:
+>On Jim's Modified Generation System:
+>One possibility to consider for worlds with Tainted atmospheres is that there
+>is a native "minor" race; this species is very likeley to not notice the taint
+>(in fact, it might be beneficial to them).  If this is the case, there should
+>be no negative DM for thin tainted, standard tainted, and dense tainted
+>atmospheres, and no TL minimum.
+
+Hmm... this is an interesting idea. I guess the GM would have to decide
+whether or not such races exist before making a final call on this one.
+Since there are a variety of "taints", however, the race would be
+virtually "locked" to their one "homeworld". Unless they were genetically
+altered to survive there, I don't see how they might have come into
+being. And you still have the obvious question, why would anybody
+engineer a mutant race for a specific tainted atmosphere when there are
+non-tainted atmospheres out there? I guess we could come up with all
+sorts of rationalizations for this. But on average, it seems a bit
+extreme to assume this.
+
+Of course, there might be worlds that acquired some strange and lethal
+virus (to about 99.9% of all standard humans). Then natural selection
+could take care of this problem, and the race wouldn't be locked to
+their homeworld.
+
+I like the idea, but I also think that it's unrealistic to implement
+it as a matter of course. Situations like this should be very rare.
+
+>The other thing I noticed was the negative starport DM on worlds with
+>very small populations.  This should be generally true, but exceptions
+>do exist --- the resort world with nearly no permanent residents but a
+>Class A or B port; the mining outpost with a few thousands of
+>inhabitants and a very high traffic level.
+
+When I was thinking of the starport modifiers, I was actually thinking
+less in terms of traffic and more in terms of sheer humanpower
+requirements. Take a class-A starport. You have starship construction
+going on (by definition). How many people would that require? Could
+you do it with 10? 100? Or would you need thousands of people? My
+guess is toward the latter (but since I don't really know, comments
+on this point are extremely welcome).
+
+For a look at what I would call unrealistic, look at either of these
+two worlds:
+
+Pixie/Regina  A100103-D        Paya/Aramis  A655241-9
+
+Even with high-technology, it should take quite a few people to
+build a starship. Then you also have to consider all the other
+tasks a class-A starport is generally capable of performing. Anybody
+have any ideas on what the minimum number of people should be for
+each starport type (just in terms of running the port)? We might
+even need to cross-index this with tech level.
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+
+Date: 12 Feb 93 19:35:15 EST
+From: Mark Watson <100022.3361@CompuServe.COM>
+Subject: World Generation, various
+
+World generation:
+Broadly, I'm in favour of a more sensible fix to world generation, and Jim's
+system is pretty good. I think from earlier posts the Ag worlds round red
+dwarfs problem has been recognised by GDW, and is regarded as an abherration
+introduced in later Traveller. What they are going to do about it I don't
+know - given that we are already stuck with the UPPs for several sectors and
+the likely fix is to more strongly weight the star type/size based on the
+mainworld we are in for a glut of F, G and K stars, I guess.
+There were various variant solutions punted under classic trav ... a
+couple from White Dwarf were:
+- increasing the space represented by a hex by a factor of ten (this from
+Andy Slack's "Expanding Universe" series). The mainworld now represents
+likely the most useful system, and probably the only explored one.
+- adding a Z axis for more worlds (from a Starbase column). The suggested
+solution was +/- 10 hexes from the x/y axes.
+Both these solutions should solve the skewed averages. The second adds the 3
+dimensional aspect alot of people want but I would think it unlikely because
+it would break the current sector maps, library data, etc. The other
+advantage is of course to increase the role of the Scouts.
+
+Couple of other points on worldgen, if anyone in GDW is watching:
+- one of the things which irritates me is the lack of modifiers on
+subordinate worlds based on the tech level of the main world. The advanced
+system generation rules are designed so that the mainworld need not be
+generated first (however, if you take this approach you still need to
+nominate the mainworld before generating the govt and law levels for
+everyone else (I put this down to sloppy proofing). Whatever, in the
+Imperium milieu it is more likely that the mainworld has been generated,
+either by the ref or from an official sector chart. For the Imperium milieu
+(note not necessarily for a 2300AD style game) the advanced generation
+system should extend the basic one, not try to replace it ...
+
+(interesting, btw, how the world generation affects and is affected by the
+game background - I hope this is not regarded as a "generic" rule - either
+the Imperium stuff will not work, or it is changed utterly, or a 2300AD
+style game becomes impossible).
+
+- And, minor point, SpaceMaster includes a chart explaining what the different
+star types mean (ie G is yellow, etc). I don't think this is a trade secret
+and the non-astronomers can use it to add colour :-).
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+
+Date: Fri, 12 Feb 93 23:57:41 PST
+From: jimv@ucrengr.ucr.edu (james vassilakos)
+Subject: mainworld generation
+
+Re: World-Building with history
+
+Bruce Pihlamae <pihlab@hhcs.gov.au> writes:
+>Perhaps the problem lies in the fact that we've only got one set of generation
+>rules that are trying to generate everything based on either too many
+>random variables or restricting ourselves to too few variations.
+
+<stuff deleted>
+
+>It's sort of like a character generator for worlds
+>    - roll the stats            (generate the world), 
+>    - determine initial hobbies (generate local society),
+>    - determine professions     (generate external influences), and
+>    - generate skills           (iterate to determine changes).
+
+This is a really bizarre/amazing/wonderful idea. At first glance,
+I was a bit taken aback by the amount of work it would require, but
+I can envision how such a system could come together, providing
+not only the UWP but a history to go with it (analogous to the
+character history provided in advanced character generation).
+This is really one of the fundamental differences (character
+generation-wise) between Traveller and many of the other popular
+RPGs. In others games, characters are created. In Traveller,
+they evolve, giving them an entire career history before the
+game even begins. Transfering this concept to world generation
+is a great idea.
+
+Still, I really don't want to go to all the work that this would
+require. I'd rather work within the structure of the
+"official" basic mainworld generation system. However, if I
+ever decide to create a new SF-RPG (heaven forbid), I'd definitely
+come back to this idea of yours and put some serious thought
+to it.
+
+Re: Remembering the stars in mainworld generation
+
+langsl@cbr.hhcs.gov.au (alistair) writes:
+>I don't use extended system generation, so star type doesn't worry me.  
+>But maybe you could add generation of an appropriate stellar type to your 
+>system, purely as an extension for 'feel', to go with gas giants, 
+>asteroids, bases etc.
+
+Hmm... the question, of course, is how far do you go with the "feely"
+additions? Since the sunbane-format for sector listings provides an
+area to note the star type, I think your suggestion can be easily
+accommodated. Go beyond this, however, and we run into problems
+concerning compatibility with the existing sector and subsector
+viewing programs already out there (the ones I'm thinking of being
+provided to us by Mark and Cynthia).
+
+Also, as several TMLers have noted recently, star type does effect
+the rest of planetary generation (yes, I'm flip-flopping on my
+rebuttal to Arthur Green who suggested that the combinations of M-V
+stars and hospitable (even agricultural) worlds was not realistic). So
+if we do add this data in for 'feel', we should take care not to
+make the same mistake as GDW. I.e., we should first generate star-type
+according to known stellar frequency data and then generate the
+mainworld, applying DMs to the UPP data as applicable (Arthur had
+it right). This would probably make the "inhospitable" worlds even
+more common than in the modified system I presented a few days ago.
+That's fine with me if it's fine with you (though we can't know for
+sure, it's probably closer to the true situation).
+
+Re: More die modifiers for the modified system
+
+jeff.zeitlin@execnet.com (Jeff Zeitlin) writes:
+>  Why exclude law level from the tech modifier?  The more
+>  oppressive a society is, the less likely it is that the geniuses
+>  will appear and create the new technology.  Earth history bears
+>  this view out; the cultures that made the largest advances in
+>  technology were the ones with high levels of personal freedom.
+>  Certainly, other, less free cultures may do a better job of
+>  exploiting some forms of technology, but they'll probably get it
+>  from a culture that is more free.  I'd hardly expect a totally
+>  oppressive theocracy to be innovative...
+
+This is a good point. If you send me your suggested modifications,
+I'll try 'em out on the program. Another TLMer mentioned via email
+that he uses three different tables for determining the government
+type of a world. Which one he uses depends on the world's population.
+I don't know if this is going too far or not, but the best way to
+find out is to try out the idea and see what sort of UWPs it results in.
+
+Re: Standards & Assumptions
+
+Mark Watson <100022.3361@CompuServe.COM> writes:
+>interesting, btw, how the world generation affects and is affected by the
+>game background.
+
+I'm sorry to disect your article down to this one sentence, but it's
+the one I found most interesting, and I really wanted to focus on it
+for my conclusion tonight.
+
+One of the things that always impresses me about Traveller is that
+despite the wealth of background material GDW/DGP/FASA/Gamelords/etc
+has provided for the "official setting", there is still a great
+degree of variation between game masters in terms of the "feel" of
+the game, i.e. the hardness of the science, the extent of minor
+alien races, the local politics, etc. Just talking with people over
+the TML brings out some of these differences. Then there are the
+people (the few, the proud :-) who have chucked the "official"
+setting in favor of staking out some entirely new territory,
+with a new history, new poltical figures, and in short, new standards
+and assumptions. I feel that because of these reasons, it's going to
+be impossible to build one world generation system which will satisfy
+everyone. However, if we stay fairly close to the official system which
+we all know and which most of us accept and just try to fix its more
+obvious problems, then I'll be able to consider this whole thing a
+success.
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+
+Date: Fri, 12 Feb 93 14:53:41 PDT
+From: Leonard.Erickson@f51.n105.z1.fidonet.org (Leonard Erickson)
+Subject: Orbit 0
+
+James Vassilakos writes:
+>in book six of the classic rules). Now the question really is, how
+>much faith can we put in this "orbit 0"? Thinking like a humanities
+>major, I see no reason why a planet shouldn't be able to get as
+>close to its star as it wants to (barring the vaporization distance,
+>which isn't going to be very lengthy in this case).
+
+There's something known as the "Roche Limit". Anything closer than that
+that will be subject to tidal forces stronger than its own gravity.
+Which means that satellites *cannot* form inside the Roche Limit of the
+parent body. And if a body is somehow moved to an orbit inside the Roche
+limit, it has to have enough structural strength to resist the tidal
+force. And they increase with the *cube* of the distance as you approach
+the parent body.
+
+>You've got to remember that "orbit 0" is a figment of somebody's
+>imagination. There are no rail-road tracks out there in space
+>dictating where a planet must orbit. Orbit numbers are a convenience
+>instated by the rules. Nothing more.
+
+Well, there actually *are a lot of limits on available orbits based solely
+on orbital dynamics. For instance, orbits with periods in a simple integer
+relationship to each other are unstable because the "tugs" they give each
+other reinforce.  Simple fractional realtionships (like 2/3, 4/5 etc) can
+do it too. This is why there are areas in the asteriod belt where there
+aren't any asteroids, they'd have orbits synched with Jupiter this way.
+Ditto for Saturns rings, the gaps are caused by resonances with some of
+the satellites.
+
+>Even if you argue that they are based on astronomical observations
+>(the ratio of orbital distances and so forth), you still have to
+>realize that these observations have been taken from one star
+>system, ours, and that we haven't yet had a chance to verify the
+>theory with data on other star systems.
+
+We have not just the planets orbiting the sun, but the asteroids and the
+various moons orbiting the planets. That's a *lot* of observational data.
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+
+From: mcknight@etcetc.fidonet.org (Chuck McKnight)
+Date: Fri, 12 Feb 1993 08:00:09 -0600
+Subject: Re: TML nightly: Msgs 5182-5185 V51#16
+
+Actually, I haven't ignored your argument about the UWP system being broken. 
+I approach the UWP generation system (hell, I approach most random generation
+systems) as guidelines that I'm free to modify if it suits me.  I don't view
+the UWP as a sacred cow that must not be fiddled with, but more of a starting
+point.  If I get a result that doesn't match what I'm looking for, I change
+it.  I will also mention that I don't mass generate sectors, preferring to
+hand generate each system so I can be sure that I don't get anomalies.  But
+that's my personal preference and I won't undertake to speak for anyone else. 
+I'm not denigrating your UWP mods, they're nift, they make sense, etc.  That's
+your style of GMing and I support your efforts.  :-)
+
+JV>No, I'm sure that a lot of other people share your view, but if you
+JV>prefer feeling like an extremist, why don't you just scratch the die
+JV>modifiers altogether? Why make any attempt to get the UWP to conform
+JV>with our expectations unless the attempt is a good and reasonable
+JV>one? I think our difference here may simply be one of degree. You are
+JV>happy enough with the unmodified system that the work needed to
+JV>change it and make it better acts as a sort of inertia (which is
+JV>probably the same reason I'm still playing AD&D, albeit largely
+JV>modified). And please don't take this as a flame. It's not meant as
+JV>such. And I do agree with you, that the softer the science in your
+JV>game, the less desirable a reality-based system for UWP generation
+JV>becomes.
+
+Personally, I suspect that if it isn't published in a GDW/TSG publication most
+people don't use it at all.  :-)  Like I think I mentioned, the generation
+system is merely a beginning if I'm stuck for an idea.  Personally, I think a
+game's 'reality' is the one imposed and painted by the referee, but I'm into
+escapism in my gaming. :-)
+
+Difference of approach, I think.  If I've got to flesh out a world that my
+players will be playing on, I'll customize it to suit myself generation system
+or no.  However, you're entitled to your opinion and I agree that there are
+things that need changing if you're mass generating sectors to make results
+more uniform.  Of course, I've never approached Traveller as a hard
+science/reality based game.  ;-)
+
+JV>Or maybe I should just look for another hole to bury myself in. :-)
+
+Nah, ya gotta suffer with the rest of us.
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+
+Date: Sat, 13 Feb 93 23:02:30 PST
+From: jimv@ucrengr.ucr.edu (james vassilakos)
+Subject: mainworld generation (more replies)
+
+Leonard.Erickson@f51.n105.z1.fidonet.org (Leonard Erickson) writes:
+> There's something known as the "Roche Limit". Anything closer
+> than that that will be subject to tidal forces stronger than
+> its own gravity. Which means that satellites *cannot* form
+> inside the Roche Limit of the parent body. And if a body is
+> somehow moved to an orbit inside the Roche limit, it has to
+> have enough structural strength to resist the tidal force.
+
+Sigh... another humanities major (me) bites the dust. As I
+said last night, I'm flip-flopping on my reply to Arthur
+Green. While there may not be rail-road tracks in space, the
+orbit #'s introduced in Book 6 now make more sense to me.
+Thanks.
+
+mcknight@etcetc.fidonet.org (Chuck McKnight) writes:
+>Actually, I haven't ignored your argument about the UWP system being broken. 
+>I approach the UWP generation system (hell, I approach most random generation
+>systems) as guidelines that I'm free to modify if it suits me.  I don't view
+>the UWP as a sacred cow that must not be fiddled with, but more of a starting
+>point.  If I get a result that doesn't match what I'm looking for, I change
+>it.  I will also mention that I don't mass generate sectors, preferring to
+>hand generate each system so I can be sure that I don't get anomalies.  But
+>that's my personal preference and I won't undertake to speak for anyone else. 
+>I'm not denigrating your UWP mods, they're nift, they make sense, etc.  That's
+>your style of GMing and I support your efforts.  :-)
+
+Yeah, well... I will admit to mass-generating sectors, but I should also
+add that I agree with you about it being really necessary not only to
+tweak the data but also to expand (greatly) on that data (and I think
+most people would agree with this). One of the things I always hated
+about the sector books was that they didn't go into detail on the worlds
+they overviewed (this, of course, is the GM's job). Still, I always
+preferred books like the Pilot's Guide to the Drexilthar Subsector,
+which attached a few paragraphs to each mainworld. So although I do
+rely on computer generated UWPs, I also take them as just the starting
+point. And I think this is the intention of the rules.
+
+One of the things I hope to do after this discussion is concluded (if
+it is ever concluded) is to go over the sector data for my Traveller
+campaign (tweaking and re-generating as seems appropriate) and then
+write down the world descriptions, put them together with a subsector
+viewer, and finally make the whole package available over the net.
+Writing up the world descriptions will probably be the longest phase,
+but when it's done, I think it'll be worth it (especially for all the
+"Harrison" readers who want to investigate the story's backdrop for
+themselves).
+
+>Personally, I suspect that if it isn't published in a GDW/TSG publication most
+>people don't use it at all.  :-)  Like I think I mentioned, the generation
+>system is merely a beginning if I'm stuck for an idea.  Personally, I think a
+>game's 'reality' is the one imposed and painted by the referee, but I'm into
+>escapism in my gaming. :-)
+
+Yeah, well, I think we can all testify to that. I, personally, can only
+handle so much reality intruding upon my fantasy :-)
+
+But seriously, when I refer to "reality" in a gaming or even a writing
+context, what I'm really referring to is "suspension of disbelief."
+In other words, if the game is pretending to conform to something
+approaching the reasonable or "reality-analogous" (i.e., starports
+being analogous to airports or shipping ports, worlds being analogous
+to countries, etc), then it should be careful not to diverge in a
+way which would cause people to "disbelieve" or otherwise "fall out
+of character." As an example, I don't know of any "world-class" shipyards
+which are run by a handful of people (as could occur under traveller
+rules).
+
+>Difference of approach, I think.  If I've got to flesh out a world that my
+>players will be playing on, I'll customize it to suit myself generation system
+>or no.  However, you're entitled to your opinion and I agree that there are
+>things that need changing if you're mass generating sectors to make results
+>more uniform.  Of course, I've never approached Traveller as a hard
+>science/reality based game.  ;-)
+
+Yeah... that's part of the beauty of all these RPGs. You can really
+define your own approach. While I think many people would call Traveller
+a hard-SF RPG (certainly harder-SF than many of its competitors), the
+individual GM can shift the flavor of the campaign to whatever she or
+he wants. As an example, I've been told by one TMLer that the "Harrison
+Chapters" depict a "dark empire" while Traveller depicts a benevolent
+one. I agree with him. My campaign (indeed, my entire setting) had been
+customized to fit my peculiar prejudices, and I imagine this sort of
+thing is fairly commonplace (at least, I hope it is). My fear (with
+respect to the modified system I introduced) is that by making all
+those changes in the UWP generation system, I may be catering too much
+to my own preconceptions and that I may end up with very "uniform" looking
+world descriptions. After all, you need a little variety to make things
+interesting. What I want to do is make things more "realistic" without
+chopping out the "interesting."
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+
+Date: Sun, 14 Feb 93 12:48:55 PST
+From: jimv@ucrengr.ucr.edu (james vassilakos)
+Subject: Trade Codes and Star Types
+
+Re: Trade Codes
+
+Well, to advance the discussion into slightly new ground, I have
+a few questions about the trade codes presented in the MT Ref's
+Manual.
+
+(Fl) Fluid
+def: Non-water ocean(s).
+reqs: size A+, atmos 1+
+
+What does this mean? That only big worlds will have exotic
+oceans? I suspect that there is a typo here: that the reqs should
+read atmos A-C hydro 1+. Damn well near impossible to use the
+MT material without that blasted errata sheet.
+
+(Ic) Ice-Capped
+def: self-explanatory
+reqs: atmos 0-1, hydro 1+
+
+Maybe I'm confused about the definition. I mean, earth is ice-
+capped (last I checked), but we don't fit under the requirements
+for this trade code. So what is the significance of a world being
+ice-capped?
+
+(In) Industrial
+def: economy based on mass-production of manufactured goods.
+reqs: atmos 2,3,4,7,9, pop 9+
+
+I know this one goes back to classic traveller, but I've always
+had a problem with it. Considering the extent of robotics and
+mechanized labor at high tech levels, I'm not sure this high a
+population requirement is really necessary. Furthermore,
+considering the extent of (clean) fusion at advanced tech levels,
+I'm not sure that the atmospheres of such worlds would be so
+heavily tainted (I guess they assume there are some negative
+atmospheric by-products of mass production other than smog).
+
+(Ri) Rich
+def: your guess is as good as mine
+reqs: atmos 6,8, pop 6-8, gov 4-9
+
+So in other worlds, if a corporation suddenly takes over a rich
+world, then that world is no longer a rich world. Makes
+absolutely no sense to me. Maybe the governmental requirement
+should be axed.
+
+Now onward to that other topic.... grrrr...
+
+Re: Star types
+
+I really hate to open up this can of worms, but since several
+people on the TML have argued that it's sort of important, we
+might as well get on with it.
+
+I've been comparing the star-system generation rules of
+MegaTraveller, GURPS Space, and Space Master, particularly as
+concerns the generation of star types. One thing I don't like
+about the MegaTraveller system is that by going with the
+mechanics alone, you will never generate type O/B or size Ia/Ib
+stars (under book 6 of classic traveller you can get everything
+but type O, I'm not sure why they changed it... probably in order
+to conform more closely with observed stellar frequencies.
+Interestingly, they kept the book six tables concerning habitable
+zones, so the only information missing is that on type O stars).
+The rules even admit this and advise the ref to just sprinkle
+them in as an after-thought. Blech!
+
+It is interesting to note that Space Master (unlike Traveller and
+GURPS), includes two other spectral classes (S and N), which are
+placed below M (dim red) on the classification scheme. Actually,
+to the best of my understanding, there are 10 spectral classes:
+O, B, A, F, G, K, M, R, N, and S. They originated out of Ann
+Cannon's work at Harvard (who originally used all the letters
+between A and S). Later studies cut the spectral classes down to
+these ten letters (of which Traveller mentions only the first
+seven). Are there any astronomer types out there who can tell us
+more about these final three spectral types and/or give us some
+local-area frequency probabilities for each of the spectral
+types?
+
+Another interesting thing about Space Master is that it ignores
+the dwarf stars (size VI), so in one way it seems to be more
+complete that Traveller, and in another way it seems to be less
+complete. I wish I knew what the designers were thinking.
+
+Regarding Orbit #'s, I'm still partial the way GURPS handles
+this: by using Bode's law to figure out orbital distances. Still,
+it's not hard to tell that even this section and most of the rest
+of GURPS Space (when it comes to world-generation) seems to be
+deliberately cognizant of Classic Traveller, its forerunner.
+Since this isn't rec.games.frp.advocacy, however, I'd better can
+the discussion of the other games right here.
+
+My basic quip about the Traveller rules (with respect to this
+topic) is that by relying so heavily on a d6 scheme of things,
+GDW seems to be ignoring several important star types and is
+probably fudging on the probabilities of those stellar
+occurrences which are covered in the rules. Fixing this problem,
+even with the help of the TML-astronomers is probably going to be
+a hairy ordeal. To compound our difficulties, once we have a
+"good" generation table for the primary, we will still need one
+for secondary and tertiary stars. I have it on decent authority
+that the *majority* of star systems out there have one or more
+companion stars to their primary. However, when we look at the MT
+or even book 6 rules, we see that Traveller is assuming that the
+majority of stars systems are solos. After this problem is fixed,
+we'll need to create habitable zone information for stars of type
+O, R, N, and S for inclusion into the orbital zone tables. And
+even then our problems won't be anywhere near finished (because
+we'll need some method of finding out whether or not the
+habitable zone is occupied and if it is, is this indeed the
+mainworld?). Like I said before, this is a huge can of worms,
+particularly when done by committee, which is the only way I can
+think of doing it since I'm pretty much ignorant about a lot of
+this stuff. One last time... are you sure you really want to get
+into all this?
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+
+Date: Sat, 13 Feb 93 21:53:31 EST
+From: wildstar@moeng2.morgan.edu (Derek Wildstar)
+Subject: Re:  More on UWPs
+
+"Bruce Pihlamae" <pihlab@hhcs.gov.au> writes:
+>Perhaps the problem lies in the fact that we've only got one set of generation
+>rules that are trying to generate everything based on either too many
+>random variables or restricting ourselves to too few variations.
+
+If you're not adverse to going beyond the original six stats, there are
+some additional variables which would be extremely useful to have.  As a
+quick background, we have the three physical stats of the world, which
+describe it in terms of:
+
+Size (independent)
+Atmosphere (dependent on size)
+Hydroshpere (dependenty on size and atmosphere)
+
+It would be nice to have two additional stats to use in later generation
+of the world's characteristics:
+
+Resources (independent) - an indicator of the available natural
+  resources on the world.  A high value indicates extensive,
+  high-quality, and/or readily exploitable resources (mineral, fossil, 
+  vegetable, or animal - this is non-specific, except that it indicates
+  the presence or abscence of resources which otherwise aren't shown
+  in the UWP).  Throw 2d6-2 for Resources; DMs subject to Referee whim
+  (for example, the Spinward Marches is known to be deficient in heavy
+  elements; perhaps a DM of -1 to the whole Marches to reflect this?).
+  Restrict the result to the range 0-F.
+
+Life (dependent on atmosphere and hydrosphere) - A general index to the
+  prevalance and variety of life on the world.  A low score would
+  indicate a barren world (your average asteroid or iceball "there isn't
+  enough life on this ice-cube to fill a space freighter!") while high
+  numbers indicate a thriving and diverse biosystem ("There's something
+  down there; massive life readings!").  Throw 2d6-2; DM-8 for Vacuum 
+  Trace, or Insidious, -6 for Very Thin or Corrosive, -4 for Exotic, 
+  -2 for Dense/High, Ellipsoid, or Thin/Low, No DM for Thin Tainted,
+  Standard Tainted, or Dense Tainted, and +2 for Thin, Standard, or
+  Dense.  Apply a Hydroshpere DM: -4 if 0, -2 if 1, No DM if 2 through
+  5, +1 if 6-9, -1 if A.  Other DMs can be used too: a +1 for worlds 
+  within the Ancients, First Imperium, or Rule of Man (old colonies or
+  terraforming efforts).  If Stellar Types are being used, an additional
+  DM for the suitability of the star might not be a bad idea.  Restrict
+  to the range 0-F.
+
+[Extra credit if you can identify the quotes]
+
+The resources score can be used to justify settlements on otherwise
+inhospitable worlds, and should serve as a positive DM for population.
+The rationale is that there is *some* type of valuable resource present
+(which doesn't otherwise show on the UWP), and therefore it is likely
+that someone has come (despite the hardship) to exploit it.
+
+The Life score can be used to get a "feel" for the native biosphere, and
+to gauge whether or not there is a native race to consider (throw Life
+or less on 2d6 for a native sentient or semi-sentient race?).
+
+For figuring out a world in the context of a long-standing interstellar
+community, you can use Resources to represent the attractiveness of the
+world to the "outside" starfaring cultures, while the Life score can be
+used as a basis for determing if there is a "native" culture to interact
+with.
+
+Martin Snow writes:
+> Anyway, if your planet is too close to its M5 V star, tidal stress will
+> overcome the gravitational binding and the planet will break up.  That's
+> why there's a minimum distance for stable orbits for planets.
+
+As I understand it, this is the "Roche Limit", and could be looked up in
+an astrophysics textbook.  Anybody out there want to provide some
+serious numbers?
+
+jimv@ucrengr.ucr.edu (james vassilakos) writes:
+> Hmm... this is an interesting idea. I guess the GM would have to decide
+> whether or not such races exist before making a final call on this one.
+> Since there are a variety of "taints", however, the race would be
+> virtually "locked" to their one "homeworld". Unless they were genetically
+> altered to survive there, I don't see how they might have come into
+> being. And you still have the obvious question, why would anybody
+> engineer a mutant race for a specific tainted atmosphere when there are
+> non-tainted atmospheres out there? I guess we could come up with all
+> sorts of rationalizations for this.
+
+Huh?  I wasn't thinking about a geneered human (or other) race as
+colonists, I was thinking of the naturally-evolved-on-that-world, native
+inhabitants.  Even here on Earth, there are plenty of creatures which
+have evolved to inhabit environments which would kill other creatures.
+
+Simply because a world has a "tainted" atmosphere, there is no reason to
+assume that life couldn't and didn't evolve on that world.  And there is
+no reason to assume that this life couldn't evolve into sentience.
+
+Such creatures may or may not be "locked" into their environment; this
+depends on the specific adaptations the creature has made to the
+environment, and on the environment itself.  Creatures which evolved on
+a world with a relatively high concentration of sulfur dioxide in the
+air may have a special body covering (hair, scales) that is resistant to
+the effects of the acid rain, and lungs that happen to be immune to the
+toxic effects of the "taint".  Such a being might survive quite
+comfortably in a standard oxygen-nitrogen atomsphere (but may have to take
+periodic baths in a mild acid in order to etch off the unwanted dead
+skin coverings.
+
+> I like the idea, but I also think that it's unrealistic to implement
+> it as a matter of course. Situations like this should be very rare.
+
+That all depends on how prevalent this "life" stuff is.  If life manages
+to evolve on nearly any world capable of supporting it to any degree,
+worlds with native sentient or semi-sentient races should be fairly
+common, and worlds with some form of life should be pretty common.
+
+On the other hand, some well-known writers have written a good chunk of
+science-fiction having postulated that the only planet to achienve
+sentient life was Earth.  This is, of course, an extreme viewpoint, but
+it illustrates the wide variation possible.
+
+For most Traveller use, a "native" intelligent minor race at least once
+a subsector seems reasonable, and several per subsector seems more than
+possible.
+
+> For a look at what I would call unrealistic, look at either of these
+> two worlds:
+> 
+> Pixie/Regina  A100103-D        Paya/Aramis  A655241-9
+
+In the case of Pixie (I've had to deal with this one, I have run quite a
+few campaigns out of the Regina subsector), I've taken the approach that
+the world is essentually all naval base.  The only personnel there (with
+a handful of exceptions) are Navy personnel, their dependents, and
+civilian contractors.  The shipyard facilities are all run by
+transients --- the entire population of the world is transient (and
+therefore, there were only a handful of "inhabitants" when the world was
+surveyed).  There are tens of thousands of people there, almost all of
+whom will be gone in two to four years (to be replaces with a new
+batch).  The civillian contractors there run shipyards, and aren't
+adverse to doing work on non-navy contracts utilizing spare capacity
+(thus the Class A rating).
+
+I'd say that the original system (which presumably generated both of
+these) was prone to such problems.  Worlds like these *could* occur,
+but should be *much* more rare than the original system provides.  If I
+had a choice, I'd use your modified system and hand-modify the worlds
+that I specifally wanted to be anomalous, rather than use the original
+system and have to check each world for reasonableness.
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+
+Date: Sun, 14 Feb 93 21:20:19 PST
+From: jimv@ucrengr.ucr.edu (james vassilakos)
+Subject: New Stats & Old Sentience
+
+Re: Additional UWP/Mainworld Stats
+
+wildstar@moeng2.morgan.edu (Derek Wildstar) writes:
+>Life (dependent on atmosphere and hydrosphere)
+>
+>For figuring out a world in the context of a long-standing interstellar
+>community, you can use Resources to represent the attractiveness of the
+>world to the "outside" starfaring cultures, while the Life score can be
+>used as a basis for determining if there is a "native" culture to interact
+>with.
+
+I *really* like these two stats you've proposed. My only concern is
+where to put them in the subsector listings such that the current
+subsector viewers won't get fouled-up by them. But that shouldn't
+be too hard. Anyway, we should definitely add them to the scheme of
+things (of course, this'll mean changing the requirements on some
+of the trade classifications... Rich worlds can now be rich for a
+good reason :-)
+
+Re: The Spontaneous Evolution of Life & Sentience
+
+>That all depends on how prevalent this "life" stuff is.  If life manages
+>to evolve on nearly any world capable of supporting it to any degree,
+>worlds with native sentient or semi-sentient races should be fairly
+>common, and worlds with some form of life should be pretty common.
+>
+>On the other hand, some well-known writers have written a good chunk of
+>science-fiction having postulated that the only planet to achieve
+>sentient life was Earth.  This is, of course, an extreme viewpoint, but
+>it illustrates the wide variation possible.
+
+Yeah, I'll admit to being one of those not-so-well-known writers who
+(at least up until now) has stuck to this extreme viewpoint, that the
+only sentience out there has either evolved on Earth or already
+destroyed itself. But I should clarify how this extreme supposition
+came about, because it is not one to which I hold dearly. On the
+contrary, I think it's ludicrous to make such a statement. I think
+that with the probabilities being what they are, that it is *extremely*
+likely (even a certainty) that extra-terrestrial sentience has evolved.
+
+However, I've always been conscious of Fermi's old question: "Where
+are they?" This, combined with the Travelleresque genre of science
+fiction, where a vast region of space is human-dominated and where
+exploration is still a serious undertaking, has created a
+situation where it becomes extremely difficult to justify the
+setting unless we make some very strong (and very unreasonable)
+suppositions.
+
+What I mean is that if there are sentient races out there, it stands
+to reason that many of them would have taken to the stars *long*
+before humans had ever stood upright. Thus, is stands to reason that
+any of them that survived would be so far ahead of us in technology
+(unless there is a technology ceiling fairly close ahead) that they
+would probably appear to us more as gods than as living beings. Since
+such "creatures" do not exist in the traveller setting, we have to
+go back and reverse our initial supposition, effectively nuking all
+non-earth-evolved sentience, making the natural advent of sentience a
+rarity of the utmost magnitude. However, Traveller is only a game, and
+whether such "creatures" exist in our "real-life" setting has been
+left (for whatever reason) as a puzzling exercise for the earth-bound
+reader. :-)
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+
+Date: Mon, 15 Feb 93 1:24:47 EST
+From: Seth 'the Lesser' <slb22@cunixb.cc.columbia.edu>
+Subject: Trade Codes from MT RefMan
+
+James Vassilakos <jimv@ucrengr.ucr.edu> writes:
+> (Fl) Fluid
+> def: Non-water ocean(s).
+
+The errata are available from an FTP site or mail-server near you.  You are
+correct in guessing that it should be "size n/a, atmos A+, hydro 1+."  I am
+not entirely certain why atmospheres D-F have non-water oceans, but they
+do....
+
+> (Ic) Ice-Capped
+> def: self-explanatory
+> reqs: atmos 0-1, hydro 1+
+
+"Ice-capped" here means that there is no liquid surface water at all, but a
+lot of surface ice.  Water does not stay liquid in a vacuum or near-vacuum.
+
+> (Ri) Rich
+> def: your guess is as good as mine
+> reqs: atmos 6,8, pop 6-8, gov 4-9
+
+This is meant to be a description of a world that people from all over will
+fight to live on.  It's not "rich" = wealthy, it's "rich" = a prize for the
+controlling government.
+
+> So in other worlds, if a corporation suddenly takes over a rich
+> world, then that world is no longer a rich world.
+
+Absolutely.  I wouldn't want to immigrate to a corporate world; the only
+decent lifestyles are for the shareholders, or (for tourist attractions)
+anyone as long as the money lasts.
+
+> Maybe the governmental requirement should be axed.
+
+There's a big difference in "quality of life" between an A66888A-A world
+(which is Rich under the rules) and an A6688DA-A world (which isn't).  IMO the
+government requirement for class Ri makes sense, assuming you think the basic
+idea of a Government digit makes sense at all....
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+
+Date: 15 Feb 93 19:42:44 EST
+From: Mark Watson <100022.3361@CompuServe.COM>
+Subject: Various
+
+> I'm sorry to disect your article down to this one sentence
+Hey - no problem - I pay to see all this stuff quoted and requoted!
+
+world building with history:
+
+Werrrlll, to a certain extent this is what the DGP WBH does with
+terraforming, only in reverse... i.e. instead of playing out the changes, it
+attempts to infer them, albeit in a limited area. This also relates to the
+discussion about whether to do the star type or the mainworld generation
+first. We are pretty well stuck, and for fairly good reasons, with the
+sector data for the Imperial milieu. So "official", or wannabe official,
+systems also need to start at that point (I realise we don't all wannabe
+official, there will always be two systems, the better one and the one we
+are stuck with...). Point being, if you want to stay with the main thread
+of what is likely to issue forth from GDW it may be worth looking more at
+the world building by inference method.
+
+trade values:
+
+Yeah, none of these ever made any sense to me either. I think they were
+created merely in order to provide a set of variations for the trade system,
+which is broken anyhow. I hope this lot gets fixed.
+
+Traveller and O/B and Ia/Ib stars:
+
+Yes, that is irritating. I'm not sure whether the "not more than one or two
+per sector" recommendation holds true or not (I also was a humanities
+major). Is there any occurrence of such a star in the official sector data?
+I just had a quick skim of the Deneb domain data in MTJ 3 and there's none
+there. (I guess the non Marches data was just mass generated. Deneb sector
+in particular was badly generated if so - the DM for the secondary star does
+not seem to have been applied).
+
+SpaceMaster and Dwarfs:
+
+If you look at the bottom of para 1.3.1 in the SM GM Book, it says that a
+negative score on the companion star roll results in a dwarf, and the
+companion star is automatically a dwarf if the primary is a dwarf (which is
+as you point out impossible under the SM rules). So I would guess that the
+absence of dwarf stars in the rules is a typo rather than deliberate.
+There's a repackaged version of SM out, maybe they fixed it now.
+
+Wildstar's extra UWP stats:
+
+My head says no, my heart says yes. I'd use them ... What would be
+interesting to know is whether GDW is planning to provide a World Builder's
+Handbook equivalent for TNE, or indeed any extended World generation
+mechanism which then precludes enhancements to the basic one. For example,
+just moving from the basic to extended system generation, you have no mod
+for within/outside the habitable zone.
+
+The other point goes back to star types - if we have star types as now which
+suddenly turn attractive worlds into iceballs, then generating life stats on
+the basis of atm/hy is not going to be so useful. (And also is this stat
+useful for non-carbon based life forms ...).
+
+[ also, using the score to throw against in the way you suggest would surely
+run against the way the other UWP stats are used - eg life stat
+3 - ie low life score, whatever that may mean - I throw 2, showing sentient
+life, but then we need another stat to indicate this ... surely its better
+to match the score to rungs on the evolutionary ladder, similarly to the TL...
+so multi-cell life forms on a 3, up to sentient life form on 12, say...?]
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+
+From: jeff.zeitlin@execnet.com (Jeff Zeitlin)
+Date: 15 Feb 93 (23:13)
+Subject: law as tech mod
+
+JV::>>  Why exclude law level from the tech modifier?  The more
+  [...deleted for brevity...]
+
+UG::>This is a good point. If you send me your suggested modifications,
+  ::>I'll try 'em out on the program. Another TLMer mentioned via email
+  ::>that he uses three different tables for determining the government
+  ::>type of a world. Which one he uses depends on the world's population.
+  ::>I don't know if this is going too far or not, but the best way to
+  ::>find out is to try out the idea and see what sort of UWPs it results in.
+
+  For a bare-bones set of mods, use the following:
+
+  No Law or Moderate Law        +0
+  Low Law                       +1
+  High Law                      -1
+  Extreme Law (A-C)             -2
+  Extreme Law (D-E)             -3
+  Extreme Law (F-G)             -4
+  Extreme Law (H+)              -5
+
+  Rationale:  At No Law, there is no way of ensuring that the 
+  person who develops new technology will be able to profit from 
+  it.  If something is good, it will be used by anyone who can get 
+  their hands on it, and without paying.  This reduces the 
+  incentive.  
+
+  At Low Law, there may be some protection, so there will be some 
+  innovation.  However, it only rates a +1 because the government 
+  will normally not be powerful or influential enough to make large 
+  investments in research.
+
+  At Moderate Law, you will typically have a government that has 
+  the power, influence, and revenue to invest in research, and 
+  sufficient freedom of information exchange to make it profitable 
+  (in terms of results).  However, at this stage, the government 
+  will probably have a tendency to want to direct the research, 
+  rather than dropping the cash on the table, sitting back, and 
+  saying, "O.K.  folks, let's see what you can come up with."  
+
+  This directive tendency will continue at higher law levels, and 
+  with the continuing decrease in personal freedom and freedom of 
+  information exchange, and increasing compartmentalization of 
+  research, the return on investment will typically drop heavily.  
+  At some point, the government will probably decide that research 
+  is unproductive of results, and tech will stagnate (Look at the 
+  USSR on Terra in -2531 - most of their technology was acquired 
+  through intelligence gathering).
+
+  These worked pretty well for me.  I've also tried fooling with 
+  the DMs for government type, with results that were not 
+  unreasonable.
+
+Subject: gov't as tech mod
+
+  In my experiments with Traveller, I have also tried changing the 
+  tech level with different mods for government than those 
+  published by GDW.  The table I eventually settled on is as 
+  follows:
+
+        MegaT gov code          DM
+        --------------          --
+              0                 +0
+              1                 +3
+              2                 +2
+              3                 +0
+              4                 +1
+              5                 +2
+              6                 -2
+              7                 See Note
+              8                 -1
+              9                 -1
+              A                 +0
+              B                 -1
+              C                 +0
+              D                 -3
+              E                 -5
+              F                 -4
+
+  Note: For balkanized worlds, generate the national governments of 
+  interest, and use <my other table, which factors in espionage> to 
+  generate gov't TL modifier.  (see Note to Note)
+
+  Note to Note:  The other table mentioned here is essentially 
+  identical, except that because of intelligence-gathering 
+  activities, negative DMs are moved one notch closer to 0 (i.e. a 
+  -1 becomes a 0, -2 becomes -1, and so on.)
+
+  Rationale:  +0 modifiers - When there is no formal government
+                 structure, any new technology developed is
+                 unprotected, save by individual effort.  In this
+                 event, even if the technology is developed, it
+                 will be slow to be released, because of concerns
+                 of the developer profiting from it (i.e. the
+                 developer wants to; others may be more willing to
+                 steal the technology than buy it).
+
+                 In a benign oligarchy, or a charismatic 
+                 dictatorship, it is less likely that those in 
+                 power will hear about good ideas that are not 
+                 developed within the governmental structure, thus 
+                 reducing the chance of advancement.  Such a 
+                 government, however, will not necessarily _reject_ 
+                 an idea if it hears about it.
+
+               + modifiers - A company has the utmost interest in 
+                 development of technology that will allow them to 
+                 achieve higher return on investment.  Ideas will 
+                 be actively sought after, and explored for their 
+                 profit-making potential.
+
+                 Democracies have a high level of personal freedom 
+                 and will tend to allow ideas to percolate around 
+                 without interference.  Coupled with laws 
+                 protecting intellectual property, and the fact 
+                 that the government will generally be pretty busy 
+                 trying to prostitute itself to the special 
+                 interests acting in the name of "the people," 
+                 there will probably be significant opportunity for 
+                 ideas to be pursued despite theoretical 
+                 restrictions on the use of government funds.  The 
+                 less a government has to deal directly with the 
+                 people, the more it will be able to direct 
+                 research, thus the lower DM for a rep. democracy 
+                 vs. a parcip. democracy.
+
+               - modifiers - The fundamental obstacles to 
+                 technological progress in these governments are 
+                 multiple: insularity from people outside the 
+                 government, doctrinaire educational policies, 
+                 rewarding of conformity over individual 
+                 initiative, personal paranoia (in the case of 
+                 dictatorships), conservatism (including but not 
+                 limited to religious orthodoxy and extremism)...  
+                 All of these combine, to varying degrees, and 
+                 result in an inability to develop ideas once they 
+                 are presented, and a further reluctance for 
+                 individuals to present their ideas for fear of 
+                 being condemned or persecuted for them (recall 
+                 Nazi Germany's attitude towards "Jewish Physics").
+
+  Note that these are only guidelines; fiddle with them to suit 
+  your needs.  Some of the factors cited for negative DMs might be 
+  at work in governments that have positive DMs, and vice-versa.
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+
+Date: Tue, 16 Feb 93 13:19:31 PST
+From: jimv@ucrengr.ucr.edu (james vassilakos)
+Subject: Life & Resources
+
+All of this will probably incite lots of flames, but oh well. Remember,
+I was only a humanities major (sigh :-)
+
+Re: Life Stat
+
+Two nights ago, Wildstar proposed adding a life stat to the UWP in order
+to account for the extent of a planet's ecosystem (presumably to be
+modified by colonization whether destructive or beneficial). However,
+he suggested rolling under the stat on 2d6 to determine whether or not
+native sentience has evolved. Mark Watson argued that this is probably
+too liberal, and being conservative on this issue (my reasoning can be
+read in yesterday's TML), I'm offering the following table for criticisms.
+
+0: Sterile
+1: Amino Acids
+2: Single-celled organisms
+3: Multi-cellular bacteria
+4: Simple vegetation
+5: Complex vegetation
+6: Microscopic insects & sea life
+7: Macroscopic insects
+8: Macroscopic sea life
+9: Land/Air-based herbivores
+A: Land/Air-based predators
+B: Large/Complex predators
+C: Tool use
+D: Fire use
+E: Agriculture
+F: Symbology (full sentience, TL=0)
+
+As you can see, my peculiar prejudice for cracking down hard on the
+"minor" races has led me to confine even the most advanced of them
+to TL=0. For my own campaign, this is perfect, but I imagine that for
+most others, it won't do (just another example of how setting drives
+planetary generation and vice-versa). For the more liberal-minded,
+you may want to give C+ various higher degrees of technology than
+what has been listed.
+
+Re: Resources Stat
+
+Wildstar also proposed a "resources" stat. Here is another table for
+your consideration.
+
+0: Barren
+1-4: Poor
+5-8: Moderate
+9-C: Rich
+D+ : Extreme
+
+Poor: Basic chemical diversity necessary to support indigenous life.
+   Otherwise, no claim to fame.
+Moderate: One solid natural-resource industry. Roll on table 10a of
+   the MT Ref's Manual. Re-roll 34-54 if life < 4 (see above). Re-roll
+   65 if life < 5. Re-roll 55-56 if life < 8. Re-roll 61-64 if life < 9.
+   Re-roll 66 if life < A.
+Rich: Two natural-resources industries, one of which commands strong
+   subsector-wide influence.
+Extreme: Three natural-resource industries, one of which commands
+   sector-wide influence.
+
+Note: The GM should translate natural-resource industries into their
+   manufacturing/processing (2nd stage) industries as seems appropriate.
+   See MT Ref's Manual (pg52) for possibilities.
+
+Another note: Under this system, the resource stat is rolled before
+the life stat, and the life stat is rolled before the specific
+industries are determined.
+
+I admit, this is all very cut & dry, but it's easier to complicate
+a simple system than to simplify a complex one.
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+
+Date: Wed, 17 Feb 93 17:22:31 PST
+From: jimv@ucrengr.ucr.edu (james vassilakos)
+Subject: Fluid Trade Class & Ellipsoidal Worlds
+
+<Mark found errata on the fluid (Fl) classification, essentially saying
+that my supposition about shifting the data to the right was correct.>
+
+Still, I'm not sure that I entirely agree with the errata version
+either. I'm wondering why Atmos is A+ instead of A-C, i.e. why should
+atmospheres D, E, and F cause oceans to be non-watery?
+
+I have another question about atmosphere type E. It assumes that
+the world is ellipsoidal (egg-shaped?), and that therefore the
+atmosphere pressures range from very high to very low depending
+on where you are on the planet's surface (since the atmosphere is
+still spherical) (see page 21 of ref's manual). 
+
+Two questions: Is this realistic? Would is also apply to the
+hydrosphere? (if so, we could have a world mostly submerged but
+with two ends jutting like mammoth mountains out of the water,
+seems strange to me).
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+
+Date: Thu, 18 Feb 93 00:57:09 PDT
+From: Leonard.Erickson@f51.n105.z1.fidonet.org (Leonard Erickson)
+Subject: Stellar types
+
+Type O is *very* rare. There's a second factor as well. Type O stars have
+only a few *million* years on the mainsequence, after which they die
+rather messily (can *you* say "Supernova"? I knew you could!)
+
+Since all the stars in an area will tend to be of the same age, that means
+that all the type O (and almost all type B) stars will have gone supernova
+before life evolved on most planets around here.
+
+Good thing, too. A supernova can be lethal at *interstellar* distances.
+Several parsecs at least.
+
+Everything I've ever heard regarding planetary formation indicates that a
+type O star *can't* have them. Too little matter left over from forming the
+star, and too little time before it got bright enough for the stellar wind
+and sheer *light pressure* to blast everything out of the system.
+
+I'm only an amateur, but I've got a textbook sitting in fromt of me. It
+doesn't even *list* R, N, and S types. From my reading, I seem to recall
+that they are very rare and don't really fit in with the other tpyes. For
+the sort of thing we are talking about, they *should* be ignored.
+
+So type O stars should be *at most* one per campaign (unless your campaign
+map covers *thousands* of parsecs) and they shouldn't have planets.
+
+BTW, if the tables give (as I recall) stellar luminosity on a scale that
+has Sol as 1 and a type O star at 10,000 or so, then there's a rough formula
+for how long the star will spend on the main sequence:
+
+T=11*(L^.75)
+T= lifetime in billions of years
+L= luminosity
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+
+From: timothy k istian soholt <xoanon@carina.unm.edu>
+Subject: Ellipsoidal planets
+Date: Thu, 18 Feb 93 16:43:17 MST
+
+jimv@ucrengr.ucr.edu (james vassilakos) writes:
+
+> I have another question about atmosphere type E. It assumes that
+> the world is ellipsoidal (egg-shaped?), and that therefore the
+> atmosphere pressures range from very high to very low depending
+> on where you are on the planet's surface (since the atmosphere is
+> still spherical) (see page 21 of ref's manual). 
+
+> Two questions: Is this realistic? Would is also apply to the
+> hydrosphere? (if so, we could have a world mostly submerged but
+> with two ends jutting like mammoth mountains out of the water,
+> seems strange to me).
+
+Since your center of gravity is going to be roughly at the center
+of all three axes of the ellipsoid, yes, you will probably have
+lower pressure at the ends of the ellipse than at the equator (I'm
+assuming that the planet is elongated from pole to pole; anyone 
+who knows more about planetary evolution want to confirm or deny
+that that's the most likely situation?). Just how significant
+those differences would be would depend on the size of the planet.
+And, yes, it would affect the hydrosphere, too. There probably
+wouldn't be a whole lot in the way of equatorial landmasses.
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+
+Date: Wed, 17 Feb 93 22:36:45 EST
+From: wildstar@moeng2.morgan.edu (Derek Wildstar)
+Subject: Trade Codes and Star Types
+
+Jim Vassilakos writes:
+> Maybe I'm confused about the definition. I mean, earth is ice-
+> capped (last I checked), but we don't fit under the requirements
+> for this trade code. So what is the significance of a world being
+> ice-capped?
+
+The "Ice-Capped" trade classification means that most or all of a
+planet's water is locked up in ice caps.  Thus the requirements are an
+atmosphere that (in general) won't support liquid water, but with a
+non-zero hydrographics code.
+
+> (In) Industrial
+> def: economy based on mass-production of manufactured goods.
+> reqs: atmos 2,3,4,7,9, pop 9+
+> 
+> I know this one goes back to classic traveller, but I've always
+> had a problem with it. Considering the extent of robotics and
+> mechanized labor at high tech levels, I'm not sure this high a
+> population requirement is really necessary. Furthermore,
+> considering the extent of (clean) fusion at advanced tech levels,
+> I'm not sure that the atmospheres of such worlds would be so
+> heavily tainted (I guess they assume there are some negative
+> atmospheric by-products of mass production other than smog).
+
+There are lots of TL-5 to TL-8 Industrial worlds in the Imperium; the
+benefits of robotics and fusion reactors are not going to be felt here.
+On a more general theme, power generation is not the only kind of
+industrial pollutant; most chemical and manufacturing processes have
+nasty by-products.  Although this is only one data point, most
+industrial nations here on Earth currently have a problem with the
+pollution of the environment with industrial wastes.
+
+I can't really believe in entirely mechanised shipyards, nor can I
+support the idea of a world populated by a couple of thousand humans and
+several million robots all turning out goods at an enormous rate.  If
+one assumes that interstellar trade is a fraction of the Imperial
+economy, then the most important factor in setting up an industrial
+world is the presence of a strong local market.  Which will require
+millions of consumers, hence the population requirement.
+
+> (Ri) Rich
+> def: your guess is as good as mine
+> reqs: atmos 6,8, pop 6-8, gov 4-9
+> 
+> So in other worlds, if a corporation suddenly takes over a rich
+> world, then that world is no longer a rich world. Makes
+> absolutely no sense to me. Maybe the governmental requirement
+> should be axed.
+
+No, a Rich world is one that is prosperous because it has reasonable
+living conditions, is not over- or under- populated, and has a
+government which is conducive to personal prosperity.  If a corporation
+should take over a Rich world, it will cease being Rich, because the
+corporate government would change the way the worlds' inhabitants live
+and work.
+
+> Re: Star types
+> It is interesting to note that Space Master (unlike Traveller and
+> GURPS), includes two other spectral classes (S and N), which are
+> placed below M (dim red) on the classification scheme. Actually,
+> to the best of my understanding, there are 10 spectral classes:
+> O, B, A, F, G, K, M, R, N, and S. They originated out of Ann
+> Cannon's work at Harvard (who originally used all the letters
+> between A and S). Later studies cut the spectral classes down to
+> these ten letters (of which Traveller mentions only the first
+> seven).
+
+As I understand it, the spectral classes in current use are:
+
+     O - B - A - F - G - K - M - N
+                              \   \
+                               R - S
+
+People who know more about astronomy are free to correct me (this is
+certainly not my area of expertise; I'm doing this from memory of a
+conversation I had with an Astronomy prof I used to now).  Anyway, as I
+understand it, R and S are "carbon" stars (they have carbon lines in
+their spectra) and are quite rare, the R being a "carbon version" of the
+M, and S is the "carbon version" of N.
+
+I have star generation tables (created from some of this information,
+and put together long before Book 6 was ever published) which can
+generate almost any type of star at approximately the correct
+frequencies.  They are two D100 tables, though; if there is interest, I
+will post them (let me know).
+
+Class O, N, R, and S stars, as well as the size Ia and Ib supergiants,
+are fairly rare, which is probably why Traveller ignores them.  If you
+want, you can sprinkle these around, at about one or two per sector.
+
+> GURPS Space (when it comes to world-generation) seems to be
+> deliberately cognizant of Classic Traveller, its forerunner.
+> Since this isn't rec.games.frp.advocacy, however, I'd better can
+> the discussion of the other games right here.
+
+Let's put it this way: if T:TNE turns out to be a complete dog, then
+I'll go over to GURPS for my SF role-playing ...
+
+> My basic quip about the Traveller rules (with respect to this
+> topic) is that by relying so heavily on a d6 scheme of things,
+> GDW seems to be ignoring several important star types and is
+> probably fudging on the probabilities of those stellar
+> occurrences which are covered in the rules.
+
+Traveller and MegaTraveller were firmly D6 games; fudging on the
+probabilities in order to get the thing to fit in a D6 roll is
+reasonable; complete accuracy in stellar types is not required.  If the
+referee or players know enough to be aware of the problem, they can fix
+it by tweaking the results.  This seems to be a philosophy behind many
+parts of the Traveller/MegaTraveller world generation system.
+
+> I have it on decent authority
+> that the *majority* of star systems out there have one or more
+> companion stars to their primary.
+
+As I understand it, about half of the star systems out there are
+multiple (binary or more), which means that more than half of the stars
+are part of a multiple star system.  Most multiple star systems will
+contain stars that were "born" at approximately the same time from the
+same cloud of dust and gas.  As a matter of fact, stars should be born
+in groups and clusters this way, so that nearby stars are about the same
+age.
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+
+Date: Wed, 17 Feb 93 22:38:46 EST
+From: wildstar@moeng2.morgan.edu (Derek Wildstar)
+Subject: Life and Resource Scores
+
+First off, I'd like to thank Jeff Zeitlin for some interesting
+suggestions for Government and Law Level TL mods; these bear trying out.
+
+jimv@ucrengr.ucr.edu (james vassilakos) writes:
+> Two nights ago, Wildstar proposed adding a life stat to the UWP in order
+> to account for the extent of a planet's ecosystem (presumably to be
+> modified by colonization whether destructive or beneficial). However,
+> he suggested rolling under the stat on 2d6 to determine whether or not
+> native sentience has evolved. Mark Watson argued that this is probably
+> too liberal, and being conservative on this issue (my reasoning can be
+> read in yesterday's TML), I'm offering the following table for criticisms.
+
+Since all of the other UWP stats reflect the condition of the world as
+it is now, and changes are inferred; I'd assume that the changes due to
+colonization have already been applied (just like the effects of any
+terraforming have already been applied).  Given this, and given that
+upon reflection even I think that rolling 2d6 for Life or less is
+probably too liberal, try the following:
+
+Life Score
+0 = Sterile (although "organic" compounds may be present).
+1 = Pre-Life (sophisticated "organic" compounds, precursors to life).
+2+  Some Life Present (at least single-"cell" simple organisms).
+    As the Life score increases, the number and size of the ecosystems
+    increase, as does the number and complexity of the organisms which
+    can be found there.  Remember that this applies equally to 
+    native life-forms as well as "imported" forms (due to activity of
+    the Ancients, colonization, or simply by accident).  The minimums
+    for native development of a given complexity can be figured out from
+    the table below.
+
+Whether or not you apply DMs to the Life score based on the stellar zone
+the planet is in (inner, habitable, or outer) depends on your views on
+really outrageous biochemistries.  If you believe that sentient life can
+evolve in ecospheres in gas giants or on ultra-cold (or ultra-hot)
+worlds, the zone DMs should be no more than -2 or -4.  In this case, I'd
+suggest using a -3 for Inner and Outer Zone worlds, and a DM of 0 for
+worlds in the habitable zone.  This is probably compatible with the
+Classic Traveller vision of the universe (which is heavily indebted to
+Larry Niven and Edward E ("Doc") Smith) with intelligent gas-giant
+dwellers and all sorts of exotic life-forms, and sentient life-forms are
+all over the place, although many of them (from the Jgd to the Cymbiots
+aren't really "life as we know it").
+
+While the above pretty accurately describes the way I feel, I certainly
+understand if this isn't everybody's cup of tea.  For a lot less life in
+general, and a lot less intelligent life, try the following DMs:
+- -1 if not a Main Sequence (size V) star
+- -1 if not a Spectral Class F or G star
+- -6 if in Inner Zone
+- -4 if in Outer Zone
+This should cause the most Life to cluster around the habitable zone of
+class F and G Main Sequence stars (in other words, stars like the Sun or
+a little brighter).  Thus most life will be "life as we know it", and
+will be much less prevalent than in the first method.
+
+Now throw 2d6 and subtract the results from the Life Score:
+0-  No significant native organisms (all "boring" or imported).
+1 = "Interesting" native single-cell organisms.
+2 = "Interesting" native microscopic (multi-cell) organisms.
+3 = "Interesting" native plants (macroscopic).
+4 = "Interesting" native animals (non-sentient).
+5 = Complex native ecosystem (multiple "Interesting" organisms).
+6+  Native Sentient or near-Sentient life (always interesting).
+
+The second throw should probably be part of the "world building"
+procedure, and not part of the basic generation.  Once the throw is
+made, the referee will then have to decide (as part of the detailed
+world description) what the "interesting" things about the planet are.
+
+From the above procedure, you can see that it is possible to generate a
+world with a lush and complete biosphere, all of which is the result of
+a large colonisation effort.  This also makes the minimum Life score for
+a world to have native sophonts to be 8.  This system causes one or two
+worlds to have native sentient (or "near-sentient", an out for referees
+who don't want this many minor races around) per subsector.  Assuming
+the Life DMs balance out (and they may not, I didn't check) random 
+generation will have about 5.4% for all worlds (or a little less than one
+in 18) with native sentient or near-sentient life.
+
+> [table omitted in the interest of brevity]
+
+I really wouldn't want to lock down that exactly what each level on the
+scale means.  Comparing two ecosystems on Earth is rough enough;
+extending this to encompass, for example, silicon based
+methane-breathers will stretch it too far.  Not every world is going to
+have a carbon and water based metabolism that arose from the oceans.
+
+I really don't agree with this, particularly from C (Tool Use) on up;
+these distinctions should really be made as part of the details for the
+native sentient or semi-sentient race.  The exact stage of development
+should probably be determined by the referee during the "world building"
+stage of generating planetary details.  I should also point out that
+while the use of tools and fire is pretty much a clincher for sentient
+or semi-sentient creatures, by the time they are practicing agriculture
+the society is pretty much at TL-0.
+
+Using the tables above as a guide, the followings are minimums for
+native life forms:
+
+0 = Sterile
+1 = Pre-Life
+2 = Life (maybe even pre-cellular life)
+3 = Single-Celled organisms
+4 = Multi-cellular organisms
+5 = "Plant" life
+6 = Animal life
+7 = Complex ecosystems
+8 = MINIMUM for native sentient organisms.
+
+But please note that it is possible for a world to have a Life score of
+12, but not have any "interesting" native life.  One possibility is a
+world that has been colonized, and the colonist's imported plants and
+animals have out-competed the native ecosystem, which as become nearly
+extinct.  This is a definite possibility, particularly on worlds that
+have been civilized for thousands of years.  Another possibility is a
+world that is covered with oceans, which are literally filled with an
+amazing diversity of single-celled organisms.  Literally every square
+centimeter of the worlds' surface has something living on it.  Although
+such a world might have a relatively high Life rating, it may only rate
+as having "interesting" single-celled organisms.
+
+> For the more liberal-minded,
+> you may want to give C+ various higher degrees of technology than
+> what has been listed.
+
+I would think that it is better to have the Life score as independent of
+the natives' TL as possible.  The Life score can be used to determine
+whether or not there *are* natives, but their TL is more properly the
+province of the worlds' TL score.  If the world has both a native
+population and human colonists, the UWP TL score will indicate the
+population that interstellar travellers will interact with the most.
+When "building" such a world, the native race and its technology can be
+detailed.
+
+> Re: Resources Stat
+
+Here are some suggestions for the Resources score, too.  
+
+Roll 2d6 and subtract this total from the resources stat:
+0-  Nothing worth commercial exploitation (at this time).
+1-3 Better sources exist elsewhere; local commercial exploitation only
+4-7 Major Source; important subsector-wide producer
+8+  Principal Source; important sector-wide producer
+The referee will then have to decide what commodity (or commodities) the
+world's resources represent.  While this is relatively quick and dirty,
+there are some potential problems.  These problems are the same as the
+ones inherent in the scheme proposed by Jim: it is quite possible to
+roll up two worlds, both major producers or better, and both with the
+same resource, all in the same subsector.
+
+Either Jim's method, or the method above (I don't think it's very
+important either way; the two are nearly equivalent) are probably
+suitable for most referees.  On re-consideration, Jim's system is
+simpler, and therefore probably the better of the two.
+
+A better method would be to select a resource type (perhaps using Table
+10a, or from some other source), and roll 1d6.  This is the "amount" of
+this resource, but not more than the resource score of the world.
+Continue until the entire resource score is accounted for.  An example
+is in order:
+
+2d6 Roll 10 for the Resource score of the world.
+1st Resource: #61, Livestock.  Amount: 5
+2nd Resource: #42, Plants (wood).  Amount: 4
+3rd Resource: #63, Livestock.  Amount: 1 (a 3 was rolled).
+
+So, our hypothetical world produces Livestock at Level 6 (the two
+livestock resources add, at the referees' discretion), and Plants (wood)
+at Level 4.
+
+Comparing all of the scores and types within the subsector and within
+the sector will reveal the primary producers of each type. 
+
+> I admit, this is all very cut & dry, but it's easier to complicate
+> a simple system than to simplify a complex one.
+
+Agreed.  While I don't like your Life system, the resource system you
+present is very simple and has the desired effect.  One suggestion,
+though: prehaps we should come up with a resource type table which is
+more appropriate than good 'ol Table 10a/b.  A better variety of
+resources, and with the table organised so that we can use a DM based on
+Life, Size and/or other planetary stats would be good.
+
+One possibility would be to use a 1d6+1d6 table (like tables 10a) and
+apply DMs to the first die based on the Life Score (Life 0=-2, 1-3=-1,
+4-6=0, 7-9=+1, 10+=+2) and the second die based on the world size (Size
+Asteroid/VerySmall/Small=-1, Large=+1).  What do y'all think?
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+
+From: ee171way@sdcc15.UCSD.EDU (Jack Dietz)
+Subject:  Re: Star Types
+Date: Fri, 19 Feb 93 11:56:11 PST
+
+Recently I found a machine-readable copy of the data from the Royal
+Observatory Catalog of Stars within 25 Parsecs and have been
+massaging the data to allow for a Traveller:2300 like universe's
+trade routes to be generated automatically.  I have not had the time
+to firm up my findings, but I have the raw data to look at and
+comment on relative star densities and so forth.
+
+Please bear in mind that parallaxes (distances) are very imprecise
+beyond a range of 5-10 parsecs or so; 10% error in distance is
+considered 'good' in this catalog.
+
+The spectral type classifications started as observations of the
+spectra themselves.  They initially had no linking to anything that
+we care about, such as brightness, which is why they appear to be in
+no particular order.  The numbers assigned as subclassifications,
+rather than being a consistent scale wherein an O9 was close to a
+B0, were judgements of the relative strengths of specific spectral
+lines within that category.  The I-VI 'size' descriptions started
+out as a notation of the overall strength of the spectral lines --
+the deeper they are the higher the number.  The VI classification
+was used rather spottily, and one astronomer's V might be another's
+VI.  It is only by coincidence (and the leap of faith of Hertzprung
+and Russel) that these were linked to stellar size in a meaningful
+way.
+
+Of the last three (R, N, and S), they are specific subclasses of M
+red dwarfs, which are used spottily.  R and N were at one point
+subsumed into a class C (carbon stars) by some astronomers because
+of the strength of the carbon lines.  Current observations have used
+the more generic Me (M with strong emission lines) to describe all
+three of these classes.  It is my understanding that their surface
+temperature (color and brighness) are not affected.
+
+Within 25 parsecs there are 2,150 stars tabulated.  With regard to
+star type, there are 3 class B stars and no class O stars.
+
+Also, binary systems are not _that_ popular -- the 2,150 stars are
+grouped into about 1,700 star systems, with a few trinary and
+quaternary systems.
+
+I can add more later when I get home and look at the data and some
+astrophysics texts, if anyone's interested.
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+
+Date: Fri, 19 Feb 93 15:09:41 PST
+From: jimv@ucrengr.ucr.edu (james vassilakos)
+Subject: Miscellaneous World Generation Stuff
+
+Re: Rich Worlds
+
+wildstar@moeng2.morgan.edu (Derek Wildstar) writes:
+>No, a Rich world is one that is prosperous because it has reasonable
+>living conditions, is not over- or under- populated, and has a
+>government which is conducive to personal prosperity.  If a corporation
+>should take over a Rich world, it will cease being Rich, because the
+>corporate government would change the way the worlds' inhabitants live
+>and work.
+
+Hmm... I dunno. Rich, to me, means rich. Maybe there's a different
+adjective for these so-called freedom/middle-pop/relatively nice-
+atmosphere type worlds. To strengthen my previous claim, consider
+this. Rich worlds under the current system are designated so by
+virture of atmosphere, population, and government, while poor
+worlds, their supposed antithesis, are designated so by only
+atmosphere and hydrosphere (both physical characteristics) and
+without any regard to population or government. So the way I see
+it (and this is an extreme viewpoint) is that we should use the
+"resource" stat you proposed for these "rich" and "poor"
+classifications and totally do away with the other criteria.
+(Now donning flame-proof battledress :-)
+
+Re: The "Life" Stat
+
+>Whether or not you apply DMs to the Life score based on the stellar zone
+>the planet is in (inner, habitable, or outer) depends on your views on
+>really outrageous biochemistries.
+
+Yeah. You know my feelings on this: that a human-dominated setting
+conflicts with the teaming-universe hypothesis (i.e. if you have one,
+you can't realistically have the other). If you have any rebuttals
+to this argument, however, feel free to share them. It's something
+I wouldn't mind finding a way around.
+
+> -1 if not a Main Sequence (size V) star
+> -1 if not a Spectral Class F or G star
+
+I dunno. I think we should just stick with inner & outer zone
+modifiers, and I'd be inclined to make those modifiers steep,
+even prohibative. The stellar modifiers for those annoying
+M-V's & M-VI's can be taken care of by the fact that there is
+no habitable zone in such systems (due to the previously
+mentioned tidal stress and consequential Roche limit).
+
+>Now throw 2d6 and subtract the results from the Life Score:
+>0-  No significant native organisms (all "boring" or imported).
+>1 = "Interesting" native single-cell organisms.
+>2 = "Interesting" native microscopic (multi-cell) organisms.
+>3 = "Interesting" native plants (macroscopic).
+>4 = "Interesting" native animals (non-sentient).
+>5 = Complex native ecosystem (multiple "Interesting" organisms).
+>6+  Native Sentient or near-Sentient life (always interesting).
+
+So you want this table to be used in "world building", not in
+mainworld (UWP) generation. I still think we should have something
+for the UWP stat which is detailed. I admit, mine is probably
+overly terran-centric, but at least it has some guts to it
+(i.e. you can look at the stat and tell what's there in a
+fair amount of detail... for example, there's nothing more
+evolved than microscopic plant-life). We need something like
+this right in the UWP. If you don't like what's in the table
+I proposed, then propose another. Better that than to leave it
+completely amorphous.
+
+>I really wouldn't want to lock down that exactly what each level on the
+>scale means.  Comparing two ecosystems on Earth is rough enough;
+>extending this to encompass, for example, silicon based
+>methane-breathers will stretch it too far.  Not every world is going to
+>have a carbon and water based metabolism that arose from the oceans.
+
+True, but I still think that the life-stat itself should tell the
+GM something about the world. To say, "Oh, I'm not sure what that
+means, I didn't go through world-building for this planet" is
+kinda silly.
+
+I agree that I'm locking the table into a terran-centric view of
+evolution (which is stupid). But since I'm not a science major, I'm
+not really fluent enough in alternate-evolutions to come up with
+anything more generalized. If somebody has some ideas for generalizing
+the table I proposed while still leaving the GM with a good feel for
+what's there based on the stat, please step forward.
+
+>0 = Sterile
+>1 = Pre-Life
+>2 = Life (maybe even pre-cellular life)
+>3 = Single-Celled organisms
+>4 = Multi-cellular organisms
+>5 = "Plant" life
+>6 = Animal life
+>7 = Complex ecosystems
+>8 = MINIMUM for native sentient organisms.
+
+Okay. This is a good start (assuming we overlook the notion that
+"kingdoms" other than protista, plant, and animal could evolve).
+What I guess I'm looking for is further generalization with more
+detail (for values above 8). I admit, it's a tall order.
+
+>I would think that it is better to have the Life score as independent of
+>the natives' TL as possible.  The Life score can be used to determine
+>whether or not there *are* natives, but their TL is more properly the
+>province of the worlds' TL score.
+
+I totally agree with you on this. The thing is, while the table was
+named a "life" table, it was really a "life/sentience" table. That is,
+we tied the evolutionary development of sentience to the evolutionary
+development of life. They went hand in hand. If you want to nuke this
+hypothesis, just say so, but if not, there there has to be a linkage
+either on the table for the UWP score we're inventing or in the
+world-building process (I'd prefer the latter, and from what I've
+read, you'd probably agree).
+
+>If the world has both a native
+>population and human colonists, the UWP TL score will indicate the
+>population that interstellar travellers will interact with the most.
+>When "building" such a world, the native race and its technology can be
+>detailed.
+
+Sounds good, but we still need a good table for establishing how much
+the natives have evolved. That should be the life stat in the UWP.
+Then we can bring up sentience in the world-building stage and let
+each gamer go his or her separate way depending on how much non-human
+sentience we want to deal with in our various campaigns.
+
+Re: The "Resource" Stat
+
+Wildstar proposes two methods for rolling & interpreting this
+stat. In his conclusion, he seems to prefer his second proposal.
+
+>2d6 Roll 10 for the Resource score of the world.
+>1st Resource: #61, Livestock.  Amount: 5
+>2nd Resource: #42, Plants (wood).  Amount: 4
+>3rd Resource: #63, Livestock.  Amount: 1 (a 3 was rolled).
+
+We still have to be careful with our resource types. That is, if
+the planet turns out to have no native life, or very little, and
+further seems incapable of supporting any (i.e. vacuum, non-habitable
+zone, etc) then having trees and livestock is probably going
+to look funky.
+
+>Comparing all of the scores and types within the subsector and within
+>the sector will reveal the primary producers of each type. 
+
+Yeah, all in all, I like it. I actually like it quite a bit
+better than the system I proposed for this same thing last night.
+We just need to be a little bit careful with the resource types.
+
+>prehaps we should come up with a resource type table which is
+>more appropriate than good 'ol Table 10a/b.  A better variety of
+>resources, and with the table organised so that we can use a DM based on
+>Life, Size and/or other planetary stats would be good.
+
+I'll try to get something worked up for tomorrow night's TML.
+You can do the same, and then we can duke it out :-)
+
+>One possibility would be to use a 1d6+1d6 table (like tables 10a) and
+>apply DMs to the first die based on the Life Score (Life 0=-2, 1-3=-1,
+>4-6=0, 7-9=+1, 10+=+2) and the second die based on the world size (Size
+>Asteroid/VerySmall/Small=-1, Large=+1).  What do y'all think?
+
+Let's not forget atmosphere. Hmm... this is starting to entail lots
+of variables.
+
+Re: Sector Viewing
+
+Well, as you know, once we flesh out these two stats we're
+talking about, we'll need a sector viewer that can read 'em.
+What I have here is a new sector viewer (for the IBM-PC)
+which is compatible with the sunbane (standard) data. I'll
+modify the program as we come to a consensus (if we come to
+a consensus) to incorporate the "life" and "resource" stats.
+
+Here's the specifics:
+
+        PROGRAM NAME: "galactic" [v1.0] {February 1993}
+        GAME SYSTEM: Traveller/MegaTraveller
+        AUTHOR: Jim Vassilakos  (jimv@ucrengr.ucr.edu)
+        FUNCTION: Sector Viewer
+        OPERATING SYSTEM: IBM (MS-DOS)
+        PRICE: Public Domain
+        COMMENTS: CGA or better required. Allows the user to
+              skip from world to world, reading planetary
+              descriptions and notes about each world in any
+              given star sector. Is compatible with the sunbane
+              sector data. Zip file includes Spinward Marches
+              data as well as notes on the Yres system. QB45
+              source included with the compiled executable.
+              Contact the author for a uuencoded version via
+              email.
+        FILE(s): galactic.zip
+        SOURCE(s): Available via Anonymous FTP:
+          ftp.cs.pdx.edu (131.252.20.145) in pub/frp/src
+
+Note that it does take a little work getting a sunbane sector ready
+to view, but the spinward marches are all there ready to go. All the
+user has to do is provide the long-winded world descriptions from
+her or his campaign. Let me know what you think.
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+
+Date: 26 Feb 1993 11:05:40 -0500 (EST)
+From: VANYA@utkvx.utk.edu
+Subject: Stellar Classes and Distribution
+
+Greetings to denizens of this fine TML:
+
+        I have been monitoring the discussion on TML these last few weeks about
+the distribution of stellar classes.  With some free time after my last PDE
+class, I decided to do a quick survey of the space around Sol.  Please note
+that these figures are very round and do not necessarily reflect the universe
+as a whole.
+
+        There are apx 100 stars within 6.5pc of Sol, with almost half of these
+stars members of binary of multiple star systems.
+
+        Counting the occurence of each spectral class gave these numbers:
+
+        Class           #
+        O               0
+        B               0
+        A               2
+        F               1
+        G               8 (including Sol)
+        K               14
+        M               66
+        Dwarf           8
+        TOTAL           99
+
+        The class Dwarf lumps anything not in the other classes together.
+
+        The ratio of O-B-A stars to the rest of the classes is about
+1:38.  Bright, large stars are rare.
+
+        Already we can see how the small, dim M class stars dominate the
+population.  If any of these stars have planetary systems, the chance of them
+being inhabitable are slim.  Also, being small, the most these stars will
+probably have are planetoid belts.  Larger planets (size 3+) are probable going
+to be rare.  After all, if there was a lot of material around when the star
+formed, the star would probably have been bigger.
+
+        From this, it seems that the probability tables in SpaceMaster are
+fairly accurate (at least for gaming purposes).  I havent checked the tables in
+WBH yet (my copy is at home), but over the weekend, I will strive to extend
+this population survey to more stars and post results next week.
+
+        There has also been discussion of the different types of spectral
+classes and their relationship to each other.
+          In addition to the O-B-A-F-G-K-M classes, there are other types of
+stars, including the misunderstood R-N-S classes.  These classes include:
+
+        Wolf-Raynet Stars:  O-type stars with emmission spectra possibly caused
+by the ejection of material from the star at high velocity.  Planets around
+this O-type star would possibly be severly cooked.
+
+        Peculiar A Stars:  The name says it all.  These are A-type stars with
+strong absorption lines of certian ionized metals.
+
+        R Stars: R-type stars are similar to K-type stars, except for molecular
+bands of C2 and CN are present.
+
+        N Stars: N-type stars are similar to M stars, except for bands of
+C2, CN, CH.  R and N stars are also called carbon stars.
+
+        S Stars: S-type stars are like M stars, except for bands of zirconium
+oxide and lanthanum oxide present with, or addition to, titanium oxide.
+
+        These lesser type stars are extremely rare (estimates of <1000
+Wolf-Raynet stars in our Galaxy).
+
+        As for the distribution of stars through space, Near-Sol surveys give a
+population of aboput 59 stars within 5pc of Sol.  Extending this out (and the
+extension seems to work pretty well) gives an average of one star for every 9
+cubic parsecs.
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+
+Unfortunately (or perhaps fortunately) things sort of died out around here,
+which is usual for most electronic discussions (people make great plans for
+a few days, get bored, and then move on). Ironically, my threat-in-jest
+about ditching Traveller and playing Star Trek turned into a reality in
+May of '93 when Tony Hayes handed me the Star Trek PBeM he was running and
+basically said, "Take this over or it dies." So, for the past couple years,
+Traveller has been sitting on the shelf, gathering dust. However, just
+recently a friend asked me to start up a Traveller game, so I figured it
+was time to finally update Galactic and see if, perchance, the revised
+program (along with the discussion herein) could be useful to anyone.
+
+
+           _   /|       Jim Vassilakos
+           \`o_O'       jimv@empirenet.com
+             ( )        jimv@silver.lcs.mit.edu
+              U         San Bernardino, California
+

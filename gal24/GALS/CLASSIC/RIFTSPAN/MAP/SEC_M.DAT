@@ -1,0 +1,10 @@
+@SUB-SECTOR: sec_M   SECTOR: riftspan
+#
+# Trade routes within the subsector
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Aouakh        0133 E0003G9-7    Lo Ni As           200 As
+Uaka          0236 E6736N5-8    Ni                 905 As
+Aletoli       0339 B9843J7-8  T C2 Lo Ni           100 As

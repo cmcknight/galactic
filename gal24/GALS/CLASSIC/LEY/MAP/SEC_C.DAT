@@ -1,0 +1,18 @@
+@SUB-SECTOR: sec_c   SECTOR: ley
+#
+#Jump Routes
+
+#
+#--------1---------2---------3---------4---------5----------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- --
+Baldwin       1703 X130000-0    Ba                 000 Na
+Atulella      1707 XAA9000-0    Ba                 001 Na
+Zardkent      1804 E235230-9    Ni                 500 Na
+Menanon       1909 E200200-A    Ni Na              901 Cs
+Nevguard      2004 CA99599-A  S Ni                 500 Cs
+Roshena       2101 X000000-0    As Ba              000 Na
+Howarth       2203 C568846-B                       100 Na
+Janvel        2209 X9CA000-0    Ba                 000 Na
+Arkwright     2302 X231000-0    Ba                 000 Na
+Agergrania    2307 X521000-0    Ba                 000 Na

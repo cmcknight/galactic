@@ -1,0 +1,47 @@
+@SUB-SECTOR: Saregon SECTOR: Core
+#
+# Trade routes within the subsector                       
+$3140 2906 0 1
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+.             2532 B110320-C  A Lo Ni              803 Li
+.             2534 B648797-7  N Ag                 402 Li
+.             2536 C511637-9  S Na Ni Ic           624 Li
+.             2538 B768410-C    Ni                 702 Li
+.             2540 C553314-8    Lo Ni Po           420 Li 
+.             2631 B245525-9  A Ag Ni              513 Li 
+.             2635 E889662-6    Ni Ri              704 Li 
+.             2636 B998213-A  S Lo Ni              314 Li 
+.             2639 B100403-D  S Ni Va              203 Li 
+Dishadshii    2640 B614ACG-G  N Hi In Ic           204 Li 
+.             2731 B6315AF-A  N Ni Po              404 Li 
+.             2732 B9E7425-E    Ni Fl              802 Li 
+.             2736 B324757-B                       113 Li 
+Sinad         2832 B4589AD-D  N Hi                 402 Li 
+.             2836 B478861-D  S                    504 Li 
+Igla          2837 B414ADG-F    Hi In Ic           804 Li 
+.             2839 C783354-9    Lo Ni              703 Li
+.             2840 B8C0885-B    De                 814 Li 
+.             2931 E332679-5    Na Ni Po           122 Li 
+Ganad         2933 A6569BA-F  N Hi                 504 Li 
+.             2934 A778232-D    Lo Ni              315 Li 
+.             2935 C472255-A    Lo Ni              913 Li 
+Saregon       2936 A584976-E    Hi                 114 Li 
+.             2937 B434779-A  A                    703 Li 
+Shakiiga      2938 B867ACA-B    Hi                 710 Li 
+.             3033 A424588-G  N Ni                 103 Li 
+.             3034 A554755-D  W Ag                 903 Li 
+.             3037 E665655-6    Ag Ni Ri           922 Li 
+.             3039 B8B4442-D  S Ni Fl              601 Li 
+Unlakhar      3040 B629997-G  N Hi In              603 Li 
+.             3131 A7C3874-C    Fl                 513 Li 
+.             3132 B4625AC-A  N Ni                 110 Li 
+.             3133 C36267B-8    Ni Ri              302 Li
+.             3135 B58A763-A  N Ri Wa              400 Li 
+.             3137 B493666-8  N Ni                 603 Li 
+.             3140 A562898-B  S Ri                 210 Li 
+.             3234 B433764-E    Na Po              520 Li 
+.             3235 B75A431-9    Ni Wa              613 Li 
+.             3238 E560672-6    Ni Ri De           503 Li 

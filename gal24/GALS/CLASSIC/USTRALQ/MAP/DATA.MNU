@@ -1,0 +1,28 @@
+@dir=gals\classic\ustralq\map
+@Light Yellow
+
+Ustral Quadrant / Data Files
+
+@Light Cyan
+      Sector Data                    @..\ustralq.dat
+      Credits                        @..\credits.txt
+
+@Light Green
+      Subsector Data
+@Light Cyan
+       A: Alrirleih                  @suba.dat
+       B: Heasairlui                 @subb.dat
+       C: Yewoiauehoah               @subc.dat
+       D: Thalia                     @subd.dat
+       E: Stiy                       @sube.dat
+       F: Hlol                       @subf.dat
+       G: Aeahaihluil                @subg.dat
+       H: Iselle                     @subh.dat
+       I: Ftea                       @subi.dat
+       J: Ouateahaaorl               @subj.dat
+       K: Kemit                      @subk.dat
+       L: Adere                      @subl.dat
+       M: Ihtaois                    @subm.dat
+       N: Khteaiwiyftei              @subn.dat
+       O: Oolyasiyl                  @subo.dat
+       P: Ehfya                      @subp.dat

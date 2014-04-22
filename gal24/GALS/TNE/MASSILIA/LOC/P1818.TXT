@@ -1,0 +1,11 @@
+P'ley D110469-A  
+
+Starport: Poor           Size: Small (800-2400 km)
+Atmosphere: Trace        Hydrographics: No liquid water
+Population: 20,000       Govt: Captive Government
+Law Level: High          Technology: Early Stellar
+                
+	This world, satellite of a gas giant, holds a colony of Forquee,
+established in 1190.
+
+by Carlos Alos-Ferrer (Alos@merlin.fae.ua.es)

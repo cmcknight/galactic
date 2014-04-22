@@ -1,0 +1,48 @@
+@SUB-SECTOR: sec_K   SECTOR: oldexpan
+#
+# Trade routes within the subsector
+$2329 2628 1 0
+$2125 2523 1 0
+$2021 2218 0 -1
+$1721 1822 0 0
+$1822 2125 0 0
+$2125 2228 0 0
+$2228 2229 0 0
+$2228 2329 0 0
+$2228 2030 0 0
+$2030 2031 0 1
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Rotal         1721 B546849-C  S                 A  302 Im
+Bote          1727 A778761-C    Ag                 200 Im
+Ames          1821 B50087B-B    Na Va              810 Im
+Ropram        1822 B467ABB-B    Hi                 924 Im
+Mager         1825 C866710-A  S Ag                 915 Im
+Antalan       1826 C435440-A    Ni                 813 Im
+Rolf          1827 C594769-B    Ag                 903 Im
+Letron        1829 C27287C-8                    A  501 Im
+Cupprio       1922 A665200-B    Lo Ni              514 Im
+Moppo         1925 B83677A-C                       614 Im
+Phildelia     1928 B100732-E    Na Va              314 Im
+Villan        2021 A2319CF-F    Hi Na Po           813 Im
+Bytor         2022 B543634-B    Ni Po              401 Im
+Femerial      2030 A665787-E    Ag Ri              410 Im
+Sxip          2123 B796732-D    Ag                 510 Im
+Barsk         2124 B100896-E    Na Va              811 Im
+Mexit         2125 B455AA6-F  W Hi                 813 Im
+Lapper        2126 X455773-1    Ag              R  103 Im
+Elanor        2127 B333715-D    Na Po              504 Im
+Darpi         2130 B453620-C  N Ni Po              802 Im
+Gonzu         2221 X9DA646-1    Fl Ni Wa        R  400 Im
+Harple        2225 B100756-E  S Na Va              212 Im
+Traynos       2227 C562662-8    Ni Ri              620 Im
+Welzer        2228 B579864-E  W                    220 Im
+Karse         2229 B241876-F  S Po                 604 Im
+Kolop         2325 C662622-9  S Ni                 504 Im
+Samosk        2329 A200976-F    Hi In Na Va        312 Im
+Goldbach      2422 C445310-A    Lo Ni              302 Im
+Kolipio       2424 X226612-4    Ni              R  305 Im
+Allenz        2425 B656135-A    Lo Ni              503 Im
+Quest         2428 C766665-C    Ag Ni Ri           722 Im

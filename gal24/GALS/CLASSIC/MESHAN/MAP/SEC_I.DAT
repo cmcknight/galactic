@@ -1,0 +1,35 @@
+@SUB-SECTOR: sec_I   SECTOR: meshan
+#
+# Trade routes within the subsector
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Zolag         0123 C000A87-E  C As Hi Na           420 V7
+Ourskhaeth    0124 C686100-8  C Lo Ni              900 V7
+Agolrok       0128 C1409B9-A  G De Hi In Po        902 V7
+Ung Aesa      0129 B6A5351-8  C Fl Lo Ni           722 V7
+Dzelsoull     0223 C88A79B-9    Ri Wa              120 V7
+Galigun       0225 E323977-5  C Hi In Na Po        124 V7
+Aegartuer     0226 C666455-5    Ni                 323 V7
+Cadutah       0229 C8A7620-6  C Fl Ni              902 V7
+Ovoe          0321 C300000-A    Ba Lo Ni Va        002 Vo
+Uetsae        0324 A987461-C    Ni                 401 V7
+Al Ezen       0421 D78A687-5    Ni Ri Wa           504 Vo
+Kherskfon     0422 C633231-6    Lo Ni Po           324 Vo
+Oukso         0424 B752001-9    Lo Ni Po           624 V7
+Death's Sin   0425 E423000-6    Ba Lo Ni Po        004 V7
+Akhan         0524 E888201-7  C Lo Ni              511 V7
+Limada        0622 E338ADJ-8  C Hi In              202 Vo
+Kougkaez      0625 C6877B8-7    Ag                 522 Vo
+Vaekh Oen     0626 D331499-7    Ni Po              603 Vo
+Dzugen        0627 D563205-5    Lo Ni              713 Vo
+Ounuekhue     0628 C978461-8    Ni                 202 Vo
+Varraeg       0630 D552655-5    Ni Po              603 Vo
+Arfeg         0723 B456588-B  G Ag Ni              801 Vo
+Kanukor       0725 A699653-B  G Ni Cp              323 Vo
+Knougza       0729 C459420-7    Ni                 100 Vo
+Ueruekh       0826 EAB7345-6    Fl Lo Ni           601 Vo
+Dhaekneng     0827 C8D8755-8  G Fl                 311 Vo
+Dzare         0829 C520574-5  G De Ni Po           305 Vo
+Ooelzarz      0830 C59A774-8    Wa                 100 Vo

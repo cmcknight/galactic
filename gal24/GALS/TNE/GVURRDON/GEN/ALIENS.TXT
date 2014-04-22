@@ -1,0 +1,270 @@
+
+                          ALIENS OF GVURRDON SECTOR
+                                       
+                                By Roger Myhre
+
+     _________________________________________________________________
+   
+   As most other places in charted space, the universe is teeming with
+   life. Gvurrdon is no exception. I have thus decided to make a short
+   run down on the minor races that are present in Gvurrdon. Bear one
+   thing in mind, none of this are official to date, and I do not know if
+   there is any official minor race present in Gvurrdon. So if any of you
+   out there got any modules explaining minor races in Gvurrdon I would
+   like to hear from you.
+   
+   The number of minor races in Gvurrdon isn't large. Neither are they
+   well known when most of their worlds are dominated by Vargr presence,
+   or rulership. These are the worlds with a minor race present, native
+   to the world.
+
+   World                Hex  UWP         Codes           PBG   Race
+   ----------------------------------------------------------------------
+   Fufoekkfal           0112 E638688-7   Ni Si           912   Katl*'latl
+   Angudh               0401 E7A77BA-B C Fl Si           721   Bwampbs
+   Inghinfudzolorz      1037 B6A5786-8   Fl Si           343   Jaylay-yay
+   Raezarourkollarrakhs 1126 C466634-B   Ni Si           621   Xienner
+   Tirrokoelaegz        1821 B463645-A   Ni Ri Sv        312   Tirril
+   Aellaesgvarzath      2128 A231365-G   Lo Ni Po O:2129 210
+   Gaekloungoerzaghun   2129 A697A78-G   Hi In Si        834   Ungrest
+   Fae Kodh             2536 D445313-7   Lo Ni Sv        301   Bzruellokh
+   Ozago                3107 C331731-7   Na Po Si        501   Opliaraz
+
+   Note that these stats are updated to TNE (1200 Imperial). Do also note
+   that system 2128 has no native aliens, but that race from 2129 has
+   colonized 2128. The codes: Si stands for Native Sophont race in
+   control of Government. Sv stands for Native Sophont race, but Vargr in
+   control of Government.
+   
+     _________________________________________________________________
+   
+   
+Katl*'latl
+
+   The Katl*'latl is a amphibian race that are able to live on land as in
+   water. The combined gill and lunge system sees to this. However they
+   may not stay on land too long or they freeze up, as their planet got
+   temperatures in the far sub zeros. They are about 1.5 meters high. A
+   bit stocky, but quite agile. On the head and back they got a sand
+   colored fur that are impregnated time to time to prevent it from
+   getting wet. Elsewhere they got black or dark grey leathery skin.
+   Their hands have 6 digits each and 2 thumps on each hand. The digits
+   got 5 joints, and are webbed out to the fourth joint. Their legs is
+   configurated as human legs, but they got 3 toes which are fairly long.
+   The toes are webbed. They got flat noses and two eyes that are spaced
+   far from each other, giving an effectively 210 degree field of vision.
+   Their vision is not as good as human. Their hearing is another matter.
+   They are capable of hearing sounds that are in the deep sub-sonic.
+   Underwater the Katl*'latl navigate with smells and sonar. They emit
+   high frequency pitches that reflects back to them, just like Dolphins.
+   Underwater this may also be used as weapon against small targets as
+   fish. Communication underwater is made by sub-sonic sounds that carry
+   well in water. On the surface, they use the same language, but the
+   pitch is changed so that it goes better with the thin air.
+   
+   Katl*'latl may move around in different environment, but they got some
+   physical limits. Gravities higher than 1.3 may be harmful for them. So
+   is temperatures above 240C. Water temperatures at this level are
+   avoided at all cost. In air this is somewhat easier to avoid by
+   donning suits when travelling off world. If the Air temperature is
+   between -1 and -40 degrees Celsius they produce anti-coolant liquid
+   that is pumped into the bloodstream. They can operate outside in lower
+   temperatures, but only a few minutes.
+   
+Bwampbs
+
+   This race is bizarre, not only that, but the world is utterly hostile
+   to most other races. Evolved on a world with temperatures in the far
+   sub zero range, has trapped this race on this planet. That has not
+   however stooped them from making their own space program.
+   
+   They breath a mix of Hydrogen and Chlorine. Something that would
+   normally classify them as an active race, burning energy at high rate.
+   However this is not so with this race. They are large weights about
+   400 kilos each, the female is a bit larger. They are carnivorous, with
+   a different method of getting food, than other carnivore races. It
+   uses Psionics to trap its prey, which are eaten alive. This easy
+   hunting method forced them to adapt when their prey got scarce. Thus
+   they began with domesticating of food animals. This lead to their
+   introduction to sentience. Contact with Vargr later on, improved their
+   technology.
+   
+   Their skin is leathery and yellow, with a iridescent green tinge. they
+   got 2 eyes looking straight forward, but their eyesight is rather
+   poor. They are good at detecting movements, but for detail study they
+   are not good enough. They got six limps, the forward pair has evolved
+   into arms, which are a bit stocky, making their appearance clumsy.
+   Their head is small, apparently too small for such a large body.
+   However their brain is not situated in the head, but in the chest
+   cavity. The lack of brain in the head makes it rather flat and narrow,
+   with two radar dishes standing out from the sides, which actually are
+   their ears. Usually they don't wear clothes, but for ease of
+   identification for off worlders, they wear a colored bandolier over
+   their shoulder.
+   
+Jaylay-yay
+
+   An amphibian race, that uses most of its time on the surface. Prior to
+   contact with Vargr, they had developed only rudimentary technology. A
+   few places had reached early iron age.
+   
+   This race has one rare ability that has not been observed in a such
+   advanced race. And that is the ability to give electric shocks. But
+   this does not mean that the Jaylay-yay is immune electric shocks
+   themselves. If the target is insulated, it will backfire. In water the
+   target just has to be close to the Jaylay-yay to work. However the
+   effect is then 360 degrees out from the Jaylay-yay.
+   
+   The Jaylay-yay is omnivorous. They are lightly built, massing an
+   average of 75Kg. They got 4 fingers on each of their two hands. The
+   hands are webbed, but not all the way out. Their toes are not webbed
+   at all. Their head holds four eyes configurated such that the upper
+   pair is the only part that is above the surface when they swim in
+   water. However studies show that the upper pair has been weakening
+   over the generations, due to disuse. Their skin is scaled like a fish,
+   but near the joints it goes over to more leathery substance. Their
+   color varies from all the colors in the rainbow, something that makes
+   it easy to tell the individuals apart.
+   
+Xienner
+
+   This race comes from a world which are fairly warm, and got quite high
+   air humidity. Much of the planet is covered by large forests and
+   jungles. The Xienner descends from a stock of omnivorous primates,
+   just like Humans. Although for this similarity, there is no way there
+   can be confusion between Humans and Xienners.
+   
+   Xienners got slim graceful bodies. Their average height is about
+   180cm. They got a 150cm tail. They are bipedal with digitigrade legs.
+   Their forelimbs are long and slender, with 5 fingered hands. Their
+   body is covered with fur which are white or golden, with shades in
+   between. Their face looks somewhat like a baboon, but covered with
+   short and stiff hairs. The nose got long whiskers. The tails is good
+   enough to pick up items like bags and key rings and the like. However
+   it is not capable to carry much weight.
+   
+   One thing that is unique to this race is their shape change ability.
+   They are not shape changer in the meaning that they can alter their
+   features from original shape to sludge or a human. But they can change
+   their shape so that the body, limbs and the like get configurated
+   better to do the work at hand. This ability is controlled by an enzyme
+   that is let out into the bloodstream. The ability to generate more of
+   this enzyme diminish with age, so old Xienners can't shape change at
+   all.
+   
+   This shape change would have made them perfect soldiers, but they are
+   friendly and peaceful. Their culture is closely related to the nature,
+   even for their high technology. Killing can only be done in necessity.
+   This has made them the perfect diplomats, which are sought after in
+   Gvurrdon and surrounding areas. Another feature is the total lack if
+   Psionics. They can't utilize psionics at all, and try to mindread them
+   is futile.
+   
+Tirril
+
+   An avian alien race. The Tirrils lives at TL 0. Which would classify
+   them as barely sentient. The Vargr which first took contact with them,
+   hunted them for their fine feather hide. But when it became evident
+   that the birds were sentient, all hunting ceased. The Tirrils are
+   protected from hunting. Any killing of a Tirril for their hide is
+   penalized with death.
+   
+   The Tirrils are about 150 centimetre high, and got bright colors from
+   blood red to deep navy blue. The chest and abdomen are generally white
+   or silver grey. They got a 15 centimetre long beak like a gull and
+   powerful claws they use to dig in the earth for Lummi roots or
+   insects.
+   
+   What's curious about the Tirrils are that they have excellent
+   mathematical knowledge. Some are so good that they can calculate the
+   jump coordinates and data for a distances up to one parsec without the
+   aid of a computer. Some Vargr merchants use Tirrils onboard their
+   vessels for entertainment and for their excellent mathematical skill.
+   
+   Tirrils are popular in various parts of Gvurrdon for their beautiful
+   sing song skills, and are often employed at taverns and inns for
+   entertainment.
+   
+   When the Tirrils are lacking manipulators they usually do not wear
+   clothes or use tools. However a few Vargr corporations have built
+   waldos that the Tirrils may use. However few do make use of the waldos
+   when they constrain them from flying.
+   
+Ungrest
+
+   This race descend from a desert dwelling carnivore. It got a thick
+   hide, almost chitin like in substance. They are somewhat hunched. When
+   rolled up they are totally hidden behind their shell like back, which
+   gives them very good protection. Their appearance is almost insect
+   like, which can scare the hell out of unwary travellers. They are
+   quite small and stocky, but not clumsy, even when they may seem like
+   it. Even before the Vargr contacted this race, they had acquired tech
+   enough to start a space programme. The first contact with Vargr, and
+   Humans accelerated this process.
+   
+   They claim to have developed jumpdrive on their own, but this has not
+   been confirmed. However they are not able to use the jump technology
+   to its fullest. So in this field they are still on tech 9. The reason
+   for this is that the Ungrest can't survive the jump for some strange
+   reason. But the Ungrest do use so called unmanned jump launches, which
+   actually are crafts ranging from 100 to 300 ton. These are used to
+   move supplies fast through the system, and to the neighbouring system
+   that they have started to colonize. The Ungrest move through
+   interstellar space with SLD ships, powered by a ram scope.
+   
+   The Ungrest is quite aggressive, but not outright hostile. Various
+   merchants do trade with them, but any technology is unavailable, when
+   it is much specified for the race. And the Ungrest is unwilling to
+   sell out technology to inferior traders. This might stem from a
+   paranoia that they are afraid of that the tech might be turned against
+   them. However there is possible to buy lot of other non-technical
+   stuff like foodstuffs, and art.
+   
+Bzruellokh
+
+   This race stems from an world which are quite chilly, which explains
+   their heavy built due to insulating fat. Descendants from
+   omnivore/gatherers which evolved on the great steppes of this planet.
+   They are massing about 95kg, the females a bit less. Their legs are
+   short with broad feet, that prevents them from sinking too deep into
+   the snow. Their early forefathers had quite a lot of body hair, which
+   disappeared when the Bzruellokh started using clothing to protect them
+   further from the chill. Their arms are long, reaching down to the
+   knees when they stand upright, and powerful. Their skin resembles that
+   of a human, but is rougher and thicker. The skin color ranges from
+   white to yellowish. Their arms and head is covered with thick white
+   hair. The face holds two small eyes which are set deep into the skull.
+   The ears resembles that of a rabbit, but is a bit broader.
+   
+   From what is usual among other races, Bzruellokh does have a peculiar
+   rhythm. Their pre-sentient ancestors hibernated during the winter,
+   gathering food in the summer. Thus they almost never sleep half of
+   their local year. In a modern society this is quite difficult, but
+   this hibernating are still being done. But the cycles are more
+   controlled, so that their society still works, even in the winter.
+   Their starships got special hibernation modules, for crew or owners
+   that are due for they hibernation cycle. The fact is that the
+   Bzruellokh gets sick if it can't hibernate over certain period. Drugs
+   can prolong the wake time between hibernation, but are used sparingly.
+   
+Opliaraz
+   
+   Descendants from omnivore scavengers that was cave dwellers. The
+   latter has given them sight that spans from visible light to the
+   infrared spectrum. They got large black eyes. Matter of fact the
+   pupils are the only part of the eye visible. Their size is small
+   compared to humans, with an average height of 145cm. They got bat like
+   ears that can be moved towards a sound. This coupled with their wide
+   field of vision, that is 220 degrees gives them a superior
+   surveillance capability compared to most other sentient races.
+   
+   Their society is built around the family, which forms a clan. When the
+   Vargr contacted these the first time, they were hunted for their fur.
+   Even when they had advanced into the iron age. This hunting was
+   stopped some hundred years ago, by a group of resourceful explorers.
+   However the Opliaraz is still xenophobic about outsiders. Those who
+   wants to do business in this system should do it through the Aelluengh
+   Mercantile Company, which is the only company the Opliaraz will trade
+   with. The reason for this is that the Aelluengh is owned by the
+   ancestors of those who helped the Opliaraz from extinction.
+

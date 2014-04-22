@@ -1,0 +1,7 @@
+System: Station Four
+
+This system is a research facility.
+
+A Research Facility is a facility dedicated to one or more research projects
+of particular interest to one or more political factions or private
+corporations.  (from BEYOND, Paranoia Press, 1981, p. 3).

@@ -1,0 +1,43 @@
+@SUB-SECTOR: Dingtra SECTOR: Core
+#
+# Trade routes within the subsector
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Shipashuua    2521 E260000-0    De Ba              001 Ba
+Gimuur Luu    2524 E576000-0    Ba                 003 Ba
+Kisa          2526 E7C6000-0    Fl Ba              002 Ba
+Daa           2529 E56469C-3    Ag Ni Ri           614 Im
+Gurdaan       2623 B310635-B    Na Ni              514 Im
+Idas          2624 A492310-C  N Lo                 201 Im
+Imsha         2625 B224120-A    Lo                 204 Im
+Gashkanan     2628 B74A255-8    Wa Lo              614 Im
+Shesh         2630 C000100-A  S Lo As              704 Im
+Khuuda        2721 B551256-6    Po Lo              734 Im
+Gaar          2729 C360212-A    Lo De              120 Im
+Maan          2730 B24146A-B    Po Lo              203 Im
+Uuggarkirber  2821 C552567-6    Ni Po              504 Im
+Muumi         2823 D553300-9    Lo Po              503 Im
+Bishaakuuka   2825 C683457-6    Lo                 723 Im
+Gishashum     2829 E100434-8    Lo Va              424 Im
+Navlaand Sha  2830 EAC7457-8    Ni Fl              214 Im
+Ekugush       2922 B652698-7    Ni Po              904 Im
+Uushba Sind   2924 D564885-2    Ri                 105 Im
+Vlaki Khuu    2928 A494586-B    Ag Ni              614 Im
+Danuuvlan     2929 E000000-0    As Ba              013 Im
+Kamsii        3021 A45766B-8    Ag Ni              324 Im
+Gurishi       3022 B756676-9    Ag Ni              304 Im
+Manluushagi   3025 E200000-0    Va Ba              021 Ba
+Uumkishla     3026 C363100-6    Lo                 802 Im
+Guuza Bem     3027 B9D5322-6    Lo Fl              223 Im
+Duuguu        3028 A373246-C  N Lo                 901 Im
+Kagash        3121 D55487B-4                       202 Im
+Kankuup Ir    3123 B424AFG-8    In Hi              114 Im
+Kadushii      3125 E695ADE-5    Hi In              813 Im
+Arkadkhi      3127 C779235-A    Lo                 204 Im
+Mish          3128 C679A86-9    In Hi              803 Im
+Keras Vla     3129 B867322-7    Lo                 903 Im
+Agdam Gii     3130 B5577CB-9    Ag                 220 Im
+Duuka         3226 B686958-A    Hi                 300 Im
+Ashash As     3227 B758259-7    Lo                 403 Im

@@ -1,0 +1,39 @@
+#--------1---------2---------3
+#PlanetName   Loc. Star(s)
+#----------   ---- --------
+@SUB-SECTOR: Sanches SECTOR: Core
+Ye-lu         0112 
+Khishi        0113 
+Khid          0114 
+Idpuu         0116 
+Neki          0117 
+Kein          0120 
+Gir           0212 
+Emuuis        0216 
+Darnii Kimi   0218 
+Inir          0220 
+Maish Akush   0313 
+Maarshigervlig0314 
+Das           0315 
+Dudin         0316 M9 VI
+Uurze         0319 
+Kash          0411 
+Shiieniaand   0414 
+Sanches       0416 M0 V
+Shardi        0418 M4 V
+Nirgem        0420 
+Gaadir        0511 
+Arla Un       0512 
+Kaman         0513 
+Rundan        0516 
+Shiga Sha     0517 
+Zan           0519 
+Khukhi        0612 
+Iggaar        0619 
+Ruuni         0713 
+Marsus        0714 
+Uupig         0718 
+Alekvadin     0811 M3 V
+Protalus      0812 
+Keshi         0816 
+Iruukzi       0820 

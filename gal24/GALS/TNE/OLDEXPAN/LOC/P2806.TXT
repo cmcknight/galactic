@@ -1,0 +1,41 @@
+Dycarl C458785-8
+Starport: Routine              Size: Small (5600-7200 km)
+Atmosphere: Thin               Hydrographics: 80% water
+Population: 70 million         Govt: Civil Service Bureaucracy
+Law Level: Moderate            Technology: Pre-Stellar
+   
+Population 72,670,000. Ruled by Her Supreme Eminence's Government.
+
+Armed Forces: Total personnel: 175,000.
+
+Breakdown: 
+   Royal Maritime Force: 14,000 people, 28 Minor Combatants.
+   Royal Air Force:	     52,500 people, 200 a/c. 62 SAD.
+   Royal Space Navy:     2,725 people, 3 Combatants, 4 Armed Merchants
+   Royal Army:           105,875 people, 5 Divisions, 3 Battalions.
+
+Previously a High Stellar balkanised world, it was unified after many years 
+of fighting by a Warlord who set up a World Council. This Warlord, Gerraint 
+Denran, took a less interventionist role as the years went by, and 
+eventually had himself proclaimed Monarch of Dycarl. The Bureaucracy was 
+left to rule Dycarl for it's people, with the Monarch only intervening in
+occasional matters. A corruption scandal in 1178 led to the new Monarch, 
+Jereela Denran, setting up an independent overview agency, and since then
+things have been running more-or-less smoothly. The offer to join the VTA 
+was embraced with vigour, and currently it's TL is expected to reach 9 in 
+1202. Voskl has also provided the technical expertise to reactivate 
+Dycarl's Starships, and it is the only other system in the VTA to have a 
+Jump-capable Space Force.
+
+The ships of the Royal Space Navy are 2 Shukugan SDBs, 1 Fiery Close 
+Escort, 2 armed Beowulf Free Traders, 1 armed Petty Subsidised Merchant and 
+1 armed Far Trader.
+
+The Air Force controls two relic Deep Mount Meson Guns, which ensure the 
+safety of the planet more than the Space Navy, which wishes to gain control 
+of them.
+
+Dycarl's merchant fleet is slightly smaller in comparison to Voskls, but for
+ a world it's size is very respectable.
+
+by Eamon Watters (E.Watters@Queens-Belfast.AC.UK)

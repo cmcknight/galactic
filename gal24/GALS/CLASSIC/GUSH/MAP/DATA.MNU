@@ -1,0 +1,28 @@
+@dir=gals\classic\gush\map
+@Light Yellow
+
+Gushemege Sector / Data Files
+
+@Light Cyan
+      Sector Data                  @..\gush.dat
+      Credits                      @..\credits.txt
+
+@Light Green
+      Subsector Data
+@Light Cyan
+       A: Riften                   @sec_a.dat
+       B: Khiira                   @sec_b.dat
+       C: Taapvaia                 @sec_c.dat
+       D: Tansa                    @sec_d.dat
+       E: Gandonen                 @sec_e.dat
+       F: Rure                     @sec_f.dat
+       G: Ankhsusgar               @sec_g.dat
+       H: Isi Ahto                 @sec_h.dat
+       I: Balech                   @sec_i.dat
+       J: Sallounn                 @sec_j.dat
+       K: Dashinshaii              @sec_k.dat
+       L: Shire                    @sec_l.dat
+       M: Vipach                   @sec_m.dat
+       N: Laeth                    @sec_n.dat
+       O: Truax                    @sec_o.dat
+       P: Lagan                    @sec_p.dat

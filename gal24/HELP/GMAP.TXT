@@ -1,0 +1,65 @@
+
+List of Commands for Galaxy Map
+-------------------------------
+
+ K/J/H/L/(Arrows)       Move to Neighboring Sector
+
+        S               Switch Scale (large vs extremely large)
+
+       F10              Dump Sector Map to Bitmap
+
+     (Esc)/Q            Return to Previous Sector Map
+
+        ?               View This List
+
+    Hit <Q> to return to Galaxy Map
+
+----------------------------------------------------------------------
+
+From: Jo_Grant/DUB/Lotus@lotus.com
+To: jimv@e2.empirenet.com
+Date: Mon, 12 Jan 1998 10:42:27 +0000
+Subject: Galactic add-in
+
+Yo Jim,
+     Brushed off my BASIC skills on the weekend. Having spent all that time
+with those damn dot-plots I though thought it might be a useful feature to
+have support for that in Galactic. I knew it would be slow but, what the
+hell.
+     It actually turned out quite a lot faster than I would have expected.
+I'm caching the stuff in memory so it isn't too painful scrolling about.
+Originally there were major problems because of a pathetic string space
+(12K!). But I changed some of my storage to use bitfields instead of
+charfields and I could expand that 8 fold. You can now get most of a screen
+full of dot-plots in reasonable time.
+     All the below was done with QBASIC. If anything, it should run much
+better when compiled. The only problems I had were that QBASIC doesn't
+understand command line stuff. Search for REM DUM and uncomment those
+lines. Except for the last one which directs you to remove the hardwiring
+to the solomani rim sector. Once that is done you should be able to wire it
+in as a Galactic hook.
+     There are bits that need work. The highlighting can probably be done
+better. I'm not sure that all interpreted keys do sensible things. And the
+screen saving will be saving the wrong spot. In any event, I'm sure you
+will want to tweak it into compliance with the rest of your code.
+     It is a hack of SECMAP.BAS. Most of my new code is in subroutines. I
+even put in some basic comments. Most of the stuff in the mainline is from
+there.
+     Please take it on and merge it into the next release. I release all
+copyrights or whatever. Your the expert on that. Change the comments
+accordingly.
+     More shortly...
+               Jo
+
+----------------------------------------------------------------------
+
+Jim's Notes:
+
+Noticed some problems using the program with the TNE Galaxy.
+Currently suspect that there's some mis-formatted data hidden
+in one of the subsector files which is causing the program to
+foul-up. Tried to debug, but I'm bumping in areas which I know
+nothing about. If there are any updates to this program, either
+Jo or I will post to the Galactic Mailing List about them.
+ -Jim  (10-Aug-98)
+

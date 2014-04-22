@@ -1,0 +1,21 @@
+System: Atrase
+Subsector: Aubaine
+Sector: Old Expanses
+Coordinates: 0134 (M0104)
+UWP: X68A2M2-4
+
+Starport: None
+Size: Medium (8800-10400 km)
+Atmosphere: Dense
+Hydrographics: Water world
+Population: 500
+Govt: Tribal Government
+Law Level: Low
+Technology: Industrial
+
+Bases: None
+Trade Codes: Lo Ni Wa        
+Travel Zone: Blue
+Planetoid Belts: 1
+Gas Giants: 5
+Allegiance: Wilds

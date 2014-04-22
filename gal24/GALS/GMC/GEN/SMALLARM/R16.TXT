@@ -1,0 +1,38 @@
+r16 Gauss Sniper Rifle
+
+The r16 gauss sniper rifle was the first gauss weapon adopted into general
+service with the Magellanic Empire. Adopted in 2361T as a replacement for the
+r12, the r16 has proved to be an effective weapon in it's specialist role.
+The r16 has recently been fitted with the intergral HTEL sight of the r17
+combat rifle, resulting in the r16a; though this variant has yet to be issued
+to service units. Even without the HTEL sight the r16 is a formidably
+powerful and accurate weapon, capable of penerating even the most advanced
+TL 12 body armour.
+
+The r16 is a bullpup gauss rifle firing 3mm ferrotungsten needles in single
+shot or 3 round burst mode from a 15 round detachable magazine. The r16's
+magazine contain 15 x 11180j superconductor banks, which may be recharged
+from any standard high energy power source. The r16 can accept all standard
+Magellanic enhanced sighting devices and can be adapted for remote operation.
+The r16 is fitted with a bipod and must be fired using this (or otherwise
+solidly braced) to exploit it's maximum range. The r16 is fitted with an
+internal laser sight and is fully gyrostabilised to ensure maximum accuracy.
+The r16 is not available to civilians.
+
+Weapon: r16 gauss sniper rifle
+Action: Electric blowback - singleshot, burst (3)
+Ignition: Electric
+Tech Level: 12
+Calibre: 3mm gauss needle
+Penetration: 8
+Range: long
+Malfunction: reliable
+Shots: 15
+Mass: 6.8kg (r16a: 8.0kg)
+Reloads: 2.3kg
+Length: 87.5cm
+Cost: Cr 5350 (r16a: Cr 7550)
+Incidentals: 50 needles: Cr 16 (0.07kg)
+             10 hour rechargeable battery pack: Cr 5 (0.5kg)
+             40 hour disposable battery pack: Cr 2.5 (0.5kg)
+             empty 15 round magazine: Cr 220 (2.28kg)

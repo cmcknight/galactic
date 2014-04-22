@@ -1,0 +1,34 @@
+@SUB-SECTOR: fivesis   SECTOR: spinmar
+#
+# Trade routes within the subsector
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Emape         0133 B564500-B  N Ag Ni           A  503 Re
+Raweh         0139 B130300-B  N Lo Ni Po De     A  920 Re
+876-574       0140 E687200-0    Lo Ni Tp           702 Na
+Saxe          0231 EAA5543-7    Fl Ni              910 Na
+Andor         0236 C6958X5-9    Dw Tp An        R  103 Re
+769-422       0240 E754401-8    Lo Ni Tp           924 Na
+Gothe         0332 E22159B-6    Ni Po              310 Re
+Mirriam       0333 B9998A6-A  B Tp              A  714 Re
+Candory       0336 C5936X4-8    Dw Ni An        R  920 Re
+Wonderay      0340 E88A46A-4    Lo Ni Wa Mr        210 Na
+Jone          0433 B792885-9  N                 A  110 Re
+Jinx          0440 D100133-7    Lo Ni Va        A  202 Na
+Ucella        0532 D574654-7    C:0 Ag Ni       A  610 Cs
+Penelope      0533 C460642-4    Ni Ri De           423 Re
+Karin         0534 A767768-C  A Ag Ri Tn Mr     A  810 Re
+Wonstar       0538 B455841-7  N                 A  110 Re
+Froin         0539 C535225-9    Lo Ni RsZ          601 Re
+Gohature      0632 C754766-7  S Ag Tp O:0732       723 Re
+Quhaiathat    0637 C31479B-9    Ic                 210 Re
+Lakou         0638 E779454-7    Lo Ni Tp        A  601 Re
+Ralhe         0731 E224564-8    Ni O:0732          801 Na
+Iderati       0732 A887798-C  N Ag Ri Tp Cp        401 Re
+Tondoul       0739 E5137A7-4    Na Ic              201 Re
+875-496       0834 E888421-7  S Lo Ni Tp        A  510 Cs
+Ochecate      0837 E747569-7    Ag Ni Tp Mr        210 Na
+Mewey         0838 D786799-5    Ag Ri Tp           701 Re
+975-452       0840 E100316-9    Lo Ni Va           821 Re

@@ -1,0 +1,8 @@
+@SUB-SECTOR: sec_M   SECTOR: reft
+#
+# Trade routes within the subsector
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Garden        0435 B755578-A    Ag Ni              404 Na

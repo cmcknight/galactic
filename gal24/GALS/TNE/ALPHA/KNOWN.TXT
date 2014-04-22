@@ -1,0 +1,13 @@
+0125  Beta Pictoris              A5 V
+0129  Beta Leonis (Denebola)     A3 V
+0719  Alpha Eridani (Achernar)   B5 IV
+0937  Alpha Leonis (Regulus)     B7 V
+1012  Delta Virginis (Auva)      M3 III
+1232  Alpha Hydrae (Alphard)     K3 III
+1511  Beta Carinae (Miaplacidus) A2 IV
+1640  Gamma Leonis (Algieba)     K1 III & G7 III
+1907  Gamma Crucis (Gacrux)      M3 III
+2027  Delta Doradus              A7 V
+2832  Alpha Columbae (Phaet)     B7 V
+2834  Beta Columbae (Wezn)       K2III
+

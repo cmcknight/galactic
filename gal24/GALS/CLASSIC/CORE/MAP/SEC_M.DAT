@@ -1,0 +1,38 @@
+@SUB-SECTOR: Cadion SECTOR: Core
+#
+# Trade routes within the subsector
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Brygella      0132 B76A200-E  A Lo Ni Wa           521 Li 
+Holt          0133 B8D7346-C  N Lo Ni Fl           915 Li 
+Blanum        0134 B421677-B  N Na Ni Po           203 Li 
+Erthun        0135 B667587-C  N Ag Ni              204 Li 
+Azpun         0138 A873000-A    Lo Ni Ba           702 Li 
+Dashuu        0139 B87A120-D  N Lo Ni Wa        A  613 Li 
+Reference     0140 D100100-B  A Lo Ni Va Rs        302 Li 
+Rush          0231 E869372-6    Lo Ni              711 Li 
+Zorzaa        0234 B667420-C    Ni                 204 Li 
+Tuurqa        0236 D671443-9    Ni                 103 Li 
+Brekin        0240 B58748C-A    Ni                 100 Li 
+Kiis          0331 E10059C-7    Ni Va              724 Li 
+Qungwyld      0332 A655561-A    Ag Ni              203 Li 
+Singing       0334 A9A9310-C  S Lo Ni Fl           523 Li 
+Markun        0338 B887136-9  A Lo Ni              700 Li 
+Betras        0431 B634320-B  S Lo Ni              804 Li 
+Reel          0432 B150779-E  S Po De              805 Li
+Lytras        0437 B400643-A    Na Ni Va           405 Li 
+Xamdas        0439 B110100-C    Lo Ni              603 Li 
+Kysizi        0440 A53A777-E    Wa                 503 Li 
+Caraban       0531 B655264-A  N Lo Ni              400 Li 
+Lia           0537 E654988-A    Hi                 702 Li 
+Double Star   0635 B642652-A  N Ni Po              902 Li 
+Patu          0637 B796676-7  S Ag Ni              203 Li 
+Zzugep        0731 B4539CD-C    HI Po              300 Li 
+Ferr          0734 C797778-5  S Ag                 300 Li 
+Megatina      0735 D584475-4  S Ni                 904 Li 
+L'rotuu       0737 B898674-8    Ag Ni              823 Li 
+Delta 4       0831 C549449-B    Ni                 614 Li 
+Baituu        0835 D438110-6  S Lo Ni              503 Li 
+Night         0839 A5749C9-F  N Hi In              320 Li 

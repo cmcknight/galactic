@@ -1,0 +1,11 @@
+Rigaal E100367-8
+
+Starport: Frontier Quality           Size: Small (800-2400 km)
+Atmosphere: None                     Hydrographics: No liquid water
+Population: 4,000                    Govt: Captive Government
+Law Level: Moderate                  Technology: Pre-Stellar
+  
+	Totally depopulated in the Collapse, Rigaal holds today an outpost of the
+Geonee Confederation, established in 1196.
+
+by Carlos Alos-Ferrer (Alos@merlin.fae.ua.es)

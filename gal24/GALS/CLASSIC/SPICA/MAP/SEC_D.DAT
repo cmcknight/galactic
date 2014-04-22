@@ -1,0 +1,28 @@
+@SUB-SECTOR: sec_d   SECTOR: Spica
+#
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Basque        2606 B736858-9                       300 Na
+Lierne        2607 C5538B9-7    Po                 101 Na
+Proximal      2609 C231204-8    Lo Ni Po           810 Na
+Crescendo     2610 E359559-7    Ni                 905 Na
+St. Vladimir  2704 B788887-B  F Ri Tp              303 Na
+Xoar Epsilon  2706 B211368-8    Lo Ni Ic Nh        710 Xh
+Berglund Belts2707 B000653-E  F Na Ni As           113 Na
+Liebfraumilch 2710 B545541-C  F Ag Ni              314 Na
+Dugout        2801 B201621-B    Na Ni Va Ic        500 Na
+al'Ajib       2806 D484640-3    C:0 Ag Ni Ri An A  903 Na
+Marginal      2906 B7547CC-5    Ag Tp              400 Na
+Feral         3001 B6A08BD-9  F De                 604 Na
+Bountiful     3004 C6678AA-7    H:0 Tp             105 Na
+Jumpers       3010 B7B0544-8    Ni De Nh           620 Xh
+703-704       3104 E335000-0    Ba                 010 Na
+Willrich      3105 C410657-9    Na Ni              200 Na
+Fellows       3106 E955148-7    Lo Ni Tp           224 Na
+Esmiol        3109 E77A876-8    Wa                 614 Na
+Pentarchus    3201 A786576-D  F Ag Ni Tp           703 Na
+Sullivan      3202 B430115-D  F Lo Ni Po De        604 Na
+Claytown      3207 C53089C-6    Na Po De           601 Na
+Phylum        3210 C689327-7    Lo Ni Tp           704 Na

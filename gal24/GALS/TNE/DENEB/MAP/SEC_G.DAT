@@ -1,0 +1,35 @@
+@SUB-SECTOR: sec_G   SECTOR: deneb
+#
+# Trade routes within the subsector
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Petrarch      1712 A554853-B  A                  T 510 Re
+Stoyben       1713 D21356A-9  S Ic Ni O:1712       911 Re
+Andalia       1714 C87A547-9    Ni Wa           A  303 Re
+Reims         1716 C624779-9    V:2                701 Re
+Kennebec      1717 D978655-9    Ag Ni An           623 Re
+Polizzi       1719 B402532-D    Ic Ni Va           623 Re
+Karst         1814 A87689B-A    C:1 Rw:2           233 Re
+Donu-na       1917 C460876-A    De Ri V:3          725 Re
+Shinorasus    1918 A410300-F  N Lo Ni              103 Re
+Orenberg      2011 C13057A-C    De Ni Po           601 RF
+Twinian       2013 C40447B-7  S Ic Lo Ni Va        402 RF
+Zinuun        2014 C2368BA-8    V:0              T 211 Re
+Ugrik         2016 E300000-8    Lo Ni Va           321 Re
+Ruwenzori     2017 E749410-8    Lo Ni V:4       A  503 Re
+Namidshur     2019 B2106A9-F  S Na Ni Cp RsG       415 Re
+Diiski        2111 D66A320-7    Lo Ni Wa         T 212 RF
+Kadidun       2114 D5A2214-9  S Fl Lo Ni V:2       320 RF
+Piram         2116 E311777-6    Ic Na              811 Re
+Cunha         2117 B62677C-A  S                  T 224 Re
+Teatro        2120 C8A77CA-9    Fl V:2             903 Re
+Imlaar        2212 D677551-6  S Ag Ni              323 RF
+Torm          2220 A456445-C  S Lo Ni V:1        T 934 Re
+Giikusu       2316 D6479AB-A  S Hi In Cf         T 805 RF
+Lan-chou      2317 D855688-7  S Ag Ni            T 620 RF
+Nibel         2411 X688331-2    Lo Ni V:1       BT 301 Wi
+Pagamin       2412 E371110-5    Lo Ni Vw           202 Wi
+Dunmag        2413 X427000-0    Ba                 001 --
+Jurburk       2414 C454253-A  S Lo Ni            T 302 RF

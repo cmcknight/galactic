@@ -1,0 +1,43 @@
+@SUB-SECTOR: sec_F   SECTOR: deneb
+#
+# Trade routes within the subsector
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Kayu          0912 D9B75A8-9    Fl Ni              612 Re
+Amarkimi      0913 B446543-C  S Ag Ni              102 Re
+Otomisi       0914 B5A5577-D  S Fl Ni              503 Re
+Skold         0915 B764323-B    Lo Ni C:2          324 Re
+Kubishush     0917 A8B6AAA-E    Fl Hi V:0          101 Re     f
+Jessok        1011 C623683-C    Ni Po              120 Re
+Mowebe        1014 B748551-B    Ag Ni V:6          801 Re
+Liiri         1016 A542998-F    Hi In Po           901 Re
+Hessel        1018 B658100-C  N Lo Ni              901 Re
+Zeen          1111 C6536X3-8  S Ni Po Dw           601 Re
+Pecena        1115 B347114-A  S Lo Ni              122 Re
+Abydos        1116 D335666-8  S Ni O:1016          410 Re
+Karabeth      1118 E663468-7    Lo Ni O:1016       902 Re
+Prigojin      1212 E100440-A    Lo Ni Va V:6       303 Re
+Inar          1213 A310836-E  N Na Cp              303 Re
+Morninglori   1216 A544585-B    Ag Ni              413 Re
+Clarissa      1217 C536422-B  S Lo Ni              714 Re
+Gaagir        1218 C86A358-B    Lo Ni Wa           901 Re
+Minde's Star  1220 D235352-D  S Lo Ni              703 Re
+Quanah        1311 B467685-8    Ni Ag Ri V:1 Rw:   123 Re
+Rayel         1313 B693632-A    Ni V:3             710 Re
+Modika        1314 B450413-A  S De Lo Ni Po        303 Re
+Ciprien       1318 C553310-9    Lo Ni Po           921 Re
+Thane         1319 C585730-9    Ag                 121 Re
+Taillon       1415 B78A668-A  S Ni Ri Wa O:1213    201 Re
+Starn         1417 A000996-F  S As Hi In Na RsB    822 Re
+Montcolm      1419 D675212-7    Lo Ni              122 Re
+Quebraco      1420 E78A658-7    Ni Wa Ri           224 Re
+Trevith       1518 E673247-5    Lo Ni              422 Re
+Kauai         1520 BA89645-B  A Ni Ri              624 Re
+Depot Alpha   1613 A100644-G  D Na Ni Va           120 Re
+Springarn     1614 E564320-6    Lo Ni D:6          910 Re
+Gaza          1615 B430656-C  W De Na Ni Po        923 Re
+Ashasi        1618 C9D5AA8-C    Fl Hi              521 Re
+Neopidan      1619 BA9A647-C  N Ni Wa              224 Re
+Surisha       1620 D682232-3    Lo Ni              401 Re

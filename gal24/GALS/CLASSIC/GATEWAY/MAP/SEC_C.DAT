@@ -1,0 +1,34 @@
+@SUB-SECTOR: c SECTOR: Gateway
+#
+# Jump-routes
+$2010 1912 0 1 10
+$2010 2008 0 0 10
+$1801 1601 -1 0 5
+$1801 2002 0 0 5
+$2002 1904 0 0 5
+$1904 2003 0 0 5
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Caladan       1706 D6737FA-9                       915 Ho
+Valkyr        1709 BA598FE-C                       913 Ho
+Vanadia       1801 CA877FA-A    Fl                 501 Ho
+Agaravand     1802 D66A7F9-9    Wa                 711 Ho
+Duris         1807 C5596FA-8    Ni                 911 Ho
+Shaneyfelt    1904 A7779FA-9    Hi In              313 Ho
+Darmin        1907 C68A3FA-A    Lo Ni Wa           601 Ho
+Way           1909 C658341-4    Lo Ni              911 Na
+Renquist      2002 CAA33FA-A    Lo Ni Fl           713 Ho
+Klavien       2003 A7957FA-8    Ag Ni              901 Ho
+Galvestar     2008 A778AAA-A    Hi In              122 Na
+Prevarren     2010 C555555-A    Ag Ni              913 Pl
+Zorianta      2101 C7778FA-A                       713 Ho
+Orcana        2105 C86A475-B    Ni Wa           A  914 Na
+Tarkaan       2107 C473976-C    Hi In              720 Na
+Iosanillia    2202 X747678-1    Ag Ni              800 Na
+D'h-v'n       2304 B311320-B    Lo Ni Ic           922 Na
+Veel          2307 C624779-9                       601 Na
+Smuggler's Hid2310 E978552-7    Ag Ni              423 Na
+Fog           2401 E9B3531-8    Ni Fl              120 Na
+Mund Sa We    2409 E853724-6    Po                 414 Ak

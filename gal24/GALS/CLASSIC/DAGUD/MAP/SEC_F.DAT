@@ -1,0 +1,38 @@
+@SUB-SECTOR: Ushra   SECTOR: dagudash.sec
+#
+# Trade routes within the subsector
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Undim         0914 C000343-A    Lo Ni As           514 Im     f
+Lauyesyeh     0916 B7678AC-C  S                    504 Im
+Congress      0920 B545048-8  S Lo Ni              214 Im     f
+lambda Cygni  1011 C679443-A    Ni                 404 Im     f
+Ushra         1016 A625943-G  N Hi In              933 Im     f
+Tanes'ra      1017 C365845-8    Ri                 520 Im
+Maamkumar     1020 D535010-7  S Lo Ni              904 Im
+Laruu         1113 C521111-7    Lo Ni Po           404 Im
+Tethys        1114 B89A241-C    Lo Ni Wa           111 Im
+Nox           1115 B9A5446-A    C0 Ni Fl           220 Im     f
+Antioch       1117 C445741-8    Ag                 700 Im     f
+Kaurga        1118 D686411-4  S Ni                 601 Im     f
+Khemelov      1212 A772697-C    Ni                 612 Im     f
+Lasiimshim    1218 C221557-A    Ni Po              601 Im     f
+Katris        1220 C41047B-9    Ni                 602 Im     f
+Hakukuk       1314 C594447-6    Ni                 911 Im     f
+Argiluu       1317 B68A997-C  N Hi Wa              114 Im     f
+Aberlocht     1318 B344357-E    Lo Ni              704 Im     f
+Kaagashiir    1319 D553113-7  S Lo Ni Po           904 Im     f
+Jekyll        1320 A130458-F    Ni Po De           624 Im     f
+Mote          1414 D100420-B    Ni Va              210 Im
+Hellas        1416 A55567C-C    Ag Ni              603 Im     f
+Nafud         1418 C430773-7    Na Po De           114 Im     f
+Nakharpii     1420 C755400-A    Ni                 714 Im
+Cimmeria      1511 B110878-A    Na                 803 Im     f
+Adele         1516 E676559-A    Ag Ni              104 Im     f
+Elysium       1520 D765443-5  S Ni                 714 Im     f
+Lemuria       1612 D68948A-9  S Ni                 103 Im     f
+Nguma         1613 A9E3546-F    Ni Fl              422 Im     f
+Kikaduum      1615 B351459-C  N Ni Po              410 Im     f
+Station Four  1618 C445000-9  S Lo Ni Ba           202 Im     f

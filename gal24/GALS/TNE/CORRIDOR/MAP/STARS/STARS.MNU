@@ -1,0 +1,19 @@
+@dir=gals\tne\corridor\map\stars
+
+@Light Cyan
+       A: Khouth                   @stars_a.dat
+       B: Khukish                  @stars_b.dat
+       C: Lemish                   @stars_c.dat
+       D: The Narrows              @stars_d.dat
+       E: Ian                      @stars_e.dat
+       F: Strand                   @stars_f.dat
+       G: Naadi                    @stars_g.dat
+       H: Uantil                   @stars_h.dat
+       I: Shush                    @stars_i.dat
+       J: The Empty Void           @stars_j.dat
+       K: Atu'l                    @stars_k.dat
+       L: Kivu                     @stars_l.dat
+       M: Two Worlds               @stars_m.dat
+       N: Ashishinipar             @stars_n.dat
+       O: Sinta                    @stars_o.dat
+       P: Sashrakusha              @stars_p.dat

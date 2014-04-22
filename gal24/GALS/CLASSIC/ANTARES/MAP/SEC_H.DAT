@@ -1,0 +1,17 @@
+@SUB-SECTOR: Kiirkandin   SECTOR: Antares
+#
+# Trade routes within the subsector
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Akuopu        2512 E638234-8    Lo Ni              921 Im 
+Narenwen      2611 A243232-9  N Lo Ni Po           204 Cs 
+Gid           2612 C312202-9    Ic Lo Ni           423 Na 
+Nove          2712 A56576B-A    Ag Ri              801 Na 
+Vulno         2812 B554643-A  N Ag Ni           A  303 Im 
+Ipienlaa      2911 A554744-8    Ag                 510 Va 
+Shikhamas     2912 E56A523-8  C Ni Wa              523 Va 
+An            3011 B210303-A  N Lo Ni              904 Cs 
+Theha         3211 B253464-A    Ni Po              805 Va 
+

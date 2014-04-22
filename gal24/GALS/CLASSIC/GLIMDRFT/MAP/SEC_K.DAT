@@ -1,0 +1,39 @@
+@SUB-SECTOR: sec_k   SECTOR: glimdrft
+#
+#Jump Routes
+$1725 1926 0 0
+$1922 1820 0 -1
+$1926 2026 0 0
+$1929 2128 0 0
+$2026 2128 0 0
+$2128 2327 0 0
+$2128 2329 0 0
+#
+#--------1---------2---------3---------4---------5----------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- --
+Lindran       1722 D000440-A    As                 301 Kx
+Vassel        1725 A000576-B    As                 501 Na
+El Dorado     1729 C200536-8    Ni                 701 Na
+Krasi         1822 C130257-C    Ni                 601 Kx
+Astrid        1823 EAB9372-5    Ni                 901 Kx
+Cerinola      1827 EAA1568-A    Ni                 900 Na
+Abin          1922 A654754-D    Ag                 800 Kx
+Andres        1925 E000786-8    As                 101 Na
+Firenzi       1926 A798100-C    Ni                 300 Na
+Galax         1929 A000169-C    As                 601 Na
+Sosie         2021 D000788-9    In                 801 Kx
+Taglia        2026 B1305A6-9    Ni                 501 Na
+Hazzard       2030 X232883-8    Na                 901 Na
+Czar          2124 C1007C7-8    Na                 601 Na
+Rumfill       2126 E476400-5    Ni                 700 Na
+Sahara        2128 AA58356-C    Ni                 301 Na
+Longion       2221 XAC25A5-A    Ni                 100 Na
+Gazelle       2222 X000523-A    As                 601 Na
+Britlan       2224 EAB1384-A    Ni                 200 Na
+Casino        2327 B000383-A    As                 901 Na
+Numidios      2328 D130272-A    Ni                 501 Na
+Outjo         2329 AAAA579-C    Wa                 700 Na
+Qa            2423 CAC96A7-A    Ni                 400 Na
+Pegu          2425 B000400-C    As                 901 Na
+Dozur         2429 EAC1661-A    Ni                 500 Na

@@ -1,0 +1,38 @@
+@SUB-SECTOR: sec_f   SECTOR: massilia
+#
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Lenora        0914 X7A4000-0    Ba Fl              013 Un
+Nonodaga      0915 XAA9000-0    Ba Fl              025 Un
+Stard         0916 X100000-0    Ba Va              024 Un
+Aarze         0918 X5478R7-5                       124 Wi
+Aram          0919 X6B0000-0    Ba De              003 Un
+Lysitihia     1012 X7742O0-5    Lo Ni              414 Wi     f
+Silum         1014 X8658U7-4    Ri              B  401 Wi
+Naramorz Rock 1015 X300000-0    Ba Va              004 Un
+Anniga        1017 X300000-0    Ba Va              002 Un
+Shimshan      1019 X110000-0    Ba                 013 Un
+Groves        1020 X6463O3-2    Lo Ni           B  510 Wi
+Nary          1117 X000000-0    As Ba              004 Un
+Avarro        1120 X8B5000-0    Ba Fl              002 Un
+Zebecca       1213 X5512M0-7    Lo Ni Po           203 Wi
+Gurvin        1215 X7A6000-0    Ba Fl              004 Un
+Reetage       1220 X557000-3    Ba                 403 Un
+Lupaning      1312 X222000-0    Ba                 005 Un
+Nealis        1313 X5691N3-0    Lo Ni           B  403 Wi
+Wakatani Belt 1314 X000000-0    As Ba              010 Un
+Muush         1319 X100000-0    Ba Va              003 Un
+Sagramore     1320 X100000-0    Ba Va              005 Un
+Neoland       1419 D6535R9-7    Ni Po              223 Wi
+Haamish       1420 X4721O8-3    Lo Ni              201 Wi
+Dalken        1512 X4577O4-7    Ag                 815 Wi
+Malad         1514 X534000-0    Ba                 002 Un
+Dubleen       1515 X8488P0-5                    B  234 Wi
+Nonama        1519 X327000-0    Ba                 000 Un
+Toleenal      1520 X5511O4-3    Lo Ni Po           514 Wi
+Epel          1612 X895AYB-6    Hi In           B  103 Wi
+Nauto         1613 X7627O2-4                       204 Wi
+Lybone        1614 E5497T6-6                       204 Wi
+Shukadiin     1616 X300000-0    Ba Va              023 Un

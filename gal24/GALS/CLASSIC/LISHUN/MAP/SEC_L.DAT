@@ -1,0 +1,62 @@
+@SUB-SECTOR: sec_L   SECTOR: lishun
+#
+# Trade routes within the subsector
+$2521 2719 0 -1
+$2521 2624 0 0
+$2624 2825 0 0
+$2825 2924 0 0
+$2924 3126 0 0
+$3126 0124 1 0
+$2825 2729 0 0
+$2729 2630 0 0
+$2630 2733 0 1
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Asinto        2521 A556100-E  H Lo Ni              522 V1
+Kando         2523 C947686-5  C Ag Ni              124 V1
+Barerock      2529 E200369-7    Lo Ni Va           200 Vx
+Bagaskaa      2621 D444330-7  C Lo Ni              804 V1
+Mikisha       2622 B895431-A    Ni                 814 V1
+Kolskiy       2624 B201745-B  C Na Va Ic           502 Va
+Agiisha       2628 C235653-8    Ni                 522 Vx
+Khursham      2630 A686400-B  C Ni                 810 Vx
+Kisugi        2722 C897477-B  C Ni                 100 Va
+Blevins       2723 C3106A9-B  C Na Ni              310 Va
+Karmii        2724 C366547-7  C Ag Ni              410 Va
+Blizzard      2725 E611686-5    Na Ni Ic           602 Va
+Irkurshir     2726 D546477-9  C Ni                 610 Va
+Kagsazar      2729 A594454-E    Ni                 400 Vx
+Dublin        2730 A888754-A    Ag Ri              603 Vx
+Khinler       2821 E84A699-6    Ni Wa              202 Va
+Imkergi       2823 C548310-A  C Lo Ni              713 Va
+Adeshur       2824 C9AA688-B    Ni Fl Wa           815 Va
+Karsaama      2825 A7498AE-D                       320 Va
+Sirris        2829 C8549AD-C    Hi                 300 Vx
+Kangerla      2830 B476487-D    Ni                 203 Vx
+Ashpuud       2921 C200334-C    Lo Ni Va           200 Na
+Kazish        2922 B484341-C    Lo Ni              500 Va
+Kimkhii       2923 E876424-4    Ni                 200 Va
+Ot Zell       2924 C9B798A-D    Hi Fl              710 Va
+Kimus         2925 C363143-7  C Lo Ni              305 Va
+Imkaan        2928 C432543-B    Ni Po              900 Vx
+Gorval        2929 C140379-A    Lo Ni Po De        400 Vx
+Darkling      3021 D000620-8  C Na Ni As           801 Va
+Ingerka       3022 B300533-C  G Ni Va              901 Va
+Eshashla      3024 C467221-9    Lo Ni              104 Va
+Adlashidu     3026 C541564-6    Ni Po              300 Vx
+Ikaardakha    3030 E589561-9    Ni                 405 Vx
+Mushu         3122 B656584-C  C Ag Ni              800 Va
+Mechport      3123 D5A3996-6  C Hi Fl              200 Va
+Askisa        3125 C654576-6    Ag Ni              410 Vx
+Gaamkhi       3126 A587449-D  H Ni                 700 Vx
+Desna Amur    3129 C30089B-9    Na Va              804 Vx
+Akaalun       3221 A786565-A  G Ag Ni              104 Va
+Kabashgiir    3222 C779856-B                       120 Va
+Peake         3223 C468ADA-A  G Hi                 104 Va
+Aasamlaga     3225 B7668CC-8                       500 Vx
+Piiman        3226 E76A786-7    Ri Wa              910 Vx
+Uugmiir       3227 A150100-G  H Lo Ni Po De        413 Vx
+Ishala        3229 D689656-9    Ni Ri              734 Vx
+Gekakar       3230 AAC8410-F    Ni Fl              412 La

@@ -1,0 +1,63 @@
+@SUB-SECTOR: Petrina SECTOR: Gythios Sector
+#
+# Jump-routes
+$0101 0301 0 0
+$0101 0302 0 0
+$0209 0308 0 0
+$0209 0309 0 0
+$0209 0311 0 1
+$0301 0501 0 0
+$0302 0401 0 0
+$0302 0406 0 0
+$0308 0409 0 0
+$0401 0501 0 0
+$0406 0308 0 0
+$0409 0511 0 1
+$0705 1005 1 0
+$0801 1001 1 0
+$0806 1005 1 0
+$0809 0811 0 1
+$0810 0812 0 1
+$0810 0911 1 1
+$0406 0705 0 0
+$0806 0809 0 0
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Beorhthildi   0101 A62866A-B                       213 Im 420
+Vaghe         0103 X231000-0    Ba Lo              022 Im 600
+Guale         0105 X200000-0    Ba Lo Va           024 Im 000
+Christ        0108 B454A76-A    Hi                 220 Im 820
+Wodman        0201 X535000-0    Ba Lo              014 Im 560
+Urbana        0202 C244379-6  S Lo                 420 Im 400
+Barstow       0204 X250000-0    Ba De Lo           310 Im 010
+Marilyn       0205 X431000-0    Ba Lo              024 Im 410
+Trenton       0207 X8B5000-0    Ba Fl Lo           004 Im 0B0
+Wode          0209 A759ACB-C  S Hi                 704 Im 7BE
+Anntoin       0210 D240211-7  S De Lo              824 Im 320
+Huetson       0301 A97A7BG-B  N Ag Wa              920 Im 3A5
+Barnard       0302 A337444-B                       613 Im 760
+Stodhierde    0307 XABA000-0    Ba Fl Lo Wa        030 Im 090
+Sheffield     0308 B7659A8-8    Hi                 914 Im 140
+Syria         0309 B767A86-B  S Hi                 200 Im 440
+Esex          0401 C678100-5    Lo                 605 Im 670
+Transite      0403 X525000-0    Ba Lo              003 Im 640
+De Skypwyth   0404 X202000-0    Ba Ic Lo Va        002 Im 010
+Petrina       0406 A667A9D-A    Hi                 311 Im 475
+List          0409 B455242-8    Lo                 102 Im 360
+Hebrew        0501 A766ABD-C    Hi                 323 Im 1AQ
+Fitchburg     0604 B57689B-9                       204 Im 700
+Hatcher       0606 X100000-0    Ba Lo Va           002 Im 040
+Laugger       0607 E54026B-5    De Lo              710 Im 050
+Blackman      0610 X000000-0    As Ba Lo           024 Im 000
+Saudi         0702 C9E6110-7    Lo                 102 Im 050
+Blythe        0703 B65888B-9  2                    224 Im 56V
+Desmond       0704 X435000-0    Ba Lo              012 Im 050
+Gaelbhan      0705 A323874-E  N                    414 Im 56Z
+Berk          0706 D99A513-5  S Ag Wa              404 Im 140
+Carson        0801 A784778-A  N Ag                 100 Im 575
+Holmdel       0805 B343441-9                       603 Im 400
+Moort         0806 B78989A-9  S                    400 Im 775
+Agnew         0809 B34359E-6  N                    714 Im 110
+Darkshark     0810 A668AEI-C    Hi              A  121 Im 175

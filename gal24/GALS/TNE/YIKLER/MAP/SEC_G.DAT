@@ -1,0 +1,35 @@
+@SUB-SECTOR: sec_G   SECTOR: yiklerzd
+#
+# Trade routes within the subsector
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Ialensh       1711 X574000-0    Ba              F  010 Zh
+Chabl         1714 A795538-D  * Ag Ni              512 Mi
+Zhieyiez      1719 A100338-B    Lo Ni Va           702 Mi
+Shtiprashint  1720 C200388-8    Lo Ni Va           110 Mi
+Ozhavlazefr   1812 D576164-A    Lo Ni O:1615       204 Mi
+Ripejekl      1813 A345698-8    Ag Ni              700 Mi
+Peviade       1815 B00089A-B    As Na              912 Mi
+Chaabazh      1816 B120488-D    De Ni Po Lo        413 Mi
+Drirebradr    1820 B335788-8                       111 Mi
+Iachonz       1913 B888676-A  Z Ag Ni Ri           303 Zh     f
+Zhazhanzh     1916 A665437-B  * Ni Lo              810 Mi
+Shtiachabr    1917 A594435-E  * Ni Lo              103 Mi
+Stiatlade     1918 D778698-5    Ag Ni              812 Mi
+Sobropr       2011 C585865-8    Ri O:2211          711 Zh
+Liansh        2013 D87A164-A    Wa Lo Ni O:1615    104 Mi
+Elfedlent     2016 DAA2064-A    Lo Ni Fl Rv 1615   813 Mi
+Dralievl      2114 D665164-A    Lo Ni O:1615       113 Mi
+Jdieblansh    2116 A000337-F    As Lo Ni           714 Mi
+Beblazhie'    2117 D000588-9    As Ni              614 Mi
+Ninzh         2211 B51357A-B  Z Ic Ni              402 Zh
+Finzhchtanz   2213 B371561-8    Ni O:2314          714 Zh
+Bledradl      2214 D647164-A    Lo Ni O:1615       123 Mi
+Fleqliaajafrie2318 B546438-6  * Ni Lo D1           501 Mi
+Itlzhdiflaz   2311 E88A310-4    Lo Ni Wa D2        420 Zh
+Palstimrdl    2314 A442575-9  Z Po Ni              423 Zh
+Chivedial     2219 D559A87-5    Hi C2              303 Mi
+Paklshtepl    2413 A429400-A    Lo Ni              222 Zh
+Pensh Chtabl  2415 D79AAA8-A    Hi In Wa           514 Zh

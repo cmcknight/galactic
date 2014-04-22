@@ -1,0 +1,42 @@
+@SUB-SECTOR: sec_C   SECTOR: mendan.sec
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+$2405 2705 1 0 11
+$2405 2103 0 0 11
+$2103 1804 0 0 11
+$2103 1901 0 0 11
+$2405 2408 0 0 11
+$2408 2210 0 0 11
+$2210 1911 0 1 11
+$2210 2510 1 0 11
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX f
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Dukush        1704 C756402-5  M Ni                 200 Na 
+Epiphany      1708 C57A457-A    Ni Wa              203 Jm 
+Ruukini       1710 B446587-A  F Ag Ni              800 Jm 
+Boca          1801 B6227CA-A  M Na Po              203 Jm 
+Zakhi         1804 B78A337-A  F Lo Ni Wa           401 Jm 
+Rukuu         1810 C520241-9  M De Lo Ni Po        804 Jm 
+Laemadud      1901 A8767B8-B    Ag Cp              900 Jm 
+Hammurabi     1906 C423554-8    Ni Po           R  104 Jm 
+Izakari       1910 E878131-6    Lo Ni              711 Jm 
+Husirikii     2005 CAB6422-8    Fl Ni              722 Jm 
+Ketchara      2008 C642131-8    Lo Ni Po           303 Jm 
+Gashirke      2101 D5898B9-5                       721 Jm 
+Luudunaa      2103 B300545-A    Ni Va              504 Jm 
+Gunalir       2105 C624324-7  M Lo Ni              304 Jm 
+Iinuugi       2106 E437588-6    Ni                 602 Jm 
+Chattahwa     2107 C434022-8    Lo Ni              822 Jm 
+Alumum        2110 E675424-3    Ni                 404 Jm 
+Shikhu        2201 E58A667-5    Ni Ri Wa           200 Jm 
+Khukashi      2210 B6348B9-7  F                    334 Jm 
+Gagdi         2307 C699200-8  M Lo Ni              400 Jm 
+Aruurirer     2309 D8846AA-4    Ag Ni              824 Jm 
+Aslidiim      2402 X365662-0    Ag Ni Ri        R  803 Jm 
+Purashasi     2405 A899389-9    Lo Ni              223 Jm 
+Miigaan       2408 B457243-A    Lo Ni              603 Jm 
+

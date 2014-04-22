@@ -1,0 +1,42 @@
+@SUB-SECTOR: Fervore   SECTOR: alphaleo
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Fervore       2511 X534000-0    Ba                 020 Un
+Yakin         2512 X210000-0    Ba                 003 Un
+Latelu        2516 X7A4000-0    Ba Fl              001 Un
+Oglin         2517 X76A4S6-0    Lo Ni Wa        B  413 Wi
+Deloma        2518 X200000-0    Ba Va              000 Un
+Archer        2519 X100000-0    Ba Va              030 Un
+Cyan          2613 X2515RA-1    Ni Po           B  403 Wi
+Lutelo        2615 X643200-0    Lo Ni Po        B  404 Wi
+Ismalon       2620 X5865RC-4    Ag Ni           B  411 Wi
+Dedoman       2711 E5757Q7-5    Ag                 115 Wi
+Pinnafore     2715 X100000-0    Ba Va              013 Un
+Talmen        2718 X6962RB-6    Lo Ni              513 Wi
+Uvareck       2720 D6688O0-8                       100 Wi
+Drimgir       2811 X225000-0    Ba                 004 Un
+Ouatlala      2814 X6953O4-7    Lo Ni              412 Wi
+Obenic        2818 D5448S6-7                       110 Wi
+Xenil         2819 X100000-0    Ba Va              010 Un
+Patrel        2911 X633000-0    Ba                 003 Un
+Sinpo         2914 X234000-0    Ba                 003 Un
+Toleto        2916 X8795R9-2    Ni              B  400 Wi
+Bolime        2918 X3614P4-4    Lo Ni              200 Wi
+Cirnam        3013 X85A8VA-8    Wa              B  402 Wi
+Wiseman       3019 X100000-0    Ba Va              004 Un
+Picus Moon    3020 X400000-0    Ba Va              020 Un
+Yatta         3112 X523000-0    Ba                 013 Un
+Respin        3114 X66A7R9-0    Ri Wa           B  104 Wi
+Helmoni       3115 X723000-0    Ba                 003 Un
+Darco Hell    3116 X9C5000-0    Ba Fl              022 Un
+Boneva        3117 X76A4Q5-7    C0 Lo Ni Wa        103 Wi
+Daeba         3118 X5654P1-0    Lo Ni           B  224 Wi
+Kilowog       3119 X100000-0    Ba Va              004 Un
+Junction      3120 X6655Q5-6    C1 Ag Ni           203 Wi
+Aidan         3211 X100000-0    Ba Va              003 Un
+Lilea         3212 X8943M0-0    Lo Ni           B  204 Wi
+Duncan        3213 X100000-0    Ba Va              000 Un
+Tomanica      3217 X322000-0    Ba                 004 Un
+Beloz         3218 X8885R9-0    Ag Ni           B  221 Wi

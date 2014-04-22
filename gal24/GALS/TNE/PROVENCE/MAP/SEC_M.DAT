@@ -1,0 +1,35 @@
+@SUB-SECTOR: sec_M   SECTOR: provence
+#
+# Trade routes within the subsector
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Dzaegkaek     0131 X322000-0    Ba Po              021 --
+Uevoto        0132 X583779-3                    B  101 Wi
+Anthonkfoers  0137 X300000-0    Va Ba              023 --
+Aenggvug      0140 X000000-0    As                 013 --
+Kuronraer     0232 X556789-2    Ag              B  102 Wi
+Gingrue       0237 X502000-0    Va Ba              021 --
+Lloezoers     0238 XAC3000-0    Fl Ba              003 --
+Aeghzisung    0240 X200000-0    Va Ba              022 --
+Errkous       0331 X557211-5    Ni Lo              105 Wi
+Lighoz        0335 C355776-9    Ag                 702 Wi     f
+Dzirrsrue     0432 X9B3000-0    Fl                 003 --
+Ugzugu        0532 X773571-4    Ni                 224 Wi
+Kaghoekne     0533 E79935A-7    Ni Lo              214 Wi
+Ug Kanek      0537 X6689B8-3    Hi              B  623 Wi
+Aenloegin     0631 X374571-7    Ag Ni              114 Wi
+Thueni        0632 X474112-2    Ni                 503 Wi     f
+Arerzthoe     0634 X57599A-3    Hi              B  303 Wi     f
+Uedtzon       0635 X434000-0    Ba                 001 --
+Kalongourr    0637 X78A877-5    Wa              B  923 Wi
+Okfaeng       0733 X755645-4    Ag Ni              901 Wi
+Ongvoerrg     0735 X525000-0    Ba                 004 --
+Irr Zouth     0736 X57969B-4    Aq Ni              503 Wi
+Toulingitsa   0737 X9A4000-0    Fl                 001 --
+Duethrang     0739 X788621-6    Ag Ni              504 Wi
+Kukhou        0740 X536000-0                       003 --
+Kirg          0831 X98A756-4    Wa Aq           B  222 Wi     f
+Tarrthek      0837 X672666-3    Ni              B  712 Wi
+Orsaethvok    0838 X737000-0                       023 --

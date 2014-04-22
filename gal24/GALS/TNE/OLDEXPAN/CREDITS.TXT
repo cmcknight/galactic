@@ -1,0 +1,10 @@
+Old Expanses - Credits
+-----------------------
+
+This circa 1200 Old Expanses data, originally created by GDW, was
+previously published in the Traveller Navigator software put out
+by Planet III (which is currently available as freeware over the
+net, see http://www.davtechsys.com/ftp.htm, or if that doesn't
+work, see ftp://ftp.davtechsys.com). This data was converted to
+Galactic format by Lewis Roberts (lewis@chara.gsu.edu).
+

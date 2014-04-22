@@ -1,0 +1,32 @@
+@SUB-SECTOR: sec_b   SECTOR: Spica
+#
+# 
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Trafalgar     0901 B323858-D    Na Po              900 Na
+Gliese        0903 C331647-6    Na Ni Po           411 Na
+Bain          0909 A78A88B-A    Ri Wa Cp           813 So
+Simpson       0910 C776875-6    Tn                 413 Na
+Vale          1002 C201574-7    Ni Va Ic           500 Na
+Hearthwood    1010 E777898-8    Tn                 710 Na
+Oscura        1104 A665652-A  F H:1 Ag Ni Ri Tp    523 Na
+Shireene      1106 B233798-B    Na Po              500 Na
+Rhizopus      1206 CA99535-9    Ni              A  900 Na
+Vaduz         1207 A551855-C  F Po                 514 Na
+Alta Republic 1208 C788543-7    Ag Ni Tp           110 Na
+Nathrop       1209 B48A886-A    Ri Wa              604 Na
+Carrollton    1301 E77A578-7    Ni Wa              402 Na
+Evermere      1302 BA9A768-B    Wa Nh Mr        A  115 Na
+Icestop       1303 C201445-9    Lo Ni Va Ic        520 Na
+Gomez         1307 C550778-6    Po De              803 Na
+Freeport      1401 C411500-B    Ni Ic              900 Na
+Halverson     1405 A211377-D    Lo Ni Ic           610 Na
+(Sessions)    1407 E6A1888-7    Fl                 305 Xh
+Larellum      1410 C535587-6    Ni                 503 Na
+Foster        1502 C326522-B    Ni                 314 Na
+Tsusist       1508 E550700-0    Cw Po De Nh     A  303 Xh
+Trivia        1601 C201540-B    Ni Va Ic           800 Na
+Rippel        1604 D843547-7    Ni Po Tp           400 Na
+Pugeot        1605 D442626-6    Ni Po              200 Na
+Xoar Delta    1607 D311764-5    Na Ic Nh C:2003 A  500 Xh

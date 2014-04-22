@@ -1,0 +1,41 @@
+@SUB-SECTOR: sec_L   SECTOR: beyond.sec
+#
+# Trade routes within the subsector
+$2523 2424 -1 0
+$2523 2622 0 0
+$2622 2621 0 0
+$2621 2619 0 -1
+$2728 2531 0 1
+$2728 2825 0 0
+$2825 2922 0 0
+$2922 2819 0 -1
+$2730 2732 0 1
+$2730 2929 0 0
+$2929 3028 0 0
+$3028 3129 0 0
+$3129 3228 0 0
+$3228 3226 0 0
+$3226 0127 1 0
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Xotl          2523 B869499-7    Na Ni              7   IS
+Moe Junkin    2529 B8A3402-4  S Ni              A  2   IS
+Wyrm          2621 C400657-8    Na Ni           A  5   IS
+Firemoor      2622 C100100-5    Na Ni           A  3   IS
+D'mahl        2624 B8813FF-9  D Na Ni              8   Na
+997.Beta.II   2728 B860674-7    Na Ni Ri           6   Na
+Areth         2730 A74A333-9  S Na Ni              4   Na
+Bela 37       2823 C000420-8    Na Ni              4   Na
+Araniopa      2825 A764887-A  2 Ri Ca              8   Na     f
+T'Mek 4.987   2922 B440307-4  Z Na Ni Po           6   Na
+Korakin       2924 X300000-4    Na              R  0   Na
+Farquhar      2929 C566113-6    Ni                 9   As
+Sieve         3028 AC62AAA-A  S                    5   As     f
+Near Farquhar 3030 B300100-9    Na Ni              3   As
+Far Farquhar  3123 X635400-2    Ni              R  8   Na
+Here          3129 B523520-9    Ni Po              3   As
+Sentalmonte   3223 X000120-0  S Ni              R  3   Na     f
+Nether Towley 3226 A936337-8    Ni                 2   As
+Graffin       3228 A6357AB-8  S                    4   Dw

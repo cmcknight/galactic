@@ -1,0 +1,43 @@
+#--------1---------2---------3
+#PlanetName   Loc. Star(s)
+#----------   ---- --------
+@SUB-SECTOR: Dunea SECTOR: Core
+Maasaanin     1732 
+Riid          1733 
+Santry        1736 
+Irkhar Kirk   1737 
+Ginna         1738 
+Enshuuar      1739 
+Irkgiur       1831 
+Shaaram       1833 
+Cordova       1836 
+Anlumir       1837 
+Iraddii       1838 
+Rili Aash     1839 
+Saruumdiiush  1840 
+Uushruu       1933 
+zishma Kha    1934 
+Keshi         1938 K3 V M1 D M0 D
+Nii           1940 
+Daindkhara    2034 
+Uundi Zi      2036 
+Daaud Urle    2037 
+Gimmi Uussha  2038 
+Gikhii Iis    2040 
+Degkak Uun    2133 
+Diliig        2135 
+Kiir          2136 
+Adkhi         2138 
+Nig           2139 
+Sidzer        2140 
+Kuuma         2232 
+Miregzi       2237 
+Busirkher     2334 
+Gish          2335 
+Adan          2336 
+Shinzarkan    2338 
+Kim           2431 
+Uumad         2433 
+Iidkek        2435 
+Ligmuu        2437 
+Inmaeg        2439 

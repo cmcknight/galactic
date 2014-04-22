@@ -1,0 +1,39 @@
+@SUB-SECTOR: stars_C   SECTOR: corridor
+#
+# Trade routes within the subsector
+#
+#--------1---------2---------3
+#PlanetName   Loc. Stars(s)
+#----------   ---- ---------
+Tyee          1703 G1 III M8 D
+Merold        1704 K1 V
+Lyforn        1803 M4 III
+Lemish        1808 M5 V M2 V
+Munhofen      1810 G7 V
+Ighoth        1904 K9 V
+Dazey's World 1905 M3 V
+Sutton        1906 M5 III
+Weyland       1908 M3 V
+Croftstein    2003 F3 V
+Egami Nivek   2004 F1 V
+Tamilaa       2006 K3 IV M6 D
+Specti        2009 F1 V
+Dianah        2010 K8 V
+Vicennis      2101 G9 IV
+Phomos        2102 G7 V
+Angi          2106 M0 V
+Ginning       2108 G2 V
+Amwaz         2109 M1 V
+Douthit       2201 M3 V
+Braden IV     2202 F4 V M1 D
+Brariun       2205 M5 V G6 V
+Aurolee       2206 A8 IV
+Luuga         2208 G5 V K4 D
+Voegrr        2209 M2 V K4 D
+Alfive        2303 M9 V
+Double Sun    2304 A7 V M6 D
+Pruughoe      2306 M2 V
+Aking         2307 M4 V
+Myathena      2403 M5 V
+Gravista      2405 M5 D
+Treedisk      2409 M7 D M3 D

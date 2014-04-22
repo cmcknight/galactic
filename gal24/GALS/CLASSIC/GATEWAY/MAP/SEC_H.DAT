@@ -1,0 +1,23 @@
+@SUB-SECTOR: h SECTOR: Gateway
+#
+# Jump-routes
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Fastness      2520 E110772-A    Na                 210 Sw
+Lanadhu       2611 C223669-9    Na Ni Po           100 Ak
+Zora          2614 C748551-5    Ag Ni              600 Na
+Freehaven     2618 C624779-6                       601 Sw
+Hidden Body   2716 E100000-6    Lo Ni Va Ba        613 Na
+Carlton       2720 B667754-A    Ag Ri              925 Sw
+Coriander     2813 C223669-8    Na Ni Po           101 Na
+Runner's Star 2817 C686654-9    Ag Ni Ri           613 Sw
+Pirate's Haven2819 C775871-9                       826 Sw
+Gigas         2915 C577000-9    Lo Ni Ba           900 Na
+Sandhaven     2918 B000830-A    As Na              322 Sw
+Mneomon       3012 BA89537-B    Ni                 924 Na
+Emoress       3117 A66A779-9  N Ri Wa              310 Na
+Chloran       3213 C9C4100-B    Lo Ni Fl           901 Na
+Drumhelda     3217 D110330-A    Lo Ni              732 Na
+Thipister     3219 B769436-A    Ni                 223 Na

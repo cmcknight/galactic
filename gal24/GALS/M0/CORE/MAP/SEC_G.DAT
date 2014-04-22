@@ -1,0 +1,50 @@
+@SUB-SECTOR: Capital SECTOR: Core
+#
+# Trade routes within the subsector
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Kaakhe Mirir  1711 D100536-7    Ni Va              912 Im
+Uushem        1713 C9D3512-7    Fl Ni              714 Im
+Fornol        1715 C5819CB-8    Hi                 112 Im
+Kasdaga       1717 D9B7445-7    Fl Ni              724 Im
+Khiidkar      1812 B383688-9    Ni Ri              605 Im
+Lectorsen     1813 E354544-3    Ag Ni              400 Im
+Urair         1815 C510112-7    Lo Ni              413 Im
+Unkuu         1819 B505146-8    Ic Lo Ni Va        300 Im
+Khamiila      1912 A430300-C  N De Lo Ni Po        912 Im
+Irurk         1916 A344642-9    Ag Ni              614 Im
+Aggii Ganaan  1917 E22247B-4    Ni Po              804 Im
+Irmap Muu     1918 C624420-7    Ni                 204 Im
+Nirinirk      1919 E776000-0    Ba Lo Ni           000 Ba
+Kuma As       1920 D410200-9  S Lo Ni              503 Im
+Kikamaa       2011 E544000-0    Ba Lo Ni           003 Ba
+Biin          2012 E651237-4    Lo Ni Po           733 Im
+Bala          2014 C62A332-8    Lo Ni Wa           414 Im
+Zuarkri       2016 C877599-8    Ag Ni              504 Im
+Kain          2017 D576244-C  S Lo Ni              821 Im
+Kan           2020 E200000-0    Ba Lo Ni Va        013 Ba
+Kiikagaiir    2111 C446415-9    Ni                 600 Im
+Nappar        2112 C428256-7    Lo Ni              720 Im
+Zimiin        2115 A331746-B  N Na Po              304 Im
+Planet X      2116 *1 DSS       AXXX613-C          100 Im
+Sylea         2118 A586A98-C  A Hi                 305 Sy
+Gid           2211 B655554-B    Ag Ni              224 Im
+Kiirri        2213 E541000-0    Ba                 014 Ba
+Shudusham     2214 E849558-6    Ni                 904 Sy
+Khash         2216 E8A6000-0    Ba Fl Lo Ni        023 Ba
+Shaak         2218 B436997-9    Hi In              304 Im
+Ase           2219 B22048B-C    De Ni Po           610 Im
+Khishnar      2220 E462251-0    Lo Ni              313 Im
+Giikkala      2312 B79A753-B    Wa                 103 Im
+Laairer       2314 B559110-8    Lo Ni              904 Sy
+Idmum         2316 C4447A8-7    Ag                 802 Sy
+Gikuu         2317 E571342-1    Lo Ni              910 Sy
+Kuunen Ish    2318 B210666-8    Na Ni              413 Sy
+Ipduu In      2319 D979575-7    Ni                 914 Im
+Unuli         2320 E6B5000-0    Ba Fl              022 Ba
+Kiur          2413 E651000-0    Ba Lo Ni Po        001 Ba
+Khaashuu      2414 AA7A345-8    Lo Ni Wa           500 Sy
+Argash        2416 B755400-6    Ni                 404 Sy
+Gash          2419 D544200-8  S Lo Ni              300 Sy

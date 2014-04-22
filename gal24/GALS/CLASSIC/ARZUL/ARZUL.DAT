@@ -1,0 +1,43 @@
+Arzul
+
+A: Rraz                      sec_a.dat           f
+B: Kikhu                     sec_b.dat
+C: Voeraghz                  sec_c.dat
+D: Khefs Dzo                 sec_d.dat
+E: Gakhir                    sec_e.dat
+F: Kotsfa                    sec_f.dat
+G: Lekorma                   sec_g.dat
+H: Ghap Dall                 sec_h.dat
+I: Nishamidu                 sec_i.dat
+J: Gorzadi                   sec_j.dat
+K: Veldt                     sec_k.dat
+L: Prairie                   sec_l.dat
+M: Mycocona                  sec_m.dat
+N: Ambro                     sec_n.dat
+O: Plains                    sec_o.dat
+P: Desert                    sec_p.dat
+
+Bases:
+N = Navy
+S = Scout
+2 = Navy & Scout
+  = None
+
+Allegiance:
+15 JP = Julian Prot. (Unincorporated)
+15 Jc = Julian Prot. (Const. of Koekhon)
+15 Jo = Julian Prot. (Alliance of Ozuvon)
+15 Ja = Julian Prot. (Asimikigir Confed.)
+15 Hl = Julian Prot. (Lorean Hegem.)
+15 Jh = Julian Prot. (Hhkar Sphere)
+15 Jr = Julian Prot. (Rukadukaz Repub.)
+15 J- = Julian Prot. (Unincorporated)
+15 Jm = Julian Prot. (Cmnwlth of Mendan)
+15 Jl = Julian Prot. (Lumda Dower)
+15 Jv = Julian Prot. (Vugurar Dominion)
+15 Jp = Julian Prot. (Pirbarish Starlane)
+15 Ju = Julian Prot. (Ukhanzi Coord.)
+15 Vw = Julian Prot. (Rar Errall/Wolves W.)
+09 Na = Non-Aligned
+08    = Unknown
+

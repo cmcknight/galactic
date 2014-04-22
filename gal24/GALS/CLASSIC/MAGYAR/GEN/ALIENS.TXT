@@ -1,0 +1,104 @@
+                ALIEN SENTIENTS OF MAGYAR SECTOR
+
+The majority of Magyar's sentient races are friendly to humans
+-- the Masuk-Safor, the Morgenstern Airlords, the Raaqua, the 
+Whaiz and the Zil --  and all but the Zil are spacefaring.  There
+are only two races hostile to humans -- the Akzukayya and the
+Obopodel -- and neither is spacefaring.  There are two neutral 
+races -- the Glidips and the Grayhost -- of which only the Grayhost
+is spacefaring.  Two other sentient races may exist (the Callers-
+in-the-Dark, & the Jakaso crystals), but the existence of the
+Callers and the sentience of the Jakaso remains unproven.  Only
+two of these races achieved star travel before aided by humans,
+these being the Masuk-Safor and the Grayhost.
+
+AKZUKAYYA:  A race of a 50 kg. insectoid carnivores (killers).  The
+adults have six legs, two manipulative arms, and a prehensile tail,
+all encased in a thick armor equivalent to cloth armor.  They are
+extremely fierce and territorial.  Because of their warlike nature,
+they are currently interdicted on their homeworld.  Homeworld: 
+Namedih.
+
+CALLERS-IN-THE-DARK:  A legendary race of ghosts or mist creatures
+who live in deep caverns.  According to most accounts, the Callers
+appear as a rainbow of color, swirling before the viewer.  Source
+of Legend:  Koskiku.
+
+GLIDIPS (aka. McNellan's Snake, or Glidersnakes):  A race of 50 kg.
+flying omnivores (eaters) with a rough green skin that counts as
+jack armor.  A small head and snakelike body are supported 
+in flight by a trio of small overlapping frilly wings on either
+side, with the rear set of wings meeting behind the body proper.
+Along the bottom of their body are two rows of legs, like those 
+of a centipede.  Glidips are non-spacefaring and communication with
+humaniti remains limited, but vids and stills of Glidip art are 
+popular through-out the sector.  Homeworld:  McNellen.
+
+THE GRAYHOST:  Colonies of microscopic organisms who unite into a
+single sentient amphibious entity ranging in size from 50 to 400
+kg. or more.  The Grayhost are an ancient spacefaring race, but
+communication between the Grayhost and humaniti remains minimal.
+Homeworld:  Leikung.
+
+JAKASO:  A crystalline race, typically orange in color, with whom
+communication remains impossible.  The possibility of sentience has
+been determined from growth patterns.  The Jakaso crystals do not
+seem to be related to the Zil.  Homeworld:  Ziarko.
+
+MASUK-SAFOR ("They who Pursue"):  A starfaring race of 1,600 kg.
+marine carnivores (chasers).  The "Masuk" are narrow blue cones
+centered around a jet propulsion system, with a ring of five small
+manipulative arms arranged around the mouth/ramjet intake.  The
+Masuk are practice Buddhism and are devoted members of the 
+Confederation.  They also regard the Dolphins as unworthy
+rivals, and believe that Dolphins should be replaced by the Masuk
+as the new allies for humans in the water.  Homeworld:  Tooma.
+
+MORGENSTERN AIRLORDS:  A race of winged men with black skin and
+weighing an average of 100 kg.  They have small, almost midget
+bodies compared to the enormous leather wings projecting from 
+their backs, and their eyes are much larger than typical.  They
+can fly in dense atmospheres, glide in standard atmospheres, and
+are landbound in thin atmosphere.  Homeworld:  Morgenstern.
+     ST:2d6-3  DX:2d6  EN:2d6+3  IN:2d6  ED:2d6-3  SO:2d6-3
+
+OBOPODEL:  A race of 3,200 kg. marine carnivores (sirens)
+resembling the giant squid of ancient Terra, the Obopodel are
+hostile to all humans and non-spacefaring.  Homeworld:  Winneauer.
+
+RAAQUA:  A race of 6 kg. airborne filters.  They look like 
+jellyfish floating in the sky, and are reknowned as existential
+philosophers and excellent medics.  Homeworld:  Sylva
+  ST:1d2  DX:2d6+3  EN:1d6  IN:2d6  ED:1d6  SO:1d6  
+
+WHAIZ:  25 kg. green insectoid omnivores (gatherers), with a 
+a puffy sponge-like torso that serves as their digestive system,
+picking up seeds after they are flailed from the stalks by 4
+long torso claws. Four short but sturdy legs support the torso.
+The Whaiz are known to be skillful sculptors, pilots, navigators,
+and gunners.  Homeworld:  Kemper.
+     ST:1d6  DX:2d6+2  EN:2d6  IN:2d6  ED:2d6  SO:2D6-3
+
+ZIL:  A crystalline race that communicates by electrical impulses. 
+In effect, they are living computers.  The Zil appear as furry
+yellow crystalline growths, something like sulphur growths.  Each
+individual zil only grows to 1-2 kg., but a large field of the Zil
+is a beautiful sight, a brilliant yellow with message sparks
+passing from one Zil to another each moment.  The Zil trade their
+computing abilities to humans in return for chemicals that help
+them grow.  Homeworld:  Ramanar.
+
+
+               OTHER RACES FOUND IN MAGYAR SECTOR
+
+BOTTLENOSE DOLPHINS (Tursiops truncatus galactus):  Travelling in
+their "t-suits" ("travel suits":  grav-powered environment suits
+with waldos), Dolphins belief in equality of all, and of course
+consider themselves equal to any other race.  Length = up to 3-4
+meters; Mass = up to 220-400 kg.
+     ST:2d6+2  EN:2d6+2  DX:2d6  IN:2d6  ED:2d6  SO:2d6-4
+
+WHITESIDE DOLPHINS (Lagenorhyncus obliquidens galactus):  Length =
+up to 2.1-2.4 meters; Mass = up to 150 kg.  
+     ST:2d6+1  EN:2d6+2  DX:2d6  IN:2d6  ED:2d6  SO:2d6-4
+

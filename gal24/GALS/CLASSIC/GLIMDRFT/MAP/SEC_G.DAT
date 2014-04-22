@@ -1,0 +1,63 @@
+@SUB-SECTOR: sec_g   SECTOR: glimdrft
+#
+#Jump Routes
+$1719 1618 -1 0
+$1811 1810 0 -1
+$1811 1912 0 0
+$1817 1618 -1 0
+$1817 1918 0 0
+$1820 1519 -1 0
+$1820 1922 0 1
+$1912 1913 0 0
+$1912 2112 0 0
+$1913 1914 0 0
+$1914 2114 0 0
+$1918 2118 0 0
+$2112 2211 0 0
+$2113 2114 0 0
+$2117 2316 0 0
+$2117 2118 0 0
+$2118 2219 0 0
+$2315 2413 0 0
+$2315 2316 0 0
+$2316 2416 0 0
+$2413 2513 1 0
+$2416 2516 1 0
+$2416 2417 0 0
+#
+#--------1---------2---------3---------4---------5----------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- --
+Labila        1713 D493578-5    Ni                 400 Gl
+Russell       1715 X000346-8    As                 301 Gl
+Rimma         1717 D110385-7    Ni                 801 Kx
+Linmar        1719 A000300-B    As                 201 Kx
+Sakkara       1811 A2108B6-A    Na                 801 Gl
+Sansabia      1812 C598100-6    Ni                 300 Gl
+Nitsaw        1817 A654400-B    Ni                 701 Kx
+Oelm          1818 DAA5342-A    Ni                 500 Kx
+Estin         1820 B492479-9    Na                 200 Kx
+Gaucho        1912 A220744-A    Na                 201 Gl
+Sao           1913 B210676-A    Na                 801 Gl
+Jeffer-Scott  1914 BA99588-A    Ni                 400 Gl
+Spalding      1916 B232676-9    Na                 701 Na
+Almin         1918 DAA9489-5    Ni                 100 Kx
+Akbar         1919 D000469-A    As                 300 Kx
+Stetson       2014 DAC9437-A    Ni                 400 Gl
+Bourre        2020 X231658-3    Na              A  301 Kx
+Yanika        2112 D210373-6    Ni                 201 Gl
+Charlotte     2113 B100300-A    Ni                 101 Gl
+Dolly Vee     2114 AAB4377-A    Ni                 900 Gl
+Vincennes     2117 A210500-A    Ni                 501 Na
+Lacako        2118 A000476-D    As                 201 Na
+Spider Sea    2211 A758400-A    Ni                 100 Gl
+Williamsburg  2219 B000989-D    As In              801 Na
+Woodruff      2312 EAB2587-A    Ni                 500 Na
+Bolshevik     2315 A000279-B    As                 701 Mn
+Kanata        2316 B347553-9    Ag                 501 Mn
+Cazor         2318 E120100-A    Ni                 101 Mn
+Cloverdale    2413 CAA1400-A    Ni                 501 Mn
+Tschen        2414 EAC1944-A                       900 Mn
+Sussex        2416 B120400-A    Ni                 301 Mn
+Dondo         2417 A688100-C    Ni                 400 Mn
+Doom Master   2419 EAC1576-A    Ni                 501 Na

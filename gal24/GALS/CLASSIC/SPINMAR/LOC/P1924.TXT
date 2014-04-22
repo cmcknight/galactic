@@ -1,0 +1,570 @@
+
+                           WATER FOR THE DESERTS 
+
+                  Michael Koehne (kraehe@bakunin.north.de)
+
+                                       
+     * A0.Intro
+     * A1.Events
+     * A2.Commerce
+     * Characters
+      + C1.Captain
+      + C2.Chief
+      + C3.Steward
+      + P1.Passenger
+      + P2.Passenger
+      + P3.Passenger
+            
+   This scenario was first played at "14te Bremer Spielertage" at 22 Sep
+   96 in Oslebshausen Bremen Germany Terra Sol Solomani Rim.
+   
+   Many thanks to the people on TML especially to :
+     * Timothy Collinson tc@library.solent.ac.uk for translation
+     * Peter L. Berghold peterb@superlink.net for the bounty hunter
+     * Michael.Barry Michael.Barry@finance.ausgovfinance.telememo.au for
+       the Disciplines of the Bright Way.
+     * Boyd Schneider HomeBoyd@msn.com for the Ianic idea (he really
+       wanted to sell water ;-)
+
+       
+  A0.Intro
+  
+                            LUNION SUBSECTOR 1083 
+                                       
+   This scenario is intended for game conventions. It should be played
+   with the predefined characters. It takes place in the Spinward
+   Marches, subsector K - Lunion, not far from the border worlds. Date:
+   1083.
+   
+   The scenario involves three crew and three passengers of the Windfall
+   (a 40 year old, 200 ton Jayhawk far trader). Various encounters and
+   trading opportunites will lead them to Ianic where they may get
+   involved in the first Jonkeereen rebellion. See "The Regency
+   Sourcebook".
+   
+   The scenario can unfold in several different ways as each character
+   has his or her own goals. A lot of groups will not get to Ianic in the
+   4-6 hours of normal convention scenarios but they should at least
+   arrive on Sharrip.
+   
+   Six players are required: 3 for the crew and 3 for the passengers.
+   Establish how old the players are and assign them appropriate
+   characters. Ten minutes will be needed for each of them for the
+   briefing, the character description and the rules.
+   
+   Each PC should choose a name and fill in the right hand side of the
+   character sheet with what they want to take on the trip.
+   
+   The bounty hunter has an Imperial Licence for a laser pistol and, of
+   course, has his own weapon. The captain could have weapons in the
+   ship's locker and should decide what freight is being carried. Inform
+   the captain that taking fertilisers to Ianic will bring 2kCr per
+   displacement ton due to handling. Inform the stowaway passenger to
+   hide as long as she wants.
+   
+   You also need 2 tables, they should stand side by side, one for the
+   passengers and one for the crew. So if a crew member (e.g. the stuard)
+   wants to enter the passenger staterooms she should change the table,
+   and vice versa.
+   
+   Start the scenario with the crew on board, and the passengers
+   arriving. Two scenes give the crew an opportunity to learn about ship
+   combat rules. The first is a fat trader on a collision course. The
+   second is a meteor storm while the referee should fake the wear value
+   role of the thusters. You should make all sensor rolls uncertain to
+   make this interesting.
+   
+   The *main* fight will be at Ianic against a Fast Courier. The Ine
+   Givar psionic will befuddle the sensor crew for two rounds (one hour)
+   to make such a David and Goliath battle possible.
+   
+   At Ianic the players need to arrive on the planet quickly as there is
+   also a Cruiser in the system. The Jonkeereen will hide the Windfall
+   underground so the players can help their revolution. (Double
+   Adventure 6: Night of Conquest can be used for this.) They will also
+   have to refuel at one of the gas giants and certainly have to leave
+   the Imperium.
+
+   
+  A1.Events
+
+
+        Strouden      2327 A745988-D  N Hi In              920 Im
+
+   Strouden in one of the main worlds of the Lunion subsector, and has an
+   excellent starport. Ling Standard Products is building tech level 13
+   warships near the frontier with the border worlds. The fast industrial
+   growth caused an environmental disaster, so the atmosphere is now
+   tainted and life is expensive here.
+
+        Sensors/Average : 1000T freighter - trade - arriving
+        Astrogation/Average : he is on a collision course
+
+   As you leave Strouden, you see a 1000dt freighter crossing your
+   intended course, you have to change course and recalculate jump. If
+   you communicate with them, they won't answer.
+   
+   
+     _________________________________________________________________
+   
+
+
+        Sharrip       2325 C575101-A    Lo Ni              503 Im
+
+        Arival:
+        Sensors/Diffcult : Free Trader - Trade and Transport - to Capton
+
+   You see a 200t ship very far away leaving the system.
+   
+   Sharrip belongs to the Al Morrib Line. Nobody lives on the surface as
+   a deadly virus exists on the planet. The planet has an obital starport
+   with a small crew of 50 people. Four of the crew are happy to be
+   leaving for a vacation on Strouden, the rest start unpacking brand new
+   equipment.
+
+        Departure :
+        Ship.Eng/Easy: The thrusters get hot and need repair
+        Sensors/Easy: One big meteor crossing flightpath
+        Astrogation/Difficult: the metror will be 2 kms away
+        Sensors/Difficult: it's not just one big one - its lots and
+                lots of little ones!
+
+   The referee should manage to fake the wear value roll of the thrusters
+   so the ship can not maneuver. PCs will need to destroy the meteors.
+   You should start your clock running and remember that lasers recycle
+   every three minutes. You should roll 2d6 for the number of small
+   meteors that are *really* on a collision course. Any of them need a
+   difficult sensor roll to lock on to in the first 15 minutes and an
+   average roll in the last 6 minutes. Every meteor has a 10% chance of
+   actually hitting the ship in a random location. (Thus, the situation
+   is not as dangerous as it should seem to the players). Ensure that all
+   sensor rolls are uncertain, e.g. by asking whether it is even or odd
+   and rolling a hidden die. There should be only one sensor attempt per
+   minute, leaving the players with a feeling of uncertainty,
+   helplessness and fear.
+   
+   
+     _________________________________________________________________
+   
+
+
+        Lunion        2124 A995984-D  A Hi In Cp           810 Im
+
+                Arrival :
+        Sensors/Easy :
+               : Free Trader - Trade and Transport - to Lunion
+                 Seeker      - Busines               to Lunion
+                 Scout       -                       orbiting
+                 Patrol Cruiser                      orbiting
+
+   Lunion is the capital of subsector K of the Spinward Marches. Ling
+   Standard is also building warships here. Like Strouden, Lunion has a
+   tainted atmosphere because of an environmental disaster. Two ships are
+   orbiting and two others are arriving. The captain will need to use
+   communications and admin skills to avoid long orbit times.
+   
+   A lot of people on Lunion are talking about the civil war at Ianic,
+   that Ianic has been declared a red zone and that it is forbidden to
+   land there.
+   
+   The (illegal) freight to Ianic is quite normal, but the passengers are
+   not. They are Ine Givar trying to help the Jonkeereen rebellion with
+   their psionic skills.
+   
+   Departure : If they plot a course to Ianic the patrol cruiser will
+   follow, so they have to make a dangerous jump from 10 diameters.
+   
+   
+     _________________________________________________________________
+   
+
+        Ianic         1924 E360697-5    Ni Ri De           924 Im
+
+                Arrival : Fast Courier - Quarantine  orbiting planet
+                          Two fighters - patrol      from AS2 to GG3
+                          Cruiser      - refuelling  orbiting GG3
+
+   Ianic has a normal atmosphere, but no water. Normally the water is
+   shipped by a modular cutter from the asteroid belts. The warships have
+   recently shot these down and are now blocking the planet's downport in
+   the hope that the Jonkeereen capitulate. The cargo bay full of water
+   and fertiliser (which are really nuclear pumped x-ray warheads for
+   planetary defence missiles), would certainly make the war more
+   interesting.
+   
+   If they manage to break the blockade, (one of the Ine Givar will
+   befuddle the sensor crew of the Fast Courier) the PCs will be heroes,
+   but they will have to leave the Imperium.
+   
+   Probably 1822, 1721, 1522 is their best route to the border worlds.
+
+
+  A2.Commerce
+
+        Windfall - Monthly payment calculation
+
+        Credit rate         71 kCr per month
+        Chief  salary        2 kCr per month
+        Steward salary       1 kCr per month
+        Maintenance          5 kCr per month
+        Fuel                 2 kCr per jump
+        Starport fees        1 kCr per jump
+        Life Support (crew)  6 kCr per jump
+                                    ------
+                                    97 kCr per month
+
+        Freight    max  57 kCr per jump (1 kCr per displacement ton)
+        Passengers max  18 kCr per jump (5 kCr per middle passage
+                                        -2 kCr for life support)
+
+                ---------------------------------------------------------
+
+        Strouden      2327 A745988-D  N Hi In              920 Im
+
+        Freight to  Sharrip :   18 t mg Entertainment Equip
+        Freight to  Lunion :    16 t mg Aromatics
+                                11 t mg Clothing
+                                11 t pr Textiles
+                                13 t pr Petrochemicals
+                                13 t in Data Records
+                                15 t nr Raw Hydrocarbons
+                                 2 Passengers
+        Freight to  Ianic :     12 t pr Fertilisers (Fla,Exp)
+
+        Cargo purchase 3
+
+        ---------------------------------------------------------
+
+        Sharrip       2325 C575101-A    Lo Ni              503 Im
+
+        Freight to  Lunion :     4 Passengers
+
+        Cargo sale      7 (from Strouden)
+              purchase  7
+
+        ---------------------------------------------------------
+
+        Lunion        2124 A995984-D  A Hi In Cp           810 Im
+
+        Cargo sale      8 (from Strouden)
+                        7 (from Sharrip)
+        purchase  3
+
+        NB: Ianic is a now a Red Zone world and official
+        freight is not allowed, departures Spinwards are forbidden!
+
+        Freight to  Ianic        5 t Precious Metal
+                                 7 t Alcoholic Beverage
+                                 5 t Biosamples (Fra, Per)
+        Cargo to Ianic          10 t Natural Curiosities
+                                 6 Passengers
+
+        ---------------------------------------------------------
+
+        Ianic         1924 E360697-5    Ni Ri De           924 Im
+
+        Cargo sale      9 (from Lunion)
+                        6 (from Sharrip)
+        purchase 10
+
+
+  C1.Captain
+  
+                             CAPTAIN - MALE 25 
+                                       
+   Two weeks ago you purchased the Windfall. As it is known that a
+   Jayhawk will not operate on the usual 1kCr per displacement ton, you
+   are searching for a good trade route and found Ianic, a
+   non-industrial, rich, desert planet with a population of nearly 9
+   million. Water will fetch a price of 10kCr per ton. So it would be
+   possible to pay for the Windfall (57 dt cargo hold) in just a few
+   months.
+   
+
+        Flight plan :
+
+        Strouden      2327 A745988-D  N Hi In              920 Im
+        Sharrip       2325 C575101-A    Lo Ni              503 Im
+        Lunion        2124 A995984-D  A Hi In Cp           810 Im
+        Ianic         1924 E360697-5    Ni Ri De           924 Im
+
+   To keep your finances in the black, you hare hoping for passengers and
+   have refitted the staterooms and the bridge section.
+   
+   You were lucky with the crew. As a stewardess you hired a medical
+   school graduate. She is young and agreed to a crew salary. The chief
+   is an old hand, took a quick look at the ship and said: "OK, I'll get
+   this beast flying."
+   
+
+        13 A66898-C
+           Hobbies : Acrobatics 2, Archery 2, Piloting IG 2,
+             Streetwise 2
+        17 A76798-C
+           Flight Academy : Piloting IG, Space Vessels 4, Leadership 2,
+             Gun Combat, Spacehands, Spacetech 2, Technican 2, Explore
+        21 A76798-C
+           Wealthy Traveller : Determination, Perception, Economics,
+             Charm, Interaction, Explore, Animal Handling
+        
+        25 A76798-B : Captain
+
+        Str A + Slug Rifle      1 = B
+                Archery         2 = C
+        Agl 7 + Acrobatics      2 = 9
+                Piloting IG     3 = A
+        Con 6 + Env. Suite      1 = 7
+                Riding          1 = 7
+        Int 7 + Streetwise      3 = A
+                Astrogation     1 = 8
+                Sensors         2 = 9
+                Survey          1 = 8
+                Psychology      1 = 8
+        Edu 9 + Ship's Eng.     1 = A
+                Ship's Laser    1 = A
+                Communications  1 = A
+                Computer        1 = A
+                Admin/Legal     1 = A
+        Chr 8 + Leadership      2 = A
+                Liason          2 = A
+                Recruting       1 = 9
+                Persuasion      1 = 9
+
+
+  C2.Chief
+  
+                              CHIEF - MALE 33 
+                                       
+   You have been hired on whilst on Strouden and are happy that the
+   captain only asked about technical things. He seems to be a bit green.
+   The Windfall is not a wreck but it's not far off one. The power plant
+   has a wear value of at least 4 and the thrusters, jump drive and
+   contra-grav are not looking much better. The bridge section and
+   passenger staterooms were refitted recently, but the rest of the 40
+   year old Jayhawk needs a lot of rust chipping.
+   
+
+        13 665676-5
+           Hobbies : Unarmed MA 2, Armed MA 2, Swimming 2,
+              Disguise 2
+        17 775676-5
+           Corsair : Spacehand 1, Gun Combat 2, Technican 2,
+              Space Tech 1, Interaction 1, Vice 1
+        21 775676-4
+           Corsair : Spacehand 1, Melee, Gun Combat 1, Technican 1,
+              Space Tech 1, Interaction 1, Vice 1, Charm 1
+        25 775676-3
+           Corsair : Spacehand 1, Technician 1, Space vessel 1, Charm 1
+        29 775676-2
+           Prisoner: Economics 2, Crime 1, Vice 1, Str +1, Edu +1
+
+        33 874686-3 : Chief
+
+        Str 8 + Unarmed MA    3 = B
+                Armed MA      2 = A
+                Laser Rifle   2 = A
+        Agl 7 + Laser Pistol  1 = 8
+        Con 5 + Swimming      2 = 7
+                Vacc Suit     2 = 7
+                Z-G Env.      1 = 6
+        Int 6 + Sensors       2 = 7
+                Gambling      1 = 7
+                Streetwise    2 = 7
+        Edu 8 + Computer      1 = 9
+                Electronics   1 = 9
+                Machinist     1 = 9
+                Ship's Eng.   1 = 9
+                Ship's Laser  2 = A
+        Chr 6 + Disguise      2 = 8
+                Interrogation 1 = 7
+                Recruiting    2 = 8
+                Bribery       1 = 7
+                Admin/Legal   1 = 7
+                Marketing     1 = 7
+                Instruction   1 = 7
+
+
+  C3.Steward
+  
+                            STEWARD - FEMALE 25 
+                                       
+   Strouden is a nasty planet. Ling Standard is building ships here and
+   caused an environmental disaster. Now 9 million people are suffering
+   as a result. Leaving has been your dream for as long as you can
+   remember. You went to school and have now been hired on as crew on a
+   far trader. The captain is the same age as you but comes from a noble
+   family. You have caught a glimpse of the chief engineer, a man in his
+   mid-thirties who looks very tough.
+   
+
+        14 376858-6
+           Hobbies: Acrobatics 2, Persuasion 2, Music 2, Streetwise 2
+
+        17 386858-6
+           Undergrad : Biology 1, Chemistry 1, Xeno-Biology 1, Computer 1,
+              Admin/Legal 1
+           Hobbies   : Sensors 1/Piloting 0 (Computer game)
+
+        21 386868-6
+           Med.School: Computer 1, Diagnosis 2, Trauma Aid 2, Surgery 2,
+              Observation 1
+           Hobbies   : Piloting 1,Gunnery 0 (Computer game)
+
+        25 386868-6 - Steward der Windfall
+
+           Str 3 +
+           Agl 8 + Acrobatics   2 = A
+                   Music        2 = A
+                   Piloting     1 = 9
+           Con 6 +
+           Int 8 + Observation  1 = 9
+                   Streetwise   2 = A
+                   Sensors      1 = 9
+           Edu 6 + Biology      1 = 7
+                   Chemistry    1 = 7
+                   Xeno Bio     1 = 7
+                   Computer     2 = 8
+                   Admin/Legal  1 = 7
+                   Medical DTS  2 = 8
+                   Gunnery      0 = 6
+           Chr 8 + Persuasion   2 = A
+
+
+  P1.Passenger
+  
+                            PASSENGER - MALE 33 
+                                       
+   Anyway, things being what they were there wasn't much work for a
+   ex-Marine Colonel who had seen lots of action to do.
+   
+   You visited the office of a local bank and did some discreet
+   inquiries. Yes, they said, they paid 0.75% of the principal on the
+   loan for ships recovered. Yes, we keep lists of skipped ships with
+   holographs of their skippers... Oh.. but you need to have a private
+   investigator's license.
+   
+   Of course you had one, so now you've got the list of skipped ships.
+   You've heard rumours that a well known pirate has recently hired on
+   the Windfall, a 40 year old Jayhawk, and you think this would be worth
+   investigating. It would be interesting to compare the serial numbers
+   of some of the more expensive items such as the power plant, jump
+   drive, thrusters, contra-grav, computers and weapons.
+   
+
+        13 895566-8
+           Hobbies : Music 2, Piloting IG 2, Streetwise 2,
+              Computer 2
+        17 895566-8
+           Mil.Academy : Determination, Engineer, Interaction, Social
+              Science, Space Tech, Techican 2, Gun Combat 2, Sword,
+              Melee, Spacehand, Heavy Weapon, Acrobat, Personal Transport
+        21 895576-8
+           Marines : Gun Combat, Spacehand, Heavy Weapons, Tactics,
+              Determination, Charm, Personal Transport
+        25 895576-9
+           Marines : Spacehand, Tactics, Heavy Weapons, Personal Transport
+        29 895576-A
+           Bounty Hunter : Gun Combat, Melee, Determination 2,
+              Perception 2, Spacehand
+
+        33 885566-A - Bounty Hunter
+
+        Str 8 + Laser Rifle       1 = 9
+                Sword             2 = A
+                Unarmed MA        1 = 9
+                Energy Artillery  3 = B
+        Agl 8 + Piloting IG       2 = A
+                Laser Pistol      3 = B
+                Stealth           1 = 9
+                Grav Belt         2 = A
+        Con 5 + Env. Suite        2 = 7
+                Z-G Environment   2 = 7
+                Parachute         1 = 6
+        Int 5 + Streetwise        3 = 8
+                History           1 = 6
+                Tactics           2 = 7
+                Investigation     1 = 6
+                Observation       1 = 6
+        Edu 7 + Computer          2 = 9
+                Construction      1 = 8
+                RCV Operation     1 = 8
+                Electronics       1 = 8
+                Communications    1 = 8
+        Chr 6 + Music             2 = 8
+                Leadership        3 = 9
+                Solomani          1 = 7
+                Persuasion        1 = 7
+
+
+  P2.Passenger
+  
+                            PASSENGER - MALE 17 
+                                       
+   The *Disciples of the Bright Way* are a sect that believe their deity
+   exists in jumpspace, and communicates directly with people while they
+   are in jump. They call the sight of J-space *The Face of the Deity*
+   and have a secret combination of drugs and meditation practices that
+   reduce (but not eliminate!) the insanity impact of viewing J-space.
+   
+   They are generally not dangerous, but their disturbing practice of
+   shooting up drugs and staring out of an open porthole into J-space
+   during the week of a jump means that most captains will refuse to
+   allow them on board under *any* circumstances.
+   
+   However, the Disciples will pay an *obscene* amount of money for
+   passage on a ship, and since they don't care about bodily comforts
+   they are quite happy to bunk two to a stateroom under middle passage
+   conditions, and pay up to Cr25,000 each for their 'pilgrimage'.
+   
+   You are a noble count so you don't need to worry about money. You
+   haven't asked the captain yet to be allowed a place in front of the
+   porthole in the air lock.
+   
+
+        13 837496-E
+           Hobbies : History 2, Env.Suite 2, Unarmed MA 2, Astrogation 2
+
+        17 837496-E
+           Str 8 + Unarmed MA  2 = A
+           Agl 3
+           Con 7 + Env. Suite  2 = 9
+           Int 4
+           Edu 9 + Astrogation 2 = B
+                 + History     2 = B
+
+
+  P3.Passenger
+  
+                       STOWAWAY PASSENGER - FEMALE 17 
+                                       
+   You have run away from home, ended up at the downport and hidden
+   inside a container going to Lunion. You have heard that the ship will
+   go to Ianic - a desert planet populated by Jonkeereen.
+   
+   " Deneb 1324 Jonkeer : The inhabitants of the world, the Jonkeereen
+   are geneered humans, created by Imperial Ministery of Colonization of
+   Desert Environments.
+   
+   Jonkeereen are tall, thin and dark skinned, with protective membrans
+   shielding thier eyes and ears. More important than these cosmetic
+   differences are sophisticated changes to their metabolism that allow
+   them to survive in the temperature extremes of the dry desert
+   environment.
+   
+   Jonkeer's live at Spinwards 2215, 1924, 3123, 0533, 1736, 1836, Deneb
+   0701, 2717, 1524, and 1433. "
+   
+
+        13 6B4468-A
+           Hobbies : Act/Bluff 2, Piloting Glider 2, Grav Belt 2
+             Xeno-Biology 2
+
+        17 6B4458-A
+
+           Str 6 +
+           Agl B + Piloting Glider 2 = D
+                   Grav Belt       2 = D
+           Con 4
+           Int 4
+           Edu 6 + Xeno Biology    2 = 8
+           Chr 8 + Act/Bluff       2 = A

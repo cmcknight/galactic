@@ -1,0 +1,47 @@
+@SUB-SECTOR: sec_G   SECTOR: massilia
+#
+# Trade routes within the subsector
+$2013 1910 0 -1
+$2013 1613 -1 0
+$2013 2116 0 0
+$2116 2118 0 0
+$2118 1719 0 0
+$1719 1419 -1 0
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Hasaggan      1711 B735978-E    Hi                 923 Ma
+Wander        1713 B10057B-F    Ni Va              712 Ma
+Narrad        1717 B321040-B    Ni Po Lo           603 Ma
+Forquee       1719 B464AAE-E    Hi Cp           A  903 Ma
+Alla'mar      1813 B243455-C  N Ni Po              500 Ma
+Arlur         1814 C665A9B-C    Hi                 114 Ma
+P'ley         1818 B110899-C    Na                 601 Ma
+Wiscott       1820 B100866-C  N Va Na              423 Li
+Deeber        1915 C110763-A    Na                 204 Ma
+Stenbon       1916 C6A0147-9    Ni De Lo           325 Ma
+North         1917 C410433-A  S C0 Ni              421 Ma
+Cinthy        1918 B747423-B    Ni                 101 Ma
+Niswander     2013 A341555-E    Ni Po              204 Ma
+Liaw          2017 B568664-9  N Ni Ri Ag           925 Ma
+Oliphant      2018 C110541-B    Ni                 324 Ma
+Charted       2019 B585020-A    Ni Lo              401 Ma
+Olden         2116 A625132-E    Ni Lo              505 Ma
+Pintar        2118 A426589-E    Ni                 214 Ma
+Epmeyer       2119 C110516-C    Ni                 703 Ma
+Veny          2211 B344767-B    Ag              A  810 Ma
+Pirnie        2212 C576842-7                       913 Ma
+Meroi         2213 B588332-C    Ni Lo              214 Ma
+Nogmolen      2216 C110545-D    Ni                 304 Ma
+Lutnikpo      2217 C446100-B    Ni Lo              822 Ma
+Anbock        2220 C856887-9                       323 Ma
+Udipeni       2316 B687ACA-E    Hi                 103 Ma
+Pirrong       2317 B300301-D    Ni Va Lo           713 Ma
+Villia        2318 E100535-9    Ni Va              904 Ma
+Gowandon      2319 B76A99A-F    Hi Wa              814 Ma
+Kerak         2411 B100576-D  S Ni Va              604 Ma
+Rode          2414 B755220-C    Ni Lo              403 Ma
+Modawutt      2417 EAA7249-7    Ni Fl Lo           410 Ma
+Rechon        2418 B10079B-E    Va Na              922 Ma
+Telfre        2420 B453202-C    Ni Po Lo           401 Ma

@@ -1,0 +1,55 @@
+@SUB-SECTOR: sec_P   SECTOR: reft
+#
+# Trade routes within the subsector
+$3132 3030 0 -1
+$2540 2337 -1 0
+$2540 2202 -1 1
+$3237 0136 1 0
+$2932 3134 0 0
+$3134 3135 0 0
+$3135 3237 0 0
+$3237 2837 0 0
+$2837 2638 0 0
+$2638 2636 0 0
+$2638 2540 0 0
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Quiver        2534 B310405-D    Ni                 404 Fi
+Argus         2536 C755A96-8  S Hi                 403 Fi
+Boneyard      2537 B220310-A  N Lo Ni Po De        914 Fi
+Delinski      2538 B45367A-8    Ni Po              914 Fi
+Valentorn     2539 D556512-4    Ag Ni              900 Fi
+Halibun       2540 B565777-7    Ag Ri              514 Fi
+Stock Point 3 2636 A336010-F    Lo Ni              500 Fi
+Grecorn       2638 B7A858C-D    Ni Fl              700 Fi
+Filentred     2731 B548534-8  S Ag Ni              504 Na
+G'haenbaz     2733 C557558-A    Ag Ni              100 Fi
+Bouvrier      2737 E230668-8    Na Ni Po De        210 Fi
+Cyril         2738 A7A69B9-F  N Hi Fl Cx           522 Fi
+Chateau       2739 E450200-5    Lo Ni Po De        714 Fi
+Dead End      2740 C576010-5    Lo Ni              902 Fi
+Debica        2832 D645688-7    Ag Ni Rs           600 Fi
+Gundamoor     2833 B311637-D    Na Ni Ic           324 Fi
+Bokilbom      2834 B573552-D    Ni                 804 Fi
+Angsturm      2837 A545788-B    Ag                 314 Fi
+Vlad          2838 A554844-D  N                    804 Fi
+Vleeck        2931 C762475-6    Ni                 404 Li
+Pamraeltan    2932 A537651-E  N Ni                 703 Fi
+P'hakar       2934 C220456-B  S Ni Po De           923 Fi
+Harmony       2935 E6538AF-4    Po                 633 Fi
+Numeron       2939 B432769-9    Li Po              313 Fi
+Mynez         3035 E627989-A    Hi In              904 Fi
+Seville       3036 B657445-7    Ni                 404 Fi
+Dagu          3037 B100362-C    Lo Ni Va           504 Fi
+Transit       3038 B987030-8    Lo Ni              520 Fi
+Elphintrax    3040 C374476-7    C4 Ni           A  413 Fi
+Alexander     3132 B32369A-B    Li Ni Po           404 Li
+Breezy        3133 B100544-C    Ni Va              704 Li
+Dlaekan       3134 A383657-D    Ni Ri              202 Fi
+Good Home     3135 B745789-9  N Ag                 303 Fi
+Alverik       3136 A150698-A    Ni Po De        A  800 Fi
+Unseren       3140 B452549-9  S Ni Po              803 Fi
+Roger         3231 B424200-B    Lo Ni              300 Fi
+Jeandrent     3237 BA7A666-8  N Ni Wa              613 Fi

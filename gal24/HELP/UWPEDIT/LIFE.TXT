@@ -1,0 +1,36 @@
+
+   Life Stat Explained
+   -------------------
+   0: Sterile: No indigenous life. Atmosphere is not breathable
+         without substantial eco-engineering.
+   1: Proto-cellular: Indigenous life consisted of amino acids
+         and/or various primitive replicators. These may have
+         been wiped out by transplanted organisms.
+   2: Single-cellular: Transplants would have taken over.
+   3: Multi-cellular: Transplants would have taken over.
+   4: Complex microscopic: Lots of colorful ooze. Transplants
+         would have taken over for the most part, however, there
+         might be some indigenous bacteria still competing.
+   5: Macroscopic: Mainly small indigenous sea-life which would
+         be competing along side whatever transplants are
+         present.
+   6: Primitive ecosystem: Oceans are teaming with indigenous
+         organisms, but land-based life is just carving out its
+         niche. Transplants may have halted the advance of
+         indigenous life, assuming the two are bio-compatible.
+   7: Teaming ecosystem: Water/Land/Air-based herbivores and
+         predators. Transplants would have a hard time competing
+         in such an advanced ecosystem. Bio-compatibility would
+         be an important issue.
+   8: Proto-sentient: Tool-fabrication, mastery of fire.
+   9: Sentient: Agriculture, language, symbology.
+   A: Non-spacefaring: Planet may be a biological protectorate
+         (ala the Prime Directive).
+   B: Early Spacefaring: Indigenous race may have been given
+         technology or may even have been genetically uplifted.
+   C: Cataclysm: Result of either war, plague, or minor
+          environmental mismanagement. Survivors are in a state
+          of slow recovery.
+   D: Green Hell: Result of major environmental mismanagement.
+          World is transformed into a greenhouse.
+

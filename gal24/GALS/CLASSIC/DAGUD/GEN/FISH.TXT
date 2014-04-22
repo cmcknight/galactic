@@ -1,0 +1,286 @@
+
+Gone Fishin'
+------------
+
+It had been a bad week for the crew of the Andrea Fionna. War was
+proving bad for trade. What cargoes that were available left
+little margin for profit. Money was getting tight. The navigator
+had put out the word on the dataNet that the ship was available
+for charter, anything considered. Now they waited. The Tetrachyal
+Inn was a spacer's bar, a good place to hang out and listen for
+information. As they sat in their booth a tall dark-haired man
+approached. "I hear you are looking for 'employment'. I have a
+job for you. I want you to capture a fish. A dying Zhoam. I will
+pay Cr.25,000 for one in the right condition."
+
+The Job:
+
+The stranger wants the team to capture either a freshly dead
+Zhoam from Immortality Bay or one just about to die of natural
+causes so they can extract the growth hormone and try to
+artificially replicate it. The Zhoam is to be smuggled into orbit
+where it will be transferred to another ship for transport out of
+the system.
+
+To deduce further information about the patron: [Difficult, Int,
+Edu, Streetwise (uncertain)]. Referee: Roll one task for each
+observation. If a Scanian character is being used this task
+becomes Routine. If the result of of the uncertain task is -
+untruth: then totally misdirect the observations. Some truth:
+point out the basic facts but misguide them. Total truth: supply
+the following information.
+
+1) The patron is wearing a torc under his collar. Siian's wear
+torc's as a reminder of their ancestor's slavery at the hands of
+the Aakhrian Empire. Unlike the Argian torc, Siian torc's are
+made from plastisteel and are without decoration.
+
+2) He is extremely nervous. He had already approached several
+other captain's today (including a couple in the inn) with his
+proposition, and as a result it is only a matter of days before
+he is captured. Because of this he will be willing to pay up to
+Cr.50,000 if an appropriate fish can be delivered within 2 days.
+
+RUMOURS
+
+To obtain covert information
+
+Routine, streetwise, Int, 15 min (uncertain, unskilled OK)
+Referee: Some truth at this task either indicates the
+contacts reluctance to talk to a stranger, or the contact
+gives deliberately misleading information. On a mishap may
+indicate the person is either a Gatekeeper informant or will
+report the questions to the local police.
+
+Roll 1d and read them the results of the following table;
+
+1. A Vilani captain is being sentenced tomorrow for attempting to
+take a Zhoam from Immortality Bay. True; attending his court case
+will reveal that he used plastisteel drag nets but got caught by
+the Protectorate whereupon he tried to bribe them. He is charged
+with breaking the conservation laws and bribery.
+
+2. Your patron is working for the Protectorate. False; He is
+currently being followed by the Protectorate because he has been
+indiscrete with his offers. Further probing will reveal that this
+rumour is based on the fact that known Protectorate official's
+have been seen tailing him on several occasions. Another official
+is now following the characters. At some point in the adventure
+the characters will need to confront this character or lose him.
+Should they disappear suspictiously he will issue a 'stop and
+detain' order. After two days if there has been no suspictious
+activity he will stop following them.
+
+3. Only Zhoam yearlings are supposed to be caught but rumour has
+it that the Government is secretly culling Zhoam from Immortality
+Bay. True; but only a limited number are taken each year and each
+fish must be accounted for. Talking to the guards at Immortality
+Bay (this is a well-known secret) will reveal their method of
+using two fast hydrofoils with a plastisteel net dragged between
+them to capture Zhoam. The players could decide to try and steal
+a Zhoam from Protectorate laboritories at Vedo'kr. The security
+etc. is left up to the referee to detail.
+
+4. Zhoam can be passified by spraying chlorine into the water.
+False; Chlorine irritates their eyes and induces a killing fury.
+Chlorine is used not to passify but to identify a naturally dying
+Zhoam. These excrete minor amounts of the enzyme into the water
+which reacts with the chlorine turning it purple.
+
+5. Protectorate have been using disguised sub's to get in close
+to Zhoam schools without inciting them. True; The smooth shape of
+the sub's are disguised with modelling foam and the engine
+quietened by fitting a larger propeller and a de-regulator to the
+engine to randomise the engine pattern.
+
+6. Due to the recent treaty only Dulinor's fleet are on system
+protection duty. They are bribable. True; Scanian law is limited
+to the surface of the planet and their moons. If the characters
+can take off with the Zhoam then even if they are intercepted it
+will be by Dulinor's men who are only interested in offences that
+affect fleet or system security.
+
+
+Zhoam Fish:
+
+Normal statistics:
+
+Eater, usually found in schools of 13, swimmer, 800 kg,
+Hit Pts 2D/1D+3, Armour - Back; Battle -1, Underbelly; Jack,
+Teeth, horns (treat as spear) & fins (treat as club), a Zhoam can
+perform two attacks per combat turn - A8 F2 S3.
+
+Dying Zhoam:
+
+Eater, solitary, swimmer, 750 kg, 2D/1D-3, Battle +1,
+Jack -1, Teeth, horns & fins, A9 F0 S2.
+
+
+Immortality Bay:
+
+The bay is in reality the centre of an extinct volcano. The
+Northern cliff-face collapsed in several millenia ago. The
+surrounding sides protect the bay against the elements. The beach
+is composed of black volcanic ash and the decayed fragments of
+Zhoam bones. Tourists can visit the Bay but are restricted to the
+top of the volcanic walls where they can use coin-operated
+telescopes to observe the Zhoam. No-one (excecpt Protectorate) is
+allowed down to the beach itself. The site is only open to the
+public during the daytime hours and the bay is patrolled by two
+guards. During the day at least 6D of tourists will be present
+and any attempt to climb down will result in the Protectorate
+being informed. The bay is patrolled by 1D hydrofoils armed with
+lasers and radio-linked back to base. Each boat holds 4 Scanian
+official's each armed with laser pistol's. Aquan's avoid the area
+due to the danger of attack by dying Zhoam. At night the guard
+doubles.
+
+Note:  All guards and NPC's should be generated according to the
+quick NPC guide on P. 43 of the Referee's Manual.
+
+There are two possibilities for capturing a fish, catching it at
+sea or steal a freshly dead specimen from the beach. In order to
+ensure a dying specimen from the water the PC's will need to head
+into the Bay where you risk an increased chance of being spotted.
+In addition, healthy Zhoam schools may attack. Its assumed that
+all attempts will be made at night. Any attempts made in daylight
+will be automatically spotted within 30 mins and Protectorate
+sent to investigate. On the beach the PC's must avoid dying Zhoam
+and find a newly dead fish.
+
+Note: at any one time there will be 2D dying Zhoam on the beach
+at Immortality Bay and a further 1D in the water.
+
+Zhoam can take several hours to die out of water. They seem to
+enter a type of suspended animation and only waken out of it when
+its intruded upon. Beached Zhoam are just as dangerous as those
+in the water.
+
+To identify death in a Zhoam [Difficult, Medical,Biology,
+Hunting, Int, 1 min (uncertain, fateful)]. Referee: If the result
+of the uncertain task is - No Truth: The characters are in combat
+with the Zhoam. Some Truth: The players must roll their Dex or
+higher on 2D to escape or they will be in combat. Total Truth:
+The Zhoam is dead.
+
+To determine enzyme level of the dead Zhoam: [Difficult, Biology,
+Chemistry, Edu, 5 min]. Referee: The character must have access
+to the proper equipment to perform this task successfully. This
+task will determine whether the Zhoam has excreted its enzyme
+yet.
+
+The characters must decide on a method for transporting the
+Zhoam away from the beach without being interrupted by the
+guards and Conservation Protectorate boats..
+
+If the characters decide to try and intercept a Zhoam on the
+way to Immortality Bay.
+
+To identify a dying Zhoam in open water (more than 25km from
+the Bay): [Impossible, Hunting, Int, 3 hours (uncertain,
+hazardous)]. Referee: If the result of the uncertain task is - No
+Truth: the characters boat will be actively attacked by a full
+school of adult Zhoam. Some Truth: the characters have found a
+solitary male but it will turn out to be scouting rather than
+dying and therefore useless. This will only be discovered after
+analysis of the carcass. Full Truth: The characters have
+discovered a Zhoam heading for Immortality Bay. Again this will
+only be revealed after analysis.
+
+To identify a dying Zhoam within 25km of Immortality Bay:
+[Difficult, Hunting, Int, 10 min (uncertain, hazardous)].
+Referee: See task above.
+
+Methods of catching:
+
+Weapons: Akiva has an extremely high law level and attempting to
+buy or smuggle heavy enough weaponry to perform the job will
+result in almost immediate arrest. Even if they escape they will
+be wanted characters.
+
+Explosives: While its possible to buy explosives the noise it
+makes will arouse Protectorate boats and the Zhoam will be
+totally destroyed.
+
+Speargun: The chances of penetrating a Zhoam's armour are
+extremely low, that coupled with the fact that they then have to
+try and land a furious Zhoam bent on revenge for the pain its
+just suffered should rule out this method.
+
+Net: Providing the net is made of a strong compound which has a
+minimum of 1000 kg breaking strain and is hard to cut then they
+should be able eventually to catch a Zhoam. Winches will be
+needed to lift the Zhoam onboard. How the characters passify such
+a creature is left up to them to decide.
+
+To land it To land a Zhoam by net: [Difficult, Hunting, Str, 1
+min (uncertain,hazardous,unskilled OK)]. Referee: This task
+assumes that the characters are using a net that is strong enough
+and cannot be cut by the Zhoam's horn. If the net being used does
+not satisfy these criteria increase the task to impossible. This
+task must be rolled at least twice.. Once to snare the fish and
+again to land it. If the result of the uncertain task is - No
+Truth: The fish has escaped from the net. Some Truth: The fish is
+partially snared but can still trash out at the characters and
+boat causing full damage. Total Truth: The fish is snared and
+totally entrapped. If the fish manages to avoid capture for three
+successive attempts then it will be considered to have escaped.
+
+To by-pass Scanian Protectorate boats: [Difficulty, Off=Sensor
+Op's,Def=range, 3 min (confrontation)]. Referee: Use the most
+favourable sensor scan difficulty level from among the unit's
+UCP. Use the range from the sensing unit to the target unit as a
+negative DM. Optionally the character may use his Computer skill
+in place of sensor op's. Evaluate the results of this task as -
+Extreme failure: The scan failed and the characters are totally
+unaware of the Protectorate boat's location. Failure: An unknown
+target identified but unable to pinpoint location. Success:
+Target and direction identified but range not known. Extreme
+success: Target's identity and exact location pinpointed.
+
+To evaluate a Scanian Official's susceptability to bribery:
+[Simple, Bribery, Soc (Confrontation, uncertain, hazardous)].
+Referee: Scanian's will always refuse bribes and will take
+any attempt to bribe them as an insult. If the characters
+fail this task let them attempt to bribe the official.
+
+To successfully lie to a Scanian: [Formidable, liaison, skill
+(confrontation, uncertain)]. Referee: The unnamed skill is some
+skill appropriate to to the lie (Admin, Trader, etc.) If the
+Scanian is an adept the task becomes impossible. Familiar aliens
+such as vargr or aslan treat at a lower difficulty level. Totally
+inhuman or lesser known aliens treat as a simple task. If the
+result of the uncertain task is - No Truth: The Scanian will
+confront the character with his lie. Some Truth: The Scanian is
+uncertain and will ask more questions (re-roll task) to confirm
+his suspictions. Total Truth: The Scanian is completely fooled as
+long as the players don't do anything suspictious.
+
+Once the fish is captured it must be smuggled onboard their ship
+and hidden until they are out of the system.
+
+Cargoes available to ship out of system include: Radio-actives
+Cubed fish paste in kilolitre containers Wood various chemicals
+in sealed containers live fish in a massive cold storage
+facility.
+
+It is left to the characters and referee to decide on the method
+of getting the Zhoam onboard and passed customs. It should be
+noted that the customs are extremely efficient. Attempts to
+take-off and land outside of a port will be treated extremely
+suspictiously and a team of marines and customs officers
+(including an engineer) will be dispatched to any ship in minutes
+of landing. Once in space the charcters need only dial a local
+communet number for the Siian to arrange an interception within
+an hour for the cargo to be transported.
+
+It should be noted that unless the Zhoam was dead when they found
+it or a minimum of 1d hours has elapsed since the characters
+caught it then the Zhoam will still be alive and trashing. It is
+up to the characters to detail how they will kill or restrain it.
+
+Final note: The Sii will be unable to synthesise the enzyme and
+will ask the PC's to supply them with a regular supply of dying
+fish at Cr.30,000 per carcass. It's up to the players whether
+they accept this offer... the crew of the Andrea Fionna didn't.
+

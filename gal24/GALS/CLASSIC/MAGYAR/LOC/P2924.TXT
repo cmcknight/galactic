@@ -1,0 +1,41 @@
+Leikung     C798555-B       Ag Ni Rs               -- Dakin Burdick (9/96)
+
+Leikung is blessed with rich and beautiful floral life, making it the
+showplace of the subsector.  It is also home to the Grayhost, a colony
+of microscopic organisms who unite into a single sentient entity.
+The Grayhost are found on the sea coasts of Leikung, and spend part
+of their life in the water as well as out of it.  The Grayhost range
+in size from youthful 50 kg. piles to ancient sagging piles of 400 kg.
+or more.  The younger Grayhosts are generally found out of the water;
+the larger and older ones are found in the sea.  The Grayhosts have no
+weapons to speak of, but can devour or suffocate creatures they envelop.
+Treat this attack as 1d6 of damage per round once they envelop, or up
+to 2d6 per round for the largest Grayhosts (400 kg. and up).  Stats for
+the Grayhosts are based on the size of the colony.  For every 50 kg.
+in the colony, the Grayhost gets the following characteristic points:
+
+  ST:2  DX:3  EN:1  IN:3  ED:1  SO:0
+
+The Grayhost were already a spacefaring race by the time the humans
+arrived in this subsector.  They used a peculiar plant known as the
+Firecracker to the colonists to achieve orbit, and even to travel to
+other systems.  The Firecracker actually grows a form of rocket fuel
+naturally in its root system.  Above ground, the plant is hard as
+iron and appears as a rounded cone from 2-4 meters when fully grown.
+The Grayhost has some means of entering the hollow bole in the center
+of the cone that has not yet been ascertained, bringing forth a local
+theory that the Grayhost actually biologically engineered the Firecracker
+plant for this specific use.  When mature, the root ignites and explodes,
+propelling most of the Firecracker heads into space.  Once in vacuum, the 
+Grayhost go into a state of frozen hibernation that allows them to survive 
+the long travel through space.
+
+Human communication with the Grayhost has so far been minimal, but early
+human efforts to destroy the dangerous Firecracker plant resulted in a
+brief war during which the planet tetered on the brink of ecological 
+collapse.  A form of truce was reached, but there remains little contact
+between the races.  The only thing known for certain about the culture of
+the Grayhost is that they enjoy manufactured glass items, and have been
+known to gather old Coke bottles or lost diamond rings and ensconce them
+near their home in small underwater caves.
+

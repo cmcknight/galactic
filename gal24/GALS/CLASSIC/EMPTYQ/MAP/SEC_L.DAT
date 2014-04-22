@@ -1,0 +1,12 @@
+@SUB-SECTOR: sec_L   SECTOR: emptyq
+#
+# Trade routes within the subsector
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Qonos         2523 A246232-C    Lo Ni              120 Na
+Amakusa Shoto 2528 D45A667-1    Ni Po Wa O:2529    623 Na
+Udaka         2529 BA9A530-A    Ni Wa              411 Na
+B Niobe Neb.  2825 *4 Gaseous Nebula from Nova         Na     f
+Keirsey       3224 B564011-8    Lo Ni           A  100 Na

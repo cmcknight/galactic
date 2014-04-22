@@ -1,0 +1,50 @@
+@SUB-SECTOR: Gythios SECTOR: Gythios Sector
+#
+# Jump-routes
+$0121 0220 0 -1
+$0123 0220 0 -1
+$0323 0220 0 -1
+$0723 0720 0 -1
+$0428 0528 0 0
+$0528 0728 0 0
+$0723 0726 0 0
+$0723 0822 0 0
+$0726 0728 0 0
+$0726 0926 1 0
+$0728 1028 1 0
+$0428 0332 0 1
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Coledac       0121 A464ABC-C    Hi                 204 Im 06L
+Ragnor        0122 E746324-6    Lo                 303 Im 160
+Bette         0123 B8977A9-7  N Ag                 900 Im 184
+Clarendon     0127 D334343-8    Lo                 704 Im 430
+Geatan        0128 C536578-8                       704 Im 47F
+Micheil       0221 X000000-0    As Ba Lo           004 Im 020
+Zandinell     0222 X332000-0    Ba Lo              022 Im 120
+Tomasvatch    0224 X000000-0    As Ba Lo           014 Im 010
+Aeccesstane   0230 X210000-0    Ba Lo              023 Im 000
+Gallowglas    0322 X200000-0    Ba Lo Va           001 Im 010
+Baggins       0323 B462885-A                       604 Im 140
+Harken        0326 X500000-0    Ba Lo Va           012 Im 040
+Berek         0422 X221000-0    Ba Lo              023 Im 310
+Marchita      0423 E9A4142-7    Fl Lo              904 Im 0A0
+Morgan        0428 B8A0444-C  S De                 100 Im 080
+Meistersinger 0522 E795577-7    Ag                 903 Im 651
+Taran         0523 X000000-0    As Ba Lo           003 Im 010
+Tana          0527 X63A000-0    Ba Lo Wa           023 Im 480
+Gythios       0528 A341479-A                       100 Im 600
+Roxine        0530 D426226-7    Lo                 803 Im 180
+Essen         0623 X340000-0    Ba De Lo           004 Im 040
+Bardawulf     0723 A96AABC-F    Hi Wa              800 Im 95J
+Swalow        0724 X100000-0    Ba Lo Va           004 Im 000
+Bowditch      0725 X674000-0    Ba Lo              000 Im 2A0
+Incadincadoo  0726 A422788-A                       804 Im 47L
+Burgundy      0728 A528645-C                       711 Im 97P
+Caomhiun      0730 D455753-6  S Ag                 624 Im 281
+Fegter        0822 A8479A8-A    Hi                 900 Im 76O
+Pelor         0826 X778000-0    Ba Lo              004 Im 680
+Yicered       0827 X320000-0    Ba De Lo           004 Im 040
+Rocco         0828 X350011-2    De Lo              111 Im 000

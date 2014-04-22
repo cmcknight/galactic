@@ -1,0 +1,47 @@
+@SUB-SECTOR: sec_A   SECTOR: ealiyasi
+#
+# Trade routes within the subsector
+$0104 0106 0 0
+$0106 0307 0 0
+$0307 0405 0 0
+$0405 0404 0 0
+$0405 0805 0 0
+$0805 0905 1 0
+$0805 0807 0 0
+$0807 0909 1 0
+$0608 0907 1 0
+$0708 0909 1 0
+$0307 0311 0 1
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Oirlkho       0101 B5735HA-B    Ni                 310 As
+Aisaukh       0103 X2344KA-9    Ni                 514 As
+Ftearya       0104 B8675J7-9    Ag Ni              924 As
+Yaiy'aho      0106 B2000L6-A    Va                 504 A8
+Eayuya        0107 C4750G7-8                       924 As
+Uirloikha     0201 C4784L8-B    Ni                 125 A6
+Tluakheaiy    0206 C5785K6-9    Ag Ni              913 As
+Oalrelyerl    0209 C7674M7-8    Ni                 204 As
+Eauioiwai     0210 D4637H9-9    Ri                 923 As
+Oilrakhesaoh  0305 C1104M5-C    Ni                 414 As
+Yohiyalyo     0307 B8B14K7-A    Fl Ni              404 As
+Aweakhei      0309 A7A50G7-C  R Fl                 802 A9
+Yohiyalyo     0401 C1105L5-A    Ni                 904 A3
+Kiryewola     0404 B4424K9-9    Ni Po              710 As
+Yofteihya     0405 B3107N9-E    Na                 900 As
+Yulyuaihyaoi  0410 C5311K7-A    Lo Ni Po           200 As
+Fiykhaseal    0603 X6924L8-5    Ni                 112 A5
+Arlyasoi      0605 B87A3N9-D    Lo Ni Wa           900 As
+Eaesyoalea    0607 D8A85NA-8    Fl Ni              604 As
+Tyalhkehkaiiyw0608 B4615K9-E    Ni                 602 As
+Arsalreal     0702 C9B02G7-B    De Lo Ni           202 As
+Tleiuiyah     0704 C6654H8-B    Ni                 604 As
+Oiahalha      0706 C9C80G7-A    Fl                 204 As
+Hoahtei       0707 E4446N3-7    Ag Ni              203 As
+Eira          0708 B99A3M5-A    Lo Ni Wa           704 As
+Asoiiyshkaul  0709 C6761J7-9    Lo Ni              904 As
+Aiyar         0803 E7595L5-8    Ni                 503 A7
+Yaeioh        0805 B6587N8-E    Ag                 400 As
+Akhwyahloarl  0807 A6648MA-E    Ri                 603 As

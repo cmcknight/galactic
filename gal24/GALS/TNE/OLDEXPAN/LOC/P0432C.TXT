@@ -1,0 +1,131 @@
+  
+PERSONEL
+
+     Maria "Rocky" McKenzie
+
+     UPP: 5768B5-8
+     Homeworld: Aubaine
+     Init: 2
+     Age: 35 (4 terms: Univ.; Belter R3; Scientist O2)
+
+     Skills:
+
+          Admin/Legal 1/12
+          Astrogation 2/13
+          Biology 1/12
+          Carousing 2/7
+          Chemistry 1/12
+          Climbing 3/9
+          Communications 1/12
+          Computer 2/13
+          Construction 1/12
+          Electronics 2/13
+          Excavation 7/18
+          Farming 1/9
+          Gambling 2/10
+          Geology 9/20
+          Gravitics 1/12
+          Ground Vehicle (Wheeled Vehicle) 2/9
+          Guard/Hunting Beasts 5/11
+          Gunnery (Missiles) 2/13
+          History 7/18
+          Hostile Environment (Zero-G Environment) 4/10
+          Instruction 3/8
+          Languages (Linguistics 5/10)
+          Leadership 4/9
+          Luck 4/12
+          Machinist 1/8
+          Map 1/12
+          Mechanic 3/8
+          Medical (Trauma Aid) 1/12
+          Navigation 1/9
+          Observation 2/10
+          Persuasion 1/6
+          Physics 1/12
+          Pilot (Grav) 2/9
+          Pilot (Interface) 3/10
+          RCV Operations 1/12
+          Recruiting 1/6
+          Research 4/12
+          Robotics 1/12
+          Sensors 3/11
+          Ship's Engineering 2/13
+          Slug Weapon (Slug Pistol) 2/7
+          Starship Architecture 1/12
+          Streetwise 2/10
+          Survey 1/9
+          Survival 1/9
+          Swimming 0/6
+          Vacuum/Environment Suit 5/11
+          Willpower 3/11
+
+Contacts: 1 academic (offworld), 1 business, 1 law enforcement, 1 scientist
+(offworld)
+
+PossesionsMCr 2+, Highly modified scout/courier Necessity (originally
+received it as a "seeker"; since modified it to include an 8-ton lab; wear
+value 3; no payments)
+
+Education: BS in Archeology (i.e., Excavation and History) and Geology,
+Double Major
+
+Appearance: Light brown hair, neck length; black eyes; average height;
+small size
+
+Note:(The high number of level-1 and level-2 skills is because she was used
+as a "spare" PC for about one game year.)
+
+"Rocky" is the owner of McKenzie Holdings and is the closest thing to an
+actual "commander" they have at McKenzie Station (she would describe her
+job as "chief fire-stomper and all-around troubleshooter"). She is seldom
+without one of her pets (they look like a cross between a flying squirrel
+and a bat).
+
+Alexis, Darius, Julia, and Xerxes
+Omnivore/Gatherer (forest terrain) Wt: 1 kg; Hits: 1; Wpn.: Teeth (Asset:
+8; Dmg.: 1/2; Pen.: Nil)
+Init: 7; Armor: None; F8/A5; Speed: 8/16/32 (flying)
+---------------------------------------------------------------------------
+
+Joshua "Flim-Flam" McKenzie
+
+     UPP: 565988-7
+     Homeworld: Aubaine
+     Init: 2
+     Age: 33 (4 terms: Trader E2,Flt. Acad., Trader O3)
+     Skills:
+
+          Admin/Legal 4/12
+          Astrogation 3/11
+          Bribery 2/10
+          Carousing 2/10
+          Computer 0/8
+          Forgery 4/10
+          Gambling 3/12
+          Leadership 3/11
+          Liaison 5/13
+          Marketing 3/11
+          Mechanic 2/7
+          Persuasion 3/11
+          Pilot (Interface) 3/9
+          Sensors 4/13
+          Ship's Engineering 6/14
+          Slug Weapon (Slug Pistol) 2/7
+          Streetwise 4/13
+          Swimming 0/5
+          Vacuum/Environment Suit 4/9
+          Willpower 0/9
+
+Contacts: 1 criminal (offworld), 1 government, 2 military (1 offworld), 1
+trader (offworld)
+
+Possessions: Cr 180,000, scout/courier Blissful Mirage (extra cargo holds,
+wear value 1; no payments)
+
+Appearance: Light brown hair, moustache, no beard; black eyes; average
+          height; small size.
+
+Joshua has just recently joined his sister, Maria, in this venture on
+Adrian. Joshua (he *hates* his tac-code) will usually be the one to perform
+the necessary public relations, going to Aubaine, Aurora, or wherever else
+needed.

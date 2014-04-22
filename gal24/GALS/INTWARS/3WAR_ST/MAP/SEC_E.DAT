@@ -1,0 +1,28 @@
+@SUB-SECTOR: sec_E   SECTOR: 3war_st
+#
+# Trade routes within the subsector
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Ekhushhesh    0111 D96A255-6    Lo Ni Wa           902 Zs
+Purdishi      0116 E610000-0    Ba Lo Ni           034 Zu
+Shulusish     0214 A5848CB-A  N                    504 Zs
+Bagaka        0215 C769530-6    Ni                 703 Zs
+Argash        0217 C889998-9    Hi                 403 Zs
+Diiku         0313 E421000-0    Ba Lo Ni Po        010 Zu
+Giidi         0316 D379320-2    Lo Ni              720 Zs
+Bemishii      0317 E567898-7    Ri                 112 Zs
+Seshiikhe     0319 E100000-0    Ba Lo Ni Va        023 Zu
+Mirimashkar   0411 C877986-5    Hi In              100 Zs
+Siigerdimud   0511 D66389A-4    Ri                 402 Zs
+Arukhur       0518 E200000-0    Ba Lo Ni Va        022 Zu
+Bugungum      0612 C886773-5    Ag Ri              732 Zs
+Adumidur      0617 C967774-8    Ag Ri              134 Zs
+Debaagakag    0618 E000000-0    As Ba Lo Ni        020 Zu
+Agudarus      0713 C511214-7    Ic Lo Ni           503 Zs
+Lalirkhirk    0717 E9C5000-0    Ba Fl Lo Ni        013 Zu
+Ippuraash     0718 E200000-0    Ba Lo Ni Va        014 Zu
+Ge            0719 E543215-6    Lo Ni Po           902 Zs
+Urkhiirzen    0720 E7A7000-0    Ba Fl Lo Ni        014 Zu
+Upirzanu      0814 E9B5000-0    Ba Fl Lo Ni        024 Zu

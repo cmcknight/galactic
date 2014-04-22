@@ -1,0 +1,10 @@
+Spearhead Subsector
+-------------------
+This well settled subsector serves as a lateral and horizontal communications
+route with x-boat links passing both ways. This region has extensive trade
+activity and a great deal of starship traffic. All worlds in this area are
+either full Imperium members or unihabited protectorates.
+
+The Spearhead subsector contains 34 worlds with a total population of 295.5
+billion. The highest population is A, at Redcross, Noscitur, Amelek, Passage,
+and Umpopula; the highest tech level is C, at Hrnatis, Unconbuts, and Wilmot.

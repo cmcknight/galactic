@@ -1,0 +1,594 @@
+
+TRACERS
+-------
+
+1. Introduction
+
+The PC's were in deep trouble. Money was running short and there
+was no available cargo on planet. Their Broker didn't hold out
+much hope of finding them a viable cargo before the Qwielya
+harvest which was two weeks away. In the meantime their ship sat
+in dock, empty and ate into their reserves with berthing charges.
+They headed back to the Starman's Mission on Heartbreak Row with
+the devout intention of spending what little spare credit they
+had on an all out attempt to get blind drunk. As they entered the
+dim interior of the old run down hostel they noticed the desk
+clerk call them over. His voice wheezed out of his artificial
+voice box, "Pretty lady wa' lookin' for youse. She in bar
+awaitin'. Youse can' miss her, onl' brunette on planet near
+stuff.."
+
+At the bar sat a tall, platinum blonde women, about 25 years old,
+slim and extremely sophisticated. She moved like a cat as she
+turned towards them and introduced herself. "My name is Sharik
+Maihagu, I have heard on the grapevine that you have some, shall
+we say, unusual talents. True?" The PC's grinned. "I want you to
+trace my father... I lost track of him twenty years ago. I'm
+willing to pay and pay well..."
+
+2. The Job
+
+If the group agrees to help, Sharik will agree to pay all
+reasonable expenses and offers a Cr. 250,000 reward if they are
+successful in finding her father. If pressed, she will agree to
+about Cr. 3,000 each if the PC's ask for an advance. Once the
+money is finalised she will explain that her father, Hammon
+Maihagu, ran out on her mother when she was very young but that
+she holds no animosity towards him. She's due to get married in a
+month's time and would like to trace him so that he could be at
+her wedding. The trail is not totally cold as her father was
+Idex-registered and she was able to trace him through the
+Brethren here to Hellas. Unfortunately he vanished two weeks ago,
+just before she arrived. There was no way he could have known she
+was trying to find him so there had to be another, possibly
+sinister reason for his sudden disappearance. She will supply the
+following information;
+
+Name: Hammon Maihagu  Age: 67  DoB: 122-1051  
+Born: Argiluu (1317) Profession: Computer Cryptologist 
+Place of Work: Elsland Advanced Security
+Idex No: A295BH-45E5
+
+If asked about her father's current address Sharik will be
+extremely vague but she will state that she will try and find
+that out. She will also pass over a recent holocube but will
+appear distressed if asked as to how she obtained it.
+
+To try and find out more information: [Difficult, Carousing,
+Interrogation, Int, (Confrontation, Uncertain)]. Referee: Ms.
+Maihagu is extremely tight-lipped. She will claim to have no more
+information but, on an exceptional success, will state that she
+believes her "father" has recently remarried. 
+
+REFEREE'S SYNOPSIS
+
+"Hammon Maihagu" is an ex-deck jockey (Information Broker) who
+found himself, rather unwillingly, working for the Lau Yancy
+under the Ushran Crime Lord Francis Stonewall. He ran, but not
+before grabbing computer files on Stonewall's drug distribution
+network. He was picked up by Ushran Internal Security and, in
+order to prevent being sent to jail, he became a witness against
+Stonewall. Stonewall was sent down for twenty years but "Maihagu"
+was still a prime target for Yancy enforcers. The Ushran Witness
+Relocation Department (WR1) supplied him with a false Idex and
+gave him a new start on Hellas. Then a judge overturned
+Stonewall's conviction on a technicality and released him. His
+first act as a freed man was to order the slow destruction of the
+man who wrecked his drug empire. He managed to bribe a WR1
+official to reveal the deck jockey's new identity and sent his
+top assassin (Ms. "Maihagu") after him. Thankfully for Hammon he
+discovered that a Ms. Maihagu was booked on an incoming flight
+and ran. The WR1 had set up two more identities for him in case
+of such an emergency. Unfortunately he was unable to leave a
+message for his new girlfriend before he left. Ms. "Maihagu" is
+aware that her face is well known to law enforcement officials
+and has decided to use the PC's as a cover.
+
+If the PC's decide to falsify the information or run out with the
+expenses money, nothing will appear to happen for a few weeks.
+But, at their next port of call each of the PC's will get the
+distinct impression that they are being followed although all
+attempts to trap the follower will prove useless. Then, one night
+down a dark alley, a gang of several Yancy enforcers (a minimum
+of two per PC) will jump them and attempt to injure them
+permanently but will try not to kill them under any
+circumstances. 
+
+The attackers will flee rather than shoot them outright, but this
+must never be stated... only hinted at. If the assailants are
+captured and questioned, they will be unable to tell the PC's why
+they are being hunted.
+
+To gain information from the Enforcers: [Difficult,
+Interrogation, End, Int (Confrontation, Uncertain)]. Referee:
+Only the suspect can use End & Int as a DM. Up to 3 interrogators
+may participate at any one time. They may combine their skill as
+a +DM but only to a maximum limit of 8. If the task succeeds the
+suspect must throw on the Mishap Table. Those performing the
+interrogation select how much dice the suspect must roll (up to
+3D) The damage is applied equally to Int and End.
+
+Interrogation will reveal that the thugs know nothing except to
+state that a major power in the Yancy, a Francis Stonewall
+ordered the attack. The orders were to hurt them but not "bless"
+them with a quick release. Yancy talk for prolonged torture.
+Thereafter, the characters will be followed by Yancy hitmen who
+are under strict orders to cripple but not kill. The only way to
+get rid permanently of the hunters will be to personally confront
+Stonewall at the Yancy Citadel, Kiszi Mashumba, on Argiluu.
+
+3. Undertaking the Investigation
+
+Should the PC's decide to try and find Hammon Maihagu, there are
+several possible starting points. They have his business address,
+his Idex number and date of birth and a recent holocube.
+
+Referee's Note:
+
+To gain useful information or to find out where to go next:
+[Routine, Carousing, Skill (Confrontation, Uncertain)]. Referee:
+The unnamed skill is one appropriate to the conversation or
+setting (suggestions are: Legal, Streetwise, Admin, Leader). The
+referee should set up a rather long time increment for this task.
+It takes a lot of conversation to gain useful information. To
+deliberately pump for information increase the task difficulty.
+
+Insist on the PC's rolling to stay determined after each failure.
+
+Difficult, End + Int
+
+CREDIT CHECK
+
+A check on his credit rating (at any bank) will reveal only that
+he is a moderately wealthy man with a good credit history. If
+they look over the clerks shoulder at the screen as he calls up
+the information they will learn that his last transaction
+occurred exactly two weeks ago. No further information can be
+obtained in this manner.
+
+REPORTED MISSING
+
+If the characters decide to report Hammon Maihagu's disappearance
+to the local police they will have to fill out several lengthy
+forms. At the end of which they will be informed by the Desk
+Officer that although a report will be circulated, because there
+is no suspicion of foul play and Mr. Maihagu is an adult in full
+control of his faculties that no other action can be taken. He
+will then take the forms over to the computer and pass them over
+to another officer who will inform them that Mr. Maihagu has not
+been arrested or hospitalised but beyond that she can give no
+information as his Idex is tagged as Extremely Confidential. She
+will remark that Maihagu must be an extremely important person to
+rate that.
+
+ELSLAND ADVANCED SECURITY
+
+E.A.S. is situated in a large business park on the outskirts of
+the city. Guards are everywhere and from the alarmed metal grills
+over all the windows it is obvious that the site is extremely
+secure. To the side of the building are a pair of large waste
+disposal skips. One contains shredded paper only, the other,
+marked "Non-Confidential" is filled with paper for recycling. If
+the PC's search the skip they will discover a couple of papers
+that should have been shredded. The papers are: a memo which
+shows the personnel manager's name is Tara Shagami and an old
+interview card that will allow up to three of them access to the
+personnel manager's office. 
+
+Should they go straight into the front desk without the card the
+receptionist will refuse to let them see anyone unless they have
+an appointment. If they try to sneak past him, security guards
+armed with body pistols will intervene. If they ask for an
+appointment, to speak to someone, the receptionist will offer
+them an appointment for next week at the earliest. Play him as a
+"more than my job's worth" type, too scared to be willing to
+accept a bribe. 
+
+The PC's will need to use subterfuge in order to gain any
+information. The receptionist is extremely tight lipped and will
+only give information if he believes that it was for Hammon's own
+good.
+
+The referee should award the PC's with a visit to Hammon's office
+if they successfully convince the receptionist. Some successful
+ploys include indicating that it is in Hammon's financial
+interest that he be found quickly, or that there is medical
+reasons why he must be tracked down. Attempts to convey the idea
+that they are police will be successful but any attempt to
+actually claim to be police will result in security being called.
+If they gain the receptionist's confidence he will tell them that
+Hammon was rarely at work as he was on secondment to the Ushran
+Security Council and had been for the last six months. He
+generally only came into the office about once a month and the
+rest of the time he accessed the equipment from home. He can tell
+them that Hammon lived at 156 East Level 5 with his wife,
+Angelina. If asked, he will state that Hammon's been working for
+them for several years but only recently moved to this particular
+office. He will also tell them that Hammon was a widower who
+recently remarried. He will also confide that Hammon is often to
+be seen drinking at the Rameses Club on East level 3.
+
+If they manage to get to visit his office they will find an
+immaculate office obviously little used. If they manage to
+detract the receptionist long enough to do a quick search they
+will find a alphanumeric list taped under the desk drawer, on the
+desk is a small holocube of a beautiful women in her late
+thirties and an empty envelope with StarFlight Travel emblazed on
+the corner. 
+
+To identify the list as Idex numbers: [Routine, Int, Admin 1 min
+(Unskilled OK, uncertain)]. Referee: Success means that the PC's
+recognise the list as a series of unrelated Idex codes.
+Exceptional Success will result in the PC's realising that most
+people use their Idex codes as Communet numbers.
+
+D185HG-23K8, Q834VC-50S2, S934JD-36V6, M273FX-73L2, L099HG-18L5,
+G916FD-29D1, L765DR-82D5, G792SX-96H9, K439GL-68J1, A931WV-32I6.
+
+If they obtained and used the appointment card (the receptionist
+will not check the date) to gain access to Ms. Shagami the
+personnel manager, they will again have to gain her confidence.
+Attempts to pretend to be police or private detectives this time
+will result in them being immediately shown the door. If they
+succeed Ms. Shagami will pull out Hammon's employment file. It
+will reveal the following information. Hammon was apparently born
+and educated on Hellas. He married 36 years ago and she died
+about three years ago. No children. He remarried last year to an
+Angelina Greenaway, 38 and lives at 156 East Level 5. He was
+hired by their head office three years ago but due to an apparent
+clerical error, she only has records dating back to last year
+when he was moved to this office while working on secondment for
+a Government Department, she is unwilling to state which. He is
+in perfect health. The files does contain a copy of his gene
+code, there is also a copy of his infrared body map as used by
+the Centre's security if the PC's think to steal it.
+
+STARPORT
+
+If the PC's visit the starport with Hammon's holocube they will
+discover that staff don't really look at their passengers. None
+of them will recognise the cube. A computer check on his Idex
+will reveal that not only hasn't Hammon left the planet in the
+last few weeks, has never been off-planet in his life. If they
+think to check out the tramps and hawkers that infest the
+starport they will eventually find a Hari Krishna disciple who
+was proselyting in the Main passenger lounge on Terminal 7 two
+weeks ago. If the PC's buy a copy of his religious mem-clips he
+will remember someone resembling the picture in that terminal
+that day. A check on ship's leaving that particular day will
+reveal only four passenger carrying ship's departed with male
+passengers;
+
+1. The Van De Greistoock, a subsidised merchant heading for Nox.
+2. The Kunta Bunduki, a 1,000 tonne passenger ship heading via
+   Nox to Ushra.
+3. The Fa Tsan, a free trader heading for Kikaduum via Adele.
+4. The Lady Lovecraft, a subsidised merchant heading to Nafud.
+
+TRAVEL AGENTS
+
+If the PC's decide to check out the travel agents (or if they
+discovered the envelope in his office) they will eventually
+discover that there is no sign that he has left the planet (an
+exceptional roll will reveal that he has never been off-planet in
+his life) but that he had booked tickets with StarFlight Travel
+to visit Nox next year. If the characters have a copy of his gene
+code taken from his medical files they can cross-match it against
+all travellers leaving the planet in the last three months. 
+
+To convince the Clerk to allow them access to the Passenger
+Manifesto: [Difficult, Admin, Legal, Int (Confrontation,
+Uncertain)].
+
+The computer, however, will refuse to give any information other
+than to confirm that someone has left two weeks ago unless the
+PC's insert the person's full name and/or idex. Hammon's code
+will give an "Incorrect answer" reply. If the PC's have the list
+and have realised that they are Idex codes they can imput them
+but again without success. Checking the back issues of departures
+will reveal four passenger ship's left that day.
+
+4. A Friendly Visit
+
+If the PC's obtained Hammon's home address from his work place
+they will find a small but expensive and well furnished
+apartment. His wife, Angelina, is a beautiful 30 year old. She
+will take some time to answer and will be extremely reluctant to
+open the door. Throughout she will use the door vid unit. If the
+PC's explain that they are looking for Hammon on behalf of his
+daughter she will appear confused and mutter something about "but
+he hasn't got a daughter??" If they describe their employer she
+will appear frightened but will quickly agree that yes, that's
+his daughter from a previous marriage. She will claim that she
+doesn't know where her husband went, what department he worked
+for, etc. If the PC's ask her to confirm anything about her
+husband she will quickly agree even if it contradicts something
+else she said. If the PC's make up something totally false she
+will agree that is true also. If confronted with a contradiction
+she will burst in to tears and switch the door 'phone off. No
+amount of hammering on the heavy security door will elicit any
+response. If the PC's call back the next day they will learn from
+one of her neighbours that she's gone away for a few days.
+Angelina will also cease to exist. She will comment in passing
+how this one at least lasted a few months. If questioned, she
+will reveal that Hammon lived with a succession of beautiful
+women but had seemed to go stable with this one for the last few
+months. If the PC's ask if he was ever married, she'll burst into
+laughter at the thought.
+
+5. Confrontation
+
+If the PC's realise that Hammon's official background is at odds
+with the details supplied by his daughter they may decide to talk
+to her again. She will meet them at the public square. Standing
+nearby will be several well built men and women, obviously
+augmented. If they confront her with the inconsistencies she will
+initially plead innocent. She will claim her story is the true
+version and she doesn't understand how his official story got
+altered. She will offer them Cr. 10,000 each to keep working on
+the case and to call her immediately they found out any more
+information. If they try to push it she will admit that her
+father is an "unusual" man but will refuse to comment beyond
+that. Any attempt to threaten her will result in 1d6 enforcers
+jumping to her aid. Should the PC's decide to get out at this
+stage, go to "If The PC's Run..
+
+6. The Rameses Club
+
+If the PC's visit the Rameses Club on East Level 3 they will
+discover an exclusive gambling club. The stakes are high, lowest
+bet is Cr. 100 and the drinks cost about Cr. 50 a glass. In the
+background is a live "entertainment" session. Showing the
+Holocube around will result in the PC's being quickly expelled
+from the club. Subtle questioning of the barmaid, however, will
+reveal that Hammon was a big spender. He liked variety in his
+women, but over the last few months had taken to living with one
+of the "exotic" dancers, Pippa. She thinks she remembers him
+talking about visiting the Joker Tower at Nox but for some
+reason, and it definitely wasn't shortage of money, he never went
+off-planet. She doesn't know where Pippa lives now. If the PC's
+check with the doorman, he will not remember Hammon but will
+realise that the barmaid is actually confused as it is actually
+another regular customer, a teacher at the local school, who's
+always wanted to visit the Tower.
+ 
+
+7. The List
+
+If the PC's have discovered the Idex list in his office they can
+run a credit check on the list of Idex codes which will reveal
+that all the people listed are high credit. No further
+information is available without names. If the PC's check the
+Communet index against the numbers they will find that, like most
+people, these individuals use their Idex codes as their contact
+numbers. Calling them will reveal a motley looking bunch of
+villains. None will give any information and at least one will
+threaten to do grievous bodily harm to them should they come
+near. While they are trying to find that information, they will
+spot a small advert stating that Daya Crua, an "information
+broker" (deck-jockey) is available for hire.
+
+8. Information Broker
+
+Daya is a Lancian who makes his living obtaining computer based
+information for others. A free-lance hacker. He will want to know
+why they want to find Hammon and if he thinks that there is a
+chance that they mean to harm Hammon he will refuse to help.
+Depending on how much sympathy they manage to obtain he will
+charge between Cr. 2,500 and Cr. 10,000 for the information. He
+can check the following information if asked. Note if any of the
+PC's have computer or Comms skills he will willingly accept
+assistance and reduce the overall fee by 10% per skill level.
+
+To access computer files: [Varies, Computer, Comms, Edu, 3 min
+(Fateful)]. Referee: Each task has a different difficulty level.
+Note that although PC's can add their Computer or Comms skill to
+Daya's (up to a maximum of 8) only Daya's Edu score is
+acceptable. On an exceptional failure the hack has been
+discovered and the local police informed. The PC's should
+determine in which order the search should be carried out.
+
+8a. The List
+
+Daya will recognise them immediately as Alphanumeric Idex codes.
+Each will seem perfectly normal except that cross-checks
+<ROUTINE> on any data prior to three years ago does not exist.
+There are no birth or marriage certificates, credit sales,
+records of education, etc. The people appeared out of no-where
+three years ago with an untraceable background.
+
+8b. Hammon's Credit Trail <Difficult>
+
+Shows that an Ushran Government Department, WR1, has been lodging
+Cr. 2,000 per month into Hammon's account since it was created
+three years ago. He is classed as having a good credit history.
+There was a Cr. 300,000 withdrawal two days before he vanished
+and there has been no further credit withdrawals since then. The
+information also shows him to be unmarried.
+
+8c. Medical Check <Difficult>
+
+If the group have obtained a copy of his gene code Daya can run a
+cross-check against emigration records. If they failed to obtain
+a copy, Daya will try to download Hammon's medical file
+<FORMIDABLE>. It will reveal that Hammon has received no further
+treatment since he went missing, he started with the doctor on
+the same date he opened his bank account. The file will reveal
+his gene code. 
+
+Crosschecking against emigration <DIFFICULT> could take several
+hours unless the PC's remember the Travel agency. Cross
+referencing the search with StarFlight Travel ticket holders
+within a one week period will produce an exact match with a
+"Achmed Connors"....
+
+Achmed Connors, born 155-1051, Argiluu Idex. K184VF-65L0
+Single, works for Ushran Department WR1, a member of the 
+Church of Ascension he left for extended leave two weeks ago
+heading for Adele on board the Fa Tsan.
+
+8d. Achmed Connors
+
+Department WR1's (a sub department of the Judicial department)
+computer is heavily guarded <IMPOSSIBLE>, the local Church office
+isn't <ROUTINE> and reveals no trace of Achmed Connors having
+ever undergone the Rights of Passage. Since every adult,
+practicing or otherwise had to undergo this ceremony this seems
+to confirm that the Idex is, to say the least, inaccurate. A
+credit and or registration check <ROUTINE> reveals no substance
+to his history prior to three years ago. If the PC's think to run
+a similar check on Hammon, his previous records will reveal no
+birth registration, no education. Hammon did not appear to exist
+before three years ago.
+
+8e. Angelina <Simple>
+
+An Idex check will reveal that she was Angela Greenaway until she
+married Hammon last year yet, a search of bank records, medical
+records etc. <DIFFICULT> will reveal that all were registered on
+the same day three months ago. There is no birth registration or
+marriage registration prior to that. There is a marriage record
+but the record was entered in to the system only three months
+ago. A cross-check with her medical gene code <DIFFICULT> will
+reveal her to be a 25 year old, registered exotic dancer named
+Mary-Anne Phillipa Marsden (Pippa). There is no credit trail
+since she left under either name. 
+
+8f. WR1 <Impossible>
+
+If the PC's try to find out what the WR1 department does they
+will alert the police who will trace the call. Daya will suddenly
+grab his unit and bolt for it screaming that he's been traced. If
+the PC's grab or try and delay him as he leaves he'll inform them
+that he's just tried to hack into the Ushran Witness Relocation
+Department's files. He will only impart this if he honestly
+believes that the PC's will hold him long enough to guarantee
+capture. From the time of Daya's first warning the PC's have
+exactly 3 minutes to disappear before the police arrive to arrest
+them. Remember, the police have no idea who they are looking for.
+
+9. Adele
+
+If the PC's report any of their findings to Sharik Maihagu, she
+will offer to cover all expenses for a trip to Adele provided she
+and a guest accompany them. If they agree, she will leave one of
+her people with them to "oversee" arrangements while she obtains
+her luggage. Should they attempt to take off, without informing
+her of their destination, they will find her packed and ready
+standing outside their ship with two of her "guests". She will
+insist on coming with them. If they refuse, her men will detain
+them until Security arrives. At this point she will press charges
+claiming that they are thieves. Police will find a small diamond
+brooch amidst their bags. They will be arrested and charged but,
+after two days of interrogation they will be released once it
+becomes clear that Ms. Maihagu has left the planet.
+
+The journey to Adele will be uneventful. If Ms. Maihagu
+accompanies them, she will spend the entire voyage in her
+stateroom. Her "guest" will prove to be a quiet body builder type
+who refuses to speak about Madam. Anyone who pushes it could end
+up in a fight. Note, "Philip" is physically augmented and his
+body system is immune to most commercially available tranq.
+drugs.
+
+On Adele the PC's (and Ms. Maihagu who will now refuse to leave
+their sides) will discover from emmigration that Achmed Connor is
+staying at the Blue Moon Inn. Enquiries there will reveal that
+Mr. and Mrs. Connor have not been back for a couple of days but
+their room is booked up for the week and their luggage is still
+at the Inn. Ms. Maihagu and Philip will immediately book in. If
+the PC's think to check out Connor's room they will discover that
+his bags are sitting packed ready for a quick departure. Taped
+under the bedside cabinet is a fax "Make your way to Ushra. Agent
+Bhalak will meet you at terminal 211." It is unsigned but if the
+PC's think to check out the despatch number at the top they will
+discover that it was sent via secure Governmental despatch. The
+room will reveal nothing more of interest but, should the PC's
+take their time over searching they will hear a noise outside the
+door. A few seconds later Ms. Maihagu will enter with Philip. If
+the PC's hid they will see her place a variety of bugs in the
+room. Philip will eventually call out from the door, "Hurry up
+Shanna, a maid's coming!" They will then hurry out. Should the
+PC's stand their ground, Ms. Maihagu will look momentarily
+surprised then laugh and ask them what they found. If they show
+her the fax she will be extremely interested. She will make a
+quick phone call, relaying the message to an unknown person,
+before closing the circuit. If the PC's ask who the message was
+sent to, Philip will usher them out of the room. From this point
+on Ms. Maihagu and Philip will stay in the Inn. Ms. Maihagu will
+attempt to get the PC's to stay out of the way but will refuse to
+pay them any more money until she has met her father.
+
+Should the PC's do the rounds with the gene code and holocube:
+[Difficult, Carousing, Computer, Edu (Confrontation, Uncertain)].
+Referee: On a success they will discover that Achmed Connor has
+recently been to the Ushran Embassy. There they will learn the 
+following information -
+
+1. Achmed Connor has just posted bond for a Masui Taralak to
+   emmigrate to Ushra. 
+2. Hammon can be found waiting for his receipt in a back street
+   bar near the starport. 
+
+At the bar they will eventually spot a disguised Hammon in the
+rear booths. At first he will refuse to admit that he is either
+Connor, Taralak or Maihagu. If they try and bodily take him, the
+barman will threaten them with a shotgun. He will be totally
+unco-operative unless they mention that they are with his
+daughter. At this, Hammon will burst into tears. Through the
+sobbing he will tell them that he has no daughter. He will
+eventually confide in them, admitting he originally worked for
+the Yancy as an Information Broker under a crime lord named
+Francis Stonewall. One day he decided to get out and turned
+states evidence. The WR1 (Witness Relocation Department) gave him
+a new identity and transported him to Hellas. Unfortunately the
+case was dismissed on a technicality and Stone was released. He
+swore to get even and set about tracking Hammon down (under no
+circumstances will he tell the PC's his real name). Fortunately
+Hammon got a warning that an assassin was on the way and used a
+second identity set up for him by the WR to flee. 
+
+His girlfriend joined him only a few days ago. If he can get him
+off planet he knows that the WR will reward the PC's highly.
+After all, he still has information that would send Stonewall
+down for life. Information that, until now, he has refused to
+give to the "Filth".
+
+At this point, the PC's have to decide whether to hand him over
+to his "daughter". She's a trained assassin who will kill Hammon
+and attempt to frame the PC's for the murder. Remember, it is the
+PC's who have been asking the questions. She has no intention of
+paying them their "recovery" fee. 
+
+If they decide not to hand him over, they must decide how much
+help to give. Should Ms. "Maihagu" or Philip discover that they
+helped him escape they will bring the wraith of the Yancy down
+upon them. (see "If the PC's Run..")
+
+Remember they have to also get "Mrs. Connors" who is currently
+shopping and prevent her from returning to the hotel. Even should
+they manage to take the assassins out they would have an
+extremely difficult time explaining to the local police what had
+occurred. Hammon would prove more of a liability than an asset as
+he will claim the PC's kidnapped him and threatened to kill him
+so he could maintain his freedom. At the first opportunity he
+would escape off-planet leaving the PC's to their fate.
+
+IF THE PC's SUCCEED IN GETTING HAMMON OFF-PLANET
+
+A week after they arrive at another planet Hammon will send a
+message to the WR1, an  Agent will turn up and take Hammon into
+protective custody. The PC's will be questioned as to their
+involvement and how they managed to break the second identity. If
+they admit their methods the WR will make a report and reward
+them Cr. 25,000 each. Should they refuse to co-operate the WR
+will only cover the cost of any expenses since they met up with
+Hammon. 
+
+The WR will be willing to create false identities for the PC's to
+help them to flee from the Yancy but even if they refuse there
+will be no trouble. Stonewall is presently in the process of
+fleeing and the other Crime Lords are too involved dividing up
+his territory to worry about revenge.
+
+

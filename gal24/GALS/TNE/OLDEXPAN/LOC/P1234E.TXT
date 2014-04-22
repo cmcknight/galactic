@@ -1,0 +1,174 @@
+ 
+System Detail:
+
+Orbit        Name       UWP          Remarks
+Primary      Zenith    K6 V
+  0          Helios    E648243-4     Lo Ni
+  1                    YS00000-0
+  2                    Y000000-0     Planetoid Belt
+  3                    Y706000-0
+  4                    Y603000-0
+  5                    YS00000-0
+  7                    YS00000-0
+  20                   YS00000-0
+
+Planetary Detail:
+
+     Orbital Period:  0.12 std yrs  (43.83 std yrs)
+    Rotation Period:  39.85 std yrs  (  1.66 std days) 	
+         Axial Tilt:  27 deg
+            Density:  Average (0.42 std masses)
+            Gravity:  0.5G
+         Water Area:  82%
+         Atmosphere:  0.66 std atms  High Carbon Dioxide
+     Weather Factor:  +1
+      Fossile Fuels:  Yes
+       Radioactives:  No
+Exploitation Factor:  1.0
+               Soil:  No Mods
+         Island Hex:  Agriculture     -  Growing Season:  ~20 days
+                                         70% Useable Area
+                                         1.3 Richness Factor
+                      Raw Materials   -  15% Useable Area
+                                         50 Richness Factor
+                      Hydro Electric  -  14.4 kw/km^2
+                      Wind Power      -  210 kw/km^2
+
+Temp Charts:  (in Celcius)
+    Hex   Summer (Max)   Winter (Min)
+     1     49.9            46.2
+     2     44.9            41.2
+     3     44.0            29.4
+     4     43.0            17.7
+     5     42.1             5.9
+     6     41.1            -5.8
+     7     36.1           -10.8
+     8     31.1           -15.8
+     9     26.1           -20.8
+    10     21.1           -25.8
+    11     16.1           -30.8
+
+HELIOS PLANETARY ECONOMIC PROFILE
+
+
+SUMMARY STATISTICS
+
+      Population:  700
+      Tech Level:  4
+Std of Nutrition:  4.39
+  Std of Shelter:  100
+   Std of Living:  50
+        % change:  6.57%
+
+AVAILABLE OUTPUT*  Cr
+
+Heavy Industrial:  4587
+Light Industrial:  2300**
+    Construction:  4687
+       Materials:  52
+
+*Available output refers to that portion of an economy's output not 
+needed to pay for depreciation or otherwise support the economy itself.
+
+**Light Industrial available output is put toward increasing the standard 
+of living.  Other uses will decrease the %change of the standard of living.
+
+
+AGRICULTURE
+
+         Hex:  1
+  Tech Level:  4
+ Ag Laborers:  500
+  Ag Capital:  600
+    Richness:  1.3
+        Land:  200km^2
+   Materials:  600Cr
+Price of ACs:  1.44MCr
+      Output:  3071.25Cr
+
+
+LIGHT INDUSTRY
+
+   Tech Level:  4
+    Light ILs:  10
+    Light ICs:  10
+        Power:  2KW
+Price of LICs:  5000Cr
+    Materials:  4Cr
+       Output:  3000Cr
+
+
+HEAVY INDUSTRY
+
+   Tech Level:  4
+    Heavy ILs:  53
+    Heavy ICs:  53
+        Power:  10.6KW
+Price of HICs:  79500Cr
+    Materials:  424Cr
+       Output:  15900Cr
+
+
+CONSTRUCTION
+
+  Tech Level:  4
+   Const ILs:  100
+   Const ICs:  100
+       Power:  20KW
+Price of ICs:  25000Cr
+   Materials:  400Cr
+      Output:  30000Cr
+
+
+MATERIALS	
+
+         Hex:  1
+  Tech Level:  4
+Mat Laborers:  37
+ Mat Capital:  37
+Price of MCs:  1850Cr
+       Power:  7.4KW
+      Output:  1480Cr
+
+
+POWER
+
+       Hex:  1
+ Windmills:  TL-4
+Efficiency:  0.5
+     Price:  1.63MCr
+    Output:  32.6KW
+
+
+INFRASTRUCTURE
+
+ROADS
+
+       Hex:  1
+Tech Level:  4
+      Load:  6 Million km/tonnes
+       Kms:  500
+     Price:  2MCr
+
+
+RESOURCE LINES
+
+        Hex:  1
+        Kms:  20
+   Max Load:  6 Million km/tonnes
+Actual Load:  0.00155 Mkm/tonnes
+      Price:  80,000Cr
+
+
+VEHICLES
+
+    Tech Level:  4
+      Capacity:  0.031 Million km/tonnes
+Materials Used:  7.75Cr
+  Price of Veh:  12,400Cr
+
+
+Depreciation Note:  My personal preferance is to depreciate agricultural 
+capital as well as other forms of capital.  If you do not wish to use 
+this alternate, add 2,880Cr output to both Heavy Industrial and 
+Construction output.

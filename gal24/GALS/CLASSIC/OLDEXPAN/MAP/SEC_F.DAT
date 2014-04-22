@@ -1,0 +1,42 @@
+@SUB-SECTOR: sec_F   SECTOR: oldexpan
+#
+# Trade routes within the subsector
+$0918 0817 -1 0
+$0918 1118 0 0
+$1118 1519 0 0
+$1519 1321 0 1
+$1519 1422 0 1
+$1519 1719 1 0
+$1519 1415 0 0
+$1415 1213 0 0
+$1213 1311 0 0
+$1311 1512 0 0
+$1512 1213 0 0
+$1311 1208 0 -1
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Dahlec        0913 C786643-A  S Ag Ni Ri           902 Im
+Rebields      0918 A7A8956-F  S Fl Hi              213 Im
+Kestral       1011 A7588B9-B                       914 Im
+Linnert       1013 A642430-D  N Ni Po              404 Im
+Aneth         1111 A456704-B    Ag                 600 Im
+Sveinel       1114 B454737-A    Ag                 421 Im
+Czerniak      1118 A9899C8-C  S Hi                 800 Im
+Wileth        1211 B737574-9    Ni                 404 Im
+Mofare        1212 B7A3663-A    Fl Ni              520 Im
+Ultraneta     1213 A00055A-F  D As Ni              704 Im
+Indigo        1215 B749747-E                       322 Im
+Phoru         1311 B375AC9-A  S Hi In              102 Im
+Marejen       1312 B245638-B    Ag Ni              402 Im
+Walager       1318 B974638-B  S Ag Ni              604 Im
+Skerry        1320 C334300-8    Lo Ni              602 Im
+Chrimarko     1412 B491732-B                       300 Im
+Kata          1414 A997774-B    Ag                 603 Im
+Thanatos      1415 B653622-9    Ni Po              214 Im
+Lyart         1512 A200A6B-E  N Hi In Na Va        110 Im
+Krag          1517 B737655-A    Ni                 103 Im
+Galiano       1519 A767847-F  N Ri                 704 Im
+Kunni         1520 B874643-B    Ag Ni              414 Im
+Anirl         1611 C131655-B    Na Ni Po           505 Im

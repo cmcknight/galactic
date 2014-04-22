@@ -1,0 +1,31 @@
+@SUB-SECTOR: sec_H   SECTOR: deneb
+#
+# Trade routes within the subsector
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Niven         2512 X9C3000-0    Ba Fl              034 --
+Kasmar        2515 X631000-0    Ba Po              001 --
+Erita         2519 E99A45A-7    Lo Ni Wa           513 RF
+Kiirindor     2520 B446686-B  A Ag Ni V:3          110 RF
+Berora        2615 X100000-0    Ba Va              022 --
+Wal-ta-ka     2713 X360433-5    De Lo Ni           201 Wi
+Dophkah       2715 C647746-5    Ag V:3          B  324 Wi
+Errogel       2716 C150544-8  N De Ni Po           324 Wi
+Segan         2717 X35056F-1    De Ni Po        B  204 Wi
+Port Comfort  2812 E464313-6    Cm Lo Ni V:4    B  523 Wi
+Doho          2813 X69646A-5    Lo Ni V:3       B  221 Wi
+Gampin        2820 E668644-7    Ag Ni V:2          733 Wi
+Atsah         2913 X656759-6    Ag V:1          B  523 Wi
+Khishuda      2918 D856001-4    Lo Ni              101 Wi
+Corfinium     3011 C443669-7    Ni Po V:3          722 Wi
+Ivora         3013 X999568-4    Ni V:4          B  201 Wi
+Atadl         3015 X210000-0    Ba                 001 --
+Zerderu       3016 X441513-6    Ni Po V:2          201 Wi
+Lamar         3111 X410000-0    Ba                 023 --
+Berth         3112 X547378-6    Lo Ni Vw           401 Wi
+Prevsla       3113 E243365-7    Lo Ni Po Vw        210 Wi
+Arabah        3115 D877242-2    Lo Ni Vw        B  320 Wi
+Sherad        3116 X000000-0    Ba As              013 --
+Salaam        3213 X576226-3    Lo Ni Vw        B  522 Wi

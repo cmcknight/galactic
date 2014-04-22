@@ -1,0 +1,11 @@
+Nisinasha X9FA76C-7      
+Starport: None              Size: Large (13600-15200 km)
+Atmosphere: Thin, low       Hydrographics: Water world
+Population: 60 million      Govt: Captive Government
+Law Level: Extreme          Technology: Pre-Stellar
+                  
+	This subsector contains a number of unusual worlds. Nisinasha, like
+Easter, is egg-shaped, distorted by tidal forces far in the past, when it 
+was much closer to its gas giant primary. Its atmosphere, however, is nearly
+spherical, producing near-vacuum at the ends, too-high pressure at the 
+middle, and two habitable bands between these extremes. 

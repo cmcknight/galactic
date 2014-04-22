@@ -1,0 +1,52 @@
+@SUB-SECTOR: sec_H   SECTOR: gush
+#
+# Trade routes within the subsector
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Gurdadusu     2511 E736548-7    Ni                 703 Im
+Andelech      2512 E336446-9    Ni                 404 Im
+Masa          2513 B221AAA-F  S Hi Na In Po        700 Im     f
+Rutkowski     2514 A63726B-B    Lo Ni              303 Im
+Royef         2517 D242200-A  S Lo Ni Po           405 Im
+Maru          2612 C8C5330-B    Lo Ni Fl           724 Im     f
+Nourm         2613 D647400-8    Ni                 202 Im
+Upllor        2614 D358836-6  S                    520 Im
+Erdousse      2615 C7855AC-9    Ag Ni              624 Im
+Une           2617 D338464-B  S Ni                 104 Im
+Courtesy      2618 A647200-B    Lo Ni              604 Im     m
+Guumishmak    2619 E334579-A    Ni                 214 Im
+Akushis       2620 E0009AC-B    As                 104 Im
+Kinshasa      2713 C8688BB-7  S                    612 Im
+Bruyrkna      2715 C8B179B-B  S Fl                 704 Im     f
+Shakhamash    2716 A94A99A-G  N Hi In Wa Cp        503 Im     f
+Lallvi        2717 C5878B8-A                       704 Im
+Koinunmatie   2812 D466310-5    Lo Ni              104 Im
+Lumu          2813 B553455-A  W Ni Po              103 Im
+Tuuttka       2814 A876623-9  N Ag Ni              902 Im
+Liigash       2815 A688863-A  N Ri                 602 Im
+Teklemos      2820 C895898-9                       203 Im
+Lohme         2912 B848222-C    Lo Ni              101 Im
+Twele         2914 A00066B-E  N Na Ni As           110 Im
+Jasper        2915 A463566-E    Ni                 400 Im     m
+Tinisutta     2916 C679426-C    Ni                 303 Im
+Aran          2917 X2428AA-5    Po              R  502 Im
+Oneria        2919 D444136-8  S Lo Ni              800 Im     m
+Mezregh       2920 E0009A7-D    Hi Na In As        604 Im
+Fuqui         3012 D7898AA-7  S                    214 Im
+Amda          3013 C632765-9    Na Po              600 Im
+Vell          3014 E667687-7    Ag Ni Ri           204 Im     f
+Asylum        3015 A6B3420-B    Ni Fl              324 Im
+Dartus        3016 A3406AB-E  D Ni Po De           124 Im
+Kaagaarkha    3017 C835778-8  S                    803 Im
+Sykell        3112 C210414-A    Ni                 910 Im
+Alp           3116 E40356A-7    Ni Va Ic           413 Im
+Eskstant      3117 B9B77AB-C    Fl                 903 Im
+Koustorm      3118 E537745-8                       910 Im
+Gudak         3211 A457744-F    Ag                 600 Im     m
+Sktrassui'ia  3212 B261599-B    Ni                 504 Im
+Leut          3214 C310579-D    Ni                 500 Im
+Salliatt      3217 C886001-8    Lo Ni              513 Im
+Senlis        3218 E447998-B    Hi In              703 Im
+Merchant      3219 C444434-A  S Ni                 203 Im

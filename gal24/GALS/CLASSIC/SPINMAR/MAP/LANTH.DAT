@@ -1,0 +1,45 @@
+@SUB-SECTOR: Lanth   SECTOR: Spinward Marches
+#
+# Trade routes within the subsector
+$1912 1910 0 -1
+$1912 1815 0 0
+$1815 1719 0 0
+$1719 1920 0 0
+$1920 2319 0 0
+$2319 2417 0 0
+$2319 2418 0 0
+$2417 2716 1 0
+$2418 2520 1 0
+$1711 1810 0 -1
+$1711 1413 -1 0
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Extolay       1711 B45589A-A  N                    110 Im
+Lanth         1719 A879533-B  A Ni Cp              710 Im
+Dinon         1811 D100535-A    Ni Va              201 Im
+Ghandi        1815 B211455-A  N Ni Ic              303 Im
+Victoria      1817 X697772-2    Ag              R  112 Im
+Dinomn        1912 B674632-9  S Ag Ni              204 Im
+Ylaven        1916 X587552-4    Ag Ni           R  922 Im
+Sonthert      1918 X6266AB-3    Ni              R  314 Im
+D'Ganzio      1920 B120410-D  N Ni Po De           312 Im
+Wypoc         2011 E9C4547-8    Ni Fl           A  922 Im
+Djinni        2111 E459000-9    Lo Ni Ba        R  822 Im
+Rech          2112 D9957AA-6    Ag                 501 Im
+KKirka        2212 CAA5345-8    Lo Ni Fl           102 Im
+Quopist       2215 B150679-A    Ni Po De        A  721 Im
+Treece        2311 D232866-8    Na Po              610 Im
+Echiste       2313 C53A313-A    Lo Ni Wa           720 Im
+Pirema        2314 D691142-5    Lo Ni              802 Im
+Rhise         2317 C100576-A    Ni Va           A  710 Im
+Ivendo        2319 B324659-A  A C0 Ni              112 Im
+Keanou        2411 C792348-7  S Lo Ni              213 Im
+Tureded       2414 C465540-9    Ag Ni              614 Im
+Vreibefger    2415 E481542-3    Ni                 901 Im
+La'Belle      2416 C564112-4    Lo Ni              701 Im
+Equus         2417 B55A858-B  S Wa                 202 Im
+Icetina       2418 B5245A9-7  N Ni              A  301 Im
+Cogri         2419 CA6A643-9    Ni Ri Wa           432 Im
+Skull         2420 C2237C7-9  N Na Po              601 Im

@@ -1,0 +1,31 @@
+@SUB-SECTOR: sec_J   SECTOR: meshan
+#
+# Trade routes within the subsector
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Glory Day     1023 B621789-6    Na Po              602 Vo
+Zoukhuek      1024 E6757CA-5  C Ag                 423 Vo
+Nirrgh        1028 B548651-9    Ag Ni              324 Vo
+Ugh Gzun      1123 C9A8267-5    Fl Lo Ni           404 Vo
+Zegku         1130 E656362-6    Lo Ni              705 Vo
+Unangall      1221 C100333-7  C Lo Ni Va           824 Vo
+Dourrgue      1223 C300586-9    Ni Va              502 Vo
+Misery        1230 B9A47A6-9  G Fl                 701 Vo
+Tsurrg        1322 E23069A-5  C De Na Ni Po        603 Vo
+Khidhae       1323 C421524-9  C Ni Po              200 Vo
+Arrllokh      1325 E535424-3  C Ni                 104 Vo
+Thorndrake    1326 B584230-A    Lo Ni              923 Vo
+Khakhs        1327 B658300-A    Lo Ni              200 Vo
+Vue Lots      1427 C878347-6  G Lo Ni              413 Vo
+Khoerr        1428 C7A2534-9    Fl Ni              104 Vo
+Uduth         1521 C000556-B    As Ni              824 V5
+Gasoyu        1526 A420898-B    De Na Po Cp        502 Vo
+Arrgh Tol     1527 A377343-A    Lo Ni              703 Vo
+Korslloeng    1530 B757675-9    Ag Ni              111 Vo
+Aedzung       1621 B634678-9    Ni                 903 V5
+Sillan        1622 E554169-6    Lo Ni              302 V5
+Irrne         1628 B446343-B  C Lo Ni              524 Vo
+Dhourru       1629 C99A79A-6    Wa                 204 Vo
+Oururrgh      1630 C732368-6    Lo Ni Po           704 Vo

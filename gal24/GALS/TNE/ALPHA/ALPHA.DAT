@@ -1,0 +1,38 @@
+Alpha Leonis
+
+A: Lazzerton                 sec_a.dat           f
+B: McKenzie                  sec_b.dat           f
+C: Dagir                     sec_c.dat           f
+D: Alba                      sec_d.dat           f
+E: Orichalc                  sec_e.dat           f
+F: Auva                      sec_f.dat           f
+G: Oriah                     sec_g.dat           f
+H: Fervore                   sec_h.dat           f
+I: Denebola                  sec_i.dat           f
+J: Veracruz                  sec_j.dat           f
+K: Vald                      sec_k.dat           f
+L: Addison                   sec_l.dat           f
+M: Ziusudra                  sec_m.dat           f
+N: Regulus                   sec_n.dat           f
+O: New Holland               sec_o.dat           f
+P: Galloway                  sec_p.dat
+
+Bases:
+A = Navy & Scout Bases
+D = Naval Depot
+N = Naval Base
+S = Scout Base
+C = Scout & Hiver Base
+T = Hiver Temp Base
+H = Hiver Staging Base
+X = Local Naval/Scout
+  = None
+
+Allegiance:
+15 Al = Protectorate of Alba
+10 Be = Beltan Empire
+06 Cs = Beltanian Client State
+08 Un = Unpopulated
+04 Wi = Wilds
+02 Na = Non-aligned
+07    = Unknown

@@ -1,0 +1,45 @@
+@SUB-SECTOR: sec_E   SECTOR: hinter
+#
+# Trade routes within the subsector
+$0114 0315 0 0
+$0315 0413 0 0
+$0413 0514 0 0
+$0514 0516 0 0
+$0514 0714 0 0
+$0714 0813 0 0
+$0813 0814 0 0
+$0814 0916 1 0
+$0813 0610 0 -1
+$0311 0410 0 -1
+$0311 0210 0 -1
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Ranlm         0114 C100630-A    Ni Va Na           503 Ra
+Shaa          0116 A300842-A    Va Na              600 Na
+Aqqle         0120 E9D89B9-4    Hi                 822 Na
+Berange       0311 C428ACB-B    Hi In              414 Ra
+Gisamuve      0315 C9A6249-7    Ni                 605 Ra
+Ravane        0316 B7B6675-7    Ni                 301 Ra
+Herann        0317 C225473-9  S Ni                 603 Na
+Gaggin        0318 D310411-7    Ni                 404 Na
+Blessed       0320 E20068A-4    Ni Va Na           102 Na
+Kandusa       0413 B20076B-7    Va Na              804 Ra
+Galia         0417 D346015-5    Ni                 300 Na
+Strend        0419 B2006AA-8    Ni Va Na           113 Na
+Shadow        0514 D434223-4    Ni                 504 Ra
+Twukayudiess  0515 E537200-8    C6 Ni              100 Ra
+Gavime        0516 C77678A-4    Ag                 814 Ra
+Lodanar       0517 X798132-1    Ni              R  904 Na
+Harov         0520 A77A433-C  F Ni Wa              503 Na
+Dyse          0617 X100532-1    Ni Va           R  904 Na
+Tiffany       0620 CA8A788-9  S Ri Wa              604 Na
+Nummen        0712 B95A653-B  J Ni Wa              224 Ra
+Scordon       0713 C252577-5    Ni Po              505 Na
+Even-Score    0714 C625856-7                       804 Na
+Parthia       0718 C110100-9    Ni                 404 Na
+Dold          0813 A372202-D  F Ni                 205 Ra
+Baller        0814 E100135-A    Ni Va              813 Ra
+Quiet Pride   0817 A9A7478-8  F Ni                 501 Na
+Golus         0818 E100446-9    Ni Va              204 Na

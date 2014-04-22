@@ -1,0 +1,10 @@
+@SUB-SECTOR: sec_A   SECTOR: gush
+#
+# Trade routes within the subsector
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Habelut       0610 E86A79B-6    Ri Wa              102 Na
+Menguno       0803 E7B1625-2    Ni Fl              200 Cs
+Gelhhach      0810 E558642-6    Ag Ni              201 Na

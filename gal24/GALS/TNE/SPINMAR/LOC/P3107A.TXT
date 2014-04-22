@@ -1,0 +1,21 @@
+System: Lewis
+Subsector: Aramis
+Sector: Spinward Marches
+Coordinates: 3107 (D0707)
+UWP: X427402-D
+
+Starport: None
+Size: Small (5600-7200 km)
+Atmosphere: Very thin, tainted
+Hydrographics: 70% water
+Population: 70,000
+Govt: No government
+Law Level: Low
+Technology: Average Stellar
+
+Bases: None
+Trade Codes: Ni              
+Travel Zone: Red
+Planetoid Belts: 0
+Gas Giants: 1
+Allegiance: Imperial

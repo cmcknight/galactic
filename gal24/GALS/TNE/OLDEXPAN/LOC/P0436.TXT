@@ -1,0 +1,501 @@
+Apollo  E8C5300-8  
+
+Size: Large : D=12,800km              Atmosphere: Insidious
+Hydrographics: 50%                    Population: 4000
+Government:None                       Law Level: None
+Tech Level: 8 (1990's)                Star port: Frontier
+
+by Shalom Zaidfeld cs911408@ariel.cs.yorku.ca
+
+At a backwater system near the outskirts of the Reformation  
+Coalition, lies a world where seas of hydrofluoric acid wash 
+against the smooth, livid continents. The yellowish-blue sky 
+is icy with hydrofluoric acid mist suspended high in the 
+fluorine based atmosphere.  Where life, alien life, has 
+developed totally differently from carbon based life as we 
+know it.  Transitory Free Traders call it "Frozen Hades"; 
+other, hardier souls call it home.
+ 
+This is Apollo, an unforgiving and exotic boneyard world. 
+Repopulated by diverse characters from across the coalition 
+worlds, each with their unique intentions, motives & mystries. 
+Be it a retired CIN reporter looking for some fringe 
+"adventures" by establishing a renegade news service or Tech 
+Scavengers who roam between the death-filled dirtside 
+habitats, acting as grave diggers and auction suppliers, to 
+say nothing of the Hiver consul and his unexplained exertions 
+around the system.
+ 
+So there it lays, filled with Delphian mysteries as of yet 
+unexplored regions, a blasted grave of humanity awaiting for 
+those who brave souls carry them out there, to this frozen & 
+exotic world, to Apollo.
+ 
+
+"...There were no survivors.  Zero.  The entire population
+perished in less than a week.  Hideous Deaths...  A small number
+of survivors managed to stay alive in air-tight shelters and
+e-suits, but with no water, food or power..  their end was only
+delayed..."
+ 
+                -Captain Yoel Ben Matteous
+                -DLS Apollo Debriefing at Trybec, 1197
+ 
+ 
+ 
+RECENT HISTORY:
+ 
+The system was first re-contacted by DLS Apollo in late 1196,
+on one of her few survey expeditions prior to being dispatched
+out to the Wilds.   DLS Apollo arrived at Macis from Trybec with
+orders to evaluate its status and complete an initial system
+survey.   As DLS Apollo dispatched its survey teams around the
+system, the first scans already depicted, in the frigid and
+silent breath of vacuum, the utter devastation and hellish
+remains of what once was a developing centre of 800,000 humans
+involved in academic & Naval research, native ore and
+petrochemical traffics.  The blasted frozen hulls of Macis's
+orbital stations, slowly drifting across the yellowish unearthly
+planet in an artificial cloud of debris, greeted the expedition.
+ 
+ 
+From an handful salvaged local news-reports, personal vidcam
+tapes and the somewhat recovered starport computers, a
+fragmented portrayal of Macis collapse was pieced together.  The
+orbiting Naval Yard, losing structural integrity as scores of
+explosions rocked throughout it, was sent accelerating towards
+the planet's surface.   The underground-based communities
+sustained the same devastation, if not worse than the orbital
+ones.  Power Plants blew up and released havoc on their
+surroundings, cutting the current to the life supporting
+machinery.  Underground mono-rail trains crashed into stations
+and tunnel walls, explosions blasted throughout the subterranean
+complexes letting the deadly insidious atmosphere spread in to
+them.  Many hundreds of thousands died painfully as the first
+hours and days of the collapse passed.  An absolute evaporation 
+of life.
+ 
+ 
+After spending a few months in Macis System, inspecting and
+searching for survivors amid the breached orbital hulls and
+dirtside habitats' remains, DLS Apollo returned to Trybec for
+debriefing.  It was clear from Captain Ben Mattious's and survey
+reports that no survivors have been or could be encountered on
+Macis, The Dawn league committee overseeing DLS Apollo's mission
+proclaimed it as a boneyard world and introduced plans to
+repopulate it.  
+ 
+ 
+In early 1200, as the Reformation Coalition was established,
+Macis was officially reclaimed as an Administrated Territory. It
+was renamed not only after Apollo, the Greek sun god from old
+Solomani mythologies but also in memory of DLS Apollo, one of
+the first 12 heroic vessels of the Dawn league trading
+expedition
+ 
+The McDermont family from Aurora has set up a minimal starport at
+the site of a pre-war airport.  They offer unrefined fuel, berthing
+sites, and operate a small general store which sells just about 
+everything.  They buy relics from the prospectors and resell them to 
+the crew of the Free Trader 'Anarchist' which makes regular stops at the
+starport.  
+ 
+  
+THE APOLLO SYSTEM:
+ 
+RCES GLOBAL DATA SURVEY
+Objective System:         Apollo/Aubaine
+Objective Classification: VII
+-----------------------------------------
+ 
+Primary Star G2 V                               Latona
+ 
+        Orbit 0   YR00000-0                     Hecatonchires Belt      
+                
+        Orbit 1   H350000-0                     Hephaestus
+                Orbit 8:  Y100000-0             Hecate
+                Orbit 53: YS00000-0             Erebus
+ 
+        Orbit 2   -Empty Orbit-
+ 
+        Orbit 3   M8 D Companion Star           Lyra
+                Orbit 0:  E8C5300-8             Apollo
+                Orbit 1:  HS00112-7             Orpheus
+ 
+        Orbit 4   -Empty Orbit-
+ 
+        Orbit 5   Large Gas Giant               Argus                   
+                Orbit 2:        YR00000-0       Admetus Planetoid Belt
+                Orbit 8:        YS00000-0       Lycius I
+                Orbit 9:        YS00000-0       Lycius II       
+                Orbit 11:       Y100000-0       Lycius III
+                Orbit 39:       Y200000-0       Lycius IV
+                Orbit 52:       Y100000-0       Lycius V
+        
+        Orbit 6  Small Gas Giant                Aesculapius
+                Orbit 1:        YS00000-0       Pythius I
+                Orbit 7:        Y200000-0       Pythius II
+                Orbit 51:       Y400000-0       Pythius III
+                Orbit 54:       Y100000-0       Pythius IV
+ 
+        Orbit 7 Small Gas Giant                 Cynthius
+                Orbit 10:       Y100000-0       Acantha I
+                Orbit 17:       Y100000-0       Acantha II
+                Orbit 32:       Y200000-0       Acantha III
+ 
+        Orbit 8  Small Gas Giant                Aristaeus
+                Orbit 5:        YS00000-0       Atropos I
+                Orbit 35:       Y500000-0       Atropos II
+ 
+                
+ 
+Star System:
+ 
+Primary:                Latona
+Spectral Class:         G2 V (Main sequence)
+Mass:                   1.0 Std.
+Diameter:               1.0 Std. (1,398,000 km)
+Temperature:            5820 K.
+Magnitude:              4.82
+Luminosity:             0.994 Std.
+ 
+Companion:              Lyra
+Spectral Class:         M8 D (Red Dwarf)
+Mass:                   0.1 Std.
+Diameter:               0.1 Std. (139,800. km)
+Temperature:            2,381 K.
+Magnitude:              14.2
+Luminosity:             0.0003 Std.
+ 
+Physical:
+ 
+The Apollo binary solar system is thought to have being formed
+from the subfragmentation of an ancient local protostar that was
+divided into two major condensations with the rest of the mass
+being ejected outwards.  These condensations, subsequently,
+evolved into the co-orbiting binary stars, Latona and Lyra. 
+Latona, with Sol-like properties, is the primary star of the
+system whereas the companion star, Lyra, is a dim red dwarf
+orbiting Latona in orbit 3 (1.0 AU).  
+ 
+Orbiting Latona are Lyra, a single planet, 4 gas giants, 2
+planetoid belts and a total of 16 moons, while the Lyra
+"subsystem" contains only a single major planet (Apollo) in
+orbit 0 and a tiny planetoid in orbit 1.
+ 
+
+APOLLO PHYSICAL CHARACTERISTICS:
+ 
+Diameter:               12,960 Km.
+Density:                Molten Core, 0.92 (5.296 grams/cm3 )
+Orbital Distance:       0.2 AU (29.9 million km) 
+Gravity:                0.92 g (9.02 m/s2 )
+Apolloian Year:         363 Days, 23 Hours, 58 Minutes & 47 sec.
+Apolloian Month:        103 Days, 7 Hours, 26 minutes & 24 sec.
+Apolloian Day:          21 Hours, 30 Minutes and 4 Seconds. 
+Day Time:               10 Hours 45 Minutes and 2 seconds
+Night Time:             10 Hours 45 Minutes and 2 seconds
+Axial Tilt:             100 11' 2.9" degrees tilt.
+Eccentricity:           0.0
+Seismic Stress:         2.5
+Atmosphere:             Dominant Fluorine Mix
+Pressure:               Standard, 0.95 Atm.
+Energy Absorption:      0.500
+Greenhouse effect:      1.0
+Hydrograpics %:         48.25%
+Composition:            Liquid Hydrofluoric acid Mixture
+ 
+ 
+ 
+Apollo Temperature Distribution per orbit location between the
+two stars:
+ 
+ 
+ 
+        Closest         Farthest        Mean     
+ 
+Row     Highest Lowest  Highest Lowest  Highest Lowest 
+ 
+1       -14.59  -26.52  -58.14  -69.86  -39.65  -51.45 
+2       -21.59  -33.52  -65.14  -76.86  -46.65  -58.45 
+3       -28.59  -40.52  -72.14  -83.86  -53.65  -65.45 
+4       -35.59  -47.52  -79.14  -90.86  -60.65  -72.45 
+5       -42.59  -54.52  -86.14  -97.86  -67.65  -79.45 
+6       -48.09  -64.02  -91.64  -107.36 -73.15  -88.95 
+7       -53.59  -73.52  -97.14  -116.86 -78.65  -98.45 
+8       -59.09  -83.02  -102.64 -126.36 -84.15  -107.95 
+9       -64.59  -92.52  -108.14 -135.86 -89.65  -117.45 
+10      -71.59  -99.52  -115.14 -142.86 -96.65  -124.45 
+11      -78.59  -106.52 -122.14 -149.86 -103.65 -131.45 
+ 
+ 
+ 
+Atmosphere:     
+ 
+When viewed from orbit, Apollo appears to be a featureless 
+globe, masked in a yellowish smog of upper-atmosphere aerosols 
+and Nitrogen fluoride.  Apollo's insidious atmosphere is one 
+of the most dangerous in the entire Reformation Coalition 
+worlds.  The fluorine compounds effect the normal use of 
+standard equipment.  As a rule, most equipment can not be used 
+outside the habitats or can not be used without special 
+modifications.  Here are some general points concerning the 
+atmospheric effects on Apollo.
+ 
+ 
+All organic matter (bodies, plants etc.) reacts with fluorine
+and convert into oxygen, Carbon Tetrafluoride, Hydrofluoric acid
+and various other compounds in D20 days (Apply DMs for various
+sizes).  Water burns in fluorine and decomposes into oxygen and
+hydrofluoric acid.  The atmosphere renders most personal
+protective measures ineffective in 2d6 hours time.  A rubber gas
+mask lasts about an hour.  Glass frosts first and then
+disappears,   plastics act like rubber, only a little slower. 
+The heavy metals (e.g. iron, nickel, copper) stand up well,
+forming an insoluble coat of fluoride at first and then doing
+nothing else.
+ 
+ 
+All air-breathing power plants, intended for outside operations
+need to be modified to carry their own on-board oxygen supplies.
+ Vehicles, operating on liquid hydrogen fuel can modify their
+fuel tankage to carry half oxygen, half hydrogen.  For
+additional rules and information see The World Tamers Handbook,
+P. 16.
+ 
+ 
+ 
+Hydrographics:  The Apolloian Hydrosphere consists of liquid
+hydrofluoric acid (HF).  It melts at -83 C (-117.40 F) and boils
+at  19.4 C (66.92 F).  In it are dissolved varying quantities of
+metallic and non-metallic fluorides.  Such as Boron Trifluoride,
+sodium Fluoride, etc..  When the oceans and lakes freeze, they
+do so from the bottom up, so no layer of ice over free liquid.
+ 
+ 
+APOLLO'S CHEMISTRY: (Author note:  Just notes from Chem books)
+ 
+Fluorine, a pale yellow gas, does not occur in the free state. 
+It's chief minerals are fluorite (CaF2), Cryolite (Na3AlF6) and
+fluoropatute.  
+ 
+Fluorine:  Boiling -188 melting -220 density at 20c 1.7g/L
+ 
+- it's chief use is to convert uranium minerals into UF6, a step
+  in the processes of uranium fuel for nuclear power plants. 
+  Special fluorating agents to make organofluorine compounds,
+  Teflon.  
+ 
+- Fluorine reacts violently at room temp. with almost all other
+  elements.  Compounds of fluorine ca be made with all elements
+  except helium, neon and argon.
+ 
+  Water burns in fluorine to give HF and oxygen.
+ 
+  2F2 (g) + 2H2O -> 4HF (g) + O2 (g)
+ 
+- Mixed with hydrocarbons, fluorine cracks all carbon-carbon bonds
+  and strips hydrogens, leaving HF and CF4.  You can see why this
+  element must be stored in special metal alloy cylinders, and why
+  more moderate fluorine agents are useful.
+ 
+- Fluorine owes its extreme reactivity in part to an unusually low
+  F-F bond energy.  Because the fluorine Atm is so small and the
+  atoms in the F2 molecule are so close together, there is
+  considerably repulsion between the lone pairs of electrons of
+  the two atoms.  This tends to push the atoms apart and thereby
+  destabilizes the molecule, so not very much energy needs to
+  break the bond.
+ 
+Hydrofluoric Acid and Hydrogen Fluoride
+ 
+- Hydrogen fluoride forms explosively when hydrogen and fluorine
+  are mixed.
+ 
+- HF boils at 19.5 near room temp., easily condensed.  special
+  vessels lined with wax or polyethylene or cylinders made out of
+  alloy steel or polyethylene.  Glass containers cannot be used
+  since HF dissolves this material.
+ 
+- Hydrogen Fluoride dissolves in water to form Hydrofluoric Acid. 
+  A weak acid.
+ 
+ 
+- Hydrogen fluoride either as a pure compound or in a an aqueous
+  solution must be treated as a very dangerous substance.  It can
+  cause excruciating pain.  This is probably because HF can
+  migrate into nerve tissue where calcium ions are vitally
+  involved in the transmission of nerve impulses.  here calcium
+  ions can win fluoride ions from HF because the highly insoluble
+  CaF2 can form, which can interfere with the work of the nerves.
+ 
+The oxidiser in the atmosphere is free fluorine (F2) in a 
+rather low concentration, about 4-5 percent.  With it appears 
+a mad collection of gases.  There are a few inert diluents, 
+such as N2 (Nitrogen), Argon, helium, neon, etc., but the 
+major fraction consists of CF4 (Carbon Tetrafluoride), BF3 
+(Boron Trifluoride), SiF4 (Silicon Tetrafluoride, PF5 
+(Phosphorous Pentrafluoride), SF6 (Sulphur Hexafluoride), and 
+probably others.  In other words, the, the fluorides of all 
+the non-metals that can form fluorides.  The phosphorous 
+Pentrafluoride rains out when the weather gets cold.  There is 
+also free oxygen, but no chlorine.  That would be in liquid 
+except in very hot weather.  It sometimes appears combined 
+with fluorine in CIF3 (Chlorine Trifluoride). 
+    
+ 
+SOIL AND GEOLOGY:
+ 
+Above the molten core of the planet, the lithosphere consists
+exclusively of fluorides of the metals.  There are small
+deposits of such things as Bromine Trifluoride, but these have
+no great importance.  Since fluoride are weak mechanically, the
+terrain is flat.  Nothing though like granite to build mountains
+out of.  Since the fluoride ion is colourless, the colour of the
+soil depends upon the predominant metal in the region.  As most
+of the light metals also have colourless ion, the coloured rocks
+are rather rare.
+ 
+ 
+PLANTS AND PLANT METABOLISM:
+ 
+The plants function by photosynthesis, taking Hydrofluoric acid
+as water from the soil, and carbon Tetrafluoride as the
+equivalent of carbon dioxide from the atmosphere to produce
+chain compounds, such as:
+ 
+  
+And at the same time liberating free fluorine, back to the
+atmosphere.  This reaction could only take place on a planet
+receiving lots of ultra-violet radiation because so much energy
+is needed to break up carbon Tetrafluoride and hydrofluoric
+acid.  the plant catalyst (doubling for the magnesium in
+chlorophyll) is nickel.  The plants are coloured in various
+ways.  They get their colours from the dominate metals in the
+soil.
+ 
+ANIMALS AND ANIMAL METABOLISM:
+ 
+Animals depend upon two main reactions for their energy, and for
+the construction of their harder tissues.  the soft tissues are
+about the same as plant molecules, but the hard tissues are
+produced by the reaction: resulting in a Teflon boned and 
+shelled organism.  It's going to be tough to do much with.  Diatoms
+leave strata of powdered Teflon.
+ 
+The blood catalyst metal is titanium, which results in
+colourless arterial blood and violet veinious, as the titanium
+flips back and forth between tri and tetravalent states.
+ 
+ 
+ 
+WHY GO THERE?
+ 
+Large natural crystals of fluorides, such as calcium difluoride,
+titanium Tetrafluoride, zirconium Tetrafluoride, are extremely
+useful in optical instruments of various forms.  Uranium appears
+as uranium Hexafluoride, all ready for diffusion process. 
+Compounds of non-metal such as boron are obtainable from the
+atmosphere in high purity with very little trouble.  All
+metallurgy must be electrical.  There are considerable deposits
+of beryllium and they occur in high concentrations in it's ores. 
+
+ 
+ 
+Apollo News Network
+
+"... It is our commitment to the Reformation Coalition to be the
+voice of those who can not be heard; To be the outward link for
+those who can not journey amid the stars;  To be a reminiscence
+& a storyteller, who will unveil to the universe the true
+accounts of the lives of the brave ones, out here...  In this
+boneyard Frontier!"
+                                ANN Service Launching Speech 
+                                Necropolis, Apollo 12/X/1200
+ 
+ 
+ 
+INTRODUCTION:
+ 
+Throughout political turmoil, trading treaties, colonial 
+recruiting and military panic, it is the Coalition Information 
+Network which ties together the various worlds of the 
+Reformation Coalition.  CIN's information is acquired and 
+distributed in diverse ways, be it a intrepid field reporter 
+accompanying RCES operations in the Wilds or a slick 
+journalist covering the latest Assembly of Worlds proceedings 
+on Aubaine or even a small news agency on a boneyard world, 
+information is the common trading cargo of the coalition. 
+ 
+       
+In a backwater system within Coalition Space, just off the 
+main jump routes, lays a disorganised frontier world renamed 
+after Apollo, the Greek sun god who replaces Helios in the sky 
+from old Solomani mythologies. A name which was also carried 
+by one of the first 12 heroic vessels of the Dawn league, 
+celebrating the Dawning of a new era, the renewed drive 
+towards the stars.
+ 
+        
+Devoid of habitable planets, the system is primarily of 
+interest because of the unique inhospitable atmospheric 
+conditions on the main world which provide a vast range of 
+academic research, free-lance prospecting, mining, 
+petrochemical production and numerous other opportunities.
+ 
+        
+The Apollo News Network is a typical illustration of the 
+renowned drive possessed by the Coalition to reclaim the dead 
+"boneyard" worlds around them.  Privately operated by a small 
+group which is made up of individuals with a mixture of skills 
+like reporters, journalists, technicians and other 
+combinations, ANN is held mutually with ambition and 
+determination.  ANN reporters are known throughout the system 
+for their infamous abilities to scour around for stories & 
+rumours, snoop at intriguing events and quite often get into 
+rather stressful situations.    
+ 
+        
+ 
+BACKGROUND:
+ 
+        
+Established in Late 1200 on Apollo (0436/Aubaine) by a retired 
+CIN veteran reporter Tyro Blake, a Nimbus Palm for 
+Excellence in Journalism winner. Tyro Blake and his wife 
+Zeneb left Trybec in 1198 and headed out as a 
+part of RCSA's Regeneration & Administration of Boneyards 
+Initiative [RABI] to the empty graveyards of Apollo.  
+ 
+        
+Blake, noting the lack of public awareness and 
+inadequate local CIN [Coalition Information Network] services 
+to the RCSA's RABI, he appealed to the local RCSA offices on 
+Trybec to confer him a grant to establish an agency which will 
+gather and distribute local news and information.  Soon after, 
+ANN's offices opened to the public, located in Necropolis, 
+Apollo's sole hub of administration and commerce.  
+ 
+        
+He started out with a mere staff of two reporters and a small 
+credit grant which supported a limited local newswire service 
+and hefty dreams.  ANN grow during it's first year of 
+operation, expending to a staff of six reporters and in early 
+1201 was admitted as Apollo's official news and information 
+agency with the CIN centre in Trantown, Aubaine.  
+ 
+ 
+GENERAL DESCRIPTION:
+
+Albeit small, ANN's offices are always open to the public and 
+filled with chatter and clatter.  The informal and friendly 
+atmosphere is inviting and most travellers who pass through 
+the system are encouraged to drop-by not only for refreshments 
+and rest, but to exchange information and rumours. Supported 
+by a small group of inexperienced graduating students from 
+around the coalition and dynamic old hands, they share the 
+agency's vision of fetching information & news from and to the 
+Coalition's frontier planets.  As an inexperienced and remote 
+agency, ANN's ambition is fuelled by vigour drive to cover and 
+serve the entire Apollo system's population by 1204.
+ 

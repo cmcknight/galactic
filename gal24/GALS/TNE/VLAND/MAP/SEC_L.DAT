@@ -1,0 +1,50 @@
+@SUB-SECTOR: sec_L   SECTOR: vland
+#
+# Trade routes within the subsector
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Kakhashedir   2524 X160224-8    Lo Ni De           402 Wi
+Daapuken      2526 X464355-6    Lo Ni              101 Wi
+Kaple         2527 X421000-0    Ba Po              011 --
+Shummnish     2528 X202000-0    Ba Va Ic           001 --
+Thaggesh      2530 D666796-9    Ag                 601 Na     f
+Malvar        2621 D6836A8-7    Ni                 724 Wi
+Shera         2624 D68376B-8                       603 Wi
+Taluza        2627 E59459B-3    Ag Ni           B  223 Wi
+Floranus      2628 X8B3000-0    Fl Ba              001 --
+Rikaan        2629 X8A8000-0    Fl Ba              010 --
+Nodden        2721 X774303-1    Lo Ni           B  401 Wi
+Klidon        2723 X76376B-4                    B  810 Wi
+Duranus       2725 X000000-0    Ba As              005 --
+Kenash        2728 X59456D-3    Ag Ni           B  420 Wi
+Tektras       2823 X536000-0    Ba                 001 --
+Jana          2824 X300000-0    Ba Va              023 --
+Arron         2825 X324000-0    Ba                 020 --
+Zafron        2826 X475400-7    D:0 Lo Ni          135 Wi
+Hannipur      2827 X100000-0    Ba Va              001 --
+Luukon        2829 B5778AA-7                       501 Wi
+Lezanerz      2830 X44736C-3    Lo Ni              402 Wi
+Iton          2921 XAD7000-0    Ba                 001 --
+Zircon        2923 D471353-6    Lo Ni              610 Wi
+Kaanpush      2925 X230000-0    Ba Po De           020 --
+Sanderson     2926 X9C0000-0    Ba De              020 --
+Talama        3021 X410000-0    Ba                 002 --
+Arklin        3022 X9CA000-0    Fl Ba Wa           034 --
+Bertrand      3024 X200000-0    Ba Va              013 --
+Shervan       3025 X545741-5    Ag                 224 Wi
+Kamolad       3029 X8A8000-0    Fl Ba              001 --
+Ekum          3122 X560675-7    Ni De           B  624 Wi
+Thaar         3124 E87A66B-6  S Ni Wa           B  802 Wi
+Inandir       3125 X67686B-4                    B  211 Wi
+Renbad        3126 D568466-6    Lo Ni           B  210 Wi
+Xantril       3128 X67656A-4    Ag Ni           B  120 Wi
+Wimorel       3129 D765342-3    Lo Ni An        B  524 Wi     f
+Gamidan       3130 XA5A321-5    Lo Ni Wa        B  212 Wi
+Sadkha        3221 X836000-0    Ba                 021 --
+Nemsa         3222 X300000-0    Ba Va              020 --
+Anakod        3224 X796230-6    Lo Ni An           424 Wi
+Eshdigi       3226 X747331-3    Lo Ni           B  123 Wi
+Nirnalur      3228 X444423-0    Lo Ni           B  223 Wi
+Diikaras      3229 XAAA000-0    Fl Ba Wa           002 --

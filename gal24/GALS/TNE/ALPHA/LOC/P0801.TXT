@@ -1,0 +1,44 @@
+
+Gethsemene      X2652RA-2 Ni Lo         (1201)
+                B265379-E Ni            (1110)
+
+Starport: None                          Size: Small (2400-4000 km)
+Atmosphere: Standard                    Hydrographics: 50% water
+Population: 500                         Govt: TED
+Law Level: Extreme                      Technology: Pre-Industrial
+
+Pre-Collapse Population: 3000           Pre-Collapse TL: High Stellar
+Objective Class: VI
+
+        Gethsemene is a habitable world, but a little hot, owing to its
+close orbit about its G1 V primary. Before the collapse it was home to a 
+small religious group, the Brotherhood of Sentients, who believed that 
+all intelligent species were equal and sacred and should be united in one 
+giant interstellar community. The Brethren pursued an agrarian lifestyle, 
+and were seperated into several small communes around the starport.
+
+        Gethsemene was untouched by the war, but its population plummeted 
+during the Hard Times, the people fleeing to safer havens in the face of 
+continued Reaver attacks. The starport fell into disuse as trade dried up, 
+and the remaining inhabitants (a small group of hard-core believers) faced 
+an increasingly dismal life as the tech level crashed. Their life was made 
+worse when a pirate crew, their ship failing due to Virus infection, 
+decided to make their home here. The Brotherhood member's attempts at 
+passive resistance quickly ceased after the first few crucifictions, and 
+the natives became virtual slaves to the newcomers.
+
+        Today, Gethsemene is it's own tiny despotism; the "Captain"
+and his bodyguard ruling by force and fear from the shutdown pirate 
+vessel on which their ancestors arrived. Any resistance to their rule 
+by the serfs is punished by death, the method of which varies depending 
+on the Captain's whim. Traders are not welcomed, either by the Captain, 
+who sees them as a possible threat to his rule, or by the serfs, who know
+that they can bring only trouble.
+
+GETHSEMENE GOVERNMENT VALUES:
+        Corruption:             High
+        Talent:                 High
+        Cruelty:                Moderate
+        Aggression:             Moderate
+        Paranoia/Xenophobia:    Moderate
+

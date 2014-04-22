@@ -1,0 +1,36 @@
+@SUB-SECTOR: Apge SECTOR: Core
+#
+# Trade routes within the subsector
+$0302 0338 0 -1
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+.             0103 C9C3733-A    Fl                 123 Li 
+.             0104 E351112-9    Lo Ni Po           903 Li 
+.             0106 B9C6886-9  N Fl                 704 Li
+.             0202 B847427-C  N Ni                 200 Li 
+.             0203 B234314-F  N Lo Ni              600 Li 
+.             0208 D527524-7    Ni                 923 Li 
+.             0210 A797679-D    Ag Ni              701 Li 
+.             0302 B597488-9  N Ni                 701 Li 
+.             0304 B8B5364-B  N Lo Ni Fl           823 Li 
+.             0305 A1008A8-D    Na Va              601 Li 
+.             0306 C786587-B  S Ag Ni              422 Li 
+.             0307 B274663-9    Ag Ni              100 Li 
+.             0308 B688126-A  N Lo Ni              914 Li 
+.             0310 E888241-5    Lo Ni              802 Li 
+Apge          0402 A772997-F  W Hi In              710 Li 
+.             0403 B000200-D    Lo Ni As           704 Li 
+.             0405 C674467-B    Ni                 714 Li 
+.             0408 B453875-D    Po                 402 Li 
+.             0409 B994443-C  N Ni                 402 Li 
+.             0410 B7795AF-C  N Ni                 302 Li 
+.             0502 B76A204-B  N Lo Ni Wa           820 Li 
+.             0505 B1306AE-A    Na Ni Po De        424 Li 
+.             0603 B140103-F    Lo Ni Po De        801 Li 
+.             0606 C736757-A                       211 Li
+.             0707 E6A2110-A    Lo Ni Fl           420 Li 
+.             0806 A212531-G  N Ni Ic              100 Li 
+.             0808 D575334-4  S Lo Ni              714 Li
+

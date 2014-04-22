@@ -1,0 +1,32 @@
+@SUB-SECTOR: sec_O   SECTOR: ealiyasi
+#
+# Trade routes within the subsector
+$2234 2136 0 0
+$1734 1534 -1 0
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Yewaeaiis     1731 E5355K8-7    Ni                 514 As
+Arlauos       1732 D8894H5-6    Ni                 215 As
+Oi'a'hea      1734 B5543L6-B    Lo Ni              304 A8
+Yuaieh        1735 D6252H4-7    Lo Ni              703 As
+Uiraouaiih    1739 E6433M4-5    Lo Ni Po           421 As
+Erliyil       1836 C2611L9-A    Lo Ni              201 A6
+Eawhtuikhoah  1839 CAC58L3-C    Fl                 103 A0
+Eauale        1933 D9D52J8-6    Fl Lo Ni           510 As
+A'akheiiylhwiy1937 EAA70G9-8    Fl                 513 As
+Hlaliyiaol    1938 B7A05L4-C  T De Ni              200 A7
+Iylareakh     2034 C4353M5-A    Lo Ni              223 As
+Khaoeikh      2038 C4772GB-6    Lo Ni              704 As
+Eahtawa       2131 D8C65N4-B    Fl Ni              122 As
+Oawyeoaiya    2132 A2366K2-E    Ni                 113 As
+Ftakhyues     2135 E5452M9-9    Lo Ni              504 As
+Khaaur        2136 B4336M3-B  T Na Ni Po           703 As
+Iskhais       2232 C6857J8-C    Ag Ri              112 As
+Awaeah        2234 B2230G9-D  T Po                 712 As
+Tourlae       2235 C6747N4-B    Ag                 123 As
+Iyrlelas      2333 E3326K5-6    Na Ni Po           604 As
+Hkeauas       2340 D5823H7-7    Lo Ni              812 As
+Hoiew         2432 B5663HA-9  T C6 Lo Ni           201 As
+Yeheais       2433 C6436HC-8    C4 Ni Po           904 As

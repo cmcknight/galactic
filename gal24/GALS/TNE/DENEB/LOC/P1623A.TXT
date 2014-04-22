@@ -1,0 +1,13 @@
+
+HRD System Profile
+
+   HRD (Vincennes: Deneb/1623) A401754-F N Na Va Ic 110 RE M5 III G=0.49,
+   Day=37:11:26.6, Year = 88y 308d 13:00:17.19
+   Atmo=0.00, No Weather Control
+   Temp= +70.97 (5/lat +15 to -35) (season +9 to -15.0, 15 deg lat)
+   Daily temp range 295.82 (+20.64 to -275.18)
+   Ores, Radioactives, Compounds; None; None; Recordings, Software,
+   Documents
+   Radical/Enterprising, Competitive/Neutral, Discordant/Xenophilic
+   Legal: 4-79545 Tech: FD-FFFEF-FFFH-FF-G
+   

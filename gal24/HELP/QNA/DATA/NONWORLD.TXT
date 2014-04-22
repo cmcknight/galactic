@@ -1,0 +1,73 @@
+
+[Q] In the gals\var1\gythios\map\p.dat file, I see the
+following stuff:
+
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Antioch       2536 D55567C-3    Ag                 522 Io 330
+Dubhgan       2631 B345768-9  N Ag                 804 Na 300
+Dolgan        2635 E150533-5    De                 803 Io 740
+Thorp         2638 A671761-B  N                    900 Io 08N fx
+.             2733 *4 Gaseous Nebula                   Na
+.             2734 *4 Gaseous Nebula                   Na
+.             2735 *4 Gaseous Nebula                   Na
+Pitstop 1     2739 *2 Refueling Station         A      Na
+.             2832 *4 Gaseous Nebula                   Na
+.             2833 *4 Gaseous Nebula                   Na
+.             2834 *4 Gaseous Nebula                   Na
+.             2835 *4 Gaseous Nebula                   Na
+Derelict      2836 *3 Abandoned Vessel          R      Io     f
+Pitstop 2     2839 *2 Refueling Station         A      Na
+Idhra         2931 A68987A-D  2                    804 Gw 55R
+.             2932 *4 Gaseous Nebula                   Na
+.             2933 *4 Gaseous Nebula                   Na
+Idhra's Claw  2934 *4 Gaseous Nebula                   Na
+.             2935 *4 Gaseous Nebula                   Na
+.             2936 *4 Gaseous Nebula                   Na
+Pitstop 3     2939 *2 Refueling Station         A      Na
+Deep Lab      3031 *1 Research Station                 Gw
+.             3032 *4 Gaseous Nebula                   Na
+.             3033 *4 Gaseous Nebula                   Na
+.             3034 *4 Gaseous Nebula                   Na
+.             3035 *4 Gaseous Nebula                   Na
+Targon        3036 X435000-0    Ba Lo              000 Na 000
+Pitstop 4     3039 *2 Refueling Station         A      Na
+.             3133 *4 Gaseous Nebula                   Na
+.             3134 *4 Gaseous Nebula                   Na
+.             3135 *4 Gaseous Nebula                   Na
+Steorra       3139 B668632-9  2 Ag                 714 Na 540
+Fogter        3140 A77AAAC-E    Hi Wa              604 Na 3AX
+Brita         3232 X434000-0    Ba Lo              012 Na 500
+Yole          3233 X737000-0    Ba Lo              004 Na 250
+
+What's going on here w/ respect to the entries that begin with a
+period (.) and the entries that have an asterisk (*) where the
+starport code should be located?
+
+[A] The period (.) is used for places where you don't want a name
+showing on the map. In this case, the Idhra nebula comprises many
+different hexes. We obviously want the name printed only once, so
+we make sure that it isn't printed in all the other hexes by using
+a period (.) for the name in those hexes. You can also do this for
+worlds, but use of the "hide" (H) flag (described within the
+previous help file) would be more appropriate for this purpose.
+   As for the asterisk (*) entries, these are entries for various
+non-world sites. They are designated by a *1, *2, *3, or *4, each
+of which refer to what type of marker will be used on the subsector
+map. *1 gets a triangle. *2 gets a square. *3 gets a diamond. *4
+gets lots of dots (good from nebulas and such, which can encompass
+multiple hexes). It's worth keeping in mind that hiding a star (*)
+entry with the hide (H) flag will not only withhold the site's name
+from the map, but will withhold the marker as well, so that it will
+be completely invisible, unlike a star system which can usually be
+seen and triangulated to a specific position even if nobody has
+ever been there. This is a feature which is meant to help you hide
+non-world sites from your players (secret deep-space research
+stations and such). Such non-world sites can have files or menus
+attached to them, but they can't have world maps attached, such as
+does Thorp (2638).
+   For a clearer picture of how this works, select the Variant-1
+Galaxy (Gythios Sector) and go all the way to the bottom-right
+corner where the Idhra Subsector is located.
+

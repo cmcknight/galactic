@@ -1,0 +1,27 @@
+@SUB-SECTOR: sec_O   SECTOR: riftspan
+#
+# Trade routes within the subsector
+$2440 2501 1 1
+$2440 2539 1 0
+$2437 2539 1 0
+$1838 1937 0 0
+$1838 1638 -1 0
+$1838 1840 0 0
+$1840 1901 0 1
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Ktelrahe      1731 A6492G8-E    Lo Ni              605 As
+Khoiriyrl     1837 E6155M9-7    Ni Ic              603 As
+Tarealao      1838 B4648N4-D    Ri                 313 As
+Ouououa       1839 D8748JA-B                       103 As
+Earawalr      1840 B2304HA-9    Ni Po De           805 As
+Hfeae'yo      1937 B5498K3-D                       704 As
+Htoisofea     2137 D4655J6-A    Ag Ni              903 As
+Stiyseakhih   2139 B6768HC-B  R                    500 As
+Stiyteatiru   2238 C9A59H7-D    Hi Fl              211 As
+Resoi         2239 C5898NA-D                       713 As
+Staoiya       2437 A7964M8-B    Ni                 520 As
+Oiharael      2439 C2446K6-A    Ag Ni              523 As
+Feoael        2440 A9A84J3-E    Ni Fl              803 As

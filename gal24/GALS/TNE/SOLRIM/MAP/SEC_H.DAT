@@ -1,0 +1,32 @@
+@SUB-SECTOR: sec_h   SECTOR: solrim
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Dipusha       2513 X6628RB-6                    B  720 Wi
+Mandrake      2514 X3668RF-2                    B  813 Wi
+Urizen        2516 X8C8000-0    Fl Ba              423 Un
+Murphy        2517 X344789-4    Ag	        B  802 Wi
+Ganesh        2518 D766969-8    Hi                 510 Tc     f
+Mimiis        2612 X200000-0    Va Ba              012 Un
+Imkhammash    2617 X2557T9-6    Ag                 413 Wi
+Catania       2618 E568955-8    Hi                 101 Tc     f
+Khugi         2713 X000000-0    As Ba              020 Un
+Pinnashdug    2714 X4787R8-7    Ag                 722 Wi
+Yarlath       2720 X000000-0    As Ba              023 Un
+Nisinasha     2812 X9FA7RC-7    Wa                 604 Wi
+Theta Centau  2816 X000000-0    As Ba              002 Un
+Muphrid       2820 X000000-0    As Ba              011 Un
+Sathyos       2911 X4797T6-6                    B  534 Wi     f
+Rild          2912 XAC7000-0    Fl Ba              022 Un
+Newcomb       2913 X4414M3-4    Ni Po Lo           802 Wi
+Pajang        2915 X3737R7-8                       110 Wi
+Noricum       2918 X3887RF-7    Ag                 202 Wi
+Banasdan      2920 X6538R8-2    Po              B  923 Wi
+Ariel         3011 X514000-0    Ic Ba              005 Un
+Uku	      3015 X636000-0    Ba                 013 Un
+Altiplano     3017 X8D87P8-8                       815 Wi
+Sashingun     3113 E6538S6-7    Po                 520 Wi
+Ludovic       3213 D665977-6    Hi              B  704 Na
+Lakamsal      3218 D5457BE-9    Ag                 804 Na
+Onathy        3219 X521000-0    Ba                 000 Un

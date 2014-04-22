@@ -1,0 +1,30 @@
+@SUB-SECTOR: sec_B   SECTOR: mendan.sec
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX f
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Lashesaan     0903 CA66722-3    Ag                 405 Zu 
+Akhishur      0908 C510368-9    Lo Ni              704 Na 
+Shigu         0909 A57527A-C    Lo Ni              223 Na 
+Padan         1005 C553473-4    Ni Po              911 Va 
+Ikheku        1008 C356340-6    Lo Ni              402 Na 
+Akabasca      1103 C786104-8    Lo Ni              900 Na 
+Ankaa         1105 AA8A379-D    Lo Ni Wa           802 Na 
+Irsisha       1108 A20067A-A  F Na Ni Va           603 Na 
+Aashan        1202 C767641-5  M Ag Ni Ri           903 Na 
+Kakuka        1208 C221763-6  M Na Po              924 Na 
+Lagapemda     1302 C66A699-6    Ni Ri Wa           803 Na 
+Kanoochee     1303 C425104-9  M Lo Ni              725 Na 
+Nashaa        1306 B574442-8  J Ni                 903 Na 
+Megilla       1310 B237013-9  M Lo Ni              900 Na 
+Dingus        1404 B443777-A  J Po                 220 Na 
+Adirgaa       1407 E300204-8    Lo Ni Va           702 Na 
+Endicott      1409 D748641-4    Ag Ni              224 Na 
+Rarkidesh     1601 C310100-B  M Lo Ni              304 Na 
+Ramazzini     1602 B76A445-A  M Ni Wa           A  903 Na 
+Muaris        1605 B6B2966-A  J Fl Hi Cp           423 Jm 
+

@@ -1,0 +1,56 @@
+@SUB-SECTOR: sec_O   SECTOR: vland
+#
+# Trade routes within the subsector
+$1937 1533 -1 0
+$1937 2337 0 0
+$2337 2335 0 0
+$2337 2438 0 0
+$2438 2540 1 0
+$2438 2606 1 0
+$2335 2132 0 0
+$2132 1930 0 -1
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Nikham        1732 E8AA425-8    Ni Fl Wa           410 Rv
+Miku          1734 A8C3575-F    Ni Fl              104 Rv
+Zhinutar      1735 A31259C-E    Ni Ic              204 Rv
+Ake           1736 C528033-9  S Lo Ni              301 Rv
+Glanidarn     1740 D2359CE-A  S Hi                 623 St
+Mekhe         1831 C546567-7    Ag Ni              325 Rv
+Shadi         1833 B597445-C  N Ni                 901 Rv
+Kordanor      1839 D778696-5    Ag Ni              303 St
+Shorlon       1931 D130546-8    Ni Po De           202 Rv
+Sharan        1932 C765223-9  S Lo Ni              124 Rv
+Kaskar        1933 C673564-6    Ni                 901 Rv
+Ekhin         1936 E400673-5    Na Ni Va           701 Rv
+Nulisud       1937 A8D366A-F  N Ni Fl Cp           421 Rv
+Vuldaan       2032 C522765-A    Na Po              623 Rv
+Hykluitt      2035 B1409BA-F    Hi In Po De        804 Rv
+Diinagar      2036 C160423-D  S Ni De              610 Rv
+Miizam        2039 B573477-B    Ni                 310 St
+Imshiig       2132 B374445-9  A D0 Ni              620 Rv
+Iddun         2133 D483001-9    Lo Ni An           320 Rv
+Zemal         2134 C6A9124-9  S Lo Ni Fl           410 Rv
+Shaka         2137 E410000-9    Lo Ba Ni           512 St
+Istuary       2138 B5829BA-D    D5 Hi              122 St
+Zolo          2139 C6286BB-A    Ni                 701 St
+Gikarlum      2232 B999542-9  S Ni                 810 Rv
+Segikin       2233 D768977-6  S Hi                 501 Rv
+Rishin        2235 E21057B-B    Ni                 824 St
+Gaarid        2236 E343746-8    Po                 213 St
+Khugan        2238 B786320-A    Lo Ni              504 St
+Bakor         2240 B878769-7  N Ag                 710 St
+Aaluggidira   2331 C79A304-C    Lo Ni Wa           703 Rv
+Zaakkusham    2332 D483520-7    Ni                 101 Rv
+Miiliinlur    2335 B322665-C  N Na Ni Po           724 St
+Kunni         2336 A784411-D  N Ni                 401 St
+Idi           2337 A361436-E  N Ni                 512 St
+Orguk         2340 E545632-8    Ag Ni              620 St
+Dusekhip      2431 B633964-C  S Hi Na Po           822 Rv
+Korm          2432 B987767-C  N Ag Ri              503 Rv
+Ashuugakher   2433 C210899-7    Na                 620 Rv
+Li            2435 E423856-6    Na Po              120 St
+Shakir        2438 A626201-E    Lo Ni              723 Rv
+Shuurdiikha   2440 C652569-B  S Ni Po              810 St

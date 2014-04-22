@@ -1,0 +1,19 @@
+@SUB-SECTOR: sec_K   SECTOR: reft
+#
+# Trade routes within the subsector
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Sturgeon's Law1724 XAC1000-0    Ba Fl           R  015 --
+Quichotte     1729 D576667-5  S Ag Ni O:1628       613 Re
+Neubayern     1822 A7889C8-B  N Hi                 510 Re
+RQB Avant     1923 D000366-A  S Cm As Lo Ni     A  410 Re
+New Home      1925 A565859-B  N                    804 Re
+Colchis       2026 C676969-8  S Hi In O:1925       111 Re
+St. Genevieve 2123 D460366-8  S De Lo Ni        A  104 Re
+Acadie        2225 E868563-8    Ag Ni O:2325       800 Re
+Sansterre     2322 A87A943-B  N Hi In Wa           322 Re
+RQB Mitchell  2324 X101100-A  S Cm Ic Lo Ni Va  A  900 Re
+Amondiage     2325 A562976-B  N Hi                 202 Re
+RQB Meyers    2423 D735368-A  S Cm Lo Ni        A  703 Re

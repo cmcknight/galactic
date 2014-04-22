@@ -1,0 +1,54 @@
+@SUB-SECTOR: Ehfya SECTOR: Ustral Quadrant
+#
+$2533 2632 0 0 11
+$2632 2732 0 0 11
+$2732 2734 0 0 11
+$2734 2834 0 0 11
+$2834 2934 0 0 11
+$2834 3035 0 0 11
+$3035 3135 0 0 11
+$3135 3234 0 0 11
+$3035 3036 0 0 11
+$3036 2837 0 0 11
+$2837 2737 0 0 11
+$2737 2637 0 0 11
+$2837 2838 0 0 11
+$3233 3234 0 0 11
+$2932 2934 0 0 11
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Aokhai'       2532 X6887JC-0    Ag                 703 Of 
+Stisiylr      2533 C2216MC-8  M D0 Na Ni Po        223 Of 
+Hlaktoi       2537 C4003G2-B    Lo Ni Va           104 Of 
+Orleahea      2538 D4305J2-7    De Ni Po           300 Of 
+Hkua          2631 D8B8787-3    Fl                 603 Na 
+Aheahfyotlare 2632 B2005J7-B    Ni Va              302 Of 
+Htyakhtaufah  2636 C9C64J2-9  M Fl Lo Ni           505 Of  
+FUAWEH        2637 D2109HC-8    Hi In Na           422 Of 
+Tretoi        2639 C5366JC-5    Ni                 725 Of  
+Kye'ealal     2732 A4543J5-A  J Lo Ni              202 Of 
+Eis           2734 C4647MB-7    Ag Ri              502 Of 
+Howeasi       2735 C8965K8-6    Ag Ni              904 Of  
+OUEAR         2737 D75A9HC-5    Hi Wa              305 Of 
+Keilahuheakh  2832 C7661G2-8  M Lo Ni              800 Of 
+Yeuaiyoiiyliy 2834 A7495M6-A  F Ni                 923 Of 
+Huahfoi       2837 B6443M4-B    Lo Ni              502 Of 
+EHFYA         2838 A4619M7-E    Hi                 705 Of     f 
+Oktila        2931 C9A47JA-7    Fl                 824 Of 
+Khuhtea'      2932 B4448H7-9  J Ag                 600 Of 
+Faiyeaoo      2934 A2405J3-D    De Po              402 Of 
+E'eis         2938 E7843K8-4    Lo Ni              313 Of 
+Htoutauealah  3032 E2526J7-6    Ni Po              604 Of 
+Trouiykaw     3035 C6458K4-8                       514 Of 
+Khaieahea     3036 A7A47M8-D  M Fl                 202 Of  
+Yeharehi      3040 E3006A9-6    Na Ni Va           104 Na 
+Steaseaoisoal 3132 C8875J4-9  M Ag Ni              502 Of 
+Ifteaa        3135 B3421G4-7    Lo Ni Po           205 Of 
+Ftyoaokui     3137 C75A457-8    Lo Ni Wa           902 Na 
+Aohyo         3139 B536578-A  M Ni                 725 Na 
+Ahosoieireawa 3232 C5723G7-A    Lo Ni              203 Of  
+IKHTAR        3233 C8A49KC-9    Fl Hi              100 Of 
+Aluiwi        3234 B3431J3-8  J Lo Ni Po           302 Of 
+Yul           3236 A422578-F    Ni Po              814 Na 
+Furlai        3238 C9B6555-B  M Fl Ni              203 Na 

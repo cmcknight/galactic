@@ -1,0 +1,23 @@
+Murcia X564AWC-7
+
+Starport: None          Size: Medium (7200-8800 km)
+Atmosphere: Standard    Hydrographics: 40% water
+Population: 20 billion  Govt: Self Perpetuating Oligarch
+Law Level: Extreme      Technology: Pre-Stellar
+        
+
+Murcia (2109) was never much of a factor in interstellar politics
+despite its high population and status as largest exporter of
+agroproducts in the Khishan cluster. After the general Collapse of the
+Imperium, the Murcian government soon followed suit. Political power
+was seized by the Vilani-style Murcian agricultural bureaux. A supreme
+council of nine magistrates now rules Murcia with an iron fist. Not
+possessing of much in the way of high technology, Murcia has been
+little affected by Virus other than the occasional gratuitous orbital
+bombardment by Vampire fleets. Now, more than ever, it is crucial that
+Murcia meets its agricultural quotas to ensure the continued survival
+of its citizens. Ironically, the oppressive measures taken by the
+magistrates have had a deleterious effect on the planet's agricultural
+output.
+
+by  Chris Griffen <cgriffen@cisco.com>

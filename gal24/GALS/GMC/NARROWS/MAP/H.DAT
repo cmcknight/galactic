@@ -1,0 +1,22 @@
+@SUB-SECTOR: Ekakhir SECTOR: Narrows
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Palermo       2614 C526440-9    Ni                 102 Id
+Bromley       2615 C8B4368-5    Fl Lo Ni           602 Id
+Harding       2616 A779652-A  I Ni                 621 Id
+Sunnyvale     2617 B100974-B  I Hi Na Va           900 Id
+Tagir         2619 E7936AE-3    Fl Ni           A  214 Id
+Kampala       2715 B510742-9  I Na                 400 Id
+Lisma         2716 D786305-6    Lo Ni              104 Id
+Cherlindrea   2717 C694542-9    Ag Ni              611 Id
+Reese         2813 D32468A-8    Ni                 625 Id
+Aeweald       2819 B346879-7                       302 Id
+Mateo         2916 E6849DD-7    Hi              A  205 Id
+Merehloew     2919 B528684-A    Ni                 400 Id
+Gilberti      3017 X886AEF-6    Hi              R  623 Id
+Garfield      3019 C697752-4    Ag                 424 Id
+Ecgbeorth     3114 B7638CE-8                       713 Id
+Enti          3115 D746599-6    Ag Ni              804 Id
+De Driffeld   3116 D23037C-7    De Lo Ni Po        802 Id

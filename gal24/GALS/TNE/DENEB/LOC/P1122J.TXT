@@ -1,0 +1,35 @@
+
+System Details
+--------------
+
+
+Orbit      Name    UPP     Remarks
+------------------------------------------------------------------
+Primary    Undraczech      K7 V
+0  Wood Research Station   G000138-G       As Re
+1  (Empty Orbit)
+2  (Empty Orbit)
+3* Ember   M7 V
+   0       Friend          F212764-G
+      40   Greenwood    YS00000-0       Captured Comet
+   1       Vincennes       A899AA6-G       Hi In Cp
+4  Bascom  Small GG        Size 40
+   4       Turbot          G652239-F       Mining Colony
+   30      Chariot         Y200000-0       Va Ba
+   50      Heighat         Y300000-0       Va Ba
+5  Shinden                 Small GG        Size 50
+   55      Defense         F410367-G       System Defense Base
+6-11       (Empty Orbits)
+12*        Guazhurniim     G1 V
+   0       Craddick        YS00000-0       Va Ba
+   1       Lagahar         YS00000-0       Va Ba
+   2       Anashaldi       Y530000-0
+   3       Paven           DA77766-G       Ag Ni Mi
+      9    Wharton         HS00246-E
+   4       Shozhul         Large GG        Size 220
+      2    (Ring System)   YR00000-0
+      7    Plotkin         YS00000-0
+      10   Stopover        F320134-F       Refueling Station
+
+* Companion stars.
+

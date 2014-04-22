@@ -1,0 +1,31 @@
+@SUB-SECTOR: stars_J   SECTOR: meshan
+#
+# Trade routes within the subsector
+#
+#--------1---------2---------3
+#PlanetName   Loc. Stars(s)
+#----------   ---- ---------
+Glory Day     1023 M2 V
+Zoukhuek      1024 F7 V M4 D
+Nirrgh        1028 K7 V
+Ugh Gzun      1123 M0 V
+Zegku         1130 M8 V M4 D
+Unangall      1221 M6 V
+Dourrgue      1223 M6 V
+Misery        1230 M8 V
+Tsurrg        1322 F1 V M4 D
+Khidhae       1323 M7 III K8 D
+Arrllokh      1325 M3 D M8 D
+Thorndrake    1326 F1 D
+Khakhs        1327 M4 D
+Vue Lots      1427 F6 V
+Khoerr        1428 K8 V M8 D
+Uduth         1521 M4 V
+Gasoyu        1526 K0 V
+Arrgh Tol     1527 F6 D
+Korslloeng    1530 M9 D M2 D
+Aedzung       1621 K7 V
+Sillan        1622 F3 V M0 D
+Irrne         1628 F4 V
+Dhourru       1629 F1 V
+Oururrgh      1630 M8 V M6 V

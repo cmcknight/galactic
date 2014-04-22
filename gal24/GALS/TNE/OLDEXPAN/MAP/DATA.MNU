@@ -1,0 +1,28 @@
+@dir=gals\tne\oldexpan\map
+@Light Yellow
+
+Old Expanses / Data Files
+
+@Light Cyan
+      Sector Data                  @..\oldexpan.dat
+      Credits                      @..\credits.txt
+
+@Light Green
+      Subsector Data
+@Light Cyan
+       A: Dethenes                 @sec_a.dat
+       B: Quinoid                  @sec_b.dat
+       C: Ahrhi                    @sec_c.dat
+       D: Rusco                    @sec_d.dat
+       E: Srys                     @sec_e.dat
+       F: Jayna                    @sec_f.dat
+       G: Twenty-One Worlds        @sec_g.dat
+       H: Ile                      @sec_h.dat
+       I: Thoezennt                @sec_i.dat
+       J: Shenk                    @sec_j.dat
+       K: Karse                    @sec_k.dat
+       L: Vendtup                  @sec_l.dat
+       M: Aubaine                  @sec_m.dat
+       N: Oriflamme                @sec_n.dat
+       O: So Skire                 @sec_o.dat
+       P: Sitah                    @sec_p.dat

@@ -1,0 +1,278 @@
+-----------------------------------------------------------------------
+Michael Glew - School of Math Phys Comp & Elec - Macquarie University
+
+C. Michel Boucher - modifications and "e" additions, plus capitals
+(most information from the 8 GDW Alien Modules and DGP pubs) - August
+1996
+-----------------------------------------------------------------------
+
+  1 2 3 4 5 A B C D E F G H I J K L M N O P Q R S T
+6 . . . . . . . . . . . . . . . . . . . . . . . . .
+7 . . . . . . . . . . . . . . . . . . . . . . . . .
+8 . . . . . . . . . . . . . . . . . . . . . . . . .
+9 . . . . . . . . . . . . . . . . . . . . . . . . .
+0 . . . . . . . . . . . . . . . . . . . . . . . . .
+a . . e e e e e e e o o e e e . . . . . . . . . . .   .  uncharted
+b . . e e e e e o o o o o o o . . . . . . . . . . .   o  charted
+c . . e e e e e o o o o o o o o o o o o o . . . . .   x  data on sunbane
+d . . e e e o o o o o o o x o o o o o o o . . . . .   e  known but not
+e . . e e e o o X x x x x x x o o o o o o . . . . .      necessarily charted
+f . . e e e o o x x x x x x x o o o o o o . . . . .
+g . . . e e o o x x x x x x x o o o o o o . . . . .   Presence of Droyne:
+h . . . e e o o x x x x x x x o o o o o o . . . . .
+i . . . e e o o x x x x x x x o o o o o . . . . . .   DxxxCxxx
+j . . . e e e e o o o o o o o o o o o o . . . . . .
+k . . . e e e e e e e . . o o o o o o o . . . . . .   D = Droyne Worlds
+l . . . . . . . . . . . . o o o . . . . . . . . . .   x = Subsectors + num.
+m . . . . . . . . . . . . . . . . . . . . . . . . .   C = Chirper Worlds
+n . . . . . . . . . . . . . . . . . . . . . . . . .   x = Subsectors + num.
+o . . . . . . . . . . . . . . . . . . . . . . . . .
+p . . . . . . . . . . . . . . . . . . . . . . . . .
+q . . . . . . . . . . . . . . . . . . . . . . . . .
+
+Coord 3 Sector Names          3 Language   3 Capital and subsector  3 Droyne
+----- 3 --------------------- 3 ---------- 3 ---------------------  3 ------
+ a3   3 Stinj Tianz           3 Zhodani    3                        3
+ a4   3 Bliardlie             3 Zhodani    3                        3
+ a5   3 Zhiensh               3 Zhodani    3                        3
+ aA   3 Savria                3 Zhodani    3                        3
+ aB   3 Datsatl               3 Zhodani    3                        3
+ aC   3 Gakghang              3 Vargr      3                        3
+      3 Ianshalpzdier         3 Zhodani    3                        3
+ aD   3 Thaku Fung            3 Vargr      3                        3
+      3 Zhiaqrqiats           3 Zhodani    3                        3
+ aE   3 Rzakki                3 Vargr      3                        3
+ aF   3 Listanaya             3 Vargr      3                        3
+ aG   3 Veg Fergakh           3 Vargr      3                        3
+ aH   3 Dfotseth              3 Vargr      3                        3
+ aI   3 Irugangog             3 Vargr      3                        3
+ b3   3 Viajlefliez           3 Zhodani    3                        3
+ b4   3 Bleblqansh            3 Zhodani    3                        3
+ b5   3 Driasera              3 Zhodani    3                        3
+ bA   3 Dalchie Jdatl         3 Zhodani    3                        3
+ bB   3 Ugoede                3 Vargr      3                        3
+      3 Chit Botshti          3 Zhodani    3                        3
+ bC   3 Ghoekhnael            3 Vargr      3                        3
+      3 Anzsidiadl            3 Zhodani    3                        3
+ bD   3 Ksinanirz             3 Vargr      3                        3
+      3 Zheranzanj            3 Zhodani    3                        3
+ bE   3 Zao Kfeng Ig Grilokh  3 Vargr      3                        3
+ bF   3 Knaeleng              3 Vargr      3                        3
+ bG   3 Kharrthon             3 Vargr      3                        3
+ bH   3 Oeghz Vaerrghr        3 Vargr      3                        3
+ bI   3 Kfazz Ghik            3 Vargr      3                        3
+ bJ   3 Angfutsag             3 Vargr      3                        3
+ c3   3 Brieplanz             3 Zhodani    3                        3
+ c4   3 Sidiadl               3 Zhodani    3                        3
+ c5   3 Zdiedeiant            3 Zhodani    3                        3
+ cA   3 Stiatlchepr           3 Zhodani    3                        3
+ cB   3 Aerenfors             3 Vargr      3                        3
+      3 Ikvitiastaf           3 Zhodani    3                        3
+ cC   3 Knoellighz            3 Vargr      3                        3
+      3 Tlabrieish            3 Zhodani    3                        3
+ cD   3 Dhuerorrg             3 Vargr      3                        3
+      3 Tazhdapl              3 Zhodani    3                        3
+ cE   3 Ngathksirz            3 Vargr      3                        3
+ cF   3 Fa Dzaets             3 Vargr      3                        3
+ cG   3 Gzaekfueg             3 Vargr      3                        3
+ cH   3 Gashikan              3 Imperial   3                        3
+      3 Lloellerz             3 Vargr      3                        3
+ cI   3 Trenchans             3 Imperial   3                        3
+      3 Rukhs Dall            3 Vargr      3                        3
+ cJ   3 Ktiin'gzat            3 K'kree     3                        3
+      3 Ogzuekhfos            3 Vargr      3                        3
+ cK   3 Mugheen't             3 K'kree     3                        3
+      3 Ogadogorz             3 Vargr      3                        3
+ cL   3 Grikr!ng              3 K'kree     3                        3
+ cM   3 Ukaarriit!!b          3 K'kree     3                        3
+ cN   3 Kring Noor            3 K'kree     3                        3
+ cO   3 Mbil!!gh              3 K'kree     3                        3
+ d3   3 Pliabriebl            3 Zhodani    3                        3
+ d4   3 Eiaplial              3 Zhodani    3                        3
+ d5   3 Zhdant                3 Zhodani    3                        3
+      3 Zhodane               3 Imperial   3                        3
+ dA   3 Tienspevnekr          3 Zhodani    3                        3 Dfk
+ dB   3 Usingou               3 Vargr      3                        3 DoCc
+      3 Ziafrplians           3 Zhodani    3                        3
+ dC   3 Gvurrdon              3 Vargr      3                        3 Dc
+      3 Briakqra'             3 Zhodani    3                        3
+ dD   3 Tuglikki              3 Vargr      3                        3 Ckm
+      3 Dravr                 3 Zhodani    3                        3
+ dE   3 Provence              3 Imperial   3 Lair - C               3 Dk
+      3 Orraenang             3 Vargr      3                        3
+ dF   3 The Windhorn          3 Imperial   3                        3
+      3 Gotsdzo               3 Vargr      3                        3
+ dG   3 Meshan                3 Imperial   3                        3
+      3 Arzul                 3 Vargr      3                        3
+ dH   3 Mendan                3 Imperial   3                        3
+      3 Gotsdzo               3 Vargr      3                        3
+ dI   3 Amdukan               3 Imperial   3                        3
+      3 Outhofos              3 Vargr      3                        3
+ dJ   3 Ingukrax              3 K'kree     3                        3
+      3 Arzul                 3 Vargr      3                        3
+ dK   3 Gn'hk'r               3 K'kree     3 Aat Nokr K'ng - A/B    3
+      3 Gelath                3 Vargr      3                        3
+ dL   3 Gur                   3 K'kree     3                        3
+ dM   3 Un'k!!k'ng            3 K'kree     3                        3
+ dN   3 Xaagr                 3 K'kree     3                        3
+ dO   3 Eekrookrigz           3 K'kree     3                        3
+ e3   3 Tsadra Davr           3 Zhodani    3                        3
+ e4   3 Tsadra                3 Zhodani    3                        3
+ e5   3 Yiklerzdanzh          3 Zhodani    3                        3
+ eA   3 Far Frontiers         3 Imperial   3                        3 Ca
+      3 Afachtiabr            3 Zhodani    3                        3
+ eB   3 Foreven               3 Imperial   3                        3 Dde
+      3 Iakr                  3 Zhodani    3                        3
+ eC   3 Spinward Marches      3 Imperial   3                        3 Dm2Ch
+      3 Tloql                 3 Zhodani    3                        3
+ eD   3 Deneb                 3 Imperial   3                        3 Ck
+      3 Nieklsdia             3 Zhodani    3                        3
+ eE   3 Corridor              3 Imperial   3                        3 Ck
+ eF   3 Vland                 3 Imperial   3 Vland - G              3
+ eG   3 Lishun                3 Imperial   3                        3
+ eH   3 Antares               3 Imperial   3 Antares - K            3
+ eI   3 Empty Quarter         3 Imperial   3                        3
+ eJ   3 Star's End            3 Imperial   3                        3
+ eK   3 Gh!hken               3 K'kree     3                        3
+ eL   3 Ruupiin               3 K'kree     3 Kirur - F              3
+ eM   3 Raakaan               3 K'kree     3                        3
+ eN   3 Uuk                   3 K'kree     3                        3
+ eO   3 Gnaa Iimb'kr          3 K'kree     3                        3
+ f3   3 Chiepl Zhez           3 Zhodani    3                        3
+ f4   3 Astron                3 Imperial   3                        3
+      3 Shiants               3 Zhodani    3                        3
+ f5   3 Fulani                3 Imperial   3                        3
+      3 Chtedrdia             3 Zhodani    3                        3
+ fA   3 Vanguard Reaches      3 Imperial   3                        3 DhCc
+      3 Telehfaeikh           3 Aslan      3                        3
+      3 Steblenzh             3 Zhodani    3                        3
+ fB   3 The Beyond            3 Imperial   3                        3 Dlno
+      3 Lerlairlaii           3 Aslan      3                        3
+      3 Zhdiakltlatl          3 Zhodani    3                        3
+ fC   3 Trojan Reach          3 Imperial   3                        3 Dhp
+      3 Hlaoirloahaurl        3 Aslan      3                        3
+      3 Idrflanta             3 Zhodani    3                        3
+ fD   3 Reft Sector           3 Imperial   3                        3 DcCo
+      3 Bransakral            3 Zhodani    3                        3
+ fE   3 Gushemege             3 Imperial   3                        3 DjCe
+ fF   3 Dagudashaag           3 Imperial   3                        3 Dn
+ fG   3 Core                  3 Imperial   3                        3
+ fH   3 Fornast               3 Imperial   3                        3
+ fI   3 Ley Sector            3 Imperial   3                        3
+ fJ   3 Gateway               3 Imperial   3                        3
+ fK   3 Luretiir!girr         3 K'kree     3                        3
+ fL   3 X'kug                 3 K'kree     3                        3
+ fM   3 Kilong                3 K'kree     3                        3
+ fN   3 Bar'kakr              3 K'kree     3 Ktuuxtlligh - K        3
+ fO   3 Mighabohk             3 K'kree     3                        3
+ g4   3 Theta Borealis        3 Imperial   3                        3
+ g5   3 Theron                3 Imperial   3                        3
+      3 Iykhaiser             3 Aslan      3                        3
+ gA   3 Iphigenaia            3 Imperial   3                        3 Ca
+      3 Kyatulyare'           3 Aslan      3                        3
+ gB   3 Touchstone            3 Imperial   3                        3 Co
+      3 Weasuirlaoa           3 Aslan      3 Feirirlakh - E         3
+ gC   3 Riftspan Reaches      3 Imperial   3                        3
+      3 Iiyoihuakh            3 Aslan      3 Aulryakh - A           3
+      3                       3            3 Wahtoikoeakh - P       3
+ gD   3 Verge                 3 Imperial   3                        3 DkCdfg
+      3 Khtiyhkokaeiw         3 Aslan      3                        3
+ gE   3 Ilelish               3 Imperial   3 Ilelish - D            3 DckoCp
+ gF   3 Zarushagar            3 Imperial   3                        3 Cf
+ gG   3 Massilia              3 Imperial   3 Ershur (Kaggushus) - A 3 Dl
+ gH   3 Delphi                3 Imperial   3                        3
+ gI   3 Glimmerdrift Reaches  3 Imperial   3                        3
+ gJ   3 Crucis Margin         3 Imperial   3                        3
+ gK   3 Kaa G!'kul            3 K'kree     3                        3
+ gL   3 Gzirr!k'l             3 K'kree     3                        3
+ gM   3 K'trekreer            3 K'kree     3                        3
+ gN   3 Nuughe                3 K'kree     3                        3
+ gO   3 N!!krumbiix           3 K'kree     3                        3
+ h4   3 Khaeaw                3 Aslan      3                        3
+ h5   3 Faoheiroi'iyhao       3 Aslan      3                        3
+ hA   3 Ftaoiyekyu            3 Aslan      3                        3 Dg
+ hB   3 Afawahisa             3 Aslan      3                        3 Ckm
+ hC   3 Hlakhoi               3 Aslan      3                        3 DeCc
+ hD   3 Ealiyasiyw            3 Aslan      3 Ilekhahke - L          3 Cabd
+ hE   3 Reaver's Deep         3 Imperial   3                        3
+      3 Aeitle Sakh           3 Aslan      3                        3
+ hF   3 Daibei                3 Imperial   3                        3 Dkn
+ hG   3 Diaspora              3 Imperial   3                        3 Ce
+ hH   3 The Old Expanses      3 Imperial   3                        3
+ hI   3 Hinterworlds          3 Imperial   3                        3
+ hJ   3 Leonidae              3 Imperial   3                        3
+ hK   3 Extolian              3 Imperial   3 Tryvlin - H (Ithklur)  3
+      3 Krurrihkugr           3 K'kree     3                        3
+ hL   3 Ricenden              3 Imperial   3 Guaran - J (Hiver)     3
+      3 Gnoghikt!             3 K'kree     3                        3
+ hM   3 Blaskon               3 Imperial   3                        3
+      3 Okteekrul             3 K'kree     3                        3
+ hN   3 Nooq                  3 Imperial   3                        3
+      3 Hkimbiipam            3 K'kree     3                        3
+ hO   3 Gzektixk              3 K'kree     3                        3
+ i4   3 Hkakhaeaw             3 Aslan      3                        3
+ i5   3 Esai'yo               3 Aslan      3                        3
+ iA   3 Waroatahe             3 Aslan      3                        3
+ iB   3 Karleaya              3 Aslan      3                        3 Ch
+ iC   3 Staihaia'yo           3 Aslan      3                        3
+ iD   3 Iwahfuah              3 Aslan      3                        3 Caf
+ iE   3 Dark Nebula           3 Imperial   3                        3
+      3 I'aheako              3 Aslan      3 Kusyu - J              3
+ iF   3 Magyar                3 Imperial   3                        3
+ iG   3 Solomani Rim          3 Imperial   3 Terra - K              3
+ iH   3 Alpha Crucis          3 Imperial   3                        3
+ iI   3 Spica                 3 Imperial   3                        3
+ iJ   3 Phlask                3 Imperial   3                        3
+ iK   3 Centrax               3 Imperial   3 Glea - H (Hiver Cap)   3
+ iL   3 Wrenton               3 Imperial   3 Loza'tch - K (Za'tachk)3
+ iM   3 Folgore               3 Imperial   3 Ofilaq - A (Gurvin)    3
+ iN   3 Avereguar             3 Imperial   3                        3
+ j4   3 Yahehwe               3 Aslan      3                        3
+ j5   3 Kefiykhta             3 Aslan      3                        3
+ jA   3 Heakhafaw             3 Aslan      3                        3
+ jB   3 Etakhasoa             3 Aslan      3                        3
+ jC   3 Aktifao               3 Aslan      3                        3
+ jD   3 Uistilao              3 Aslan      3                        3
+ jE   3 Ustral Quadrant       3 Imperial   3                        3
+      3 Ftahtuak              3 Aslan      3                        3
+ jF   3 Canopus               3 Imperial   3                        3
+ jG   3 Aldebaran             3 Imperial   3                        3
+ jH   3 Neworld               3 Imperial   3                        3
+ jI   3 Langere               3 Imperial   3                        3
+ jJ   3 Drakken               3 Imperial   3                        3
+ jK   3 Lorspane              3 Imperial   3                        3
+ jL   3 Porlock               3 Imperial   3                        3
+ jM   3 Kidunal               3 Imperial   3                        3
+ jN   3 Treece                3 Imperial   3                        3
+ k4   3 Ohieraoi              3 Aslan      3                        3
+ k5   3 Pahreahluis           3 Aslan      3                        3
+ kA   3 Hfiywitir             3 Aslan      3                        3
+ kB   3 Irlaftalea            3 Aslan      3                        3
+ kC   3 Teahloarifu           3 Aslan      3                        3
+ kD   3 Ahkiweahi             3 Aslan      3                        3
+ kE   3 Banners               3 Imperial   3                        3
+      3 Iyiyukhtoi'           3 Aslan      3                        3
+ kH   3 Hadji                 3 Imperial   3                        3
+ kI   3 Storr                 3 Imperial   3                        3
+ kJ   3 Mikhail               3 Imperial   3                        3
+ kK   3 Darret                3 Imperial   3                        3
+ kL   3 Ataurre               3 Imperial   3                        3
+ kM   3 Katoonah              3 Imperial   3                        3
+ kN   3 Uytal                 3 Imperial   3                        3
+ lH   3 RimReach              3 Imperial   3                        3
+ lI   3 Phlange               3 Imperial   3                        3
+ lJ   3 Tracerie              3 Imperial   3                        3
+
+Date: Tue, 6 Aug 1996 18:36:19 -0400 (EDT)
+From: alsandor@netcom.ca (Michel Boucher)
+Subject: Re: GLEWMAP.TXT
+
+Features of the new file:
+
+I've added 
+- all the known names for sectors (multiples if there are)
+- presence of Chirper and Droyne inhabited worlds
+- other names of sectors that weren't in the list (mostly
+    Vargr and Zhodani)
+- names of known capitals
+

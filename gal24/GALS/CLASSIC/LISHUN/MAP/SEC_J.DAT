@@ -1,0 +1,51 @@
+@SUB-SECTOR: sec_J   SECTOR: lishun
+#
+# Trade routes within the subsector
+$1222 0621 -1 0
+$1222 1220 0 -1
+$0927 0626 -1 0
+$0927 1326 0 0
+$1326 1627 0 0
+$1627 1826 1 0
+$1627 1730 1 0
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Amdas         0921 B965588-9  N Ag Ni              600 Li
+Ekhi          0922 A5958BE-C  N                    203 Li
+Iishgid       0923 C584210-9    Lo Ni              113 Li
+Shuama        0927 A97A110-F    Lo Ni Wa           604 Li
+Phapara       0928 B6878AF-7                       710 Li
+Aeradposa     0929 C897837-6  S                    702 Li
+Iishkudig     0930 E845543-6    Ag Ni              104 Li
+Nishdu        1026 B643340-D  N Lo Ni Po           510 Li
+Isshun        1027 E628567-8    Ni                 904 Li
+Khiimshi      1028 C8C8331-C  N Lo Ni Fl           202 Li
+Kirzaddama    1121 C744488-6    Ni                 213 Li
+Khamash       1125 E524485-7    Ni                 620 Li
+Ermurkag      1221 B000663-B    Na Ni As           313 Li
+Arkash        1222 A6A3652-D    Ni Fl              823 Li
+Gaaka         1228 B442254-D    Lo Ni Po           523 Li
+Serki Skie    1322 C989231-C    Lo Ni              325 Li
+Iklish        1323 C658341-9    Lo Ni              523 Li
+Dadugi        1326 A421300-E  N Lo Ni Po           810 Li
+Thunder       1328 C6A8674-9  S Ni Fl              310 Li
+Maa Shere     1329 C200521-C    Ni Va              823 Li
+Lukesha       1330 A447101-F    Lo Ni              904 Li
+Soshoz        1424 D110389-A  S Lo Ni              400 Li
+Adophak       1430 A576402-D  N Ni                 602 Li
+Lidarun Five  1521 C446669-6    Ag Ni              403 Li
+Kapga         1522 C6B4200-8  S Lo Ni Fl           103 Li
+Shiigagi      1524 C110866-A  S Na                 210 Li
+Iir Dusher Rar1525 E776653-5    Ag Ni              404 Li
+Shim          1526 C492578-C  N Ni                 900 Li
+Ranor Pha     1528 E655656-9    Ag Ni              912 Li
+Gaedasha      1529 C9B6555-B  S Ni Fl              201 Li
+Zeta Spick    1530 C545457-8    Ni                 333 Li
+Kapez         1621 C87A673-6    Ni Wa              604 Li
+Sofen         1622 A665487-F    Ni                 513 Li
+Teloc Raiz    1623 C220302-D  S Lo Ni Po De        704 Li
+Adadbo        1625 E160300-B    Lo Ni De           610 Li
+Taccis        1627 A672AAC-F  N Hi In              701 Li
+Ennanod       1629 E667373-9    Lo Ni              600 Li

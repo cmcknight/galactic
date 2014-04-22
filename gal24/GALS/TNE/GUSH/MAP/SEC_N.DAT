@@ -1,0 +1,46 @@
+@SUB-SECTOR: sec_N   SECTOR: gush
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Taalish       0933 X372532-1    Ni                 103 Wi
+Eycoltou      0934 D887134-6    Lo Ni              301 Wi
+Lemantine     0935 X865224-3    Lo Ni              100 Wi
+Baalaansh     0936 D561613-5    Ni              B  304 Wi
+Gamaliss      0937 X372441-7    Lo Ni              400 Wi
+Swinedune     0940 X000000-0    Ba As              000 --
+Nukyls        1033 X240332-4    C2 Lo Ni Po De     511 Wi
+Maernon       1036 C67869A-6    Ag Ni           B  203 Wi
+Sharim        1038 X435000-0    Ba                 000 --
+He'alaan'drl  1039 X424000-0    Ba                 001 --
+Kemshigesh    1133 X532000-0    Ba Po              013 --
+Podero        1135 E2657AE-5    Ag              B  513 Wi
+Uin           1136 X543567-7    Ni Po              303 Wi
+Draerch       1137 X312000-0    Ba Ic              000 --
+Weaf          1139 X7A7000-0    Fl Ba              002 --
+Rellena       1140 X898231-2    Lo Ni           B  410 Wi
+Find          1231 E67546B-4    Lo Ni              123 Wi
+Mercator      1233 D440400-7  S Lo Ni Po De        203 Wi
+Sidur Ishki   1234 X312000-0    Ba Ic              020 --
+Icon          1235 X434000-0    Ba                 015 --
+Shiiki        1236 X55166D-1    Ni Po           B  710 Wi
+Gumahler      1237 X6557A9-4    Ag              B  105 Wi
+Zalanor       1239 X100000-0    Ba Va              024 --
+Camal         1331 X321000-0    Ba Po              003 --
+Wingate       1333 X877567-0    Ag Ni           B  400 Wi
+Sidur Haski   1334 X786212-7    Lo Ni              420 Wi
+Thon          1337 C745510-7  S Ag Ni           B  210 Wi
+Depsorn       1340 X443310-5    Lo Ni Po           303 Wi
+Arailiur      1431 X500000-0    Ba Va              000 --
+Confex        1432 XAC4000-0    Fl Ba              020 --
+Vueegmala     1433 X629000-0    Ba                 003 --
+Tromiishur    1434 X626000-0    Ba                 024 --
+Shupin        1439 X959986-5    Hi              B  104 Wi
+Ovchek        1440 X635000-0    Ba                 000 --
+Oneria        1531 X787410-4    Lo Ni           B  205 Wi
+Polygamy      1532 B549643-8    Ni                 700 Wi
+Sinerhk       1534 D656620-8    Ag Ni              204 Wi
+Here          1539 X443611-7    Ni Po           B  403 Wi
+Chiras        1540 X555311-4    Lo Ni              103 Wi
+Zinzan        1637 X233000-0    Ba Po              004 --
+Budeeshou     1638 X597358-5    Lo Ni              404 Wi
+Llest         1640 D78A241-7  S Lo Ni Wa           203 Wi

@@ -1,0 +1,31 @@
+@SUB-SECTOR: Regulus    SECTOR: alphaleo
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Satona        0932 X6925Q4-4    Ni              B  413 Wi
+Regulus       0937 X100000-0    Ba Va              003 Un
+Terouz        0939 X3725R8-3    Ni                 110 Wi
+Melk          1032 X3475RA-4    Ag Ni           B  404 Wi
+Rindschleiden 1033 X431000-0    Ba                 005 Un
+Merlin        1038 X110000-0    Ba                 020 Un
+Daboyel       1039 X232000-0    Ba                 011 Un
+Rocamadour    1131 D6844M0-6    Lo Ni           B  403 Wi
+San Vitale    1132 X87A4M1-6    Lo Ni Wa        B  203 Wi
+Speyerta      1134 X410000-0    Ba                 012 Un
+Dimpo Iu      1138 X6764RA-8    Lo Ni              512 Wi
+Alphard       1232 X200000-0    Ba Va              010 Un
+Yano          1235 X773000-6    Ba                 001 Un
+Doko Ba       1236 D5777S2-6    Ag                 224 Wi
+Lima          1237 X3543M2-4    Lo Ni              413 Wi
+Donzo         1239 X300000-0    Ba Va              001 Un
+Waz           1331 X200000-0    Ba Va              002 Un
+Berlin        1334 X8C1000-0    Ba Fl              010 Un
+Denver        1336 X9BA000-0    Ba Fl Wa           000 Un
+Silver Oil    1337 X63A000-0    Ba Wa              000 Un
+NoRig         1339 X222000-0    Ba                 000 Un
+Darina        1432 X89A5RC-7    Ni Wa              310 Wi
+Pijo          1433 C5558RA-7                       200 Wi
+Cinia         1435 X5842M0-7    Lo Ni              110 Wi
+Tino          1531 X3425R8-5    Ni Po              200 Wi
+Algieba       1640 X000000-0    As Ba              001 Un

@@ -1,0 +1,114 @@
+
+--------------------------------------------------
+Introduction to the Universal World Profile Editor
+--------------------------------------------------
+
+The UWP Editor is intended to make editing specific worlds and
+non-worlds less of a chore.
+
+
+When Editing Worlds:
+--------------------
+
+The UWP Editor's chief advantage over a more conventional editor
+is that you can see the UWP stat definitions change in front of
+your eyes as you change the stats themselves. Likewise, there is
+a field colored in red showing the computed trade codes, and
+these trade codes change automatically as you modify the UWP
+stats, thus saving you the time of working them out by hand. You
+can even copy the computed trade codes over to the notes section
+of the world you are editing by simply hitting the <F2> key, but
+beware that you might wipe out certain notes which are not
+computed, such as subsector capital designations, for example.
+
+You can use the right/left arrows and the <Tab> key to move the
+"cursor", and if you are on a UWP digit, you can change it to the
+next higher or lower value by using the up/down arrows. It is
+also worth noting that alphanumeric keys are active, so that if
+you are at the starport digit and wish to change it to a "Class
+A" facility, simply hitting the <A> key will accomplish this.
+The <space bar> will wipe out the entry of a given column,
+except for the 1st, which must always contain something. If you
+want to wipe out a world's name, just put a "." in the first
+column, and wipe out the rest of the name with spaces.
+
+The <F1> key toggles the method which the program uses to compute
+the trade codes. The "official" method, which is assumed when the
+program is first executed, uses the trade classification table in
+the MegaTraveller rules. However, during the course of writing
+Galactic's sector generator, I provided an alternate "homebrew"
+method for world generation which, in part, modified the
+MegaTraveller system by dropping the Rich, Poor, Industrial,
+Nonindustrial, and Non-agricultural trade codes. Two additional
+modifications were that water worlds may be agricultural and that
+fluid (non-water) oceans would not exist on worlds without an
+exotic, corrosive, or insidious atmosphere.
+
+Here is an example world to illustrate the UWP format used by
+this software:
+
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Thorp         2638 A671761-B  N                    900 Io 08N fxh
+                   ||||||| |  |                 |  ||| |  ||| |||
+         Starport -+|||||| |  +- Military Base  |  ||| |  ||| ||+- Hide (H,h, )
+        World Size -+||||| |       Travel Zone -+  ||| |  ||| |+- Map (x,y,z, )
+         Atmosphere -+|||| +- Technology Level     ||| |  ||| +- Attach (f,m, )
+       Hydrographics -+|||  Population Multiplier -+|| |  ||+- Export
+            Popultion -+||         Planetoid Belts -+| |  |+- Resource Level
+            Government -+|               Gas Giants -+ |  +- Indigenous Life
+              Law Level -+                 Allegiance -+
+
+Notes:
+   Travel Zone: <space>=green, A=amber, B=blue, R=red
+   Life, Resource, Export: These are all part of the homebrew system
+      and are only active when the "homebrew" method is in use.
+   Attach: A file (f) or a menu (m) may be attached to the hex to
+      give more detail about the world in question.
+   Map: Maps may be attached as well. In such cases, an "x" in this
+      position signifies that a world map is attached. "y" denotes a
+      map of the star system. "z" indicates both sorts of maps.
+   Hide: The world may also be hidden. "h" signifies a weak hide
+      (most of the stats are hidden from the user). "H" signifies a
+      strong hide (not even the world name will appear on the map,
+      although the marker signifying its presence will still be drawn).
+
+
+When Editing Non-Worlds:
+------------------------
+
+Non-worlds are anything that's not a world. Common examples include
+deep space research and refueling stations, derelict spacecraft that
+happened to misjump far away from any star system, astronomical
+curiosities such as neutron stars or black holes, and even nebulas.
+
+The arrows and tab function in much the same manner as before,
+however, the format for non-worlds is very different. Here is
+an example:
+
+
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Derelict      2836 *3 Abandoned Vessel          R      Io     f H
+                   ||                           |      |      | |
+         Asterisk -++- Marker (1,2,3,4)         |      |      | +- Hide (H,h, )
+  (signifies this                  Travel Zone -+      |      +- Attach (f,m, )
+  as a non-world)                          Allegiance -+
+
+Notes:
+   Marker: 1=triangle, 2=square, 3=diamond, 4=lots-o-dots
+   Attach: f=file, m=menu
+   Map: Generally speaking, non-worlds don't have maps
+   Hide: H=strong, h=soft (strong hide will hide both the name
+      as well as the marker, while a soft hide will hide only
+      the explanation... in this case "Abandoned Vessel")
+
+
+Hope you enjoy the program, and if you find any bugs or have
+suggestions for new features, please write.
+
+                                        Jim Vassilakos
+                                        jimv@empirenet.com
+

@@ -1,0 +1,28 @@
+@SUB-SECTOR: sec_o   SECTOR: Diaspora
+#
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Waverly       1733 XAA7000-0    Ba Fl              000 Un
+Manna         1737 X8D5000-0    Ba Fl              012 Un
+Galuuda       1739 X79A6R9-3    Ni Wa           B  902 Wi
+Berens        1740 C8461O6-8    Ni Lo              411 Wi
+Dinklewater   1838 X98A2N5-5    Ni Wa Lo           114 Wi
+Kinos         1840 X5588VB-5                       823 Wi
+Ruffian       1933 X4484T7-4    Ni Lo           B  314 Wi
+Belin         1934 E9967R5-8    Ag              B  902 Wi
+Tygger        1938 E7682N1-7    Ni Lo              503 Wi
+Hewlett       2031 X110000-0    Ba                 003 Un
+Seben         2037 D6948R9-6                       103 Wi
+Epic          2040 X434000-0    Ba                 012 Un
+Geonia        2134 X53A000-0    Ba Wa              002 Un
+Tavara        2136 X67A3P4-6    Ni Wa Lo           112 Wi
+Pekhuraa      2236 D7846O4-9    Ni Ag              205 Wi
+Saagii        2333 X4447Q8-8    Ag              B  614 Wi
+Kiiki         2334 X225000-0    Ba                 024 Un
+Saratov       2338 X5593O3-5    Ni Lo           B  303 Wi
+Kelvin        2340 X6405RA-2    Ni De Po        B  304 Wi
+Lexol         2434 X100000-0    Ba Va              010 Un
+Forgotten     2438 X630000-0    Ba De              001 Un
+Bernens       2440 X5506R7-4    Ni De           B  500 Wi

@@ -1,0 +1,46 @@
+Spinward Marches
+
+A: Cronor                    cronor.dat
+B: Jewell                    jewell.dat
+C: Regina                    regina.dat
+D: Aramis                    aramis.dat
+E: Querion                   querion.dat
+F: Vilis                     vilis.dat
+G: Lanth                     lanth.dat
+H: Rhylanor                  rhylanor.dat
+I: Daryen                    daryen.dat
+J: Sword Worlds              sword.dat
+K: Lunion                    lunion.dat
+L: Mora                      mora.dat
+M: Five Sisters              fivesis.dat
+N: Plankwell                 plankwel.dat
+O: Glisten                   glisten.dat
+P: Trin's Veil               trin.dat
+
+Bases:
+N = Navy
+S = Scout
+A = Navy & Scout
+B = Navy & Marine
+Z = Navy & Marine
+D = Navy & Marine
+J = Unknown
+M = Planetary Guard
+W = Way Station
+Z = Unknown
+  = None
+
+Allegiance:
+12 Re = Regency of Deneb
+11 Zh = Zhodani
+13 Va = Vargr
+03 Sw = Sword Worlds
+01 Da = Daryen Confederation
+07 Na = Non-aligned
+04 Cs = Client State of Regency
+05 Fa = Federation of Arden
+14 Gc = Gram Confederation
+13 Ns = New Sacnoth Dominate
+11 Nu = Narsil Union
+08    = Unknown
+

@@ -1,0 +1,33 @@
+@SUB-SECTOR: sec_c   SECTOR: Spica
+# 
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Star Harvest  2518 A78A421-C    Lo Ni Wa           203 Hv
+Lucubratious  2520 X000000-0    Ba As              014 Un
+Slater        2612 C8878P4-9                       221 Wi
+Deseret       2613 X6747R8-5    Ag Hp           B  704 Wi
+Tritran       2619 E332301-9    Lo Ni Cm Po        123 Hv
+Helios Alpha  2712 X65A300-2    Lo Ni Wa           403 Wi
+Louis         2714 X110Z95-4    Na Hi In Nh     A  224 Xh
+Mt. Ommet     2716 D9D8401-5    Lo Ni              204 Hv
+Thousand Oaks 2717 X334000-0    Ba                 000 Un
+Canto         2718 X87A5Q8-4    Ni Wa           B  311 Wi
+Sardica       2814 X4404P2-7    Lo Ni Po De        304 Wi
+Deuterios     2815 X559301-3    Lo Ni Hp           320 Wi
+History Club  2820 E577205-5    Lo Ni Hn           200 Hv
+Paros         2914 D6898TD-4                    B  900 Wi
+Nggele        2917 D5507I4-5    Po De              200 Hv
+Aventicum Vaud3012 X5686R7-3    Ag Ni Hp        B  613 Wi
+Viscera       3018 C8978SA-7                    B  114 Wi
+Manihl        3020 D400304-5    Lo Ni Cm Va        602 Hv
+Nerts         3112 X211000-0    Ba Ic              022 Un
+Montevideo    3113 X430000-0    Ba Po De           004 Un
+Zongehl       3116 D233323-5    Lo Ni Cm Po        301 Hv
+Bombir II     3119 E421464-6    Lo Cm Po Nh O:0 A  700 Hv
+Filterpool    3120 C674501-7    Ag Ni Hp           404 Hv
+Bedlam        3211 X8C0000-0    Ba De              003 Un
+Sline         3214 X231000-0    Ba Po              002 Un
+Tintific      3216 X4424Q7-9    Lo Ni Po           503 Wi
+Ulrich        3218 X731000-0    Ba Po              002 Un

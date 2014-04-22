@@ -1,0 +1,31 @@
+Astrography: The science of mapping interstellar space.
+Basic to any science of mapping is a coordinate system. The
+system used by the Imperium is based on rings of latitude,
+rays of longitude, and parsecs.
+
+Rays of longitude extend from the galactic core, while
+concentric rings of latitude are placed at one parsec
+intervals. By convention, the concentric ring passing through
+Reference/Capital is labelled the 10,000th ring, and is used
+as a baseline. Similarly, the ray of longitude extending from
+the center of the Galaxy through Reference/Capital is
+designated as the first ray. Measurement is in parsecs,
+counting in the trailing direction. Computation reveals that
+the circumference of the 10,000th ring (r=10,000) is 62,832
+parsecs. Counting spinward uses a subtraction from 62,833,
+which is the equivalent of the zero baseline.
+
+For example, Regina, of the Regina subsector, in the
+Spinward Marches, is 9930 ring/ray 62723. The format for
+expression of location is xxxx ring/ray yyyyy, where xxxx is
+the ring of latitude (distance from the galactic core in
+parsecs), and yyyyy is the distance of the ray of longitude
+(in parsecs) from the first ray of longitude, measured along
+the ring of latitude in the trailing direction.
+
+This mapping system is highly Imperio-centric, and other
+systems are used by other peoples and races outside the
+Imperium. This system has gained wide acceptance, however,
+among Imperium dominated client-states, human and otherwise.
+
+(reproduced by permission of the author, Chuck Kallenbach II)

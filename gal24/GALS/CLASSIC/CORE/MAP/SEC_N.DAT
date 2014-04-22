@@ -1,0 +1,42 @@
+@SUB-SECTOR: Ch'naar SECTOR: Core
+#
+# Trade routes within the subsector
+$1638 1601 0 1
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+.             0931 A599367-C    Lo Ni              814 Li 
+.             0933 B88A104-B  A Lo Ni Wa           311 Li 
+.             1033 B556215-D  W Lo Ni              604 Li
+.             1034 C533762-6    Na Po              200 Li 
+.             1035 B581666-A  S Ni Ri              503 Li 
+.             1037 D542201-9  S Lo Ni Po           624 Li 
+.             1038 B358697-C    Ag Ni              914 Li 
+.             1040 B528200-E    Lo Ni              325 Li 
+Aursis        1134 A5459BD-F  A Hi In              500 Li 
+.             1140 BAF3579-A    Ni Fl              800 Li 
+.             1232 B130563-D    Ni Po De           722 Li 
+.             1233 A375025-B    Lo Ni              424 Li 
+.             1236 B491384-E    Lo Ni              303 Li 
+.             1237 E6A7761-7    Fl                 903 Li 
+.             1239 B547759-D  N Ag                 302 Li 
+.             1240 C223304-9  S Lo Ni Po           214 Li
+.             1334 BACA37B-C    Lo Ni Fl Wa        112 Li
+Umkashuu      1335 B3549C9-C    Hi                 322 Li 
+.             1336 EA97596-4    Ag Ni              503 Li
+.             1338 B695300-C  N Lo Ni              902 Li
+.             1431 C494046-9  S Lo Ni              903 Li
+.             1434 C755203-C    Lo Ni              503 Li 
+.             1436 E6B078B-9    De                 401 Li
+.             1437 B9A8311-9  S Lo Ni Fl           913 Li 
+.             1440 A58A69C-F    Ni Ri Wa           303 Li
+.             1531 C33389C-B    Na Po              813 Li 
+.             1533 B647886-8  N                    402 Li 
+.             1534 A76A551-D  N Ni Wa              603 Li 
+Shueshlar     1536 C435998-9  S Hi                 502 Li 
+.             1538 A3437BB-A  N Po                 201 Li
+.             1539 A583220-F  N Lo Ni              104 Li
+.             1633 B300666-D    Na Ni Va           801 Li
+.             1635 C62757B-A    Ni                 314 Li
+.             1638 E759877-5                       612 Li

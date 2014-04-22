@@ -1,0 +1,10 @@
+
+Antares Sector - Credits
+------------------------
+
+The Antares Sector UWP data were created by Digest Group Publications.
+Joe Fugate posted the data to GEnie in 1989. The Sabmiqys are from
+Challenge 28. The Githiaskio are from JTAS 16. Jeff Zeitlin
+(jeff.zeitlin@execnet.com) converted the sector to Galactic format
+in 1997 and added the jump routes.
+

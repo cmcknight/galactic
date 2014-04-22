@@ -1,0 +1,51 @@
+@SUB-SECTOR: Corinth SECTOR: Gythios Sector
+#
+# Jump-routes
+$2516 2214 -1 0
+$2516 2216 -1 0
+$2613 2510 0 -1
+$2514 2516 0 0
+$2514 2613 0 0
+$2516 2616 0 0
+$2613 2713 0 0
+$2613 2914 0 0
+$2719 2820 0 0
+$2820 3022 0 1
+$2914 3014 0 0
+$2914 3115 0 0
+$2915 3014 0 0
+$2915 3115 0 0
+$3014 3115 0 0
+$3019 3220 0 0
+$3019 3022 0 1
+$2616 2709 0 0
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Hazroah       2514 B8A5326-7    Fl Lo              513 Fc 070
+Derset        2516 A641586-D  N                    702 Dr 2AC
+Corinth       2613 A326757-B                       422 Fc 56S
+Earwine       2616 C8B3564-7  S Fl                 404 Dr 09L
+Havilland     2618 X230000-0    Ba De Lo           014 Fc 030
+Tagram        2711 X000000-0    As Ba Lo           025 Fc 000
+Muscovy       2713 B414362-C  S Ic Lo              723 Fc 030
+Cauchy        2714 X9B4000-0    Ba Fl Lo           023 Fc 0B0
+Lile          2715 C884888-5                       204 Fc 250
+Taylour       2719 A662A8C-A  N Hi                 624 Fc 36N
+Waldan        2720 D245224-6    Lo                 303 Fc 200
+Peverell      2811 B5859AE-9    Hi                 623 Fc 685
+Dumpty        2814 X72A000-0    Ba Lo Wa           010 Fc 140
+Lois          2817 D85A332-9  S Lo Wa              104 Fc 570
+Dawnwind      2820 A885A89-E    Hi                 710 Fc 1BW
+Laisa         2912 D658645-3  S Ag                 302 Fc 193
+Wei           2914 A783AEF-9  N Hi                 501 Fc 965
+De Suthwell   2915 A53556A-9                       901 Fc 46J
+Sunberry      3012 X97A000-0    Ba Lo Wa           003 Fc 0E0
+Giorsal       3014 A568ADF-9    Hi                 700 Fc 16V
+Farber        3019 A5856AA-9    Ag                 104 Fc 1A5
+Guinness      3115 A765AEE-8  S Hi                 925 Fc 8AO
+Kirov         3117 X100000-0    Ba Lo Va           024 Fc 010
+Hamlet        3216 X210000-0    Ba Lo              001 Fc 040
+Ghant         3218 X200000-0    Ba Lo Va           003 Fc 000
+Aleric        3220 B4638BE-9  N                    122 Fc 030

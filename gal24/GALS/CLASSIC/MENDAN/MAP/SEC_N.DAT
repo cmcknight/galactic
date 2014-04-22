@@ -1,0 +1,47 @@
+@SUB-SECTOR: sec_N   SECTOR: mendan.sec
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+$1640 1938 1 0 11
+$1634 1936 1 0 11
+$1640 1539 0 0 11
+$1539 1238 0 0 11
+$1539 1337 0 0 11
+$1640 1502 0 1 11
+$1337 1634 0 0 11
+$1634 1732 1 0 11
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX f
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Rikhtan       0932 C62558C-8  G Ni              R  404 Va 
+Uksol         0933 CA9699A-5    Hi In           R  403 Va 
+Ughzneng      0938 B833558-B  G Ni Po           R  103 Va 
+Llaegho       0939 C642434-6    Ni Po              324 Va 
+Llan Ag       1035 E641877-4    Po                 801 Va 
+Ueksae        1038 C8A8242-5  C Fl Lo Ni           202 Va 
+Midir         1040 B321776-9    Na Po              501 J- 
+Oeghull       1139 D688ADD-3    Hi C1           A  611 J- 
+Tarr          1140 C7359B6-8  M Hi                 422 J- 
+Eghzaz        1231 C0006A8-9    As Na Ni           324 Na 
+Oularso       1237 C333250-7  M Lo Ni Po           602 J- 
+Bixpuls       1238 B478734-8    Ag D1 Rs           404 J- 
+Vouthoeng     1335 C654664-7    Ag Ni              923 Jp 
+Angull        1336 C410100-8    Lo Ni              125 Jp 
+Holy Jyestha  1337 A200520-C    Ni Va              400 Jp 
+Kipli         1338 C575976-8  M Hi In              304 Jp 
+Ezu Ukfae     1340 C678526-7  J Ag Ni           A  104 J- 
+Khishishu     1431 E763531-4    Ni                 904 Jl
+Duksham       1435 E673742-4                       623 Jp 
+Imsagga       1436 E4209BC-9    De Hi In Na Po     523 Jp 
+Prentice      1534 B520034-9    De Lo Ni Po        822 Jp 
+Garash        1536 E324430-4    Ni                 503 Jp 
+Atorouth      1538 C400301-7  J Lo Ni Va           524 Jp 
+Flash         1539 B00058D-9  F As Ni              623 Jp 
+Iisha         1632 C532743-6    Na Po              804 Jp 
+Kimball       1633 A7A2646-9    Fl Ni              101 Jp 
+Lasla         1634 A532ABA-E    Hi Na Po Cp        902 Jp     f
+Agvaezo       1635 C566558-8    Ag Ni              220 Jp 
+Knueg         1640 C574974-9  J Hi In              624 J- 
+

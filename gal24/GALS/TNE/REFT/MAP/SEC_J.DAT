@@ -1,0 +1,22 @@
+@SUB-SECTOR: sec_J   SECTOR: reft
+#
+# Trade routes within the subsector
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Zuflucht      0921 D445655-7  M Ag Ni           A  400 Re
+Wellington    0925 X8B0000-0    Ba De           R  000 --
+Esperanza     0926 A674ABC-A  N Hi In              403 Re
+St. Hilaire   0930 B579763-9  N O:0926             400 Re
+Nebelwelt     1030 C879567-5    Ni O:0926          312 Re
+Gloire        1123 E764769-8    Ag O:1323       A  324 Re
+Serendip Belt 1323 A000959-B  N As Hi In Na        402 Re
+New Colchis   1327 A8959AD-B  N Hi In              203 Re
+Herzenslust   1426 E995765-5    Ag O:1327       A  720 Re
+Orphee        1429 X885647-0    Ag Ni              200 Re
+Topas         1522 E120869-5    De Na Po        A  404 Re
+Elysee        1525 B502455-7  N Ic Lo Ni Va     A  600 Re
+Besancon      1526 D201457-8  S Ic Lo Ni Va     A  902 Re
+Berlichingen  1621 X600000-0    Ba Va           R  000 --
+Joyeuse       1628 A7899B9-B  N Hi                 304 Re

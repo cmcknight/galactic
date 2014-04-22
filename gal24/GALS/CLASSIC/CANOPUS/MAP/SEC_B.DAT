@@ -1,0 +1,34 @@
+@SUB-SECTOR: sec_B   SECTOR: canopus
+#
+# Trade routes within the subsector
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Gilmesh       0903 D9AA836-A    Fl Wa              623 So
+Wydouson      0905 C200774-B  S Na Va              714 So
+Bialystok     0906 B5339EE-C  N Hi In Na Po        403 So
+Colwyn        0907 D210743-7  S Na                 922 So
+Novel         0909 D320674-6    De Na Ni Po        420 So
+Mogadiscio    0910 A433A87-E  N Hi In Na Po        222 So
+Zaccarrio     1002 E100867-A    Na Va              610 So
+Laisa         1003 E875462-4    Ag Lo Ni           623 So
+Steuben       1005 A342456-D  S Lo Ni Po           304 So
+Konat-Kale    1101 B88877B-7    Ri                 304 So
+Ret           1105 C796958-B    Hi In              514 So
+Gladstone     1106 B79A744-D  N Wa                 603 So
+Cael          1107 B425943-D  N Hi In              925 So
+Aprapo        1109 C785002-7    Ag Ba              710 So
+Metshanal     1203 B304565-A  N Ic Lo Ni Va        502 So
+Hughes        1207 C77A984-9  S Hi In Wa           302 So
+Elgin         1210 C523A8D-C  S Hi In Na Po        614 So
+Endra         1306 C424512-7    Lo Ni              603 So
+Rinaldo       1308 A671472-C  N Lo Ni              200 So
+Sillius       1310 B000575-B  N As Lo Ni Va        802 So
+Abel          1401 A000455-E    As Lo Ni Va        724 So
+Gwayhne       1408 C440464-A  S De Lo Ni Po        505 So
+Untari        1510 A646353-B    Ag Lo Ni           310 So
+Angles        1602 AAB6148-E    Fl Lo Ni           304 So
+Borne         1605 D43159C-A    Lo Ni Po           903 So
+Uniroyal      1606 C000200-E  S As Lo Ni Va        504 So
+Xaviar        1609 A579975-E  N Hi In              423 So

@@ -1,0 +1,121 @@
+
+
+                       Mapping Terminology
+
+
+
+What are Sectors?
+-----------------
+
+Sectors are simply regions of space which each comprise sixteen
+subsectors. The subsectors are each designated a letter for easy
+reference.
+
+                 -------------------------
+                 |     |     |     |     |
+                 |  A  |  B  |  C  |  D  |
+                 |     |     |     |     |
+                 -------------------------
+                 |     |     |     |     |
+                 |  E  |  F  |  G  |  H  |
+                 |     |     |     |     |
+                 -------------------------
+                 |     |     |     |     |
+                 |  I  |  J  |  K  |  L  |
+                 |     |     |     |     |
+                 -------------------------
+                 |     |     |     |     |
+                 |  M  |  N  |  O  |  P  |
+                 |     |     |     |     |
+                 -------------------------
+
+
+
+What are Subsectors?
+--------------------
+
+Subsectors are regions of space which each comprise eighty
+parsecs. Parsecs are numbered for easy reference (for example,
+subsector A would be numbered as follows):
+
+     _____         _____         _____         _____
+    /     \       /     \       /     \       /     \
+   / 0101  \_____/ 0301  \_____/ 0501  \_____/ 0701  \_____
+   \       /     \       /     \       /     \       /     \
+    \_____/ 0201  \_____/ 0401  \_____/ 0601  \_____/ 0801  \
+    /     \       /     \       /     \       /     \       /
+   / 0102  \_____/ 0302  \_____/ 0502  \_____/ 0702  \_____/
+   \       /     \       /     \       /     \       /     \
+    \_____/ 0202  \_____/ 0402  \_____/ 0602  \_____/ 0802  \
+    /     \       /     \       /     \       /     \       /
+   / 0103  \_____/ 0303  \_____/ 0503  \_____/ 0703  \_____/
+   \       /     \       /     \       /     \       /     \
+    \_____/ 0203  \_____/ 0403  \_____/ 0603  \_____/ 0803  \
+    /     \       /     \       /     \       /     \       /
+   / 0104  \_____/ 0304  \_____/ 0504  \_____/ 0704  \_____/
+   \       /     \       /     \       /     \       /     \
+    \_____/ 0204  \_____/ 0404  \_____/ 0604  \_____/ 0804  \
+    /     \       /     \       /     \       /     \       /
+   / 0105  \_____/ 0305  \_____/ 0505  \_____/ 0705  \_____/
+   \       /     \       /     \       /     \       /     \
+    \_____/ 0205  \_____/ 0405  \_____/ 0605  \_____/ 0805  \
+    /     \       /     \       /     \       /     \       /
+   / 0106  \_____/ 0306  \_____/ 0506  \_____/ 0706  \_____/
+   \       /     \       /     \       /     \       /     \
+    \_____/ 0206  \_____/ 0406  \_____/ 0606  \_____/ 0806  \
+    /     \       /     \       /     \       /     \       /
+   / 0107  \_____/ 0307  \_____/ 0507  \_____/ 0707  \_____/
+   \       /     \       /     \       /     \       /     \
+    \_____/ 0207  \_____/ 0407  \_____/ 0607  \_____/ 0807  \
+    /     \       /     \       /     \       /     \       /
+   / 0108  \_____/ 0308  \_____/ 0508  \_____/ 0708  \_____/
+   \       /     \       /     \       /     \       /     \
+    \_____/ 0208  \_____/ 0408  \_____/ 0608  \_____/ 0808  \
+    /     \       /     \       /     \       /    \        / 
+   / 0109  \_____/ 0309  \_____/ 0509  \_____/ 0709  \_____/
+   \       /     \       /     \       /     \       /     \
+    \_____/ 0209  \_____/ 0409  \_____/ 0609  \_____/ 0809  \
+    /     \       /     \       /     \       /     \       /
+   / 0110  \_____/ 0310  \_____/ 0510  \_____/ 0710  \_____/
+   \       /     \       /     \       /     \       /     \
+    \_____/ 0210  \_____/ 0410  \_____/ 0610  \_____/ 0810  \
+          \       /     \       /     \       /     \       /
+           \_____/       \_____/       \_____/       \_____/
+
+
+
+What are Parsecs?
+-----------------
+
+Each parsec is a map hex with a mean diameter of about 3.26
+lightyears. Each parsec can house a starsystem, and each
+starsystem will have one world which is the main world of the
+starsystem.
+
+
+What about Directions?
+----------------------
+
+Instead of using the typical North, South, East, and West,
+Traveller uses other terms:
+
+North => Coreward  (toward the galactic core)
+South => Rimward   (toward the galactic rim)
+East  => Trailing  (away from the direction of galactic rotation)
+West  => Spinward  (toward the direction of galactic rotation)
+
+
+Important features at this point:
+---------------------------------
+
+  *  The universe is flat
+  *  All starsystems have worlds or at least asteroid belts.
+  *  All starsystems are at parsec intervals from one another.
+
+As you can see, Traveller isn't exactly the end-all, be-all of
+realistic, hard-science RPGs. Nonetheless, this sort of
+simplicity contributed to its early acceptance.
+
+That's about all the help you should need on mapping terminology
+in order to use this program.
+

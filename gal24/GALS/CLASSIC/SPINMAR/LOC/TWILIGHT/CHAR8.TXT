@@ -1,0 +1,32 @@
+   
+Bob
+---
+
+Position: Engineer             UPP: 4959B8
+Age: 34                        Height: 5'8"
+Race: Vilani                   Allegiance: Imperial
+Hair: Brown                    Eye Colour: Steel
+Complexion: Pale               Build: Medium
+
+Skills
+------
+Engineering-3
+Mechanical-2
+Electronic-2
+Jack-of-all-trades-2
+
+
+   Bob is an engineer. He loves his work and hates other people. He
+   spends many happy hours tinkering with his drives and engines. Other
+   people get in his way.
+   
+   Travil is good. He lets me work in peace with my engines. I'm glad he
+   ordered the mission so I've got some time to fix things without
+   interference.
+   
+   Grog is good too. He helps out lifting big things. He can't cook but
+   that doesn't matter. Food is optional.
+   
+   The rest are pains who get in my way. Sherina is especially bad as she
+   often pushes the ship too hard and damages things.
+

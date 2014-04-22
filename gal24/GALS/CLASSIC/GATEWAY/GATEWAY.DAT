@@ -1,0 +1,38 @@
+Gateway
+
+A: Fornook                   sec_a.dat
+B: Atoon                     sec_b.dat
+C: Denkard                   sec_c.dat
+D: Lowton                    sec_d.dat
+E: Splinter                  sec_e.dat
+F: Windfleet                 sec_f.dat
+G: Castra                    sec_g.dat
+H: Forcett                   sec_h.dat
+I: Ownsbee                   sec_i.dat
+J: Beckann                   sec_j.dat
+K: Ashton                    sec_k.dat
+L: Riftin                    sec_l.dat
+M: Arconna                   sec_m.dat
+N: Ariel                     sec_n.dat
+O: Cinder                    sec_o.dat
+P: Linder                    sec_p.dat
+
+Bases:
+N = Navy
+S = Scout
+2 = Navy & Scout
+  = None
+
+Allegiance:
+13 Ga = Galian Federation
+11 Tr = Trindel Confederacy
+10 Pl = Plavian League
+05 Ho = Hochiken People's Assembly
+15 Vi = Viyard Concourse
+12 Ak = Akeena Union
+14 Sw = Swanfei Independency
+06 Cs = Client State
+09 Me = Megusard Corporate
+07 Na = Non-aligned
+05 Re = Renkard Union
+08    = Unknown

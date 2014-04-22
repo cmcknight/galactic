@@ -1,0 +1,22 @@
+@SUB-SECTOR: Isalon SECTOR: Narrows
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Flo           2532 C22577A-6                       624 Cv
+Catherwood    2533 A77999C-A  C Hi In              611 Cv
+Aethelisdun   2538 E477201-8    Lo Ni              904 Id
+Yar           2632 C469599-9    Ni                 302 Id
+Horiu         2732 C100720-8  M Na Va              804 Mw
+Arabic        2735 C833679-7    Na Ni Po           815 Id
+Melville      2736 C487432-9    Ni                 713 Id
+Raw           2738 B898778-6    Ag                 225 Id
+Saginaw       2831 E86A675-3    Ni Ri Wa           105 Mw
+Uval a'baal   2834 C200734-A    Na Va              800 Id
+Terri         2836 E89A898-6    Wa                 103 Id
+Haarl         3031 C884775-8  M Ag Ri              900 Mw
+Gusts         3032 D893AAA-5    Hi In              514 Id
+Joseph        3035 D68A676-4    Ri Wa              314 Id
+Rosalinda     3132 C6A1330-9    Fl Lo Ni           603 Id
+Blackfeet     3137 D538441-6    Ni                 702 Id
+Mtshal        3239 X5478CB-2                    A  104 Id

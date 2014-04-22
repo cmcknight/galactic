@@ -1,0 +1,44 @@
+
+[Q] Is there any way to print the sector or subsector maps or
+convert them into some standard image format?
+
+[A] There's no print feature, per se, but you can take screen
+captures of various maps using the F10 key. This will dump the
+map into bitmap format in the main galactic directory. If you
+prefer gif format, I've had some success using a program
+written by Henrique Vianna (snoopy@ufpel.tche.br) called "Capture
+It!" which is a screen-capturing utility that runs in the
+background under DOS as a terminate-and-stay-resident program.
+"Capture It!" is available at the SimTel archive:
+
+ ftp://ftp.uoknor.edu/pub/simtelnet/msdos/screen/capture22.zip
+
+Included in the package is a program that converts the screen
+captures to GIF format. From there, you can probably load your
+GIFs into some paint-program and do your printing that way.
+
+Another method is to use the grab.com and graphcnv.exe utilities
+which are part of the WordPerfect 5.1 package (they probably exist
+in some other versions as well). If you have WP51, type "grab /h"
+and "graphcnv /h" for more information.
+
+Yet another method, which nearly everyone has at their disposal, is
+to access Galactic via a DOS-Window from Windows, then to take a
+screen capture via the Alt-PrintScreen function, and then to
+Edit/Paste the map into some piece of Windows software ("Write" for
+example, which is under the "Accessories" program group). You can
+alternatively paste screen-captures to Paint Shop Pro, inverting
+the picture and converting it to grayscale to get a black on white
+background. For better resolution, resample to 600x881.
+
+Also, Hugh Foster <100326.446@CompuServe.COM> has written a Windows-
+based program called Hexmap which displays and prints subsectors from
+text data files. He recently wrote a version which copes with sectors
+in Galactic v2.1 format. The differences between v2.1 and this version
+are pretty minimal, so the program ought to work. If not, bug him :-)
+Get Hexmap at http://ourworld.compuserve.com/homepages/Hugh_Foster
+
+If you come up with another method which you think is pretty
+straight-forward and fairly accessible for most people, please let
+me know about it.
+

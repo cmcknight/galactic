@@ -1,0 +1,38 @@
+@SUB-SECTOR: Cadion SECTOR: Core
+#
+# Trade routes within the subsector
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Lash          0132 C76A355-B    Lo Wa              621 Im
+Pumuuda       0133 C8D7372-9    Lo Fl              115 Im
+Vala          0134 C421310-8    Lo Po              803 Im
+Okefir        0135 C667111-9    Lo                 404 Im
+Ziris         0138 E873000-0    Ba                 002 Ba
+Shardir Aagkuu0139 B87A226-A    Lo Wa              213 Im
+Aadkhien      0140 E100000-0    Va Ba              002 Ba
+Giuum Gim     0231 E869000-0    Ba                 011 Ba
+Sishar        0234 B667736-8    Ag                 204 Im
+Gasha Uusar   0236 D671455-6  S Lo                 203 Im
+Bur           0240 B587000-0    Ba                 000 Ba
+Guuriir       0331 E100140-6    Lo Va              224 Im
+Mige Ris      0332 B6557CC-8    Ag                 303 Im
+Irka          0334 B9A9616-B    Ni Fl              623 Im
+Kiimaa        0338 E887000-0    Ba                 000 Ba
+Gizar Ik      0431 B634200-9    Lo                 404 Im
+Khiieshirk    0432 C150743-B    Po De              905 Im
+Uumaamuushgii 0437 C400795-8    Na Va              805 Im
+Indand        0439 E110000-0    Ba                 003 Ba
+Ganshas       0440 A53A965-C    Wa Hi              403 Im
+Dauur         0531 B655100-8    Lo                 100 Im
+Lia           0537 E654754-6    Ag                 502 Im
+Anemzaa       0635 B642423-7    Lo Po              702 Im
+Vlimas        0637 E796000-0    Ba                 003 Ba
+Zzugep        0731 B453AA6-9    Hi Po              300 Im
+Laari         0734 C797359-4    Lo                 100 Im
+Aapas Mi      0735 E584368-2    Lo                 304 Im
+Shash         0737 C898521-6    Ag Ni              923 Im
+Kuuki Zaa     0831 E549000-0    Ba                 014 Ba
+Laaze         0835 E438000-0    Ba                 003 Ba
+Night         0839 B5748C9-B                       420 Im

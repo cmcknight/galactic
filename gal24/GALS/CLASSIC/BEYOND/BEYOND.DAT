@@ -1,0 +1,41 @@
+Beyond
+
+A: Mapepire                  sec_a.dat           f
+B: Liberty Hall              sec_b.dat           f
+C: Die Weltbund              sec_c.dat           f
+D: Mal'Gnar Radiant          sec_d.dat           f
+E: Subsector Delta           sec_e.dat           f
+F: Metchi' Alagwa            sec_f.dat           f
+G: Northeast Middle Beyond   sec_g.dat           f
+H: Darkling Regions          sec_h.dat           f
+I: Zydar                     sec_i.dat           f
+J: Middle Beyond             sec_j.dat           f
+K: I'Sred*Ni Heptad          sec_k.dat           f
+L: Araniopa                  sec_l.dat           f
+M: Spinward Drift            sec_m.dat           f
+N: I-Glathriel               sec_n.dat           f
+O: Storm                     sec_o.dat           f
+P: Aslani                    sec_p.dat           f
+
+Bases:
+N = Navy
+S = Scout
+2 = Navy & Scout
+I = Imperial
+M = Merchant Service Academy
+T = Mercenary Training Area
+Z = Zhodani Client State
+D = Droyne settl. or ruins
+
+Allegiance:
+14 As = Aslan Colonial State
+13 Va = Vargr settlement
+08    = Unknown
+03 Es = Eslyat Magistracy
+11 IS = I'Sred*Ni Heptad
+05 Ms = Mal'Gnar Prim. assoc.
+06 MF = Mal'Gnar Prim. full
+04 Ma = Mapepire Cluster
+07 Na = Non-aligned
+12 Zc = Zydarian Codominium
+10 Dw = Die Weltbund

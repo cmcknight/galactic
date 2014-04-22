@@ -1,0 +1,14 @@
+@SUB-SECTOR: sec_L   SECTOR: reft
+#
+# Trade routes within the subsector
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Cyclone       2930 X599276-5    Lo Ni           B  504 Wi
+Eskandor      3028 X251457-4    Lo Ni Po           304 Wi
+Sakaliin      3029 X857279-1    Lo Ni           B  113 Wi
+Rampart       3030 X334000-0    Ba                 012 --
+Jokelyn       3128 X201000-0    Ba Ic Va           015 --
+Hoilhapuli    3229 B765655-9    Ag Ni              435 Wi
+Bonn          3230 X8C5000-0    Ba Fl              013 --

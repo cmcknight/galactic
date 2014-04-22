@@ -1,0 +1,46 @@
+@SUB-SECTOR: sec_B   SECTOR: ealiyasi
+#
+# Trade routes within the subsector
+$0902 1002 0 0
+$1002 1004 0 0
+$1004 0805 -1 0
+$1004 1106 0 0
+$1106 0905 0 0
+$1106 0807 -1 0
+$0909 0807 -1 0
+$0909 0708 -1 0
+$0909 1112 0 1
+$1010 0911 0 1
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Yurtoakhyeul  0902 A6661HA-E    Lo Ni              513 As
+Kiyiloeie     0905 A1006J5-C    Na Ni Va           235 As
+Elrkhtiy'teal 0907 C2315N6-9    Ni Po              200 As
+Uhirlaoaarl   0908 C5487H6-D    Ag                 602 As
+Hrayes        0909 B1102H6-D    Lo Ni              712 As
+Elauyo        0910 C1007NB-A    Na Va              324 As
+Kha'alurl     1002 B7485J5-9    Ag Ni              602 As
+E'waiihtla    1003 E1006L6-8    Na Ni Va           310 A2
+Uaeaiyskah    1004 B2465K6-C    Ag Ni              104 As
+Airiyrlyu'    1006 B4229H7-D    Hi In Na Po        923 As
+Yohkui        1007 X3339H9-9    Hi Na Po           403 As
+Ewaos         1008 CA761N8-C    Lo Ni              424 As
+Ftaushioueilr 1010 B5657N5-B    Ag Ri              604 As
+Erlhyuyeioia  1103 C9895N4-8    Ni                 714 As
+Yoelkhaoaishle1104 D4284NA-8    Ni                 304 As
+A'kyehyoiw    1106 A4564N3-A    Ni                 104 As
+Aulhahhfelaas 1210 C3212K3-A    Lo Ni Po           804 As
+Eayurlua'     1301 D6245K8-7    Ni                 703 As
+Khtoioirea    1304 C6883K4-7    Lo Ni              504 As
+Iheaw         1305 C6625K7-B    C0 Ni              100 As
+Eliyeiryairl  1307 E7872G4-7    Lo Ni              203 As
+Kakhiw        1308 B5647K6-C    D3 Ag Ri           103 As
+Erlfooa       1403 E86A412-3    Ni Wa              702 Na
+Ftiakhearoi   1405 A1004K7-D    Ni Va              210 As
+Eaarwilhkaw   1408 C7760G9-7                       100 As
+Yuulreiaoisi  1410 A5467N6-E    Ag                 202 As
+Oarlhteisyel  1501 BAA5455-7    Fl Ni              723 Na
+Tlaiauh       1607 E2006L2-7    Na Ni Va           304 A9
+Yowaoeeaei    1608 D4264J8-8    Ni                 202 As

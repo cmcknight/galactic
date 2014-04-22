@@ -1,0 +1,28 @@
+@SUB-SECTOR: sec_e   SECTOR: Spica
+#
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Utopia Mines  0112 X421000-0    Ba Po              003 Un
+Schemley      0113 X89A3Q2-5    Lo Ni Wa        B  215 Wi
+Horizon       0217 X631000-0    Ba Po              004 Un
+Theen         0220 X210000-0    Ba                 002 Un
+Tern          0313 X000000-0    Ba As              010 Un
+Crown         0315 X221000-0    Ba Po              000 Un
+Tupindur      0317 B4436R7-9    Ni Po Hp           703 Wi
+Vortex        0411 D58A8TA-6    Wa                 811 Wi
+Quadrille     0415 D6457R8-4    Ag Hp           B  613 Wi
+Montanna      0416 X7B0000-0    Ba De              013 Un
+Smithall      0419 E7554T9-0    Lo Ni           B  303 Wi
+Syrtis Nova   0512 E4412M1-6    Lo Ni Po           120 Wi
+Eden          0518 X4668RB-6    Hn                 404 Wi
+Shiprock      0615 X000000-0    Ba As              013 Un
+Indigo        0619 E89A1O0-2    Lo Ni Wa        B  305 Wi
+Blakewell     0713 E66A7U7-5    Wa                 703 Wi
+Subterra      0715 X6684P6-0    Lo Ni Hp        B  120 Wi
+Actinic Lambda0717 X766201-1    Lo Ni           B  324 Wi
+Sunflower     0720 X5507WF-1    Po De              620 Wi
+Alebee        0816 C8689WC-8    Hi              B  102 Wi
+Aeolus        0817 C5557O5-6    Ag Hp              114 Wi
+Jumpbuckle    0818 X200000-0    Ba Va              000 Un

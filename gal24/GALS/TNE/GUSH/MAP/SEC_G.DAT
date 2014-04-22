@@ -1,0 +1,38 @@
+@SUB-SECTOR: sec_G   SECTOR: gush
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Gaanriigashii 1712 C757444-7    Lo Ni              204 Wi
+Vehko         1715 D665686-5    Ag Ni              115 Wi
+Arsuch        1717 E566455-4    Lo Ni              304 Wi
+Iktaakas      1718 X74A110-7    Lo Ni Wa           210 Wi
+Crufra        1811 X583427-3    C2 Lo Ni        B  304 Wi
+Apay Maru     1814 X55779B-5    Ag                 704 Wi
+Temom         1815 X423000-0    Ba Po              020 --
+Lumuiimshi    1816 X311000-0    Ba Ic              010 --
+Windcrest     1818 D568430-5    Lo Ni              112 Wi
+Shirkii       1911 X456497-2    Lo Ni              214 Wi
+Edjbaston     1914 X76A66D-5    Ni Wa           B  102 Wi
+Dukshii Em    1915 X88A66C-4    Ni Wa           B  801 Wi
+Oyuch         1916 X150424-6    Lo Ni Po De        100 Wi
+Sadguumishmak 2015 X58566B-4    Ag Ni           B  710 Wi
+Rellblud      2018 X440446-5    Lo Ni Po De        302 Wi
+Buggar        2019 X9D6000-0    Ba                 000 --
+Oukictach     2020 X26456B-5    Ag Ni              400 Wi
+Eennusinak    2113 X451310-3    Lo Ni Po        B  203 Wi
+Pihkiit       2115 X420000-0    Ba Po De           002 --
+Nogo          2119 XAAA000-0    Fl Ba Wa           001 --
+Esh Purshuur  2120 E570000-2    Lo Ni De           430 Wi
+Vilir's World 2213 X9B3000-0    Fl Ba              034 --
+Murshen       2215 X585424-3    Lo Ni              410 Wi
+Seaport       2216 X5A5000-0    Fl Ba              014 --
+Ashsha        2217 X222000-0    Ba Po              003 --
+Ed            2313 X57A66A-2    Ni Wa           B  713 Wi
+Tu Tandi      2316 X647400-2    Lo Ni           B  200 Wi
+Mimip         2318 C876424-7    Lo Ni              400 Wi
+Bleayn        2320 X674400-4    Lo Ni           B  500 Wi
+Cerell        2411 X78A333-3    Lo Ni Wa        B  502 Wi
+Wolstene      2414 X000000-0    Ba As              003 --
+Kikhi Zun     2415 D77A325-4    Lo Ni Wa        B  400 Wi
+Liebing       2418 X621000-0    Ba Po              000 --

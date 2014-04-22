@@ -1,0 +1,38 @@
+IMSC survey office
+Document IMSC so 348e7
+
+The Breakout Wormhole
+
+The wormhole is a tear in the fabric of space, it connects two points whilst
+curcumventing the intervening distance (in this case a point in the Gateway
+system in the Milky Way and a point in the Breakout system in the Greater
+Magellanic Cloud). Travelling through the wormhole requires accurate
+navigation and fairly advanced sensors to avoid the various "eddies" and
+"currents" that exist within it. However the navigation is a relatively
+simple task for any competant astrogator and the requisite sensors are
+available at tech level 12. The actual of transit the wormhole takes between
+38 and 42 hours. The real danger lies in the act of crossing the boundary
+between normal space and the wormhole (and vice versa).
+
+The interface between the wormhole and normal space creates powerful spatial
+and temporal annomolies. These are termed Wormhole Interface Events (or
+WIE's). Any ship crossing the boundary during a WIE will almost certainly be
+destroyed (there has been no recorded instance of one surviving). Normally
+these WIE's can be predicted at least 5 days in advance by the increase in
+emissions of certain subatomic particles from the interface zone. However it
+would also appear that a large physical object (such as a starship) crossing
+the boundary can precipitate a WIE. This is termed the Dkaral Effect. It has
+been estimated that approximately 1 in 12 ships attempting to cross the
+wormhole was lost to the Dkaral Effect before the introduction of the
+Yumacaza Gates.
+
+The Yumacaza Gates act to moderate and regulate the Dkaral Effect. Perfected
+by Professor Jane Yumacaza in 511T, these gates greatly increased the safety
+of ships transiting the wormhole. The first generation of Gates reduced the
+loss rate to less than 1 in 7,500. With the introduction of the second
+generation in 527T the loss rate dropped to under 1 in 60,000,000. Since the
+Dkaral Effect can be triggered either entering or exiting the wormhole, for
+the Yumacaza Gates to be effective, there has to be one at both ends of the
+wormhole. In 1272T the Gate at the Milky Way end collapsed; and since that
+time there have been no attempts to cross the wormhole. The Breakout Gate
+remains fully functional, but has not been engaged since 1311T.

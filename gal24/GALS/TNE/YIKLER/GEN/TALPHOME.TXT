@@ -1,0 +1,260 @@
+
+Talpakuhome
+    By Grant Sinclair
+    Date: 18th June 1996 (Finished)
+    
+     _________________________________________________________________
+   
+   Talpakuhome is both the political and cultural capital of the
+   Communality. Virtually every body in the system has had inhabitants
+   at some time or other, and some have greater populations
+   than the entire population of other Talpaku stellar systems. This
+   description of the system is by a Talpaku merchant ship owner and
+   ex-surveyor, Whukikaka Quickfingers, in standard RISS format.
+   
+Contents
+
+    1. Physical Notes
+    2. Society Notes
+    3. Other Worlds In The System
+       
+Physical Notes
+
+   Star: K3 V, mass 0.672 standard, luminosity 0.642.
+   
+   Orbit: Talpakuhome is a satellite of the small gas giant Kitawhi, in
+   orbit 1 (0.4 AU) from the star. Kitawhi is UWP size 62 (99,200 km
+   diameter), density 0.13 for 60.5 Earth masses. It has a slightly
+   eccentric orbit (e=0.01), an axial tilt of 29 degrees and an orbital
+   period of 112 days 17 hours 15 mins (112.3 standard days). Rotational
+   period is about 43 hours.
+   
+   Talpakuhome orbits Kitawhi at a distance of 297 600 km (6 radii),
+   beyond the worst of Kitawhi's single radiation belt. Orbital period is
+   2.324 standard days (55 hrs 47 mins 0 secs or 55.776 hrs);
+   eccentricity is 0.05; inclination of orbit to the equator of the gas
+   giant is negligible. Being tidally locked to Kitawhi, axial tilt
+   relative to the star is the same as that of Kitawhi (29 degrees) and
+   day length is the same as the orbital period around Kitawhi (55.765
+   hours). Visible disk of Kitawhi from Talpakuhome is 19 degrees
+   (compared to Luna's visible disk of 0.5 degrees from Terra).
+   
+   The complex interrelationship of the magnetic fields of Talpakuhome
+   and Kitawhi are of great interest to scientists and spacecraft pilots
+   alike. The magnetic field of Kitawhi is much weaker than that of
+   larger gas giants (and is in fact weaker than that of Talpakuhome).
+   Spacecraft pilots must be careful to avoid areas of space with great
+   numbers of highly charged particles - this is tricky but by no means
+   impossible. Talpakuhome arrival and departure is usually a matter of
+   leaving at one of the magnetic poles and taking the quickest safe
+   course away towards the outer system. The surface of Talpakuhome is
+   protected by its own magnetic field.
+   
+   Size: Talpakuhome is 11680 km in diameter, with a molten core. World
+   density is average (giving a mass of 0.67 Earth masses) and surface
+   gravity is 0.9 standard. The Seismic stress factor is 7. The world
+   exhibits a slight bulge towards Kitawhi.
+   
+   Atmosphere: Dense oxygen-nitrogen mix with high oxygen taint. Surface
+   pressure 1.8 atmospheres.
+   
+   The high oxygen taint has resulted in an ozone layer that is much
+   thicker than normal. This helps protects the inhabitants from
+   ultra-violet and other rays from Kitawhi and Bright Light. The high
+   oxygen taint also causes a greater than normal number and severity of
+   bushfires.
+   
+   Without a filter mask, humans experience the first side effect of the
+   high oxygen taint (dizziness) after about an hour. This is followed by
+   steadily decreasing dexterity and decision making ability.
+   
+   There are many more aurorae in the upper atmosphere at night than on
+   Terra - Talpakuhome residents find night skies of other worlds boring
+   by comparison.
+   
+   Temperature: Base surface temperature is 15.2 degrees C (288.2 K).
+   Rotation-Luminosity Factor 1.015. Axial tilt increases summer
+   temperatures by 17 degrees C and decreases winter temperatures by 29
+   degrees C. Day average increase 11 degrees C; night average decrease
+   14 degrees C.
+
+   Closest approach to the star (perihelion) occurs during the southern
+   spring, increasing temperatures at that time by 0.3 degrees C.
+   Furthest separation occurs during the southern autumn, decreasing
+   temperatures by 0.3 degrees C.
+   
+   Note that the axial tilt means that summer nights and winter days do
+   not occur within the arctic and antarctic circles at certain times of
+   the year.
+   
+   Native Life: Yes. The dense atmosphere and high oxygen taint means
+   that life thrives from the ocean deeps up to the skies.
+   
+   Many fish and sea creatures deal with the extremes of seasonal
+   temperatures by migration. The remaining wildlife are forced to deal
+   with the problem in different ways - usually by finding shelter from
+   the heat and cold. Many animals are able to hibernate through the
+   winter, including some racial relatives of the Talpaku.
+   
+   Hydrographics: 81%, tainted with high oxygen. Tectonic plates: 7.
+   Volcanoes: 42.
+   
+   There are 2 major continents, 5 minor continents, 9 major islands and
+   6 archipelagoes.
+   
+   Weather control: Yes.
+   
+   Terraforming: Hydrographic: No. Terrain: Yes. Atmosphere: No.
+   Greenhouse: No. Albedo: No.
+   
+Society Notes
+
+   Population: The 2.5 billion inhabitants of Talpakuhome are almost all
+   Talpaku.
+   
+   The 2 primary cities are Blue Water (500 million, starport A) and
+   Smoky Dawn (500 million, also starport A). There are 15 secondary
+   cities with populations in the tens of millions, amounting to 750
+   million inhabitants total (all of them have a type F spaceport). There
+   are three orbital cities, one for each type A starport and one for the
+   spaceports, totalling 42 million inhabitants in orbit. The remaining
+   708 million inhabitants live in ground based tertiary communities, the
+   largest of which is 9 million strong.
+   
+   Government: The executive/legislative branch of the Talpakuhome
+   government is comprised of four takh. Each takh has a different
+   political philosophy, rather like a political party in a democracy.
+   Since size of a takh partly indicates popular support of its policies,
+   the largest takh has the most influence. For instance, the head of
+   this takh has the nominal Head of Government position. It is therefore
+   in the interest of each takh to accept everyone it possibly can, and
+   it is this open policy that gives the system continuing public
+   support.
+   
+   The takh argue and discuss issues amongst themselves, receive advice
+   from the public, conduct opinion polls and commission study groups
+   where appropriate. These checks and balances, in conjunction with a
+   free media, ensure that decisions made have the broad support of the
+   public. Decisions can be slow, but this is Talpaku nature anyway.
+   
+   The judicial branch is independent, with members appointed by a panel
+   consisting of all four governing takh.
+   
+   The communications network: Talpakuhome has a widespread network,
+   which can handle voice, data and video transmissions. All but the
+   smallest settlements have an orbital linkup, so access is possible to
+   anyone with a communicator which can reach such a booster.
+   Communicators with 500 km range are needed to reach direct to orbit.
+   Many of us wear an earpiece communicator at all times, allowing
+   hands-free access.
+   
+   Legal Profile: Law level is 8 overall (territorial for Talpaku,
+   personal for aliens). Weapons=8, Trade=6, Criminal Law=9, Civil Law=9,
+   Personal Freedom=5.
+   
+   Social Profile:
+   
+   Progressiveness: Talpakuhome has a "Conservative" society, which is
+   advancing very slowly ("Indifferent").
+   
+   Aggressiveness: People are "Competitive" and are militarily
+   "Militant". Their first response to any serious threat is force, and
+   any diplomacy comes later.
+   
+   Extensiveness: Social customs are "Harmonious", people are "Aloof" to
+   most alien offworlders but "Friendly" to Talpaku offworlders.
+   
+   This profile is typical of Talpaku worlds.
+   
+   Technology Profile: The highest tech level commonly found on
+   Talpakuhome is 13; low common is 12. Certain specialist areas of
+   expertise have tech levels as follows:
+   
+   Energy: 15
+   Computer/Robotics: 12
+   Communications: 13
+   Medical: 12
+   Environment: 13
+   
+   Land Transport: 13
+   Water Transport: 13
+   Air Transport: 13
+   Space Transport: 13
+   
+   Personal Military: 15
+   Heavy Military: 12
+   Novelty: 15
+   
+   Trade: Resources: Agricultural, radioactives, crystals, compounds,
+   agroproducts, metals, nonmetals, parts, durables, consumables,
+   weapons, software, documents.
+   
+Other Worlds In The System
+
+   Kitilku: is a companion satellite of Talpakuhome and was settled very
+   early. It is 5440 km in diameter, has a density of 1.45 (due to heavy
+   core) for a mass of 0.076 standard and surface gravity of 0.533. It
+   orbits 446,400 km (9 radii) from the gas giant, with an orbital period
+   of 4.27 standard days, axial tilt of 22 degrees, eccentricity of 0.01
+   and a rotational period relative to the gas giant of 59 days 0 mins 21
+   secs.
+   
+   The original atmosphere was a standard oxygen nitrogen mix, with
+   surface pressure 1.10. Coupled with the pleasant base temperature of
+   19.3 degrees C (292.3 K), the early Talpaku found that the world could
+   be settled with little difficulty. It was a great source of ores. They
+   used it for their main industry in later years, and so the atmosphere
+   is now tainted with pollutants.
+   
+   Hwhik: This entire world is operated by the Talpaku Navy. It is used
+   for training, resupply and repair. It is one of only a few worlds
+   capable of repairing the new TL D ships in the Talpaku Navy.
+   
+   Petbazkezk: This world is mined sporadically by a small number of
+   prospectors. These people have homes on Talpakuhome and consider
+   themselves citizens of that world, even though they spend most of
+   their time here. There have been occasional attempts to set up robot
+   mining of the world (either programmed to go prospecting
+   independently, or controlled by remote control by radio signals from
+   Taklpakuhome), but none of these has lasted.
+   
+   Whulkiwi: This world is the site of large scale mining by Demand
+   Minerals (a mining corporation based in Smoky Dawn). Some of the
+   population was born here and consider themselves "native", but most
+   are workers on tours of duty of a few years or so. The labour
+   intensive work is done by machines or robots.
+   
+   There is also an installation here associated with the Talpaku Navy.
+   It is generally believed that the site is some sort of communications
+   or sensor base. The naval installation is TL 13 (hence the rating of
+   the world), but the mining company facilities are only at TL 12. The
+   company and the Navy each have separate type F spaceports.
+   
+   Bright Light Gamma: is a large gas giant with UWP size 125, diameter
+   200,000 km, density 0.18, mass 687 standard. Orbital period 261
+   standard days, axial tilt 39 degrees, eccentricity zero.
+   
+   Chakikzudev: is the home of independent miners, some spend years at a
+   time here alone in a self-imposed exile. Many are fleeing some trauma
+   in their personal lives; others are guilty of non-violent crimes and
+   have accepted official exile to this world as an alternative to
+   prison.
+   
+   Dalv: is a research station operated by a big Talpaku company (Keyodlo
+   Investigations). It is based offworld for security and safety reasons
+   (e.g. to isolate biological research). The company sometimes rents
+   parts of its facilities to reputable companies and persons.
+   
+   The mining activity here is to supply the research station with raw
+   materials, not for export.
+   
+   The spaceport itself can be used by anyone (and is sometimes visited
+   by ships which merely refuel at the gas giant and move on). Special
+   clearance is needed to visit the research station complex.
+   
+   Chukzadl: This world is also operated by the Talpaku Navy. Although
+   security here is very tight, it is believed to include the yard where
+   the few TL 13 ships in the Talpaku Navy were built. No civilian
+   shipping may pass within 2 million km of the world, much less land on
+   it (hence the absence of a civilian spaceport).
+   

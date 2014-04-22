@@ -1,0 +1,42 @@
+@SUB-SECTOR: sec_K   SECTOR: gvurrdon
+#
+# Trade routes within the subsector
+#
+$1728 1528 -1 0 9
+$1728 1726 0 0 9
+$1726 1724 0 0 9
+$1724 1722 0 0 10
+$1722 1724 0 0 9
+$1724 2023 0 0 4
+$1724 1623 -1 0 4
+$1721 1623 -1 0 4
+$1721 1919 0 -1 4
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Ungan         1721 B402122-D    Lo Ni Ic Va        423 Vc
+Tsounduekfegun1722 B246455-C    Ni                 201 Vc
+Ouse Faeg     1724 A69476A-B  G Ag O:1623          222 Vc
+Aengvoung     1726 A682731-B    Ri                 620 Va
+Ankhir        1728 C6869BB-7    Hi                 613 Va     f
+Tirrokoelaegz 1821 B463645-A    Ni Ri Sv           312 Vc
+Lurraengfangno1823 E476232-8    Lo Ni              210 Vc
+Vaersngurr    1830 A99A873-C  G Wa Cp              503 Vq
+Gnoengungag   1923 B759623-7    Ni                 734 Vc
+Dzenzaega     1924 B20189B-7    Na Ic Va           701 Vc
+Asurrorr      1930 C000526-B    Ni As              813 Vq
+Ueksgug       2022 A576235-A    Lo Ni              235 Vc
+Rredzutsaezoug2023 B100BAC-D    Na Va              122 Vc
+Angasaer      2025 B88A846-9    Ri Wa              201 Va
+Kfenkudhuegzo 2029 B656120-7    Lo Ni              320 Vq
+Gurzhvoursivaz2030 B642410-A    Ni Po              702 Vq
+Tagnaghoutsoza2123 B86A755-9    Ri Wa              201 Vc
+Aellaesgvarzat2128 A231365-G    Lo Ni Po O:2129    210 Va
+Gaekloungoerza2129 A697A78-G    Hi In Si           834 Va
+Gnael Oer     2226 B10078C-7  C Na Va              403 Va
+Kueng         2229 A762116-D    Lo Ni              701 Va
+Orsesokhin    2323 A000874-F  G Cx Na As           210 Ve
+Gaelaeth      2329 C360AC9-A    Hi De An           614 Va
+Thoegzekkfak  2422 A483520-B    Ni                 901 Ve
+Llueng        2424 C511445-7    Lo Ni Ic           201 Ve
+Okhtous       2425 E355374-4    Lo Ni              601 Ve

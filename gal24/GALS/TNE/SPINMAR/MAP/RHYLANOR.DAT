@@ -1,0 +1,39 @@
+@SUB-SECTOR: rhylanor   SECTOR: spinmar
+#
+# Trade routes within the subsector
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Kinorb        2512 C449433-9    Lo Ni              502 Re
+Gileden       2514 C483103-6    Lo Ni              203 Re
+Pannet        2519 E9C5677-7    Fl Ni           B  424 Re
+Garrincski    2520 B632520-7  S Ni Po              410 Re
+Macene        2612 B000453-E  N Lo Ni As           911 Re
+Fulacin       2613 A674210-D    Lo Ni Tp An        810 Re
+Natoko        2620 C8879AB-9    Hi Tp An           404 Re
+Risek         2712 A325579-A  N Ni              B  401 Re
+Porozlo       2715 A867A74-B    Hi Tn           B  201 Re     m
+Rhylanor      2716 A434A34-F  A Hi Cp              110 Re     m
+Loneseda      2720 C86A215-7    Lo Ni Wa           705 Re
+Valhalla      2811 E365432-5    Lo Ni              622 Re
+Zivije        2812 C6B199C-B    Fl Hi           A  421 Re
+Jae Tellona   2814 A560565-8  N Ni De Mr           913 Re     m
+Gerome        2818 X573000-0    Lo Ni           R  701 Re     m
+Henoz         2912 A245543-B    C:0 Ag Ni          824 Re
+Celepina      2913 B434456-9  A Lo Ni              201 Re
+Gitosy        2918 B000676-9    Na Ni As        B  820 Re
+Belizo        3015 B895746-5    Ag Tp              123 Re
+Kegena        3016 E869569-3    Ni Tp O:3216    A  224 Re
+Heroni        3017 E7A0714-3    De                 120 Re
+457-973       3019 X372215-4    Lo Ni           R  534 Re
+Somem         3020 C301340-B    Lo Ni Va Ic        201 Re
+Vinorian      3111 B879710-9    Tp                 110 Re
+Nutema        3112 B864310-8  N Lo Ni Tp St        822 Re     f
+Huderu        3114 X575000-0    Lo Ni           R  920 Re
+Cipatwe       3118 B35889A-6                       123 Re
+Vanejen       3119 C686854-5    C:1 Ri Tp RsG      720 Re
+Margesi       3212 A576257-C  A Lo Ni              920 Re
+Bevy          3216 D4209CC-A  S Na Hi In Po De     324 Re
+Tacaxeb       3218 C230411-B    Lo Ni Po De        801 Re
+Powaza        3220 C787566-5    Ag Ni Tp O:3218    332 Re

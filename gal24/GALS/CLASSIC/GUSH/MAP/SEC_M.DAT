@@ -1,0 +1,49 @@
+@SUB-SECTOR: sec_M   SECTOR: gush
+#
+# Trade routes within the subsector
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Sirir         0131 X7969AA-6    Hi In           R  723 Im
+Aapu          0132 D260345-6    Lo Ni De           300 Im
+Maerol        0135 E200774-8    Na Va              102 Im
+Choltonrul    0136 A487452-D  S Ni                 224 Im
+Ushulu        0137 C7829DA-A    Hi                 700 Im
+Roolyz        0138 C333103-B    Lo Ni Po           222 Im
+Joutect       0140 B768145-C  N Lo Ni              600 Im
+Hentor        0231 D503540-5    Ni Va Ic           522 Im
+Abaelou       0233 C695335-9  S Lo Ni              903 Im
+Gihmentahlish 0236 B8A5003-9    Lo Ni Fl           922 Im
+Strand        0237 C                               502 Im
+Ounash        0239 X120335-4    Lo Ni Po De     R  504 Im
+Blezon        0332 X472400-6    Ni              R  323 Im
+Vaelouf       0333 B537343-9    Lo Ni              211 Im
+Endran        0334 C515034-B    Lo Ni Ic           103 Im
+Phoenaeg      0338 D560867-5  S D7 Ri De           313 Im
+Sagal         0339 X887A9C-6    Hi              R  813 Im
+Trichach      0432 C573489-8  S Ni                 204 Im
+Cemloch       0433 B646002-9  S Lo Ni              405 Im
+Nemeet        0434 D2307CB-A  S Na Po De           704 Im
+Gwelbyph      0435 C42356A-8  S Ni Po              705 Im
+Flaslousk     0436 C5435A7-A    Ni Po              910 Im
+Jaeyelya      0437 B484655-4  S Ni                 702 Im
+Lem           0438 D532216-8  S Lo Ni Po           900 Im
+Dimkodrarn    0439 B453465-E  S Ni Po              303 Im
+Rake          0531 C325531-A    Ni                 302 Im
+Soel          0532 D8D578C-4  S Fl                 202 Im
+Imagalu       0536 B967852-8  A Ri                 904 Im
+Wols          0537 A764137-E    Lo Ni              200 Im
+Homage        0631 B59468C-8  N Ag Ni              512 Im
+Vipach        0632 C738447-B  S Ni                 410 Im
+Sern          0634 CAD6268-7    Lo Ni Fl           600 Im
+Asiilish      0639 A565400-F    Ni                 214 Im
+Chezpan       0640 B200777-B    Na Va              802 Im
+Th'dir        0732 B100464-E  S Ni Va              213 Im
+Dendaash      0733 A9C7331-B  N Lo Ni Fl           504 Im
+Zamashuug     0737 B585020-B    Lo Ni              300 Im
+Dikaash       0738 B6279B8-F  A Hi In Cp           101 Im
+Wilson        0740 B10037A-B  W Lo Ni Va           100 Im
+Tenraash      0831 B79A557-F    Ni Wa              102 Im
+Ginupa        0839 C55999C-C  S Hi                 803 Im
+Teuterom      0840 B502412-D    Ni Va Ic           313 Im

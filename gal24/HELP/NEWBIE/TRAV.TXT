@@ -1,0 +1,132 @@
+
+What is Traveller?              (all in my humble opinion...
+------------------               jimv@empirenet.com)
+
+Traveller is a science fiction roleplaying game originally
+published by Game Designers Workshop (GDW). Hitting the market in
+'77, only a year after the release of the motion picture Star
+Wars, it quickly drew a large following of SF enthusiasts, who,
+after several years of strong support for the game by a number of
+companies (GDW, FASA, Gamelords, Judges Guild, Paranoia Press,
+etc.), were soon converted into Traveller enthusiasts as well.
+
+The initial version of the game, later dubbed "Classic Traveller"
+(CT), consisted of not only a set of rules, but also an official
+campaign setting. Various supplements and adventures published
+separately from the core rules described the Imperium, a large
+human dominated empire consisting of thousands of star systems,
+as well as several alien nations outside the Imperial aegis. One
+of the main draws of the Traveller RPG was this background
+material that was long held to be one of the most in-depth
+campaign settings anywhere in the roleplaying game publishing
+industry. An even more interesting feature of this background was
+that it wasn't frozen in any particular time period. As real time
+went by, so too did time flow in the official setting, so that
+this fictional universe evolved as major events (wars,
+assassinations, etc.) took place.
+
+Players would typically play characters who were interstellar
+merchants or mercenaries, jumping from star system to star system
+trying to make enough money to finance their ship. Eventually, a
+war occurred between the Imperium and another human-dominated
+government, known as the Zhodani Consulate, disrupting commerce
+and tending to put the characters into ever more dangerous
+predicaments. This war, though ending in a stalemate, eventually
+led to a multi-factional civil war within the Imperium, thus
+creating a new background for Traveller's next edition, called
+MegaTraveller (MT).
+
+As might be expected, many Traveller players were a little miffed
+about the Imperium suddenly ripping itself apart. They had
+already set up their campaigns around the idea of a relatively
+stable empire and didn't want to suddenly change everything
+simply because GDW had decided to make a drastic change to the
+setting. Traveller also became somewhat neglected during these
+years (as evidenced, in part, by the exceptionally poor
+proofreading of the key MegaTraveller books). The rules became
+more complicated (although the task system was hailed as a
+success), and GDW's support of the game was rather sporadic.
+Fortunately, a company by the name of Digest Group Publications,
+that had its roots in a Traveller fanzine (The Travellers'
+Digest), took the lead in developing support material for the
+game so that it didn't die altogether.
+
+Unfortunately, the GDW/DGP partnership didn't last. DGP began to
+chafe under the restrictions of developing a background not their
+own, and as the civil war became ever blacker and bleaker, GDW
+and DGP began to disagree over the direction of the game's future
+history. The net result was for DGP to invest more effort in
+creating their own game system and for GDW to resume absolute
+control over the official Traveller universe. Rather than
+continuing to wallow in the gross violence of the Black War, or
+to detail the moral relativism of the various factions, GDW
+destroyed them all and jumped the setting forward seventy years.
+
+Which brings us to GDW's third attempt at Traveller, this one
+called Traveller: The New Era (or "The New Error", a name
+conjured by those who worried that the proofreading might be as
+dismal as Traveller's former incarnation). In this setting, the
+great Imperial civil war was at an end. However, what ended it was
+not so much human common sense as human ingenuity. Someone had
+engineered a very intelligent and adaptable computer virus, which
+took over various worlds and killed the inhabitants. Suddenly the
+war effort was no longer so important as mere survival.
+
+Mechanically compatible with Twilight 2000, another game by GDW
+dealing with global holocaust, The New Era (TNE) involved the
+rediscovery of forgotten worlds and hence concentrated on
+exploration much more than its two predecessors. Further, the
+character generation system was expanded and streamlined and
+generally hailed as a success.
+
+Of course, those Traveller players who disliked the idea of a
+shattered Imperium liked the idea of a dead one even less
+(particularly given that the empire's destruction was brought
+about by what many players considered to be a scientifically
+dubious plot device). Furthermore, the change in game mechanics
+made the transition from CT/MT to TNE somewhat difficult.
+However, despite these troubles, there were still many players
+who liked TNE's exploration aspect, which the prior versions of
+Traveller seemed to miss.
+
+GDW finally shut its doors in 1996, and the copyrights and
+trademarks to all the various incarnations of Traveller reverted
+to Marc Miller who licensed with Imperium Games to create the
+fourth version of Traveller (dubbed _Marc Miller's Traveller_,
+a.k.a. "T4"). In this version, campaigns can be set in different
+eras of the official Traveller universe. The first of these,
+entitled _Milieu 0_, which was authored by various members of
+the Traveller Mailing List, details the first years of the 3rd
+Imperium and incorporates the traditional themes of trade and
+mercenary operations with exploration and early Imperial
+politics.
+
+Of course, not everyone jumped on the T4-bandwagon. Some
+groups still played in the Classic Era using the old rules,
+some continued in the MegaTraveller Era, and some played in
+the New Era (using TNE rules). There are even those who used
+their own homebrew settings which bear little resemblance to
+the official Traveller galaxy. The fact that the audience
+became so segmented was an unavoidable outcome of the game's
+evolution, one which many Traveller players view more as a
+strength than a weakness.
+
+Unfortunately, T4 suffered from particularly poor editing,
+and after about a year or two in business, Imperium Games
+finally went under. The newest incarnation of Traveller will
+be produced by Steve Jackson Games. Edited by Loren Wiseman
+of GDW fame, the GURPS:Traveller sourcebook is due out this
+Summer (1998), and will pick up the Traveller Saga with the
+Classic Traveller timeline, prior to the civil war of
+MegaTraveller and stipulating a break from the events which
+led to it.
+
+Thanks to the following Traveller Mailing List members for their
+assistance in revising this essay:
+
+   Joseph "Chepe" Lockett (jlockett@io.com)
+   Chris Griffen (chris.griffen@octel.com)
+   Iain Rowan (iain.rowan@sunderland.ac.uk)
+   Susan Shock (34zbtxq@cmuvm.csv.cmich.edu)
+   William Hostman (anwfh@orion.alaska.edu)
+

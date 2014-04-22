@@ -1,0 +1,25 @@
+@SUB-SECTOR: sec_D   SECTOR: gvurrdon
+#
+# Trade routes within the subsector
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Uerkfadzigue  2507 B582110-8    Lo Ni              114 Va
+Agh Thars     2509 B522278-7    Lo Ni Po           322 Va
+Lluezukgzang  2701 A432A99-F    Hi Na Po           102 Vo
+Fukoezo       2702 A626645-9    Ni                 114 Vo
+Kaeg          2703 D323412-7  G Ni Po              801 Vo
+Vakhoell      2704 A484479-D    Ni                 103 Vo
+Gegerrrarrunu 2802 A421120-D    Lo Ni Po           613 Vo
+Ukokhuvoen    2806 C637232-7    Lo Ni              804 Va
+Kaekfesa      2807 A997554-A  G Ag Ni              301 Va
+Dorrorue      2808 C659631-4    Ni                 202 Va
+Okhgvonan     2901 C310377-A    Lo Ni              523 Vo
+Ngersouluekorr2905 A8AA432-C    Ni Fl Wa           822 Va
+Kutsgarrae    2908 B200304-9    Lo Ni Va           734 Va
+Fuedhgusnaezre3003 B361773-5    Ri                 211 Va
+Utsurr        3004 A250300-E    Lo Ni Po De        221 Va
+Khoekhoerr    3010 B200443-A  C Ni Va              602 Va
+Ozago         3107 B331731-8    Na Po              501 Va
+Dhurrgthaedz  3201 B26269B-A    Ni Ri              133 VW

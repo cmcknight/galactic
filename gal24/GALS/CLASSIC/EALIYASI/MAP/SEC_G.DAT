@@ -1,0 +1,47 @@
+@SUB-SECTOR: sec_G   SECTOR: ealiyasi
+#
+# Trade routes within the subsector
+$1713 1914 0 0
+$1914 1912 0 0
+$1912 2111 0 0
+$1914 2514 1 0
+$2412 2514 1 0
+$1914 1815 0 0
+$1815 1716 0 0
+$1716 1617 -1 0
+$1819 1821 0 1
+$1819 1619 -1 0
+$2412 2612 1 0
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Eaaoaies      1713 B6448K3-E                       300 As
+Sa'ioyesaiy   1714 C2108H4-C    Na                 404 As
+Oeakhisi      1715 D9A44JA-8    Fl Ni              824 As
+Tuyoyaa       1716 B9B26NB-9    Fl Ni              203 As
+Oiweeakh      1720 E6884M4-8    Ni                 313 As
+Eihkho        1812 C1108K3-B    Na                 614 As
+Eauiwea       1814 X8D07K8-8    De                 213 As
+Ilkaao        1815 A7B44K6-E    Fl Ni              903 As
+Ealhalria     1819 B3362HC-B    Lo Ni              600 As
+Eihiouhftei   1820 C5412G8-A    Lo Ni Po           213 As
+Aorlailakh    1911 C3103G2-A    Lo Ni              934 As
+Kilrya        1912 B2109H6-C    Hi In Na           903 As
+Eahheilr      1914 A7870G9-9                       803 As
+Yowtlol       1915 C9680N8-B                       700 As
+Iiyraw        1916 C5642M6-8  R Lo Ni              604 As
+Yeshleao      1919 C9770N2-8                       504 As
+Eiskhteaoulr  2014 D5753NB-B    Lo Ni              502 As
+Tiaiarle      2111 A1102K7-E    Lo Ni              433 As
+Iweil         2113 E5517M6-B    Po                 400 As
+Sekhtai       2114 C55A9N9-9    Hi Wa              601 As
+Ftalea        2117 C3718H7-9                       613 As
+Aolaiaw       2118 X6345K8-6    Ni                 703 As
+Khaahktya     2213 C6597K4-9                       524 As
+Ilreakh       2214 C3725L7-9    Ni                 911 A2
+Yo'aosoi      2312 C8A54K6-8    Fl Ni              414 As
+Yoliyeirlalr  2314 B2008K9-E    Na Va              804 As
+Iraois        2320 C5544H6-A    Ni                 411 As
+Khyoaeia      2412 A1000GA-C    Va                 824 As
+Erlourfeal    2417 A87A0G8-C    Wa                 720 As

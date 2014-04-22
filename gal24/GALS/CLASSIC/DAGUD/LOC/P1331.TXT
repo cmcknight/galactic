@@ -1,0 +1,35 @@
+
+GATEWAY 1331 B98A654-D N Ni Ri Wa 701 Im M1 V M9 D
+
+Primary: Binary. Major - Ukaa, spectral class M1 V, mass 0.457,
+luminosity 0.48. Companion (close) - Gagamshuu, spectral class M9
+D, mass 1.1, luminosity 0.07.
+
+Gateway : Mean orbital radius 0.2 AU. Period 48.3 Std Days.
+Diameter 15,091 Km. Mass 1.40 terra. Molten core, density 0.98.
+Mean surface gravity 1.10g. Rotation period 35h 22m 5s. Axial
+inclination 35 o 32' 04". Energy absorption 0.619.
+
+Satellites : Three. Ukumikuug, orbit 7, 630km; Shir, orbit 12,
+820km; Lishashukh, orbit 25,1,260km.
+
+Surface atmospheric pressure 1.90. Composition oxygen-nitrogen
+mix. Hydrographic percentage 98.5%. Mean surface temperature 7.53
+o c. Native life present, non-sentient. Total system population
+7.76 million.
+
+Primary cities - orbital: Gateway Prime, 1.5 million, Starport
+B; Highway, 1.3 million, Starport C; Stargate Control, 1 million,
+Starport B. Ground: Hajaan, 2.2 million, Spaceport F; Deep Six, 1
+million, Spaceport F.
+
+World government is a feudal technocracy. Social outlook:
+Progressive, indifferent, competitive, peaceable, discordant,
+friendly. Law profile - undivided. 4-56462. Religious profile
+(Scanians) - 8B45B6-A. Technology profile - D8-EDDDE-CEDD-BB-F.
+
+POPULATION BREAKDOWN : Orbital - 78% Humaniti, mixed, Argian's.
+12% Humaniti, Scanian. 5% Aslan. 5% Bwap. Planetary - 65%
+Humaniti, Scanian. 22% Humaniti, Aquans. 3% Humaniti, mixed,
+Argian's. 10% Bwap.
+

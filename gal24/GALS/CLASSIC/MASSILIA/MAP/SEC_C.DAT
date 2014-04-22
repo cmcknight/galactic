@@ -1,0 +1,43 @@
+@SUB-SECTOR: sec_C   SECTOR: massilia
+#
+# Trade routes within the subsector
+$1808 1508 -1 0
+$1808 1910 0 0
+$1910 2008 0 0
+$1910 2013 0 1
+$2008 2407 0 0
+$2407 2607 1 0
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Tersani       1703 B100532-F    Ni Va              203 Ma
+Varina        1705 E110001-B    Ni Lo              204 Ma
+Dodda Vis     1804 B544555-D  N Ni Ag              110 Ma
+Ketola        1807 B354377-C    Ni Lo              802 Ma
+Riarette      1808 A110877-E    Na                 214 Ma
+Engorr        1809 D110566-B    Ni                 600 Ma
+Peneplain     1905 B465478-D  N Ni                 114 Ma
+Madden        1907 C524522-9    Ni                 524 Ma
+Ektorr        1909 B4638A9-B                       211 Ma
+Khishan       1910 A1009AE-G    Hi In Na Va Cp     814 Ma
+Marfa         2001 B20079D-D    Va Na              503 Li
+Germer        2004 B100100-F    Ni Va Lo           824 Ma
+Iggarir       2007 B787AA9-E  S Hi                 623 Ma
+Irlu          2008 A200654-F    Ni Va Na           603 Ma
+Wikk          2010 B648655-C  N Ni Ag              924 Ma
+Trikster      2102 B200530-C    Ni Va              114 Li
+Inarim        2103 B565AFG-F    Hi                 103 Li
+Landwasser    2105 B875544-C  S Ni Ag              924 Ma
+Murcia        2109 E564945-7    Hi                 814 Ma
+Symond        2201 D638353-9    Ni Lo              504 Li
+Bakerian      2301 A421300-F    Ni Po Lo           503 Li
+Elan          2302 B66889D-B  N Ri                 805 Li
+The Auybes    2305 B300543-C  N Ni Va              413 Ma
+Terelleresika 2306 A342031-C    Ni Lo Po Rs        402 Ma
+Dumeras       2308 B789AAD-G  N Hi              A  103 Ma
+Mina          2401 B461568-C    Ni                 204 Li
+Solarda       2403 E798576-6    Ni Ag              702 Ma
+Rizon         2405 B545400-B  N Ni              A  513 Ma
+Perilous      2406 B768635-B  N C4 Ni Ag           434 Ma
+Wynd          2407 A310AAB-G    Hi In Na           914 Ma

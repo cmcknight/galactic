@@ -1,0 +1,52 @@
+@SUB-SECTOR: Oulduktak   SECTOR: Antares
+#
+# Trade routes within the subsector
+#
+$3108 0208 1 0 11
+$3010 0213 1 1 11
+$3010 3108 0 0 11
+$3108 3204 0 0 11
+$2905 3108 0 0 11
+$3204 3201 0 0 11
+$3201 3239 0 -1 11
+$2905 2504 0 0 11
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Pyktseamri    2501 B310546-8    Ni                 632 JP
+Gukhipu       2504 B15089C-C    De Po              915 JP
+Vepakik       2505 C4438B7-A  S Po                 712 Im 
+Dyaddiws      2507 D635364-6  S Lo Ni              101 Im 
+Iim           2508 A400875-A    Na Va              122 Im 
+Kuuka         2509 D344277-8  S Lo Ni              722 Im 
+Gaaruur       2510 C554483-7    Ni                 723 Im 
+Gagidishguu   2603 B140362-9    Lo Ni Po De     A  900 JP
+Aaka          2606 E655200-8    Lo Ni              202 Va 
+Asaazarkhu    2608 C324579-B    Ni                 211 Im 
+Eg            2706 C4257A9-7  C                    205 Va 
+Leiwnei       2708 E994422-4    Ni                 804 Na 
+Riimedireku   2709 B77A764-A  N Wa                 404 Cs 
+Gorrroedho    2805 B5A8526-C    Ni Fl              601 Jr 
+Irrrrogzagz   2806 E985466-2    Ni                 924 Jr 
+Nagikuugid    2810 D345322-5    Lo Ni              804 Va 
+Lermengnien   2901 BA8A424-7    Ni Wa              111 Jr 
+Otielvatnan   2902 D65879B-3    Ag                 704 Jr 
+Yngydd        2903 C668100-5    Lo Ni              502 Jr 
+Kemgad        2905 A534211-E    Lo Ni              300 Jr 
+Ttondaage     2906 E646552-5    Ag Ni              203 Jr 
+Me            2908 D100653-6    Na Ni Va           810 Jr 
+Pope          2909 C729400-7    Ni              A  300 Jr 
+Iikuluga      3004 C96A334-9    Lo Ni Wa        A  824 Jr 
+Pina          3005 C796558-A    Ag Ni              524 Jr 
+Bastul        3007 D646203-6    Lo Ni              403 Jr 
+Tettao        3008 E799557-9    Ni                 900 Jr 
+Tekahiu       3010 A8C678C-9    Fl                 414 Va 
+Iraw          3106 E400544-8  G Ni Va              702 Jr 
+Ornwyll       3108 A7C6410-E    Ni Fl              403 Jr 
+Kodhnozek     3201 A661696-A    Ni Ri              614 Jr 
+Oe            3202 B343750-7    Po                 513 Jr 
+Lir           3203 C675168-5    Lo Ni              621 Jr 
+Keketepara    3204 A79A794-B    Wa                 610 Jr 
+Ywo           3207 D254354-7    Lo Ni              503 Jr 
+Gakhisgiki    3209 E230578-5    Ni Po De           510 Jr
+

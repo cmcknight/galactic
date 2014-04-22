@@ -1,0 +1,55 @@
+@SUB-SECTOR: Dartho   SECTOR: Antares
+#
+# Trade routes within the subsector
+#
+$1804 1603 -1 0 11
+$2406 2308 0 0 11
+$2308 2209 0 0 11
+$2209 2006 0 0 11
+$1808 1911 0 1 11
+$1808 2006 0 0 11
+$2209 2112 0 1 11
+$1808 1509 -1 0 11
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Rugad         1701 D340365-4    Lo Ni Po De        800 JP
+Conire        1703 B4349BF-B    Hi                 303 JP
+Ger           1704 B231230-B    Lo Ni Po           500 JP
+Wyfawhag      1709 C100565-B    Ni Va              601 Im 
+Shikhiisu     1801 XA5A89B-2    Wa              R  202 JP
+Ap            1802 B75A659-B    Ni Wa              804 JP
+Ciam          1804 B83A421-8  C Ni Wa              102 JP
+Fogdda        1806 C300100-A    Lo Ni Va           615 Im 
+Fendad        1808 A514000-B    Lo Ni Ic Ba        424 Im 
+Kukatote      1810 B241769-A  W Po                 403 Im 
+Lazada        1903 D452666-2    Ni Po              304 JP
+Sakumiiku     1904 E778743-5  C Ag                 504 JP
+Shadunug      1905 C6AA799-A    Fl Wa              924 Im 
+Irenmer       1909 X4588DD-1                    R  814 Im 
+Uumimi        1910 E410200-8    Lo Ni              713 Im 
+Schen         2001 C506331-9  C Lo Ni Va Ic        403 JP
+Ert           2002 C535100-9    Lo Ni              814 JP
+Moder         2003 C322556-9    Ni Po              703 JP
+Hikly         2006 B410431-B    Ni                 204 Im 
+Amisap        2008 C140533-9    Ni Po De           404 Im 
+Roiirawhi     2009 X67358B-1    Ni              R  324 Im 
+Ka            2105 D8B6867-5    Fl                 603 Im 
+Aswa          2110 C88A585-8  S Ni Wa              604 Im 
+Ngoripawa     2201 B433620-9    Na Ni Po           700 JP
+Tasaisle      2207 C6B0120-9    Lo Ni De        A  903 Im 
+Areshu        2209 B130967-F    Hi Na Po De        304 Im 
+Makkstol      2210 D472359-6    Lo Ni              704 Im 
+Pimi          2301 E77668A-6  C Ag Ni              105 JP
+Ushiigan      2303 B666666-5    Ag Ni Ri           300 JP
+Nojityt       2308 A6A6764-D  N Fl                 903 Im 
+Han           2310 C451588-6    Ni Po              302 Im 
+Swana         2401 B100200-C    Lo Ni Va           702 JP
+To            2403 D44977C-5                       103 JP
+Guush         2404 A120201-D    Lo Ni Po De        404 JP
+Udmakamun     2405 E87A200-9    Lo Ni Wa           314 Im 
+Githiaski     2406 A789886-C    Lo Ni              830 Im     f
+Kukamkurli    2407 D528302-9  S Lo Ni              604 Im 
+Becon         2408 C552112-9  S Lo Ni Po           403 Im 
+In            2409 D522688-3    Na Ni Po           722 Im 
+

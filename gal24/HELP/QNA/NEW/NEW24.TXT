@@ -1,0 +1,54 @@
+
+[Q] What's new in version 2.4?
+
+[A] New stuff for the classic galaxy:
+
+  * Jeff Zeitlin (jeff.zeitlin@execnet.com) contributed the following six
+    sectors: Amdukan, Antares, Arzul, Empty Quarter, Mendan, and Stars' End.
+  * Rupert Boleyn contributed the Canopus Sector.
+  * Roger Myhre contributed the Gvurrdon Sector.
+  * Martin Rait contributed the Meshan Sector.
+  * Chris Trash sent in several brief world descriptions for each of
+    the worlds in Reft's New Islands & Old Islands subsectors.
+  * Expanded notes on the Dagudashaag Sector (courtesy of Jae Campbell,
+    Duncan Law-Green, The UK fanzine _Signal GK_ and members of HIWG)
+
+New stuff for the TNE galaxy:
+
+  * Data was obtained from Planet Navigator by Planet III Software for
+    the Spinward Marches, Deneb, and Reft Sectors.
+  * Rupert Boleyn contributed the Canopus Sector.
+  * Roger Myhre contributed the Gvurrdon Sector.
+  * Michael Koehne contributed the Gushemege Sector.
+  * David Drazul a.k.a. DED (dedly@aol.com) contributed the Provence Sector.
+  * Grant Sinclair contributed the Yiklerzdanzh Sector on behalf of
+    HIWG Australia.
+  * Idiot/Savant and Lewis Roberts contributed Alpha Leonis on behalf of
+    the membership of the TNE-RCES mailing list.
+  * Chris Griffen contributed the Trojan Reaches, Corridor and Vland
+    Sectors, supplying a number of world writeups from the Regency
+    Sourcebook and elsewhere.
+
+And that's not all:
+
+  * Andrew Vallance contributed an updated version of his Greater
+    Magellanic Cloud galaxy along with his new Interstellar Wars
+    galaxy covering the early wars between Terra and the Vilani.
+  * History files convering the Traveller Universe and the Third
+    Imperium by Clayton Bush.
+  * Traveller News Service files courtesy of Marc Miller.
+
+There are also new program features:
+
+  * Added a galaxy map in between the main menu and sector map.
+  * Jo Grant (jaymin@maths.tcd.ie) contributed a galaxy "dot" mapper.
+  * Added archiving subprogram (I/X from galaxy menu or galaxy map).
+  * Added world finder (F) to galaxy map.
+  * Added flat-text sector file dumper (F) to the sector map.
+  * Added a configuration option allowing white backgrounds to various
+    maps (mainly for ease of printing).
+  * Added UWP/WorldName display toggle (ctrl-u) to subsector map.
+  * Created stand-alone conversion utility (conv23.exe) in the "convert"
+    directory which you can use to convert Galactic v2.3 galaxies to
+    Galactic v2.4 format (see convert\readme.txt).
+

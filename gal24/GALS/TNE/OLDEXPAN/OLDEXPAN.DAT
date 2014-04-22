@@ -1,0 +1,39 @@
+Old Expanses
+
+A: Dethenes                  sec_a.dat           f
+B: Quinoid                   sec_b.dat           f
+C: Ahrhi                     sec_c.dat           f
+D: Voskl                     sec_d.dat           f
+E: Srys                      sec_e.dat           f
+F: Jayna                     sec_f.dat           f
+G: 21 Worlds                 sec_g.dat           f
+H: Ile                       sec_h.dat           f
+I: Thoezennt                 sec_i.dat           f
+J: Shenk                     sec_j.dat           f
+K: Karse                     sec_k.dat           f
+L: Vendtup                   sec_l.dat           f
+M: Aubaine                   sec_m.dat           f
+N: Oriflamme                 sec_n.dat           f
+O: So Skire                  sec_o.dat           f
+P: Sitah                     sec_p.dat           f
+
+Bases:
+A = Navy & Scout Bases
+D = Naval Depot
+N = Naval Base
+S = Scout Base
+C = Scout & Hiver Base
+T = Hiver Temp Base
+H = Hiver Staging Base
+  = None
+
+Allegiance:
+14 RC = Reformation Coalition
+08 Un = Unpopulated
+04 Wi = Wilds
+01 So = Solee Empire
+02 Na = Non-aligned
+05 TV = Trade Union
+03 CH = Sitah (Hiver Client)
+09 Dr = Droyne World
+07    = Unknown

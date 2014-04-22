@@ -1,0 +1,50 @@
+r17 Combat Rifle
+
+The r17 combat rifle is the latest small arm to enter Magellanic service.
+Adopted by the IMSC in 2368T as a limited replacement for the venerable r3
+with the Patrol service and Security branch. The r17 is a revolutionary
+weapon which incorporates several radical new features. The most obvious new
+feature is the use of a metered binary propellant rather than the usual self
+contained round. The r17 has two power levels (full or 100% and low or 25%).
+At the high setting the r17 functions as a normal ACR, whereas at the low
+setting the r17 is a low recoil weapon suitable for zero-g environments. A
+fully charged propellant cartridge contains sufficent propellant for either
+65 full power shots or 260 low power shots (or any combination). The second
+new feature of the r17 is the fully intergrated HETL sight, incorporating a
++3 HUD, an EMF sight, a thermal conversion sight and a laser designator. This
+allows for the r17 to be fired without exposing anything other than the
+weapon. Finally the r17 is optimised to fire a wide variety of ammunition
+(5.6mm discarding sabot, ball and HEAP) to enable it to deal with a wide
+variety of differing circumstances.
+
+The r17 also features all the characteristics that might be expected of a
+normal military combat rifle; it has a modern bullpup design, is fully
+gyrostablised, and capable of firing either semiautomatic, 5 round burst, or
+full cyclic (650rpm for a +1 DM attack per 65 rounds). Butlaar Small Arms
+also manufacture a semiautomatic only version (the BSA M2368) lacking the
+advanaced sights (it retains only the intergral laser designator) for the
+civilian market. Currently the advanced discarding sabot and HEAP rounds are
+not available on the civilian market.
+
+Weapon: r17 combat rifle
+Action: Gas retarded blowback - singleshot, burst (5), cyclic (650)
+Ignition: Electric
+Tech Level: 12
+Calibre: 8.75mm BSA binary (discarding sabot, ball or HEAP)
+Penetration: (full power): DS: 5, Ball: 4, HEAP: 4
+             (low power): DS: 3, Ball: 2, HEAP: 4
+Range: medium
+Malfunction: reliable
+Shots: 65
+Mass: 4.5kg (M2368: 3.3kg)
+Reloads: DS: 1.0kg, Ball: 1.3kg, HEAP: 0.4kg
+Length: 56.5cm
+Cost: Cr 3360 (M2368: Cr 925)
+Incidentals: 65 rounds DS: Cr 81.25 (0.7kg)
+             65 rounds ball: Cr 3.25 (1.0kg)
+             65 rounds HEAP: Cr 91 (0.1kg)
+             10 hour rechargeable battery pack: Cr 4 (0.5kg)
+             40 hour disposable battery pack: Cr 2 (0.5kg)
+             empty 65 round magazine: Cr 40 (0.2kg)
+             fully charged propellant cartridge: Cr 39.5 (0.1kg)
+             propellant cartridge recharge: Cr 19.5 (0.1kg)

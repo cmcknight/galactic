@@ -1,0 +1,134 @@
+   
+Dlarashtsalash (Yiklerzdanzh Subsector N) as at 1201
+    by David Thornell and Corran Webster
+    Date: 25 February 1996
+    
+     _________________________________________________________________
+   
+   The Dlarashtsalash subsector contains 26 worlds with a total
+   population of 106.586 billion. The highest population is at Sejchiet,
+   with 91.6 billion. The highest tech level is E at both Sejchiet and
+   Jonjivr, while the lowest is 5 at Pranjadraparats. The population
+   comprises about 10% racial Zhodani, 79% Izrats Kriezhlas Vlazhdumecta,
+   5% Carillon and 6% other races. Izrats Kriezhlas/Zhodani/Solomani
+   hybrids are usually considered Izrats Kriezhlas.
+   
+   Worlds generated according to World Tamer's Handbook where applicable
+   and World Builders Handbook otherwise. Note that atmospheric taints
+   generated using WBH, since World Tamer's is intended only for worlds
+   already known to be habitable.
+   
+   This document is not intended to infringe on any rights of FarFuture
+   Enterprises.
+
+Dlarashtsalash Subsector Overview
+   
+   The Dlarashtsalash were an ishikin group of minor Izrats Kriezhlas
+   Houses who colonised the spinward areas of this subsector in the mid
+   -4000's. Their descendants still populate these scattered worlds. The
+   Izrats Kriezhlas Unity holds six systems in the trailing-rimward
+   corner of the subsector. They are the descendants of the main
+   Vlazhdumecta colony almost 6,000 years ago.
+   
+   Protruding in from the coreward edge, the Carillon Harmonies has four
+   major worlds. Considerable trade (mostly jump-2) flows through the
+   region, heading for the Izrats Kriezhlas Unity to rimward and to the
+   Talpaku Communality, Meichntid Ibl and Zhodani Consulate to coreward.
+   A Jump-3 divide blocks easy trade to trailing.
+   
+   Two worlds to trailing of the Carillon worlds hold a colony of
+   Solomani fanatics who settled there in the early 500's.
+
+Library Data
+
+   Dlarashtsalash: An ishikin group of six Minor Houses that colonised to
+   spinward of Izh Kriezhlal in the mid -4,000's. The Houses hoped to
+   increase status and power by extending the Izrats Kriezhlas Unity to
+   new worlds. However, by stretching resources so soon after the
+   resettlement, they assisted the disintegration of the nascent state.
+   The general collapse of the Izh Kriezhlal colonies saw these farthest
+   flung outposts isolated. Now all that remains of these six Houses is
+   the scattered worlds of the subsector that bears their name.
+   
+   Izhde Dletsva: A small trading concern based on Rajash (1036). Most of
+   it's activities are confined to the two systems within Jump-1 range.
+   However, it has several Jump-2 ships which range farther afield on
+   other ventures.
+   
+   Merchant Traders: One of the most frequently encountered ships along
+   the Izrats Kriezhlas trade routes is the Tlatianim class 3,000 ton
+   Merchant Cruiser. The Great Houses use these ships to carry trade
+   throughout the sector. A number of ships are owned by consortia of
+   Minor Houses to protect their interests and exert their independence.
+   Originally constructed at Jump-2, a few have been refitted for Jump-4.
+   However, there is little need for this within the Unity as the
+   Tlatianim will just fit within a Jump-5 tender.
+   
+   PSR-4618+22: A low mass neutron star situated at 1334. It is a remnant
+   of a supernova that occurred about 600,000 years ago. Its nebula is
+   now over 3,000 parsecs wide and has been observed by the Zhodani Core
+   Expeditions. The neutron star is less than 25km in diameter but is
+   still listed as a hazard in astrogation programs. An observation post
+   and fuel dump was established in the late -1200's but was abandoned
+   several hundred years later. It may still be found orbiting the
+   remnant although the fuel tanks are long dry.
+   
+   Popular folklore has it that the area for about two parsecs around
+   this remnant is a "Bermuda Triangle", responsible for both an unusual
+   number of appearances and disappearances of starships.
+   
+   A historical study carried out in 1039 found evidence to support the
+   stories of an unusual number of misjump reappearances around the star,
+   stretching back as far as the earliest use of jump drive. It is
+   probable that there were many more occurrences than were recorded due
+   to the low probability of a ship returning this point after misjump
+   (although several have made it back using low berths). It would appear
+   that the space for several light hours around the star is a 'magnet'
+   for misjumped ships.
+   
+   Detailed studies, however, have shown no unusual history of
+   disappearances.
+   
+   Shtier'a Wood: Harvested from the Shtier'a tree that grows only on
+   Melchizhdrenk (1139). It is much sought after for numerous uses. As
+   lumber, it is extremely useful as a low-tech construction material due
+   to its resilience, high tensile strength, and decorative finish. The
+   wood can also be processed to extract compounds useful in industrial
+   chemistry.
+   
+   The Faith: In the late 500's, an extremist Solomani sect from the
+   Sword Worlds arrived in the subsector, seeking a base to forge a new
+   elite. They colonised Hammer (1631) and then immediately colonised the
+   nearby world of Forge (1531).
+   
+   The inhabitants of Hammer and Forge simply refer to themselves as "the
+   Faith". Their extreme views put them at odds with the Christian
+   religions from which their beliefs were originally derived,. The main
+   reason for this is their promotion of violence as a means to bring the
+   social change they seek, but other factors, such as society based on
+   communal polygamy, are also relevant. Only "Speakers of the Faith" can
+   have contact with offworlders. Most consider the Faith to be dangerous
+   psychotics.
+   
+   Due to the difficulties in food production on both worlds,
+   vegetarianism is mandatory in Faith society. Only the strongest eat;
+   those who are weaker must beg, steal, or forage for the leftovers of
+   their betters. Anything less than perfect health is considered a sign
+   of weakness and degeneracy.
+   
+   They loathe the Vlazhdumecta (since they are human yet have their
+   unique biology) and the Carillon (as alien monsters) but have somehow
+   managed friendly terms with the Zhodani. They have disputes with
+   Zezhdishketl (1630) which have resulted in raids being mounted against
+   that system, which is causing further tension with the Izrats
+   Kriezhlas Unity (since Zezhdishketl is a client of the Unity).
+   
+   In order to be accepted as worthy of any position of prominence in
+   Society, it is necessary to undergo a Trial. Forge is the most
+   important place of Trial for the sect, since only those who survive a
+   trial there can join the military or rise to power in the religious
+   government. Those who fail a Trial there die. Hammer is otherwise used
+   as the place of Trial. Those who succeed reap the reward they seek,
+   while those who fail but survive are not accepted back into society,
+   doomed to a remaining life that is difficult, short, and bleak.
+

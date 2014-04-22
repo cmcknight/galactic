@@ -1,0 +1,31 @@
+@SUB-SECTOR: sec_N   SECTOR: trojan
+#
+# Trade routes within the subsector
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Eoiw          0931 B3306K4-E  R Na Ni Po De An     803 As
+Earlyu        0933 B9898L9-D  T Ri Tp              801 A2
+Hkuikhekh     0934 B5323G6-D    Lo Ni Po           804 As
+Ewyeyai       0936 B4845HA-E  U Ag Ni           B  100 As
+Aisaoawi      0938 CAC5000-0    Fl Ba           R  023 As
+Elyehwehakhea 1034 C79A5HB-B  R Ni Wa           B  103 As
+Haealroiea    1036 B5544M7-C  R Lo Ni              730 As
+Wuaki         1038 A1105K5-C  R Ni                 413 As
+Aoiyras       1235 B3406KC-A    Ni Po De           813 As
+Irlaiw        1236 C336AH5-D  R Hi              B  813 As
+Rileakh       1333 C2378N5-A                       702 As
+Eateaw        1334 C223000-0    Ba Po           R  004 As
+Yu'eal        1335 B2326L6-E  T Na Ni Po           524 A4
+Aiuiktiyr     1338 E7974M9-A    Lo Ni Tp           204 As
+Htoihfui      1339 A3688H3-E  R Ri              B  105 As
+Huaholr       1436 B4204NC-9  R Lo Ni Po De        823 As
+Teiseirle     1438 BA9A3H7-8    Lo Ni Wa        B  703 As
+Ouiyloi       1533 C5748L9-D  T                    101 A8
+Stehasu       1534 A7206H7-C  U Na Ni Po De     B  800 As
+Sosuasaoh     1535 B1008N8-B  R Na Va              203 As
+Kheiyyo       1537 C5258J7-9  R                    203 As
+Yai'ilrao     1631 B8585H7-E    Ag Ni Tp        B  604 As
+Aluite        1634 B6457J7-E  R Ag Tp              223 As
+Awaweaw       1637 E8558N9-9    Tp                 121 As

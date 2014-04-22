@@ -1,0 +1,31 @@
+@SUB-SECTOR: sec_C   SECTOR: gush
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Roy           1801 X130000-0    Ba Po De           003 --
+Moseesi       1810 X210000-0    Ba                 000 --
+Trama         1905 X7B0000-0    Ba De              003 --
+Ranant        2007 X251687-3    Ni Po              502 Wi
+Sypny         2008 D552653-9    Ni Po              904 Wi
+Mishiin       2105 X332000-0    Ba Po              003 --
+Ivto          2106 X425000-0    Ba                 004 --
+K'ketopan     2107 X232000-0    Ba Po              024 --
+Hilcaa        2108 X540567-3    Ni Po De        B  122 Wi
+Brice         2110 X8A9000-0    Fl Ba              000 --
+Mestitela     2202 C5558C9-5  S                    103 Wi
+Uurkhi        2205 X221000-0    Ba Po              012 --
+Painntu       2206 E547623-7    Ag Ni              701 Wi
+Irkhi         2207 X678867-1                    B  322 Wi
+Sehnaihal     2210 D658874-5  S                    713 Wi
+Kiind         2303 X868568-7    Ag Ni           B  212 Wi
+Sharenga      2305 X684969-3    Hi              B  302 Wi
+Mulanje       2306 X79736C-7    C7 Lo Ni           524 Wi
+Penelasse     2307 X221000-0    Ba Po              000 --
+Choma         2308 X34046E-2    Lo Ni Po De        301 Wi
+Oroth         2309 X672200-7    Lo Ni              401 Wi
+Viskka        2310 X794568-3    Ag Ni           B  100 Wi
+Hannbrous     2404 E759621-4    Ni              B  320 Wi
+Ellus         2406 X73A000-0    Ba Wa              003 --
+Cirsel        2408 X538000-0    Ba                 023 --
+Admalaknii    2410 X88A310-3    Lo Ni Wa        B  404 Wi

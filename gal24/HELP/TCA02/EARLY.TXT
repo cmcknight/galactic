@@ -1,0 +1,74 @@
+
+Traveller, as a SF-RPG, naturally borrowed various ideas from
+SF-literature and elsewhere. Steven Higginbotham pointed this
+out in no uncertain terms during early discussions concerning
+the official Traveller universe and the legal issues surrounding
+the unlicensed production of Traveller-compatible materials.
+
+1. "jump" (meaning the concept of "hyperspace") has been in use
+in SF for at least 40 years.
+
+2. "Imperium" is a good latin word for Empire.  It also has been
+used since the 60s in SF. (Anyone remember Perry Rhodan???)
+
+3. "Vargr" (one of the major alien races in the game, wolf-men in
+effect) is a Scandinavian word for wolf.
+
+4. "Aslan" (another major alien race) cannot be copyrighted,
+since the original copyright (C.S. Lewis's) has expired. And the
+form they gave the Aslan seems to bear more than a passing
+resemblance to the guys in the "Chanur" stories, by C.J. Cherryh.
+
+5. "Efate" (a major world) is an Island in the Pacific ocean.
+
+6. "Regina" (a subsector capitol) is a city in Canada.
+
+7. "Mora" (another subsector capitol) is a coach for the New
+Orleans Saints.
+
+8. "Zyra" was lifted from the movie version of "When Worlds
+Collide".
+
+9. The "Sword Worlds" individual names were taken from history,
+myth, and fiction.  The collective name is from "Space Viking" by
+H. Beam Piper. Even the culture seems awfully like Piper's Sword
+Worlds.
+
+------------------------------------------------------------------------------
+
+Bundle: 393
+Archive-Message-Number: 4689
+Date: Thu, 1 Oct 92 10:33:43 PDT
+From: gwh@lurnix.COM (George W Herbert)
+Subject: About Copyrights...
+
+While it is true that there's little possibility of GDW making a 
+successful "intellectual property" lawsuit based on just the ideas
+in Traveller, not actual copyright violation, please keep in mind
+how hard it would be to _not_ violate copyright on their collected
+works if someone did an unlicensed product.
+
+You'd have to avoid referring to interstellar travel via a week-long
+hyperspace as "jump".  You'd have to try and keep "Imperium" out of
+it for most intents and purposes.  All alien race names would be
+verboten.  Star system names might even be covered.
+
+Heck, the task system is probably copyrighted and -able, so it's
+probably out, too.  Weapon names like "7mm Assault Rifle" or
+"RAM GL" or "PGMP" are probably out.
+
+Could someone say, publish a book and make use of some subset of these
+ideas?  Likely.  They're not totally unique to Traveller in scifi
+writing and gaming.  However, any significant subset of them,
+say enough to make a viable module, would probably be a violation.
+
+Motto: if you go commercial, get a license.  If you're totally amateur,
+it doesn't matter 'cause they have to prove damages if they sue
+you for infringement, but make any money off it and you play the
+game their way.  Writing an adventure article for a magazine is
+generally considered "ok" in the industry, but publishing a
+Traveller-oriented commercial product would be uncool.
+
+- -george william herbert
+gwh@lurnix.com  gwh@soda.berkeley.edu
+

@@ -1,0 +1,44 @@
+@SUB-SECTOR: sec_K   SECTOR: deneb
+#
+# Trade routes within the subsector
+$1925 1623 -1 0
+$1925 1826 0 0
+$1826 1829 0 0
+$1829 1532 -1 1
+$1925 2225 0 0
+$2225 2323 0 0
+$2323 2521 1 0
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Redemption    1722 X140634-1    Ni Po De        A  033 Dd
+Woaros        1726 X747678-1    Ag Ni           R  014 Dd
+Monogan       1728 E10056A-8    Ni Va              902 Dd
+Gatooma       1730 E100566-7    Ni Va              424 Dd
+Rolvaag       1821 E380345-7    Lo Ni De           804 Dd
+Tetzel        1823 B643232-B  N Lo Ni Po An     A  301 Dd
+Farraco       1824 E200478-A    Ni Va              112 Dd
+Eshamlii      1826 A334343-B  S Lo Ni              323 Dd
+Prefecture    1827 E1307B6-9    Na Po De           724 Dd
+Bisistra      1829 B357579-D  N Ag Ni              802 Dd
+Ronsard       1830 DA89654-8  S Ni Ri              225 Dd
+Liran         1923 B0008B8-A    Na As              811 Dd
+Deneb         1925 B537ADD-C  N Hi In Cx           610 Dd
+Amshal        1926 B687365-9  N Lo Ni              622 Dd
+Thussor Ozoam 1927 X245101-6    Lo Ni           R  615 Dd
+Exile         1928 X799212-4    Lo Ni Pr        R  810 Dd
+Turkoman      1930 B9C67CB-7    Fl                 220 Dd
+Bruyere       2023 C524367-B  S Cw Lo Ni           422 Dd
+Minocoy       2024 B422505-D  N Ni Po              620 Dd
+Avernus       2027 E8865A6-4    Ag Ni              602 Dd
+Nyasal        2028 B300653-D  N Na Ni Va           324 Dd
+Arcanum       2126 X334868-3    RsA             R  810 Dd
+Nusukha       2127 E310100-7    Lo Ni              215 Dd
+Byblos        2223 C6738BD-7  S                    601 Dd
+Revoc         2224 C9AA577-A  S Ni Fl Wa           502 Dd
+Usani         2225 A452699-C  N Ni Po Cp           202 Dd
+Sage          2322 D463310-A    Lo Ni              120 Dd
+Azed Bek      2323 C766300-B  S Lo Ni              610 Dd
+Ayers         2424 C230668-A  S Na Ni Po De        323 Dd
+Hysyl         2425 C2407A9-7  S Po De              702 Dd

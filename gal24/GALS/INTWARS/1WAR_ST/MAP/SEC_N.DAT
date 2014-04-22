@@ -1,0 +1,32 @@
+@SUB-SECTOR: sec_N   SECTOR: 1war_st
+#
+# Trade routes within the subsector
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+.             0931 X113000-0    Ba Ic Lo Ni        010 Us
+.             0938 X000000-0    As Ba Lo Ni        002 Us
+.             1032 X547000-0    Ba Lo Ni           011 Us
+.             1034 X551000-0    Ba Lo Ni Po        003 Us
+.             1035 X468000-0    Ba Lo Ni           001 Us
+.             1136 X785000-0    Ba Lo Ni           003 Us
+.             1137 X47A000-0    Ba Lo Ni Wa        022 Us
+.             1140 X976614-4    Ag Ni              205 Na
+Luuru         1234 E9B7000-0    Ba Fl Lo Ni        020 Us
+.             1237 X438000-0    Ba Lo Ni           033 Us
+.             1239 X647000-0    Ba Lo Ni           014 Us
+.             1332 X453000-0    Ba Lo Ni Po        005 Us
+.             1337 X487000-0    Ba Lo Ni           002 Us
+.             1339 X76A000-0    Ba Lo Ni Wa        002 Us
+.             1340 X522000-0    Ba Lo Ni Po        003 Us
+.             1435 X759000-0    Ba Lo Ni           002 Us
+.             1437 X763000-0    Ba Lo Ni           021 Us
+.             1439 X887000-0    Ba Lo Ni           005 Us
+Capella       1440 X000000-0    As Ba Lo Ni        023 Us
+.             1533 X312000-0    Ba Ic Lo Ni        001 Us
+.             1537 X358000-0    Ba Lo Ni           014 Us
+.             1538 X8DA000-0    Ba Fl Lo Ni Wa     034 Us
+.             1540 X755000-0    Ba Lo Ni           021 Us
+.             1636 X456000-0    Ba Lo Ni           014 Us
+.             1637 X211000-0    Ba Ic Lo Ni        013 Us

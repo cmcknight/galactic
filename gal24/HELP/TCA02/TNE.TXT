@@ -1,0 +1,438 @@
+T I F F A N Y   S T A R   # 3 1                   Michael R. Mikesh
+ HISTORY OF THE IMPERIUM                          3214 75th Avenue, #3
+ WORKING GROUP                                    Landover, MD 20785
+ August 30, 1992                                  USA   (301) 772-2498
+
+
+     GenCon/Origins '92 is over, and there's a lot of news.  The GDW
+staff conducted 2 seminars for the public, then a full day's Traveller
+Writers' Conference at Bloomington, Illinois the day after the con.
+     The seminars were well attended with a significant proportion of
+the audience from outside the States.  I wish I was able to meet some
+of these new faces, but couldn't do everything. However, I did finally
+meet in the flesh Roger Myhre (Norway, HIWG) and Bertil Jonell
+(Sweden).
+     The Writers' Conference was conducted by David Nilsen, Steve
+Maggi, Loren Wiseman, and Frank Chadwick.  The outside writers around
+the table were Bertil Jonell, Mike Mikesh (HIWG), Greg Videll (HIWG),
+Harold Hale, Rob Prior (HIWG), Terry McInnes (HIWG), Scott Olson
+(HIWG), and Clay Bush (HIWG).  What follows is a fusion of information
+collected from both the Conference and seminars.  (Many thanks to
+Terry McInnes for having arranged the conference.)
+
+TRAVELLER: THE NEW ERA -- WHY?
+     GDW admits they did not support MEGATRAVELLER (MT) adequately.
+An underlying reason was simply that they did not play MT, and so did
+not know the system very well.  As a result, temptation was too great
+to redirect support elsewhere.  GDW wasn't offering this reason as an
+excuse, only as an explanation.
+     To avoid this problem, they want to write TRAVELLER: THE NEW ERA
+(TNE) strictly in-house.  Further, it will be based on the
+TWILIGHT:2000 family of games, which is good for a few reasons.
+     First off, TNE will belong to the GDW house role playing system.
+Because of this, the designers don't have to think in terms of a
+different rules set when they provide TRAVELLER support, giving them a
+boost in productivity.
+     Second, its very easy for gaming groups to hop among GDW RP games
+and even borrow elements from one another.
+     Third, the house role playing system is a direct descendant of
+classic TRAVELLER.  TRAVELLER was their first RP game, but never
+received the benefits of GDW's advances in RP game system design.  Now
+they finally have a chance to do so.  TRAVELLER is coming home.
+     Contrary to what some might believe, this is not a move just to
+make more money with a new rules set.  While it is true that new rules
+sell well, the initial sales of TNE will pay for itself and that's
+all.  It takes a lot of effort and resources to put out a rules set.
+Profit comes as a result of reorders, so for TNE to be profitable, it
+must be good and its appeal must grow.
+     The changes taking place in the Imperium setting are in effort to
+create more wild frontiers.  Originally, the Imperium was a very
+stable place, and well known to characters through the usual networks
+of library data.  The Rebellion shattered that stability.
+Unfortunately, the Rebellion itself became a spectator sport, too
+large in scope for player characters to interact with.
+     The background for TNE is set 70 years after the Rebellion (circa
+1190) in a time when interstellar society has completely collapsed.
+(The GDW staff members whimsically called this intervening period, the
+Short Nap.)  This is a time, three generations later, when there are
+very few people left who remember the old Imperium.  Records from the
+Third Imperium are often lost (as a result of the Virus; see later).
+And, many worlds have died or diverged dramatically following the
+collapse of interstellar commerce.
+     This element of the background was deliberate so that players do
+not have to be familiar with the Imperium setting.  There is a lot to
+know, which is probably a large part of TRAVELLER's appeal to many
+HIWGers.  But GDW cannot afford to let TRAVELLER become a game for
+elite and dedicated players.  New players are intimidated by the
+volume of information that exists, which is impeding TRAVELLER's
+growth.  So, TNE will render most of that information unknown and
+unnecessary without invalidating the previous literature.
+     Established players will undoubtedly look back at classic
+TRAVELLER with a sense of nostalgia, which will have an intrinsic
+benefit in gaming with new comers.  Long time players running
+characters who skipped the "Short Nap" in cold sleep will remember
+well "the good ol' days."  They can relay their knowledge through role
+playing, but also sincerely convey an appreciation for what was lost.
+Perhaps together, old and new characters can restore the glory that
+belonged to that part of space.
+
+RULES SYSTEM
+     TNE will come as two books.  The first will have only the rules.
+The second will contain the Imperium background.  The aim is to give
+players the option to adopt other science fiction universes for their
+campaigns.  GDW is even seriously considering a 2300 AD Sourcebook,
+restoring support for 2300 AD as a subset of TRAVELLER.
+     The TNE rules will use DARK CONSPIRACY as a starting point since
+that is the latest iteration of the house rules.  It will also adopt
+the D20 task system from the DARK CONSPIRACY PC BOOSTER KIT and
+difficulty levels that originally came from 2300 AD.  This system will
+allow characters to apply more than one skill if the situation calls
+for it.  Although the house rules currently do not allow zero-level
+skills, Clay Bush's comments during the Conference might have shifted
+GDW's thinking on this.
+     TNE will definitely not be an outgrowth of MT.  Although MT was
+an award winning game design, the GDW staff isn't comfortable
+continuing with it because of elements they considered "fussy".  In
+particular, GDW will completely revise the ship design system to make
+it easier.  Digest Group made a special effort to assure that classic
+ships were convertible to MT.  GDW, however, will not do this so as to
+not risk compromising the new system.
+     Dave Nilsen intends to present the design system in the basic
+rules book rather than split it off.  This is not to say that
+absolutely everything will be there, since we know from STRIKER, BOOK
+8 - ROBOTS, COACC, and WET NAVY, that there is an awful lot.  All the
+hooks will be there, though.
+     The design system will have differing design sequences for
+different vehicles.  The tank system, for instance, will not include
+consideration for a jump drive or spinel mount.  However, the combat
+system will be compatible with everything.  Tanks can fire on
+starships, for instance, without requiring a conversion.
+     Three versions of faster-than-light drives will be presented in
+the rules, jump drive (TRAVELLER), stutterwarp (2300 AD), and star
+gates (resembling Pournelle's MOTE IN GOD'S EYE universe).
+     The ship combat system might include a vector combat system, like
+what appeared in GDW's MAYDAY. However, GDW hopes to simplify bringing
+distant ships to tactical range without burdening players with vector
+mechanics just to get their ships to close.  A vector combat system
+will probably not appear if GDW uses instead the stutterwarp combat
+system (see later).
+     The world generation system will remain as it is with one minor
+exception.  The stars a system will be a factor of the kind of main
+world generated.  Its too difficult rationalizing the large number of
+hospitable worlds circling stars of types unlikely to have anything
+but dead planets.  So, most of the star types in the sector data lists
+will change (where stellar data exists at all).
+     Doing this, however, will skew the stellar population
+unnaturally.  Most real stars are red dwarfs, whereas they will be
+uncommon in TRAVELLER. However, a misconception crept into star charts
+that GDW might decide to throw back out.  Charts were only meant as
+navigation aids.  They originally did not represent the actual
+positions of the star systems nor all of the star systems present.
+They showed only systems that might be visited, particularly ones with
+populations or sources of fuel.  Other systems did not show.
+     By this rationale, star charts from the First Imperium could
+differ surprisingly from those of the Third.  Some worlds might have
+been populated by the Vilani that are dead and useless now, and so do
+not appear.  The converse could also be true.
+
+NEW ERA BACKGROUND
+     There won't be much left of interstellar society after the Virus
+causes the total collapse interstellar trade.  This destroys the
+Solomani Confederation and most of the alien realms as well.  We're
+left with what is spinward of the Rift, a remnant of Lucan's Imperium
+in Core Sector, and scattered pocket empires.
+     Seventy years after the Rebellion, struggling pocket empires will
+be far and few between.  The Long Night was supposed to be desolate,
+but too many exceptions, such as Ral Ranta in the Hinterworlds, were
+written back in.  GDW plans to be very restrained in the number and
+size of pocket empires that exist by this time.
+     The New Era will be an age of discovery. Explorers (Star Vikings)
+from the pocket empires will go out and recontact worlds in a fashion
+loosely resembling what we see in STAR TREK.  Starships are still
+especially rare and valuable during this time.  Boarding action will
+prevail in space combat so as to capture, not destroy, the hardware.
+     Deneb survives, thanks in part to an impassioned appeal by Chuck
+Kallenbach (Paranoia Press; HIWG).  Vargr activity across the Corridor
+slowed the migration of the Virus long enough to give Norris time to
+prepare and counter it.  As a result, the Empire of Deneb remains a
+powerful interstellar state even in the New Era.
+     TNE will detail the Zhodani.  A modus vivendi exists between
+Deneb and the Consulate whereby the governments are at peace with one
+another, even if the cultures are at odds. Some trade does take place,
+but Deneb will more vigorously pursue trade with the Human Client
+States to replace old Imperial markets.  However, an understanding
+exists with the Zhodani that Deneb will not absorb those states.
+     Conflict still exists with the Vargr and Aslan.  Ultimately,
+Deneb might wage a campaign against the Vargr in Corridor and push
+back through the Rift.
+
+THE VIRUS IS YOUR FRIEND
+     There is much to say about the Virus, but I will gloss over most
+of the details and leave them to CHALLENGE 64.  Keep in mind that the
+Virus is only a device that gets us to the New Era. The New Era is set
+in stone, and refinements to the Virus and history must give us that
+result.
+     The silicon lifeforms of Cymbeline (see ADVENTURE 13 - SIGNAL GK)
+are, in effect, sophont computer chips.  All starships that trade in
+Imperial space (including aliens) have transponders with sophont chips
+whose circuits are based on these.  When ships encounter one another,
+the transponders interrogate one another until each is convinced of
+the other's identity.  Starship crews might think a complex system of
+codes is involved, when in fact the chips are just having a binary
+chat session to compare notes.
+     Among the 'secret weapons' developed under Lucan were
+transponders based on the Cymbeline predator chip.  Through radio
+contact, they could reprogram transponder chips into other predators,
+which in turn could similarly affect system computers.
+     Engineers in Lucan's labs were trying to design these predators
+so that no generation would ever harm systems loyal to Lucan's
+Imperium, but they could never perfect that. Frustrated, Lucan ordered
+it released anyway.  The Ilelish Federation also released it,
+inadvertently, after an espionage team acquired a copy of it.
+     The most insidious aspect of the Virus is its intelligence.
+Contemporary computer viruses passively spread as copies attached to
+other programs.  The TNE Virus, however, can actively find ways to
+open data links and write intelligent viruses onto other operating
+systems.  They can be aware of the real world and manipulate the real
+world to suit their own ends.
+     Most Viruses are dormant, keeping themselves concealed and
+generating new Viruses.  But when they turn malignant, the effect is
+similar to what was depicted in MAXIMUM OVERDRIVE.  Machines that can
+be controlled from computers begin murdering people.
+     One of the results of this are 'vampire ships' where the computer
+has killed its own crew, as in ADVENTURE 1 - KINUNIR or the HAL 9000
+in 2001.  These ships will continue as best they can to spread the
+Virus or inflict the greatest possible harm.  Some might even take
+human hostages to serve their needs.
+     Not all Viruses are the same.  Each generation is a mutation of
+the previous one, so each Virus will be unique with a different
+personality, agenda, and interpretation of its goals.  This grants
+referees the liberty to decide what the Viruses might do.  One might
+just kill at every opportunity.  Another might create a pseudo-real
+human personality in communication to lure unsuspecting ships to their
+doom.  Another might recruit other vampire ships to form a vampire
+fleet.  Its even possible for a Virus to evolve that is benevolent,
+although will likely be unstable.
+     As you can see, the Virus offers an endless number of exciting
+science fiction plots.
+
+STAR VIKINGS
+     The Virus inflicted much harm upon the Hive Federation.  However,
+thanks to their advanced knowledge in electronics, they combated it
+more effectively and preserve their interstellar society.
+     Curious about what happened to the humans, they found the
+Solomani Confederation and factions of the Imperium completely
+dissolved.  Worlds were beginning to recover, though.  Humans would
+inevitably resume interstellar commerce and not suffer a prolonged
+Long Night.
+     But what would these new human societies be like?  Many of the
+worlds in Diaspora Sector, for instance, were xenophobic
+technocracies, their attitudes having been shaped by the Rebellion and
+Hard Times.  The interstellar societies that evolve from those might
+well be narrow minded, war-like, and generally very bad neighbors.
+     Hiver traders tried to encourage more benign attitudes through
+their contacts with the humans, but were largely UNSUCCESSFUL.  Many
+of their traders were even attacked and destroyed, so the Hivers
+shifted tactics.
+     In contacts with the few human societies receptive to the Hivers,
+they were able to encourage those people to begin exploration and
+trade.  The Hivers provided the technology, along with Hiver technical
+advisors (ostensibly to maintain the equipment, but probably to assure
+their plans remained on course).  The human traders went forth well
+armed, not only for their protection, but to force neighboring worlds
+into trade agreements for their own good.
+     These trade explorers are the Star Vikings.  They are not
+monolithic since they come from different worlds and states scattered
+among Diaspora, Old Expanses, Solomani Rim, and areas formerly loyal
+to Margaret.  Their activities parallel in ways those of the Spanish
+maritime explorers of the 1500's and 1600's.  Traders from each state
+have their own objectives, and may even be in competition with one
+another.  But all are backed or influenced by the Hivers to some
+degree.
+     Frank Chadwick likened the Star Vikings to the Elizabethan Sea
+Hawks.  Dave Nilsen described them as a "Hanseatic League with teeth."
+I'm not a student of history, so I don't know what these are.
+However, from WEBSTER'S DICTIONARY OF PROPER NAMES,
+
+          Hanseatic League  A 13th-century association of
+          North German cities which once monopolized Baltic
+          trade, but lost influence in the 17th century;
+          leading members were Lubeck, Hamburg and Bremen.
+
+     Frank Chadwick mentioned three basic types of Star Viking
+adventure missions:  invasion, smash & grab (or just smash), and
+decapitation.  He didn't go into details of what these are, but smash
+and decapitation sound to me like missions to cripple the advancement
+of opposing factions.
+     The 'long ship' is a class of starship apparently unique to the
+Star Vikings.  This is an unstreamlined ship with a good jump range,
+but minimal or possibly no maneuver drive.  It carries rider ships
+which are actually used to contact worlds.
+
+TNE PHILOSOPHIES
+     Although the rules system will change, nothing will be lost to
+TRAVELLER as a result.  As Dave Nilsen explained, "If you can do it in
+TRAVELLER, you can do it in TNE."
+     TRAVELLER is not a dark future game and TNE will not be either.
+Dave was very clear about his distaste for "wallowing" in decay and
+ruin, so TRAVELLER will keep its space opera cum hard science fiction
+feel.  TNE will focus on exploration and expansion, looking toward a
+positive future and not a negative one.  Even though TNE will include
+things like cybernetic body parts, these will not be presented in a
+way to suggest a cyberpunk genre.
+     GDW will return to being vague about technology.  From the
+feedback they received, STARSHIP OPERATOR'S MANUAL explained too much,
+so things like the lanthanum grid for jump drives will not be carried
+over.
+     TNE will have its mysteries, but many of these will have no
+official resolution so as to sustain the mystery.  In some opinions,
+classic TRAVELLER made a mistake in saying the Droyne were the
+Ancients, and even revealed the Secret of the Ancients.  As a result,
+most of their wonder was lost.  In fact, Jeff Grubb adopted this very
+philosophy, in designing SPELLJAMMER, because of his disappointment
+about revealing too much about TRAVELLER's Ancients.
+     (While I agree with this philosophy, I strongly disagree that
+wonder in the Ancients is destroyed.  Only the tip of the iceberg was
+revealed, and a whole spectrum of things can be done involving them if
+handled well.)
+     The enormous amount of errata for MT was mentioned twice during
+the seminars.  The GDW panel assured the audience that there will
+inevitably be some errata, but it will not happen again in the same
+volume.  This is another reason why they are doing TNE with the house
+rules.  With the staff having better control and understanding of the
+game, errors will be no more common than we've seen with their other
+games, and probably less for their sensitivity about this.
+
+STUTTERWARP & TRAVELLER
+     GDW is seriously considering including TWO faster-than-light star
+drives in the Imperial setting, traditional jump drive and stutterwarp
+from 2300 AD.  Frank Chadwick and Lester Smith favor this because
+stutterwarp makes for a very interesting space combat system.
+     This will be the only real discontinuity between MT and TNE that
+GDW will consider.  If used, TNE will assume that stutterwarp existed
+and was actively employed through all the Imperiums despite lack of
+mention in MT and classic TRAVELLER.
+     The GDW panel took a voice census during the seminar to get a
+feel for public reaction.  There was strong support for both sides.
+GDW is still undecided at this time, so it might be worthwhile for
+people to send their opinions to Dave Nilsen, the TRAVELLER line
+manager at GDW.
+
+PRODUCTS
+     Release of TRAVELLER: THE NEW ERA is postponed to February 1993.
+They do not want to risk a rushed job on this.
+     The next TRAVELLER product we'll see is the folio adventure,
+ARRIVAL VENGEANCE, by Greg Videll.  The characters are aboard a
+LIGHTNING class cruiser that crosses the Rift to learn what happened
+to Gushemege Sector and the rest of the former Imperium.  This will
+conclude MEGATRAVELLER.
+     As TNE comes out, GDW will also release the folio, SURVIVAL
+MARGIN.  This will not be an adventure, but a guide to MEGATRAVELLER
+players in converting to TNE.  Campaigns that want to continue their
+existing characters might just use cold sleep to bring them forward
+(see DIGEST #21, "Suspended Animation").  Alternatively, players might
+run descendants of their former characters, perhaps retaining certain
+characteristics or possibly an inheritance from their PC ancestors.
+     James Maliszewski (HIWG) is writing the first TNE folio
+adventure, originally scheduled for March 1993 with a sequel in
+October 1993.  Beginning probably with issue 70, CHALLENGE will
+contain official TNE adventures each month.  These will probably
+relate to the folios.
+     Dave Nilsen is considering another folio tentatively called
+VAMPIRE SHIP, which will essentially be a dungeon crawl through a ship
+infected by a Virus.
+     Because there will be very few TNE characters originating from
+space careers, many will come from the flyer or sailor professions.
+GDW will probably release an Air & Sea supplement, and (to no one's
+surprise) Terry McInnes will most likely be its author.
+     Campaign sourcebooks for different periods of Imperial history
+(First Imperium was specifically mentioned) are possible, and
+especially a 2300 AD SOURCEBOOK as mentioned earlier.  These, however,
+will not likely come out in TNE's first year.
+     STAR VIKING, the game, has been shelved indefinitely.  Before its
+demise, two games were envisioned.  The first, STAR VIKING -
+PLANETFALL, was to be a ground based game.  Whether this would have
+been a boardgame or miniatures changed a couple of times.  The second,
+STAR VIKING - THE LONG SHIPS, was to be a strategic level game across
+interstellar space.
+     Dave Nilsen really, really wants to do miniatures rules at some
+point, so GDW might do STRIKER II.  That's still a ways down the road.
+However, there is a chance that official TNE miniatures might come out
+soon after the game's release.  Even though there will be no miniature
+rules as such, the GDW house rules system still works very well with
+miniatures.
+
+WRITERS
+     Although GDW is writing TNE in-house, they still need outside
+writers, particular for CHALLENGE.  The CHALLENGE adventures will help
+give players a feel for the new game.  A little more room is available
+in CHALLENGE, thanks to GDW's new magazine.  JOURNEYS, as its called,
+will support multigenre games and pull over some things that occupied
+space in CHALLENGE.
+     GDW will accept blurbs for "Travellers News Service" (TNS).  As
+always, blurbs are anonymous -- no author credit will appear.  These
+are especially welcome if they tie in with an adventure article
+submitted to CHALLENGE.  Such blurbs should point the way and serve as
+a lead-in to the adventure.  They should never spell out the results
+of the adventure.  That would fix the outcome and invalidate player
+character efforts to influence events.
+     There will also be opportunities for writers to do more TNE
+folios in the future.  Folios run from 12-16,000 words and are
+typically targetted for 12,500 words.
+
+ODDS AND ENDS
+     For quite some time, Digest Group Publications (DGP) had plans
+for a major invasion of the Zhodani Consulate by aliens from coreward.
+The original plot, often referred to as, "Baddies from the Core," was
+first proposed by Terry McInnes, and had since undergone a great deal
+of evolution.  A sighting of inexplicably damaged Zhodani ships in TNS
+was a hint of this.  (The "Primordials" in KNIGHTFALL might also have
+been related.)  However, with the ending of MT, GDW has also voided
+this plot line.
+     As of the last word that Dave Nilsen received about DGP, they
+still plan to publish MEGATRAVELLER JOURNAL #4.  That concluding issue
+will have Bill Keith's adventure, "Lords of Thunder," involving a
+renewed conflict between the Hivers and K'kree.  Unfortunately, DGP
+did not come to GenCon/Origins, so this information is not current.
+     Chuck Gannon has apparently returned to his original occupation
+of writing for the film industry.  He still has a few articles in the
+hopper for CHALLENGE, but no more are expected.
+
+IMPERIAL LINES
+     IL#2, the Solomani & Aslan issue, is at GDW. I gave staff members
+and other attendants draft copies of IL#2.  Because of the backlog at
+GDW, though, we still might not see IL#2 for a while.
+     All the articles I've collected for IL#3, the Vilani & Vargr
+issue, are in John Meyers' hands.  However, Steve Maggi is thinking of
+combining #3 & #4 into a single issue.  Also, I will have Dave
+Nilsen's feedback in a few days regarding IL so far.  The results of
+that might significantly alter plans.
+
+HIWG
+     In a couple of weeks, I plan to get with Ed Edwards over GEnie to
+hash out HIWG's role in the New Era.  After that, I plan to submit a
+"What in the Stars" about this to AABP, and hopefully Ed will also
+have a "Chairsophont Letter."
+     The most important role I see for HIWG right now is in promoting
+communication.  As a head start, I ask that people send either to Clay
+Bush or myself information about the TRAVELLER activities you are
+currently involved in.  We don't necessarily need to know about your
+weekly campaign.  But if you are developing a sector with other fans,
+or especially if you are writing something for professional
+publication, we want to at least include mention of these in Clay's
+AABP newsletter.
+     As a reminder from TS30, TIFFANY STAR and Clay Bush's AABP have
+changed roles.  Previously, TS went to all members as part of their
+membership dues.  Clay sent AABP to people he wanted to communicate
+with at his own expense.  Now AABP is HIWG's official newsletter.
+TIFFANY STAR is just a mass letter I irregularly send out to friends
+and correspondents.
+     Non-members reading this are invited to join the History of the
+Imperium Working Group.  Membership costs $12 (US) and includes 6
+issues of AAB PROCEEDINGS, editor Clayton R. Bush.  Send dues to:
+
+                        Ed Edwards
+                        1410 E. Boyd
+                        Norman, OK 73071-2650
+                        U.S.A.
+

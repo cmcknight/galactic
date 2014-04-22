@@ -1,0 +1,32 @@
+@SUB-SECTOR: sec_L   SECTOR: trojan
+#
+# Trade routes within the subsector
+$2621 2421 -1 0
+$2621 2520 0 -1
+$2621 2820 0 -1
+$2621 2722 0 0
+$2722 2823 0 0
+$2823 2923 0 0
+$2823 2824 0 0
+$2824 2424 -1 0
+$2624 2425 -1 0
+$2527 2425 -1 0
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Byrni         2527 B955699-6    Ag Ni              404 As
+Arunisiir     2621 B776530-6    Ag Ni              103 As
+Tech-World    2624 A455154-F    Ni Lo              310 As
+Ergo          2625 X767500-0    Ag Ni           R  412 As
+Tanith        2721 A589342-B    Ni Lo              105 As
+Acrid         2722 AAC1388-D    Fl Lo Ni           103 As
+Inurin        2724 E668776-5    Ag Ri              404 As
+Falcon        2725 A158448-D    Ni                 405 As
+Cordan        2821 A895347-9    Ni Lo              203 As
+Exe           2823 B300101-A    Ni Va Lo           601 As
+Sperle        2824 BA8A76A-7    Ri Wa              920 As
+Umemii        2921 C521877-6    Na Po              304 As
+Argona        2923 B612586-9    Ic Ni              403 As
+Villane       3029 B100634-8    Na Ni Va           413 Na
+Browne        3030 B750A96-9    De Hi In Po        303 Na

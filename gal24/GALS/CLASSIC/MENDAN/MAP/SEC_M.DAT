@@ -1,0 +1,42 @@
+@SUB-SECTOR: sec_M   SECTOR: mendan.sec
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX f
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Okheruers     0131 C440633-7    De Ni Po           525 Vx 
+Ikeshiige     0136 D444022-7    Lo Ni              812 Vx 
+Khadumar      0138 A365545-A  G Ag Ni              721 Vx 
+Dakhumar      0234 A683200-C  G Lo Ni              503 Vx 
+Rukar         0238 C445766-6    Ag                 603 Vx 
+Irukuzi       0240 C57A257-B    Lo Ni Wa           402 Vx 
+Aamid         0331 C865457-6    Ni                 120 Vx 
+Odzokhs       0332 C443123-8    Lo Ni Po           222 Vx 
+Guzagim       0335 A527667-C    Ni                 523 Vx 
+Diamin        0337 A898520-B    Ag Ni              520 Vx 
+Gvirrgh       0339 C310520-A    Ni                 224 Vx 
+Suduruu       0340 C310784-9    Na                 800 Vx 
+Neniis        0433 A89A88B-B    Wa Cp              400 Vx 
+Kirep         0434 B000310-9    As Lo Ni           111 Vx 
+Ugarsoer      0436 B000240-B  G As Lo Ni           824 Vx 
+Upirdikim     0438 C455488-8    Ni                 104 Vx 
+Sasuna        0439 C673241-4    Lo Ni              204 Vx 
+Lloursa       0440 E321976-5  C Hi In Na Po        423 Vx 
+Anked         0531 B362766-6    Ri                 124 Va 
+Kuginsar      0538 B347004-9  G Lo Ni              912 Vx 
+Oruedh        0632 B534358-8    Lo Ni              101 Va 
+Iragdu        0633 D334343-7    Lo Ni              202 Va 
+Zaegaekhs     0638 B8C5379-A    Fl Lo Ni           104 Va 
+Addara        0639 B644958-A  N Hi In              504 Cs 
+Bruno         0731 BA99733-A                       923 Na 
+Vatha         0732 A520324-C    De Lo Ni Po        822 Va 
+Kiduuder      0733 C655541-6  F Ag Ni              602 Na 
+Ashuku        0737 E8CA224-6    Fl Lo Ni Wa        702 Na 
+Zo Ours       0739 C562326-7  G Lo Ni           R  610 Va 
+Okhrougz      0833 C9D88BC-7  C Fl              A  703 Va 
+Sargas        0839 E424102-7    Lo Ni              704 Va 
+Dudzaz        0840 C89A986-A    Hi In Wa           803 Va 
+

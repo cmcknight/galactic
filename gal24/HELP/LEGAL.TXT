@@ -1,0 +1,70 @@
+
+Obligatory Legal Stuff:
+-----------------------------------------------------------------
+
+Several of the sectors supplied with this program comprise data
+created by Marc Miller, Game Designers Workshop, Digest Group
+Publications, and others. These sectors were made available by
+the people at Digest Group via GEnie, and were redistributed
+via the Internet by Mark Cook and Mike Metlay. Some of the
+Classic Traveller(R) sectors contained herein were obtained
+from the old Sunbane archive which, prior to its death, was
+administered by Dan Corrin (Dan.Corrin@solect.com) who was also
+the administrator of the Traveller Mailing List (TML) back
+in the days before Rob Miracle and, before him, James Perkins ran
+the list. There are several Internet sites where sector data for
+a variety of eras is currently held, and much of sector data
+which is used in this program has been used and distributed with
+other Traveller(R) starmapping freeware for a number of years.
+As of 16-Oct-96, Marc Miller has given us permission to use this
+data (see the Traveller Copyright Archive).
+
+I say all this to make it clear that I am making no claim on this
+data. It doesn't belong to me. I am simply using it as others
+have done in the past -- most notably Mark Cook (markc@peak.org)
+and Cynthia Higginbotham (cyhiggin@usa.pipeline.com) who, several
+years ago, wrote two of the best subsector viewers I've ever laid
+eyes on: xssv & ssv. This program is sort of an imitation of
+their work, adding new features I thought would be desirable. For
+ease of compatibility I'm using a data format very similar to
+that which Mark devised for his program and which Cynthia carried
+on with hers.
+
+In describing the aforementioned data (on the subsector map
+screen), I've made use of several descriptive terms which are
+common to the Traveller(R) roleplaying game (Traveller is a
+Registered Trademark, and, if my understanding is correct, is
+currently owned by FarFuture Enterprises which is itself owned by
+Marc Miller and which reserves all rights to the Traveller
+trademark). I am making no claim on this terminology (indeed, to
+do so would be legally nonsensical) nor on any trademarks which
+are referenced in this program.
+
+In short, any official Traveller(R) material which is used within
+the example sectors supplied with this program has, of course,
+been previously copyrighted. Such use of copyrighted material
+or trademarks should not be viewed as a challenge to those
+copyrights or trademarks. This program is not authorized or
+endorsed by anyone, and nobody can be held liable for any damages
+resulting from its use.
+
+The program also contains a number of world descriptions as well
+as more general files associated with particular setting
+locations including, at least, one adventure. All this material
+is copyrighted by each of the respective individuals who wrote it
+and is used here with their permission.
+
+As for the program itself, I am committing it to the public
+domain. What that means is that you can do with it pretty much as
+you like. Not only are you allowed to copy it and use it for
+free, but you can even build on it, change it, completely rewrite
+it if you so desire, without even asking me for permission. If
+you want to distribute your own game universe and use the program
+as a mode of access, sticking all your world write-ups on a disk
+and selling them at your local hobby shop... more power to ya
+(though I'd suggest removing the official Traveller(R) sectors
+from the package in such a circumstance). In short, do whatever
+the heck you want with this program. It's all yours now.
+
+
+   Hit <Q> to return to Help Menu

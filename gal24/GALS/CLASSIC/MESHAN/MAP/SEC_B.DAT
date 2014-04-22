@@ -1,0 +1,34 @@
+@SUB-SECTOR: sec_B   SECTOR: meshan
+#
+# Trade routes within the subsector
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Saekhoe       0902 C443488-6    Ni Po              524 V5
+Uloer         0906 C488676-8  C Ag Ni              402 V5
+Or Ugueg      0910 B89967B-6  G Ni                 703 V5
+Fingae        1005 C998256-9  C Lo Ni              824 V5
+Gudlul        1007 E330974-6  C De Hi In Na Po     524 V5
+Sirrgdhoz     1101 B500563-A  G Ni Va              604 V5
+Aek Gvon      1103 E130311-8    De Lo Ni Po        603 V5
+Vourrgvag     1104 E77937A-3  C Lo Ni              922 V5
+Ksaezan       1105 B000230-D  G As Lo Ni           924 V5
+Kuvuekue      1110 B561869-5  H Ri                 705 V5
+Orruth        1201 C859749-6                       802 V5
+Kfuerrdall    1202 C000420-B  G As Ni              924 V5
+Onguelug      1203 D623355-4  H Lo Ni Po           803 V5
+Gvounglu      1206 A6B5478-C  G Fl Ni              320 V5
+Azildak       1303 B346979-A  G Hi In              603 V5
+Azuran        1306 C752A65-7  G Hi Po              204 V5
+Ez Okhknug    1309 C667676-3  C Ag Ni Ri           802 V5
+Don Aesor     1310 C684489-4  G Ni                 603 V5
+Byutsay       1401 B48869B-6  H Ag Ni Ri D9        435 V5
+Lashiir       1403 A533723-B    Na Po Cp           622 V5
+Voeksdzang    1406 B410534-A  G Ni                 112 V5
+Kulrrange     1409 C200645-9    Na Ni Va D0        403 V5
+Gakdez        1501 C500533-9    Ni Va              723 V5
+Osan          1502 C76989C-8  C Ri                 624 V5
+Arzezkhous    1505 B550368-8  G De Lo Ni Po        625 V5
+Okvouk        1508 C567110-8    Lo Ni              124 V5
+Kfanknue      1510 B989766-9  G Ri                 500 V5

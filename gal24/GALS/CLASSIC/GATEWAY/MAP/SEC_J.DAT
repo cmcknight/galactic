@@ -1,0 +1,45 @@
+@SUB-SECTOR: j SECTOR: Gateway
+#
+# Jump-routes
+$1121 1220 0 -1 13
+$1121 0921 0 0 13
+$1121 1022 0 0 13
+$1022 0724 -1 0 13
+$1121 1223 0 0 13
+$1223 1424 0 0 14
+$1622 1725 1 0 11
+$1424 1725 1 0 11
+$1527 1725 1 0 11
+$1527 1428 0 0 14
+$1428 1530 0 0 14
+$1530 1531 0 1 15
+$0928 0825 -1 0 13
+$0928 1030 0 0 13
+$1030 0831 -1 1 13
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Orage         1428 B410ADA-9    Hi Na In Po De     234 Na
+Salur         0921 B746989-A  N In Hi              911 Ga
+Galesta       0928 C797988-9    In Hi              310 Ga
+Carver's Range1022 C669642-7    Ni Ri              712 Ga
+Xandolar      1026 D626888-9                       514 Ga
+Hanumisk      1030 B642998-A    Hi In Po           112 Ga
+Cresta        1121 C768988-C    Hi                 311 Ga
+Perelaar      1124 D8A8997-A    Hi Fl              123 Ga
+Tarabalu      1126 D454256-9    Lo Ni              911 Ga
+Jastin        1129 C76A626-A    Ni Wa              125 Ga
+Urel          1223 C88A999-A    Hi Wa              113 Ga
+Tovren        1322 C879447-7    Ni                 913 Ga
+Medrealm      1327 B87679B-6    Ag                 914 Na
+King          1330 E480345-8    Lo Ni De           804 Na
+Riga          1423 D675887-8                       810 Tr
+Welmertins Sta1424 C7A7464-9    Ni Fl              712 Tr
+Nadia         1526 X766678-1    Ag Ni              913 Tr
+Taravesh      1527 B767955-C  N Hi In              124 Tr
+Haro          1622 C669642-7    Ni Ri              421 Tr
+Paladin       1624 B757476-A    Ni                 812 Tr
+Drovinthic    1627 C865620-9    Ni Ri              122 Tr
+Coralee       1629 C411764-9    Na                 615 Vi
+Gaspar Belt   1530 C000684-A    Na As              712 Vi

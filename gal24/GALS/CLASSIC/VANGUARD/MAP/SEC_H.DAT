@@ -1,0 +1,29 @@
+@SUB-SECTOR: sec_H   SECTOR: vanguard
+#
+# Trade routes within the subsector
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Ovlov         2512 C444247-7  S Lo Ni              902 Co
+Nyikos        2516 E559678-6    Ni                 504 Co
+Rogani        2613 B969695-A  N Ni Ri              204 Co
+Salimbene     2614 C353514-A  S Ni Po              305 Co
+Mokdol        2617 C6167AA-9  S Ic                 623 Co
+Vaal          2711 C223665-8    Na Ni Po  2913     404 Co
+Dover         2713 CAE8379-A  S Fl Lo Ni           914 Co
+Dzaeri        2716 D96A466-7    Ni Wa     2913     401 Co
+Ciresi        2717 C310744-A  S Na                 204 Co
+Jzar          2720 E223000-0    Ba Lo Ni           600 Co
+Vermekdis     2811 C768877-7  S Ri                 411 Co
+Arzet         2813 B454568-A  S Ag Ni     2913     823 Co
+Torvach       2913 A537698-D  N Ni                 113 Co
+Durnal        2914 C78779A-8  S Ag Ri              600 Co
+ZORARIUS      2916 C000A7A-E  S As Hi Na           122 Co
+Mavris        2917 D000200-8    As Lo Ni           320 Co
+Mansoori      3014 D6536AC-6    Ni Po              604 Co
+Denmordan     3020 C788331-5    Lo Ni              305 Co
+Caenard       3112 B659899-C  S                    603 Co
+Kjonaas       3119 E551478-2    Ni Po              704 Co
+Lorigos       3213 C546659-8  S Ag Ni              910 Co
+Faenzi        3217 X000000-0    As Ba Lo Ni        010 Co

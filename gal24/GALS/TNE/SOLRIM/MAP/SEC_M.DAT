@@ -1,0 +1,30 @@
+@SUB-SECTOR: sec_m   SECTOR: solrim
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Swinbume      0136 X720000-U    Ba De              000 Un        
+Erech         0138 X8445RD-3    Ag Ni           B  710 Wi
+Luzon         0231 X420000-0    Ba De              035 Un
+Jardin        0233 E4678R6-7                    B  502 Wi
+Theseus       0237 X7A3000-0    Ba Fl              003 Un
+Rarsoom       0239 X2548S3-5                       102 Wi
+Gladstone     0240 X9677O2-7    Ag                 410 Wi
+Liberte       0331 X100000-0    Ba Va              002 Un
+Pilgham       0332 C4426P8-6    Po Ni              112 Wi
+Miasma        0335 X6785O4-4    Ag Ni           B  124 Wi
+Kraken        0432 E57A5T9-5    Ni Wa           B  735 Wi
+Durgha        0434 X612000-0    Ba Ic              005 Un
+Dolor         0437 X211000-0    Ba Ic              034 Un
+Zhongguo      0438 X4446N0-7    Ag Ni              223 Wi
+Ormadz        0440 X300000-0    Ba Va              013 Un
+Cadmus        0532 X532000-0    Ba                 022 Un
+Skyron        0533 X312000-0    Ba Ic              002 Un
+Chinon        0536 D696877-7                    B  422 Na
+Sionnach      0632 X533000-0    Ba                 012 Un
+Nonsuch       0637 X434000-0    Ba                 000 Un
+Ptolemv       0639 X5437R8-7    Po              B  114 Wi
+Arisia        0640 X57A5R5-7    Ni Wa              415 Wi
+Wallach       0832 D478461-9    Ni Lo 0:0833       904 Na     f
+Thalassa      0833 B48A7B9-A    Wa                 310 Na     
+Odysseus      0835 E6598RB-3                       402 Wi

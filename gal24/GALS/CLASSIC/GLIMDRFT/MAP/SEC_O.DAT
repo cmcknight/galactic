@@ -1,0 +1,37 @@
+@SUB-SECTOR: sec_o   SECTOR: glimdrft
+#
+#Jump Routes
+$1732 1733 0 0
+$1733 1633 -1 0
+$1733 1735 0 0
+$1735 1736 0 0
+$1736 1537 -1 0
+$1934 2134 0 0
+$1935 2134 0 0
+$2132 2134 0 0
+$2134 2435 0 0
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Borja         1731 X130500-8    Ni                 601 Za
+Calleyville   1732 A200532-8    Ni                 101 Za
+Decanesia     1733 BAB1400-8    Ni                 101 Za
+Karol         1735 B594596-8    Ag                 600 Za
+Machpelah     1736 A000956-B    As In              201 Za
+Hucknail      1738 E100555-8    Ni                 601 Za
+Jain          1832 X210400-8    Ni                 201 Za
+Hio           1934 AAC1340-9    Ni                 700 Na
+Bertville     1935 B000116-9    As                 201 Na
+Luga          1937 C1105A9-A    Ni                 601 Na
+Minit         1940 D221A86-A    In                 700 Na
+Navajo        2031 EAA2635-A    Ni                 501 Na
+Monitor       2039 C000400-C    As                 101 Na
+Phigalia      2132 A120516-B    Ni                 201 Na
+Sepik         2134 B232966-B    In                 300 Na
+Madryn        2137 CAB9988-C                       401 Na
+Kalahari      2239 C645412-7    Ni                 801 Na
+Sudetic       2332 E000488-8    As                 300 Na
+Zarvas        2337 X1306B5-8    Ni                 201 Na
+Thames        2435 A200567-C    Ni                 801 Na
+Tirolios      2438 BACA994-A    Wa                 600 Na

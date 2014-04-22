@@ -1,0 +1,14 @@
+
+[Q] I've got some world maps drawn up in GIF format. Is there
+any way to attach them to the subsector map?
+
+[A] You need to convert them to executable format and then
+attach the executable to a menu (see the world map at Spinward
+Marches/1510 for an example of this). You can transfer your GIF
+file to executable format by using a program called GIFEXE which
+is available (in trial version) at the SimTel archive. If you
+send me any GIF files you want converted (in uuencoded format), I
+can also do the conversion and then send them back to you, but I
+can't send you the GIFEXE program itself because it is
+copyrighted by its author, Steve Enns of Saskatoon, Canada.
+

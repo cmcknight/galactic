@@ -1,0 +1,34 @@
+System: Emerald
+Subsector: Jewell
+Sector: Spinward Marches
+Coordinates: 1006 (B0206)
+UWP: B766555-B
+
+Starport: Good
+Size: Medium (10400-12000 km)
+Atmosphere: Standard
+Hydrographics: 60% water
+Population: 500,000
+Govt: Feudal Technocracy
+Law Level: Moderate
+Technology: Average Stellar
+
+Bases: Scout
+Trade Codes: Ag Ni           
+Travel Zone: Green
+Planetoid Belts: 3
+Gas Giants: 4
+Allegiance: Imperial
+
+Extended Stats:
+B766555-B S   Ag Ni              534 Dd M1 V      <---- 1107 data
+A766555-C S,I Ag Ni Rw:Z         934 RE M1 V      <---- 1202 data
+G = 1.27, Day = 32:09:08.32, Year = 56d 01:26:45.67
+Atmo = 0.65, No weather control
+Temp = +21.4 (6/lat +18 to -42) (season +9.0 to -15.0, 40 deg lat)
+Daily temp range +9.6 to -48.0
+Native life present
+Agricultural, Ores, Crystals, Agroproducts, Metals, Durables, Artforms
+Conservative/Indifferent, Competetive/Neutral, Discordant/Aloof
+Legal: 5-61536  Tech:  CB-CBCCB-CCBC-CC-F
+

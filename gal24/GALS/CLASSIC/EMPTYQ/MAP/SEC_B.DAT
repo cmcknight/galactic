@@ -1,0 +1,45 @@
+@SUB-SECTOR: sec_B   SECTOR: emptyq
+#
+# Trade routes within the subsector
+#
+$1004 0705 -1 0
+$1004 1303 0 0
+$1303 1602 0 0
+$1602 1704 1 0
+$1004 1206 0 0
+$1206 1608 0 0
+$1608 1411 0 1
+$1608 2009 1 0
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Mekhigk       0903 C8A0303-A    De Lo Ni        A  703 Jr
+Graithairekt  0905 C65479B-5    Ag C:2             202 Jr
+Donegal       0906 B528578-7    Ni                 200 Jr
+Ori Sau'      0907 C6328DD-3    Na Po Sw           600 Jr
+Ryt Fgugaiks  1003 C62A563-9    Ni Wa O:1004    A  305 Jr
+Yelloworld    1004 B301430-A    Ni Va Lo           701 Jr
+Ori Bjo'tim   1103 C5358CA-3    Sw                 614 Jr
+Shori         1105 B655765-5    Ag Mr              512 Jr
+Gakishinnu    1106 A87A323-9    Lo Ni Wa           303 Na
+Koromogawa    1107 D44738A-A    Ag                 603 Jr
+Banka Banka   1109 D735245-7    Lo Ni              203 Na
+Old Base      1110 E7A0752-8    De                 702 Jr
+Gaashi Diidu  1205 B78A101-D    Lo Ni Wa An     R  720 Jr
+Gaashi Mukipu 1206 A486799-A    Ag Ri D:4 Cp       703 Jr
+Sagumanka     1208 X787896-0    Ri Sw           R  213 Jr
+Takada        1301 B97A475-C    Lo Ni Wa        A  412 Jr
+Mattweed      1303 C210122-7    Lo Ni              325 Jr
+Kurikara      1306 D573776-5                       603 Na
+Numigimar     1307 A7C7200-C    Lo Ni Fl        A  405 Na
+Karam Imuk... 1308 D797436-5    Lo Ni           A  413 Jr     f
+Ksedhing      1309 C574574-7    Ag Ni              504 Na
+Capasitator   1408 C51007A-6    De Na Ni           301 Jr
+Pekryaay      1501 B100000-D    Lo Va Dw           403 Na
+Dyrys         1510 C77A457-8    Lo Ni Wa           904 Na
+Nuususush     1601 EAC0536-2    De Ni              814 Na
+Gakalar       1602 A5637AB-6    D:2                215 Na
+Cimated       1608 B300325-9    Lo Ni Va        A  510 Na
+Lodi Cykidasas1609 C7A0454-9    Lo De Ni           404 Cs
+

@@ -1,0 +1,38 @@
+#--------1---------2---------3
+#PlanetName   Loc. Star(s)
+#----------   ---- --------
+@SUB-SECTOR: Shinkan SECTOR: Core
+Erani         2501 
+Gigi          2503 
+Ninnund       2507 
+Gasa Kuu      2602 
+Arunde        2603 
+Margish Liir  2606 
+Duur          2608 
+Bambe         2609 
+Kerliar       2610 
+Derku         2703 M4 V M4 D
+Uundiirshiikis2705 
+Sinmig        2706 
+Kalanaauud    2707 
+Kimvle        2709 
+Gekhuu        2802 
+Kersi Am      2803 
+Ishnuunar     2904 
+Damki Im      2906 
+Shusa Liishli 2910 
+Isuur         3002 
+Iidsha        3003 
+Aarza Kand    3005 
+Mim           3008 
+Edza          3101 
+Gar           3103 
+Aadkha Na     3104 
+Kir           3105 
+Uumuurler     3106 
+Maain         3203 
+Iidshuu       3205 
+Dim           3206 
+Imkhag Guu    3207 
+Agduu         3208 
+Kamnakiiaar   3210 

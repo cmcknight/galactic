@@ -1,0 +1,54 @@
+@SUB-SECTOR: sec_P   SECTOR: vland
+#
+# Trade routes within the subsector
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Kiddinu       2531 X455474-3    Lo Ni              534 Wi
+Aki           2533 X6A7000-0    Fl Ba              010 --
+Zerapil       2534 X411000-0    Ba Ic              022 --
+Linissa       2536 X200000-0    Ba Va              010 --
+Nunaat        2539 X624000-0    Ba                 024 --
+Kalaalit      2540 C769795-A                       410 Cs     f
+Kane          2631 X78996B-3    Hi              B  223 Wi
+Wakarsat      2634 D68A66C-7    Ni Wa              714 Wi
+Kakadan       2636 X9C7000-0    Fl Ba              001 --
+Akon          2637 X46356A-4    Ni                 203 Wi
+Statia        2640 X300000-0    Ba Va              010 --
+Dnak'kritz    2732 X582568-3    Ni              B  404 Wi
+Jarmat        2733 X210000-0    Ba                 014 --
+Rambant       2734 X110000-0    Ba                 004 --
+Kesali        2737 X200000-0    Ba Va              003 --
+Tepmaa        2738 X410000-0    Ba                 023 --
+Sg'aa         2739 XAB5000-0    Fl Ba              013 --
+P'ginzh       2740 X454555-2    Ag Ni           B  210 Wi
+Kiimzhal      2831 E554557-8    Ag Ni              401 Wi
+Telkaa        2832 X635000-0    Ba                 021 --
+Inushir       2836 X98996F-4    C:1 Hi          B  523 Wi
+Piazza        2837 E7946BF-4    Ag Ni           B  822 Wi
+Zombagu       2839 X684642-8    Ag Ni An           824 Wi
+Icuspin       2931 X200000-0    Ba Va              020 --
+Zanski        2932 X585452-2    Lo Ni           B  121 Wi
+Kanat         2933 D567210-5    Lo Ni              213 Wi
+Assazak       2934 X490587-4    Ni De              201 Wi
+Elafdt        2936 X200000-0    Ba Va              001 --
+Punnari       2938 X737000-0    Ba                 010 --
+Teralvar      2939 D585540-8  S Ag Ni           B  301 Wi
+New Salen     3031 X202000-0    Ba Va Ic           020 --
+Matuyama      3032 X14037A-2    Lo Ni Po De        423 Wi
+Zhanora       3035 E651768-8  S Po              B  101 Wi
+Raanbazziil   3037 X428000-0    Ba                 010 --
+Gilnat Paz    3039 X535000-0    Ba                 021 --
+Maamibrin     3131 X56276B-2                    B  720 Wi
+Toborit       3134 X424000-0    Ba                 022 --
+Debekov       3135 X572343-5    Lo Ni              101 Wi
+Alleman       3137 X200000-0    Ba Va              002 --
+Nasaa         3138 X325000-0    Ba                 020 --
+Zana          3140 X65356A-6    Ni Po              210 Wi
+Vanutappan    3231 X447000-0    Ba                 024 Wi
+Tamayo        3232 X779469-6    Lo Ni           B  201 Wi
+Debort        3235 X481767-3                    B  310 Wi
+Zhannag       3237 X534000-0    Ba                 034 --
+Lamiina       3238 X768352-4    Lo Ni           B  213 Wi
+Lannazol      3239 C845100-7    Lo Ni              101 Wi

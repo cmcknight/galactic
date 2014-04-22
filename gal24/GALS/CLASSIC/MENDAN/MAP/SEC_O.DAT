@@ -1,0 +1,48 @@
+@SUB-SECTOR: sec_O   SECTOR: mendan.sec
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+$2435 2634 1 0 11
+$2340 2639 1 0 11
+$2340 2237 0 0 11
+$2237 2435 0 0 11
+$2237 1938 0 0 11
+$1936 2237 0 0 11
+$1938 1640 -1 0 11
+$1936 1634 -1 0 11
+$1732 1634 -1 0 11
+$1732 1430 -1 -1 11
+$1732 2029 0 -1 11
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX f
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Kiski         1732 A8439BE-C    Hi In Po           402 Jp 
+Adigelu       1733 B588796-9    Ag Ri              902 Jp 
+Divvy         1738 C687778-5    Ag Ri              703 Jp 
+Allodhou      1740 C654425-5  M Ni                 900 J- 
+Rrourz        1832 DAFA202-6    Fl Lo Ni Wa        221 Jp 
+Imdazu        1836 C120578-7  F De Ni Po           712 Jp 
+Orae Rae      1839 C556698-6  M Ag Ni              904 J- 
+Fougharr      1933 E53079B-6    De Na Po        R  124 Jp 
+Tsaengaeg     1936 B5578BD-8                    A  810 Jp 
+Hooch         1938 C468764-5    Ag Ri              825 J- 
+Diidii        1939 C7577CB-7    Ag              A  603 J- 
+Niidaa        2031 C433586-8  J Ni Po              101 J- 
+Aerrgoll      2032 DAA7231-5    Fl Lo Ni           635 J- 
+Kuusuur       2036 C587200-5    Lo Ni              525 Jp 
+Roeraer       2131 D3236AE-6    Na Ni Po        R  322 Ja 
+Aedo Ong      2135 CA75653-4    Ag Ni              604 J- 
+Aenog Akh     2233 E100220-6    Lo Ni Va           724 Ju 
+Gakhoerr      2234 D322621-7    Na Ni Po           203 Ju 
+Paisano       2237 C753400-5  M Ni Po              503 J- 
+Theta Ophi    2331 C300001-8  M Lo Ni Va           801 Ja 
+Cowabunga     2334 C469011-8    Lo Ni              234 Ju 
+Urrgour       2339 C784586-6  M Ag Ni              423 Ju 
+Inkhang       2340 B452587-8  J Ni Po C1           123 J- 
+Irshinar      2433 C9EA205-A    Fl Lo Ni Wa        123 Ju 
+Esusar        2435 A79A658-C  J Ni Wa Cp           724 Ju     f
+Zaenkin       2437 C241401-6    Ni Po              403 Ju 
+Aroun         2438 C598562-5    Ag Ni              323 Ju 
+

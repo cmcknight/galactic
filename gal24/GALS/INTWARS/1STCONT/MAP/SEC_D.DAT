@@ -1,0 +1,40 @@
+@SUB-SECTOR: sec_D   SECTOR: 1stcont
+#
+# Trade routes within the subsector
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Irgaku        2502 E4757CA-2    Ag                 615 Zs
+Sheniri       2506 E893302-2    Lo Ni              623 Zs
+Shiinmum      2509 E7C6000-0    Ba Fl Lo Ni        000 Zu
+Ukarin        2601 E433000-0    Ba Lo Ni Po        002 Zu
+Gashurzid     2602 B6568AC-9                       110 Zs
+Karugak       2603 C48767B-7    Ag Ni Ri           315 Zs
+Gambasigir    2608 A688A89-B  N Hi                 304 Zs
+Kupiilish     2703 D8666CD-5    Ag Ni              914 Zs
+Ashikhu       2704 E325000-0    Ba Lo Ni           000 Zu
+Shadru        2708 E334367-2    Lo Ni              221 Zs
+Lemipku       2807 E469300-5    Lo Ni              902 Zs
+Lusgu         2808 B7779BC-8    Hi In              320 Zs
+Khimadurgi    2902 A453677-9    Ni Po              103 Zs
+Arkiirkii     2905 A66A441-A    Ni Wa              900 Zs
+Kesirisu      2906 E49A000-0    Ba Lo Ni Wa        023 Zu
+Huy Braseal   2910 D25536A-1    Lo Ni              120 Zv
+Zegamuu       3001 A4837B5-B                       613 Zs
+Kirma         3006 E100100-8    Lo Ni Va           932 Zs
+Emkilii       3008 B564834-8                       721 Zs
+Shapam        3009 E232000-0    Ba Lo Ni Po        001 Zu
+Kirillishur   3010 E7A4000-0    Ba Fl Lo Ni        013 Zu
+Kiishaap      3101 E9B5000-0    Ba Fl Lo Ni        011 Zu
+Khiggun       3102 E8A3215-8    Fl Lo Ni           535 Zs
+Uski          3106 B664743-9    Ag Ri              200 Zs
+Iipshidan     3107 D544342-6    Lo Ni              234 Zs
+Likukusi      3108 E246589-3    Ag Ni              522 Zs
+Mukegig       3109 A6628A7-8                       124 Zs
+Ganiidash     3201 B484622-7    Ag Ni              523 Zs
+Iprimarkaa    3202 E5AA000-0    Ba Fl Lo Ni Wa     010 Zu
+Irashnar      3203 E131000-0    Ba Lo Ni Po        002 Zu
+Agim          3204 C536410-4    Ni                 723 Zs
+Kilennur      3208 C595467-7    Ni                 222 Zs
+Umuga         3209 E754425-3    Ni                 513 Zs

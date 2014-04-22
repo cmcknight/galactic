@@ -1,0 +1,54 @@
+@SUB-SECTOR: sec_I   SECTOR: lishun
+#
+# Trade routes within the subsector
+$0227 3224 -1 0
+$0227 0331 0 1
+$0227 0427 0 0
+$0427 0626 0 0
+$0626 0927 1 0
+$0626 0725 0 0
+$0725 0622 0 0
+$0622 0621 0 0
+$0621 0719 0 -1
+$0621 0922 1 0
+$0830 0431 0 1
+$0830 1033 1 1
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Asli          0121 C000761-D  S Na As              903 Rv
+Base Two      0122 D584357-7  S Lo Ni              603 Rv
+Inru          0124 C425553-9    Ni                 203 Rv
+Kiur          0125 B9C57BB-D    Fl                 614 Rv
+Kasha         0128 E343456-9    Ni Po              621 Li
+Voyd          0130 C4249D8-C    Hi In              102 Li
+Parshi        0221 B000753-F  N Na As              703 Rv
+Liiar         0222 C677642-9    Ag Ni              111 Rv
+Urdiki        0223 E59988C-8                       510 Rv
+Shuna         0227 A385A98-G  N Hi                 812 Li
+Ungik         0228 B865130-8    Lo Ni              113 Li
+Shela         0321 B4248BD-E                       202 Cv
+Irmen         0427 A623541-E    Ni Po           A  600 Li
+Amsa          0429 B220310-B    Lo Ni Po De        210 Li
+Mudliru       0526 BAE2353-C    Lo Ni Fl           600 Li
+Kipaar        0527 B000520-E  N Ni As              803 Li
+Surli         0529 D000853-7  S Na As              413 Li
+Biaz Ven      0530 C445AB6-F  S Hi In              222 Li
+Kaliid        0621 A786131-F    Lo Ni              324 Rv
+Enmish        0622 B613453-B  N Ni Ic              403 Li
+Girshi        0623 C57559C-6    Ag Ni              800 Li
+Shaiga        0625 B885453-D  N Ni                 910 Li
+Iksha         0626 A300799-F  N Na Va              800 Li
+Dudmaak       0628 D360431-9    Ni De              903 Li
+Tonnes        0722 D897ABC-C  S Hi In              500 Li
+Ixteline      0723 D524A84-D  S Hi In              210 Li
+Adli          0725 B657332-D  N Lo Ni              402 Li
+Agada         0726 B402400-B    Ni Va Ic           600 Li
+Shuka Gipdim  0728 A370575-E  N Ni De              103 Li
+Unkurshu      0729 E46165A-9    Ni Ri              821 Li
+Iskar         0730 D351645-4  S Ni Po              222 Li
+Mashnamii     0826 EA9A479-5    Ni Wa              720 Li
+Asduad        0827 B768232-9    Lo Ni              923 Li
+Khikaba       0829 C524869-A                       700 Li
+Aspiar        0830 B547345-C  N Lo Ni              714 Li

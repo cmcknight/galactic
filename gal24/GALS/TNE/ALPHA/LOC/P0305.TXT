@@ -1,0 +1,97 @@
+
+Umkarguu        X9878UA-5               (1201)
+                C9878AA-A               (1105)
+
+Starport: None                          Size: Large (14100 km)
+Atmosphere: Dense                       Hydrographics: 75% water
+Population: 645 million                 Govt: Mystic Autocracy (Balkanised)
+Law Level: Extreme                      Technology: Industrial
+
+Pre-Collapse Population: 500 million    Pre-Collapse TL: Early Stellar
+Objective Classification: IIb
+
+HISTORY:
+
+        Umkarguu is an ethinicly Vilani world, originally settled during
+the Ziru Sirka. A coup during the Solomani Rim War replaced the (ethnically 
+Solomani) governing class with a pro-Imperial popular dictatorship, which
+was in turn overthrown during the Second Rim War. However, the military 
+government imposed by the Solomani effectively dissolved in the Collapse.
+In the chaos that followed, the population turned to religion in search of 
+a reason or purpose for the destruction. The traditional religious 
+groupings, adapted to a placid society, were quickly replaced by new and
+more aggressive groups - many of which were techno- or xenophobic. 
+
+        Seventy years on, religion is still the dominant force in Umkargaan
+society. Most states are out and out theocracies, and political parties
+tend to be organised on religious lines in the remainder. Many nations
+legislate a state religion, while others are forced to enact strict laws in 
+order to keep the lid on religious conflict. Intolerance and persecution of 
+religious minorities is rife.
+
+DEMOGRAPHICS:
+
+        The population is entirely human, and speak several distant 
+derivitives of Vilani, thus local interpreters will likely be required. 
+Global population has actually increased since the collapse, with 
+most of the growth occuring in Umkakuur.
+
+TECHNO-POLITICO-MILITARY:
+
+        Umkarguu's sustainable tech-level is 5, with limited TL-6 
+equipment available in the larger and more advanced nations 
+(Shasugku, Khari and Amkakhur). There is no relic technology in use 
+on the planet, though the Guild has recently begun selling 
+higher-tech military hardware to various nations. All nations 
+maintain large military and internal security forces.
+
+                        Pop (millions)  Gvt    Cor  Tal  Crl  Ag  P/X
+1. Shasugku                130         9-MA     L    H    M    H   H
+2. Kasiguurdi              100         B-SPO    M    L    L    M   M
+3. Khari                    90         3-RD     H    H    M    L   M
+4. Umkakuur                155         9-MA     M    L    M    L   H
+5. Gishshi                  34         B-SPO    M    L    M    L   H
+6. Amkakhur                 29         7-MD     H    M    L    L   H
+7. Laligbaar                25         9-MA     H    H    L    H   L
+8. Miseki                   22         5-CO     L    L    L    L   L
+9. Uukuga                   18         7-MD     H    H    H    L   H
+10. Amishkaani              15         8-TO     H    M    L    H   M
+11. Inarkuuk                27         9-MA     M    H    H    H   H
+
+        The world's major continent is shared by both Shasugku and 
+Umkakuur, who are currently engaged in a religious war which has also 
+embroiled most of their smaller neighbours. Another continent holds 
+Kasiguurdi, whose allies Gishshi and Laligbaar share a third with Khari.
+Amkakhur is a relatively isolated archapeligo.
+
+ [Map available if I ever get it scanned]
+
+ADVENTURE IDEAS:
+
+Intel - Gather intelligence on Guild activities on Umkarguu
+      - Word has reached the RC that Shasugku is working on an atomic 
+        weapons programme. Given their current war with Umkakuur, it 
+        is almost certain that such weapons, if they were to be 
+        developed, would be used. Infiltrate the weapons programme 
+        and identify the key researchers involved.
+
+Hot recovery - kidnap the key researchers involved in the Shasugkuuan
+               atomic programme.
+             - A Guild ship has crashed in Umkakuur while making a 
+               weapons delivery. Investigate the crash, and capture 
+               any survivors for interrogation.
+
+Negotiation - Accompany an RC representative to Miseki (currently at 
+              war with Amishkaani) and aassist her in negotiating a 
+              trade and technical assistance treaty (conditional on 
+              ceasing involvement in the Shasugkuuan-Umkakuuran war)
+            - Khari, Laligbaar and Gishshi currently exist in an 
+              uneasy state of peace which threatens to descend into 
+              war at any moment. Such a war would activate defence 
+              treaties and thus involve Kasiguurdi and Amkakhur as 
+              well. Accompany an RC negotiation team and assist them in 
+              brokering a stable(r) peace or a disarmament treaty 
+              between the parties involved.
+
+Bootstrap - Assist an RC technological assistance team in Miseki
+

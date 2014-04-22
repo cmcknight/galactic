@@ -1,0 +1,98 @@
+@SUB-SECTOR: sec_K   SECTOR: beyond.sec
+#
+# Trade routes within the subsector
+$2221 2020 0 -1
+$2221 2022 0 0
+$2022 2123 0 0
+$2022 1923 0 0
+$2022 2023 0 0
+$2023 2024 0 0
+$2024 1925 0 0
+$2024 2125 0 0
+$2024 2025 0 0
+$1925 1825 0 0
+$1825 1926 0 0
+$1825 1725 0 0
+$1825 1826 0 0
+$1724 1624 -1 0
+$1725 1624 -1 0
+$1826 1827 0 0
+$1827 1927 0 0
+$1827 1728 0 0
+$1728 1628 -1 0
+$1729 1628 -1 0
+$1827 1928 0 0
+$1928 2028 0 0
+$2028 2027 0 0
+$2028 2128 0 0
+$2128 2227 0 0
+$2227 2226 0 0
+$2226 2225 0 0
+$2225 2125 0 0
+$2225 2126 0 0
+$2227 2127 0 0
+$2225 2325 0 0
+$2325 2424 0 0
+$2424 2324 0 0
+$2424 2425 0 0
+$2424 2523 1 0
+$2227 2328 0 0
+$2328 2428 0 0
+$2428 2427 0 0
+$2428 2329 0 0
+$2028 2029 0 0
+$2029 2030 0 0
+$2030 1930 0 0
+$2030 2130 0 0
+$2030 1931 0 1
+$2030 2031 0 1
+$2030 2131 0 1
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Miramon Luagor1724 D686430-5    Ni                 6   IS
+Fueris        1725 C301335-7    Na Ni              4   IS
+Quintana Roo  1728 C5A0520-7    Na Ni              7   IS
+Quatal        1729 D5515D9-5    Na Ni Po           1   IS
+Tierce        1823 C434569-9    Ni                 7   Na
+Signature     1825 B899674-8  T Na Ni              7   IS
+Sixtol        1826 E549777-5    Na                 5   IS
+Akarana-Zaman 1827 B969667-8  S Na Ni Ri           2   IS
+Ydrogg        1829 C76A434-8    Na Ni              3   Na
+I'Sred*Ni Nest1923 D68398D-7                    R  3   IS     f
+Septime       1925 E573689-6    Ni                 8   IS
+Kroks         1926 X000379-1    Na Ni           R  1   Na
+Dust          1927 X000789-2    Na              R  5   Na
+Octave        1928 E7744A7-6    Ni                 7   IS
+Splend. Mendax1930 D9641A8-8    Ni                 8   IS     f
+I'Sred*Nixtu  2022 A00098D-C  2 Na In           R  3   IS     f
+Revoc Knarr   2023 C738340-7    Na Ni              9   IS
+Konichiwa     2024 B276100-8    Ni                 8   IS
+Pittl. Pidofat2025 X000100-1    Na Ni           R  7   Na     f
+I'Sred*Nispr  2026 A675879-G  2 Ca              R  9   IS     f
+Aichi Ban     2027 X0M0000-0                    R  0   Na
+Seconde       2028 B413413-7    Ni                 8   IS
+Horvendi      2029 C849520-C    Na Ni              4   Na
+I'Sred*Nity   2030 A746260-C  2 Ni              R  2   IS     f
+Jiird         2123 D988678-3    Ag Ni Ri           9   IS     f
+Nead Lelan    2125 E695080-2                       1   IS
+Station Three 2126 X0D0150-7    Ni              R  8   Na     f
+Omiatenieu    2127 X000573-5    Na Ni           R  7   Na
+Nuit Alanche  2128 E767AA6-7    Na                 4   IS
+Miskekopke    2130 D869070-3    Na                 0   Na
+Rolk          2221 B85997B-A                       1   IS     f
+Tryllandianne 2223 C353430-8    Ni Po              2   Na
+Qwertyuiop    2225 B8B1346-9    Ni                 2   IS     f
+Wurger        2226 E410300-9    Na Ni              5   Dw
+Cibola        2227 B777320-A    Na Ni              4   IS
+Stagatz       2229 C62698D-A    In                 1   Na
+Citadel       2324 D410381-4    Na Ni              3   IS
+I'Sred*Nitlal 2325 C236360-4    Ni                 6   IS
+Cral          2328 C658030-4    Na                 0   IS
+Sundance      2329 D232460-5    Ni Po              8   Na
+I'Sred*Nilun  2424 A67A360-C  2 Na Ni           R  5   IS     f
+Seredak       2425 D635720-5                       2   IS
+Lost Enigma   2426 C598843-5    Na                 9   Na
+Omega XVIII   2427 D352340-8    Ni Po              4   IS
+I'Sred*Nillol 2428 A7755A9-C  2 Ag Ni           R  3   IS     f

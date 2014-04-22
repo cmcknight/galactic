@@ -1,0 +1,30 @@
+@SUB-SECTOR: Maria SECTOR: Gythios Sector
+#
+# Jump-routes
+$1725 1625 -1 0
+$1723 1719 0 -1
+$1723 1825 0 0
+$1725 1825 0 0
+$1825 1924 0 0
+$1825 1925 0 0
+$1925 2025 0 0
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Adam          1723 B424235-8  S Lo                 803 Dr 110
+Manchester    1725 A867AA9-F  N Hi                 704 Dr 3AZ
+Halley        1727 X510000-0    Ba Lo              022 Dr 050
+Corvallis     1822 C666ABB-8    Hi                 415 Dr 88J
+Baeron        1823 X140000-0    Ba De Lo           021 Dr 000
+Maria         1825 A8A7610-B    Fl                 104 Dr 395
+Spayne        1924 B7C4310-A    Fl Lo              703 Dr D80
+Davaryush     1925 A988659-B    Ag                 922 Dr 4B5
+Cystal        2025 A768AAF-9    Hi                 203 Dr 975
+Farfle        2029 X511000-0    Ba Ic Lo           003 Im 030
+Getale        2122 C526200-7    Lo                 800 Na 110
+Hlathum       2126 X000000-0    As Ba Lo           024 Dr 000
+Icarus        2223 X200000-0    Ba Lo Va           013 Na 020
+Riamon        2326 X200000-0    Ba Lo Va           002 Na 010
+Casy          2328 B79869A-9  N Ag                 723 Na 085
+Koel          2329 B764756-9    Ag                 504 Na 065

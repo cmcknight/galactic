@@ -1,0 +1,25 @@
+       
+      Room E
+      ------
+   
+   This is the robot maintance room and hospital. This location contains
+   one docbot, four deathbots, ten screwbots and four scrubbots. All of
+   these bots, except for the docbot, are suhtdown. The room contains
+   several large work benches and lots of shelves (mostly empty). Several
+   of the bots are in various states of dismemberment.
+   
+   The docbot is a large cyclinder with lots of arms with a myrad of
+   different tools: drills, saws, knives, syringes, etc. Once a player
+   enters the room: it will hover toward the sick and injured; attempt to
+   grab them one by one; scan each one after grabbing (bright light
+   travels down their body) and repair any damage (insert large syringes
+   full of ominous glowing chemicals). The whole capture and heal process
+   takes from 15 to 20 seconds. Sickness and injury include any damage
+   taken and Grog's combat drug addiction. The attempt to grab can be
+   resisted by making a check against dexterity on 3D, and the grab can
+   be broken by checking against strength on 3D.
+   
+   Of course, once the player's have broken into one of the restricted
+   areas and gotten themselves onto the base's black list, the docbot
+   will no longer heal them. Rather, it will float around ignoring them.
+   

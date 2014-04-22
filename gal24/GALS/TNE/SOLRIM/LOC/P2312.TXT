@@ -1,0 +1,16 @@
+Menelaus B86595A-9       
+Starport: Good             Size: Large (12000-13600 km)
+Atmosphere: Standard       Hydrographics: 50% water
+Population: 1 billion      Govt: Feudal Technocracy
+Law Level: Extreme         Technology: Early Stellar
+
+	The nearby world of Menelaus claims the Alpha Ophiuchi system as part of
+its territory, and has stationed a system defense boat squadron there to 
+keep away outsiders (with varying degrees of success). Menelaus has
+periodically exploited the treasure-trove of abandoned and wrecked vessels 
+now present in the system, but their lack of large cargo vessels and limited
+tech level (9) mean that so far they have only been able to salvage a few
+easily recoverable vessels and procure enough spare parts to keep their 
+fleet of some 36 ships (all less than 1,000 displacement tons) operational.
+
+                           

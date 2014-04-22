@@ -1,0 +1,45 @@
+@SUB-SECTOR: sec_B   SECTOR: vland
+#
+# Trade routes within the subsector
+$0902 0502 -1 0
+$1208 0807 -1 0
+$1208 1211 0 1
+$1208 1408 0 0
+$1408 1505 0 0
+$1408 1509 0 0
+$1509 1709 1 0
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Otsaellghue   0902 A225435-F  N Ni                 303 Vn
+Iishashun     0906 C62546A-C    Ni                 713 Rv
+Jiinasha      0909 C200789-B  S Na Va              820 Rv
+Odhughe       1001 C525545-8    Ni                 910 Vn
+Anaanika      1003 B34057A-7    Ni Po De           911 Vn
+Esngougz      1004 EA7A343-5    Lo Ni Wa           620 Vn
+Laaru         1007 C69A9CC-D  S Hi In Wa           424 Rv
+Azu           1102 A447857-C  N                    801 Vn
+Gvaellekh     1104 D885115-7  C Lo Ni              610 Vn
+Sikilar       1107 B3328DH-9    Na Po              722 Rv
+Vakhoneri     1108 C76A8AB-B  S Wa Ri              710 Rv
+Suragginsu    1109 E333352-A    Lo Ni Po           711 Rv
+Liwar         1110 C350000-A  S Lo Ni Po De Ba     405 Rv
+Erim          1201 D573685-3    Ni                 801 Vn
+Anghurr       1202 E4308AA-6  C Na Po De           520 Vn
+Angvae        1203 C322377-8    Lo Ni Po           834 Vn
+Kummus        1206 C234520-8  S Ni                 702 Rv
+Vhodan        1208 A75898A-C    Hi Cp              123 Rv
+Enpar Konal   1309 E57768A-7    Ag Ni              121 Rv
+Deraan        1403 B426649-B    Ni                 210 Vn
+Diiron        1405 B89A8AA-B    Wa                 604 Rv
+Timat         1406 B98A679-8  A Ni Ri Wa           921 Rv
+Guusimka      1407 E539A77-C    Hi                 411 Rv
+Maran         1408 B352978-F  N Hi Po              322 Rv
+Zentove       1410 C8D3587-8  S Ni Fl              720 Rv
+Odinaga       1505 A2016A9-B    Na Ni Va Ic        203 Rv
+Audhumla      1509 A98A300-D    Lo Ni Wa           201 Rv
+Gamgilebo     1604 B000756-A    Na As              212 Va
+Dannar        1606 C2006A8-C    Na Ni Va           820 Rv
+Riinel        1608 E746651-8    Ag Ni              601 Rv
+Sakkuum       1609 C1107AB-9  S Na                 701 Rv

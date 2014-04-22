@@ -1,0 +1,42 @@
+ Tilden Belt   2409 (C0809)    UWP: B000799-9  As Na           
+
+System Survey - 001-1116
+------------------------
+Tilden Belt (2409) Yewoiauehoah/Ustral Quadrent
+
+Orbit         Name             UWP          Remarks
+Primary       Kofell           M7 V            
+Close         Aroc             M7 V         
+0             Ftaikh           Small GG     Size 84 / 134,400 km       
+1	      Teau	       Large GG     Size 233 / 372,800 km   
+       2      Teau Ay          YR00000-0     
+       9      Teau Bee         Y200000-0    
+       10     Teau See         Y100000-0      
+       40     Taufee           G6A026C-8    
+2	      Sao              Small GG     Size 72 / 115,200 km 
+       4      Kotail           H100229-8    
+       11     Sao Bee          Y100000-0    
+3             Tilden Belt      B000799-9    As Ni 5km, n-10 m-30 c-60, 0.5 AU
+4             Fahue            Large GG     Size 152 / 243,200 km
+       2      Fahue Ay         YR00000-0
+       3      Fahue Bee        YR00000-0
+       9      Fahue See        Y200000-0
+       35     Fahue Dee        Y300000-0
+       45     Fahue Ee         Y400000-0
+5             Laolin Belt      G00033C-8    50m, n-20 m-50 c-30, 0.5 AU
+6             Ehost            Large GG     Size 179 / 286,400 km
+       7      Ehost Ay         Y620000-0
+       9      Ehost Bee        Y430000-0
+       11     Yearoar          G51036A-8
+       25     Tofair           G551568-8
+       35     Ehost Eff        Y300000-0
+       45     Ehost Gee        Y330000-0
+
+ (Note: Satellites without populations aren't named)
+
+ The Tilden Belt was a neutral world between the Aslan Heirate and the Solomani
+Confederation until about 20 years ago when SolSec covert agents took over
+the government's High Council. They petitioned to join the Confederation and
+were accepted as a Independent world. 
+ Most of the world names are Aslan which have been translated into Rim Anglic.  
+

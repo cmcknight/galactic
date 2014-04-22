@@ -1,0 +1,31 @@
+@SUB-SECTOR: sec_H   SECTOR: gvurrdon
+#
+# Trade routes within the subsector
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Dzoekhsunoullo2513 D569453-7    Lo Ni Wi           420 Va
+Foel          2514 X687145-6    Lo Ni Wi           501 Va
+Tsorgoelae    2515 X200000-0    Ba Va Wi           010 Va
+Unggvokhaengar2518 X8B5000-0    Ba Fl Wi           002 Va
+Knoerrgh      2611 X230000-0    Ba De Wi           001 Va
+Gzaer         2613 X100000-0    Ba Va Wi           013 Va
+Luthours      2617 C551559-7    Ni Po Wi           123 Va
+Knuerz        2620 C749452-6    Lo Ni Wi           801 Va
+Dhanrranoez   2715 X9A8000-0    Ba Fl Wi           002 Va
+Aerzdanthi    2717 E84A451-5    Lo Ni Wa Wi        224 Va
+Radellogvate  2720 X7B8000-0    Ba Fl Wi           001 Va
+Kfuevavae     2913 X636000-0    Ba Wi              004 Va
+Olgan         2916 X88A000-5    Ba Lo Wa Wi        401 Va
+Uefokung      3012 X403000-0    Ba Ic Va Wi        020 Va
+Ounoe Eglloegh3017 B403000-0    Ba Ic Va Wi        023 Va
+Koesolaedze   3020 X585000-0    Ba Wi              002 Va
+Zaersougvivu  3114 X423000-0    Ba Wi              020 Va
+Thoengling    3117 A9AA000-0    Ba Fl Wa Wi        002 Va
+Surrghkoeg    3120 A97A56C-3    Ni Wa Bl Wi        101 Va
+Outhzaekaefakh3211 X896333-5    Lo Ni Bl Wi        703 Va
+Eksfarrarr    3213 X671553-4    Ni Bl Wi           322 Va
+Tuelehollar   3217 X252343-3    Ni Po Lo Wi        711 Va
+Ikkhadzkfaghuk3218 B685765-5    Ag Bl Wi           401 Va
+Rroungkhi     3220 X736000-0    Ba Wi              003 Va

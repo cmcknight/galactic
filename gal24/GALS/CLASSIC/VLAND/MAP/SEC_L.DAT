@@ -1,0 +1,55 @@
+@SUB-SECTOR: sec_L   SECTOR: vland
+#
+# Trade routes within the subsector
+$2728 2426 -1 0
+$2728 2931 0 1
+$2728 2926 0 0
+$2926 3224 0 0
+$3224 0227 1 0
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Kakhashedir   2524 B160302-D    Lo Ni De           102 Rv
+Daapuken      2526 E464100-B    Lo Ni           A  310 Rv
+Kaple         2527 E421656-8    Na Ni Po           811 Rv
+Shuurnnish    2528 C202225-A  S Lo Ni Va Ic        701 Rv
+Thaggesh      2530 B6667A8-A    Ag                 601 Rv
+Malvar        2621 C683697-7  S Ni Ri              724 Rv
+Shera         2624 C6837AB-9  S                    603 Rv
+Taluza        2627 D594547-4  S Ag Ni              323 Rv
+Floranus      2628 C8B3786-9    Fl                 201 Rv
+Rikaan        2629 D8A8898-6  S Fl                 710 Rv
+Nodden        2721 B774434-C  N Ni                 301 Rv
+Klidon        2723 D76378B-7  S Ri                 910 Rv
+Duranus       2725 B00037C-B  N Lo Ni As           915 Rv
+Kenash        2728 A594677-9  D Ag Ni              120 Rv
+Tektras       2823 C536534-8    Ni                 901 Rv
+Jana          2824 C300963-E  S Hi Na In Va        723 Rv
+Arron         2825 D324246-9  S Lo Ni An           920 Rv
+Zafron        2826 E475326-8    D0 Lo Ni           735 Rv
+Hannipur      2827 E100979-D    Hi Na In Va        201 Rv
+Luukon        2829 A5778B6-B  N                    601 Rv
+Lezaneraz     2830 E447455-B    Ni                 202 Rv
+Iton          2921 CAD7565-8    Ni Fl              901 Rv
+Zircon        2923 C471116-7  S Lo Ni              410 Rv
+Kaanpush      2925 B230424-C  N Ni Po De           820 Rv
+Sanderson     2926 A9C0688-E  S Ni De              520 Rv
+Talama        3021 B4106A8-9  S C3 Na Ni           302 Rv
+Arklin        3022 B9CA313-F    Lo Ni Fl Wa        834 Rv
+Bertrand      3024 E200666-5    Na Ni Va           113 Rv
+Shervan       3025 E545785-5    Ag              A  224 Rv
+Kamolad       3029 C8A8355-C    Lo Ni Fl           801 Li
+Ekum          3122 E56068C-7    Ni Ri De           624 Rv
+Thaar         3124 D87A69A-6  S Ni Wa              802 Rv
+Inandir       3125 C6769E9-C  S Hi In              411 Rv
+Renbad        3126 C568454-7    Ni                 410 Rv
+Xantril       3128 B676559-E  N Ag Ni              520 Li
+Wimorel       3129 C765443-7    Ni An              224 Li
+Gamidan       3130 CA5A354-8    Lo Ni Wa           512 Li
+Sadkha        3221 B836013-D  A Lo Ni              321 Rv
+Nemsa         3222 E300353-9    Lo Ni Va           920 Rv
+Anakod        3224 A796258-F    Lo Ni An Cp        124 Rv
+Eshdigi       3226 E747325-6    Lo Ni           A  323 Rv
+Nirnalur      3228 B444474-B  S Ni                 723 Li
+Diikaras      3229 AAAA651-F    Ni Fl Wa           602 Li

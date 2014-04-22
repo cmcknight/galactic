@@ -1,0 +1,21 @@
+System: Moytra
+Subsector: Shire
+Sector: Gushemege Sector
+Coordinates: 2725 (L0305)
+UWP: A636859-B
+
+Starport: Excellent
+Size: Medium (8800-10400 km)
+Atmosphere: Very thin
+Hydrographics: 60% water
+Population: 400 million
+Govt: Feudal Technocracy
+Law Level: High
+Technology: Average Stellar
+
+Bases: None
+Trade Codes: Cp              
+Travel Zone: Green
+Planetoid Belts: 1
+Gas Giants: 0
+Allegiance: Imperial

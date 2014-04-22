@@ -1,0 +1,59 @@
+ 
+    Random Encounters
+    -----------------
+   
+   There are seven different types of room in the base. The table below
+   describes the purpose of each room, its size in meters and who is
+   permitted to freely access the location. Naturally, the players are
+   permitted to shoot their way into any room.
+   
+   Psionic are dampened throughout the entire base. Attempts to use them
+   will produce no effects apart from a mild headache.
+
+  Description         Dimensions   Access Rights   Encounter DM
+A Entryway            15.0x20.0x4       any              -
+B Cell                 5.0x 7.5x3       any             -2
+C Recreation Area     40.0x50.0x9       any             -1
+D Store Room          12.5x30.0x3      non-psi          +2
+E Maintance/Hospital  20.0x15.5x4      non-psi          +2
+F Control Room        25.0x15.0x6       none            +3
+G Central Control      5.0x 5.0x2       none            +5
+
+   Roll 9+ on 2D every five minutes for an encounter inside the base. If
+   an encounter is called for, roll 1D on the following table using the
+   encounter DM from the previous table. The base has a total of six
+   scrubbots, twelve screwbots and six deathbots. Not all of the bots are
+   necessarily in working order.
+
+Roll    Encounter
+ <=0    1 Screwbot
+  1     2 Screwbots
+  2     1 Screwbot
+  3     1 Scrubbot
+  4     2 Scrubbots
+  5     1 Screwbot
+  6     1 Scrubbot
+  7     1 Deathbot
+ >=8    2 Deathbots
+
+   The robots have been lifted from Traveller Adventure 2: Research
+   Station Gamma with a few minor modifications. The main change made is
+   that the Deathbot (security robot) has improved armour, it takes ten
+   points of damage to generate a hit and it still acts as if protected
+   by battledress. The deathbot laser can also damage the ATV on a roll
+   of 12+ (which is an 8+ after skill modification), the deathbot will be
+   damaged by a hit from the ATV lasers.
+   
+   The second change is in the screwbot's (animal handling robot's)
+   weaponry: it now has an advanced stunner that requires a roll of
+   endurance minus intellegence or less on 2D to avoid a thirty minus
+   endurance minute stun (and a nasty headache for another hour or two
+   afterwards). This stunner ignores all forms of personal armour (except
+   black and white globes), treating all targets are having no armour for
+   to hit purposes.
+   
+   If the GM thinks the robots are a little tough, it is recommended to
+   introduce some equipment failure reducing the robot skills level,
+   armour quality or weaponry. The exact modifications are left up to the
+   individual GM.
+

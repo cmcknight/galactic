@@ -1,0 +1,257 @@
+Technical Details
+
+
+McKenzie Station is mostly underground, and is divided into several
+"blocks" (sections). These blocks were not built all at the same time.
+Rather, a block was built or upgraded as needed. Tunnels average 2.8 meters
+high and 2.5 meters wide (7 m^2 cross-sectional area).
+
+McKenzie Station is comprised of the following "blocks" (sections):
+
+ (Blocks)                      Power    Maint
+ 10x Basic Hangar Pits         -1.92    0
+ 2x Enclosed Hangar Pits       -7.665   380
+ 2x Vehicle Hangar/Repair Bays +31.461  4
+ 2x Fuel Bunkers               (0)      122
+ 1x Fuel Refinery              -19.0925 164
+ 3x Apartment / Living Quarters-0.537   12
+ 1x TL-12 Command Center       +3.7075  53
+ (Subtotals)                   +5.954   805
+
+As stated previously, McKenzie Station (a class D starport) was expanded
+from a former class G spaceport. The former space port consisted of two
+runways, six basic hangar pits (see below) in a radial arrangement, an
+underground fuel bunker (see below) and a control/administration building.
+
+In early 1201, they renovated all six of the hangar pits and used a
+"seeker" (modified scout/courier) for the power supply, sensors & commo
+gear, and living quarters. They used up a small relic TL-14 fusion reactor
+for the 1.152 MW of power needed whenever the "seeker" had to leave.
+
+In mid-1201, they finished the first vehicle hangar & repair bay, giving
+them a permanent power supply and living quarters, regardless of however
+many ships were there. They renovated the underground fuel bunker and
+finished a fuel refinery.
+
+In late 1201, they enclosed one of the hangar pits, which allowed for
+repairs or maintenance to be performed on a ship while in a "shirt sleeves"
+environment. They also finished the second vehicle hangar & repair bay as
+well as two apartment blocks.
+
+In early 1202, they enclosed another hangar pit, and they finished another
+apartment block and the TL-12 command center. They also excavated another
+six basic hangar pits (in another radial arrangement) on the other side of
+a runway. They decided to give three of the new hangars to RCES for use as
+a scout base. They also finished another underground fuel bunker.
+
+Overhead illustration of station's layout:
+
+           +-----+   \ /
+           |     |  -(3)-
+           |     |   / \
+           |     |
+     +-----+     +------------------------------+
+     |                                          |
+     |             Runway                       |
+     |                                          |
+     +-----+     +------------------------------+
+           |     |
+           |  R  |
+           |  u  |   XXXXX     \ /
+           |  n  |   X(1)X    -(2)-
+           |  w  |   XXXXX     / \
+           |  a  |
+           |  y  |
+           |     |
+           |     |
+           |     |
+           |     |
+           |     |                    Legend:
+           |     |                    (1) -- Ruins of Admin bldg.
+           |     |                    (2) -- Original hangar pits
+           |     |                    (3) -- New hangar pits
+           +-----+
+
+Hangar "Pit"
+
+Consists of a 1,000 dt hangar "pit" as well as 100 dt of access tunnels
+around the pit itself and connecting to the main complex. The pit is open
+to the air and built at TL-9
+
+The hangar pit is 44.8 meters long, 25 meters wide, and 12.5 meters deep.
+
+                                Vol.      Mass      Power     Price
+Tunneling: 1,100 dt             (15,400)  ---       ---       3.08
+
+(For tunnel annex):
+Controls: Computer Linked       1.4       0.14      0.05      0.1
+Basic Life Support              7         7         0.14      0.42
+2x Air Locks                    6         0.4       0.002     0.01
+
+Subtotals                       14.4      7.54      0.192     3.61
+
+Maint: 0
+Power Shortfall: 0.192 MW
+Retail Price: MCr 3.61
+Crew: 0
+
+Hangar Pit Upgrade
+
+This is an "upgrade" of the basic hangar pit. It is enclosed and
+pressurized. It is built at TL-9
+
+                                Vol.      Mass      Power     Price
+(For hangar pit):
+Controls: Computer Linked       14        1.4       0.5       1
+Basic Life Support              70        70        1.4       4.2
+"Internal Hangar" fittings      ---       2,800     ---       2.8
+  (gantries, crane, etc.)
+Launch Port (area: 1,120 m^2)   ---       ---       ---       1.12
+
+(For tunnel annex):
+Tunneling: Additional 25 dt     (+350)    ---       ---       0.07
+Extended Life Support           11.2      11.2      0.28      0.7
+  (removal of Basic L/S)        -7        -7        -0.14     -0.42
+1x Small Stateroom              28        2         0.0005    0.04
+  (used as a fresher)
+1x Electronics Shop             84        40        0.6       1
+1x Machine Shop                 140       120       1         2
+
+(Subtotals for Upgrade)         340.2     3,037.6   3.6405    12.51
+(Previous Subtotals)            14.4      7.54      0.192     3.61
+
+Subtotals                       354.6     3,045.14  3.8325    16.12
+
+Maint: 190
+Power Shortfall: 3.8325 MW
+Retail Price: MCr 16.12
+  (total; MCr 12.51 for just the upgrade)
+Crew: 0
+
+Vehicle Hangar/ Repair Bay
+
+This is a common area for maintenance of the vehicles and for the salvage
+of relic equipment.
+
+                                Vol.      Mass      Power     Price
+Tunneling: 150 dt               (2,100)   ---       ---       0.42
+Controls: Computer Linked       2.1       0.21      0.075     0.15
+2x TL-9 Mod Std Computers       10        2         0.5       1.2
+1x Crew Workstation             7         0.2       ---       0.001
+TL-9 30,000 km Radio            0.1       0.2       1         0.03
+TL-9 1,000 AU Maser-Comm        0.25      0.5       0.6       0.18
+TL-12 20 MW Fusion reactor      10        40        (20)      2
+  Fuel: one year                3         0.21      ---       ---
+Extended Life Support           16.8      16.8      0.42      1.05
+2x Air Locks                    6         0.4       0.002     0.01
+1x Extra-Large Air Lock         210       14        0.07      0.35
+  (70x normal; can fit an ATV)
+5x Small Staterooms             140       10        0.0025    0.2
+1x Electronics Shop             84        40        0.6       1
+1x Machine Shop                 140       120       1         2
+Internal Hangars (Spacious):
+  2x 2-ton Air Rafts            224       44.8      ---       0.0448
+  3x 7-ton Wheeled ATVs         1,176     235.2     ---       0.2352
+Cargo/Storage                   70.75     70.75     ---       ---
+
+Subtotals                       2,100     595.27    4.2695    8.871
+
+Maint: 37
+Power Surplus: 15.7305 MW
+Retail Price: MCr 8.871
+Crew: 1 (1x Electronics)
+
+Fuel Bunker
+
+This is just an underground fuel bunker (a large fuel tank buried in the
+rock). It can hold up to 1,000 displacement tons (14,000 cubic meters; 980
+metric tonnes).
+
+Maint: 61
+Power Usage: n/a
+Retail Price: MCr 2.8
+Crew: 0
+
+Fuel Refinery
+
+This is where the bulk of the fuel refining occurs.
+
+                                Vol.      Mass      Power     Price
+Tunneling: 100 dt               (1,400)   ---       ---       0.28
+Controls: Computer Linked       1.4       0.14      0.05      0.1
+Basic Life Support              7         7         0.14      0.42
+2x Air Locks                    6         0.4       0.002     0.01
+1x Small Stateroom              28        2         0.0005    0.04
+  (used as a fresher)
+TL-9 Fuel Purification          1,260     2,520     18.9      0.399
+  Plant: 2,100 m^3 every
+  six hours (25 dt/hr.)
+Cargo/Storage                   97.6      97.6      ---       ---
+
+Subtotals                       1,400     2,627.14  19.0925   1.249
+
+Maint: 164
+Power Shortfall: 19.0925
+Retail Price: MCr 1.249
+Crew: 0
+
+Apartments and Living Quarters
+
+
+
+The staterooms can be interconnected (as a multi-room suite) for families
+or other groups.
+                                Vol.      Mass      Power     Price
+Tunneling: 50 dt                (700)     ---       ---       0.14
+Controls: Computer Linked       0.7       0.07      0.025     0.05
+Extended Life Support           5.6       5.6       0.14      0.35
+2x Air Locks                    6         0.4       0.002     0.01
+12x Large Staterooms            672       48        0.012     1.2
+Cargo/Storage                   15.7      15.7      ---       ---
+
+Subtotals                       700       69.77     0.179     1.75
+
+Maint: 4
+Power Shortfall: 0.179 MW
+Retail Price: MCr 1.75
+Crew: 0
+
+Command Center
+
+Because of the critical need for high-tech sensors and communications gear,
+they built the command center using TL-12 components instead of the more
+readily available TL-9 components. Also, they included a small TL-12 fuel
+refinery to serve as a backup refinery in case the primary is ever
+unavailable.
+
+                                Vol.      Mass      Power     Price
+Tunneling: 50 dt                (700)     ---       ---       0.14
+Controls: Dynamic Linked        0.7       0.07      0.05      0.075
+2x TL-12 Mod Std Computers      16        3.2       0.4       3
+3x Bridge Workstations          42        0.6       ---       0.0045
+TL-12 1,000 AU Radio            0.1       0.2       20        0.15
+  (Area: 200 m^2)
+TL-12 1,000 AU Laser-Comm       0.05      0.1       0.3       0.18
+TL-12 1,000 AU Maser-Comm       0.1       0.2       0.6       0.18
+TL-12 300,000 km Active EMS,    5.5       11        27.5      11
+  DF Capable (Area: 11 m^2)     ---       ---       ---       5.5
+TL-12 150,000 km Passive EMS,   2         4         0.2       4
+  Fixed Array (Area: 120 m^2)   6         6         ---       6
+TL-12 60 MW Fusion reactor      30        120       (60)      6
+  Fuel: one year                9         0.63      ---       ---
+Extended Life Support           5.6       5.6       0.14      0.35
+2x Air Locks                    6         0.4       0.002     0.01
+1x Small Stateroom              28        2         0.0005    0.04
+  (used as a fresher)
+Sickbay                         112       50        0.8       5
+TL-12 Fuel Purification         420       840       6.3       0.168
+  Plant: 1,050 m^3 every
+  6 hrs. (12.5 tons/hour)
+Cargo/Storage                   16.95     16.95     ---       ---
+
+Subtotals                       700       1,060.95  56.2925   41.7975
+
+Maint: 53
+Power Surplus: 3.7075 MW
+Retail Price: MCr 41.7975
+Crew: Up to 3 (1x Electronics; up to 2x Command)

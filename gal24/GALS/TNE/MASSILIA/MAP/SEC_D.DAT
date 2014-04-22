@@ -1,0 +1,38 @@
+@SUB-SECTOR: sec_d   SECTOR: massilia
+#
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Moran         2503 X322000-0    Ba                 014 Un
+Hayashi       2506 X434000-0    Ba                 023 Un
+Janeen        2508 X100000-0    Ba Va              002 Un
+Euteneier     2503 X322000-0    Ba                 014 Un
+Cragun 3      2506 X434000-0    Ba                 023 Un
+Zalucha       2508 X100000-0    Ba Va              002 Un
+H'rachovina   2605 X433000-0    Ba                 003 Un
+Galus         2606 C7828O3-8                       204 Wi     f
+Athay         2607 D6796R7-7    Ni                 602 Wi     f
+Keholutes     2609 X300000-0    Ba Va              005 Un
+Magallanes    2703 X77A3P6-4    Lo Ni Wa           113 Wi
+Ayarra        2710 X3845RA-7    C7 Ag Ni           214 Wi
+Ioannides     2809 X525000-0    Ba                 005 Un
+Stockton      2810 D5734M1-7    Lo Ni              420 Wi
+Watia         2902 D2456U9-7    Ag Ni              224 Wi
+Vuong         2904 X5595R5-7    Ni                 424 Wi
+Aderveen      2905 X4547R7-6    C7 Ag              202 Wi
+Yorgasan      2906 X6465P2-5    Ag Ni           B  303 Wi
+Rochon        2908 X6755U7-6    Ag Ni              313 Wi
+New Stockton  2910 X322000-0    Ba                 003 Un
+Reisland      3001 X8882R8-3    Lo Ni           B  421 Wi
+Southard      3002 X6453N1-0    Lo Ni              404 Wi
+Titmus        3003 X8A0000-0    Ba De              003 Un
+Zabel         3008 B575269-9    Lo Ni              102 Na     f
+Coxe          3009 X000000-0    As Ba              014 Un
+Vageau        3106 X110000-0    Ba                 012 Un
+Sanidon       3108 X000000-0    As Ba              021 Un
+Freelund      3203 X7C0000-0    Ba De              002 Un
+Dolenar       3206 C542300-8    Lo Ni Po           200 Wi     f
+Hamagami      3207 X300000-0    Ba Va              003 Un
+Kusha         3208 X8B4000-0    Ba Fl              002 Un
+Friton        3210 E8566N0-5    C1 Ag Ni        B  604 Wi

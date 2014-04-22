@@ -1,0 +1,30 @@
+@SUB-SECTOR: sec_A   SECTOR: canopus
+#
+# Trade routes within the subsector
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+De Ger        0107 CAD8432-A    Lo Ni              603 So
+Wayland       0109 B130644-9    De Na Ni Po        802 So
+Cotesse       0110 B875320-A  N Ag Lo Ni           612 So
+Fedora        0204 B120332-B    De Lo Ni Po        904 So
+Modi          0208 C8868DA-3  S                    515 So
+Igor          0301 C000543-A  S As Lo Ni Va        624 So
+Cearrbhach    0304 B566684-B    Ni Ri              522 So
+Endor         0306 X586000-0    Ba                 003 So
+Meurig        0309 E88A531-A    Lo Ni Wa           804 So
+Felipa        0401 C331552-A    Lo Ni Po           924 So
+Paly          0403 E6A2868-7    Fl                 502 So
+Dixon         0404 C564330-9  S Ag Lo Ni           504 So
+Somnia        0501 C2009B9-9  S Hi Na Va           900 So
+Esdros        0506 C99A455-B    Lo Ni Wa           613 So
+Thruhleow     0507 B539586-C    Lo Ni              303 So
+Caelon        0508 A99A778-D    Wa                 403 So
+Banach        0601 C445645-A    Ni                 223 So
+Mani          0604 C758100-9    Ag Lo Ni           713 So
+De Kirkby     0704 A100220-C    Lo Ni Va           603 So
+Draedan       0706 A9A3010-B    Fl                 504 So
+Munich        0707 E634753-5                       701 So
+Magamp        0807 C313331-9  S Ic Lo Ni           301 So
+Krakatoa      0809 A99A895-E    Wa                 601 So

@@ -1,0 +1,39 @@
+@SUB-SECTOR: stars_P   SECTOR: meshan
+#
+# Trade routes within the subsector
+#
+#--------1---------2---------3
+#PlanetName   Loc. Stars(s)
+#----------   ---- ---------
+Uenouz        2535 F5 D
+Rueghgva      2536 F2 IV
+Guerris       2538 G8 D M9 D
+Ellodhaedh    2540 F4 V
+Igovul        2633 F6 D M7 D
+Lefaen        2640 G0 V
+Aknaegzue     2732 F4 D M3 D
+Koethaek      2733 F0 V
+Okhaeksae     2831 F6 D M8 D
+Dzagkogh      2832 F5 V
+Uenazuk       2836 F7 V
+Zolkhughz     2838 F3 V
+Aluunle       2839 F4 V
+Dzegkno       2840 F1 V M9 D
+Aerroll       2935 K9 D
+Zoraruzi      2936 M1 III
+Oellaell      2939 M9 V
+Saeda         2940 F6 D M8 D
+Arrue         3033 F1 D
+Oellaera      3035 F3 V M3 D
+Kungin        3036 M0 V
+Kfoghoe       3037 M5 V
+Guegha        3040 K5 V
+Oetsaena      3131 M5 V
+Cha-adi'      3133 M8 V M1 D
+Wallaby       3136 F9 V
+Ishkhigimu    3232 M7 V
+Kogziz        3233 M4 V
+Gha Ilougz    3236 M2 V M4 D
+Quirk         3238 F2 V M7 V
+Oezaello      3239 F0 D
+Rruekhsung    3240 F6 V

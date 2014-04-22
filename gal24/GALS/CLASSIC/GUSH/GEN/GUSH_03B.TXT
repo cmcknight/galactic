@@ -1,0 +1,212 @@
+
+Gushemege CSB Activities                                            Andy Slack
+HIWG Doc No. SW04
+Date:
+
+ABSTRACT
+      An overview of the activities of Strephon's Agency in the fields of
+      disinformation, memetic engineering, terrorism, and commando operations.
+
+OVERVIEW
+      The Covert Survey Bureau (CSB) is the logical choice for Strephon's
+secret agency. There are also a number of interesting anomalies in Gushemege
+sector. This document discusses what the Gushemege CSB is up to, under these
+main headings: Disinformation, Memetics, Terrorism, and Commando Operations.
+
+STRATEGIC GOALS
+      Strephon's Worlds are outnumbered absolutely in terms of the fighting
+ships and men available to the other factions. In any given battle, however,
+what matters is not how troops the enemy has, but how many he can bring to
+bear. The CSB aims to reduce the odds against Strephon's forces in three main
+ways:
+    * by tying down as many opposing troops and ships as possible, rendering
+      them unavailable for combat.
+    * by rallying the undecided populations behind Strephon, thus increasing
+      his forces.
+    * by attacking the enemy's command structure and communications routes so
+      that he cannot direct his forces to the right place at the right time.
+
+      The CSB's top administrators are wise enough to realize that this
+strategy only delays the inevitable fall of Strephon's Worlds. The rebellion
+is bound to settle down to a war of attrition, and in that kind of conflict
+the faction with the most troops will eventually win. Strephon and the CSB
+hope that the major factions will cripple each other before the attritional
+phase sets in, or that they can rally enough high-population worlds to become
+the largest faction.
+
+      In the meantime, an interesting scenario might be made out of a senior
+CSB agent employing the PCs to carry out missions for him - not for Strephon's
+cause, but to build up a nest egg he can retire on when Strephon's Worlds
+collapse.
+
+DISINFORMATION
+        Or, the time-honored art of telling lies about your opponents. Because
+of the slow speed at which news travels and the general chaos of the Rebellion,
+ it isdifficult for most people to find out what is really going on. They will
+therefore tend to believe nothing at all or whoever shouts the loudest.
+      Affeldt suggested lowering enemy morale by tampering with the troops'
+mail. Strephon's agency takes this a step further by tampering with the
+faction's mail -- introducing false information into their rival's xboat
+networks. This is done in a variety of ways:
+      First, by introducing Gushemege xboats into the networks of rival
+factions, carrying fake news. For example, reporting a battle or a planet lost
+when it was won, or faked footage of the rival faction's leader being
+assassinated. This is a dangerous mission for the pilot, but allows maximum
+consistency between the messages aboard, making the news more credible.
+      Second, agents in rival faction's territory invent false messages and
+introduce them into the local xboat network. This can mislead the readers.
+More importantly, it lowers the credibility of the other messages delivered.
+If one report says the battle was won and another says it was lost, which do
+you believe? This slows the enemy's response to information as he must verify
+its truthfulness before acting, possibly by sending another ship to check what
+really happened.
+      Third, destroying data banks, xboats, and couriers wherever possible.
+This slows the enemy response, because he doesn't know what is going on. He
+must either send more ships to find out, or have fighting ships escort
+couriers. (The latter will slow down couriers, because warships generally have
+lower jump numbers.)
+      In all cases, due to the excellent quality of Gushemege simulations,
+based on Lancian technology, the false data introduced by the CSB are not
+obvious forgeries.
+      In a more adventurous vein, carefully doctored news might persuade a
+low-technology, high-population world that it was cut-off, surrounded,
+abandoned, and soon to be smashed by Strephon's fleets. Silver balloons
+masquerading as orbiting battleships would help. A forceful landing by a
+gunboat or two carrying a CSB agent dressed as a Colonel or Fleet Admiral with
+a request that the world surrender could gain the world's surrender, if the
+agents were good enough actors.
+
+MEMETICS
+      Pre-jump-drive experiments on Terra showed that certain ideas are
+infectious, spreading among persons like viruses and taking over victims'
+belief systems. These ideas are known as memes, and the techniques of studying
+and creating them are collectively called memetics. Where the vectors
+(transmission agent) for a physical disease include vermin, insects, and
+carriers of the disease, the vectors for a meme include media broadcasts and
+whispered conversations.
+      In memetic theory, social movements are side effects of the spread of
+specific memes. It follows that a group capable of creating and spreading a
+suitable meme can produce social movements to order.
+      Much CSB research has been targeted on projects to create new religions,
+philosophies, and codes of behavior which will dispose those accepting the
+artificial ideals to support the CSB's aim. These projects usually conduct
+their experiments on interdicted worlds with low tech levels, to minimize the
+disturbing affects of outside interference. The group of four type-X starports
+close together in subsector L house the major projects, close together for
+ease of comparison.
+      Creating a suitable meme requires, first, that CSB agents thoroughly
+study which memes are already active in the target culture. The successful
+pseudo-religion will make extensive use of existing memes to help it take root
+in the target population.
+      Second, the meme must be codified in a written (or other recorded) form.
+As self-replicating information patterns, memes are subject to mutation and
+evolution like physical genes, and standardizing the meme helps to limit
+mutation as the number of people infected grows. The CSB agent in place
+normally prepares and distributes the standard "Bible" for the new meme.
+      Third, the CSB encourages those infected with the meme to isolate
+themselves from the rest of the population, to minimize contamination from
+competing memes, and to protect the believers. The local government and/or
+religion will undoubtedly attempt suppression.
+      The most successful memes - from the CSB's standpoint - are those
+overriding a sophont's natural desire for genetic and personal survival. This
+sort of meme can induce untrained civilians to drive grav sleds full of
+explosives into Lucan's or Dulinor's local headquarters, or attack troops in
+battledress with sticks and stones. The sort of fanaticism needed can only be
+generated by pseudo-religious memes, hence the CSB's interest in creating
+artificial religions, and even then must be continually fanned by agents
+onworld.
+      A possible scenario is that the PCs are forced to deal with a local
+religious cult inflamed to acts of terrorism by a CSB agent. Perhaps one of
+the party's favorite NPCs is kidnapped and brainwashed by the cult.
+
+
+TERRORISM
+      Even in the former heartland of the Imperium there are dissidents -
+corsairs, terrorists, criminal elements, and so on - who would take up arms
+against the government. The CSB's policy is to contact those groups in their
+rivals' territories, and give them arms, money, and specialists advice. The
+CSB is not concerned with what these groups stand for; all that matters is
+that they oppose their government and are prepared to take action. Of course,
+should such action be against the CSB's interests, their supplies of guns and
+cash dry up.
+      This policy will give Strephon major problems if he won, because he will
+then have well-equipped, trained terrorist groups entrenched in his territory.
+Desperate and vastly outnumbered, however, he is prepared to take that risk
+and hope the CSB will have an answer for that problem when it arises.
+Strephon's main concern so far has been for the innocent victims of terrorism.
+The CSB argues that innocent victims are essential, as killing the spouses and
+children of rival factions' troops is not only easier than killing the troops,
+it has a greater effect on their morale.
+      The CSB recognizes that it would weaken Strephon's bid for the throne to
+be associated with this activity. They are careful to lay blame either on the
+terrorists themselves or on another faction. Atrocities committed in Lucan's
+domain will be blamed on Dulinor, and vice versa.
+      False Flag Recruiting: The CSB studies intended recipient organizations,
+and then poses as members of that faction. The Solomani Party is the main
+recipient of CSB support within the volume of space controlled by the Ziru
+Sirka. Like most other recipients, it is ignorant of the true source of
+funding. It might reject the money and advice if it knew where they came from.
+      Within Lucan's Imperium, the Scarlet Claw Society is a group of Aslan
+terrorists which the CSB funds. The agents pose as members of Dulinor's
+agency, and so the terrorists believe themselves to be fighting for Dulinor
+instead of helping Strephon.
+      Affeldt suggested arming PCs and turning them loose to create mayhem in
+rivals' territory. This is as good a campaign setup as any sponsored by CSB.
+      Disease: Another common ploy is for CSB agents posing as customs
+inspectors to board independent merchantmen just before they leave Strephon's
+Worlds for enemy territory. While aboard they surreptitiously infect the ship
+with contagious disease germs. The intent is to spread the disease into
+starports within a rival faction's turf.
+      The plagues used will be crippling, but not actually lethal. A dead
+enemy who only needs to be buried has less effect on opponents' morale and
+resources than a horribly diseased one who must be cared for constantly.
+      A possible scenario is to infect the PC's ship with a virulent plague in
+this way, perhaps while dropping off a passenger who is really a CSB agent.
+The PCs will become ill while being hunted as saboteurs or plague carriers.
+
+COMMANDO OPERATIONS
+      The CSB maintains a number of highly-respected commando teams, which are
+trained and equipped at a level rivalling the special forces units of the
+other major services. Like the rest of the CSB's operatives, these have a
+reputation for the bizarre, earned mainly from their use of trained animals,
+gadgetry, and deception.
+      Trained pouncers have been fitted with time-fused explosive packs and
+encouraged to build nests inside enemy starships. This has had mixed success,
+with some targets destroyed and other attempts destroying neutral or merchant
+tonnage instead. The CSB argues that even failures help their cause, as they
+lower enemy morale, discourage neutral merchants from visiting enemy ports,
+and tie down forces on security duties.
+      Small flying animals that nest in the eaves of buildings have been
+captured and fitted with incendiary devices in attempts to burn down enemy
+cities. These missions have uniformly failed so far, but all add to the fears
+and worries of those opposing Strephon.
+      During the early days of the Rebellion, attempts were made to peddle
+drugs to troops fighting for other factions. These were discontinued when
+Strephon's troops proved equally vulnerable -- in many cases they received the
+drugs intended for Lucan's forces.
+      CSB commando units often travel incognito aboard free traders owned and
+operated by the CSB. A possible scenario is for the CSB to hold the lien on
+the PC's ship through a number of dummy companies. A CSB commando team in
+disguise charters the ship, and the PCs are blamed for the atrocities the
+commit at one port of call.
+      Once on-planet, CSB teams are supported by sleeper agents scattered
+throughout the sector years ago to support anti-terrorist and anti-piracy
+operations. The typical sleeper believes he works for someone else (whoever
+his recruited thought he was likely to work for), and is exempt from draft by
+virtue of ill health, age, or professional status.
+      The sleeper's task is to provide a safe house where the team can rest,
+avoid searches, and prepare for missions. Stocks of food and medicine, and
+perhaps a vehicle, are also needed. These hideouts take many forms -- a
+starport restaurant franchise, a cargo container ostensibly storing furniture
+for someone off-planet on business (and stacked amid many genuine ones), and
+unproductive mine on a nearly-abandoned asteroid, a lighthouse or emergency
+shelter, and so on.
+      The missions undertaken by a commando unit are often blamed on
+terrorists, and are broadly similar to terrorist operations. What
+distinguishes them is their precise timing and targeting, as opposed to the
+apparently random and pointless violence of the terrorist. These units are
+specially tasked with eliminating key opponents by killing, kidnapping, or
+discrediting them. To gain the proper perspective for how the gadget-oriented
+CSB tackles this sort of task, watch reruns of the "Mission: Impossible" show.
+
+

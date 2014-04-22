@@ -1,0 +1,41 @@
+@SUB-SECTOR: sec_H   SECTOR: trojan
+#
+# Trade routes within the subsector
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Pryme         2513 B48668B-A    Ag Ni Ri           405 RE
+Nekrino       2515 A788400-C  N Lo Ni Tp           914 RE
+Boulder       2517 D100758-A    Na Va              330 RE
+Eksoset       2520 B5742G7-B    Lo Ni              703 As
+Intelia       2612 C474753-6    Ag                 304 RE     f
+Gor           2614 C868777-3    Ag Ri Tp        B  103 RE
+Scaladon      2616 AAD98DK-B  S                 A  800 RE
+Empire        2711 B679334-D  S Lo Ni Tp           703 RE
+Hradus        2714 B5469B9-8    Hi In              223 RE
+Hexx          2715 B78A677-D  N Ni Ri Wa        B  114 RE
+Iilgan        2719 C467897-8    Ri                 312 As
+Saurus        2813 A350572-B    Ni Po De        B  712 RE
+971-852       2814 E78A000-0    Ba Wa              004 RE     f
+Ardasii       2815 B650684-9    Ni Po De        A  210 RE
+Wilderman     2819 B2016A7-D    Na Ni Va Ic        802 As
+Pandora       2820 B878313-B    Lo Ni Tp           501 As
+Darchona      2912 B49A843-B    Wa                 133 RE
+Sabruse       2915 EAC8243-8  A Fl Lo Ni           920 RE
+Imisaa        2916 B520867-7    Na Po De O:2815    113 RE     f
+Fist          2918 B7896A6-D  A Ni Ri Tp           313 Cs     f
+Dimorus       3011 D300761-7    Na Va O:3212       700 RE
+Elphinstone   3012 B687420-B    Lo Ni Tp           614 RE
+Ayidem        3013 A7407X4-E  A D:9 Po De          904 Dr
+Pichot        3015 E546330-5    Lo Ni              120 RE
+New           3016 D66678A-6    Ag Ri Tp           100 RE
+Khaliki       3111 D111568-9    Ni Ic O:3212       215 RE
+Simok         3113 CAA09A5-8    Hi De              201 RE
+Attee         3116 C7529AE-4  S Hi Po              504 RE
+Eshadi        3117 B431358-F  N Lo Ni Po           311 RE
+New Moscow    3119 B767776-7    Ag Ri Tn        B  413 RE
+Berg          3212 A675575-B  N Ag Ni Tp        B  805 RE
+Kedus         3213 D867520-5    Ag Ni Tn           213 RE
+Tobia         3215 A444A55-G  N Hi In              203 RE     f
+Batav         3219 B5A87B6-B    Fl An              410 Na

@@ -1,0 +1,62 @@
+@SUB-SECTOR: Sakhag   SECTOR: Antares
+#
+# Trade routes within the subsector
+#
+$2235 2634 1 0 11
+$2235 1935 0 0 11
+$1935 1932 0 0 11
+$1932 2030 0 -1 11
+$1935 1635 -1 0 11
+$2040 2138 0 0 11
+$1935 2138 0 0 11
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Ungiragi      1731 C8A5532-9  S Ni Fl              922 Im 
+Iigna         1732 B544100-D  S Lo Ni              502 Im 
+Daddedd       1733 C548465-8    Ni                 500 Im 
+Wythi         1734 A766245-9  A Lo Ni              702 Im 
+Kiikigulii    1735 A886596-9    Ag Ni              403 Im
+Vaptoilta     1736 D412435-6  S Ni Ic              724 Im 
+Shir          1737 X637411-5    Ni              R  103 Im 
+Taaunake      1738 A000630-B  N Na Ni As           721 Im 
+Dawce         1833 D224254-7    Lo Ni              402 Im 
+Pagton        1834 E374269-9    Lo Ni              800 Im 
+Tekk          1835 A460666-9  N Ni Ri De           425 Im 
+Wyfe          1837 C552425-A  S Ni Po              503 Im 
+Bameneskjum   1838 B689010-8    Lo Ni              221 Im 
+Sort          1839 E6259AB-A    Hi In              803 Im 
+Arash         1840 C644116-A  S Lo Ni              704 Im 
+Waraa         1931 C524500-C    Ni                 202 Im
+Ter           1932 A897554-A  N Ag Ni              305 Im 
+Enddenbe      1933 B243657-B    Ni Po              204 Im 
+Naean         1935 A222423-F    Ni Po              715 Im 
+Sharki        1936 C513215-7  S Lo Ni Ic           903 Im 
+Liluudurin    1937 A25359A-F    Ni Po              402 Im 
+Mariizu       1939 E597556-6    Ag Ni              204 Im 
+Bes           2031 C626534-9    Ni                 500 Im 
+Meventapboo   2038 B565553-8    Ag Ni              113 Im 
+Kawhuti       2039 B7545A9-A    Ag Ni              304 Im 
+Usigekiki     2040 A6368BG-E                       820 Im 
+Ijamnanvo     2131 E8C4420-6    Ni Fl              800 Im 
+Drwol         2133 C479534-8  S Ni                 313 Im 
+Isiragu       2134 B230668-C    Na Ni Po De        101 Im 
+Gekimli       2137 B7A6544-A  N Ni Fl              433 Im 
+Enkihylsa     2138 B5957CB-B    Ag                 924 Im 
+Romrohpas     2235 A657532-C  N Ag Ni              703 Im 
+Ag            2237 B4767AB-8  N Ag                 503 Im
+Llajen        2238 B435624-8  N Ni                 902 Im 
+Kunarumkhii   2239 E400344-5    Lo Ni Va           710 Im 
+Namhyn        2240 C762442-6    Ni                 902 Im 
+Ritiwheo      2331 C332856-C  S Na Po              502 Im 
+Restmurowad   2332 B231578-E    Ni Po              312 Im 
+Tutu          2336 B647564-9  N Ag Ni              704 Im 
+Oek           2339 C33346A-B  S Ni Po              401 Im 
+Apu           2432 D465677-6    Ag Ni Ri           211 Im 
+Ken           2434 E696265-7    Lo Ni              120 Im 
+Baukkregtoo   2435 C7C477B-9    Fl                 113 Im 
+Dam           2436 C454796-6    Ag                 803 Im 
+Pukurashdur   2438 X749663-1    Ni              R  624 Im 
+Newsi         2439 E523976-A    Hi Na In Po        714 Im 
+Tapouu        2440 C778004-A    Lo Ni              503 Im 
+

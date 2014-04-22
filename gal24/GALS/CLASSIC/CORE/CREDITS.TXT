@@ -1,0 +1,7 @@
+If I recall correctly, Idiot/Savant <idiot@sans.vuw.ac.nz>
+sent me this version of the Core Sector, not necessarily
+for inclusion into Galactic, but just for advice on how
+to fix some things that were going wrong with it. I went
+ahead and included it even though it's far from being in
+a finished state. -jimv
+

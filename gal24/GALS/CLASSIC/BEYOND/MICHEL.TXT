@@ -1,0 +1,62 @@
+From alsandor@netcom.ca Sat Sep 28 06:20:12 1996
+Date: Sat, 28 Sep 1996 07:52:25 -0700
+From: Michel Boucher <alsandor@netcom.ca>
+To: Jim Vassilakos <jimv@e2.empirenet.com>
+Subject: Re: Galactic 2.1 (call for sectors)
+Status: OR
+
+Jim Vassilakos wrote:
+> If you don't mind, please send me a list of the UWP codes you want
+> added. That way I'll be able to add them on my end before I send
+> you a new version.
+
+Ok, here goes:
+
+Starport	V	Variable
+
+Diameter	A	10,000 miles or 16,093 kilometers
+		B	12,000 miles or 19,312 kilometers
+		C	13,000 miles or 20,921 kilometers
+		J	Ringworld
+		V	Variable		
+
+Atmosphere	D	Carbon dioxide
+		M	Methane
+		R	Radioactive
+		V	Variable
+
+Hydrographics	V	Variable
+
+Population	V	Variable
+
+Government	E	Patriarchal warrior elite
+		F	Select military elite
+		V	Variable	
+
+Law Level	A	May not own energy weapons
+		B	May not own military weapons
+		C	May not own concealable firearms
+		D	May not own any type of firearms
+		E	May not own bladed weapons
+		F	May not own anything which may be used as a weapon
+		V	Variable
+
+Tech Level 	V	Variable
+
+Notes:
+
+There was a + Tech level given as Occasional non-Imperial, but as there
+already was a G in the The Traveller Book (which is what I'm using), I decided
+to remove it.
+
+Maybe it wasn't in the original set of three booklets.
+
+V = May appear under any UWP characteristic, indicating that it varies,
+either naturally or artificially, from point to point or from time to
+time.  This should of course call for the GM to explain this phenomenon,
+if indeed it is one.  The reasons could be as varied as accelerated
+development to civil war or simply a factor of the environment or
+civilisation, not unlike what happens on Helliconia in Aldiss' books.
+
+Maybe other people have more codes they'd like to add ;-)
+

@@ -1,0 +1,48 @@
+@SUB-SECTOR: sec_E   SECTOR: magyar
+#
+# Trade routes within the subsector
+$0115 0119 0 0
+$0115 0415 0 0
+$0211 0413 0 0
+$0211 0409 0 -1
+$0413 0415 0 0
+$0415 0814 0 0
+$0814 0713 0 0
+$0814 1016 1 0
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Schurz        0113 A874310-D    Lo Ni              601 So
+Pryon         0115 A889747-D    Cp Ri              820 So
+Wair          0116 C89A98C-E    Hi In Wa           823 Wa
+Hool          0118 C121867-C    Na Po              800 So
+Mickel        0119 A741855-E    Po                 401 So
+Factn         0120 C140999-C    De Hi In Po        102 So
+Stanislav     0211 B000688-D  A As Na Ni           700 So
+Zentara       0212 C101200-E    Ic Lo Ni Va        315 So
+Amonchomchu   0215 C599765-B                       704 Wa
+Jofil         0216 B101353-E  S Ic Lo Ni Va        904 So
+Anderson      0220 B550221-D    De Lo Ni Po        514 So
+McManus       0315 E511742-9    Ic Na              225 So
+Bowmar        0317 D301466-9    Ic Ni Va           600 Wa
+Carol Sue     0319 C334423-D    Ni                 104 So
+Yergin        0411 D767642-6    Ag Ni Ri           500 So
+Kaig          0413 A6AA758-E  A Fl Wa              704 So
+Dormant       0415 B450645-C    Xb De Ni Po        922 So
+Papesh        0516 D200664-9    Na Ni Va           600 Wa
+Elroy         0517 E556112-7    Lo Ni              903 So
+Arsdale       0613 D445833-8                       600 So
+Wells         0614 D677635-6    Ag Ni              800 So
+Pindur        0615 E131956-C    Hi Na Po           505 So
+Abbit         0617 A699201-E    Lo Ni              800 So
+Joce          0619 B240167-E  W De Lo Ni Po        300 La
+Fatridge      0712 E99887B-8                       110 So
+Bradley       0713 B340879-D  N De Po              401 So
+Kazilash      0715 B778100-C    Lo Ni              302 So
+Hodapp        0716 B689541-C    Co Ni              112 So
+Lachlan       0720 B101054-E    Ic Lo Ni Va        700 La
+Nihonatarashi 0812 C237403-D    Ni                 310 So
+Meza          0813 B000831-E    As Na              604 So
+Kano          0814 A432503-E    Ni Po              600 So
+Hurshel       0815 B7B5000-C    Ex Ba Fl Lo Ni     914 Im

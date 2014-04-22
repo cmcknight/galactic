@@ -1,0 +1,16 @@
+
+Leng                    X84A8R9-5       (1201)
+
+Starport: None                          Size: Large (12000-13600 km)
+Atmosphere: Thin, tainted               Hydrographics: Water world
+Population: 100 million                 Govt: TED
+Law Level: High                         Technology: Industrial
+
+Pre-Collapse Population:                Pre-Collapse TL:
+Objective Classification: IIa
+
+        A frozen iceball of a world, Leng is split between several 
+competing TEDs whose rule is guaranteed by their control of power
+generation facilities. The population live in isolated underground
+habitats, and rarely venture out onto the frigid surface.
+

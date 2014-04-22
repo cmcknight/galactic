@@ -1,0 +1,68 @@
+@SUB-SECTOR: Sarar   SECTOR: Antares
+#
+# Trade routes within the subsector
+#
+$1516 1816 1 0 11
+$1516 1216 0 0 11
+$1216 0917 0 0 11
+$1216 1115 0 0 11
+$1115 1012 0 0 11
+$1019 1121 0 1 11
+$1019 0917 0 0 11
+$1420 1323 0 1 11
+$1420 1518 0 0 11
+$1518 1816 1 0 11
+$1513 1713 1 0 11
+$1513 1313 0 0 11
+$1313 1012 0 0 11
+$1012 0714 -1 0 11
+$1012 1109 0 -1 11
+$0917 0616 -1 0 11
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Anlislea      0916 E787897-2    Ri                 404 Im 
+Adukar        0917 B230588-E  N Ni Po De           104 Im 
+Nagulimu      0918 C330321-B  S Lo Ni Po De        513 Im 
+Ru            1012 A110577-F    Ni                 103 Im 
+Niipar        1013 B9A787C-8    Fl                 614 Im 
+Nasseathin    1014 C868542-A  S Ag Ni              320 Im
+Jumuoleista   1015 A233676-C    Na Ni Po           313 Im 
+Shii          1017 C995210-7    Lo Ni              803 Im 
+Bayn          1018 C252530-7  S Ni Po              702 Im 
+Dolvijt       1019 A451575-F    Ni Po              602 Im
+Tertdoyn      1112 A9B8353-F    Lo Ni Fl           600 Im 
+Aalir         1113 B99A266-C  N Lo Ni Wa           205 Im 
+Sarar         1115 B57399C-D  S Hi In              800 Im 
+Lamwen        1116 B656234-B    Lo Ni              400 Im 
+Tekeb         1118 E674004-5    Lo Ni              301 Im 
+Engfoflak     1119 B6578AD-B  W                    220 Im 
+Grap          1120 C559455-B  S Ni                 803 Im 
+Alalimakhu    1211 EA7A576-9    Ni Wa              904 Im 
+Kani          1215 C56137C-5  S Lo Ni              602 Im 
+Inbali        1216 A110558-G    Ni                 421 Im 
+Amgager       1217 E210257-9    Lo Ni              224 Im 
+Shegur        1219 A00088C-F    Na As              110 Im 
+Aamikhiizam   1312 B79A457-9    Ni Wa              203 Im 
+Haunatpiy     1313 B442122-8  N Lo Ni Po           313 Im 
+Bijtboeamwa   1315 B1306B8-C    Na Ni Po De        400 Im
+Melpol        1316 E537652-6    Ni                 504 Im 
+Mekaparu      1317 C776655-9  S Ag Ni              103 Im
+Kukhupgeshu   1318 B9C5343-B    Lo Ni Fl        A  412 Im 
+Dogd          1412 E4419ED-A    Hi In Po           723 Im 
+Na            1413 C000552-B    Ni As              601 Im 
+Steindenik    1420 A402464-E  N Ni Va Ic           701 Im 
+Punawha       1511 B7B1476-8  N Ni Fl              613 Im 
+Wffath        1512 C7B4112-8    Lo Ni Fl           812 Im 
+Bikadgaba     1513 BAF9386-A  N Lo Ni Fl           804 Im 
+Mingishudi    1515 A474846-C                       800 Im 
+Ii            1516 A68A575-B  S Ni Wa              133 Im 
+Daka          1517 E672224-7    Lo Ni              310 Im 
+Erushnarin    1518 A410777-B    Na                 625 Im
+Ku            1519 A226446-C  N Ni                 600 Im 
+Em            1611 B550589-9  N Ni Po De           200 Im 
+Irguugikur    1616 B569203-B  N Lo Ni              311 Im 
+Namkuliiram   1617 B330488-B  N Ni Po De           401 Im 
+Undo          1618 C400875-B    Na Va              202 Im 
+Hake          1619 A2547B8-B    Ag                 525 Im 
+

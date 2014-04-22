@@ -1,0 +1,16 @@
+Overnale System Profile
+-----------------------
+
+Orbit   Name      Profile    Comments
+Sun                G3V       .98 mass, .96 luminosity 
+0                 YS00000-0  (Yr=28.6d)
+1       Belt      Y00011A-8
+2                 Y34031A-8  87.5C,  no native life, sulfur tainted
+                             atmosphere, 1 moon
+3.3    Overnale   B45467A-9 
+4                 Y737000-0
+5      Outer Belt Y000000-0
+6                 Small GG   2 moons
+7                 Large GG   8 moons
+8                 Large GG   5 moons
+

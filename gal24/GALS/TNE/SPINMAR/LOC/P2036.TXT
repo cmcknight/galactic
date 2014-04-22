@@ -1,0 +1,192 @@
+
+Glisten (Glisten:Spinward Marches/2036) / circa 1202
+Jeff Zeitlin (jeff.zeitlin@execnet.com)
+
+A000A86-F A Hi Na In As Cp 521Re K9V   (RISS 1202)
+g=1.0000 day=24:00:00.0; year=6094d 15:51:33.12/6094d 15:51:33.12
+atmo=1.0, controlled weather
+temp=+23 (0/lat +23 to +23) (season 0 to 0, 90 deg lat)
+daily temp range 0
+Ore, Rad, Crys; Met, NonMet; Parts, Dur, Cons; Rec, S/W, Doc
+Cons/Ind; UnAg/Neut; Har/Friend
+Legal 6-B7784, Tech FE-FEFEH-EEEG-FE-H
+
+Notes: Glisten uses Imperial Standard time measurements by fiat.
+       Local year is used for ephemeris calculations only.
+       Local temperature does vary to minor extent, but not by
+       intent, and not to significant degree.
+
+"Belters" are an independent bunch, and the fact that they may control
+the government of an entire system does not change this fundamental
+psychological attitude.  Glisten is a fine example of this.  Nominally,
+the government is run by a civil service bureaucracy, but in practice,
+a citizen of Glisten will avoid, ignore, or evade the bureaucracy
+whenever he can get away with it.  Bribery, called by various names, is
+not only not unusual, but in many areas it is an expected part of doing
+business.  I saw virtually no sign of bureaucracy during my visit, and
+would have chosen to call this government a "tempered functional
+anarchy" rather than a civil service bureaucracy.
+
+The anarchy begins at the starports, where the order of unloading and
+CHI (Customs/Health/Immigration) processing is theoretically governed
+by a list based on your class of ship and time of arrival at the port.
+In reality, the list is reprinted within an hour of any ship's arrival,
+based on how much "pull" a ship's captain (or shipowner's agent) has
+exerted on Arrival Control.  It's not hard to find out the realities
+versus the theoretical restrictions; a few minutes after passing a
+cursory CHI inspection, I chatted with a group of stevedors and Customs
+agents and found out that certain ships and shipping lines were given
+preferential treatment because they gave "preferential considerations"
+far above those offered by their competitors.  I was fortunate enough
+to come in on one of these lines, but I was asked not to say which one,
+as it could cause repercussions.  Once in Glisten (the idiom is "in
+Glisten" rather than "on Glisten" because virtually no construction is
+done on the exterior of the asteroids), however, the preferences are
+virtually public knowledge.  The same attitude extends to
+transportation.  Glisten has an unusual approach to transportation -
+private vehicles are for all intents and purposes non-existent, but the
+government operates no transportation facilities (other than
+maintaining the starports).  Instead, the government licenses private
+companies to operate "public" transportation.  Once the license is
+issued (with the process simplified by liberal amounts of
+"consultation"), the licensee pretty much determines what rates will be
+charged and what routes will be operated.  I was greeted by a virtual
+free-for-all at the transportation center; each company hires people to
+"steer" passengers their way, and attempts to peel a customer from a
+competitor's "redcap" are not unusual - and apparently, neither are the
+resulting fistfights.  Glisten does maintain a police force, but their
+function seems to be limited to making sure that innocent bystanders
+don't get injured in these situations.  The customer is not considered
+an innocent bystander, and neither is any bystander that voluntarily
+enters the fray.
+
+There are at least six companies that provide (read: sell) tourist
+information; no two of them agree on anything but the names of the
+streets in the city, and the locations of government offices and major
+tourist attractions.  Each company has a preferred set of restaurants,
+hotels, and various other service providers, and while there is some
+overlap, no two lists are identical.  All of the restaurants and
+service providers that I tried were quite acceptable, and provided
+good value.  The hotel I stayed at was a pleasant place to stay at a
+good price, and a quick visit to the others to look around seemed to
+indicate comparable accommodations.  You will most likely do well at
+any one of the choices; I'd recommend that you look at three or four
+before deciding, and choose the one whose ambiance most suits you.
+
+There are a number of tourist attractions that should be placed on your
+"must-see" list:
+
+        1) the CourtArena.  This is where court cases are tried, and
+           the local system of justice is quite interesting (and worth
+           a separate RICE paper).  All I will say about it here is
+           that there is de facto no distinction between civil and
+           criminal justice as there is on most other worlds, and that
+           watching a trial is an experience in itself.
+
+        2) the Swim Center.  One of the public sport and exercise
+           facilities, this one is dedicated to aquatic pursuits.  The
+           center of the (small) asteroid that this is located in is
+           hollow, and very large.  The entire asteroid is kept in
+           zero-g, and the water is not contained in any way - you
+           leave the locker room and enter the "pool", and you see a
+           huge sphere of water hanging in front of you.  Caution is
+           recommended whe swimming; there is no natural tendency to
+           "rise" to the surface, as there is no internal gravitational
+           gradient.  Note to those from cultures with various body
+           taboos - swimsuits of any sort are strictly optional.
+
+        3) the Flight Center.  Similar to the Swim Center, except that
+           a small gravitational gradient is maintained, to provide a
+           sense of up and down, and there is no water.  Participants
+           do wear "wings" and "tailfeathers", and lessons are
+           available at low cost.  As exercise, it is at least as good
+           as swimming, and many find it more exhilirating.  Those who
+           suffer from disorientation in zero-g should come here,
+           rather than the swim center.  Except for the wings and
+           tailfeathers, costume is optional, although a very popular
+           mode of dress is a tight body stocking, to reduce air
+           resistance.  Wings and tailfeathers are usually decorated in
+           varied patterns and colors, and the body stocking, when
+           worn, can be equally colorful, in either complementary or
+           clashing colors and patterns.  One deluxe rig that I saw was
+           generic spacesuit grey, wings and body stocking both, until
+           the wearer became airborne.  He then switched on a
+           holographic generator, and actually appeared as a large
+           bird, whose species I didn't recognize (he said later that
+           it was a "roc", from Terran mythology dating back to "a
+           couple of thousand years before space flight").
+
+        4) the Museum of the Ancients.  Glisten itself was not an
+           Ancient site that we know of, but they have nevertheless
+           amassed a very complete collection of reproductions of
+           Ancient artifacts, and a great deal of supplementary
+           information.  The exhibits are quite fascinating, and quite
+           educational.
+
+The people of Glisten are in general a friendly bunch; the tourist who
+gets lost will quickly be offered assistance, and the tourist who asks
+for a recommendation for a restaurant or a hotel will get many.  Food
+in Glisten runs to intense flavors, with extremely spicy food being
+quite common.  On a visit to one of the outlying asteroids, I was a
+guest of one of the local residents, and invited to a dinner party that
+she was giving.  I found out the hard way that such dinner parties are
+attempts by one person to outdo the neighbors in creating dishes so
+spicy as to cause actual pain, and that it is a point of honor to
+consume such dishes without showing outward sign of discomfort.  Much
+as I like spicy food, I cannot recommend this pastime to anyone - not
+even Glistenites (suffice it to say that I did not finish that dinner
+with my gastonomic honor intact).  Asteroid construction being what it
+is, there is not a lot of ability to have one's residence express one's
+personality from outside, so most people don't try.  Instead, they
+express their individuality in their styles of dress - ranging from
+nothing but cosmetics all the way up to multiple layers of clothing in
+colors and patterns and styles carefully chosen to draw attention,
+sometimes in combinations that even a Vargr might find in questionable
+taste.
+
+Doing business in Glisten is theoretically governed by a thick book of
+regulations that every business is required to have accessible to the
+customers.  In reality, most of the regulations are ignored or
+circumvented, and caveat emptor is an important part of business
+dealings.  Almost anything is claimed to be available for sale, and
+most of it actually is available.  A surprise was the presence of the
+Corridor advanced-technology corporation "G"; in addition to a sales
+outlet, they do some research locally.  This is the source of the "G"
+and "H" codes in the technical profile.  It also enhances the
+availability of low cost tech E and F goods of all types, allowing
+Glisten to maintain its position as one of the leading shipyards in the
+Spinward Marches.
+
+The arrival of (and nominal conquest by, and subsequent putative
+expulsion of) the Aslan New Lords has not reined in the natural
+tendencies of Glistenites.  Indeed, some Aslan customs have been
+adopted and adapted to Glistenite culture.  Duels of honor, formerly
+treated as a private matter between the two parties, have become much
+more public and ritualized, and many Aslan that I spoke to asserted
+that the Glistenites are the only "fiyfiyalr" that truly understand the
+ritual of the duel.  A few even claimed that Glistenites have raised
+the art to levels beyond those achieved by all but a very few legendary
+Aslan duellists.  Another Aslan custom, that of "Assassination" has
+also been adopted, and integrated with the duelling custom.  When Aslan
+embark on an assassination, the objective is the death of the target.
+Glistenites have instead made it a campaign to embarrass the target, to
+provoke a duel, thus providing more entertainment for a longer period
+of time.  Aslan reaction to this adaptaion of their customs has been
+mixed, and their social scientists (and human social scientists as
+well) are watching this development carefully.
+
+Aslan and Human mix freely in Glisten, and it is not unusual to see the
+younger Aslan adopting Human customs or modes of dress, though in a
+distinctly Aslan manner.  Aslan business concerns compete on an equal
+footing with human concerns, making Glisten a shining example of just
+how well the two species can get along, if both sides make an effort.
+The local humans pay lip service to the Aslan males' claims of land
+ownership, and the Aslan females provide the males with the _real_
+products of land ownership, economic power that provides prestige.  By
+doing so in cooperation with the human society there, rather than
+attempting to build economic power based strictly on Aslan models, they
+achieve results far beyond the expectations of the leaders of the
+ihatei expeditions.  It can be expected that these revelations will
+cause as much change to the Aslan ihatei colonies as they will to the
+human societies that they have conquered.
+

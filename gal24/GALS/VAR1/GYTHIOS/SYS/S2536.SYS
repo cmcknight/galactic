@@ -1,0 +1,14 @@
+#        1         2         3         4         5         6         7
+#234567890123456789012345678901234567890123456789012345678901234567890123456789
+#-OSC-ExEy-Deg-M Name             Comments                  Attachment
+System Name: Antioch
+Primary:
+0--6O            Antioch A        G5: Yellow Main Sequence
+1-H0A-5010-351-0 Belt 1           Asteroid Belt
+2-E1I-5010-290-0 Antioch 1        Planetoid
+3-K3E-5010-183-0 Antioch 2        Primordial                ..\hex\p2536.hex
+4-B4M-5010-120-B Antioch 3        Gas Giant
+5-B3G-5010-319-0 Antioch 4        Barren World
+6-B4M-5010-267-4 Antioch 5        Gas Giant
+7-H0A-5010-191-0 Belt 2           Asteroid Belt
+8-B1I-5010-074-0 Antioch 6        Planetoid

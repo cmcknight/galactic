@@ -1,0 +1,84 @@
+@SUB-SECTOR: sec_E   SECTOR: beyond.sec
+#
+#Trade Routes
+$0112 2311 -1 0
+$0112 0114 0 0
+$0114 0215 0 0
+$0215 0315 0 0
+$0315 0413 0 0
+$0315 0515 0 0
+$0315 0516 0 0
+$0315 0316 0 0
+$0411 0512 0 0
+$0512 0612 0 0
+$0612 0712 0 0
+$0712 0811 0 0
+$0612 0613 0 0
+$0613 0714 0 0
+$0714 0715 0 0
+$0515 0615 0 0
+$0715 0615 0 0
+$0615 0616 0 0
+$0615 0815 0 0
+$0815 0915 1 0
+$0217 2317 -1 0
+$0217 0218 0 0
+$0218 0119 0 0
+$0217 0417 0 0
+$0316 0416 0 0
+$0416 0417 0 0
+$0417 0518 0 0
+$0518 0617 0 0
+$0518 0519 0 0
+$0519 0619 0 0
+$0619 0719 0 0
+$0719 0818 0 0
+$0519 0520 0 0
+$0520 0421 0 1
+$0619 0721 0 1
+$0811 0810 0 -1
+$0411 0410 0 -1
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Nehwon        0111 D866970-0  S                    1   Na     f
+G'Henna       0112 B5487F6-A  N Na                 3   Es
+Al Mushtar    0114 B869363-8  S Ni                 2   Es
+Sha'anoe      0119 B8637E8-B  N                    1   Na     f
+Greater Enigma0212 E884212-7    Ni                 5   Na
+Z'chmel       0213 D5596FA-0  S Ni                 6   Es
+Dorsai        0215 A9684F4-D  T Na Ni              5   Na
+Ani yun'Wiya  0216 C8A66E4-0    Ni                 8   Na
+Qat           0217 C541644-5    Ni Po              1   Na     f
+Innuit        0218 B9779CD-7  A Na In              2   Na
+Chicomecoatl  0312 D333322-9    Ni Po              7   Na
+Intercourse   0315 A864996-A  2 Ca                 5   Na     f
+The Dunes     0316 B3408B9-9    Na                 4   Na     f
+Enigma        0319 E664212-7    Ni                 2   Na
+Xochiquetzal  0411 C742300-5    Ni Po           A  7   Na
+Paradise      0413 C6642DF-G    Ni                 9   Na
+Do'or Noobt   0416 B679210-9  N Na Ni              5   Na
+Aytch Pe'el   0417 A688463-9  N Na Ni              1   Na
+Rama          0418 X0VVVVV-V    Ri Re           R  7   Na     f
+Tezcatlipoca  0512 D548220-7    Na Ni           A  4   Na
+Cthulhu       0515 B310655-B    Na Ni              5   Na
+Nacirema      0516 C876972-5    Na                 5   Na
+Nyarlathotep  0517 C125578-8    Ni                 2   Na
+Corrigan's Re.0518 A101686-D    Na Ni              3   Na     f
+Xanadu        0519 A767460-C    Ni                 1   Na     f
+Eire          0520 B454767-9    Ag              A  6   Na     f
+Huitzlpochtli 0612 A7689C7-E  2 Na                 2   Na
+Merde         0613 E9C5170-C    Ni                 9   Na
+Tindalos      0615 A866A8C-7                       1   Na
+K'melot       0616 B5679BA-6    Na                 4   Na
+Valhalla      0617 B963828-A                       3   Na
+Norstrilia    0619 A862903-G                    R  8   Na     f
+Calmecac      0712 B876414-B  N Ni                 7   Na
+Gor           0714 E8679E7-3                       3   Na     f
+Lesser Enigma 0715 E454212-7    Ni                 7   Na
+Kadath        0719 A320866-B    Na Po              3   Na     f
+Cihuacoatl    0811 B389563-8  S Na Ni              1   Na
+Azathoth      0815 B544304-A    Ni                 1   Na
+Siva          0816 C965521-G  S Ag Ni           A  3   Na     f
+Pleiades II   0818 A00266B-E    Na Ni              8   Na     f

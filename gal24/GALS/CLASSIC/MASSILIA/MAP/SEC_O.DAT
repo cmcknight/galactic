@@ -1,0 +1,52 @@
+@SUB-SECTOR: sec_O   SECTOR: massilia
+#
+# Trade routes within the subsector
+$2238 2540 1 0
+$2238 1701 0 1
+$2238 2234 0 0
+$2238 1835 0 0
+$1835 1533 -1 0
+$1835 1436 -1 0
+$1731 1630 -1 -1
+$1731 2130 0 -1
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Myimpia       1731 B784202-B  A Ni Lo              222 Li
+Gilkla        1733 B475677-B    Ni Ag              903 Ma
+Kasenca       1740 B7A6433-C  N Ni Fl              213 Li
+Daven         1831 B100695-C    Ni Va Na           613 Ma
+Broo          1832 B541043-9  N Ni Po Lo           825 Ma
+Earthstone    1833 C775452-B  S Ni              A  520 Ma
+Mitt          1834 D96A776-7  S Ri Wa              802 Ma
+Waize         1835 A9A7663-D    Ni Fl              301 Ma
+Rattu         1837 B352675-C  S Ni Po              323 Ma
+Simmersong    1931 C478344-A    Ni Lo           A  304 Ma
+Danmoire      1936 D331758-A    Po Na           A  920 Ma
+Merold        1938 B110446-D    Ni                 301 Ma
+Arka          1940 A798545-D    Ni Ag              922 Ma
+Umbia         2031 B8D48B9-B    Fl                 304 Ma
+Devan         2032 C97789A-7                       313 Ma
+Sempir        2037 D484454-8    Ni                 312 Ma
+Shimmer       2039 B9A1737-B    Fl                 922 Ma
+Sroos         2040 B876332-B    Ni Lo           A  802 Ma
+Honatty       2132 C545851-A                       104 Ma
+Landing       2135 B75758D-A    Ni Ag              304 Ma
+Enbrie        2136 B4738CH-C                       313 Ma
+Santaw        2138 B263552-C    Ni                 104 Ma
+Damz          2139 B355585-B    Ni Ag              804 Ma
+Nituu         2231 E100877-A    Va Na              405 Ma
+Halfway       2233 B533699-C    Ni Po Na           410 Ma
+Norfriboah    2234 A646785-C    Ag                 122 Ma
+Virim         2237 A553568-E    Ni Po              713 Ma
+Binsarah      2238 A636415-E    Ni                 302 Ma
+Ferring       2331 E200652-8    Ni Va Na           613 Ma
+Lybo          2334 C545373-A    Ni Lo              425 Ma
+Nanonlin      2335 B8866A6-9    Ni Ag              814 Ma
+Todkar        2336 B53A543-E  N Ni Wa              704 Ma
+Luri          2340 B55698D-D  N Hi Cp           A  913 Ma
+Shanmos       2433 D100311-9    Ni Va Lo           414 Ma
+Nyroah        2435 C76366B-8    Ni Ri              502 Ma
+Skillern      2439 B646885-9  N                    703 Ma
+Rington       2440 B443222-B  N Ni Po Lo           124 Ma

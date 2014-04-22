@@ -1,0 +1,56 @@
+
+Notes on tcsync.bas
+-------------------
+
+While developing Vlanchiets Qlom (all Zhodani Territory Coreward of
+Chtierabl) and the Zhodani Core Route for Galactic, Cliff Linehan
+<cnl.rubicon@juno.com> wrote me in July 2000 requesting a subprogram
+which would allow him to sync all the trade codes for an entire
+subsector at once:
+
+>I am doing some massive editing of subsectors and editing the .dat
+>files directly and the trade codes don't get updated. At this point
+>the only way to synchronize the trade codes is to place the cursor
+>on each world and press F3, F2, and Insert. This is tedious and I
+>have given up synchronizing the trade codes at this time. Having a
+>key sequence to synchronize the trade codes in an entire subsector
+>at one time would help during massive editing.
+
+I drooled on the idea for a few weeks, then finally wrote this
+subprogram (sub\tcsync.bas) the following month. The idea here is
+that you can "sync" all the trade codes for an entire sector or
+individual subsector all at once, and tcsync will inform you of what
+it is going to do before it does it. That way you have a chance to
+back out if you don't like the proposed changes.
+
+This is important, because some folks use a highly variant system
+for describing their worlds, doing extensive modifications on the
+uwp.dat file for their galaxy or particular sector. This subprogram
+is weak in the sense that it doesn't deal well with variant UWP
+formats. It assumes that you're pretty much doing things either by
+the official method or by galactic's alternate "homebrew" method for
+sector generation. The program is also weak in the sense that it
+will try to delete trade codes which do not get automatically
+generated during sector generation but which get added later as
+notes. Here are some examples of what I'm taking about:
+
+     An = Archeological Site
+     Cp = Subsector Capital
+     Cx = Sector/Regional Capital
+     Ex = Exile Camp
+     Mr = Military Rule
+     Pr = Prison Camp
+     Rs = Research Station
+     Xb = Xboat Station
+
+Likewise, any trade code data which indicates percentages of racial
+type (such as is common with worlds which are part-Droyne or part-
+Chirper) will be lost. All of this means that this subprogram should
+be used sparingly and only in circumstances where you are fairly
+certain that you know what you're doing.
+
+Feel free to holler if you have any questions or comments...
+
+Jim Vassilakos
+jimvassila@aol.com
+

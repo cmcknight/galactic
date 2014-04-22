@@ -1,0 +1,38 @@
+@SUB-SECTOR: sec_m   SECTOR: Spica
+# 
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Nelson        0135 A552554-9  G Ni Po              904 So
+Bestine       0136 B8C6546-9    Fl Ni              624 So
+Luxor         0231 B4367A9-B  G                    902 So
+Iodinium      0234 D79A410-8    Lo Ni Wa           325 So
+Pyrolysia     0238 A7B0269-C  G Lo Ni De O:0634    123 So
+Keepout       0240 X7579BD-1    Hi Tp           R  404 So
+Bassett       0332 B501446-9    Lo Ni Va Ic        212 So
+McFarland     0333 B459242-A    Lo Ni              100 So
+La Junta      0334 B221858-9    Na Po              801 So
+Port Burnaby  0337 C400100-8    Lo Ni Va           305 So
+Xanadu        0338 E6688C7-4    Tp                 703 So
+Diln          0339 E00099C-B    Na Hi In As        404 So
+Kestral       0431 B89A775-B    Wa                 300 So
+Massaro       0432 C6558CB-8    Tp                 704 So
+Purdee        0435 B552100-A    Lo Ni Po           110 So
+Cravity       0437 C211599-7    Ni Ic              314 So
+File          0439 C13099A-D    Na Hi Po De        503 So
+Solido        0536 B261884-7    Ri                 110 So
+Mikado        0539 A662889-8  G Ri                 702 So
+Longstreet    0631 C221423-B    Lo Ni Po           105 So
+Trilion       0634 A8C498B-F  G Fl Hi Cx           312 So
+Jedson        0635 E31137A-8    Lo Ni Ic           700 So
+Davis         0639 B440555-D    Ni Po De           204 So
+Harmaline     0731 A6A2359-E    Fl Lo Ni           813 So
+Caloris       0733 A450320-C    Lo Ni Po De        800 So
+Ion Atoll     0739 D87A410-9    Lo Ni Wa           112 So
+Blood Orchard 0831 C7B6410-B    Fl Lo Ni           301 So
+Alaarum       0832 E531445-6    Lo Ni Po           803 So
+Pagoda        0834 X8577CA-1    Ag Tp           R  500 So
+Dxymyx Cafr   0835 D99668A-1    Ag Ni Tp           403 So
+Fairlane      0838 E520588-8    Ni Po De           404 So
+Langford      0840 A555340-9    Lo Ni              313 So

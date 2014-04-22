@@ -1,0 +1,30 @@
+@SUB-SECTOR: sec_a   SECTOR: solrim
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Yenisei       0931 X113000-0    Ba Ic              010 Un        
+Delta Eridani 0938 X000000-0    Ba As              002 Un
+Chrysolite    1032 B54778B-A    Ag                 811 Na
+Twylo         1034 E5518RA-3    Po              B  203 Wi
+Poictesme     1035 E4688R7-6                       601 Wi
+Tarsus        1136 X7858R9-4                    B  903 Wi
+Haddad        1137 X47A000-0    Ba Wa              022 Wi
+Labrys        1140 X9766N0-8    Ag Ni           B  305 Wi
+Luuru         1234 X9B7000-0    Fl Ba              020 Un
+Aeneas        1237 X438000-0    Ba                 033 Un
+Hibernia      1239 X647300-5    Lo Ni              714 Wi
+Mirabilis     1332 C453764-7  O Po                 705 TR     f
+Sequoyah      1337 X4878RC-3                    B  202 Wi
+Aegir         1339 C76A859-8    Wa Ri           B  502 Na
+Dirac         1340 X522000-0    Ba                 003 Un
+Teucer        1435 X7599RE-3    Hi              B  102 Wi
+Saxe          1437 X7639RC-2    Hi              B  421 Wi
+Aquitaine     1439 C887942-8    Hi                 205 Na
+Capella       1440 X000000-0    Ba As              023 Un
+Sarpedon      1533 E312163-8    Lo Ic Ni Cm        701 TR
+Polyphemus    1537 X3587RB-6    Ag              B  314 Wi
+Vantage       1538 X8DA310-0    Lo Ni Wa           534 Wi     f
+Vyborg        1540 E7558R9-6                    B  121 Wi
+Baraka        1636 X4567R6-4    Ag                 814 Wi
+Krokinole     1637 X211000-0    Ba Ic              013 Wi

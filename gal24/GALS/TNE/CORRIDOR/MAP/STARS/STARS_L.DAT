@@ -1,0 +1,13 @@
+@SUB-SECTOR: stars_L   SECTOR: corridor
+#
+# Trade routes within the subsector
+#
+#--------1---------2---------3
+#PlanetName   Loc. Stars(s)
+#----------   ---- ---------
+Tucker        2930 K3 V
+Betters       3030 K1 V M2 V M2 V
+Kiru          3129 F5 V
+Uiolksdah     3225 M1 V
+Center        3229 M6 II
+Emm           3230 M7 V

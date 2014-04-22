@@ -1,0 +1,35 @@
+@SUB-SECTOR: sec_H   SECTOR: 3war_st
+#
+# Trade routes within the subsector
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Dipuska       2513 D662614-5    Ni                 620 Zs
+Dakhamim      2514 B366752-A    Ag Ri              213 Zs
+Iimdimi       2516 E8C8000-0    Ba Fl Lo Ni        023 Zu
+Didig         2517 D344314-6    Lo Ni              402 Zs
+Ganesh        2518 D766958-5    Hi                 710 Zs
+Mimiis        2612 E200000-0    Ba Lo Ni Va        012 Zu
+Imkhammash    2617 A255552-B  N Ag Ni              413 Zs
+Garrirk       2618 C568358-8    Lo Ni              701 Zs
+Khugi         2713 E000000-0    As Ba Lo Ni        020 Zu
+Pinnashdug    2714 E478112-5    Lo Ni              922 Zs
+Idarmaa       2720 E000000-0    As Ba Lo Ni        023 Zu
+Nisinasha     2812 E9EA000-0    Ba Fl Lo Ni Wa     004 Zu
+Immir         2816 E000000-0    As Ba Lo Ni        002 Zu
+Aqilat        2820 E000000-0    As Ba Lo Ni        011 Zu
+Lamarer       2911 D479442-2    Ni                 534 Zs
+Nupigulugi    2912 EAC7000-0    Ba Fl Lo Ni        022 Zu
+Lakishur      2913 E441000-0    Ba Lo Ni Po        002 Zu
+Gudugpul      2915 B37389C-9  N                    610 Zs
+Ipgeka        2918 D38A234-7    Lo Ni Wa           902 Zs
+Gishiidgar    2920 E653000-0    Ba Lo Ni Po        023 Zu
+Ura           3011 E514000-0    Ba Ic Lo Ni        005 Zu
+Uku           3015 E636000-0    Ba Lo Ni           013 Zu
+Alishar       3017 E8D8000-0    Ba Fl Lo Ni        015 Zu
+Sashingun     3113 C653755-9    Po                 320 Zs
+Bakanuni      3213 A6658AB-9                       404 Zs
+Irsisam       3217 E222000-0    Ba Lo Ni Po        002 Zu
+Lakamsal      3218 E5457B9-7    Ag                 804 Zs
+Sheshla       3219 D521323-7    Lo Ni Po           100 Zs

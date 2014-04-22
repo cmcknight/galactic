@@ -1,0 +1,29 @@
+   
+System Information
+
+Orbit  Name            UPP              Orbit        UPP
+----------------------------------------------------------------
+     Primary           K1 V
+  0   Hot Belt      Planetoid Belt
+  1   Gragfta          SGG
+      Bracton                             4          X-S00000-0
+      Xavfor                              7          X-S00000-0
+      Lexot                              40          X-100000-0
+  2   Hexos         X-534000-0
+  3   Yavin            LGG
+      Inner Ring                          2          X-R00000-0
+      Rovwal                              4          X-400000-0
+      Querntal                            8          X-562000-0
+      Flofta                              9          X-S00000-0
+      Boghtop                            13          X-710000-0
+      Serton                             35          X-300000-0
+      Folo                               50          X-400000-0
+  4   Cold Belt     Planetoid Belt
+  5   Wongal           LGG                3          X-300000-0
+      Smalt                               4          X-834000-0
+      Tlot                                6          X-S00000-0
+      Yongtal                             8          X-100000-0
+      Slofto                              9          X-750000-0
+      Oot                                12          X-434000-0
+  45 Secondary      M2 White Dwarf
+

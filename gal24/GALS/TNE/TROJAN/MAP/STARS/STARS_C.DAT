@@ -1,0 +1,23 @@
+@SUB-SECTOR: stars_C   SECTOR: trojan
+#
+# Trade routes within the subsector
+#
+#--------1---------2---------3
+#PlanetName   Loc. Stars(s)
+#----------   ---- ---------
+Candia        1801 M2 V M7 V
+Kydde         1810 F2 V
+Bantral       1906 F5 V
+Kryslion      2002 F6 V
+Orsasch       2008 F1 V
+Cyan          2102 F6 V M7 V
+Berengaria    2105 F7 V
+Senlis        2108 F6 V
+Doradon       2202 F3 V
+Perrior       2203 G2 V
+Pax Rulin     2204 M8 III
+Rhysk         2304 M1 V M4 V
+Caraz         2306 F7 V M5 V
+Magen         2309 F9 V
+Islent        2402 A4 V
+Alexin        2405 F5 V

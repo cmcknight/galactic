@@ -1,0 +1,32 @@
+Sylva     C47956A-C       Ni                           -- Dakin Burdick (9/96)
+
+Sylva is a puppet planet ruled by Landgrebe, under the excuse that Sylva
+would be unable to protect itself from Icenogle, should that system
+attempt to expand its realm of influence.  Landgrebe claims that they
+run democratic elections on Sylva, but unpopular conservative puppets of
+Landgrebe win all such elections.  There are occasional terrorist attacks
+on the occupying forces of Landgrebe, usually by small groups like the
+PRA (People's Republican Army) or CFS (Citizens for Free Sylva).
+
+Travellers should be wary of possible attack, but really such incidents 
+are rare and almost always aimed at the Landgrebe military, not at
+tourists.  Among the sights of Sylva is the rising of the Raaqua, an
+annual event where the 6 kg. Raaqua (a minor sentient race) ascends
+to the upper atmosphere of Sylva to mate.  In the last fifty years, the
+Raaqua have been afflicted by a disease that eliminates gas production,
+and their numbers have dwindled as they are unable to reach the heights
+needed for successful breeding.  The Raaqua Conservation League have now
+had some success with building small plastic gas cylinders for use by
+the Raaqua.  The Raaqua take all this in stride, as they do not believe 
+that the universe truly exists, and that life is therefore merely a game.
+Some Raaqua take positions on starships, where they serve as excellent 
+medics and fair engineer's assistants.  They adapt easily to a zero-g
+environment, where they shoot themselves along by a noisy expulsion of
+gas, but their existentialism often wears upon human comrades and drives
+Aslan shipmates into a homicidal rage.  Since the Raaqua have no natural
+weapons to speak off, their numbers diminish both in space and on their
+homeworld.
+
+Stats for Raaqua Player Characters
+  ST:1d6 DX:2d6+3  EN:1d6  IN:2d6  ED:1d6  SO:1d6  
+

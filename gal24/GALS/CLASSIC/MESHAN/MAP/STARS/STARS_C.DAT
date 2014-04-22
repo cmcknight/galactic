@@ -1,0 +1,35 @@
+@SUB-SECTOR: stars_C   SECTOR: meshan
+#
+# Trade routes within the subsector
+#
+#--------1---------2---------3
+#PlanetName   Loc. Stars(s)
+#----------   ---- ---------
+Ngollogzou    1703 F5 D
+Tibushi       1704 F5 V
+Khongeks      1706 F4 V
+Oungrrarr     1707 F1 V
+Lorgo         1710 F6 V
+Tufae         1801 F5 V M7 D M0 D
+Arrkfan       1803 M7 V
+Oungaenogh    1809 F9 V
+Rrongaerrg    1901 M7 V
+Ansana        1903 K3 V
+Uegthoeke     1906 F4 V
+Thaegz        1908 F1 V
+Inudak        2001 M1 D
+Urrall        2007 F8 V
+Azgul Kou     2008 F5 D M6 D
+Ennaekhs      2102 M1 V
+Rrotoe        2104 F7 V
+Kughurr       2105 M9 V M1 D
+Ozullnoz      2107 F9 V
+Aerro         2108 M0 V
+Oezoethun     2205 M9 V
+Kanogo        2209 M9 V M6 D M9 D
+Aghodoun      2210 F5 D
+Kursuz        2302 F9 V M8 D
+Uerrursors    2305 G9 D M7 D
+Alunag        2310 K5 V M9 D
+Enanin        2403 K1 V
+Khikollang    2406 F8 D M1 D

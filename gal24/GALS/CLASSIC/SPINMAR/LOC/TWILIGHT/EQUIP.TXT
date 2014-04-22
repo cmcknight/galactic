@@ -1,0 +1,37 @@
+   
+  Equipment
+  ---------
+   
+   The characters have the listed weaponry. All projectile weapons
+   include ten loaded magazines. All energy weapons include one power
+   pack. Non weaponry or weaponry related items may be purchased and paid
+   for before play starts.
+   
+   The ship's locker contains the following items:
+     * eight Vacc Suits, each including two oxygen tanks with a capacity
+       of four hours each (eight hours total) and medium range
+       communication gear.
+     * four Carbines, each with ten loaded magazines (100 rounds).
+     * two Automatic Pistols, each with ten magazines (150 rounds).
+     * four Cutlasses, each with a belt scabbard.
+     * 100m synthetic rope, 1mm thick (holds 1 ton)
+     * three survival knives
+     * four hand held flash lights (rechargable)
+     * eighty vacc suit patches
+     * ten doses medical fast drug (and antidote)
+   
+   The ship mounts a dorsal double pulse laser turret on its spine.
+   
+   The ship's air raft has been replaced by an ATV. The ATV is fitted
+   with an externally mounted long range fuel bladder and it also mounts
+   a solar panel based power backup. The ATV is capable of unlimited
+   endurance provided a light source is maintained. The ATV's life
+   support system is capable of continuous operation for a minimum of
+   least six weeks. The ATV mounts a single pulse laser turret, power for
+   the turret can only be provided by the on board fusion power plant.
+   
+   The Asp's GSbAG Model 317 Pressurised Shelter has already been gutted
+   by Bob to provide limited life support to the engineering sections of
+   the Asp while he makes the necessary emergency repairs to the power
+   plant and jump drive.
+

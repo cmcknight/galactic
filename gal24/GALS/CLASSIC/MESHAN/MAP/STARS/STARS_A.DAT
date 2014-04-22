@@ -1,0 +1,20 @@
+@SUB-SECTOR: stars_A   SECTOR: meshan
+#
+# Trade routes within the subsector
+#
+#--------1---------2---------3
+#PlanetName   Loc. Stars(s)
+#----------   ---- ---------
+Ragdo         0210 F6 V
+Aengdan       0310 M4 V
+Razfa         0409 G2 D
+Gzurrgho      0410 G8 V M9 D
+Thougzaerrg   0506 K5 V
+Llegza        0508 F7 D
+Kikhtats      0604 F8 D M1 D M0 D
+Kongghoth     0609 F2 V M2 D
+Dhedhate      0706 K0 II M4 D
+Zaelan        0707 G6 V M7 D
+Suekhsaer     0804 K6 D M3 D
+Gzallezue     0807 F0 D M4 D
+Zuzodh        0808 M6 V M8 D

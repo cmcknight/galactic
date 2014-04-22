@@ -1,0 +1,51 @@
+@SUB-SECTOR: sec_P   SECTOR: gush
+#
+# Trade routes within the subsector
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Yntulk        2532 E889896-4    Ri                 124 Im
+Sers          2536 A140546-C    Ni Po De           812 Im
+Stallfe       2537 B986457-A    Ni                 924 Im
+Thulm         2538 D87A037-4  S Lo Ni Wa           503 Im
+Hate          2539 D9888CB-8  S                    704 Im
+Temes         2540 X649832-3                    R  803 Im
+Croft         2632 C3507AC-A    Po De              502 Im
+Pequan        2633 E543235-7    Lo Ni Po           610 Im
+Katsue        2634 E336524-7    Ni                 303 Im
+Darkaoul      2637 A425530-F    Ni                 910 Im
+Tudjman       2639 E687685-7    Ag Ni Ri           700 Im     f
+Khossfoy      2732 X130345-6    Lo Ni Po De     R  822 Im
+Traynor       2734 C234520-8  S Ni                 813 Im
+Moy           2735 A758878-B                       114 Im     m
+Chechen       2737 C5A7110-A    C0 Lo Ni Fl        822 Im
+Khalun        2738 X321354-8    Lo Ni Po        R  204 Im
+Iishli        2740 A888452-F    Ni                 713 Im
+Abact         2831 E672868-5                       804 Im
+Grebele       2833 C140423-A  S Ni Po De           505 Im
+Drigelm       2834 D6668CC-3                       213 Im
+Muugegdan     2835 C424757-D  S                    403 Im
+Rashiidaa     2837 B380445-B    Ni De              514 Im     f
+Trauch        2838 D783387-9  S Lo Ni              602 Im
+Kadar         2839 A442948-F    Hi In Po Cp        620 Im     m
+Odinga        2840 D231552-7  S Ni Po              804 Im
+Kikuyu        2931 E789774-4    Ri                 704 Im
+Eralt         2937 CAB8410-8  S Ni Fl              703 Im     f
+Azwhew        2938 C477100-9  S Lo Ni              400 Im
+Ann           2939 C873431-7  S Ni                 403 Im
+Teghde        3031 E160475-8    Ni De              813 Im     m
+Sabhaash      3033 C665134-9  S Lo Ni              702 Im
+Ukham         3034 E110485-B    Ni                 623 Im
+Taleoo        3035 B957866-B                       803 Im
+Kieaasu       3038 D667103-A  S Lo Ni              720 Im
+Uskent        3039 C55A002-C    Lo Ni Wa           400 Im     f
+Leant         3131 E763872-6    Ri                 530 Im
+As On As      3137 A766611-D    Ag Ni              700 Im     f
+Enturtepra    3139 D8A9100-A  S Lo Ni Fl           203 Im
+Ladi          3140 B43279D-E    Na Po              903 Im     f
+Staya         3231 C200241-B    Lo Ni Va           110 Im
+Ikaak         3235 D434412-8  S Ni                 810 Im
+Fadia         3236 C596014-7  S Lo Ni              115 Im
+Revd          3237 D988774-7  S Ag Ri              720 Im
+Haiwhou       3240 A332630-D  N Na Ni Po           804 Im

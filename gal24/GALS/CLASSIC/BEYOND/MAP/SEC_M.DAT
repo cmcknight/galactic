@@ -1,0 +1,51 @@
+@SUB-SECTOR: sec_M   SECTOR: beyond.sec
+#
+# Trade routes within the subsector
+$0332 0432 0 0
+$0834 0836 0 0
+$0834 1034 1 0
+$0134 2433 -1 0
+$0134 0235 0 0
+$0235 0335 0 0
+$0335 0435 0 0
+$0235 0236 0 0
+$0236 0137 0 0
+$0137 0238 0 0
+$0238 0338 0 0
+$0338 0538 0 0
+$0538 0539 0 0
+$0539 0640 0 0
+$0640 0641 0 1
+$0640 0740 0 0
+$0831 0830 0 -1
+$0531 0630 0 -1
+$0731 0830 0 -1
+$0732 0830 0 -1
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Yetinal       0134 E878100-2    Na Ni              1   As
+Nuit Rouge    0137 A548200-4  S Ni                 7   As     f
+Hostel        0235 A484110-5  N Ni                 8   As
+Trend         0236 B562489-9    Ni                 3   As
+11 Gamma Chi  0238 B844886-6  S                    7   Na
+Albazar       0332 AAA9A2F-B  I                    4   Na     f
+Novak's Drift 0335 A967435-9  2 Ca                 8   Na     f
+Gonzo         0337 XB64000-2                    R  0   Na     f
+Eromnek       0338 B4025A9-8    Na Ni              7   As
+D. Cephei Base0432 B85232D-A  I Ni Po              4   Na     f
+New Luna      0435 B866855-7    Ri                 1   As     f
+Zydoqir       0531 C8707A7-6    Na                 4   Zc
+Masada        0538 A544206-9    Ni                 4   Na
+Refuge        0539 A9668C7-A  N                    7   Na     f
+Zydexnar      0631 D987709-7    Ag                 3   Zc     f
+Warwick       0640 B776774-7    Ag              A  8   Na     f
+Zydhaes       0731 B533761-9    Na Po              2   Zc
+Zydnubb       0732 C9B7620-5    Na Ni              6   Zc
+Appropos      0740 B976753-9    Ag                 9   Na     f
+Zydmaln       0831 B8668C7-6                       3   Zc
+Zydiquaryl    0832 X7578B9-5                    R  9   Zc     f
+Turricremata  0834 A6687BF-C    Ag              R  2   Na     f
+Natchez       0836 B660732-7    Na                 9   Na
+Journey's End 0838 DCR0000-1                    R  0   Na     f

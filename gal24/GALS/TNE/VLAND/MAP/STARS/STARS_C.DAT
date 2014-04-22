@@ -1,0 +1,54 @@
+@SUB-SECTOR: stars_C   SECTOR: vland
+#
+# Trade routes within the subsector
+#
+#--------1---------2---------3
+#PlanetName   Loc. Stars(s)
+#----------   ---- ---------
+Taksarrgh     1701 M3 V
+Dathsuts      1703 F2 V M8 V
+Rronaetuts    1704 F4 V
+Ugarun        1705 G6 V
+Zelaklaka     1708 M4 V M3 V
+Zigaadig      1709 G6 V M1 V
+Tollori       1710 M3 V
+Newcastle     1801 M5 V
+Zannokh       1802 G1 V
+Ronni         1803 G8 V
+Kashiin       1804 F8 III B9 D
+Ranilson      1807 K9 V G6 V
+Eshu          1810 A4 V
+Ghurrllekh    1901 M2 V
+Gemid         1903 K5 V
+Daama         1904 K7 V M4 V
+Envar         1906 M0 V
+Kakkin        1907 G0 V
+Nashazi       1909 M7 III
+Gadushan      2005 M7 III F0 III
+Niitomok      2006 M8 V
+Kaaka         2007 F1 V M3 V
+Morimur       2008 M8 V
+Miiko Belt    2101 F1 V
+Hteh Hut      2103 K2 V M1 V
+Ninnigam      2105 M8 V
+Hellvaplace   2106 M4 V G0 V
+Sadniben      2107 M5 V
+Angvae        2203 M0 V
+Anarsi        2205 M7 III G3 II
+Kuzashamir    2208 M2 V
+Deglaraarbiis 2210 K3 V A7 D B6 D
+Knaeghzoka    2301 M5 V M2 V
+Nelak         2306 M9 V
+Bolziin       2308 M5 V
+Moribur       2309 M3 V
+Barshun       2310 F2 V M1 V
+Kfoerudzo     2402 M5 V
+Derekam       2406 K3 V
+Gida          2407 M6 V
+Shabii        2408 G8 V M1 V
+Sardiika      2409 F1 V
+Karamursel    2410 M2 III
+Tollori       1710 M3 V
+Eshu          1810 A4 V
+Deglaraarbiis 2210 K3 V A7 D B6 D
+Barshun       2310 F2 V M1 V

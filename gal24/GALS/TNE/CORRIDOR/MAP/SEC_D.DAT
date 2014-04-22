@@ -1,0 +1,37 @@
+@SUB-SECTOR: sec_D   SECTOR: corridor
+#
+# Trade routes within the subsector
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Ackaeck       2502 C586769-7    Ag              B  214 Wi
+Kidagir       2503 X242347-3    Lo Ni Po           522 Wi     f
+Plunge        2505 X240422-6    Lo Ni Po De        324 Wi     f
+Jed           2506 D757897-6                    B  913 Wi
+Chosen        2603 X534000-0    Ba                 003 --
+Nuplae        2606 X64A234-6    Lo Ni Wa           102 Wi
+Hesaim        2701 X424000-0    Ba                 001 --
+Brytsee       2710 X79A210-3    Lo Ni Wa        B  204 Wi
+Blustar       2801 X9B3000-0    Fl Ba              023 --
+Neghu Oug     2804 X63A600-1    Wa                 402 Wi     f
+Uughrae       2806 X766255-0    C:2 Lo Ni       B  410 Wi
+Atudew        2810 E595000-7    Lo Ni              320 Wi
+Oqwee         2901 X223000-0    Ba Po              004 --
+Shinaashag    2902 X410000-0    Ba                 002 --
+Uerrgno       2903 E8679CB-2    Hi              B  501 Wi
+Krroughf      2904 E577588-2    Ag Ni           B  102 Wi
+Oegoerrvu     2905 X5437A8-5    Po              B  211 Wi
+Kifrusis      2906 X568253-1    Lo Ni           B  212 Wi
+Seplus        2907 D79756A-6    Ag Ni              412 Wi
+Twophur       2908 C653767-5    Po              B  324 Wi
+Russaura      3004 X400000-0    Ba Va              012 --
+Habretic      3010 D663130-6    D:0 Lo Ni          312 Wi
+Salite        3104 X45438A-1    Lo Ni              310 Wi
+Long Shot     3106 X000000-0    Ba As              004 --
+Desiver       3107 X470422-1    Lo Ni De        B  320 Wi
+Esuto         3201 C272695-5    Ni                 301 Wi
+Ko-tring-dfr  3202 D54466B-6    Ag Ni              301 Wi
+Gerbetord     3207 X75A46A-3    Lo Ni Wa        B  402 Wi
+Dilub Rou     3208 X220000-0    Ba Po De           013 --
+R'tinh Kills  3209 X646130-4    Lo Ni              220 Wi

@@ -1,0 +1,53 @@
+@SUB-SECTOR: sec_D   SECTOR: gush
+#
+# Trade routes within the subsector
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Kell          2501 C76A830-B    Wa              A  702 Im
+Sayayr        2502 D73579D-4                       210 Im
+Bradt Landing 2503 C8B9124-9    Lo Ni Fl           823 Im
+Routeburn     2504 C370512-8    Ni De              301 Im
+Shiramuunir   2507 C444AC8-F  S Hi In              431 Im     f
+Jonosva       2509 B9C7867-9  N Fl                 603 Im     f
+Ellje         2609 B7A6527-B    Ni Fl              815 Im
+Tosiv         2610 D525545-8    Ni                 110 Im
+Fubanan       2701 AA9A432-E  N Ni Wa              300 Im
+Kyla          2704 BA7A222-B  N Lo Ni Wa           300 Im     f
+Xenicus       2705 BAE4652-9  S Ni Fl              104 Im
+Sinish Giken  2706 C331677-A    Na Ni Po           920 Im
+Hunnan        2707 E36079B-5    Ri De              303 Im
+Minev         2709 C340355-8    Lo Ni Po De        604 Im
+Aakmi         2801 C7657A8-9    Ag                 200 Im
+Trindewranda  2802 B222588-A    C1 Ni Po           303 Im
+Giikika       2804 C544676-5    Ag Ni              410 Im
+Sahee         2806 E96A645-6    Ni Ri Wa           702 Im     f
+Ka Maz        2807 X380464-5    Ni De           R  104 Im     f
+Luuen         2809 B321400-F  N Ni Po              904 Im
+Mekar         2810 A584578-C    Ag Ni              900 Im
+Pucuro        2904 E642678-5    Ni Po           A  201 Im
+Beheld        2905 C257523-C    Ag Ni              814 Im
+Tasazhas      2906 C898553-9  S Ag Ni              711 Im
+Lishan        2907 B310989-F    Hi Na In           513 Im
+Muidmu        2910 AAE7379-F  N Lo Ni Fl           500 Im
+Fuqui         3002 C533689-6    C0 Na Ni Po        700 Im     f
+Nyamuleju     3003 D1405A8-B    Ni Po De           304 Im
+Raoh          3004 B555765-B  N Ag                 400 Im
+Upaniv        3006 B56749B-A    Ni                 503 Im
+Ivahllo       3007 C756300-8    Lo Ni              800 Im
+Suhho         3008 C300112-C    Lo Ni Va           903 Im
+Mizorskua'mr  3009 C553461-A  S C1 Ni Po           502 Im     f
+Inkia         3101 C7A4789-6    Fl                 510 Im
+Yta Akat      3103 X8B0564-4    Ni De           R  203 Im     f
+Tullyree      3104 D235515-6    Ni                 304 Im
+Kukhun        3105 B658997-E  A Hi Cp              503 Im     m
+Aphu          3106 C7A5644-6    Ni Fl              725 Im
+Llaet         3107 D587100-A  S Lo Ni              411 Im     f
+Urssursfa'    3110 C56547A-9    Ni                 803 Im
+Kumkhap       3202 E78A564-6    Ni Wa              502 Im
+Miha          3203 A779143-F  A Lo Ni              112 Im     m
+Bearnagh      3205 C643576-9  S Ni Po              923 Im
+Hillalk       3206 C100796-9    Na Va              305 Im
+Chzaar        3208 A638789-C                       824 Im     f
+Sadetha       3210 C504443-9    C0 Ni Va Ic        624 Im

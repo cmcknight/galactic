@@ -1,0 +1,28 @@
+@SUB-SECTOR: sec_p   SECTOR: glimdrft
+#
+#Jump Routes
+$3238 3239 0 0
+$3239 0140 1 0
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Tusruga       2534 C000555-A    As                 701 Na
+Vinyl         2633 C569566-9    Ag                 900 Na
+Witlock       2636 E100415-6    Ni                 501 Na
+Wisloka       2638 X210596-6    Ni                 601 Na
+Autonomy      2639 AAA5147-D    Ni                 600 Na
+Polydor       2735 B0008B9-B    As                 801 Na
+Symz          2831 C110111-7    Ni                 201 Na
+Bangor        2833 D222849-5    Na                 500 Na
+Caria         2838 EAB1140-6    Ni                 300 Na
+Chavez        2932 X000500-A    As                 900 Na
+Natalie       2936 A867338-B    Ni                 600 Na
+Dublon        3034 B120654-B    Na                 201 Na
+Salt Lick     3036 C230284-7    Ni                 101 Na
+I'Boi         3039 DAC2662-5    Ni                 300 Rn
+Lindsey       3131 E000477-8    As                 100 Na
+Manawatu      3134 X130876-5    Na                 501 Na
+Daro          3235 A200664-B    Na                 201 Na
+T'Fto         3238 B000100-D    As                 501 Rn
+Rofa          3239 B978477-8  N Ni                 200 Rn

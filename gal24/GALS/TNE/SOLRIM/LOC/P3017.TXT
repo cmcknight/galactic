@@ -1,0 +1,12 @@
+Altiplano X8D8748-8         
+Starport: None               Size: Large (12000-13600 km)
+Atmosphere: Dense, high      Hydrographics: 80% water
+Population: 80 million       Govt: Representative Democracy
+Law Level: High              Technology: Pre-Stellar
+    Altiplano is another partially habitable world. Its atmospheric pressure
+at sea level is too great for humans to breathe, but it becomes tolerable at
+2000 meters and higher, allowing humans to inhabit the world's mountain 
+ranges. Noricum, due to its odd combination of low gravity and thick 
+atmosphere, has an amazingly rich and abundant ecology of aerial lifeforms.
+
+

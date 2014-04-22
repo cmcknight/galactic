@@ -1,0 +1,9 @@
+@dir=gals\gmc\Narrows\gen
+@Light Yellow
+
+Narrows / General Information
+
+@Light Cyan
+      Credits                                 @..\credits.txt
+      Sector Data                             @..\map\data.mnu
+      Narrows Sector                          @narrows.txt

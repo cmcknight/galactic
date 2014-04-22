@@ -1,0 +1,17 @@
+@SUB-SECTOR: Empty Quarter SECTOR: Newlands
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Waikato       2514 E587569-3    Ag Ni              612 Ma
+Massey        2611 B739853-B                       415 Ma
+Lincoln       2613 BAA5402-8  N Fl Ni              621 Ma
+Canterbury    2616 C589522-6    Ni                 104 Ma
+Otago         2618 C786215-6    Lo Ni              802 Ma
+Auckland      2714 C463449-9    Ni                 724 Ma
+Victoria      2812 C432786-5  S Na Po              903 Ma
+Aoraki        2820 D350788-3    De Po              802 Ki
+Kiakoura      2920 B984ACA-A  4 Hi                 905 Ki
+Wanganui      3011 B402659-7    Ic Na Ni Va        612 Id
+Otara         3016 E766570-5    Ag Ni              602 Id
+Te Anau       3212 D4548AA-4                       200 Id

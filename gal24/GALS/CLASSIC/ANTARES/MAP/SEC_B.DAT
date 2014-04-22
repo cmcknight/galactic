@@ -1,0 +1,50 @@
+@SUB-SECTOR: Ninik   SECTOR: Antares
+#
+# Trade routes within the subsector
+#
+$1201 1502 0 0 11
+$1502 1603 0 0 11
+$1502 1640 0 -1 11
+$1603 1804 1 0 11
+$1109 1012 0 1 11
+$1109 1106 0 0 11
+$1509 1109 0 0 11
+$1509 1808 1 0 11
+$1109 0806 -1 0 11
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Pome          0903 B262100-A    Lo Ni              204 Va 
+Laashidudka   0904 D230568-8    Ni Po De           723 Cs 
+Pritine       0906 C483A88-C    Hi                 824 Im
+Zedesu        0908 C3549A8-A  S Hi                 902 Im 
+Rashene       1001 B526416-A    Ni                 303 JP
+Uhapi         1002 A450779-D    Po De              600 JP
+Maihamue      1006 E586120-8    Lo Ni              404 Im 
+Baangen       1101 E69A301-9    Lo Ni Wa           912 JP
+Puskaian      1104 E683768-0    Ri                 514 Va 
+Dakkre        1105 D522304-6  S Lo Ni Po           514 Im 
+Bigirashgi    1106 A878322-A  N Lo Ni              213 Im 
+Gumurlag      1109 A7979CB-F  N Hi In              904 Im 
+Tonsrypu      1201 A320631-A    Na Ni Po De        302 JP
+Fof           1202 B687263-9    Lo Ni              801 JP
+Arshi         1203 C54A598-6    Ni Wa              800 JP
+Aladukuur     1205 E749233-6    Lo Ni              811 Im 
+Egshu         1206 A443630-B    Ni Po              724 Im 
+Ninime        1210 B353210-A  N Lo Ni Po           514 Im 
+Gar           1301 B568655-B    Ag Ni Ri           413 JP
+Pe            1305 D748778-6  S Ag                 924 Im 
+Egigguga      1307 E200323-5    Lo Ni Va           712 Im 
+Engduitwas    1310 C343344-6  S Lo Ni Po           104 Im 
+Khanmishim    1403 E666556-3    Ag Ni              512 JP
+Rala          1404 C572332-8    Lo Ni              314 JP
+Whowhana      1501 E553435-5  C Ni Po              405 JP
+Manuginiim    1502 A767433-C    Ni                 704 JP
+Laagerlus     1504 D54A148-5    Lo Ni Wa           524 JP
+Unugushaka    1508 B000336-B    Lo Ni As           123 Im 
+Lunshuu       1509 B000775-E  S Na As              903 Im 
+Ikashi        1603 A55567C-A    Ag Ni              504 JP
+Khurash       1604 B100426-C    Ni Va              913 JP
+Jikaagi       1608 D400610-4  S Na Ni Va           512 Im 
+She           1610 B968766-9  N Ag Ri              704 Im
+

@@ -1,0 +1,63 @@
+@SUB-SECTOR: sec_A   SECTOR: beyond.sec
+#
+# Trade routes within the subsector
+$0104 0105 0 0
+$0105 0205 0 0
+$0205 0204 0 0
+$0205 0207 0 0
+$0207 0309 0 0
+$0204 0304 0 0
+$0304 0203 0 0
+$0203 0103 0 0
+$0103 0202 0 0
+$0202 0302 0 0
+$0302 0402 0 0
+$0402 0503 0 0
+$0503 0602 0 0
+$0602 0603 0 0
+$0603 0504 0 0
+$0504 0604 0 0
+$0604 0605 0 0
+$0309 0409 0 0
+$0409 0410 0 0
+$0410 0411 0 1
+$0808 0907 1 0
+$0808 0810 0 0
+$0810 0811 0 1
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Station One   0102 E352100-7    Ni Po           A  7   Ma     f
+Hunyadi       0103 A687799-C  N Ag Ri              5 1 Ma     f
+Barba Amarilla0104 C240445-8    Na Ni Po           6 1 Ma
+Shalimar      0105 B86764A-7    Ag Ni Ri           3   Ma     f
+Lanthesandra  0108 D945576-6    Ag Ni              3   Na
+La Luz Negra  0110 B833680-8    Na Ni Po           7   Na     f
+Trocadent. XIX0202 C140431-B    Na Ni Po           1 1 Ma     f
+Figaro's      0203 C563655-5    Ni Ri              7   Ma     f
+Borgne        0204 C99A6A7-8    Na Ni              8   Ma
+Alpha Centre  0205 A668778-8  S Ag Ri              7   Ma     f
+Gul           0207 EA5AA59-9  S                    1 1 Dw
+Ip            0207 B542AD9-A  N In Po              4 1 Dw     f
+Maximummer    0209 C966655-4    Ag Ni Ri           8   Dw
+Trayfowen     0302 BC6264A-9  I Ni Ri           A  8   Ma     f
+Jararaca      0303 E575465-2    Ni                 4   Ma
+Omega Sextans 0304 A767853-9    Na Ri              9   Ma
+Thorn         0305 E352779-2  T Po                 8   Ma
+Araaraga      0309 E446610-6    Ag Ni              1 1 Na
+Beaumonde     0402 CA99974-V    In Ri              9   Ma     f
+Vlad          0403 D663659-2    Ni Ri           A  4   Ma     f
+Anastasia's M 0404 C786376-7    Ni                 5   Ma     f
+Lilith        0405 D7665C7-3    Ag Ni           A  7   Ma     f
+Between       0409 A996701-A    Ag                 1   Na
+Niquithah     0410 A566798-8  S Ag Ri              6 1 Na
+Opar Navis XVI0502 C867872-6    Na Ri              5   Ma
+Kawstee Chilu.0503 B464595-5    Ag Ni              3   Ma
+Jheszes       0504 B323250-9    Ni Po              6   Ma
+Map. Balsayn  0602 AVVV669-F    Ni Ri Ca           6   Ma     f
+Sinkiang-Uigh.0603 C99A522-8    Ni                 3 1 Ma     f
+Friedland     0604 B533310-7    Ni Po              3   Ma     f
+Virgin's Del. 0605 B769748-8  N Ri                 8   Ma     f
+Cave Canem    0808 B986479-C    Ni              A  8   Na     f
+Marketplace   0810 B867AC4-B  M Na                 6   Na

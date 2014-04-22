@@ -1,0 +1,29 @@
+@SUB-SECTOR: sec_J   SECTOR: provence
+#
+# Trade routes within the subsector
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Ous Foroe     0921 D88A477-4    Wa Ni           B  301 Wi
+Kaegh         0923 X100000-0    Va Ba              013 --
+Ukhsarsoeghe  0924 XA6A743-4    Wa Aq              223 Wi
+Oengdaksuvue  0926 X739000-0    Ba                 024 --
+Tuegu         1028 X56399B-5    Hi              B  104 Wi     f
+Okhaeg        1122 X433000-0    Po Ba              002 --
+Fueghz        1126 X222000-0    Po Ba              011 --
+Nokoegz       1224 D469878-5    Hi                 603 Va
+Llokhaegueg   1226 D676675-7    Ni                 404 Va
+Angaergh      1227 X889678-5    Aq              B  901 Wi
+Okfuegh       1229 X7B4000-0    Ba                 014 --
+Kuz           1322 X000000-0    As Ba              011 --
+Aenkuk        1328 X664833-4                    B  913 Wi     f
+Suerz         1421 X648304-3    Ni Lo              124 Wi
+Killagthoghz  1422 X304000-0    Va Ic Ba           004 --
+Nurrok        1424 D251420-5    Po Ni              414 Wi
+Klag          1427 X130000-0    De Po Ba           013 --
+Agkuz         1428 X426000-0    Ba                 004 --
+Foedargh      1522 X8739DF-5    In Hi           B  805 Wi     f
+Ezksog        1525 D449530-7    Aq Ni              423 Wi     f
+Uznukhozots   1527 E796338-3    Ni Lo              122 Wi     f
+Naetsarraluz  1629 X497624-7    Ag Ni           B  924 Wi     f

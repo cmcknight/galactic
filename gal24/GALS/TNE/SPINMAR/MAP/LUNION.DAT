@@ -1,0 +1,32 @@
+@SUB-SECTOR: lunion   SECTOR: spinmar
+#
+# Trade routes within the subsector
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Arba          1721 C200200-C    Lo Ni Va           610 Re
+Wardn         1727 B756486-B  S Lo Ni Tp        A  502 Re
+Olympia       1728 C328342-7    Lo Ni              120 Re
+Smoug         1729 C14088A-9    Po De              202 Re
+Rabwhar       1822 D5448BA-6  S                    413 Re
+Adabicci      1824 A57199B-B  N Hi In              201 Re
+Zaibon        1825 B000544-B    Ni As              512 Re
+Tenalphi      1826 A774102-E    Lo Ni Tp An        610 Re
+Ianic         1924 E360797-5    J:3 Ri De          124 Re
+Spirelle      1927 C766946-8  S D:1 Hi Tn          115 Re
+Derchon       2024 C512799-8  S Na Ic              901 Re
+Lunion        2124 A995A84-D  A Hi In Tp Cp        210 Re
+Shirene       2125 B984510-B  S Ag Ni Tp        A  723 Re
+Penkwhar      2128 X978310-1    Lo Ni Tp        R  320 Re
+Harvosette    2129 C330837-9    Na Po De           110 Re
+Carse         2224 C463325-9    Lo Ni              601 Re
+Persephone    2228 B775933-A  W Hi In Tn           122 Re     m
+Quiru         2321 B36536A-8    Lo Ni Mr           323 Re
+Gorram        2322 X554220-0    Lo Ni           R  801 Re
+Resten        2323 B310100-B  S Lo Ni              501 Re
+Capon         2324 B747748-A  N Ag Tp              810 Re     m
+Sharrip       2325 C575101-A    Lo Ni              503 Re
+Strouden      2327 A745A88-D  N Hi In Tp           120 Re
+Gandr         2425 E000347-8    Lo Ni As           813 Re
+Drolraw       2426 EAB6311-5    Fl Lo Ni           904 Re

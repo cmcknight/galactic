@@ -1,0 +1,321 @@
+   
+  Encounters
+  ----------
+   
+   To determine if an encounter occurs, roll 9+ on 2D before the
+   encounter at site C and 8+ on 2D afterwards. Also, after site C, a
+   roll 6+ for an encounter while performing repairs or waiting.
+   
+   Navigation on the worlds surface is not supposed to be simple. It
+   determine the group's position on the world's surface, a 6+ is
+   required; DM +navigation skill. It is also possible for the group to
+   become misplaced within the same terrain type (i.e. when going from a
+   hex of one terrain to another hex with the same terrain). If the
+   encounter roll is 11+, the group has become misdirected one hex to the
+   left (1-3) or right (4-6).
+   
+   All encounter tables roll 1D.
+
+Transit Times:
+    Mountain   20 hours / hex
+    Plain       5 hours / hex
+    Rough      15 hours / hex
+
+    DMs (for all tables):
+
+    Burning  +0    Twilight +3
+    Very Hot +1    Cold     +4
+    Hot      +2    Frozen   +5
+
+Plain
+-----
+Die Result (pre)            Alternate Result
+1   Lava Pool
+2   Broken Surface
+3   Vented Gas              Pursuers (on prison plain only)
+4   Stellar Flare           Pursuers (Twilight & Hot only)
+5   Spongy Soil
+6   Dust Pool
+7   Loose Soil              Pursuers
+8   Seismic Quake
+9   Ice Sheet
+10  Crusted Lava Pool
+11  Frozen Lake
+
+Rough
+-----
+Die Result (pre)            Alternate Result
+1   Vehicle Malfunction
+2   Stellar Flare
+3   Corrosive Gas
+4   Loose Soil              Pursuers (Twilight only)
+5   Lava Flow
+6   Crevasse
+7   Seismic Quake           Pursuers
+8   Spongy Soil
+9   Lava Tubes
+10  Frozen Lake
+11  Ice Field
+
+Mountain
+--------
+Die Result (pre)            Alternate Result
+1   Engine Overheat
+2   Volcanism
+3   Lava Flow
+4   Deep Shadow
+5   Narrow Valley
+6   Blocked Passage
+7   Avalanche
+8   Loose Soil              Pursuers
+9   Seismic Quake
+10  Crumbling Rock Shelf
+11  Frozen Corpse
+
+
+  ENCOUNTER KEY
+  
+    Avalanche [Mountain]
+   
+   The upper reaches of the mountain side to the group's right (1-3) or
+   left (4-6) are starting to fall in an avalanche. Throw dexterity or
+   intelligence (whichever is higher) for each character to react
+   immediately to take a position of safety; if the throw is
+   unsuccessful, throw endurance as a saving throw against 2D hits in
+   injury.
+   
+   Throw 3D for the extent of the avalanche; each point indicates twenty
+   minutes work by one person in freeing the vehicle. If the result is
+   greater than 10, also consult the vehicle malfunction table.
+   
+   Players alert for an avalanche (after the first time) may so state
+   when in mountainous terrain. Speed is decreased by 50% and the group
+   may make a saving throw of 6+ (DM +ATV skill of driver) to avoid the
+   avalanche.
+   
+    Blocked Passage [Mountain]
+   
+   The route being followed is totally blocked and is obviously
+   impassible. The group must backtract to the previous hex and select a
+   different path. They may not reenter the mountain hex from that
+   previous hex.
+   
+    Broken Surface [Plain]
+   
+   The area ahead is pitted and criss crossed by a network of small
+   crevasses and sink holes, from a distance the surface appears solid
+   enough to support the weight of the ATV. This hex is treated as rough
+   for the purpose of transit time (i.e. 15 hours). A couple of die rolls
+   ought to be made for dramatic effect.
+   
+    Corrosive Gas [Rough]
+   
+   There is a dense misty gas being vented in the surrounding area, the
+   gas. The gas is obvious volcanic in origin and it will solidify once
+   it reaches the dark face. This gas will breach a vacc suit after a
+   total of ten rounds exposure with visible signs showing up after 6
+   rounds. An ATV provides significantly better protection. Roll 10+ for
+   the ATV to sustain damage (consult vehicle malfunction table). Also
+   roll 5+ for the windshield to become etched and slightly opaque (-1 DM
+   to all ATV driving maneuvers).
+   
+    Crevasse [Rough]
+   
+   A large crevasse crosses the group's path. Determine the entry and
+   exit hex sides randomly. Personnel in vacc suits can leap across the
+   crevasse with a successful strength+dexterity check on 2D. The
+   crevasse is relatively shallow, but its sides are sufficently steep to
+   prohibit crossing by an ATV. The group, may enter the crevasse in the
+   ATV, but they must then follow it into one of the adjacent hexes
+   corresponding to the crevasse ends.
+   
+   If the group looks, they will find a shaky natural bridge. If the ATV
+   attempts to cross, throw 10+ to succeed, DM +1 if all possible
+   material is discarded (including personnel) to save weight, DM
+   +driver's ATV skill, and DM +1 if crossing at high speed. Throw 8+ for
+   the bridge to collapse anyway after the crossing occurs, DM -1 if the
+   crossing was at high speed.
+   
+    Crumbling Rock Shelf [Mountain]
+   
+   While driving along, the rock beneath the vehicle begins to crumble.
+   Throw 11+ to avoid a drop; DM +driver's ATV skill. Suddenly, it gives
+   way, and the ATV drops approximately 20 meters to a shelf just below
+   the lip of a large abyss extending in both directions as far as the
+   eye can see (determine direction randomly). The vehicle is undamaged.
+   
+   The shelf appears natural, but is also regular and can be driven on.
+   Individuals can attempt to leap back to the surface (throw
+   strength+dexterity on 2D to succeed; take 2D hits if the character
+   fails).
+   
+   The ATV cannot cross the abyss, and must move along the shelf until
+   the end of the abyss is found (next hex).
+   
+    Crusted Lava Pool [Plain]
+   
+   Whlie driving along the open plain, the rock beneath the vehicle begin
+   to crumble. Throw 9+ to reverse the ATV and aviod lots of problems;
+   DM +driver's ATV skill. If the throw is unsuccessful, the vehicle
+   takes damage (roll on the ATV malfunction table) whilst reversing out
+   of the lava pool. Players walking when this occurs must roll dexterity
+   or less on 3D to avoid becoming part of the lava.
+   
+   The ATV cannot continue in this direction and must backtract to the
+   previous hex before continuing in a new direction.
+   
+    Deep Shadow [Mountain]
+   
+   The area ahead lies in a shadow, forward progress could prove
+   dangerous due to the very limited visibility. There are two choices
+   for forward travel here: full speed ahead, roll 10+ DM +driver's ATV
+   skill to avoid damage (ATV malfunction table again) or travel at half
+   speed (40 hours for the hex) with no chance of damage.
+   
+    Dust Pool [Plain]
+   
+   A large smooth area lies before the group; as it is approached, it
+   appears to be a pool of micro-fine dust. The choice here is to enter
+   the pool and attempt to cross it or to turn aside and circumvent it.
+   Going around will add d6+2 hours to the journey. Going through is safe
+   but the solar cells will become covered and unable to produce power
+   until cleaned for d6/2 hours. The solar cells will also not produce
+   power for the duration of the crossing of the pool which is again d6/2
+   hours.
+   
+    Engine Overheat [Mountain]
+   
+   The ATV shudders to a halt suffereing from excessive heat in the
+   engine. Minor repairs are required to rectify the fault in the engine
+   cooling system. Throw 9+ every hour; DM +mechanical skill to repair
+   the breakdown. Forward progress is not possible before the repair is
+   finished, although the other ATV systems continue to function
+   properly.
+   
+    Frozen Corpse [Mountain]
+   
+   There is a glacier like ice formation here with what appears to be the
+   body of an alien traveller. The body is that of a droyne inmate, 4-5
+   feet tall, winged and vaguely reptilian. The body is dressed in a vacc
+   suit of unknown but very high tech construction. The body is riddled
+   with holes from some kind of very precise high energy weapon.
+   
+   Recovering the body is possible and it takes about an hour using the
+   ATV's pulse laser (20 energy points) and a couple of days by hand. The
+   body is very dead, not very decayed and blasted in unrecognisibility.
+   
+    Frozen Lake [Plain, Rough]
+   
+   Lying before the group is a solid expanse of frozen gas, which appears
+   solid enough to support the ATV. As the vehicle progresses across the
+   lake, throw two dice every few seconds, and count the total until it
+   reaches 50. Then inform the group that they have reached the other
+   side of the frozen lake barely.
+   
+   In actuality, there is no danger of the ice breaking, but the dice
+   throwing should be managed to make them think so. Future encounters
+   with the frozen lakes should including the possibility for the group
+   to backtrack rather than risk this event.
+   
+    Ice Field [Rough]
+   
+   The area ahead is a rough area covered with jagged ice (frozen gases).
+   Progress through this area will take twice as long as normal (30 hours
+   / hex).
+   
+    Ice Sheet [Plain]
+   
+   The area ahead is a large, smooth expanse of sheet ice (frozen gas).
+   Progress across this area will depend upon the intial experience with
+   the terrain by the driver. Throw 9+ to acclimate the driver with the
+   experience of maneuvering on the ice; DM +driver's ATV skill. If
+   successful, progress is normal; if not, speed is 25 hours / hex.
+   
+    Lava Flow [Mountain, Rough]
+   
+   A recently exposed lava flow crosses your path here. It is possible to
+   drive across this flow, however the ATV will take damage to the tracks
+   and progress will be one quarter of normal until the solidified rock
+   is removed from them. Jumping across the flow is quite possible in a
+   vacc suit with any check being necessary.
+   
+    Lava Pool [Plain]
+   
+   There is a large expanse of lava ahead. Driving through the pool is
+   futile and will result in the destruction of the ATV and all people on
+   board. Circumventing the pool is possible but it will double the time
+   required to cross the hex (10 hours) and an additional event check
+   should be made for pursuers (other results are ignored).
+   
+    Lava Tubes [Rough]
+   
+   The surface ahead is a warren of hundreds of small holes. These holes
+   are the remains of lava flows and they make progress difficult on foot
+   or by ATV. Roll 4+ to avoid trouble on foot; DM +survival skill. Roll
+   8+ to avoid damaging the ATV; DM +driver's ATV skill.
+   
+    Loose Soil [Mountain, Plain]
+   
+   The soil is loose and present some danger to the ATV's treads unless
+   speed is reduced. Throw 5+ for a roadwheel to become damaged; DM
+   +twice the number of extra hours spent in the hex crossing it.
+   
+   Repairing a roadwheel takes three hours and mechanical-1 expertise;
+   failure to repair the roadwheel adds 1 hour to the time to cross each
+   hex. An additional breakdown or vehicle malfunction will require total
+   repair before movement can continue.
+   
+    Narrow Valley [Mountain]
+   
+   A long, narrow valley lies ahead, and appears to lead through the
+   mountain range and beyond. Following the valley will lead the ATV
+   through the mountain range to the next hex in 10 hours. Determine the
+   begining and ending directions of the valley randomly.
+   
+    Pursurers [Mountain, Plain, Rough]
+   
+   A robotic form appears. The robot will attempt to recapture the
+   psionics and failing that, destroy the entire group.
+   
+    Seismic Quake [Mountain, Plain]
+   
+   The ground begin to shake as a small seismic disturbance occurs. Each
+   adventurer must throw strength or less on 2D to avoid being thrown to
+   the ground and taking 1D hits (saving throw: dexterity or less on 2D).
+   
+    Spongy Soil [Plain, Rough]
+   
+   The surface ahead appears to be very soft, which may impeed progress.
+   Walking speed is reduced by 25% and ATV speed is reduced to half
+   normal. There is no danger of bogging the tracked ATV here.
+   
+    Stellar Flare [Plain, Rough]
+   
+   A stellar flare is occuring, expect communications to be disrupted.
+   There is no effect if inside the ATV with helmets off. In vacc suits,
+   communication will prove impossible unless helmets are physically
+   touched together.
+   
+    Vehicle Malfunction [Rough]
+   
+   The ATV suffers some minor systems damage. The type of damage is
+   determined on the malfunction table. Repairing the damage takes 2
+   hours if the requisite skill is present. The ATV can continue with no
+   reduction in speed without repairing the damage, however any
+   additional damage to the system will totally and irrepairably destroy
+   the system.
+   
+    Vented Gas [Plain]
+   
+   A small nearby crevasse is venting a dull grey gas. The gas will etch
+   to opacity the faceplate of a vacc suit, and will, after 5 rounds
+   breach the suit. The ATV can drive through with no noticable damage.
+   
+    Volcanism [Mountain]
+   
+   One of the mountain peaks ahead is a volcano, now in the process of
+   erupting. It completely blocks forward progress, requiring the group
+   to backtrack to the previous hex. Pressing forward will result will
+   result in a ten hour delay before realizing the futility of
+   continuing.
+

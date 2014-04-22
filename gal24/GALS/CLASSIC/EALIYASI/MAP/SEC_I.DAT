@@ -1,0 +1,50 @@
+@SUB-SECTOR: sec_I   SECTOR: ealiyasi
+#
+# Trade routes within the subsector
+$0221 3222 -1 0
+$0221 0724 0 0
+$0221 0320 0 -1
+$0322 0320 0 -1
+$0523 0520 0 -1
+$0724 0924 1 0
+$0822 0923 1 0
+$0724 0625 0 0
+$0625 0427 0 0
+$0625 0827 0 0
+$0427 0827 0 0
+$0625 0630 0 0
+$0629 0427 0 0
+$0629 0827 0 0
+$0630 0431 0 1
+$0630 0732 0 1
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Yeltear       0123 C5663J5-8    Lo Ni              304 As
+Khaoworl      0124 D2106M8-8    Na Ni              634 As
+Khtewiyh      0127 C7A53HA-8    Fl Lo Ni           103 As
+Eawweaaw      0130 D7841L8-7    Lo Ni              613 A8
+Areaarleih    0221 A6334H6-A    Ni Po              624 As
+Hluahyahe     0222 X5261L8-A    Lo Ni              503 A0
+Eieyasoir     0224 C6971JB-C    Lo Ni              804 As
+Khaiheista    0227 C4428M6-A    Po                 101 As
+Oiaoilr       0322 B0004H7-B    As Ni              605 As
+Aiwaueil      0422 C6665KB-9    Ag Ni              600 As
+Eiwiilroah    0427 B2533GB-A    Lo Ni Po           304 As
+Ihhroeiyasas  0429 C66A5N4-C    Ni Wa              713 As
+Eaalrhteir    0522 B1003H9-D    Lo Ni Va           800 As
+Olrlauaai     0523 B8C18N7-D  R Fl                 300 As
+Eahyeai       0530 E4436H5-7    Ni Po              102 As
+Ktoeiliyi     0622 C1006MB-9    Na Ni Va           504 As
+Eirlktakhha   0625 B88A4K9-B    Ni Wa              513 As
+Irli          0627 B3236M7-9    Na Ni Po           112 As
+Eoaoluu'hi'ye 0629 BA8A3H2-A  T Lo Ni Wa           321 As
+Khailraioil   0630 C6378K8-D                       425 As
+Aihhelo       0723 C0005K9-8    As Ni              724 As
+Khteiuilkyus  0724 B4472N5-A    Lo Ni              215 As
+Eahaiael      0725 E5877L9-8    Ag Ri              310 A2
+Yarkhyah      0728 E2233G4-7    Lo Ni Po           702 As
+Kiaoeah       0822 B4586L8-9    Ag Ni              613 A3
+Ealwealrtiw   0827 B7837M8-E    Ri                 924 As
+Aisaoaoeh     0828 C7761JB-B    Lo Ni              903 As

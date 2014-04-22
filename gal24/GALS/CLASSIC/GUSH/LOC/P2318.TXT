@@ -1,0 +1,21 @@
+System: Mimip
+Subsector: Ankhsusgar
+Sector: Gushemege Sector
+Coordinates: 2318 (G0708)
+UWP: B876420-9
+
+Starport: Good
+Size: Large (12000-13600 km)
+Atmosphere: Standard, tainted
+Hydrographics: 60% water
+Population: 80,000
+Govt: Participating Democracy
+Law Level: No Prohibitions
+Technology: Early Stellar
+
+Bases: None
+Trade Codes: Ni              
+Travel Zone: Green
+Planetoid Belts: 0
+Gas Giants: 0
+Allegiance: Imperial

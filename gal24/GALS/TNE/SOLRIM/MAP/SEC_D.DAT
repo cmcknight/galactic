@@ -1,0 +1,38 @@
+@SUB-SECTOR: sec_d   SECTOR: oldexpan
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Jade          2502 X4756Q4-7    Ag Ni              915 Wi
+Gadden        2506 X893000-0    Ba                 023 Un
+Scaramouche   2509 X7C6000-0    Fl Ba              000 Un
+Ukarin        2601 X433000-0    Ba                 002 Un
+Gashurzid     2602 B6568AB-B                       110 VC     f
+Miskatonic    2603 X4878V5-7                       115 Wi
+Beatus        2608 X6889R8-0    Hi              B  404 Wi
+Alpher        2703 X8669T6-5    Hi              B  114 Wi
+Okotah        2704 X325000-0    Ba                 000 Un
+Azure         2708 X334000-0    Ba                 021 Un
+Phireene      2807 X4698RC-5                    B  602 Wi
+Umber         2808 X7773O7-7    Ni Lo           B  420 Wi
+Aosta         2902 X4537RB-3    Po                 503 Wi
+Arkiirkii     2905 X66A8R6-2    Wa              B  200 Wi
+Kesirisu      2906 X4994QA-5    Ni Lo              423 Wi     f
+Huy Braseal   2910 X2557RB-5    Ag              B  520 Wi
+Karpaty       3001 X4838V6-4                       113 Wi
+Syzygy        3006 X100000-0    Va Ba              032 Un
+Janosz        3008 X5649RC-5    Hi              B  621 Wi
+Shapam        3009 X232000-0    Ba                 001 Un
+Kirillishur   3010 X7A4000-0    Fl Ba              013 Un
+Carlyle       3101 X9B5000-0    Fl Ba              011 Un
+Khiggun       3102 X8A3000-0    Fl Ba              035 Un
+Rann          3106 X6649RA-6    Hi              B  200 Wi
+Iipshidan     3107 D5445V9-6    Ag Ni              134 Wi
+Cambyses      3108 X2465V9-3    Ag Ni              422 Wi
+Champa        3109 B6628B8-8 S                     624 VC     f
+Palnu         3201 X4848R9-2                    B  323 Wi
+Opar          3202 X5AA000-0    Fl Ba              010 Un
+Irashnar      3203 X131000-0    Ba                 002 Un
+Rith          3204 X536000-0    Ba                 023 Un
+Kilennur      3208 X5958RA-4                    B  322 Wi
+Pagliacci     3209 E7547S7-3    Ag              B  813 Wi

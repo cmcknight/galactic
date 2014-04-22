@@ -1,0 +1,54 @@
+@SUB-SECTOR: sec_F   SECTOR: lishun
+#
+# Trade routes within the subsector
+$1313 0815 -1 0
+$1313 1511 0 0
+$1511 1408 0 -1
+$1511 1712 1 0
+$1516 1114 0 0
+$1516 1518 0 0
+$1516 1814 1 0
+$1518 1220 0 0
+$1220 1222 0 1
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Shiremka      0911 E423521-9    Ni Po              403 Li
+Kaman         0914 B515034-D  N Lo Ni Ic           623 Li
+Urlishila     0915 C560867-7    Ri De              104 Li
+Genkiis       1014 C8B8574-A  S Ni Fl              403 Li
+Rossing       1016 E6A3363-5    Lo Ni Fl           602 Li
+Uppe          1018 B685202-E  N Lo Ni              700 Li
+Andally       1019 E884869-7    Ri                 112 Li
+Masionia      1114 B130943-C    Hi Na Po De        103 Li
+Rodhen        1117 D443AB6-D  S Hi In Po           104 Li
+Lunmunya      1120 B410444-D    Ni              A  900 Li
+Arrat         1211 C896334-7    Lo Ni              502 Li
+Rho Thor      1212 D555567-7  S Ag Ni              900 Li
+Hollis        1213 A788555-D    Ag Ni              710 Li
+Wor           1215 DA89675-5  S Ni Ri              300 Li
+Sihrhyto      1216 C876354-9    Lo Ni              805 Li
+Gegua         1218 E130553-B    Ni Po De           303 Li
+Dynam         1219 D788667-7  N Lo Ni              710 Li
+Uo            1220 B000A98-F  N Hi Na In As        114 Li
+Kuu           1311 A420599-G  N Ni Po De           801 Li
+Unkhi         1312 B693366-B    Lo Ni              213 Li
+Dula          1313 A621863-F  N Na Po              904 Li
+Urenlidle     1315 B445124-E  N Lo Ni              513 Li
+Lorman        1316 C7C5725-A    Fl                 203 Li
+Khushii Khiib 1317 C254354-B  S Lo Ni              200 Li
+Nanze         1415 B210677-9  N Na Ni              302 Li
+Hetor         1419 E300368-B    Lo Ni Va           410 Li
+Lishun        1511 A5858C8-D                       902 Va
+Khumbaar      1513 B797100-2    Lo Ni Po           302 Li
+Mula Par      1514 A350243-G    Lo Ni Po De        720 Li
+Lokita        1515 E528A97-D    Hi In              401 Li
+Leider        1516 A6898A8-F                       812 Li
+Ravinanor     1518 B9C69BD-C    Hi Fl              403 Li
+Desolation    1520 E9D3358-7    Lo Ni Fl           300 Li
+Sherli        1611 C448444-7    Ni                 300 Va
+Nuz           1614 CAEA453-E  S Ni Fl Wa           402 Li
+Apunkhi       1615 B836275-9  N Lo Ni              422 Li
+Lacite        1616 B6B2501-F    Ni Fl              625 Li
+Syzm          1617 C242543-7    Ni Po              911 Li

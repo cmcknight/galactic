@@ -1,0 +1,35 @@
+@SUB-SECTOR: sec_L   SECTOR: gvurrdon
+#
+# Trade routes within the subsector
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Gvigzae       2522 B678431-9  G Ni                 801 Ve
+Vongouzdhursue2524 B8AA320-C    Lo Ni Wa Fl        823 Ve
+Thagh         2527 E6659A8-8    Hi                 733 Ve
+Adegokh       2530 A4047BB-A  G Ic Va              501 Ve
+Rorroksueknea 2628 B374600-8    Ag Ni              301 Ve
+Logvokseghaghz2722 E786220-4    Lo Ni Wi           422 Va
+Arrag         2723 E57556E-5    Ag Wi              310 Va
+Aetskaekhoun  2725 C9889A7-5    Hi Bl Wi           201 Va
+Zuekuzung     2727 B200422-8    Lo Ni Va           124 Ve
+Takhagvafoe   2729 B667585-7    Ag Ni              701 Ve
+Ghaertu       2821 X73A000-0    Ba Wa              021 Va
+Etsgokhuenaell2822 X756668-5    Ag Ni Bl Wi        313 Va
+Vou           2826 X644000-0  C Ba Wi              001 Va
+Oukgzueredh   2827 C35499B-A  G Hi                 901 Ve
+Gnurs         2828 B628554-D    Ni                 202 Ve
+Ourkan        2829 B9D8554-D    Ni Fl              423 Ve
+Taekfoengsegzo2830 B445625-A  G Ag Ni              103 Ve
+Gaegzue       3022 D574340-5    Ni Wi              101 Va
+Ngulivuedakhsn3024 X748468-3    Ag Bl Wi           823 Va
+Ungrughz      3029 X554100-2    Lo Wi              414 Va
+Daggueghaezgho3121 X495000-0    Ba Wi              004 Va
+Llukaegh Voerz3124 X527000-0    Ba Wi              010 Va
+Goghrra       3126 X7B0000-0  C Ba De Wi           020 Va
+Otse          3128 X8A7000-0    Ba Fl Wi           023 Va
+Dzaekh        3221 X547134-5    Lo Wi              403 Va
+Fanzuekh      3222 C000000-0    Ba As Wi           011 Va
+Thekrakfor    3229 B250000-0    Ba De Wi           001 Va
+Aekokfeg      3230 B69A100-5    Lo Ni Wa Wi        702 Va

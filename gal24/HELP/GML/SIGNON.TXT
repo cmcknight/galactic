@@ -1,0 +1,46 @@
+
+Dakin Burdick <burdickd@indiana.edu> has recently got the "Galactic
+Mailing List" up and running.
+
+He states the goals of the list as follows:
+
+1.  Coordinate the creation of sector and world data.  The chief aim
+    here is to avoid duplication or competition over development plans.
+    If two people want to develop the same sector, then the first one to
+    claim it takes precedence but may recruit the second to work on it.
+    Once a sector is complete and added to the database of course, anyone
+    can develop a world or adventure in it, which others must then follow
+    in their own work.  These guidelines should increase the speed with
+    which we not only develop the Classic sectors (my main interest), but
+    also all the other alternate Traveller universes.
+
+2.  Making the various designers aware of the various resources and talents
+    of the others.  
+
+To subscribe to the Galactic mailing list, send email to:
+
+    majordomo@indiana.edu
+
+Leave the subject line blank and type in the body of the text:
+
+    subscribe burdickd_galactic
+
+Majordomo will send you some info about the list along with its address.
+If you wish to unsubscribe later, send to the majordomo@indiana.edu
+address and type:
+
+    unsubscribe burdickd_galactic
+
+By the way, don't include a .SIG file with your message, as this will
+mess up a majordomo mailer.
+
+Dakin wants people to introduce themselves in their first message:
+
+   "Tell us your name, email address, the area of galactic that
+    you are working on or are interested in, and as much background
+    about yourself as you would like to give us."
+
+Anyway, I hope this info comes in handy... seeya on the list perhaps...
+
+jimv@empirenet.com
+

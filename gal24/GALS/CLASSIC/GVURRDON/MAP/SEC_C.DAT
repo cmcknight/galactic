@@ -1,0 +1,20 @@
+@SUB-SECTOR: sec_C   SECTOR: gvurrdon
+#
+# Trade routes within the subsector
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Okfitos       1709 B000641-9    Na Ni As An        923 Va
+Gzazogze      1807 B424779-8                       313 Va
+Gkakhaellan   2002 B210ACG-E    Hi Na In           310 VV
+Tanga         2005 B9C56BB-9    Ni Fl              120 Dr
+Ragzael       2010 B100557-E    Ni Va              423 Va
+Vorroeng      2101 B58A867-8    Ri Wa              303 VV
+Ikhotakhang   2209 B668766-4    Ag Ri              710 Va
+Karrksinarka  2302 B886300-8    Lo Ni              403 Va
+Uthisodzugoksa2305 C403101-A    Lo In Ic Va        622 Va
+Khagogksi     2307 B452685-9    Ni Po              401 Va
+Gaengour      2404 B140301-E    Lo Ni Po De        903 Va
+Ilughavo      2407 B226226-D    Lo Ni              804 Va
+Sagukhunngo   2408 B995654-7  C Ag Ni              301 Va

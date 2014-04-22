@@ -1,0 +1,38 @@
+@SUB-SECTOR: sec_B   SECTOR: vland
+#
+# Trade routes within the subsector
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Otsaellghue   0902 X225000-0    Ba                 003 --
+Iishashun     0906 X625000-0    Ba                 013 --
+Jiinasha      0909 X200000-0    Ba Va              020 --
+Odhughe       1001 X525000-0    Ba                 010 --
+Anaanika      1003 C340653-6    Ni Po De           211 Wi
+Esngougz      1004 XA7A355-2    Lo Ni Wa        B  220 Wi
+Laaru         1007 E69A776-8    Wa                 324 Wi
+Azu           1102 X447668-5    Ag Ni              501 Wi
+Gvaellekh     1104 E885120-4  C Lo Ni           B  210 Wi
+Sikilar       1107 X332000-0    Ba Po              022 --     f
+Vakhoneri     1108 X76A86C-1    Wa              B  410 Wi
+Suragginsu    1109 X333000-0    Ba Po              011 --
+Liwar         1110 D350000-0    Ba Po De           005 Wi     f
+Erim          1201 E573721-2                    B  201 Wi
+Anghurr       1202 X430000-0    Ba Po De           020 --
+Angvae        1203 X322000-0    Ba Po              034 --
+Kummus        1206 X234000-0    Ba                 002 --
+Vhodan        1208 X758889-4                    B  523 Wi
+Enpar Konal   1309 X577672-7    Ag Ni              121 Wi
+Deraan        1403 X426000-0    Ba                 010 --
+Diiron        1405 D89A86B-7    Wa                 504 Wi
+Timat         1406 C98A79B-9    Wa              B  221 Na     f
+Guusimka      1407 X539000-0    Ba                 011 --
+Maran         1408 X352668-3    Ni Po              522 Wi
+Zentove       1410 X8D3000-0    Ba                 020 --
+Odinaga       1505 X201000-0    Ba Va Ic           003 --
+Audhumla      1509 X98A202-4    Lo Ni Wa        B  401 Wi
+Gamgilebo     1604 X000000-0    Ba As              002 --     f
+Dannar        1606 X200000-0    Ba Va              020 --
+Riinel        1608 X74667B-8    Ag Ni              601 Wi
+Sakkuum       1609 X110000-0    Ba                 001 --

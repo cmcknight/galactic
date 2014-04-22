@@ -1,0 +1,38 @@
+@SUB-SECTOR: sec_L   SECTOR: ealiyasi
+#
+# Trade routes within the subsector
+$2630 2732 0 1
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Eaoiryu'      2521 E3003G8-7    Lo Ni Va           605 As
+Yaea          2522 C1006K8-B    Na Ni Va           611 As
+Ftiyloeal     2525 D1007L9-A    Na Va              614 A0
+Aealeilr      2526 D1005H9-9    Ni Va              214 As
+Awkhouas      2621 E8936M7-9    Ni                 504 As
+Uaahaoaouh    2628 C3822GB-8    Lo Ni              124 As
+Elrouwsoi     2630 B8A73L4-E  T Fl Lo Ni           214 A5
+Ftao          2721 C3769DD-1    Hi In              704 Na
+Hwalyaea      2722 C1104M7-B    Ni                 703 As
+Yelrtaieoah   2723 D3004K6-B    Ni Va              804 As
+Eatlei        2725 E7859H7-8    Hi                 503 As
+Ftalaoear     2729 E5A02MC-A    De Lo Ni           200 As
+Ktaihei       2821 A1108B9-5  F Na                 204 Id
+Auyuhsti      2822 B233343-5    Lo Ni Po           201 Id
+Yalealhkirl   2823 D100442-0    Ni Va              803 Id
+Khaeaai       2826 C68767A-2    Ag Ni Ri           614 Na
+Oulktauw      2828 B4675N2-A  T Ag Ni              904 As
+Khtiuarel     2829 C3318N6-9    Na Po              104 As
+Eahhkaeas     2921 B625323-6    Lo Ni              703 Id
+Uisewalwei    2922 E556530-1    Ag Ni              203 Id
+Erlaw         2923 B6449A7-6  F Hi In              414 Id
+Kaouaiylr     2925 C346732-1    Ag                 523 Na
+Hlaseuikh     3021 B200544-5  F Ni Va              714 Id
+Heiyyahe      3023 C100566-2    Ni Va              904 Id
+Yuoul         3122 C6A1547-4    Fl Ni              402 Id
+Ftalhkealiy   3125 X77A300-0    Lo Ni Wa           103 Id
+Ktaoleas      3222 B9C7101-7    Fl Lo Ni           621 Id
+Syoyorlea     3223 A000156-7  F As Lo Ni           503 Id
+Keiiokh       3225 C371025-1                       224 Na
+Uawahtaleih   3226 C839000-5    Ba                 600 Na

@@ -1,0 +1,27 @@
+@SUB-SECTOR: sec_I   SECTOR: emptyq
+#
+# Trade routes within the subsector
+#
+$0426 0128 0 0
+$0128 3129 -1 0
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Teutoburger...0127 B574546-9    Ag Ni C:0          902 Im     f
+Waskuei       0128 A130334-C    Lo Ni Po De        323 Im
+St. David's...0227 B510435-7    Lo Ni              602 Im     f
+MIKIK         0228 X450998-6    Hi Po In        R  402 Im
+Thessalia     0229 A415244-D    Lo Ni              903 Im
+Teikoku       0325 A8C7475-B    Lo De              504 Na
+Hipper        0327 D656771-5    Ag Ni              120 Im
+Bonotsu       0328 A8B0433-B    Lo De Ni           502 Na
+Akec Tedidim  0329 E475231-6    Lo Ni              903 Im
+Marhaban      0426 A4697DG-E    Cp Sw              801 Im     f
+Dimashq       0627 E230521-5    Ni Po De           701 Im
+Nihon Station 0630 C899654-8  S Ni                 203 Im
+Osumi Shoto   0728 C221353-7    Lo Na Po           130 Im
+Resurrection  0729 D300244-7  S Lo Na Va           402 Im
+Li Changhun   0828 C88A112-9    Lo Ni Wa           403 Im
+Li Yingkou    0829 E300300-6    Lo Ni Va           700 Im
+Li Chifeng    0830 B98A677-A    Lo Ni Wa           802 Im

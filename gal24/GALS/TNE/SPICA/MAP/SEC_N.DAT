@@ -1,0 +1,34 @@
+@SUB-SECTOR: sec_a   SECTOR: Spica
+#
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Kafiristan    0935 X235000-0    Ba                 000 Un
+Arroyo Grande 0936 E4502P2-5    Lo Ni Po De        510 Wi
+Flatbush      1032 X423000-0    Ba Po              014 Un
+Beaucoup      1033 C6768U8-5    H:0 Hn          B  802 Wi
+713-206       1036 E79A000-0    Ba Wa              010 Un
+Nedlest Gog   1038 C347524-8    Ag Ni Hp           710 Hv
+Fornax        1040 B5659I5-D    Hi Hn              114 Hv
+Solitude      1133 X457001-4    Lo Ni Hp           400 Wi
+Lass          1134 X6455S3-5    Ag Ni Hp        B  404 Wi
+Sirrinn       1137 C3513M6-7  G Lo Ni Po           500 Wi
+Front Yards   1139 B577823-9    Hn                 100 Hv
+Oasis         1239 X330000-0    Ba Po De           002 Un
+Dezand        1332 A894602-E  L Ag Ni              605 Hv
+Murkur Folp   1333 BA9A213-9  M Lo Ni Wa           800 Hv
+Tohira        1335 X000000-0    Ba As              010 Un
+New Freedom   1336 X2415RA-4    Ni Po              320 Wi
+Korkov        1337 X230000-0    Ba Po De           010 Un
+Nyihldeng     1338 B201206-B    Lo Ni Cm Va Ic     600 Hv
+Dozihld       1340 D357322-A    Lo Ni Hp           602 Hv
+Lyihtar       1431 E323426-6    Lo Ni Cm Po        600 Hv
+Peris         1432 X5457RD-4    Ag Hp           B  613 Wi
+Tongariro     1433 X4685N5-5    Ag Ni Hp           220 Wi
+Kasur         1436 E521468-2    Lo Ni Cm Po Nh  A  114 Hv
+Cairgax       1438 C5319IA-9    Na Hi Po           110 Hv
+Royran        1439 E532405-9    Lo Ni Cm Po        110 Hv
+Denher IV     1440 A257404-A  L Lo Ni Hp           324 Hv
+Lehkak        1539 D896764-8    Ag O:1332          100 Hv
+Bazat         1540 E440000-0    Ba Po De        R  004 Hv

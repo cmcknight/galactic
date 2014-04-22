@@ -1,0 +1,27 @@
+@SUB-SECTOR: stars_F   SECTOR: corridor
+#
+# Trade routes within the subsector
+#
+#--------1---------2---------3
+#PlanetName   Loc. Stars(s)
+#----------   ---- ---------
+Toddie-lee    0912 M2 V M7 D
+Heald         0913 K9 V M7 V
+Strand        0916 F3 V
+Ahngrim       0918 M8 V M8 V
+Tobibak       1011 M2 D M3 D
+Demick        1013 K6 V
+Biinersa      1111 A6 V
+Buagki        1112 M1 V
+Vigh          1213 M9 V G5 V
+Six Lights    1216 M8 V
+Emfashi       1218 M4 V G9 D
+Itasis        1413 F7 V
+Valeneg       1414 F7 V M9 D
+Zudagim       1415 F4 V
+Kearb         1418 M9 III
+Zinadura      1511 M4 V
+Nubotech      1513 F4 III M8 D
+Justend's 4   1514 F8 V M3 D
+Ashima        1515 G6 V
+Vanquet       1611 M4 V

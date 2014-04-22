@@ -1,0 +1,40 @@
+@SUB-SECTOR: Kuriishe   SECTOR: dagudash.sec
+#
+# Trade routes within the subsector
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Lashgaiika    2512 B220753-F  N Na Po De           700 Im
+Luguk         2513 D8A4689-8  S Ni Fl              202 Im
+Aibeshma      2514 C237585-C    Ni                 202 Im
+Nikhuskir     2515 C110779-B    Na                 600 Im
+Giku          2517 C436762-C  S C5                 313 Im
+Duunkhan      2518 C42356A-8  S C0 Ni Po           523 Im
+Diablo        2612 C8C8331-C  S Lo Ni Fl           210 Im
+Gesiisha      2615 B000112-C    Lo Ni As           713 Im
+Hasoiaohalaiko2617 B876122-C  S Lo Ni           A  400 Im
+Shirlukam     2618 D573243-4    Lo Ni              704 Im
+Remanec       2711 C577532-6  S Ag Ni              400 Im
+Negev         2714 C2408AC-8    Po De              404 Im
+Dupusirlu     2715 C95A436-7    Ni Wa           A  500 Im
+Kuriishe      2717 C63177A-9    Na Po              800 Im
+Gareesh Ra    2719 D565546-5  S Ag Ni              412 Im
+Mudupas       2817 C8B3221-A    Lo Ni Fl           700 Im
+Khashpel      2819 B553457-E  S Ni Po              404 Im
+Quuira        2918 CA9A8C9-6  S Wa                 500 Im
+Amgagiga      2919 B254354-D    Lo Ni              704 Im
+Eraki         2920 A9899BC-C  N Hi                 203 Im
+Ander's Moon  3012 B110389-E    Lo Ni              504 Im
+Cyrene        3013 C402487-A    Ni Va Ic           624 Im
+Kherse        3014 A200536-D  A Ni Va              500 Im
+Akhashmaas    3015 D786498-9    Ni                 423 Im
+Larmai        3016 C797534-8    Ag Ni              704 Im
+Saffron       3018 A646110-F  N Lo Ni              101 Im
+Urkesh        3019 B374113-B  S Lo Ni           A  604 Im
+Luramsum      3111 A7A9325-D  N Lo Ni Fl           805 Im
+Imsu          3114 B488769-B  A Ag Ri              300 Im
+Amiikhuk      3115 A355203-F    Lo Ni              300 Im
+Umeeshe       3117 C442427-9    Ni Po              300 Im
+Sivvista      3120 A4288BA-E                       413 Im
+Zashe         3220 C6348B6-6  S                    903 Im

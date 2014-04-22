@@ -1,0 +1,40 @@
+@SUB-SECTOR: District 268 SECTOR: Spinward Marches
+#
+# Trade routes within the subsector
+$1537 1737 1 0
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Asteltine     0931 B7A7402-A    Ni Fl              210 Na
+Inchin        0938 D12035C-A    Lo Ni Po De        823 Na     f
+Singer        0940 D553774-6    Po                 901 Na     f
+567-908       1031 E532000-8    Lo Ni Po Ba        310 Na
+Avastan       1037 C433520-A    Ni Po              724 Na     f
+Kwai Ching    1040 C503758-A    Na Va Ic           320 Na     f
+Faldor        1131 E5936A7-2    Ni                 520 Na
+Bowman        1132 D000300-9  S Lo Ni As           811 Cs
+Squallia      1133 C438679-9    Ni                 320 Na
+Tarsus        1138 B584620-A    Ag Ni              202 Cs
+Walston       1232 C544338-8  S Lo Ni              302 Cs
+Flexos        1233 E5A1422-6    Ni Fl              610 Na     f
+Collace       1237 B628943-D  S Hi In              101 Cs
+Pavabid       1238 C6678D8-6                    A  701 Cs
+Datrillian    1331 E227633-8    Ni                 801 Na
+Nirton        1332 X600000-0    Lo Ni Va Ba     R  011 Na
+Judice        1337 E9B2000-8    Lo Ni Fl Ba        321 Cs
+Trexalon      1339 B361851-C    Ri                 923 Na
+Motmos        1340 B68468B-5  N Ag Ni Ri           710 Cs     f
+Noctocol      1433 E7A5747-6    Fl                 602 Na
+Tarkine       1434 C466662-7  S Ag Ni Ri        A  310 Cs
+Dallia        1435 B8B5883-9    Fl                 610 Cs
+Talos         1436 E333532-9    Ni Po              820 Na
+Dawnworld     1531 E885000-0    Lo Ni Ba           025 Na     f
+Elixabeth     1532 B426467-8  N Ni                 201 Cs
+Forine        1533 D3129B8-A    Hi Na In Ic        610 Na
+Mertactor     1537 B262732-B  S Cp                 610 Im     f
+Talchek       1631 C7B1462-5    Ni Fl           A  601 Cs
+Milagro       1632 E21178A-7    Na Ic              920 Cs     f
+Pegaton       1634 C769873-4    Ri                 913 Na     f
+Binges        1635 A800231-A    Lo Ni Va           720 Na     f
+Mille Falcs   1637 B9A2469-C  A Ni Fl              301 Im     f

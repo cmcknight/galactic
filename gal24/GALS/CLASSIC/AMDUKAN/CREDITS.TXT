@@ -1,0 +1,11 @@
+
+Amdukan Sector - Credits
+------------------------
+
+The star names and UWP data were created by the HIWG. The Hhkar are
+from Challenge 52. Much of the information on the Julian Protectorate
+is adapted from _Vilani_and_Vargr_, Digest Group Publications, and from
+information on Mendan Sector in Challenge 49, Game Designer's Workshop.
+Jeff Zeitlin (jeff.zeitlin@execnet.com) converted the sector to Galactic
+format in 1997.
+

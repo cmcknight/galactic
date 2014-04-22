@@ -1,0 +1,50 @@
+@SUB-SECTOR: sec_B   SECTOR: hinter
+#
+# Trade routes within the subsector
+$1001 0801 -1 0
+$1001 1103 0 0
+$1103 1202 0 0
+$1202 1402 0 0
+$1402 1601 0 0
+$1601 2003 1 0
+$1007 0806 -1 0
+$1007 1210 0 0
+$1210 1211 0 1
+$0907 0909 0 0
+$1402 1401 0 0
+$1401 1601 0 0
+$1605 1606 0 0
+$1605 1705 1 0
+$1606 1707 1 0
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Eskufet       0902 E779103-6    C1 Ni              604 Na
+Damii         0906 A000359-D  F Ni As           A  700 Na
+Serala Na     0907 C486220-5    Ni                 303 Ra
+Dibs          0909 B654331-8    Ni                 902 Ra
+Kupakii       1001 C654352-A  S Ni                 905 Cs
+Durne         1006 B539511-A  J Ni              A  814 Ra
+Gomms         1007 A110679-C    Ni Na              724 Ra
+Gimisapun     1103 A000000-B    Ni As Ba           603 Na
+Tlianke       1104 B664AA9-C  M Hi                 220 Na
+Khumukunar    1105 B594100-8  M Ni                 902 Na
+Breevort      1109 C9B48AA-5                       424 Na
+Arghikii      1202 E653557-8    Ni Po              102 Na
+Girar         1205 B645766-9  M Ag              A  322 Na
+Gashuumi      1206 B527769-7                       923 Na
+Aquiar        1210 A87A300-D    Ni Wa              124 Na
+Imukushush    1301 C45969A-5  S Ni                 720 Na
+Hyraxa        1302 X341777-1    Po                 624 Na
+Zelebex       1306 C769235-8    Ni                 204 Na
+Mupikaa       1307 A426588-A    Ni                 903 Na
+Gustavus      1401 A100345-B    Ni Va              601 Ac
+Utgaard       1402 D1009BB-A    Hi In Va Na        305 Ac
+Drosyodryu    1408 B241887-7    D0 Po           A  401 Na
+Shilikhulu    1409 B67A110-9    Ni Wa              503 Na
+Tudor         1601 A94956A-9    Ni                 923 Na
+Ankhamon      1604 C889101-B    Ni              A  614 Ac
+Kayhyurv      1605 C97A100-A    D0 Ni Wa           302 Ac
+Rambaran      1606 CAE3443-7    Ni                 704 Ac
+Ariden        1609 A55578B-A    Ag                 214 Na

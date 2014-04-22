@@ -1,0 +1,48 @@
+@SUB-SECTOR: sec_C   SECTOR: oldexpan
+#
+# Trade routes within the subsector
+$1702 1604 -1 0
+$1702 1802 0 0
+$1802 1803 0 0
+$1803 1904 0 0
+$1904 2204 0 0
+$2204 2405 0 0
+$2405 2605 1 0
+$1904 1805 0 0
+$1805 2006 0 0
+$1805 1806 0 0
+$1806 1909 0 0
+$1909 1809 0 0
+$1909 1911 0 1
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Dredel        1702 A257110-A    Lo Ni              823 Im
+Shilhen       1709 D565220-5  S Lo Ni              921 Im
+Yestor        1710 C667478-4  S Ni                 904 Im
+Simblent      1802 A57A651-D    Ni Wa              901 Im
+Ahri          1803 C357A95-B  S Hi                 703 Im
+Lhmoore       1804 A122959-A    Hi In Na Po        223 Im
+Zell          1805 B8A6358-D    Fl Lo Ni           623 Im
+Abeare        1806 B453543-8  N Ni Po              412 Im
+Louks         1809 D9DA613-9  S Fl Ni Wa           704 Im
+Fulinara      1904 C566336-6    Lo Ni           A  723 Im
+Debruler      1906 C9A6200-8  S Fl Lo Ni           104 Im
+Algren        1907 E653754-7    Po              A  712 Im
+Silvis        1909 B34459E-7    Ag Ni              803 Im
+Biros         1910 B594258-9    Lo Ni              604 Im
+Ince          2003 D465200-6  S Lo Ni              100 Im
+Arend         2004 EAB8495-8    Fl Ni              300 Im
+134-635       2005 X6A5000-0    Ba Fl Lo Ni     R  713 Im
+Dese          2006 B57A887-9  N Wa                 624 Im
+Phoub         2008 E447311-7    Lo Ni              503 Im
+Drand         2103 B544744-8  S Ag                 501 Im
+Yeaph         2105 D675349-6  S Lo Ni              104 Im
+Thal          2203 B599144-9    Lo Ni              601 Im
+Imdra         2204 D867447-6    Ni                 102 Im
+Millington    2210 C48A789-7    Wa Ri           A  901 Im
+Vate          2305 B22168A-A  N Na Ni Po           403 Im
+Tesb          2403 D77A544-7    Ni Wa              603 Im
+Calan         2405 C834110-9    Lo Ni              404 Im
+Kize          2410 C100135-B    Lo Ni Va           110 Im

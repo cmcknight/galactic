@@ -1,0 +1,35 @@
+@SUB-SECTOR: sec_c   SECTOR: Spica
+#
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Nightshield   1702 E201621-9    Na Ni Va Ic        703 Na
+Gronin        1705 C884632-8    Ag Ni Tp St        710 Na
+(Skull Hills) 1706 E7A08AD-6    De              A  904 Xh
+Storewell     1802 C5208AA-7    Na Po De           803 Na
+Xoar Beta     1805 E310362-4    Lo Ni Nh C:2003 A  600 Xh
+Dobson Parish 1901 C8768DD-5    Tn                 213 Na
+Xoar Alpha    1904 X411763-5    Na Ic Nh C:2003 A  720 Xh
+Ringwald      1905 D72278B-7    Na Po              900 Na
+Padre         1906 B330432-D    Lo Ni Po De        200 Na
+Wemutta       1907 D658889-1    Tp                 320 Na
+Xoar Gamma    1909 D311861-4    Na Ic Nh C:2003 A  200 Xh
+Ceril         1910 C200222-A    Lo Ni Va           610 Na
+Liam          2002 A899002-E    Lo Ni Tp           102 Na
+Tyrolia       2003 A41199B-C    Na Hi In Ic Nh     703 Xh
+Nugent        2010 A431945-F    Na Hi Po           304 Na
+Strictland    2103 B550656-A  F Ni Po De           603 Na
+Malley        2105 C6608AA-6    De                 802 Na
+(Good Place)  2109 C6A5731-7    Fl Nh              314 Xh
+Spica         2205 C755684-5    Ag Ni Tp           704 Na
+Faller        2207 C557673-4    Ag Ni              513 Na
+Stewart       2306 A49A855-B    Wa                 211 Na
+Spyral        2307 B456730-A  F Ag                 703 Na
+Term Tukera   2310 B6A2213-F  F Fl Lo Ni           804 Na
+Apollo        2401 A5239DE-9    Na Hi In Po        104 Na
+Port Manatee  2404 A79A120-C    Lo Ni Wa           714 Na
+Mandayyay     2405 A641300-A  F Lo Ni Po           704 Na
+Wycliff       2406 C440300-B    Lo Ni Po De        830 Na
+Abbott        2407 A665799-C    H:0 Ag Ri Tp       705 Na
+Wunderkind    2410 C451200-A    Lo Ni Po           412 Na

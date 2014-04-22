@@ -1,0 +1,28 @@
+@dir=gals\tne\yikler\map
+@Light Yellow
+Yiklerzdanzh Sector / Data Files
+
+@Light Cyan
+      Sector Data                  @..\yikler.dat
+      Stellar Data                 @stars\stars.mnu
+      Credits                      @..\credits.txt
+
+@Light Green
+      Subsector Data
+@Light Cyan
+       A: Peedizh Chr              @sec_a.dat
+       B: Tapljifriens             @sec_b.dat
+       C: Shipaiebria              @sec_c.dat
+       D: Drbli Chtidr             @sec_d.dat
+       E: Izellensjdash            @sec_e.dat
+       F: Meichntid Ibl            @sec_f.dat
+       G: Lenchiajzhdiezh          @sec_g.dat
+       H: Chinzhedniedoch          @sec_h.dat
+       I: Talpaku                  @sec_i.dat
+       J: Stellar Chorus           @sec_j.dat
+       K: Wyld Worlds              @sec_k.dat
+       L: Akigura                  @sec_l.dat
+       M: String of Pearls         @sec_m.dat
+       N: Dlarashtsalash           @sec_n.dat
+       O: Izh Kriezhlal            @sec_o.dat
+       P: Rom's Loch               @sec_p.dat

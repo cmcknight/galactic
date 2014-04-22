@@ -1,0 +1,30 @@
+@SUB-SECTOR: sec_M   SECTOR: deneb
+#
+# Trade routes within the subsector
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Iruku         0138 B21048A-B    Lo Ni              301 Re
+Inkekush      0233 A140548-F  N De Ni Po           831 Re
+Saguenay      0235 B438256-F  N Lo Ni              624 Re
+Taman         0237 E874200-5    Lo Ni A:5          610 Re
+Nouakchat     0238 C532114-8  S Lo Ni Po           203 Re
+Aosta         0332 A669366-F    Lo Ni Re           712 Re
+Furens        0334 C8AA698-B    Fl Ni Wa           703 Re
+Upuraku       0336 B484654-C  S Ag Ni Ri A:2       501 Re
+Tuwayk        0339 A672942-D                       201 Re
+Zyedl         0431 E551443-7    Lo Ni Po           801 Re
+Lucifer       0436 B693986-8    Hi In              104 Re
+Beaon         0439 C88AA99-E    Hi Wa           A  323 Re
+Noghon        0440 B79798B-C  N Hi In              621 Re
+Briaxis       0531 C120445-E    De Lo Ni Po        901 Re
+Maricutin     0534 B764001-A  N Lo Ni A:4          413 Re
+Preslin       0633 A130679-F  N De Na Ni Po        610 Re
+Khuaeakha     0638 C6696H4-7    Ni Ri Aw           820 Re
+Qevar         0731 A2326AE-F  B Na Ni Po Cp        703 Re
+Raguseppe     0734 B410555-D    Ni                 910 Re
+Kiangya       0735 C7C0200-C  S De Lo Ni           614 Re
+Taormina      0737 D3216AE-A    Na Ni Po           934 Re
+Mtensc        0740 D351454-C  S Lo Ni Po           323 Re
+Mephit        0833 C9B8436-9  S Fl Lo Ni           502 Re

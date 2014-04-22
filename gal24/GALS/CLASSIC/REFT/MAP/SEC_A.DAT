@@ -1,0 +1,32 @@
+@SUB-SECTOR: sec_A   SECTOR: reft
+#
+# Trade routes within the subsector
+$0408 0707 0 0
+$0707 0604 0 0
+$0604 0903 1 0
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Cauldron      0102 D9B8222-4    Fl Lo Ni           403 Dd
+Iselen        0105 A243678-9    Ni Po              403 Dd
+Reudden       0106 B3536BG-7    Ni Po              400 Dd
+Kukaa         0108 C544100-B    Lo Ni              503 Dd
+Amoirve       0109 B565476-C  N Ni                 704 Dd
+Solbatn       0203 B87A443-A    Ni Wa              603 Dd
+Peshtorno     0208 B7B3841-8  N Fl                 622 Dd
+Petre         0210 B696478-A    Ni                 210 Dd
+Dimple        0305 D200201-8  S Lo Ni Va           500 Dd
+Benidorm      0402 E446400-A    Ni                 120 Dd
+Carian        0408 B300459-B  N Ni Va              924 Dd
+Ambossa       0410 B684459-9    Ni                 700 Dd
+Corp Town     0502 B474211-B    Lo Ni              100 Dd
+Lintl         0503 B739AEE-F    Hi Cp              404 Dd
+Whisp         0602 C251110-6    Lo Ni Po           204 Dd
+Gaspar        0604 B336337-D    Lo Ni              801 Dd
+Igualada      0605 B140567-9  N Ni Po De           701 Dd
+Mukiud        0701 B333210-E    Lo Ni Po           823 Dd
+Checker       0702 C300225-9    Lo Ni Va           615 Dd
+Colony Five   0707 B4759A5-E    Hi In              420 Dd
+Zaguki        0710 B260212-9    Lo Ni De           804 As
+Elixir        0801 B768321-9    Lo Ni              423 Dd

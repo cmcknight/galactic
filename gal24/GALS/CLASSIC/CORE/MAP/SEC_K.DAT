@@ -1,0 +1,48 @@
+@SUB-SECTOR: Chant SECTOR: Core
+#
+# Trade routes within the subsector
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Temra         1721 B565786-B  N Ag Ri              404 Li 
+Akeyolarix    1724 A675446-E  N Ni                 424 Li 
+C're          1725 B445885-C  A                    803 Li 
+Roustami      1726 B0008AF-C  S Na As              504 Li 
+Braned        1727 B8B1411-C  N Ni Fl              505 Li 
+Waduuka       1730 BAB4435-B    Ni Fl              104 Li 
+Tell          1821 A78A372-F  N Lo Ni Wa           502 Li 
+Holex         1822 A200353-F  N Lo Ni Va           912 Li 
+Citro         1823 E8B7333-7    Lo Ni Fl           604 Li 
+Mandhem       1824 E554100-6    Lo Ni              804 Li 
+Prempt        1825 B5A2200-D  S Lo Ni Fl           501 Li 
+Rhydino       1829 B211779-E    Na Ic              713 Li 
+Sorca         1921 B245740-9    Ag                 524 Li 
+Tomaa         1924 E455335-5    Lo Ni              100 Li 
+Vvrin         1925 A485699-C  N Ag Ni Ri           300 Li 
+Wrebil        1927 B94A775-7    Wa                 304 Li 
+Farhome       1929 E628544-6    Ni                 924 Li 
+Traa          1930 A000784-E    As Na              604 Li 
+Anther        2021 A300697-E  N Na Ni Va           615 Li 
+Prubisk       2027 B9A569A-B  N Fl Ni              100 Li 
+Basilling     2028 A443104-D  N Lo Ni Po           904 Li 
+Rorpa Din     2030 D63A566-8    Ni Wa              214 Li 
+Affinity      2121 B98A561-A    Ni Wa              213 Li 
+Elinz         2122 B476000-D  A Lo Ni Ba           900 Li 
+Eliograh      2125 A524575-C    Ni                 703 Li 
+Kamodoo       2130 B565558-B  N Ag Ni              803 Li 
+Leystroak     2221 B998656-9  N Ag Ni              815 Li 
+Rek-shons     2222 B855746-C    Ag                 213 Li 
+Radd Caulo    2223 A866645-9    Ag Ni Ri           502 Li 
+Chant         2224 A160688-F  W Ni Ri De           903 Li 
+Meiz          2225 B512847-B  S Na Ic              111 Li 
+Skeen         2226 B49199B-F    Hi In              422 Li 
+Port Away     2227 C357747-A    Ag                 203 Li 
+Effinity      2322 A581651-F    Ni Ri              904 Li 
+Merat         2323 B423868-A  N Na Po              403 Li 
+Akin Akun     2326 D410666-7  S Na Ni              910 Li 
+Drivorea      2327 B759300-D    Lo Ni              313 Li 
+Raami         2330 B522966-F    Hi Na In Po        603 Li 
+Ro Anii       2422 A473320-E  N Lo Ni              704 Li 
+Avthaus       2425 B200879-E    Na Va              723 Li 
+Shurgiishulu  2429 B552625-8    Ni Po              902 Li 

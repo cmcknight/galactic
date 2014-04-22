@@ -1,0 +1,24 @@
+@SUB-SECTOR: Ionia SECTOR: Gythios Sector
+#
+# Jump-routes
+$1838 1939 0 0
+$1838 1540 -1 0
+$1838 1835 0 0
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Heather       1736 X9B5000-0    Ba Fl Lo           012 Io 050
+Nate          1831 D557241-4    Lo                 514 Im 520
+Midiori       1835 B88A78D-A  N Ag Wa              204 Io 275
+Goode         1838 B663AC8-E    Hi                 203 Io 4AY
+Pritchard     1839 C553400-5                       814 Io 350
+Galion        1931 A7A1864-C    Fl                 902 Im 0BN
+Ionia         1939 A76A645-E  N Ag Wa              900 Io 175
+Lindbergh     1940 X6B5000-0    Ba Fl Lo           005 Io 030
+Vettius       2036 X000000-0    As Ba Lo           004 Io 020
+Edgardo       2037 X310000-0    Ba Lo              004 Io 040
+Fisk          2132 X546000-0    Ba Lo              010 Im 550
+Hendrickson   2139 X876000-0    Ba Lo              004 Io 690
+Cotnesse      2337 X403000-0    Ba Ic Lo Va        002 Io 040
+Rosalinda     2433 A4777CD-8  N Ag                 203 Na 210

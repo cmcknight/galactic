@@ -1,0 +1,21 @@
+@SUB-SECTOR: sec_L   SECTOR: vanguard
+#
+# Trade routes within the subsector
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+XVR-2529      2529 X300000-0    Ba Va Lo Ni        014 Na
+Joshi         2721 E310000-0    Ba Lo Ni           403 Co
+Gaddis        2726 C100365-C  S Lo Ni Va           801 Co
+Gatrael       2823 D421672-7    Na Ni Po           103 Co
+PERNIKKA      2826 C236996-9  S Hi In              305 Co
+Kadri         2830 E789445-6    Ni                 924 Na
+Waarshu       2924 C55688C-8  S                    123 Co
+RELLUEN       3025 B130959-F  N De Hi In Na Po     210 Co
+Nassiri       3026 D334202-6    Lo Ni              624 Co
+Rozennes      3121 B667677-9  S Ag Ni Ri           902 Co
+Corll         3122 C676410-6    Ni                 624 Co
+Etrinae       3126 C000373-A  S As Lo Ni           631 Co
+Perveen       3128 E100000-0    Ba Lo Ni Va        010 Co
+KOSAR         3221 D343988-5    Hi In Po           110 Co

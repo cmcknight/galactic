@@ -1,0 +1,33 @@
+System: Pequan
+Subsector: Jewell
+Sector: Spinward Marches
+Coordinates: 1210 (B0410)
+UWP: E5656B9-4
+
+Starport: Frontier Quality
+Size: Medium (7200-8800 km)
+Atmosphere: Standard
+Hydrographics: 50% water
+Population: 7 million
+Govt: Non-Charismatic Dictatorship
+Law Level: High
+Technology: Industrial
+
+Bases: None
+Trade Codes: Ag Ni           
+Travel Zone: Green
+Planetoid Belts: 1
+Gas Giants: 0
+Allegiance: Non-aligned
+
+Extended Stats:   
+E5656B9-4   Ag Ni       710 Na G5V
+G = 0.637, Day = 30:11:21.39, Year = 220d 15:04:43.76
+Atmo = 0.95, No weather control
+Temp = +15.6 (5/lat +15 to -35) (season +13.2 to -22.0, 40 deg lat)
+Daily temp range +7.5 to -15.0
+Native life present
+Agricultural, Crystals, Agroproducts, Documents
+Reactionary/Indifferent, Unaggressive/Neutral, Discordant/Aloof
+Legal:  9-C79AA         Tech:  43-44433-4454-44-F
+

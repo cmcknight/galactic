@@ -1,0 +1,127 @@
+
+Flora and Fauna:
+
+Most of the native wildlife and plant life of Helios is typical of most
+habitable worlds with a few exceptions.
+
+Saltad:
+Much of the land in the temperate zone is forest land covered by a tree
+native to Helios.  The rumors as to the origin of Helios' original name,
+Willow, trace back to early Solomani settlers finding these trees and
+mistaking them for Terran Willow tree.  The difference between the two trees
+was no doubt soon discovered as the Helios "willow's" wood is as hard as
+some metals.  Early in Helios history (see, History), the wood of this tree
+was coveted by the nobles of the Sarid Subsectors, as well as those of other
+nearby Subsectors.  Many artisans made a fortune on Willow wood carvings.
+The tree, officially known as the Saltad, is still in plenteous supply on
+Helios, and the citizens of Helios are still involved in selling hand carved
+trinkets.  More recently, a few of the more extravagantly wealthy citizens
+of the Coalition have commissioned hand carved furniture from the artisans
+of Helios.  These items are quickly becoming a status symbol of wealth in
+the Coalition.
+
+Whiskey Bug:
+Perhaps the only known predator to the Saltad is the Gyrnius Celaecun, or
+the Whiskey Bug.  The Whiskey Bug is a small flying insect that grows to
+approximately 5 centimeters long.  The Whiskey Bug resembles the Terran
+Beetle in shape and size, however its color is a reddish brown, not the
+characteristic black of the Terran Beetle.  The Whisky Bug uses pollen from
+the flowers native to Helios to create a fermented "nectar" that it then
+uses to break down the wood of the Saltad tree.  During the early spring,
+when sprouts emerge from the strong Saltad tree's trunk, adult Whiskey Bugs
+will burrow through the soft sprout spots to the very heart of the tree.
+There they will extract the soft heartwood that is the very life of the
+Saltad tree.  In the harder, outer wood, Whiskey Bugs carve small chambers
+called "vats" in which the masticated and moistened heartwood is deposited.
+Finally, a dose of bacteria, from a special pouch inside the Whiskey Bug's
+mouth is added to the mix, and the chamber is sealed up.  Inside, the
+bacteria soften and partially metabolize the heartwood, using enzymes and an
+organic acid. This mixture is known as the "sour mash," which indicates part
+of the origin for the beetle's name.  After a few days, the beetles re-open
+the vat chamber and consume the now-edible sour mash.  The youngest beetles
+feed the pupae by carrying them from vat to vat, as the vats are opened.
+The bacteria metabolize the mash anaerobically and produce alchol
+by-products which remain in the mash.  Anyone attempting to drink the alchol
+run-off of mash produced in the wild would likely go blind or die because it
+is mostly methyl alchohol.  Some Heliosans are keepers of these bugs.  Under
+carefully controlled conditions, the sour mash will produce almost all
+ethanol, with the remaining methanol being removed before bottling.
+Heliosan Whisky Bug Juice is known for its sour-sweet taste and powerful
+kick.  Before the Collapse it was made by many moonshiners on the main
+continent, and carefully inspected brands were popular throughout the
+subsector.  In the New Era, not many of Helios' inhabitants are inclined to
+produce hard alchohol, but visitors to the weekly Auction may have the
+opportunity to sample it.  Some visitors have been impressed with the drink
+and they occasionally export it small quantities, either for personal
+consumption or resale. 
+   Herbivore, Grazer  (F13-A*-S9/18/36) (A* - If Provoked)
+      Weight:     0.1 kg     Weapon:     Poison/Stinger(As Armed Melee)
+      Hits:       1          To Hit:     5
+      Initiative: 1          Damage/Pen: 1p1*/Nil (* - 1 point, not 1D6)
+      Armor:      1/2        Range:      Short
+
+Felden:
+The natural enemy of the Whisky Bug is the Felden.  The Felden is a small
+animal that lives in the rotted shells of Saltad trees that Whisky bugs
+leave behind.  Similar to the Terran anteater, the Felden has a long snout
+that it uses to reach into the hollow center of the Saltad tree and eat the
+Whisky Bugs.  Felden are slow stupid creatures that do little more for
+Helios than keep the Whisky Bug population in check.  The Felden is nearly
+blind and can actually hear the high pitched resonance sounds the Whisky
+bugs use to converse with one another.  While the meat of the Felden can be
+eaten, there is very little that is easily gotten and it is very tough and
+bland.
+   Omnivore, Gatherer  (F8-A3-S2/4/8)
+      Weight:     3 kg       Weapon:     Claws(As Armed Melee)
+      Hits:       1          To Hit:     5
+      Initiative: 1          Damage/Pen: 1D6/Nil
+      Armor:      1          Range:      Short
+
+Grupami:
+The Grupami is a fish native to the coastal waters in the temperate zone
+during the winter month.  During the summer month, the Grupami migrate to
+more temperate waters in the polar zone, but each winter they return to the
+temperate zone.  There is little about the Grupami that is spectacular.  It
+serves as one of the major sources of food for the inhabitants of Helios.
+The only distinguishing feature of the Grupami occurs at the beginning and
+ending of both the winter and summer month, when Helios experiences its
+equinox.  At this time, the Grupami begin their migration to and from the
+polar zone, and when they begin to migrate, they swim faster by jumping out
+of the water (similar to Terran flying fish).  What makes this event so
+spectacular is that the scales of the Grupami are made of a reflective base
+with a crystalline covering.  As the Grupami jump out of the water, the
+sunlight is reflected of the base of the scale and refracted through the
+crystalline covering creating a "rainbow trail" that arcs with the jumping
+pattern of the fish.  This phenomenon is best viewed in the last few hours
+before sunset, or the first few hours after sunrise.
+   Herbivore, Grazer  (F20-A*-S10/20/40) (A* - Never Attacks)
+      Weight:     1 kg       Weapon:     None
+      Hits:       1          To Hit:     N/A
+      Initiative: 1          Damage/Pen: N/A
+      Armor:      0          Range:      N/A
+
+
+Parinklo:
+Another animal native to the waters of Helios is the Parinklo.  Similar to
+the Terran Tiger shark, the Parinklo is a saltwater mammal that grows to
+nearly 3 meters in length.  The Parinklo is an extremely agile sea creature
+and is considered the most dangerous predator on Helios.  Parinklo, like the
+Terran sharks they resemble,  travel in groups of four or more called
+regalia.  A single Parinklo has been known to sever the leg of an unwary
+swimmer with is vice-like jaws and triple rows of teeth.  In addition to the
+danger presented by the Parinklo's teeth, the creature has two tentacles
+located just behind the pectoral fins that stabilize the creature.  Each of
+these tentacles is tipped with poisonous barbs.  When hunting, the Parinklo
+will bring itself close to its prey and wrap its poisonous barbs around it.
+The poison is a quick acting muscle relaxant that serves to render the prey
+motionless while the regalia divide the meal between themselves.
+   Carnivore, Killer  (F2-A18-S20/40/80)
+      Weight:     50 kg      Weapon:     Poison/Tentacle(As Grapple)
+      Hits:       16         To Hit:     18
+      Initiative: 6          Damage/Pen: 1p*/Nil (* - See Note)
+      Armor:      1/2        Range:      Long
+      Weapon:     Teeth(As Armed Melee)
+      To Hit:     5          Note:  Poison renders victim motionless in 1D6
+      Damage/Pen: 5D6/1/2      turns.  If grapple holds till then, Parinklo 
+      Range:      Short        will attack with teeth.
+

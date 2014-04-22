@@ -1,0 +1,36 @@
+#--------1---------2---------3
+#PlanetName   Loc. Star(s)
+#----------   ---- --------
+@SUB-SECTOR: Ameros SECTOR: Core
+Kama          1701 
+Iski Kuu      1702 
+Irkhiide      1703 
+Erdi          1707 
+Uunnagirluu   1708 
+Kherip Ag     1710 
+Kind          1801 
+Gamgiigela    1808 
+Zaniin        1901 
+Irbi          1902 
+Iiska Ashgi   1909 
+Amur Isark    2006 
+Khekaa        2008 
+Maashsha      2010 
+Khizuuuum     2101 
+Ravla         2102 
+Inlun Ra      2103 
+Nuudle        2104 
+Shiza         2105 
+Andkag Pa     2203 
+Daash         2205 
+Edirkisdii    2206 
+Shudusham     2209 
+Gis           2210 
+Erem Dash     2306 
+Erkiim        2401 
+Aaruu Zi      2403 
+Gemi          2404 
+Luunni Miu    2405 
+Lagaashin     2407 
+Arnaki        2408 
+Uungip        2410 

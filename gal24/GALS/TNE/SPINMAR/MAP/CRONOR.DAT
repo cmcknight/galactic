@@ -1,0 +1,31 @@
+@SUB-SECTOR: cronor   SECTOR: spinmar
+#
+# Trade routes within the subsector
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Zeykiede      0101 C330798-9    Na Po De           113 Zh
+Rzhdioch      0102 C1208B9-A    Na Po De           203 Zh
+Ezhfrepl      0103 B263764-B  Z C:0 Ri O:0304      110 Zh
+Chantrel      0104 C366243-9    Lo Ni              520 Zh
+Gyomar        0108 D8B2989-5    Fl Hi              124 Na
+Idrianzh      0202 C868586-5    Ag Ni Tp           801 Zh
+Rio           0301 C686648-8    Ag Ni Ri Tp        301 Na
+Zhdienshdo    0303 B21179B-C  Z Na Ic              101 Zh
+Cronor        0304 A6369A5-D  Z Hi Cx              810 Zh
+Brefrie       0307 B4338CA-A  Z Na Po An           310 Zh
+Whenge        0503 D648500-8    Ag Ni Tp           610 Na
+Enlas-Du      0601 E975776-6    Ag Tn           B  323 Na
+Algebaster    0605 C665658-9    Ag Ni Ri Tp        610 Na
+Rasatt        0607 E883401-7    Lo Ni Tp St        910 Na
+Ninjar        0608 A211666-C  Z Na Ni Ic O:0304    610 Zh
+Shiazhzdepr   0610 B756779-A  Z Ag Tp           B  211 Zh
+Indo          0703 E334662-5    Ni O:0704          320 Na
+Nerewhon      0704 E738475-7    Lo Ni           B  820 Na
+Sachebr       0705 A886865-C  Z Ri Tp O:0304       221 Zh
+Stave         0710 E7668A8-2    Tn                 101 Na
+Narval        0805 D525688-6  Z Ni              A  803 Na
+Plaven        0807 E845300-3    Lo Ni Tp           910 Na
+Quar          0808 B532720-B  N Na Po           A  601 Re
+Frond         0810 E9C3300-9    Fl Lo Ni           103 Cs

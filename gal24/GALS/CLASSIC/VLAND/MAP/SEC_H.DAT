@@ -1,0 +1,62 @@
+@SUB-SECTOR: sec_H   SECTOR: vland
+#
+# Trade routes within the subsector
+$2513 2409 -1 -1
+$2513 2912 0 0
+$2513 2306 -1 0
+$2912 0111 1 0
+$2616 2416 -1 0
+$2616 2816 0 0
+$2816 3117 0 0
+$3117 0118 1 0
+$2610 2309 -1 0
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Iigshuren     2511 B66A666-D    Ni Ri Wa           223 Rv
+Imziinune     2512 B62737A-C  N Lo Ni              720 Rv
+Shiigus       2513 A2717CB-A  N Cp                 101 Rv
+Gookir        2515 B9A787C-9  N Fl                 122 Rv
+Khe           2518 E333425-7    Ni Po              201 Rv
+Muukakam      2519 B52368C-9    Na Ni Po           511 Rv
+Ma            2520 C485100-B    Lo Ni              710 Rv
+Kimii         2611 D403750-7    Na Va Ic           901 Rv
+Gaska Khiin   2612 C444577-C  S Ag Ni              823 Rv
+Kusu          2613 A441676-A    Ni Po              202 Rv
+Malta         2615 B000266-B  S Lo Ni As           611 Rv
+St. George    2616 B7C59BB-D    Hi Fl              820 Rv
+Dudid         2618 B510526-9  S Ni                 501 Rv
+Mennoral      2620 B858723-8  A Ag                 421 Rv
+Aanshi        2713 BA8A997-B  S Hi Wa              401 Rv
+Eriston       2716 C6AA144-8    Lo Ni Fl Wa        420 Rv
+Alkhaas       2812 E99769D-6    Ag Ni              133 Rv
+Karmanidora   2815 C110330-D    Lo Ni              702 Rv
+Faranidon     2816 B6568AD-8                       910 Rv
+Tazaris       2818 C9B2688-8  S Ni Fl              302 Rv
+Anzalits      2820 EA9A210-8    Lo Ni Wa           734 Rv
+Naalkin       2911 D555565-9    Ag Ni              701 Rv
+Damakho       2912 A998574-D    Ag Ni              223 Rv
+Mimere        2914 B9B6999-C  A Hi Fl              510 Rv
+Lormiza       2915 B335652-C    Ni                 910 Rv
+Iizmarna      2916 B227421-A  S Ni                 820 Rv
+Beroni        2918 C563677-A    Ni Ri              601 Rv
+Alanidon      2919 D454323-9  S Lo Ni              120 Rv
+Sidenis       2920 D21067B-8  S Na Ni              920 Rv
+Lourer        3011 E594A8A-C    Hi In              810 Rv
+Zaan          3014 C557362-8  S Lo Ni              904 Rv
+Sikal         3018 C545644-9  S Ag Ni              810 Rv
+Braldini      3019 C8A7736-8    Fl                 520 Rv
+Trilorn       3020 C100858-C    Na Va              510 Rv
+Kalanuu       3111 D754444-7    Ni                 624 Rv
+Dusuureg      3115 C404466-B  S Ni Va Ic           622 Rv
+Kirlasesh     3116 C546684-7    Ag Ni              923 Rv
+Altman        3117 A361674-A  N Ni Ri              710 Rv
+Aarkhiin      3119 D57759C-4  S Ag Ni              125 Rv
+Urkimgar      3211 C577000-9    Lo Ni Ba           410 Rv
+Amnukun       3212 B41097B-F    Hi Na In           111 Rv
+Ami           3213 E567400-9    Ni                 202 Rv
+Khunimmam     3214 E9B7200-6    Lo Ni Fl           402 Rv
+Shaia         3215 B64A998-F    Hi In Wa           110 Rv
+Kigirgam      3216 D561444-5    Ni                 113 Rv
+Gisharu       3218 D556013-5  S Lo Ni              310 Rv

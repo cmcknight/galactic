@@ -1,0 +1,15 @@
+Galus C7828O3-8
+
+Starport: Routine          Size: Medium (10400-12000 km)
+Atmosphere: Dense          Hydrographics: 20% water
+Population: 200 million    Govt: Representive Democracy
+Law Level: Low             Technology: Pre-Stellar
+     
+
+Galus: Galus's Representive Democracy has so far succesfully fended off all
+the raids from Athay, but due to their small number of ships, their luck
+may not hold out long.  The government is willing to offer astounding rates
+for working starships to aid in defense, or a mercenary unit to put a stop
+to the raids.
+
+by Jon Goff (jongoff@et.byu.edu)

@@ -1,0 +1,30 @@
+@SUB-SECTOR: sec_a   SECTOR: massilia
+#
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Ven           1721 X3627RA-7    Ri                 203 Wi
+League        1724 E2527WB-6    Po                 202 Wi
+Ri Trios      1726 X5725RD-1    Ni              B  204 Wi
+Lurun         1728 X635000-0    Ba                 014 Un
+Kindstrom     1730 D884025-6                       100 Un
+Herzog        1823 X5475Q9-6    Ag Ni           B  114 Wi
+Star Triven   1921 X4813M0-7    Lo Ni              413 Wi
+Rahum         1924 X8A6000-0    Ba Fl              013 Un
+Gober         1927 X7683S5-3    Lo Ni              501 Wi
+Rarian        2029 X271000-3    Ba                 414 Un
+Hexum         2030 X4615R9-1    Ni              B  400 Wi
+Ugdukida      2127 X331000-0    Ba                 013 Un
+Bern          2130 X3434P7-8    Lo Ni Po           410 Wi
+Muimarir      2224 E6578S7-7                    B  613 Wi
+Independent   2228 X2525O3-3    Ni Po              200 Wi
+Imaean        2230 X627000-0    Ba                 014 Un
+Noward        2323 X5A5000-0    Ba Fl              014 Un
+Hezeltine     2324 X84A4S3-0    Lo Ni Wa        B  221 Wi
+Hermes Statio 2328 X100000-0    Ba Va              004 Un
+Braemere      2421 X310000-0    Ba                 013 Un
+Gurd          2422 X8D0000-0    Ba De              000 Un
+Flassen       2425 X000000-0    As Ba              013 Un
+Silas         2428 X310000-0    Ba                 000 Un
+Cheresa       2430 X6552P6-0    Lo Ni           B  402 Wi

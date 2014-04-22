@@ -1,0 +1,53 @@
+@SUB-SECTOR: sec_e   SECTOR: ley
+#
+#Jump Routes
+$0214 0312 0 0
+$0204 0315 0 0
+$0312 0409 0 -1
+$0315 0516 0 0
+$0320 3219 -1 0
+$0320 0520 0 0
+$0320 0221 0 1
+$0516 0716 0 0
+$0516 0617 0 0
+$0520 0617 0 0
+$0520 0721 0 1
+$0617 0716 0 0
+#
+#--------1---------2---------3---------4---------5----------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- --
+Hornatis      0111 E7BA434-C    Wa                 200 Im
+Hesperainis   0115 B897643-9    Ag                 101 Im
+Upsikeria     0116 DA999A9-A    In                 500 Im
+Converse      0117 E722479-9    Ni                 400 Im
+Mohomet       0120 E237435-7    Ni                 701 Im
+Twovem        0212 D642735-6                       500 Im
+Whistiel      0213 E120310-9    Ni                 601 Im
+Eatonis       0214 A768759-9    Ri Ag              100 Im
+Antrim        0216 C533776-9    Na                 200 Im
+Zaleris       0217 EA98231-8    Ni                 300 Im
+Hestia        0218 X410113-A    Ni                 101 Im
+Laris         0220 E8B9100-B    Ni                 100 Im
+Redcross      0312 B668A78-9                       501 Im
+Noscitur      0315 D543AA7-8    In                 200 Im
+Amelek        0316 D333AA9-7    Na                 600 Im
+Kitron        0320 B454570-A    Ag                 301 Im
+Ramah         0411 XACA000-0    Ba                 000 Im
+Trenchard     0413 DAA8535-A    Ni                 901 Im
+Resad         0414 E98A533-6    Ni                 301 Im
+Doronauch     0512 D432673-8    Na                 700 Im
+Djeris        0516 B856535-6  S Ag                 701 Im
+Usconbuts     0520 A688867-C  N Ca                 200 Im
+Albion        0612 E221684-9    Ni                 801 Im
+Kaberis       0613 EAC8000-0    Ba                 000 Im
+Uiponamet     0617 B864799-8    Ri Ag              900 Im
+Passage       0618 C246A99-8    In                 201 Im
+Wilmot        0619 DACA310-8    Ni                 901 Im
+Falconis      0711 EA8A889-8    Ri                 900 Im
+Xanthia       0712 E110244-A    Ni                 101 Im
+Umpopula      0716 B677AA9-9    In                 100 Im
+Vicegerent    0719 C324941-B    In                 101 Im
+Liedis        0720 X200000-0    Ba                 001 Im
+Sirenius      0811 DA88441-2    Ni                 300 Im
+Hratholm      0813 E322313-9    Ni                 300 Im

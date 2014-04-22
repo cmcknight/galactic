@@ -1,0 +1,13 @@
+@SUB-SECTOR: sec_E   SECTOR: gush
+#
+# Trade routes within the subsector
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Imaniik       0517 B96A776-8    Ri Wa              924 Ch
+Deychavilosta 0614 C200545-9    Ni Va              524 Im
+Bubenel       0617 E779201-7    Lo Ni              412 Im
+Pannolk       0718 B79A58B-E  N Ni Wa              200 Im
+Kkoymjirad    0813 C355554-C    Ag Ni              900 Im
+Asshashur     0820 C576666-A    Ag Ni              420 Im

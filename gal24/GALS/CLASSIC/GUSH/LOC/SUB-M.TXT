@@ -1,0 +1,133 @@
+
+    HIWG
+
+    HIWG Document: #  HD3423                          Date: 21-05-1992
+
+    From: Leighton Piper
+          Gushemege Sector Developer
+          11 Skeffington Road,
+          PRESTON,
+          Lancs, PR1 5UP
+          UK.
+
+    To:   David Burden, Gushemege Sector Analyst.
+          J. Duncan Law-Green, Vland Domain Editor.
+          Clayton R. Bush, Quadrant 1 Editor.
+          Kevin Parry,HIWG (UK).
+
+    Absract: Outline of Vipach subsector (M of Gushemege), system stats and
+    library data.
+
+    VIPACH SUBSECTOR
+
+    No other region of Gushemege has  such a mixture of complex history and
+    intractible mystery. Within the boundaries  of Vipach there is believed
+    to be the homeworld of the Loeskalth - the aggressive and warlike human
+    race  wiped-out  by  the  vilani  in  the  Consolidation Wars. With the
+    conquest and eradication of the Loeaskalth, the record of their origin,
+    their  identity  and  culture  have  been  lost.  Only fragments of the
+    language remain. The best educated  guess as to the Loeskalth homeworld
+    is Abaelou (0233), a medium-sized planet with a readioactive taint. The
+    interesting  feature of  the taint  is that  the radioactive  signature
+    matches that of  vilani nuclear weapons of the  Consolidation Wars era.
+    The Abaelou  hypothesis is backed-up  by two other  pieces of evidence;
+    the  discovery  of  ruined  human-styled  cities  by  the  IISS and the
+    discovery  of a  huge asteroid  ship  in  the Aapu  system (0132).  The
+    asteroid ship indicates an origin in the Abaelou system.
+
+    The prescence of a large number of  scout bases and the Way station (at
+    Wilson,  0740)  is  due  to  the  location  of  Vipach at the corner of
+    Gushemege,  Reft, Ilelish  and Verge  sectors. They  service the  large
+    volume of scout traffic moving between the Core and the Great Rift. The
+    Vipach  scout bases  are also   involved in  the continuing  search for
+    the positive identification of the Loeskalth homeworld.
+
+    The world  of Vipach (0632) was  once the capital of  the subsector and
+    still  today the  subsector name  identifies that  link. The  world was
+    eclipsed  in importance  by Dikaash  in the  early years  of the  Third
+    Imperium when Glirse LIC located some of the most valuable platinum and
+    gold deposits in the subsector. Dikaash is still a centre of excellence
+    in the production of  microelectronics, non-organic catalysts and space
+    life-support systems.
+
+    The subsector  is the most heavily  populated in Gushemege highlighting
+    its  long  history  of  colonisation  (almost  from  the  first  vilani
+    explorations  into the  sector) -  the total  population approaches 106
+    billion.  The  majority  of  the  inhabitants  are  human but there are
+    significant numbers of Ael Yael and Vapethi. The human population are a
+    mix of  vilani, solomani, tapazmal, loeskalth  and others. The greatest
+    concentration of life is on Sagal  (0337) and has been interdicted by a
+    joint IISS-Imperial Navy commission  (in 1103) following the desruction
+    of  the starport.  This was  a consequence  of an  uprising of  Ilelish
+    militants. Although small, the trouble has been continuous since with a
+    increase in intensity of the raids by the pro-Dulinor faction after the
+    onset of the Rebellion. As of 1121 the world is nominally independent.
+
+    Jaeyelya is the home of the Ael Yael and is reserved for the habitation
+    of the  Ael Yael only  (bar residents of  the surface IISS  station and
+    diplomats).  The world  does see  plenty of  other races either through
+    trade or tourism.
+
+    The importance of Homage as the bread-basket of Vipach is underlined by
+    the  presence  of  the  naval  base.  Numerous  conflicts in orbit have
+    focussed on the  control of the system, as the  holder of the world can
+    starve the  surrounding region into  submission. Since the  outbreak of
+    the 'Rebellion' in  late-1116, the world has changed  hands three times
+    between  pro-Lucan,   pro-Dulinor  and  lately,   pro-Strephon  forces.
+    Currently the world is held by Strephon.
+
+    Ounash is  claimed by a small  number of tribes descended  from asiatic
+    nomads of the central region Asian continent of Terra. The peoples have
+    rejected  technology living  much as  there ancestors  did 10,000 years
+    ago.  Numerous  attempts  by  industrial  combines  to extract valuable
+    organic resources locked under the dry  crust have been rebuffed by the
+    'Council  of the  15 Tribes'.  Survey teams  which have  landed without
+    permission by the council have been shown little mercy when caught.
+
+    Name          Hex  UWP          Codes              Data   Stellar Data
+
+    SIRIR         0131 X7969AA-6    Hi In           R  723 Im K3 V
+    Aapu          0132 D260345-6    Lo Ni De           300 Im A1 III M2 D
+    Maerol        0135 E200774-8    Na Va              102 Im K1 V
+    Choltonrul    0136 A487452-D  S Ni                 224 Im M6 IV
+    USHULU        0137 C7829DA-A    Hi                 700 Im M0 V M4 D
+    Roolyz        0138 C333103-B    Lo Ni Po           222 Im G8 V M3 D M0 D
+    Jootect       0140 B768145-C  N Lo Ni              600 Im M0 V M7 D
+    Hentor        0231 D503540-5    Ni Va Ic           522 Im M3 VI K9 D
+    Abaelou       0233 C695335-9  S Lo Ni              903 Im M7 V
+    Gihmentahlish 0236 B8A5003-9    Lo Ni Fl           922 Im K7 V
+    Strand        0237 C348383-8    Lo Ni              502 Im G4 V
+    Ounash        0239 X120335-4    Lo Ni Po De     R  504 Im K9 V
+    Blezon        0332 X472400-6    Ni              R  323 Im K2 V M8 D
+    Vaelouf       0333 B537343-9    Lo Ni              211 Im M6 V
+    Endran        0334 C515034-B    Lo Ni Ic           103 Im K3 IV M6 D
+    Phoenaeg      0338 D560867-5  S D7 Ri De           313 Im G0 V M1 D
+    SAGAL         0339 X887A9C-6    Hi              R  813 Im K1 IV M0 D
+    Trichach      0432 C573489-8  S Ni                 204 Im M8 II M9 VI
+    Cemloch       0433 B646002-9  S Lo Ni              405 Im M2 V
+    Nemeet        0434 D2307CB-A  S Na Po De           704 Im M8 V
+    Gwelbyph      0435 C42356A-8  S Ni Po              705 Im K3 V
+    Flaslousk     0436 C5435A7-A    Ni Po              910 Im M5 II
+    Jaeyelya      0437 B484655-4  S Ni                 702 Im K6 D
+    Lem           0438 D532216-8  S Lo Ni Po           900 Im M9 V M1 D
+    Dimkodrarn    0439 B453465-E  S Ni Po              303 Im G0 V
+    Rake          0531 C325531-A    Ni                 302 Im K3 V M4 D
+    Soel          0532 D8D578C-4  S Fl                 202 Im K0 V M1 D
+    Imagalu       0536 B967852-8  A Ri                 904 Im M0 V
+    Wols          0537 A764137-E    Lo Ni              200 Im M6 V M4 D
+    Homage        0631 B59468C-8  N Ag Ni              512 Im M2 V
+    Vipach        0632 C738447-B  S Ni                 410 Im K4 V M5 D
+    Sern          0634 CAD6268-7    Lo Ni Fl           600 Im M0 V
+    Asiilish      0639 A565400-F    Ni                 214 Im K3 V M4 D M4 D
+    Chezpan       0640 B200777-B    Na Va              802 Im K4 V M2 D
+    Th'dir        0732 B100464-E  S Ni Va              213 Im M4 V
+    Dendaash      0733 A9C7331-B  N Lo Ni Fl           504 Im A6 V M6 D
+    Zamashuug     0737 B585020-B    Lo Ni              300 Im M3 V K6 D
+    DIKAASH       0738 B6279B8-F  A Hi In Cp           101 Im M4 V
+    Wilson        0740 B10037A-B  W Lo Ni Va           100 Im M8 VI M4 D
+    Tenraash      0831 B79A557-F    Ni Wa              102 Im G4 IV
+    GINUPA        0839 C55999C-C  S Hi                 803 Im G0 V
+    Teuterom      0840 B502412-D    Ni Va Ic           313 Im M2 V M4 D
+
+    Highest tech level =  F, Asiilish, Dikaash,Tenraash; Highest population
+    = A, Sagal (84 billion); Total population = 111 billion.

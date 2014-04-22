@@ -1,0 +1,44 @@
+@SUB-SECTOR: sec_C   SECTOR: provence
+#
+# Trade routes within the subsector
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Dhuellzugza   1701 X755524-5    Ag Ni              221 Wi
+Odhrrigh      1703 X7B2000-0    Fl Ba              022 --
+Anur          1706 X584843-6    Ag              B  513 Wi     f
+Hoenguel      1707 X671440-0    Ni              B  922 Wi
+Tsueghogrugllo1708 X996469-1    Ag Ni              903 Wi
+Gzoerghaen    1709 X594689-7    Ag Ni           B  424 Wi
+Oegninong     1802 X425000-0    Ba                 001 --
+Kfaege        1804 X202000-0    Va Ic Ba           011 --
+Grnouf        1805 X869853-4                    B  402 Wi
+Sastsuks      1806 X24466B-6    Ag Ni           B  522 Wi
+Udhagaksuen   1810 X545310-7    Ni Lo              404 Wi
+Kfakfug       1904 X200000-0    Va Ba              011 --
+Kfeks         1905 X100000-0    Va Ba              025 --
+Gnerr         1906 X755659-8    Ag Ni              514 Va
+Ueksouk       1907 X7C2000-0    Fl Ba              002 --
+Uengoz        1909 X356630-5    Ni              B  204 Wi
+Zargvaetsr    2001 C76A6A7-9    Wa Aq              912 Vl
+Kfaengzuen    2004 X212000-0    Ic Ba              013 --
+Otsaerghuerr  2005 X88A453-4    Wa Ni Lo           903 Wi
+Voukifaerrg   2006 X533000-0    Po Ba              005 --
+Aertsvad      2101 C49478B-9    Ag                 605 Vl
+Oeghzvar      2102 C486876-A                       104 Vl
+Kfasaegerr    2107 X223000-0    Po Ba              012 --
+Egzan         2108 X458655-3    Ag Ni           B  902 Wi
+Uengva        2109 D481530-8    Ni                 402 Va
+Daekhs        2206 X7A1000-0    Fl Ba              013 --
+Saellok       2208 D597852-8                       704 Va
+Zhorurn       2301 C884773-B    Ag                 213 Vl
+Fraets-Vog    2302 B685755-C  G Ag Ri              103 Vl
+Arrunoer      2305 D496744-8    Ag                 704 Va
+Geksoen       2306 D456656-8    Ag Ni              600 Va
+Vaesan        2308 X5A1000-0    Fl Ba              003 --
+Koeldoun      2310 X400000-0    Va Ba              003 --
+Firgvaar      2401 A667987-C  G Hi                 214 Vl
+Lair          2402 A8859A8-C  G Hi Cx              213 Vl
+Foukakh       2405 X555786-7    Ag              B  304 Wi
+Uk Olou       2410 X884642-5    Ag Ni           B  211 Wi

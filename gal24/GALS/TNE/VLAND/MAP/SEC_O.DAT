@@ -1,0 +1,48 @@
+@SUB-SECTOR: sec_O   SECTOR: vland
+#
+# Trade routes within the subsector
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Nikham        1732 X8AA000-0    Fl Ba Wa           010 --
+Miku          1734 X8C3000-0    Fl Ba              004 --
+Zhinutar      1735 X312000-0    Ba Ic              004 --
+Ake           1736 X528000-0    Ba                 001 --
+Glanidarn     1740 X235000-0    Ba                 023 --
+Mekhe         1831 D546551-6    Ag Ni              125 Wi
+Shadi         1833 X597467-2    Lo Ni           B  301 Wi
+Kordanar      1839 E778651-2    Ag Ni           B  903 Wi
+Shorlon       1931 X130000-0    Ba Po De           002 --
+Sharan        1932 X765100-3    Lo Ni           B  424 Wi
+Kaskar        1933 D673513-5    Ni                 401 Wi
+Ekhin         1936 X400000-0    Ba Va              001 --
+Nulisud       1937 B8D3300-A    Ni Fl              221 Ic     f
+Vuldaan       2032 X522000-0    Ba Po              023 --
+Hykluitt      2035 X14046A-4    Lo Ni Po De        104 Wi
+Diinagar      2036 X160453-8    Lo Ni De           310 Wi
+Miizam        2039 D573434-5    Lo Ni           B  110 Wi
+Imshiig       2132 X374455-4    D:0 Lo Ni          220 Wi
+Iddun         2133 E483000-0    Ba An              020 Wi
+Zemal         2134 X6A9000-0    Fl Ba              010 --
+Shaka         2137 E410000-0    Ba                 012 --
+Istuary       2138 A5828X8-B    D:5                622 Ic     f
+Zolo          2139 X628000-0    Ba                 001 --
+Gikarlum      2232 C99956B-7    Ni              B  410 Wi
+Segikin       2233 E76899A-4    Hi              B  401 Wi
+Rishin        2235 X210000-0    Ba                 024 --
+Gaarid        2236 X343515-5    Ni Po              413 Wi
+Khugan        2238 D786321-9    Lo Ni              204 Ic
+Bakor         2240 C878786-7    Ag              B  610 Ic
+Aaluggidira   2331 X79A372-7    Lo Ni Wa           303 Wi
+Zaakkusham    2332 E483400-3    Lo Ni              601 Wi
+Miiliiniur    2335 X322000-0    Ba Po              024 --
+Kunni         2336 X78446A-8    Lo Ni           B  101 Wi
+Idi           2337 X361443-4    Lo Ni              112 Wi
+Orguk         2340 X545685-8    Ag Ni              620 Wi
+Dusekhip      2431 X633000-0    Ba Po              022 --
+Korm          2432 X987769-4    Ag              B  303 Wi
+Ashuugakher   2433 X210000-0    Ba                 020 --
+Li            2435 X423000-0    Ba Po              020 --
+Shakir        2438 X626000-0    Ba                 023 --
+Shuurdiikha   2440 X652565-2    Ni Po           B  310 Wi

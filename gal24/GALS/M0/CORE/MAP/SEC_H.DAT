@@ -1,0 +1,31 @@
+@SUB-SECTOR: Kaskii SECTOR: Core
+#
+# Trade routes within the subsector
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Kuuir Am      2511 D477332-6    Lo Ni              902 Im
+Girku         2513 E89A000-0    Ba Lo Ni Wa        002 Ba
+Imaar Pa      2517 E444000-0    Ba Lo Ni           002 Ba
+Riiiid Irman  2519 E000134-7    As Lo Ni           804 Im
+Kishkeiim     2611 C201423-8    Ic Ni Va           703 Im
+Ispumer       2615 E381852-5    Hi                 905 Sy
+Likhamii      2616 B53678A-6                       103 Sy
+Lir           2720 B426100-9    Ni                 303 Im
+Muugkha       2814 D223133-6    Lo Ni Po           604 Sy
+Indshiim Ganme2816 B86958D-A    Ni                 803 Sy
+Leer          2912 B7B3248-A    Fl Lo Ni           725 Im
+Khiuur La     2913 C8B3200-4    Fl Lo Ni           403 Sy
+Mikhag Kuu    2914 B668797-7    Ag Ri              313 Sy
+Khiinra Ash   2916 CAE6133-6    Fl Lo Ni           904 Sy
+Laudum        3011 B352ADD-9    Hi Po              801 Im
+Anuug         3015 E783000-0    Ba Lo Ni           000 Ba
+Kinekesh      3019 C222100-B    Lo Ni Po           830 Im
+Urir Gug      3113 E342756-4    Po                 604 Sy
+Markasher     3115 E100300-5    Lo Ni Va           320 Sy
+Khiiir        3117 B200531-9    Ni Va              314 Sy
+Lemik         3118 C56A723-A    Wa                 411 Im
+Zikhi         3211 D427213-9    Lo Ni              902 Im
+Shand         3216 C964111-7    Lo Ni              713 Sy
+Kaskii        3218 B300767-E  N Na Va              904 Im

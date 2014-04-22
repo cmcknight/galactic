@@ -1,0 +1,33 @@
+@SUB-SECTOR: m SECTOR: Gateway
+#
+# Jump-routes
+$0433 0430 0 -1 13
+$0631 0430 0 -1 13
+$0631 0831 0 0 13
+$0831 1030 1 -1 13
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Rock          0837 E420200-6    De Po              112 Na
+Hadley Station0239 CABA200-8    Fl Wa              713 Na
+Grosbeak      0831 C7C0200-A    Lo Ni De           710 Ga
+Pendejest     0437 CAB2358-7    Lo Ni Fl           821 Na
+Grom          0536 EAA0300-7    De Lo              601 Na
+Basilisk      0732 D750300-9    De Po              224 Ga
+Brevin        0140 D463310-A    Lo Ni              120 Na
+Mork          0340 C558445-4    Ni                 711 Na
+Dumnar        0433 C554511-7    Ag Ni              700 Ga
+Basternevis   0639 C575556-8    Ag Ni              521 Na
+Sanderay      0631 C59A578-9    Wa                 911 Ga
+Hesperinth    0236 E673675-8    Ni                 905 Na
+Renaldo       0233 C230668-9    Na Ni Po De        323 Na
+Jove          0637 C210643-9    Na Ni              912 Na
+Caldwell      0332 A401654-A  N Na Ni Va Ic        323 Na
+Shivaree      0735 E768758-7    Ag Ri              812 Na
+Baker         0334 B87679B-8  N Ag                 105 Na
+Monopoly      0534 C88889A-5    Ri                 213 Ga
+Somberview    0838 B210899-7    Na                 602 Na
+Thomwell      0337 B7768AB-8                       601 Na
+Aqua Marina   0832 B58A854-A    Ri Wa              400 Ga
+Harper        0135 E647ABC-9    Hi In              115 Na

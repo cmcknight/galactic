@@ -1,0 +1,23 @@
+@dir=gals\classic\vanguard\gen
+@Light Yellow
+
+Vanguard Reaches / General Information
+
+@Light Cyan
+      Sector Data                @..\map\data.mnu
+      Credits                    @..\credits.txt
+
+      Subsector Summaries        @subs.mnu
+
+      Cautionary Note            @caution.txt
+
+      Astrography                @astro.txt
+      Commerce                   @trade.mnu
+      Governments                @gov.mnu
+      Races                      @races.mnu
+      Vanguard Reaches           @vanguard.txt
+
+
+@Light Green
+   See the Paranoia Press Homepage at:
+      http://www.inlink.com/~scoundrl/paranoia.htm

@@ -1,0 +1,39 @@
+@SUB-SECTOR: sec_e   SECTOR: oldexpan
+#
+#--------1---------2---------3---------4---------5-----f----6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Klan          0112 X7978TB-5                    B  800 Wi
+Wott          0113 X530000-0    Ba De Po           024 Un
+Dachnis       0114 X212000-0    Ba Ic              010 Un
+Xulfor        0117 E35A4O6-5    Lo Ni Wa           522 Wi
+Jenms         0118 D5616N3-6  S Ni C:4             102 Wi
+Laurence      0212 X4466P2-4    Ag Ni              112 Wi
+Ranb          0311 E7667T8-6    Ag D:2             802 Wi
+Olxber        0312 X000000-0    Ba As              014 Un
+Bede          0317 X201000-0    Ba Ic Va           000 Un
+Strat         0318 X9BA000-0    Ba Fl Wa           004 Un
+Babellet      0412 E7576R8-5    Ag Ni           B  104 Wi
+Clersor       0413 X100000-0    Ba Va              010 Un
+Exage         0416 XA859RD-8    Hi              B  104 Wi
+Seefare       0418 X310000-0    Ba                 010 Un
+Polei         0419 X86A8R5-5    Wa              B  604 Wi
+Waroh         0512 X7898RE-4                    B  820 Wi
+Yeroltoy      0513 XA4376B-0    Po D:0          B  935 Dr
+Frallsord     0516 X4627RB-0                       404 Wi     f
+Ajjeig        0518 X325000-0    Ba                 004 Un
+Srys          0520 X7679R9-6    Hi              B  202 Wi
+Vinooks       0613 X4404N0-5    De Lo Ni Po        203 Wi
+Afrend        0614 X6768WB-3                       801 Wi
+Marsol        0620 X122000-0    Ba Po              004 Un
+Sulthanbran   0712 X000000-0    Ba As              014 Un
+Lidator       0713 X9CA000-0    Ba Fl Wa           020 Un
+Vard          0714 X9BA000-0    Ba Fl Wa           004 Un
+Ilm           0715 X6628XA-5                       315 Wi
+Sarcathon     0716 D9637VB-8    C:2                304 Wi
+Ritaboll      0717 X35A6R9-3    Ni Wa           B  904 Wi
+Zinorow       0811 X6888V9-6                    B  804 Wi
+Flanture      0812 X7437R9-5    Po              B  805 Wi
+Quan          0813 X530000-0    Ba De Po           004 Un
+Inftow        0817 X203000-0    Ba Ic Va           013 Un
+Yerhen        0818 X3747RC-4    Ag D:1             703 Wi

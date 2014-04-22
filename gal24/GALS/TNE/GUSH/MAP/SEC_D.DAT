@@ -1,0 +1,51 @@
+@SUB-SECTOR: sec_D   SECTOR: gush
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Kell          2501 X76A985-6    Hi Wa              102 Wi     f
+Sayayr        2502 X735000-0    Ba                 010 --
+Bradt Landing 2503 X8B9000-0    Fl Ba              023 --
+Routeburn     2504 D37056A-6    Ni De              101 Wi     f
+Shiramuunir   2507 X44466B-9  S Ag Ni           B  431 Wi     f
+Jonosva       2509 X9C7000-0    Fl Ba              003 --     f
+Ellje         2609 X7A6000-0    Fl Ba              015 --
+Tosiv         2610 X525000-0    Ba                 010 --
+Fubanan       2701 XA9A333-6    Lo Ni Wa        B  500 Wi     f
+Kyla          2704 XA7A224-8    Lo Ni Wa           100 Wi     f
+Xenicus       2705 XAE4000-0    Ba                 004 --
+Sinish Giken  2706 X331000-0    Ba Po              020 --
+Hunnan        2707 X360644-5    Ni De              503 Wi     f
+Minev         2709 D340310-5    Lo Ni Po De        304 Wi     f
+Aakmi         2801 X765768-4    Ag              B  100 Wi     f
+Trindewranda  2802 X222000-0    Ba Po              003 --
+Giikika       2804 E5446AD-5    Ag Ni           B  510 Wi     f
+Sahee         2806 X96A784-6    Wa              B  102 Wi     f
+Ka Maz        2807 X380434-5    Lo Ni De           104 Wi     f
+Luuen         2809 X321000-0    Ba Po              004 --
+Mekar         2810 X584587-7    Ag Ni              400 Wi     f
+Pucuro        2904 X6426AA-5    Ni Po           B  301 Wi     f
+Beheld        2905 X257540-4    Ag Ni           B  314 Wi     f
+Tasazhas      2906 D898527-2    Ag Ni              211 Wi
+Lishan        2907 X310000-0    Ba                 013 --     f
+Muidmu        2910 XAE7000-0    Ba                 000 --
+Fuqui         3002 X533000-0    Ba Po              000 --     f
+Nyamuleju     3003 X14046A-3    Lo Ni Po De        504 Wi     f
+Raoh          3004 X555766-3    Ag                 300 Wi     f
+Upaniv        3006 X567411-4    Lo Ni              203 Wi     f
+Ivahllo       3007 D75635A-6    Lo Ni           B  300 Wi     f
+Suhho         3008 X300000-0    Ba Va              003 --
+Miz*rskua'mr  3009 X5534C8-8    C1 Lo Ni Po        202 Wi     f
+Inkia         3101 X7A4000-0    Fl Ba              010 --
+Yta Akat      3103 X8B0564-4    Ni De              303 Wi     f
+Tullyree      3104 X235000-0    Ba                 004 --
+Kukhun        3105 X658875-8                    B  803 Wi     f
+Aphu          3106 X7A5000-0    Fl Ba              025 --
+Llaet         3107 E587000-0    Ba                 011 Wi     f
+Urssursfa'    3110 X565444-3    Lo Ni              303 Wi     f
+Kumkhap       3202 X78A595-6    Ni Wa              502 Wi     f
+Miha          3203 X779000-0    Ba              B  012 Wi     f
+Bearnagh      3205 X64356C-5    Ni Po           B  423 Wi     f
+Hillalk       3206 X100000-0    Ba Va              005 --
+Chzaar        3208 X638000-0    Ba                 024 --     f
+Sadetha       3210 X504000-0    Ba Va Ic           024 --

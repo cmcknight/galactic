@@ -1,0 +1,52 @@
+Carbuncle       X100000-0 Va Ba      (1201)
+                A100203-F Ni Va      (1110)
+
+Pre-Collapse Population: 300            Pre-Collapse TL: High Stellar
+Objective Classification: VII
+
+        Before the Collapse, Carbuncle was a stellar observatory devoted 
+to studying the system primary, an M2 II. The observatory was situated 
+underground on an airless ball of rock in the star's inner zone, and 
+was almost totally dependent on regular supply ships. The station was 
+temporarily evacuated during the early stages of the Final War, 
+reoccupied after the region stabilised under Solomani rule, and was 
+finally abandoned for good during the Hard Times immediately preceeding
+the Collapse, the 320 observatory staff returning to Wulfe. Ships 
+continued to visit every six months or so to collect data packages and
+perform maintenance on the now-automated observatory, the last such 
+visit occuring in early 1131.
+        Late in 1131, the base was again visited, this time by a refitted
+ex-Tukera lines freighter crowded with refugees. A small crew reactivated
+the mothballed habitat, the refugees were shuttled down, and the freighter
+(_Cumulus_) departed for the system's gas giant to refuel. It never 
+returned. Soon after Cumulus was declared overdue, the overcrowded habitat 
+began to suffer from a worsening series of hardware glitches and computer 
+failures, culminating in a total life-support failure. Locked in the dark, 
+with no heat, light or air, the refugees perished.
+
+THE OBSERVATORY: The observatory has a working (but inactive) TL-15
+                fusion power plant and astronomical sensors, but no working
+                computer - the Virus long having destroyed them in its 
+                suicide. The rooms and corridors are crowded with the
+                dessicated corpses of a little over a thousand men, women,
+                and children, as well as a few (full - Ewwww!) vacc suits.
+
+CUMULUS: Cumulus was already infected with Virus when it docked at the
+        observatory; the crew became aware of the infection during the
+        refuelling operation and attempted to excise it from the computer.
+        The Virus retaliated by overriding the life-support system and
+        flushing the crew out into space. The few who tried to escape in 
+        the shuttle perished when it plunged into the gas giant's 
+        atmosphere after being crippled by laser fire. However, the crew 
+        were at least partially successful - they managed to disable 
+        Cumulus's maneuvre drives, thus preventing the ship from attacking 
+        the refugees or infecting others. 
+
+        Currently the ship is drifting around the gas giant, sealed up,
+        with mostly empty tanks and minimal power. The Virus is dormant,
+        but will awaken if it is boarded, or if it detects radio traffic.
+
+SYSTEM DATA:
+Primary:                M2 II
+Secondary:              K0 D
+

@@ -1,0 +1,21 @@
+System: Unlardigard
+Subsector: Dashinshaii
+Sector: Gushemege Sector
+Coordinates: 1930 (K0310)
+UWP: B3109AB-G
+
+Starport: Good
+Size: Small (4000-5600 km)
+Atmosphere: Trace
+Hydrographics: No liquid water
+Population: 5 billion
+Govt: Charismatic Dictatorship
+Law Level: Extreme
+Technology: High Stellar
+
+Bases: None
+Trade Codes: Hi Na In De     
+Travel Zone: Green
+Planetoid Belts: 0
+Gas Giants: 4
+Allegiance: Imperial

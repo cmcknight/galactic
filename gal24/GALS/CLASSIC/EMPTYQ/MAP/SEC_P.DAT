@@ -1,0 +1,12 @@
+@SUB-SECTOR: sec_P   SECTOR: emptyq
+#
+# Trade routes within the subsector
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Manado        2536 E537000-0    Ba              A  002 Im
+Stopover      2635 A669669-9    Ni Ri O:2434       420 Na
+O             2839 C4656BC-A                    A  600 Na
+Occusi        2933 A32459B-B    Ni                 120 Na
+Salayar       3136 B434876-B    Ri Sw              604 Na

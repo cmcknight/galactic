@@ -1,0 +1,124 @@
+
+    HIWG
+
+    HIWG Document: #  HD3422                          Date: 05-01-1993
+
+    From: Leighton Piper
+          Gushemege Sector Developer
+          11 Skeffington Road,
+          PRESTON,
+          Lancs., PR1 5UP.
+          UK.
+
+    To:   David Burden, Gushemege Sector Ananlyst
+          J. Duncan Law-Green, Vland Domain Editor.
+          Clayton R. Bush, Quadrant 1 Editor.
+          Kevin Parry, HIWG (UK).
+
+    Abstract: Summary  of Sallounn subsector (J  of Gushemege) giving basic
+    details of the systems.
+
+    SALLOUNN SUBSECTOR
+
+    As part  of the Rurevayn  region, Sallounn has  many of the  social and
+    cultural attributes of Rure. The  naturalist ambition is rife, disorder
+    common and the darker technologies abundant.
+
+    The Zilu system  is home to a small  colony of Droyne, no more  than an
+    extended family,  and a scout  way station. The  scouts moved into  the
+    system to ensure the security of the Droyne. The world offered the IISS
+    an ideal  site for the  development of a  depot and finally  into a way
+    station.  The scouts  applied for   and received  an amber  travel zone
+    status to restrict access to the world and the scout base in particular
+    as well as to the Droyne colony.
+
+    The discovery  of vast undersea mineral  reserves fueled the industrial
+    and population  expansion of Gigimu.  Huge grav submersibles  transport
+    the ores from  the undersea dome-mones to the  primitive starport where
+    the ore  is shippped out to  the industrial centres Private  and public
+    investors have funded the development and construction of a large class
+    B orbital facility to process the ores  but at the moment completion is
+    not  expected til  1124-25. Building  has however  ground to  a halt as
+    government funding and engineering/technicians are withdrawn to aid the
+    production of new naval starships.
+
+    Dueling  on Syrol  (1223) is  a legimate  and common  means of settling
+    disputes and disagreements.  Often the 'victim' of an  insult or injury
+    will seek  recompense via a  duel - those  ignorant of the  customs are
+    usually not spared the formality, and many unfortunatelly many visitors
+    on  Syrol have  perished for  minor transgressions.  Hence the  systems
+    amber  status. All  the dueling  is encoded  in a  formal manner  which
+    encompases a wide sub-culture of protocol, ettiquette and honour.
+
+    In  1118  the  major  population  centres  on  Panisse  were  evacuated
+    following the sabotage of a power station by a pro-Lucan faction on the
+    world. The  fusion reaction was  destroyed setting off  a thermonuclaer
+    explosion  which devastated  a 20   km diameter  zone around  the site,
+    destroying  the starport.  A further  80 km  zone was  irradiated. More
+    siginificantly  the explosion  triggered off  intense tectonic activity
+    resulting in major earthquakes  and volcanic activity. This devasteated
+    the seaboard cities of the Askam  continent forcing thr movement of the
+    population inland. There has beeen few resources to rebuild and much of
+    the coastal settlements lay in ruins. The cities are now only inhabited
+    by ghosts, bandits, renegades and looters. The IISS have classified the
+    world as a red zone.
+
+    Name          Hex  UWP          Codes              Data   Stellar Data
+
+    Obarr         0921 B53468A-B  N Ni                 204 Im M3 V
+    Chang         0922 A775112-C    Lo Ni              703 Im K2 III
+    GIGIMU        0923 EA9A941-B    Hi In Wa           902 Im M0 V M0 D
+    Zilu          0924 B326353-B  W D1 Lo Ni        A  401 Im M4 V M6 D
+    Tamesh        0925 B87A740-9    Wa                 202 Im M7 VI
+    Igamaal       0926 B457669-C    Ag Ni              403 Im M4 V M6 D
+    Saol          0927 E678457-A    Ni                 321 Im G5 D
+    Ongelbal      0928 C692300-8    Lo Ni              313 Im M8 V
+    Dehruu        0930 E442586-A    Ni Po              223 Im M2 VI
+    Bragg         1021 C471344-A    Lo Ni              900 Im K9 III M9 D
+    Lorris        1023 C120000-E    Lo Ni Po De Ba     615 Im K3 V
+    Ienda         1025 C767469-B    Ni                 704 Im M2 V M8 D
+    Fiaf          1026 E78A442-9    Ni Wa              500 Im M9 VI
+    Taluu         1027 C200879-C  S Na Va              822 Im M0 V M9 D
+    Justine       1029 C270679-A    Ni De              602 Im F2 V
+    Panisse       1122 X436457-7    Ni              R  313 Im M4 V
+    Rumulaar      1123 C88A203-8    Lo Ni Wa           401 Im M4 V
+    Creca         1124 B524537-A  S Ni                 412 Im K2 V
+    Hanseat       1125 A300532-C    Ni Va              300 Im K4 V
+    Unuv          1127 C223689-9    Na Ni Po           102 Im M4 V M9 D
+    Kaakaa        1128 C350553-C    Ni Po De           702 Im K4 V
+    Intnalta      1129 B220457-G    Ni Po De           813 Im M7 IV M4 D
+    Coernelf      1221 E410578-6    Ni                 802 Im M2 V
+    Syrol         1223 B36366A-C  S Ni Ri           A  503 Im F0 IV
+    Forgane       1225 A321341-E  A Lo Ni Po           824 Im M9 V
+    Iest          1227 C33169D-B  S Na Ni Po           524 Dr M2 V
+    Indurain      1228 E455553-8    Ag Ni              403 Im M4 V
+    Lish          1321 C665300-9    Lo Ni              421 Im M0 V M5 D
+    Berall        1322 B587345-B  S Lo Ni              404 Im G9 IV
+    Vesuata       1328 A130477-D  N Ni Po De Cp        703 Im K4 V M9 D M9 D
+    Yellsar       1422 C262888-7    Ri                 703 Im G2 V M8 D
+    Fairbriar     1423 B411789-B  N Na Ic              704 Im M0 V
+    Diro          1425 B000331-D  S Lo Ni As           103 Im G8 VI
+    Tikav         1426 B263867-D  N Ri                 604 Im M1 V M2 D
+    Xerxes        1430 B526543-E  N Ni                 600 Im M8 IV M7 D
+    Yellsar       1422 C262888-7    Ri                 703 Im G2 V M8 D
+    Fairbriar     1423 B411789-B  N Na Ic              704 Im M0 V
+    Diro          1425 B000331-D  S Lo Ni As           103 Im G8 VI
+    Tikav         1426 B263867-D  N Ri                 604 Im M1 V M2 D
+    Xerxes        1430 B526543-E  N Ni                 600 Im M8 IV M7 D
+    Haysher       1521 C7648BB-6                       203 Im G9 IV M0 V
+    Cervantes     1522 B567664-7  N Ag Ni Ri           111 Im M4 D
+    Colehco       1523 BAE7230-A  S Lo Ni Fl           623 Im M3 V M7 D
+    Andonin       1525 C410225-D    Lo Ni              303 Im K9 V
+    Griissound    1526 E362513-5    Ni                 512 Im M0 V
+    Whiapluur     1528 B498536-9  N Ag Ni              413 Im G2 V M5 D
+    Twahoy        1529 E441441-9    Ni Po              704 Im M1 V M1 D
+    Hemster       1530 B420510-B  N Ni Po De           205 Im M0 III
+    Blullaygh     1622 C648453-B  S Ni                 603 Im K1 V
+    Fraynj        1623 C848523-B    Ag Ni              300 Im K3 IV
+    Leraag        1624 C520455-9  S Ni Po De           203 Im M1 V M0 D
+    Emur          1625 C264599-A    Ag Ni              314 Im G0 V
+    Nuuhlam       1627 D400102-9  S Lo Ni Va           522 Im M3 V
+    Pesuune       1629 C534544-A    Ni                 615 Im M1 V K1 D
+
+    Highest tech level = G, Intnalta;  Highest population = 9, Gigimu (9.24
+    billion); Total population = 13.77 billion.

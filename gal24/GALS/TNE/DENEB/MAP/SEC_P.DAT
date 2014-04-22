@@ -1,0 +1,9 @@
+@SUB-SECTOR: sec_P   SECTOR: deneb
+#
+# Trade routes within the subsector
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Consequence   2734 X525000-0    Ba                 010 --
+Asharam       3031 D762730-3    V:3             B  622 Wi

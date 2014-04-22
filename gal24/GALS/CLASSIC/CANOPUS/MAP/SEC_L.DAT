@@ -1,0 +1,30 @@
+@SUB-SECTOR: sec_L   SECTOR: canopus
+#
+# Trade routes within the subsector
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Parish        2524 C869732-A                       224 So
+Tarbell       2529 D310662-4  S Na Ni              503 So
+Beagan        2625 A639340-E  N Lo Ni              110 So
+Mabel         2626 C88A200-A    Lo Ni Wa           902 So
+Rex           2722 B5477AC-A  N                    123 So
+Fater         2724 B9C399A-D    Fl Hi              223 So
+Tark          2725 X529346-3    Lo Ni              423 So
+Lares         2825 B000698-B  N As Na Ni Va        524 So
+Chare         2827 B433257-C  N Lo Ni Po           725 So
+Kathleen      2828 B794631-9  N Ni                 323 So
+Bellanca      2924 A899102-E  S Lo Ni              204 So
+Foirenza      2928 E401444-8    Ic Lo Ni Va        214 So
+Saltmersh     3023 B6A3687-A    Fl Ni              700 So
+Dalthoth      3026 C635502-C    Lo Ni              603 So
+Royce         3122 B423254-E    Lo Ni Po           711 So
+Odysseus      3123 E9B3467-5    Fl Lo Ni           803 So
+Gerry         3125 E450454-5    De Lo Ni Po        310 So
+Bremen        3127 C230050-C  S De                 223 So
+Armco         3128 D256976-A    Hi                 104 So
+Copyn         3221 E6746A5-7    Ni                 102 So
+Adolphus      3224 C443584-B    Lo Ni Po           204 So
+Rogerson      3228 B885532-7  N Ag Lo Ni           910 So
+Vengs         3229 C56158A-9    Lo Ni              904 So

@@ -1,0 +1,34 @@
+@SUB-SECTOR: sec_G   SECTOR: canopusc
+#
+# Trade routes within the subsector
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Nell          1713 X47786D-6                       102 Wi
+Burre         1714 X85776E-7                    B  203 Wi
+Christensen   1716 D96656C-3    Ag Lo Ni        B  024 Wi
+Sudan         1717 X537000-0    Ba                 013 --
+Thimbu        1816 X757352-4    Ag Lo Ni           304 Wi
+Kyduyll       1819 X9A6000-0    Ba Fl              004 --
+Goldyng       1911 X8A1000-0    Ba Fl              000 --
+Mancournes    1915 X100000-0    Ba Va              015 --
+De Catnay     1916 X120000-0    Ba De              015 --
+Cavendish     1917 X000000-0    As Ba              002 --
+McClellan     2016 E677302-2    Ag Lo Ni           100 Wi
+Fate          2018 C57656C-7    Ag Lo Ni           114 Wi
+Daeltun       2019 E464868-3    Ri                 103 Wi
+Trem          2112 X44856E-2    Ag Lo Ni        B  404 Wi
+Ar            2115 D573598-7    Lo Ni              120 Wi
+Annubi        2116 X783A9B-6    Hi              B  102 Wi
+Patter        2117 X227000-0    Ba                 013 --
+Grindall      2211 D374257-6    Ag Lo Ni           314 Wi
+Sternberg     2216 X500000-0    Ba Va              002 --
+Tristan       2312 C441448-3    Lo Ni Po           423 Wi
+Stratford     2313 X67659A-5    Ag Lo Ni        B  301 Wi
+Vermpe        2314 X341546-5    Lo Ni Po           204 Wi
+Eisa          2316 X300000-0    Ba Va              010 --
+Cattall       2412 X337000-0    Ba                 003 --
+Caprice       2413 XAB3000-0    Ba Fl              013 --
+Pasadena      2414 X6A3000-0    Ba Fl              021 --
+Bannor        2418 D447656-7    Ni                 303 Wi

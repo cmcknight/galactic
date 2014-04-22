@@ -1,0 +1,55 @@
+Mendan Sector
+
+A: Zuugabish                 sec_a.dat
+B: Gainla                    sec_b.dat
+C: Armi                      sec_c.dat
+D: Mendan                    sec_d.dat
+E: Bammesuka                 sec_e.dat
+F: Kupid                     sec_f.dat
+G: Udinidir                  sec_g.dat
+H: Tozus Ganok               sec_h.dat
+I: Sarkan                    sec_i.dat
+J: Lumda                     sec_j.dat
+K: Valosak                   sec_k.dat
+L: Kaasam                    sec_l.dat
+M: Ikdalon                   sec_m.dat
+N: Lasla                     sec_n.dat
+O: Maidza                    sec_o.dat
+P: Naem                      sec_p.dat
+
+Bases:
+N = Naval Base
+J = Naval Base
+F = Military and Naval Bases
+C = Corsair Base
+G = Naval Base
+H = Naval & Corsair Bases
+M = Military Base
+  = None
+
+Allegiance:
+12 Im = Imperial
+07 Na = Non-aligned
+04 Cs = Imperial Client State
+09 Va = Vargr (non-aligned)
+05 Vx = Vargr (Antares Pact)
+15 JP = Julian Prot. (Unincorporated)
+15 Jc = Julian Prot. (Const. of Koekhon)
+15 Jo = Julian Prot. (Alliance of Ozuvon)
+15 Ja = Julian Prot. (Asimikigir Confed.)
+15 Hl = Julian Prot. (Lorean Hegem.)
+15 Jh = Julian Prot. (Hhkar Sphere)
+15 Jr = Julian Prot. (Rukadukaz Repub.)
+15 J- = Julian Prot. (Unincorporated)
+15 Jm = Julian Prot. (Cmnwlth of Mendan)
+15 Jl = Julian Prot. (Lumda Dower)
+15 Jv = Julian Prot. (Vugurar Dominion)
+15 Jp = Julian Prot. (Pirbarish Starlane)
+15 Ju = Julian Prot. (Ukhanzi Coord.)
+15 Vw = Julian Prot. (Rar Errall/Wolves W.)
+02 Ga = Third Empire of Gashikan
+03 Ba = Confederation of Bammesuka
+06 Sc = Sarkan Constellation
+10 Zu = Zuugabish Tripartite
+08    = Unknown
+

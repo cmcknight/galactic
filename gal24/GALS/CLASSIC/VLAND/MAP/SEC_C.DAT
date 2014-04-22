@@ -1,0 +1,58 @@
+@SUB-SECTOR: sec_C   SECTOR: vland
+#
+# Trade routes within the subsector
+$1709 1509 -1 0
+$1709 1909 0 0
+$1909 2111 0 1
+$2409 2111 0 1
+$2409 2308 0 0
+$2308 2205 0 0
+$2308 2605 1 0
+$2409 2503 1 1
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Taksarrgh     1701 B624697-9    Ni                 710 Vn
+Dathsuts      1703 C210000-9    Lo Ni Ba           901 Vn
+Rronaetuts    1704 D224142-4    Lo Ni              120 Vn
+Ugarun        1705 C7C07A8-B    De                 402 Vn
+Zelaklaka     1708 C7B2000-B  S Lo Ni Fl Ba        301 Rv
+Zigaadig      1709 B541389-A    Lo Ni Po           523 Rv
+Tollori       1710 B884436-8  A Ni                 501 Rv
+Newcastle     1801 C567669-8    Ag Ni Ri           802 Vn
+Zannokh       1802 B545235-7    Lo Ni              920 Vn
+Ronni         1803 C645576-8    Ag Ni              522 Vn
+Kashiin       1804 B14089E-7  N Po De              620 Vn
+Ranilson      1807 C999421-9  S Ni                 301 Rv
+Eshu          1810 D360100-B  S Lo Ni De           322 Rv
+Ghurrllekh    1901 C560558-A  C Ni De              120 Vn
+Gemid         1903 A423979-G  N Hi Na In Po        724 Vn
+Daama         1904 B576438-9    Ni                 401 Vn
+Envar         1906 D9C5333-5  S Lo Ni Fl           701 Rv
+Kakkin        1907 B423333-B    Lo Ni Po           402 Rv
+Nashazi       1909 A300211-E    Lo Ni Va           120 Rv
+Gadushan      2005 C536488-B  S Ni                 510 Rv
+Niitomok      2006 C552595-A    Ni Po              201 Rv
+Kaaka         2007 C898662-9  S Ag Ni An           901 Rv
+Morimur       2008 C450AAE-B    Hi Po De           113 Rv
+Miiko Belt    2101 C000234-8    Lo Ni As           820 Vn
+Hteh Hut      2103 A000546-E    Ni As              811 Cs
+Ninnigam      2105 C9A57A6-9  S Fl                 710 Rv
+Hellvaplace   2106 DAB3023-9    Lo Ni Fl           901 Rv
+Sadniben      2107 C778878-5  S                 A  204 Rv
+Angvae        2203 C657510-7  C Ag Ni              720 Va
+Anarsi        2205 B7479EA-E    Hi In              920 Rv
+Kuzashamir    2208 E546853-7                       520 Rv
+Deglaraarbiis 2210 E737725-7                       312 Rv
+Knaeghzoka    2301 B4317A6-A    Na Po              401 Cs
+Nelak         2306 C64A6AA-B    Ni Wa              110 Rv
+Bolziin       2308 B210212-C  N Lo Ni              914 Rv
+Moribur       2309 C150650-D    Ni Po De           920 Rv
+Barshun       2310 B510683-C    Na Ni              620 Rv
+Kfoerudzo     2402 B559253-D    Lo Ni              921 Va
+Derekam       2406 C5468CB-8                       120 Rv
+Gida          2407 E200265-9    Lo Ni Va           810 Rv
+Shabii        2408 B854010-A    Lo Ni              301 Rv
+Sardiika      2409 A44467B-B  A Ag Ni              210 Rv
+Karamursel    2410 C338235-9  S Lo Ni              520 Rv

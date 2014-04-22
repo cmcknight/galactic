@@ -1,0 +1,34 @@
+@SUB-SECTOR: sec_B   SECTOR: 1war_st
+#
+# Trade routes within the subsector
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Imigirii      0902 C433579-7    Ni Po              513 Zs
+Badarmii      0903 E422252-9    Lo Ni Po           112 Zs
+Urig          0907 E200100-B    Lo Ni Va           922 Zs
+Giikjursh     0909 E430000-0    Ba De Lo Ni Po     012 Zu
+Aduga         0910 E8AA000-0    Ba Fl Lo Ni Wa     022 Zu
+Khedish       1002 C556455-9    Ni                 622 Zs
+Shaabipili    1007 B553556-B    Ni Po              514 Zs
+Neru          1105 E237000-0    Ba Lo Ni           010 Zu
+Kigkishidi    1107 C754787-6    Ag                 223 Zs
+Munu          1110 E111000-0    Ba Ic Lo Ni        035 Zu
+Niimem        1201 E8A5000-0    Ba Fl Lo Ni        012 Zu
+Kikhena       1202 C3479C8-7    Hi In              814 Zs
+Ruuzamasu     1205 E236000-0    Ba Lo Ni           000 Zu
+Kinkii        1207 B562698-8    Ni Ri              723 Zs
+Agediishim    1304 E563777-3    Ri                 412 Zs
+Ledudbaa      1306 E222111-7    Lo Ni Po           620 Zs
+Gulimaru      1402 E7A6000-0    Ba Fl Lo Ni        012 Zu
+Baagiigip     1404 E335000-0    Ba Lo Ni           002 Zu
+Azaremiid     1405 A766989-B  N Hi                 212 Zs
+Ugdak         1406 E222000-0    Ba Lo Ni Po        010 Zu
+Shimabula     1504 BA64985-6    Hi                 602 Zs
+Suun          1505 B785987-9    Hi                 314 Zs
+Shar          1507 B7657BF-9    Ag                 620 Zs
+Imarir        1510 E250000-5    Ba De Lo Ni Po     034 Zu
+Darpum        1604 E100000-0    Ba Lo Ni Va        002 Zu
+Emudgark      1607 E532000-0    Ba Lo Ni Po        002 Zu
+Daarmar       1609 E337000-0    Ba Lo Ni           025 Zu

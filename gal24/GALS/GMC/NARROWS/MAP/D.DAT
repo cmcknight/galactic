@@ -1,0 +1,22 @@
+@SUB-SECTOR: Wallace SECTOR: Narrows
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Dayuill       2503 X886321-0    Lo Ni              700 Id
+Torrance      2603 B246885-8  I                    202 Id
+Carita        2606 C97A538-8    Ni Wa           A  611 Ar
+Nausom        2610 E74783A-1                    A  500 Ar
+Walton        2703 D585772-4    Ag Ri              104 Id
+Inverness     2704 DAA2452-9    Fl Ni              510 Id
+Aragi         2708 AAB59BE-A  I Fl Hi              112 Ar
+Mielo         2709 X525000-0    Ba Lo Ni           013 Ar
+Chrysler      2710 C35073A-8  A De Po              712 Ar
+Pegeen        2810 DA9A634-3    Ni Wa              314 Ar
+Kyna          2905 C623445-9    Ni Po              624 Id
+Stearns       2910 C7A0331-7    De Lo Ni           504 Ar
+Charleston    3006 B480646-6    De Ni Ri           125 Id
+Zarkov        3010 D328568-8  A Ni              A  714 Ar
+Olivia        3201 C89A675-5    Ni Wa              821 Id
+Terpsichore   3205 C1009CB-8    Hi Na Va           202 Id
+Pozart        3208 C776221-5    Lo Ni              913 Id

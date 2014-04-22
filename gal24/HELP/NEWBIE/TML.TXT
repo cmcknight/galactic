@@ -1,0 +1,75 @@
+
+One good way to meet hundreds of other people who are interested
+in Traveller is to join the Traveller Mailing List. The list comes
+in two varieties: (1) a normal version where you get each list post
+as a separate email message, and (2) a digest version where the list
+software sticks a whole bunch of posts together into a single mailing.
+
+To subscribe: mail majordomo@mpgn.com
+
+What message subject you choose is unimportant. However, the body
+of your message determines which list(s) you will subscribe to.
+
+     subscribe traveller             Normal Traveller Mailing List
+     subscribe traveller-digest      Digest Traveller Mailing List
+
+You can also append your email address to these list commands to
+control the exact address which the list-server will know you by.
+For example:
+
+     subscribe traveller bubba@bubba.org
+
+If you want to check out past material, digest archives are
+available via ftp:
+
+     ftp://ftp.mpgn.com/Gaming/SciFi/Traveller
+
+If you are having difficulties with subscribing and need to talk
+to a real live person, send email to traveller-request@mpgn.com.
+If you need help with the digest archives, send email to
+ftp-maint@mpgn.com.
+
+There is also a mailing list for discussion of Traveller: The
+New Era. To subscribe, send "subscribe tne-rces Your Name" to
+listproc@tower.ml.org
+
+There are also three other Traveller-related mailing lists:
+
+trav-tech-request@qrc.com       Traveller Technology Mailing List
+hiwg-twg-request@qrc.com with   Traveller Writers Guild
+trav-cd-request@qrc.com         Traveller CD List
+
+I think you can mail the command "subscribe" to any of these in order
+to sign on.
+
+There is also the ISBA (Imperial Ship Builders Association), and I
+believe there's a GURPS:Traveller List, although I'm not too sure
+how you can subscribe. Ask around.
+
+There is also the Traveller Culture Development List (formerly the
+Traveller Language Development List). Mail to listserv@mail.execnet.com
+with a body line of "subscribe travlang".
+
+For those interested in other rpg mailing lists, send the command
+"lists" to either majordomo@mpgn.com or listproc@tower.ml.org or
+even listserv@mail.execnet.com
+
+You can also send the command "help" to nearly any list-server
+address for more information about subscribing, obtaining archives,
+etcetera, for that list-server's set of mailing lists. Keep in mind
+that whenever you are communicating with list-service software, you
+should not include an automatic signature. List-service software will
+typically attempt to interpret every line of your message in order
+until it either reaches the end of your message or comes to the word
+"end" on a line by itself.
+
+Two final plugs. If you're interested in getting on a mailing list
+for the development of Galactic, send the command "subscribe
+burdickd_galactic" to majordomo@indiana.edu
+
+Also, if you are interested in helping with the development of an
+all-new sfrpg (near future), write me at jimv@empirenet.com. I've
+been slowly putting together a science-fiction rpg setting with the
+help of some others on the net and will likely be (re)starting a
+mailing list for its development.
+

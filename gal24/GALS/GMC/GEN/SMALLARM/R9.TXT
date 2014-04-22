@@ -1,0 +1,39 @@
+r9 Combat Rifle
+
+The r9 combat rifle was introduced to Magellanic service shortly after the
+First Mwoah War as a replacement for the r3. Unfortunately it proved to be a
+disappointing weapon, deficent in range and hitting power, as well as being
+prone to malfunction under field conditions. However the r9 was manufactured
+in considerable quantities and many of these weapons have since been disposed
+of to other states. The Karadzic Empire purchased considerable numbers of
+this weapon and later aquired the surplus production tooling and under the
+guise of the Vz 204, have adopted it as their standard infantry weapon. No
+manufacturer currently produces a version of the r9 for the civilian market,
+though the Phoenix Corporation did at one time produce a semiautomatic only
+variant (the Phoenix 5900); however production of this weapon was terminated
+in 2295T.
+
+The r9 is a bullpup combat rifle firing 5mm caseless ammunition from a 250
+round detachable magazine. The r9 is capable of either semiautomatic, 5 round
+burst or full cyclic fire (1250rpm). The extremly high rate of fire, coupled
+with its generous magazine capacity enables it to make a +2DM autofire attack
+per 125 rounds fired. The weapon is fitted with an intergral laser sight, a
+basic bipod for use as a squad automatic weapon and is fully gyrostablised.
+
+Weapon: r9 combat rifle
+Action: Gas - singleshot, burst (5), cyclic (1250)
+Ignition: Electric
+Tech Level: 9
+Calibre: 5mm MSO caseless
+Penetration: 4
+Range: short
+Malfunction: unreliable
+Shots: 250
+Mass: 3.8kg
+Reloads: 1.1kg
+Length: 47cm
+Cost: Cr 1060 (Phoenix 5900: Cr 710)
+Incidentals: 50 rounds ball: Cr 15 (0.16kg)
+             5 hour rechargeable battery pack: Cr 5 (0.5kg)
+             20 hour disposable battery pack: Cr 2.5 (0.5kg)
+             empty 250 round magazine: Cr 25 (0.3kg)

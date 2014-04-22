@@ -1,0 +1,42 @@
+@SUB-SECTOR: Sanches SECTOR: Core
+#
+# Trade routes within the subsector
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Per           0112 B673111-9    Lo                 103 Im
+Khishi        0113 E7A8000-0    Fl Ba              003 Ba
+Khid          0114 C250243-9    Po De Lo           920 Im
+Idpuu         0116 B485754-8    Ag Ri              411 Im
+Neki          0117 C664522-6    Ag Ni              410 Im
+Kein          0120 C244547-8    Ag Ni              700 Im
+Gir           0212 B645411-8    Lo                 903 Im
+Emuuis        0216 C422100-A    Lo Po              104 Im
+Darnii Kimi   0218 D878111-4    Lo                 614 Im
+Inir          0220 E88A000-0    Wa Ba              003 Ba
+Maish Akush   0313 C332668-9    Na Ni Po           303 Im
+Maarshigervlig0314 B8A5453-8    Fl Lo              514 Im
+Das           0315 B685366-8    Lo                 604 Im
+Dudin         0316 D5286BD-9    Ni                 124 Im
+Uurze         0319 E234000-0    Ba                 014 Ba
+Kash          0411 E584000-0    Ba                 003 Ba
+Shiieniaand   0414 D461130-3    Lo                 913 Im
+Sanches       0416 B654847-B  N                    413 Im
+Shardi        0418 E333746-7    Na Po              103 Im
+Nirgem        0420 E6A7000-0    Fl Ba              004 Ba
+Gaadir        0511 D4867BE-4    Ag                 112 Im
+Arla Un       0512 B513341-8    Ic Lo              902 Im
+Kaman         0513 E772000-0    Ba                 003 Ba
+Rundan        0516 C76A521-7    Ni Wa              304 Im
+Shiga Sha     0517 A726137-A    Lo                 802 Im
+Zan           0519 C100264-B    Lo Va              514 Im
+Khukhi        0612 C667787-8    Ag Ri              700 Im
+Iggaar        0619 B758763-7    Ag                 715 Im
+Ruuni         0713 C333500-A    Ni Po              703 Im
+Kiishad       0714 B6A7995-8    Hi Fl              521 Im
+Uupig         0718 D797248-4    Lo                 505 Im
+Alekvadin     0811 B675978-A    Hi In              702 Im
+Kakhu Gash    0812 B845759-8    Ag                 214 Im
+Keshi         0816 C792564-8    Ni                 912 Im
+Iruukzi       0820 E776000-0    Ba                 000 Ba

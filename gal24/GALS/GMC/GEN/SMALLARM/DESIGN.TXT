@@ -1,0 +1,7 @@
+Design Notes
+------------
+These weapons were all designed using Greg Porter's revised 3rd edition
+"Guns, Guns, Guns" (usually abbreviated G3G) supplement published by the
+Blackburg Tactical Research Centre (copyright 1996). Their statistics and
+performance have been converted to 4th Edition Traveller values using the
+guidelines in that supplement.

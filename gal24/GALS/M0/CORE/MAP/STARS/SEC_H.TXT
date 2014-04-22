@@ -1,0 +1,28 @@
+#--------1---------2---------3
+#PlanetName   Loc. Star(s)
+#----------   ---- --------
+@SUB-SECTOR: Kaskii SECTOR: Core
+Kuuir Am      2511 
+Girku         2513 
+Imaar Pa      2517 
+Riiiid Irman  2519 
+Kishkeiim     2611 
+Ispumer       2615 M3 VI M5 D K5 D
+Likhamii      2616 
+Lir           2720 
+Muugkha       2814 
+Indshiim Ganme2816 
+Leer          2912 
+Khiuur La     2913 
+Mikhag Kuu    2914 
+Khiinra Ash   2916 
+Laudum        3011 M8 V M1 D
+Anuug         3015 
+Kinekesh      3019 
+Urir Gug      3113 
+Markasher     3115 K8 IV
+Khiiir        3117 
+Lemik         3118 K1 V
+zikhi         3211 
+Shand         3216 
+Kaskii        3218 G4 V

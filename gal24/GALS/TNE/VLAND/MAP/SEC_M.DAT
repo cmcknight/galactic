@@ -1,0 +1,49 @@
+@SUB-SECTOR: sec_M   SECTOR: vland
+#
+# Trade routes within the subsector
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Skasputin     0131 D763200-4    Lo Ni              324 Wi
+Kald          0132 X25056A-1    Ni Po De           401 Wi
+Zanagud       0134 X66A56C-3    Ni Wa           B  923 Wi
+Sakin         0135 X330000-0    Ba Po De           014 --
+Shaaki        0137 X9B3000-0    Fl Ba              020 --
+Tratami       0232 X9C7000-0    Fl Ba              023 --
+Nurrungar     0234 X649000-2    Ba                 010 Wi
+Khishugii     0236 X120000-0    Ba Po De           010 --
+Shashim       0237 X327000-0    Ba                 003 --
+Paspaa        0333 X454304-3    Lo Ni           B  110 Wi
+Nadud         0335 E97A314-4    Lo Ni Wa           220 Wi
+Parsi         0336 X989968-2    Hi              B  124 Wi
+Vanessa       0338 X468225-3    Lo Ni              310 Wi
+Jessheim      0340 XAC5000-0    Fl Ba              025 --
+Answerin      0431 C584989-9    Hi                 220 Na     f
+Geguru        0434 X000000-0    Ba As              015 --
+Ganidam       0435 X100000-0    Ba Va              001 --
+Meprim        0436 X300000-0    Ba Va              010 --
+Thatii        0437 XA7A224-6    Lo Ni Wa        B  524 Wi
+Seglound      0531 X9AA000-0    Fl Ba Wa           020 --
+Kinswana      0532 X110000-0    Ba                 004 --
+Khi Tai       0533 X668625-6    Ag Ni              601 Wi
+Khakkakum     0534 D657678-6    Ag Ni              221 Wi
+Fauski        0536 X1C0000-0    Ba De              001 --
+Enbart        0631 X201000-0    Ba Va Ic           020 --
+Kamar Kurker  0633 X454425-2    Lo Ni              310 Wi
+Savvud        0635 X445656-6    C:2 Ag Ni          301 Wi
+Bood          0637 X240435-5    Lo Ni Po De        210 Wi
+Liigima       0639 X7C2000-0    Fl Ba              003 --
+Aquacade      0640 X67A022-6    Lo Ni Wa           320 Wi
+Pirumush      0732 X524000-0    Ba                 022 --
+Kishbar       0734 X301000-0    Ba Va Ic           020 --
+Kuzey Anadolu 0737 X500000-0    Ba Va              003 --
+Daglari       0738 X110000-0    Ba                 021 --
+Trabbon       0739 E454735-1    Ag                 120 Wi
+Kirov         0740 X683966-7    C:4 Hi          B  710 Wi
+Igsudi        0831 X472135-3    Lo Ni              120 Wi
+Kirlikin      0832 X1404BE-7    Lo Ni Po De        402 Wi
+Karbarlah     0833 E487795-7    Ag              B  210 Wi
+Khisber       0834 X87A435-2    Lo Ni Wa        B  123 Wi
+Zhirka        0835 X000000-0    Ba As              000 --
+KiImiim       0839 X672245-2    Lo Ni              303 Wi

@@ -1,0 +1,41 @@
+@SUB-SECTOR: sec_G   SECTOR: oldexpan
+#
+# Trade routes within the subsector
+$1719 1519 -1 0
+$1719 1920 0 0
+$1920 2120 0 0
+$2120 2114 0 0
+$2114 2315 0 0
+$2315 2218 0 0
+$2218 2021 0 1
+$2114 1911 0 0
+$1911 1909 0 -1
+#
+# Note: Trav Digest #12 p33 shows a world at parsec 2116
+#       No such world exists in the Sunbane data. For this
+#       reason, the "21 Worlds" subsector only seems to
+#       have 20 worlds, since I'm going by the Sunbane data.
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Sharrif       1717 C9B7500-A    Fl Ni              605 Im
+Akka          1718 B74A668-D    Ni Wa              604 Im
+Bonsher       1719 A865947-F    Hi                 520 Im
+Layor         1817 C768620-C    Ag Ni              120 Im
+Mnash         1911 A200942-F  N Hi In Na Va        513 Im
+Cenno         1920 A97A8AA-B    Wa                 202 Im
+Pashintor     2013 C5288C8-B                       510 Im
+Leblion       2019 C000533-D    As Ni              600 Im
+Chenek        2114 B985797-D  N Ag Ri              905 Im
+Maazel        2120 B1108AA-F  W Na                 505 Im
+Gauras        2211 C565588-9  S Ag Ni              323 Im
+Cimabue       2212 C438635-D    Ni                 102 Im
+Kuznets       2215 B21089A-E    Na                 603 Im
+Kantord       2218 B510947-F    Hi In Na           922 Im
+Atil          2315 A331A53-F    Hi Na Po           900 Im
+Sulpt         2411 C410578-B    Ni                 902 Im
+Bourj         2413 C50077A-B  S Na Va              204 Im
+Khar          2416 C659722-D                       404 Im
+Khe           2417 C63A547-B    Ni Wa              502 Im
+Khyme         2418 C120411-A  S De Ni Po           724 Im

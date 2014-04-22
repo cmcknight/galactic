@@ -1,0 +1,38 @@
+@SUB-SECTOR: sec_n   SECTOR: Spica
+#
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Kafiristan    0935 B235837-9                       100 So
+Arroyo Grande 0936 D450345-7    Lo Ni Po De        110 So
+Flatbush      1032 C4237BF-7    Na Po              414 So
+Beaucoup      1033 B6768A9-9    H:0 Tp             702 So
+713-206       1036 E79A000-0    Ba Wa              010 So
+Nedlest Gog   1038 C347564-B  M Ag Ni O:1332       710 Hv
+Fornax        1040 B5658J5-E    Ri                 314 Hv
+Solitude      1133 E457053-6    Lo Ni              800 So
+Lass          1134 B645500-8  G Ag Ni Tp           904 So
+Sirrinn       1137 B351457-8  G Lo Ni Po           100 So
+Front Yards   1139 B577714-D  F Ag                 900 Hv
+Oasis         1239 C330162-B    Lo Ni Po De        202 So
+Dezand        1332 A894604-F  L Ag Ni Tp           205 Hv
+Murkur Folp   1333 BA9A213-E  M Lo Ni Wa           800 Hv
+Tohira        1335 C0009BA-8    Na Hi In As        910 So
+New Freedom   1336 A241620-C    Ni Po              120 So
+Korkov        1337 B2306AD-A  G Na Ni Po De        210 So
+Nyihldeng     1338 B201203-F  M Lo Ni Va Ic        600 Hv
+Dozihld       1340 D357303-7    Lo Ni              602 Hv
+Lyihtar       1431 D3237I2-A    Na Po              100 Hv
+Peris         1432 B545876-6  G                    913 So
+Tongariro     1433 E468557-6    Ag Ni              420 So
+Kasur         1436 E521866-8    Na Po Nh O:1831    614 Hv
+Cairgax       1438 C5318J3-5    Na Po           A  810 Hv
+Royran        1439 C5328J6-C  M Na Po              710 Hv
+Denher IV     1440 A257405-F  L Lo Ni              324 Hv
+Lehkak        1539 D896662-A    Ag Ni Tp O:1332    500 Hv
+Bazat         1540 C440001-7  M Lo Ni Po De        804 Hv
+Nihner        1631 B440302-9    Lo Ni Po De        925 Hv
+Bihla         1635 E140205-7    Lo Ni Po De        410 Hv
+Karbane       1637 B36A315-C    Lo Ni Wa           324 Hv
+Nimbas        1638 C3336J1-A    Na Ni Po           410 Hv

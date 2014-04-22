@@ -1,0 +1,22 @@
+@dir=gals\classic\dagud\map\stars
+@Light Yellow
+
+Dagudashaag Sector / Stars
+
+@Light Cyan
+       A: Mimu                     @stars_a.dat
+       B: Old Suns                 @stars_b.dat
+       C: Arnakhish                @stars_c.dat
+       D: Iiradu                   @stars_d.dat
+       E: Shallows                 @stars_e.dat
+       F: Ushra                    @stars_f.dat
+       G: Khandi                   @stars_g.dat
+       H: Kuriishe                 @stars_h.dat
+       I: Zeda                     @stars_i.dat
+       J: The Remnants             @stars_j.dat
+       K: Pact                     @stars_k.dat
+       L: Gadde                    @stars_l.dat
+       M: Bolivar                  @stars_m.dat
+       N: Argi                     @stars_n.dat
+       O: Sapphyre                 @stars_o.dat
+       P: Laraa                    @stars_p.dat

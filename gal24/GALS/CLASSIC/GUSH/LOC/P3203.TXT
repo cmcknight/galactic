@@ -1,0 +1,21 @@
+System: Miha
+Subsector: Tansa
+Sector: Gushemege Sector
+Coordinates: 3203 (D0803)
+UWP: A779143-F
+
+Starport: Excellent
+Size: Medium (10400-12000 km)
+Atmosphere: Standard, tainted
+Hydrographics: 90% water
+Population: 10
+Govt: Representative Democracy
+Law Level: Low
+Technology: High Stellar
+
+Bases: Navy & Scout Bases
+Trade Codes: Lo Ni           
+Travel Zone: Green
+Planetoid Belts: 1
+Gas Giants: 2
+Allegiance: Imperial

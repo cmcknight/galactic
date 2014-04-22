@@ -1,0 +1,22 @@
+@dir=gals\tne\gush\map\stars
+@Light Yellow
+
+Gushemege Sector / Stars
+
+@Light Cyan
+       A: Riften                   @stars_a.dat
+       B: Khiira                   @stars_b.dat
+       C: Taapvaia                 @stars_c.dat
+       D: Tansa                    @stars_d.dat
+       E: Gandonen                 @stars_e.dat
+       F: Rure                     @stars_f.dat
+       G: Ankhsusgar               @stars_g.dat
+       H: Isi Ahto                 @stars_h.dat
+       I: Balech                   @stars_i.dat
+       J: Sallounn                 @stars_j.dat
+       K: Dashinshaii              @stars_k.dat
+       L: Shire                    @stars_l.dat
+       M: Vipach                   @stars_m.dat
+       N: Laeth                    @stars_n.dat
+       O: Truax                    @stars_o.dat
+       P: Lagan                    @stars_p.dat

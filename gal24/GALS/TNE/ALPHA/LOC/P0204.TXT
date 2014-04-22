@@ -1,0 +1,20 @@
+
+Kedin           X4533O6-2 Ni Po         (1201)
+                E453300-9 Ni Po         (1110)
+
+Starport: None                          Size: Small (5600-7200 km)
+Atmosphere: Thin                        Hydrographics: 30% water
+Population: 2,000                       Govt: Representive Democracy
+Law Level: Moderate                     Technology: Pre-Industrial
+
+Pre-Collapse Population: 6000           Pre-Collapse TL: Early Stellar
+Objective Classification: VI
+
+        A lawless frontier world before the collapse, Kedin's population
+has shrunk and its people live a low-tech existence. Most of the
+inhabitants are subsistance farmers, clustered in small settlements near 
+the old starport. The settlements are democraticly governed, and each sends
+a representative to a council which resolves intersettlement disputes. In 
+practice, this council is a powerless forum for debate, rather than a true
+"planetary government".
+

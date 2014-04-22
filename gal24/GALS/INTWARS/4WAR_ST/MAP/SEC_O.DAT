@@ -1,0 +1,27 @@
+@SUB-SECTOR: sec_O   SECTOR: 4war_st
+#
+# Trade routes within the subsector
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Ys            1732 E847524-5    Ag Ni              320 Tc
+Cameroon      1736 E442475-3    Ni Po              404 Tc
+Hamilcar      1738 D26A672-4    Ni Ri Wa           313 Tc
+Parsifal      1739 D730646-5    De Na Ni Po        403 Tc
+Aristotle     1740 C269754-5  S Ri                 120 Tc
+Remulak       1833 C9747A7-7  S Ag                 412 Tc
+Chernozem     1836 EA85575-5    Ag Ni              403 Tc
+Hephaistos    1931 D930418-B    Ba Lo Ni Wa        202 Tc
+Avalon        1935 *1 Deep Space Base                  Tc
+Calgary       2031 CA9A796-6    Wa                 225 Tc
+Inferno       2131 D578745-5    Ag                 524 Tc
+Forlorn       2132 B496854-8                       124 Tc
+New Greenpern 2135 E798575-4    Ag Ni              304 Tc
+Gwynedd       2138 E9D7364-5    Fl Lo Ni           804 Tc
+Medea         2235 C779634-5    Ni                 303 Tc
+Pollux        2236 E000212-7    As Lo Ni           300 Tc
+Hanuman       2240 E9BA314-A    Fl Lo Ni Wa        513 Tc
+Siva          2337 E210413-5    Ni                 224 Tc
+Castor        2339 B000714-9  S As Na              500 Tc
+.             2433 X778000-0    Ba Lo Ni           002 Us

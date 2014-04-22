@@ -1,0 +1,34 @@
+@SUB-SECTOR: lanth   SECTOR: spinmar
+#
+# Trade routes within the subsector
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Extolay       1711 B45589A-A  N                    210 Re
+Lanth         1719 A879533-B  A Ni Tp Cp           710 Re
+Dinom         1811 D100535-A    Ni Va              201 Re
+Ghandi        1815 B211455-A  N Lo Ni Ic           303 Re
+Victoria      1817 X697772-2    Ag Tp           R  312 Re
+Dinomn        1912 B674632-9  S Ag Ni Tp           404 Re
+Ylaven        1916 X587552-4    Ag Ni           R  922 Re
+Sonthert      1918 X6266AB-3    Ni              R  414 Re
+D'Ganzio      1920 B120410-D  N Lo Ni Po De        312 Re
+Wypoc         2011 E9C4547-8    Fl Ni           A  922 Re
+Djinni        2111 E459000-9    Lo Ni           R  822 Re
+Rech          2112 D9957AA-6    Ag Tp              701 Re
+KKirka        2212 CAA5345-8    Fl Lo Ni           102 Re
+Quopist       2215 B150779-A    J:6 Po De       A  221 Re
+Treece        2311 D232966-8    Na Hi Po O:2410    110 Re
+Echiste       2313 C53A313-A    Lo Ni Wa           720 Re
+Pirema        2314 D691142-5    Lo Ni              802 Re
+Rhise         2317 C100576-A    Ni Va           A  710 Re
+Ivendo        2319 B324659-A  A C:0 Ni             412 Re
+Keanou        2411 C792348-7  S Lo Ni              213 Re
+Tureded       2414 B465540-9    Ag Ni              614 Re
+Vreibefger    2415 E481542-3    Ni RsE             901 Re
+La'Belle      2416 C564112-4    Lo Ni              701 Re
+Equus         2417 B55A858-B  S Wa                 602 Re
+Icetina       2418 B5245A9-7  N Ni              A  301 Re
+Cogri         2419 CA6A643-9    Ni Ri Wa           432 Re
+Skull         2420 C2237C7-9  N Na Po              801 Re

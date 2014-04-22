@@ -1,0 +1,52 @@
+@SUB-SECTOR: sec_K   SECTOR: mendan.sec
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+$2329 2029 0 0 11
+$2029 1732 0 1 11
+$2329 2327 0 0 11
+$2327 2424 0 0 11
+$2424 2624 1 0 11
+$1822 2123 0 0 11
+$2123 2424 0 0 11
+$1822 1520 -1 -1 11
+$2424 2420 0 -1 11
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX f
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Ogoukhs       1726 E498843-3                       400 J- 
+Rurroeghz     1728 E355773-4    Ag                 604 Ja 
+Zuekhs        1729 E799100-6    Lo Ni              604 Ja 
+Rruedhkou     1821 C59A768-5  J Wa                 210 Jv 
+Ozrake        1822 B533776-8  F Na Po Cp        A  403 Jv     f
+Gzughokhs     1823 C656765-7    Ag                 610 Jv 
+Anticlea      1827 A98569E-B    Ag Ni Ri           601 Ja 
+Dzokfoz       1924 C535267-5    Lo Ni           A  301 Jv 
+Mageku        2025 E6AA325-6    Fl Lo Ni Wa        502 J- 
+Dhughaez      2028 C8AA233-9    Fl Lo Ni Wa        304 Ja 
+Ingos         2029 B530799-6    De Na Po           124 Ja 
+Kaduus        2030 D772435-6    Ni              A  103 Ja 
+Uugan         2123 C5A2545-9    Fl Ni              203 J- 
+Gighokh       2125 E7549AC-7    Hi              A  102 J- 
+Uesoun        2128 B244216-7  J Lo Ni              305 Ja 
+Angaer        2221 C33158C-7    Ni Po           A  302 J- 
+Vingae        2222 E552640-5    Ni Po              804 J- 
+Giikhar       2226 B8C4257-A    Fl Lo Ni           123 Ja 
+Ankeng        2227 C110310-9    Lo Ni              304 Ja 
+Epeius        2230 B331101-D    Lo Ni Po           303 Ja 
+Agoeng        2323 C330972-7  J De Hi Na Po        222 Ja 
+Sheggike      2324 D222356-7  J Lo Ni Po           404 Ja 
+Eghats        2325 C875512-7    Ag Ni              303 Ja 
+Shuurnip      2326 C57A269-A    Lo Ni Wa           300 Ja 
+Palladium     2327 B300533-C  M Ni Va              113 Ja 
+Gvarsaez      2329 A220527-B    De Ni Po           923 Ja 
+Gugud         2330 E6638AE-5                       202 Ja 
+Zonk          2421 C420000-8    Ba De Lo Ni Po     003 Ja 
+Ozo Ten       2422 B695432-A  J Ni                 120 Ja 
+Umagi         2423 C387343-5  M Lo Ni              904 Ja 
+Mamudad       2424 B547698-9  M Ag Ni              104 Ja 
+Gvakarz       2425 B577666-7    Ag Ni              400 Ja 
+Epigoni       2429 A863220-9  J Lo Ni              823 Ja 
+

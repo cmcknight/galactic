@@ -1,0 +1,34 @@
+@SUB-SECTOR: Mekee SECTOR: Core
+#
+# Trade routes within the subsector
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+.             0911 C545448-A    Ni                 703 Li 
+.             0915 A577200-F  N Lo Ni              613 Li 
+.             0916 B95A567-B    Ni Wa              201 Li 
+.             0919 C550054-B    Lo Ni Po De     A  504 Li 
+.             1012 B424400-F  N Ni                 524 Li 
+Urshra        1016 B361966-D  W Hi                 703 Li 
+.             1019 B783200-C    Lo Ni              903 Li 
+.             1112 C310403-9    Ni                 422 Li 
+.             1114 A520834-B    Na Po De           503 Li 
+.             1116 B783511-8    Ni                 800 Li 
+.             1120 B3407A6-C  N Po De              803 Li 
+.             1214 E585555-8    Ag Ni              412 Li 
+.             1219 B2106B9-C  N Na Ni              720 Li 
+.             1220 B100122-C    Lo Ni Va           604 Li 
+.             1314 B859323-B  N Lo Ni              502 Li 
+.             1316 D85A869-6    Wa                 202 Li 
+.             1317 B203462-E  A Ni Va Ic           312 Li 
+.             1320 B222201-B  N Lo Ni Po        A  902 Li 
+.             1416 B68A430-9    Ni Wa              204 Li 
+.             1418 C64648A-8  S Ni                 803 Li 
+.             1511 E445279-7    Lo Ni              223 Li 
+.             1512 B8C2747-9    Fl                 804 Li 
+.             1518 A86A422-F  D Ni Wa              420 Li 
+.             1519 D9D2665-8    Ni Fl              603 Li 
+.             1611 B964442-D    Ni                 914 Li 
+.             1615 B779400-B    Ni                 404 Li 
+.             1616 E9B4683-8    Ni Fl              614 Li 

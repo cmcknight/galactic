@@ -1,0 +1,50 @@
+@SUB-SECTOR: sec_O   SECTOR: magyar
+#
+# Trade routes within the subsector
+$1735 1537 -1 0
+$1833 1735 0 0
+$1833 1830 0 -1
+$2135 1833 0 0
+$2135 2335 0 0
+$2335 2338 0 0
+$2338 2439 0 0 
+$2439 2539 1 0
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Genugten      1735 B211432-E    Ic Ni              101 So
+Ungarn        1736 E89799A-A    Hi In              300 So
+Coeus         1831 C151633-C    Ni Po              903 So
+Harpring      1832 B8C788A-C    Fl                 910 Hr
+Viallalta     1833 A556542-E  A Cp Xb Ag Ni        404 So
+Furuma        1834 CA99356-C    Lo Ni              803 So
+Ratri         1836 C55277A-9    Po                 700 So
+Glenex        1837 B754311-D    Lo Ni              703 So
+Barnstone     1838 D861221-7    Lo Ni              303 So
+Farringhaus   1840 D6AA664-A    Fl Ni Wa           102 St
+Teault        1934 E511414-9    Ic Ni              902 So
+Dyavai        1935 C8C8769-A    Fl                 404 Hr
+Ebisu         1936 C558369-B    Lo Ni              614 Hr
+Salyer        1939 B977768-C    Ag                 325 St
+Ghoryana      2032 A888438-E  W Ni                 105 So
+Tuxhorn       2132 C9B5568-B    Fl Ni              702 Hr
+Nocha         2133 X531474-4    Ni Po              703 So
+Urquiza       2134 C9DA142-D    Fl Lo Ni Wa        804 So
+Needler       2135 C10076B-D    Na Va              713 Hr
+Gastineau     2136 D773420-8    Ni                 502 So
+Stancombe     2139 C000620-B    As Na Ni           520 So
+Mazotz        2231 X866763-4    Ag Ri              104 Hr
+Tyche         2234 C554611-9    Ag Ni              703 So
+Balajee       2236 C221355-E    Lo Ni Po           200 So
+Frykberg      2238 C110343-C    Lo Ni              820 So
+Wolfram       2239 B6A3410-C  W Fl Ni              624 So
+Licini        2332 C475400-B    Ni                 225 So
+Lisah         2334 A798498-E    Ni                 204 So
+Roen          2335 A431400-E  N Xb Ni Po           903 So
+Shigetoshi    2338 A224400-E  S Ni                 722 So
+Ebaun         2339 E111344-A    Ic Lo Ni           404 So
+Geb           2434 A554224-D  W Lo Ni              612 So
+Tuoni         2436 E330377-A    De Lo Ni Po        910 So
+Wingard       2439 A300531-E    Ni Va              510 So
+

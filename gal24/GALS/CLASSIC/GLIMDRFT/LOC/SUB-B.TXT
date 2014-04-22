@@ -1,0 +1,11 @@
+Thorstone Subsector
+-------------------
+This subsector contains some Imperial worlds which are an extension of the
+Outreamer subsector of the Ley sector and are administered from Arsouf. Petra
+maintains a scout base and Cairo maintains a naval base as the Ginlenchy
+Concordance is a potential trouble source. All the rest of the worlds with
+the exception of Marchand are members of the Ginlenchy Concordance.
+
+The Thorstone subsector contains 27 worlds with a total population of 2.3
+billion. The highest population is 8, at Fatima, Paramond, Liana, Bairdis,
+and Marchand; the highest tech level is D ar Cairo.

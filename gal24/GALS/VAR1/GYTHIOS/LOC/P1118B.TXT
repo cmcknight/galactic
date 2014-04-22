@@ -1,0 +1,42 @@
+
+EnkiLab
+-------
+
+EnkiLab is small bio-lab funded by the BioGen Corporation for the
+purpose of remotely testing BioGen pharmaceuticals. In order for
+the company to get its drugs approved quickly, it has become
+necessary to pre-test them on human subjects prior to sending the
+drugs through normal Imperial channels (this can take years,
+particularly if unforseen side-effects are noticed which must
+then be studied and deemed either hazardous or benign). BioGen
+gets its test subjects from Raleigh. These people are mainly
+prisoners who have been convicted on one crime or another, but
+who's sentences have been commuted because of their willingness
+to participate as guinea pigs. Most of these subject are put
+through trials of relatively benign drugs on the planet of
+Raleigh, however, a few of the more violent criminals are
+secretly transported to EnkiLab where they serve as test subjects
+for more dangerous bio-chemicals. This "dark side" of BioGen's
+business is kept well-away from the public eye, and the company
+officials who know about it believe they are doing humanity a
+service by getting rid of these criminals in a productive way
+which will further the progress of science.
+
+Unknown to them, however, is that part of this progress entails
+viral research. Lord Trulane, one of the company stockholders who
+was chiefly responsible for setting up the lab, has staffed the
+lab with "his people", scientists who are personally loyal to him
+and who keep quiet about the viral research which is conducted
+(even when other company-people show up).
+
+Currently stationed at the lab are:
+
+1. Roland Karter, Biologist
+2. Janet Magalia, Biologist
+3. Dimitri Gustafson, Surgeon
+4. Uri Narsini, Virus Specialist
+5. Tula Pierce, Virus Specialist
+6. Betty Yolan, Medical Technician
+7. Gregor Malivich, Engineer
+8. Thomas Jakobson, Security Guard
+

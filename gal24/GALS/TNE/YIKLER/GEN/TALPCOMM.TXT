@@ -1,0 +1,178 @@
+
+Talpaku Communality
+    By Grant Sinclair
+    Date: 18th June 1996
+   
+     _________________________________________________________________
+   
+   The Talpaku Communality has been in existence since about -3000. It is
+   a tightly knit interstellar state, showing much less variation than
+   human states, such as the Imperium. Chiblgewhekh Climber-of-Mountains,
+   Foreign Minister of the Talpaku Communality, has personally written
+   this description of the Communality.
+   
+   Communality Structure: Our Communality is a relatively loose structure
+   of individual world governments. The Communality is responsible for
+   Foreign Policy, Defense, Law, Culture and Trade; individual worlds are
+   responsible for other matters. We Talpaku are bonded more by cultural
+   things than laws.
+   
+   The executive level of the Communality Government is comprised of two
+   representatives of each significant system (those with a total system
+   population of about 134 million or more) and one representative of
+   each of the remaining systems. These representatives select a
+   Moderator from among their number (who controls debates and votes only
+   to break deadlocks). The system which supplies the Moderator then
+   selects an additional representative as a replacement. Individual
+   systems select their representatives as they see fit.
+   
+   Referee: Government types 3, D, E and F are not found in Talpaku
+   space. The exact population required for "significant system" status
+   is 134,217,728 (8 to the ninth power).
+   
+   System Governments: The Communality establishes basic levels of
+   individual sophont rights, but world populations are otherwise free to
+   administer themselves as they see fit. Any government form which is
+   acceptable to the citizenry is allowed, and the Communality will step
+   in if coercion is discovered. Under Communality Law, a referendum must
+   be called to test that acceptance, upon presentation of a petition
+   signed by 1% of the population. This is rare.
+   
+   Law Levels are lower than in human space. Individual sophont rights
+   established under overriding Communality law means that law levels
+   must be in the range of 0 to 9. Note that even at law level 0, poison
+   gas and similar weapons of mass destruction are banned (e.g.
+   bacteriological, nuclear, fuel-air). A law level of 1 applies to
+   Communality Space not within the jurisdiction of system governments.
+   
+   Referee: A DM of -2 should be applied to law level rolls. When
+   determining Legal Profile using the World Builder's Handbook, use the
+   general law level as a base rather than government code, and always
+   set the weapons law level equal to the general law level.
+   
+   Symbol: The symbol of our Communality is a circle drawn with a thick,
+   black line (representing space), surmounted by five five-pointed stars
+   at the points of an imaginary pentagon (which represent the five
+   colonised stellar systems when our interstellar state was founded,
+   i.e. Talpakuhome, Gale, Bayou, Shallowwater and Haven). There was talk
+   of adding stars as other systems were colonised, but it just didn't
+   happen.
+   
+   Foreign Policy: The best word to describe our attitude towards the
+   Zhodani is "suspicion". Trade exists, particularly through third
+   parties or on neutral ground, but not in strategic technologies.
+   
+   Relations with the Meichntid Ibl are much better, though the only
+   thing we really have in common is our common enemy (the Zhodani).
+   There is considerable trade, mostly along the jump-2 route slightly to
+   trailing of our borders. We do not use surplus Meichntid Ibl warships
+   in our Navy, as might be expected, since we do not have the
+   technological capacity to maintain them. It is also true that the
+   Meichntid Ibl consider us to be the "junior partner" in our alliance,
+   and many there do not think highly enough of us to trust us with their
+   most potent weapons. The Zhodani have played on the inherently weak
+   nature of alliance in the past, attempting to break the alliance, but
+   we have always seen through these attempts eventually.
+   
+   Relations with the Carillon Harmonies are more neutral. We prefer to
+   understand the people we deal with, at least to some extent, but these
+   strange creatures have always baffled us. We fear their abilities,
+   against which we have no defense, but are also aware that they have
+   never showed aggression towards us. It is hoped that now that some
+   nearby worlds are inhabited by both of our races, a better
+   understanding will develop between us.
+   
+   The Izrats Kriezhlas Unity is the only state with which relations have
+   varied over the years. The warmer their relations with the Zhodani,
+   the colder their relations with us.
+   
+   We have no formal relations with the S'raak or the more distant,
+   states in the sector. We hope that our current tentative contact with
+   the Regency will result in technological and other assistance.
+   
+   Trade codes: Talpaku worlds are Rich only if atmosphere is type 7 or 9
+   with same taint as Talpakuhome.
+   
+   Communications Network: There is no equivalent of the Regency express
+   boat network. There are instead several companies which run jump-3
+   manoeuvre-1 Kzit class couriers around the major worlds (those which
+   are high population or starport A) - these routes are shown on the
+   subsector maps. At least one courier (and usually more) will leave
+   each of these worlds every day.
+   
+   The courier companies have offices on all these major worlds. They
+   also have agreements or contracts with other shipping, so anyone on
+   any world can send a message to any other world in the Communality
+   with a single payment. The network is such that all worlds (except the
+   prison world of Exile) are within jump-2 of a major world, so
+   information crosses the Communality fairly quickly.
+   
+   The Kzit class couriers are 100 ton vessels that cost MCr 24.294 (less
+   than that of an Regency x-boat). Many of the couriers are stock
+   standard (i.e. all cargo space devoted to databanks for messages), but
+   others have a mix of databanks and a cargo space provision for smaller
+   packages. These couriers are the equivalent of the aircraft which
+   provide overnight courier services between cities of 20th Century
+   Terra; they carry mail at rates equivalent to Regency xboat costs, or
+   small packages at 5 times normal starship freight cost. Governments
+   and corporations also use these couriers (sometimes encrypting the
+   messages), though the biggest have couriers of their own.
+   
+   The recent development of TL 13 technology has allowed our Navy to
+   upgrade its own couriers to jump-4. These are attached to fleets in
+   wartime and are used to ferry military and intelligence material as
+   required (usually, from naval base to another). Some of the older TL
+   12 (jump-3) designs were sold off to private industry, and are
+   included in the ranks of the courier companies described above.
+   
+   Merchant Princes: Many Free Traders, Interface Lines and small
+   companies are actually a takh. Larger lines are either run by a
+   partnership of takh, or else as conventional companies, with
+   shareholders and employees. In the brief notes concerning sample
+   Merchant Lines that follow, Galanglic translations of the names are
+   used where possible.
+   
+   Free as Air Trading (Interface Line; Home Port: Bayou). This is
+   typical of many companies that trade from our trailing worlds along
+   the jump-2 trade route up to the Meichntid Ibl and the Zhodani
+   Consulate beyond it. The line rarely visits Forday's Fortune or the
+   Carillon. This merchant line is wholly owned by a single takh, the
+   members of which form the permanent employees of the line. Other
+   employees are hired on a contract basis, the contracts lasting for
+   periods as short as 1 jump to as long as 1 year, or for indefinite
+   amounts of time, like 1 circuit of the route. These contract employees
+   are commonly from races other than our own, partly because of the
+   system the ship was in at the time a new employee was needed, and
+   partly because the interface nature of the line makes a mixed crew
+   valuable. Free as Air Trading has recently acquired a 1000 ton ship,
+   but most vessels are 400 tons or less. The growth of the line has led
+   it to the point where a single takh has difficulty managing
+   operations, and so it is likely to split or else enter into a
+   partnership or become a company. Deliberation over this matter has
+   been sidelined due to mourning, following the recent loss of a 400 ton
+   vessel to piracy.
+   
+   Night Mist Line (Interface Line; Home Port: Talpakuhome). This line is
+   a partnership of three takh, operating 1000 ton jump-2 ships from
+   Talpakuhome to Carillon. The partnership finds trade along this set
+   route (visiting Bayou, Heaven's Scent and Forday's Fortune along the
+   way) to be sufficiently profitable that it rarely strays from this
+   path. The regularity of the line has enabled it to enter into shipping
+   contracts with companies on the worlds of its route. The business
+   contacts built up by this sometimes allow the line to find markets
+   where others cannot, so it is not uncommon for them to buy goods from
+   other trading vessels they encounter (particularly at the starport of
+   Forday's Fortune). This policy occasionally backfires.
+   
+   Rambling Kziwhawhuv (Free Trader; Home Port: Gale). This rather old
+   400 ton jump-2 vessel can be found anywhere in or near the
+   Communality. The small takh which operates it is unusually
+   multi-skilled, and they supplement the income from trading and
+   passenger services by putting on shows at the pubs of the worlds they
+   visit. They are an excellent (if unconventional) ship to travel with,
+   since they like to try out their new material on their passengers, and
+   chat to them for ideas for future shows. They are gregarious even by
+   our standards, and will sometimes delay leaving a world if they are
+   short of their full complement of passengers. Fortunately, their
+   interpersonal skills mean that this is rarely necessary.
+   

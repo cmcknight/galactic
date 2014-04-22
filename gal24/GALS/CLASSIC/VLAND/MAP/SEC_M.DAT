@@ -1,0 +1,62 @@
+@SUB-SECTOR: sec_M   SECTOR: vland
+#
+# Trade routes within the subsector
+$0234 3232 -1 0
+$0234 0333 0 0
+$0333 0530 0 -1
+$0831 0530 0 -1
+$0831 0934 1 0
+$0834 0934 1 0
+$0834 0536 0 0
+$0536 0637 0 0
+$0536 0336 0 0
+$0336 0234 0 0
+$0637 0640 0 0
+$0640 0340 0 0
+$0640 0501 0 1
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Skasputin     0131 C763240-9    Lo Ni              324 St
+Kald          0132 C2509AB-B  S Hi Po De           701 St
+Zanagud       0134 E66A586-6    Ni Wa              523 St
+Sakin         0135 C330668-C  S Na Ni Po De        814 St
+Shaaki        0137 B9B3750-B  N Fl                 620 St
+Tratami       0232 D9C7887-5  S Fl                 323 St
+Nurrungar     0234 A649100-E  A Lo Ni              810 St
+Khishugii     0236 C120534-B  S Ni Po De           510 St
+Shashim       0237 B327698-B  W Ni                 203 St
+Paspaa        0333 A454355-F  N Lo Ni              510 St
+Nadud         0335 D97A250-8    Lo Ni Wa           220 St
+Parsi         0336 A98999C-E    Hi Cp              224 St
+Vanessa       0338 E468230-A    Lo Ni              510 St
+Jessheim      0340 AAC5233-F  A Lo Ni Fl           425 St
+Answerin      0431 B584A85-F  N Hi                 420 Rv
+Geguru        0434 D000432-8  S Ni As              325 St
+Ganidam       0435 D100455-D    Ni Va              501 St
+Meprim        0436 B300136-C  N Lo Ni Va           910 St
+Thatii        0437 DA7A337-9  S Lo Ni Wa        A  224 St
+Seglound      0531 D9AA453-9  S C0 Ni Fl Wa        220 Rv
+Kinswana      0532 C110659-B    Na Ni              304 Rv
+Khi Tai       0533 E668632-6    Ag Ni              401 Rv
+Khakkakum     0534 C657668-9    Ag Ni              221 Rv
+Fauski        0536 A120751-D  N Na Po De           401 St
+Enbart        0631 B201689-D    Na Ni Va Ic        920 Rv
+Kamar Kurker  0633 E454424-9    Ni                 410 Rv
+Savvud        0635 C445499-B  S C2 Ni              601 St
+Bood          0637 A240520-B    Ni Po De           410 St
+Liigima       0639 B7C2303-D  N Lo Ni Fl           403 St
+Aquacade      0640 A67A124-E  N Lo Ni Wa           120 St
+Pirumush      0732 E524410-7    Ni                 622 Rv
+Kishbar       0734 B301310-C    Lo Ni Va Ic        720 Rv
+Kuzey Anadolu 0737 C50069D-B  S Na Ni Va           403 St
+Daglari       0738 C110688-A    Na Ni              121 St
+Trabbon       0739 D454633-4    Ag Ni              620 St
+Kirov         0740 B68399B-C    C4 Hi              810 St
+Igsudi        0831 B472220-A  N Lo Ni              320 Rv
+Kirlikin      0832 C1407BD-9  S Po De              902 Rv
+Karbarlah     0833 D4877A8-8    Ag                 210 Rv
+Khisber       0834 B87A401-C  A Ni Wa           A  523 Rv
+Zhirka        0835 E000110-9    Lo Ni As           610 Rv
+Kiimiim       0839 B672252-B    Lo Ni              803 St

@@ -1,0 +1,35 @@
+Gythios Sector
+
+A: Petrina                   a.dat
+B: Helenos                   b.dat
+C: Stavrula                  c.dat
+D: Argyris                   d.dat
+E: Petrula                   e.dat
+F: Antigone                  f.dat
+G: Draco                     g.dat
+H: Corinth                   h.dat
+I: Gythios                   i.dat
+J: Salamis                   j.dat
+K: Maria                     k.dat
+L: Kristos                   l.dat
+M: Thrace                    m.dat
+N: Attica                    n.dat
+O: Ionia                     o.dat
+P: Idhra                     p.dat               f
+
+Bases:
+N = Navy
+S = Scout
+2 = Navy & Scout
+  = None
+
+Allegiance:
+12 Im = Terran Empire
+07 Na = Non-aligned
+04 Cs = Client State
+14 Io = Republic of Ionia
+11 Fc = Freeworld Coalition
+10 Dr = Draco Corporation
+09 Gw = Gresson's Worlds
+13 An = Duchy of Antigone
+08    = Unknown

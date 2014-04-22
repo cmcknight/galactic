@@ -1,0 +1,38 @@
+@SUB-SECTOR: sec_a   SECTOR: Spica
+#
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Nelson        0135 X5525RC-6    Ni Po           B  404 Wi
+Bestine       0136 X8C6000-0    Fl Ba              024 Un
+Luxor         0231 X436000-0    Ba                 002 Un
+Iodinium      0234 X79A4P2-4    Lo Ni Wa        B  125 Wi
+Pyrolysia     0238 X7B0000-0    Ba De              023 Un
+Keepout       0240 X7579BD-1    Hi              R  804 So
+Bassett       0332 X501000-0    Ba Va Ic           012 Un
+McFarland     0333 X459100-4    Lo Ni Hp           400 Wi
+La Junta      0334 X221000-0    Ba Po              001 Un
+Port Burnaby  0337 X400000-0    Ba Va              005 Un
+Xanadu        0338 X6689T9-1    Hi Hp           B  103 Wi
+Diln          0339 X000000-0    Ba As              004 Un
+Kestral       0431 X89A7T7-2    Wa              B  400 Wi
+Massaro       0432 D6559UB-8    Hi Hp              104 Wi
+Purdee        0435 C552000-8    Lo Ni Po           510 Wi
+Cravity       0437 X211000-0    Ba Ic              014 Un
+File          0439 X130000-0    Ba Po De           003 Un
+Solido        0536 C2617VB-7                       310 Wi
+Mikado        0539 C6629RA-7    Hi              B  202 Wi
+Longstreet    0631 X221000-0    Ba Po              005 Un
+Trilion       0634 X8C4000-0    Fl Ba              012 Un
+Jedson        0635 X311000-0    Ba Ic              000 Un
+Davis         0639 X4403N0-8    Lo Ni Po De        404 Wi
+Harmaline     0731 X6A2000-0    Fl Ba              013 Un
+Caloris       0733 B4503O0-8    Lo Ni Po De        300 Wi
+Ion Atoll     0739 X87A3O4-4    Lo Ni Wa        B  412 Wi
+Blood Orchard 0831 X7B6000-0    Fl Ba              001 Un
+Alaarum       0832 X531000-0    Ba Po              003 Un
+Pagoda        0834 X8577S8-0    Ag              B  700 Wi
+Dxymyx Cafr   0835 E9966TA-1    Ag Ni           B  803 Wi
+Fairlane      0838 X520000-0    Ba Po De           004 Un
+Langford      0840 B5553O5-7    Lo Ni Hp           113 Wi

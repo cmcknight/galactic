@@ -1,0 +1,51 @@
+@SUB-SECTOR: sec_N   SECTOR: vland
+#
+# Trade routes within the subsector
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Arluk         0933 X411000-0    Ba Ic              013 --
+Imdakhun      0934 X203000-0    Ba Va Ic           001 --
+Rhyolite      0938 X360202-4    Lo Ni De           424 Wi
+Gashumu       0939 X76A422-5    Lo Ni Wa        B  402 Wi
+Umaanshar     1032 X432000-0    Ba Po              023 --
+Komirex       1033 X200000-0    Ba Va              020 --
+Isle          1038 D68A88B-9    Wa                 901 Na     f
+Neegak        1131 X537000-0    Ba                 022 --
+Jupset        1134 X8C3000-0    Fl Ba              023 --
+Abalakova     1135 X465779-6    Ag              B  722 Wi
+Daangiilu     1136 X565411-1    Lo Ni           B  203 Wi
+Usaamkirkhiir 1137 X364443-5    Lo Ni              114 Wi
+Chrysantheum  1138 X130000-0    Ba Po De           001 --
+Uureg         1139 D25376A-8    Po                 312 Wi
+Hiroshi       1140 D675633-5    Ag Ni              201 Wi
+Lekziika      1232 X885566-4    Ag Ni           B  220 Wi
+Themistocles  1235 X333000-0    Ba Po              001 --
+Fymur         1236 D351658-8    Ni Po              410 Wi
+Kanumshikaa   1237 X755445-5    Lo Ni              220 Wi
+Iplukaddesh   1238 X000000-0    Ba As              001 --
+Nelson        1240 X200000-0    Ba Va              020 --
+Nii Khu       1332 X55486E-4    C:6                301 Wi
+Lukham        1334 X46486D-4                    B  102 Wi
+Pygmy         1336 X140314-7    Lo Ni Po De        511 Wi
+Borealis      1337 X511000-0    Ba Ic              004 --
+Darm          1339 X100000-0    Ba Va              024 --
+Anishda       1340 X614000-0    Ba Ic              002 --
+Daalurge      1431 D558512-7    Ag Ni              210 Wi
+Agagir        1432 X330000-0    Ba Po De           010 --
+Dakeshir      1435 X401000-0    Ba Va Ic           002 --
+Igikuuni      1437 X797784-6    Ag              B  322 Wi
+Zaal          1438 X896405-4    Lo Ni           B  401 Wi
+Kolrado       1531 X322000-0    Ba Po              010 --
+Samotk        1533 X100000-0    Ba Va              010 --
+Senkon        1534 X510000-0    Ba                 023 --
+Malapaan      1535 X326000-0    Ba                 020 --
+Pamiimkhi     1536 X000000-0    Ba As              010 --
+Zarurza       1539 X95A100-0    Lo Ni Wa        B  212 Wi
+Limed         1540 X330000-0    Ba Po De           013 --
+Imdur         1632 X240303-0    Lo Ni Po De        210 Wi
+Darkishar     1633 X420000-0    Ba Po De           010 --
+Isuugi        1634 X756443-1    Lo Ni              113 Wi
+Preserve      1637 X451220-3    Lo Ni Po           210 Wi
+Twana         1638 X353366-2    Lo Ni Po           420 Wi

@@ -1,0 +1,39 @@
+@SUB-SECTOR: sec_M   SECTOR: sorted
+#
+# Trade routes within the subsector
+$0231 0230 0 -1
+$0231 0201 0 1
+$0632 0330 0 -1
+$0632 0833 0 0
+$0833 0931 1 0
+$0833 1034 1 0
+$0237 3036 -1 0
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Swinburne     0136 C720620-A    Na Ni Po De        400 So
+Erech         0138 C844577-9    Ag Ni              310 So
+Luzon         0231 D420400-7    Ni Po De           935 So
+Jardin        0233 A4679BC-D  N Hi Cp              702 So
+Theseus       0237 B7A3744-E    Fl                 803 So
+Barsoom       0239 A25499B-D  N Hi                 302 So
+Gladstone     0240 A967755-D    Ag Ri              310 So
+Liberte       0331 B100886-C    Na Va              802 So
+Pilgham       0332 B44296A-B    Hi In Po           512 So
+Miasma        0335 C678500-9    Ag Ni              224 So
+Kraken        0432 C57A587-B    Ni Wa              935 So
+Durgha        0434 B612400-D    Ni Ic              205 So
+Dolor         0437 B211887-D  N Na Ic              934 So
+Zhongguo      0438 B444722-D    Ag                 123 So
+Ormadz        0440 B300599-C    Ni Va              813 So
+Cadmus        0532 C532423-B    Ni Po              822 So
+Skyron        0533 B312433-C    Ni Ic              302 So
+Chinon        0536 C696846-B                       322 So
+Sionnach      0632 C533369-C    Lo Ni Po           212 So
+Nonsuch       0637 C434210-D    Lo Ni              800 So
+Ptolemy       0639 B543686-C    Ni Po              814 So
+Arisia        0640 B57A566-E    Ni Wa              615 So
+Wallach       0832 D478452-A    Ni                 604 So
+Thalassa      0833 A48A78A-E    Ri Wa              210 So
+Odysseus      0835 A6598DE-E                       502 So

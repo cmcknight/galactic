@@ -1,0 +1,50 @@
+@SUB-SECTOR: sec_P   SECTOR: lishun
+#
+# Trade routes within the subsector
+$2534 2333 -1 0
+$2534 2736 0 0
+$2736 2733 0 0
+$2733 2630 0 -1
+$2736 2638 0 0
+$2638 2540 0 0
+$2540 2401 -1 1
+$3040 3240 0 0
+$3040 2901 0 1
+$3240 0140 1 0
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Thaplaze      2532 C593622-6    Ni                 712 Vx
+Kyushu        2533 C276665-A  C Ag Ni              604 Vx
+Bistar        2534 A410457-F    Ni              A  200 Li
+Sentronna     2536 B363878-B  N Ri                 512 Li
+Shion Card    2538 C9B56A8-7    Ni Fl              610 Li
+Steambath     2540 B794765-A  S Ag                 203 Li
+Aquella       2632 C87A664-B  C Ni Wa              304 Vx
+Miigi         2635 C575789-5  S Ag                 404 Li
+Irdashe       2638 C9A6000-A  S Lo Ni Fl Ba        212 Li
+Tagukhassan   2640 E8599CD-8    Hi                 503 Li
+Kiiki         2733 A210420-C  G Ni                 200 Vx
+Tallin        2734 C312001-8  S Lo Ni Ic           904 Li
+Garmagan      2736 A463888-F    Ri                 523 Li
+Uudmi         2738 B525545-C  A Ni                 504 Li
+Ushdirk       2740 C797888-9                       603 Li
+Ammur         2831 B482489-C    Ni                 314 Vx
+Keshi         2836 E99A57A-6    Ni Wa              804 Li
+Gudukhar      2931 B346453-C    Ni                 222 Vx
+Shim          2932 D63988B-9  C                    404 Vx
+Gikiikha      2933 D655320-4  S Lo Ni              800 Li
+Inshishesh    2940 D669101-A  S Lo Ni              522 Li
+Iishinki      3032 CADA520-C  S Ni Fl Wa           103 Li
+Marhaban      3033 E31099B-C    Hi Na In           821 Li
+Olympia       3035 C30277B-C  S Na Va Ic           403 Li
+Rirgan        3040 B5367BC-9                       815 Li
+Irnunkash     3135 C558241-6    Lo Ni              300 Li
+Mida          3137 C485200-D  S Lo Ni              903 Li
+Arkir         3233 C675867-7                       815 Li
+Miikhaka      3234 E222521-8    Ni Po              202 Li
+Alumgin       3235 C237653-9  S Ni                 800 Li
+Garnimamar    3237 C542568-9    Ni Po              400 Li
+Luugali       3238 C835778-8                       614 Li
+Kolyshkin     3240 C5688CC-9  S                 A  902 Li

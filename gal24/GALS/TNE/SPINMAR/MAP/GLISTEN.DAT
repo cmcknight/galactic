@@ -1,0 +1,36 @@
+@SUB-SECTOR: glisten   SECTOR: spinmar
+#
+# Trade routes within the subsector
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Grote         1731 A400404-B    Lo Ni Va           124 Re
+Lydia         1733 E110430-6    Lo Ni              902 Re
+Melior        1736 D140466-7    Lo Ni Po O:1937 A  724 Re
+Egypt         1737 BAC6567-7  N Fl Ni Mr           521 Re
+Aster         1739 C86A410-9    Lo Ni Wa           401 Re
+Callia        1836 E150952-6    Hi Po De           110 Re
+Mithras       1932 C8B5546-6    Fl Ni Pr           302 Re
+Weiss         1934 A626464-B    Lo Ni O:2036    A  703 Re
+Windsor       1935 C783511-9    Ni Tp St           210 Re
+Overnale      1937 B45467A-9    Ag Ni           B  623 Re
+New Rome      1938 B837966-B  N Hi O:2036          204 Re
+Craw          1939 C573974-3    Hi In           B  123 Re
+Aki           2035 B443987-9    Hi In Po        A  414 Re
+Glisten       2036 A000A86-F  A Na Hi In As Cp     121 Re     f
+Trane         2038 C639422-B    Lo Ni An           704 Re
+Centry        2132 E222447-6    Lo Ni Po           220 Re
+Caledonia     2134 C541636-5    Ni Po              910 Re
+Sorel         2137 E48579A-2    Ag Ri              121 Re
+Horosho       2138 C3379A6-A  S Hi                 120 Re
+Romar         2140 B450456-B  A Lo Ni Po De        112 Re
+Marastan      2231 D868872-5    Ri Tp Re        B  124 Re
+Crout         2232 E4359CA-7    Hi                 314 Re
+Tirem         2233 C7B5A75-B    Fl Hi           B  221 Re     m
+Inthe         2234 C100598-B    Ni Va              924 Re
+Tsarina       2236 D120636-5    Na Ni Po De     A  601 Re
+Wurzburg      2237 C795300-A  S Lo Ni Tp        A  510 Re
+Bicornn       2331 E563576-2    Ni              B  210 Re
+Ffudn         2334 A41499D-C    Hi In Ic           104 Re
+Bendor        2336 A756756-C  A Ag Tp              120 Re

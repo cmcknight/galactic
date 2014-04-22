@@ -1,0 +1,38 @@
+@SUB-SECTOR: sec_C   SECTOR: emptyq
+#
+# Trade routes within the subsector
+#
+$1704 1602 -1 0
+$1704 2005 0 0
+$2005 2009 0 0
+$2009 2410 0 0
+$2410 2708 1 0
+$2009 1608 -1 0
+$2009 2212 0 1
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+SSILNTHIS     1704 C7689B9-7    Hi                 413 Na
+Vision        1803 C8D8574-4    Ni              A  413 Na
+Motaselad     1804 B574572-6    Ag Ni D:5          502 Na
+Yaku Jima     1809 C9A0000-0    Ba De           A  025 Na
+Wabiskaw      1810 C535145-5    Lo Ni              905 Na
+Delibes       1901 A3308A7-A    De Na Po        A  400 Na
+Jamnagar Thal 1905 D411556-7    Ni                 604 Hl
+Gangetic      2001 A20049C-A    Ni Va              404 Hl
+Siiye         2005 C9A9550-8    Fl Ni              200 Hl
+FLANGE        2009 B443933-7    Lo Ni Po Cp        114 Hl
+Lullaby       2010 C584773-6    Ag Ri C:2          902 Na
+Mikaichi      2103 A53836A-B    Lo Ni Pr Mr     R  304 Hl
+Hijoji        2109 C515388-6    Lo Ni Ic           611 Hl
+Whirligig     2201 C230455-7    Lo De Ni Po        204 Hl
+Aynoiye       2202 B301126-9    Lo Ni Po Va Ic     504 Hl
+V'nen         2203 A322625-8    Na Ni Po           423 Hl
+Imagine       2204 D624331-7    Lo Ni              102 Hl
+Disarid       2402 C798278-6    Lo Ni              102 Hl
+JUSTINCE      2405 D546AEG-9    Hi In           A  504 Hl
+Binnoth       2406 E717000-0    Ba Ic           A  023 Hl
+Endicott      2407 E536334-6    Lo Ni              122 Hl
+Abey Tomsk    2410 C527411-7    Lo Ni C:0          914 Hl
+

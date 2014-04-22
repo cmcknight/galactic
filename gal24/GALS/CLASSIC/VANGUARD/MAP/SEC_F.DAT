@@ -1,0 +1,24 @@
+@SUB-SECTOR: sec_F   SECTOR: vanguard
+#
+# Trade routes within the subsector
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Garonne       0912 D120789-7    De Na Po           124 Na     f
+KLASSIKLAD    1113 C637961-6    Hi In     1114  G  920 Na
+TRAXLER       1114 B5549B8-A  J Hi              G  104 Na     f
+MOSBY         1217 E979AD9-7    Hi In           A  103 Na
+Damrong       1316 D867489-5  M Ni              G  403 Na
+Queue         1317 D666535-7    Ag Ni           G  312 Na
+Guimaca       1319 A4108A9-C    Na              A  102 Na
+Asschyrkrylen 1411 B853101-C  M Lo Ni Po        H  224 Es
+Nashua        1415 B58A343-D    Lo Ni Wa        G  404 Na
+Grotesk       1416 A7A48D9-8    Fl              G  214 Na
+Krierkriss    1511 B4011BA-B  F Ic Lo Ni Va     H  324 Es
+Vivaldi       1517 C220303-C    De Lo Ni Po     G  305 Na
+Finzi's Niche 1613 A583857-A    Ri Ch60%        G  904 Na     f
+Assoulda      1615 B400763-8  J Na Va     1415  G  210 Na
+Ibadam        1617 C546636-4    Ag Ni           G  425 Na
+TROMMLER      1618 C5109B9-8    Hi Na           G  700 Na
+TIFFANYE      1619 C200999-A  V Hi Na Va        G  213 Na

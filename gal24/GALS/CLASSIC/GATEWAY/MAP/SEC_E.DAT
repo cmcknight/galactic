@@ -1,0 +1,9 @@
+@SUB-SECTOR: e SECTOR: Gateway
+#
+# Jump-routes
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Splinter      0515 DAAA100-8    Fl Ni Lo Wa        212 Na
+Hollmann      0720 C9B0489-8    Ni De              313 Na

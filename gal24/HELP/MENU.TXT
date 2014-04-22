@@ -1,0 +1,77 @@
+
+                          Making Menus
+                          ------------
+
+A pretty sparse menu might look something like this:
+
+----------------------------------------------------------------
+@dir=gals\galaxy\sector\loc
+@Light Yellow
+                    The World of Bogosity
+
+@Light Blue
+   Thank the gods this world doesn't exist... yet...
+
+@Cyan
+      A bogus history      @history.txt
+      Important NPCs       @npcs.mnu
+----------------------------------------------------------------
+
+The first line "@dir=gals\galaxy\sector\loc" defines the base
+directory within which everything else can hopefully be found.
+Almost every menu file you create will probably need a line
+like this. Otherwise, the program reading the menus (xtra\eg.exe)
+won't know where to look for the text files and submenus it is
+trying to access.
+
+The next line "@Light Yellow" tells the program to use yellow
+when displaying the title of this menu. As you can see, you can
+change color numerous times within the same menu. Here is the
+full list of colors at your disposal:
+
+Black           Blue             Green           Cyan
+Red             Magenta          Brown           White
+Dark Grey       Light Blue       Light Green     Light Cyan
+Light Red       Light Magenta    Light Yellow    Bright White
+
+Note that you can also enable blinking on any of these colors.
+"@Light Yellow Blinking" would cause the title line, "The World
+of Bogosity", to blink on and off.
+
+The second to final line, "A bogus history @history.txt", shows a
+menu selection and the text file it is tied to. The final line,
+"Important NPCs @npcs.mnu", shows another menu selection and the
+menu file it is tied to. All text files must have the .txt
+extension, and all menu files must have the .mnu extension.
+
+You can go into a text or menu file by hitting the <enter> key
+when you are on the appropriate selection. However, if you want
+to actually edit a menu file rather than simply passing through
+it, you must use the "<" or ">" keys. The "<" key will edit the
+menu you are currently in. The ">" key will edit the menu or text
+file you are currently selecting. In this way, you can literally
+create a system of menued notes about your world on the fly,
+without ever having to fall back to a DOS prompt. If you get
+confused somewhere, use the "?" key for some helpful information
+about how the menuing system works. You can also use the "c" key
+to change the text reader/editor that you are using.
+
+If you prefer, you can edit your menus and text files from the
+DOS prompt without ever going through Galactic. Just be sure that
+whatever editor or wordprocessor you use can save your files in
+text format. That is the most portable format yet devised (since
+it doesn't actually contain any formatting information other than
+carriage returns), and it is the only format which the "eg.exe"
+menuing system knows about. For complete newbies, I'd suggest
+using "ted" or "edit". "Ted" is included in Galactic's main
+directory. "Edit" is included with later versions of DOS. For
+Unix aficionados, there's also a DOS-version of "vi" available
+which you might want to use. If you need a quick & dirty
+refresher course, print out vi.hlp which is in Galactic's main
+directory.
+
+If you have any questions, feel free to write.
+
+          Jim Vassilakos        jimv@empirenet.com
+                                JimVassila@aol.com
+

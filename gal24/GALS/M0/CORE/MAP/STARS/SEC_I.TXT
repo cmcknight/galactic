@@ -1,0 +1,38 @@
+#--------1---------2---------3
+#PlanetName   Loc. Star(s)
+#----------   ---- --------
+@SUB-SECTOR: Bunkeria SECTOR: Core
+Larsaluu      0125 
+Danke Es      0126 
+Emshi         0127 
+Sheki         0128 
+Laslii Mii    0129 
+Siiaash       0130 
+Kan           0221 
+Arir Ash      0222 
+Lindbar       0224 
+Ashder        0228 
+Enluur        0322 
+Vliga         0324 
+Muuidimu      0325 
+Dindma Eshgi  0326 
+Baamlaa Maa   0328 
+Murda         0421 
+Gig           0423 
+Irlu          0428 K2 V M4 D
+Diid          0429 
+Amkhiikhaki   0522 
+Uniimvlu      0523 
+Uumkhi        0526 
+Urguu         0527 
+Iirkaa Gaasar 0529 
+Mien Puuruu   0530 
+Sketola       0622 M1 V
+Giirud        0624 
+Shika         0721 
+Kuuda I       0722 
+Khag          0725 
+Dral          0727 G3 V M3 D
+Lakhia        0821 
+Siirduu       0822 
+Iirla         0827 

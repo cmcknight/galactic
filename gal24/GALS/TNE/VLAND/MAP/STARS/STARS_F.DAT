@@ -1,0 +1,35 @@
+@SUB-SECTOR: stars_F   SECTOR: vland
+#
+# Trade routes within the subsector
+#
+#--------1---------2---------3
+#PlanetName   Loc. Stars(s)
+#----------   ---- ---------
+Iren          1011 K1 V M2 V
+Ashku         1012 M5 V B9 D
+Vallae        1112 F2 V
+Thogho        1113 F9 III
+Gukhaga       1114 G4 V M1 V
+Darmagu       1116 M4 V K6 V
+Uris Belt     1117 M2 V K1 V
+Daku          1119 K2 V
+Ideshe        1120 M1 V G1 V
+Gagzoe        1211 M8 V M7 V
+Siruga        1215 K7 V M0 V
+Estoff        1217 M3 V
+Ramir         1219 M0 V K6 V
+Imik          1220 F2 II
+Kema          1311 M1 V
+Taksar        1312 K9 V
+Hisus         1313 M6 V
+Anik          1317 M2 V
+Ganar         1319 M8 V
+Karka         1412 M1 V
+Centra        1414 M4 V
+Astira        1417 M5 V
+Luunbu        1515 M2 V
+Duam          1516 M1 V
+Kagamira      1519 G8 V
+Shulishu      1520 M2 V K3 V
+Ersii         1612 F8 V
+Midku         1619 F8 III

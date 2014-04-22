@@ -1,0 +1,46 @@
+@SUB-SECTOR: sec_F   SECTOR: massilia
+#
+# Trade routes within the subsector
+$1012 0717 -1 0
+$0919 0717 -1 0
+$1012 0811 -1 0
+$0919 1121 0 1
+$1419 1322 0 1
+$1419 1719 1 0
+$1613 1813 1 0
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Lenora        0914 B7A4775-B  N Fl                 313 Li
+Nonodaga      0915 BAA9642-C    Ni Fl              825 Li
+Stard         0916 E10056A-A    Ni Va              624 Li
+Aarze         0918 B547AEJ-F    Hi In              224 Li
+Aram          0919 A6B0836-D  N De                 403 Li
+Lysitihia     1012 A774300-D    Ni Lo              214 Li
+Silum         1014 E865899-6    Ri                 201 Li
+Naramorz Rock 1015 B300567-D    Ni Va              404 Li
+Anniga        1017 B300100-F    Ni Va Lo           202 Li
+Shimshan      1019 A110720-G    Na                 813 Li
+Groves        1020 E64648A-6    Ni                 210 Li
+Nary          1117 D000000-B  S Ni As Ba Lo        904 Li
+Avarro        1120 B8B5445-D  N Ni Fl              402 Li
+Zebecca       1213 E551210-8    Ni Po Lo           403 Ma
+Gurvin        1215 A7A6656-F    Ni Fl Rs           304 Li
+Reetage       1220 B557015-9  N Ni Lo              903 Li
+Lupaning      1312 B222662-B    Na Ni Po           105 Ma
+Nealis        1313 B569276-C    Ni Lo              303 Ma
+Wakatani Belt 1314 C000668-B    Ni As Na           410 Ma
+Muush         1319 B100653-F    Ni Va Na           803 Li
+Sagramore     1320 B1005AE-F    Ni Va              505 Li
+Neoland       1419 A653503-D  N Ni Po              523 Li
+Haamish       1420 B472101-C    Ni Lo              601 Li
+Dalken        1512 E4577A8-8    Ag                 415 Ma
+Malad         1514 E534633-8    Ni                 102 Ma
+Dubleen       1515 B848945-C  S Hi In Cp           234 Ma
+Nonama        1519 B327634-C    Ni                 600 Li
+Toleenal      1520 B551225-C    Ni Po Lo           314 Li
+Epel          1612 D895998-8    Hi                 703 Ma
+Nauto         1613 A76279A-C  N Ri              A  104 Ma
+Lybone        1614 D5498BC-7                       404 Ma
+Shukadiin     1616 B300463-E    Ni Va              123 Ma

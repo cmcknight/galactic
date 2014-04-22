@@ -1,0 +1,23 @@
+@dir=gals\classic\vanguard\gen
+@Light Yellow
+
+Vanguard / Subsector Summaries
+
+
+@Light Cyan
+      Subsector A: Issoudun               @..\loc\sub-a.txt
+      Subsector B: Andwella               @..\loc\sub-b.txt
+      Subsector C: Coos                   @..\loc\sub-c.txt
+      Subsector D: Trelyn                 @..\loc\sub-d.txt
+      Subsector E: Chapra                 @..\loc\sub-e.txt
+      Subsector F: Haldensleben           @..\loc\sub-f.txt
+      Subsector G: Pandemonium            @..\loc\sub-g.txt
+      Subsector H: Eslyat                 @..\loc\sub-h.txt
+      Subsector I: Eckmann Schrift        @..\loc\sub-i.txt
+      Subsector J: Four Corners           @..\loc\sub-j.txt
+      Subsector K: Diadem                 @..\loc\sub-k.txt
+      Subsector L: Kajaani                @..\loc\sub-l.txt
+      Subsector M: Helix                  @..\loc\sub-m.txt
+      Subsector N: Hyperion               @..\loc\sub-n.txt
+      Subsector O: Old Colonies           @..\loc\sub-o.txt
+      Subsector P: Jarnac                 @..\loc\sub-p.txt

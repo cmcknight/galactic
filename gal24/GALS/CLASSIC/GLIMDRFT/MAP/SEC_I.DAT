@@ -1,0 +1,57 @@
+@SUB-SECTOR: sec_i   SECTOR: glimdrft
+#
+#Jump Routes
+$0129 0229 0 0
+$0225 0525 0 0
+$0225 0427 0 0
+$0229 0331 0 1
+$0423 0624 0 0
+$0427 0628 0 0
+$0525 0624 0 0
+$0527 0626 0 0
+$0621 0620 0 -1
+$0621 0624 0 0
+$0624 0924 1 0
+$0624 0626 0 0
+$0626 0826 0 0
+$0626 0627 0 0
+$0627 0628 0 0
+$0628 0730 0 0
+$0730 0731 0 1
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Natal         0121 C001611-C    As                 301 Na
+Havan         0129 D478877-5                       900 Im
+Kalima        0224 E000669-9    As                 801 Kx
+Tellmar       0225 A9599A8-C    Ni                 200 Kx
+Tralmar       0227 C110500-B    Ni                 601 Kx
+Carlyle       0229 AAB1560-C    Ni                 501 Im
+Norristown    0230 EAAA494-A    Wa                 300 Im
+Frenzo        0325 XAAA664-8    Wa                 700 Kx
+Blumorn       0327 E130576-8    Ni                 501 Kx
+Ramin         0423 B767873-9    Ni                 801 Kx
+Kinsharth     0424 X765779-5    Ri Ag           R  501 Kx
+Hyline        0427 BA8A549-B    Wa                 900 Kx
+Dustie        0428 D000300-9    As                 201 Kx
+Krantell      0523 XAB25A5-8    Ni                 100 Kx
+Farmin        0525 AAAA476-C    Wa                 200 Kx
+Even          0527 A120965-C    In                 301 Kx
+Farwall       0621 A664668-B    Ri Ag              301 Kx
+Shanza        0624 B589536-B    Ni                 901 Kx
+Endit         0626 BA92794-B  N                    401 Kx
+Landing       0627 C000838-A    As                 101 Kx
+Nuway         0628 A876996-C                       800 Kx
+Putdown       0629 C000753-B    As In              401 Kx
+K'stat        0721 DAB2556-8    Ni                 500 Kx
+K'free        0723 D000583-9    As                 901 Kx
+Trazewell     0725 X000000-0    As                 000 Kx
+Frenty        0726 XAA1200-7    Ni                 700 Kx
+Zafire        0728 C546667-A    Ag                 401 Kx
+Grendel       0729 X130272-7    Ni                 101 Kx
+Hrothgar      0730 A654300-E    Ni                 600 Kx
+Beowulf       0821 E000640-A    As                 901 Kx
+Flast         0824 X220500-6    Ni                 601 Kx
+Plash         0826 B130476-B    Ni                 501 Kx
+Zara          0830 C000769-8    As                 701 Kx

@@ -1,0 +1,31 @@
+@SUB-SECTOR: Kedepar     SECTOR: Star's End
+#
+# Trade Routes
+#
+$1103 1140 0 -1 11
+$1103 1005 0 0 11
+$1005 1109 0 0 11
+$1109 0710 -1 0 11
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Pashirshilir  0901 E77A468-8    Wa                 913 Hl    
+Luke          0907 X413000-0    Ba Ic Lo           003 Hl    
+Kedepar       1005 A865947-D    Hi                 411 Hl     f
+AsHlii        1009 E110100-9    Lo                 404 Hl    
+Gumnima       1101 X424000-0    Ba Lo              003 Hl    
+Numkii        1103 C55669B-6  N Ag                 124 Hl
+Argime        1105 X100000-0    Ba Lo Va           004 Hl    
+Na            1106 X300000-0    Ba Lo Va           012 Hl    
+Lelinakuukha  1109 B536526-9  N                    512 Hl    
+Egasirke      1204 C7486AA-8    Ag                 211 Hl    
+Eshirlaziim   1205 D543514-A                       304 Hl    
+Nasimakdi     1202 C383443-9                       803 Hl    
+Urgesimmiku   1306 D553421-2  S                    414 Hl    
+Shadsugsa     1308 E579333-6    Lo                 800 Hl    
+Gakhega       1309 X8B3000-0    Ba Fl Lo           013 Hl    
+Mame          1405 C8B4312-B    Fl Lo              902 Hl    
+Dushiilush    1410 X547000-0    Ba Lo              003 Hl    
+Are           1503 X9B4000-0    Ba Fl Lo           024 Hl    
+Seduumedergu  1506 E878336-6    Lo                 300 Hl    
+

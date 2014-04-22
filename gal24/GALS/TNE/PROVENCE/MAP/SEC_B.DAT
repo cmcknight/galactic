@@ -1,0 +1,40 @@
+@SUB-SECTOR: sec_B   SECTOR: provence
+#
+# Trade routes within the subsector
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Aktsthungso   0901 X88A755-4    Wa Aq              422 Wi
+Ghaez-Larrgh  0903 X584522-5    Ag Ni              104 Wi
+Aedzuedza     0904 X324000-0    Ba                 023 --
+Doughaerr     0906 XAA9000-0    Fl Ba              022 --
+Kuzllonge     0908 D346423-5    Ni                 304 Wi
+Kugh          1002 X000000-0    As Va Ba           022 --
+Aelues        1003 D453775-8                       922 Wi
+Vuegva        1008 X556425-3    Ni                 303 Wi
+Viksougu      1009 E547100-5    Ni Lo              514 Wi
+Edhsaza       1103 X787347-3    Ni Lo           B  313 Wi
+Aekaedho      1106 X997856-4                    B  503 Wi
+Eg Orrou      1108 X500000-0    Va Ba              003 --
+Aersathun     1110 D543655-6    Ni                 101 Wi
+Adhkfurral    1201 XAD4125-5    Ni Lo              801 Wi
+Kerro         1204 X000000-0    As Va Ba           013 --
+Un Gzang      1205 X9B8000-0    Fl Ba              003 --
+Sondhuen      1208 X794622-2    Ag Ni           B  134 Wi
+Daethrrorrg   1209 X473547-3    Ni              B  202 Wi
+Guekouzaeks   1301 E372256-4    Ni Lo              101 Wi
+Llonknarrluts 1302 X350455-3    De Ni              101 Wi
+Knak          1304 X300000-0    Va Ba              014 --
+Gaengael      1306 X544746-4    Ag                 233 Wi
+Farrurgneng   1403 D544652-7    Ag Ni              625 Va
+Uengngil      1404 X575400-1    Ni                 403 Wi
+Gunog         1405 X78A431-3    Wa Aq Ni           304 Wi     f
+Kathae        1410 X221000-0    Po Ba              022 --
+Vorvoun       1505 C778845-A                       403 Wi     f
+Oungrroll     1507 X8A4000-0    Fl Ba              011 --
+Dhoradhue     1509 X576556-1    Ag Ni           B  104 Wi
+Zaeghaego     1601 D753758-7                       403 Va
+Dhurrg        1602 X863777-4                    B  403 --
+Kaengku       1605 C368757-8    Ag Ri              103 Va
+Dholgva       1608 X470224-4    De Ni Lo           203 Wi

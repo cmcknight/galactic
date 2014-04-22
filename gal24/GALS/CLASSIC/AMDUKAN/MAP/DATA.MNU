@@ -1,0 +1,27 @@
+@dir=gals\classic\amdukan\map
+@Light Yellow
+
+Amdukan / Data Files
+
+@Light Cyan
+      Sector Data                    @..\amdukan.dat
+
+@Light Green
+      Subsector Data
+@Light Cyan
+       A: Shili                      @sec_a.dat
+       B: Mugeshap                   @sec_b.dat
+       C: Argamasash                 @sec_c.dat
+       D: Eshimika                   @sec_d.dat
+       E: Usikaamuu                  @sec_e.dat
+       F: Enki                       @sec_f.dat
+       G: Laakuriida                 @sec_g.dat
+       H: Kula                       @sec_h.dat
+       I: Baalaalimgir               @sec_i.dat
+       J: Menderes                   @sec_j.dat
+       K: Lemasha                    @sec_k.dat
+       L: Shannakash                 @sec_l.dat
+       M: Assbuniirlu                @sec_m.dat
+       N: Makurnar                   @sec_n.dat
+       O: Erankhu                    @sec_o.dat
+       P: Ipin                       @sec_p.dat

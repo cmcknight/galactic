@@ -1,0 +1,38 @@
+@SUB-SECTOR: sec_i   SECTOR: Spica
+# 
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Nereides      0122 E79A79A-7    Wa                 604 So
+Kapybarrdos   0123 D722821-6    Na Po              305 So
+Athabasca     0124 A534535-C    Ni                 500 So
+Newbandar     0125 C2508CC-5    Po De              800 So
+Cook's World  0127 C47A851-7    Wa                 700 So
+Cataldyne     0129 D247755-6    Ag                 903 So
+Yingyang      0130 C445433-5    Lo Ni              920 So
+Spekle        0222 C424402-8    Lo Ni              200 So
+Hialbedo      0227 A86A326-C    Lo Ni Wa           825 So
+Massive       0228 CA978C7-6                       403 So
+Hommonculus   0321 B596126-7    Lo Ni              404 So
+Renfrew       0322 C8678B8-7    Tn                 312 So
+Striped       0323 B450897-9  G Po De              304 So
+Smudge        0325 D24458B-5    Ag Ni              912 So
+Hummongus     0328 CA88855-7    Ri                 800 So
+Hue           0329 C4568AF-7                       710 So
+Arquiro       0429 C7B0687-7    Ni De              711 So
+Renascence    0522 C776855-5    Tn                 512 So
+Aureal        0523 C479402-7    Lo Ni              104 So
+Port Arthur   0621 C662100-A    Lo Ni              400 So
+Taniaustralis 0622 CA69755-A    Ri                 323 So
+Boreal        0623 A3309CB-E    Na Hi Po De Cp     205 So
+Tigr          0626 C8C499C-8    Fl Hi              903 So
+Twilight Belts0725 D000201-7    Lo Ni As           314 So
+Tawny Belt    0727 C000310-C    Lo Ni As           802 So
+Little Jove   0728 CAE579A-8                       710 So
+Vitek         0822 E100997-9    Na Hi In Va        303 So
+Adobe         0823 E76577B-2    Ag Ri Tn St Ex  A  100 So
+Ravenwood     0824 B383666-6    C:0 Ni Ri An Mr    503 So
+Mannford      0828 B377122-B    Lo Ni              710 So
+Spires        0829 D201232-A    Lo Ni Va Ic        303 So
+Cheyenne Wells0830 D2306A7-5    Na Ni Po De        913 So

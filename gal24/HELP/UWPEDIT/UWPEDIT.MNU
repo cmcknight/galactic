@@ -1,0 +1,19 @@
+@dir=help\uwpedit
+@Light Yellow
+
+                         UWP Editor v1.01
+                            Help Menu
+
+@Light Cyan
+
+     Introduction               @intro.txt
+
+     QNA: Worlds                @..\qna\data\world.txt
+     QNA: Non-Worlds            @..\qna\data\nonworld.txt
+
+     Trade Codes                @..\trade.txt
+
+     Life Stat                  @life.txt
+     Resource Stat              @res.txt
+     Export Stat                @export.txt
+

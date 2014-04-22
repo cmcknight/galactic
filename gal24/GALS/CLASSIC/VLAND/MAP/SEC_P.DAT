@@ -1,0 +1,65 @@
+@SUB-SECTOR: sec_P   SECTOR: vland
+#
+# Trade routes within the subsector
+$2733 2329 -1 -1
+$2733 2636 0 0
+$2636 2438 -1 0
+$2540 2438 -1 0
+$2540 3137 0 0
+$2540 2602 0 1
+$2931 2829 0 -1
+$2931 3232 0 0
+$3232 0132 1 0
+$3232 0134 1 0
+$3137 0236 1 0
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Kiddinu       2531 B455553-F    Ag Ni              434 Rv
+Aki           2533 D6A7AFF-D    Hi Fl              110 Rv
+Zerapii       2534 C411774-9  S Na Ic              822 Rv
+Linissa       2536 E200777-8    Na Va              719 St
+Nunaat        2539 B624248-C  N Lo Ni              924 St
+Kalaalit      2540 A7697B9-C  N                    510 St
+Kane          2631 E789ABE-9    Hi                 723 Rv
+Wakarsat      2634 B68A689-A  N Ni Ri Wa           814 Rv
+Kakadan       2636 A9C7400-E  N Ni Fl Cp           601 St
+Akon          2637 A46358A-E  N Ni                 703 St
+Statia        2640 B300440-E    Ni Va              310 St
+Dnak'kritz    2732 D582658-9  S Ni Ri              104 Rv
+Jarmat        2733 A210122-C    Lo Ni              614 Rv
+Rambant       2734 B110113-B    Lo Ni              104 Rv
+Kesali        2737 B2009AB-F  N Hi Na In Va        503 St
+Tepmaa        2738 B410251-C  S Lo Ni              323 St
+Sg'aa         2739 AAB5895-F    Fl                 613 St
+P'ginzh       2740 C454567-9  S Ag Ni              710 St
+Kiimzhal      2831 C55455A-A    Ag Ni              801 Rv
+Telkaa        2832 C635515-B    Ni                 721 Rv
+Inushir       2836 E9899DE-6    C1 Hi              623 St
+Piazza        2837 C794685-5    Ag Ni              822 St
+Zombagu       2839 A684630-A    Ag Ni An           924 St
+Icuspin       2931 A200976-F    Hi Na In Va        820 Rv
+Zanski        2932 B585430-D  B Ni                 421 Rv
+Kanat         2933 B567259-A    Lo Ni              513 Rv
+Assazak       2934 C4908C9-A    De                 401 Rv
+Elafdt        2936 E200320-7    Lo Ni Va           801 St
+Punnari       2938 B737358-F  N Lo Ni Rs           101 St
+Teralvar      2939 C585563-A  S Ag Ni              701 St
+New Salen     3031 C202974-E    Hi Na In Va Ic     920 Rv
+Matuyama      3032 C140899-B    Po De              323 Rv
+Zhanora       3035 D651754-8  S Po                 101 Li
+Raanbazziil   3037 A428334-D  N Lo Ni              110 St
+Gilnat Paz    3039 A535300-D    Lo Ni              721 St
+Maamibrin     3131 B5628CA-C                       120 Li
+Toborit       3134 C424664-7    Ni                 322 Li
+Debekov       3135 B572205-A  N Lo Ni              901 Li
+Alleman       3137 A200555-E    Ni Va              702 Li
+Nasaa         3138 E325545-B    C3 Ni              320 Li
+Zana          3140 E653546-9    Ni Po              310 Li
+Vanutappan    3231 B447047-D    Lo Ni              624 Li
+Tamayo        3232 A779468-B    Ni                 601 Li
+Debort        3235 B481778-9  N Ri                 510 Li
+Zhannag       3237 C534373-A  S Lo Ni              634 Li
+Lamiina       3238 E768230-7    Lo Ni              313 Li
+Lannazol      3239 D845110-9  S Lo Ni              301 Li

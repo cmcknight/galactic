@@ -1,0 +1,35 @@
+@SUB-SECTOR: Aeahaihluil SECTOR: Ustral Quadrant
+#
+$1711 1811 0 0 10
+$1811 1813 0 0 10
+$2116 2316 0 0 10
+$2316 2416 0 0 10
+$1811 1910 0 -1 10
+$1711 1910 0 -1 10
+$1914 1813 0 0 10
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+OUSOIROIHEAS  1711 C4369H7-B  R Hi                 912 As     
+Eiwiyhfaorakh 1712 C5072K9-9  R Ic Lo Ni Va        814 As 
+Hwarl         1720 D6585H8-A  R Ag Ni              920 As 
+Ilea          1811 B6972M6-B  R C0 Lo Ni           904 As  
+Eaeie         1813 A3556H7-C  U D2 Ag Ni           421 As     
+Iyrauhyuhear  1817 C6448N8-E                       503 As     
+Eiasaihaur    1911 C6396M7-8  R Ni                 120 As     
+Iysusawehelao 1912 D5644L8-6    Lo Ni              530 A9     
+AEAHAIHLUIL   1914 C5769H2-D  T Hi In              412 As     
+Rarouhiywakho 2014 C6723G4-7    Lo Ni              820 As 
+Stariy        2016 E8446K5-6    Ag Ni              823 As     
+Owiyrl        2018 C5566M9-C  R Ag Ni              304 As     
+Eaeaftye'     2113 D87A2GA-A    Lo Ni Wa           814 As 
+Hlealyeea     2116 B77A6NB-B  R Ni Wa              113 As     
+Ausiwuaeaai   2211 A8493GA-E  T Lo Ni              920 As 
+Eseaha        2215 C4746N6-C  T Ag Ni              403 As     
+Iywyol        2311 D1105NB-7    Ni                 504 As 
+Auye          2312 C1004L9-9    Lo Ni Va           300 A2     
+Aohaiya       2315 E3634J5-5    C2 Lo Ni           204 As  
+Eakastaifoa   2316 B73A8K6-E  R Wa                 604 As     
+Ialeal        2413 A6375NC-D  T Ni                 500 As 
+Khkaahkal     2416 B8653J7-B    Lo Ni              103 As  
+Wa'yurleaha   2418 CAD37N6-A                       702 As     

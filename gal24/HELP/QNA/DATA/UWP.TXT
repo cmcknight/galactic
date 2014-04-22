@@ -1,0 +1,81 @@
+
+Every galaxy has a uwp.dat file which defines the basic uwp stats
+used by that galaxy (the ones that normally appear in blue on the
+left side of the subsector map display). You can define up to
+fifteen (15) of these stats in the uwp.dat file. Here is one
+example of an entry used in gals\classic\uwp.dat:
+
+Law Level
+pos=26 00
+0 = No Prohibitions
+1-3 = Low
+4-7 = Moderate
+8-9 = High
+A-D = Extreme
+E-G = Police State
+H-P = Slave State
+
+In this instance, the law level of the world is being defined. The
+"pos=26 00" line simply says that the law level stat (in the
+subsector files) is in the 26th position (i.e. column) and is not
+modified by any other stat. Note that the "00" could have been
+excluded. Alternately, a color code could have been added. Putting
+"pos=26 00 14" would be an example of this, the "14" making the
+stat appear in bright yellow. Here's a list of valid color codes:
+
+ 00  Black    04  Red       08  Dark Grey     12  Light Red
+ 01  Blue     05  Magenta   09  Light Blue    13  Light Magenta
+ 02  Green    06  Brown     10  Light Green   14  Light Yellow
+ 03  Cyan     07  White     11  Light Cyan    15  Bright White
+
+For another example, let's look at the population entry:
+
+Population
+pos=24 52
+0 = ?
+1 = ?0
+2 = ?00
+3 = ?,000
+4 = ?0,000
+5 = ?00,000
+6 = ? million
+7 = ?0 million
+8 = ?00 million
+9 = ? billion
+A = ?0 billion
+
+Here, the population stat is at the 24th column of the subsector
+files, but it is modified by the entry at the 52nd column which is
+the population multiplier. The program basically takes whatever it
+finds in the 52nd column and puts it in place of the "?".
+
+Note that sector directories may also have uwp.dat files, and the
+format is much the same. The gals\classic\beyond\uwp.dat file is a
+good example. It adds various codes to various uwp stats
+previously defined in gals\classic\uwp.dat. For example, under
+atmosphere is has:
+
+Atmosphere
+D = Carbon Dioxide
+M = Methane
+R = Radioactive
+V = Variable
+
+In this example, we see that four codes are added to the atmosphere
+stat. In sector level uwp.dat files, you may add codes and/or
+supersede the ones given in the uwp.dat file at the galaxy level.
+Note, however, that the "pos" entry is not used, so that you may
+not stick entirely new stats into the picture.
+
+Two more things: (1) The UWP editor, which can be called from
+Galactic, makes the assumptions that you aren't changing things
+around too heinously (it reads the uwp.dat files, but it also reads
+data\export.dat and makes all the usual assumptions when it comes
+up with the trade codes). Hence, it may begin to run into trouble
+if you go overboard on stat customization. (2) Also, each stat may
+only have up to forty codes. A range, such as A-C counts as only
+one code, not three, however, if you define A-C as one thing in the
+gals\classic\uwp.dat and define it as another thing in
+gals\classic\beyond\uwp.dat, that counts as two separate codes
+because the program will attempt to keep track of both entries.
+

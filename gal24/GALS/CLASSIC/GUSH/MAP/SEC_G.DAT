@@ -1,0 +1,40 @@
+@SUB-SECTOR: sec_G   SECTOR: gush
+#
+# Trade routes within the subsector
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Gaanriigashii 1712 B757433-8    Ni                 504 Im
+Vehko         1715 B665655-A  S Ag Ni Ri           215 Im     f
+Arsuch        1717 D566446-9  S Ni                 804 Im
+Iktaakas      1718 C74A121-B  S Lo Ni Wa           510 Im
+Crufra        1811 B583432-A    C2 Ni              804 Im
+Apay Maru     1814 B557774-C  S Ag                 904 Im     f
+Temom         1815 C423455-E  S Ni Po              620 Im
+Lumuiimshi    1816 A311565-D  N Ni Ic Cp           710 Im
+Windcrest     1818 C568488-6    Ni                 312 Im
+Shirkii       1911 C456455-9  S Ni                 614 Im
+Edjbaston     1914 E76A641-7    Ni Ri Wa           202 Im
+Dukshii Em    1915 E88A630-7    Ni Wa              901 Im
+Oyuch         1916 E150412-9    Ni Po De           400 Im
+Sadguumishmak 2015 C585644-9    Ag Ni Ri           810 Im
+Rellblud      2018 B440547-D  N Ni Po De           802 Im
+Buggar        2019 C9D6511-C  S Ni Fl              800 Im
+Oukictach     2020 E264564-A    Ag Ni              900 Im
+Eennusinak    2113 E451372-5    Lo Ni Po           503 Im
+Pihkiit       2115 C420040-7    Lo Ni Po De     A  402 Im
+Nogo          2119 EAAA8A7-A    Fl Wa              101 Im
+Esh Purshuur  2120 D570154-5  S Lo Ni De           130 Im     f
+Vilir's World 2213 C9B366A-A    Ni Fl              134 Im
+Murshen       2215 C585598-6    Ag Ni              110 Im
+Seaport       2216 C5A5655-C    Ni Fl              414 Im     m
+Ashsha        2217 B222586-E  A Ni Po              503 Im     f
+Ed            2313 B57AA7A-F    Hi In Wa           313 Im     f
+Tu Tandi      2316 C647444-6    Ni                 600 Im
+Mimip         2318 B876420-9    Ni                 800 Im     m
+Bleayn        2320 C674559-7    Ag Ni              200 Im
+Cerell        2411 C78A48A-9  S Ni Wa              202 Im
+Wolstene      2414 C000675-C  S Na Ni As           903 Im     f
+Kikhi Zun     2415 B77A445-A  A Ni Wa              100 Im     f
+Liebing       2418 A621666-D    Na Ni Po           300 Im

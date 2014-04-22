@@ -1,0 +1,12 @@
+
+Porozlo (Rhylanor:  Spinward Marches/2715)
+A867A74-B          Hi Tn
+B201 RE M1 V M7 V G=1.02, Day=23:26:42.01, Year = 22d 20:16:41.12
+Atmo=1.00, Weather Control
+Temp= +16.8 (7/lat +21 to -49) (season +10.2 to -17.0, 17 deg lat)
+Daily temp range 38.00
+Agricultural, Ores, Compounds; Agroproducts, Non-metals; Parts,
+Durables, Consumables, Weapons; Artforms
+Progressive/Advancing, Competitive/Neutral, Fragmented/Aloof
+Legal: 4-54444     Tech  B8-BBBAB-B9BB-CB-F
+

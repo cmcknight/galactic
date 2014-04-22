@@ -1,0 +1,24 @@
+@SUB-SECTOR: stars_J   SECTOR: vland
+#
+# Trade routes within the subsector
+#
+#--------1---------2---------3
+#PlanetName   Loc. Stars(s)
+#----------   ---- ---------
+Ganiir        0921 M9 V G5 V
+Gazzum        0923 F5 V
+Shugandarsii  0924 M4 V
+Havland       0927 M8 V M3 V
+Gokodeyo      0930 F5 V M9 V
+Apurshish     1028 G2 V
+Shakshim      1128 M3 V M1 V
+Sumabaal      1227 M9 V M8 V
+Robbuun       1323 K5 V B5 D
+Ilma          1523 M7 V
+Bakog         1530 G2 V
+Etsur         1623 M2 III M2 V
+Zushar        1624 M5 V M8 V
+Bashimus      1625 A5 V
+Lalazim       1626 M5 V
+Akumid        1628 K8 V
+Kanoka        1630 M1 V

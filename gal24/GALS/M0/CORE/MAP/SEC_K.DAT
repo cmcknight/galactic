@@ -1,0 +1,48 @@
+@SUB-SECTOR: Chant SECTOR: Core
+#
+# Trade routes within the subsector
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Duusikiim     1721 C565556-8    Ag Ni              304 Im
+Guurma Sa     1724 A675321-A  N Lo                 524 Im
+Angairkshak   1725 B445787-8    Ag                 503 Im
+Demla         1726 C000232-9    Lo As              104 Im
+Khirar        1727 B8B1114-A  N Lo Fl              605 Im
+Cordova       1730 BAB49BG-C  N Fl Hi              504 Im
+Shar          1821 A78A200-C  N Lo Ni Wa           402 Im
+Anga Ke       1822 B200545-C  N Ni Va              912 Im
+Gerar Khashii 1823 E8B7000-0    Ba Fl              004 Ba
+Likamish      1824 E554100-3    Lo                 604 Im
+Rarkan        1825 E5A2000-0    Ba Fl              001 Ba
+Shis          1829 B211655-A    Na Ni Ic           913 Im
+Medishvlaas   1921 C245373-7    Lo                 724 Im
+Mar           1924 E455000-0    Ba                 000 Ba
+Naauup Emrim  1925 A485673-9    Ag Ni Ri           800 Im
+Khiri         1927 B94A222-6    Wa Lo              204 Im
+Shakiisiir    1929 E628314-4    Lo                 824 Im
+Kegi And      1930 B000788-C    As Na              204 Im
+Shaashsha     2021 A300463-B  N Lo Va              915 Im
+Amuum Kuu     2027 C9A5447-9    Fl Lo              800 Im
+Iipshimun     2028 B443200-A  N Lo Ni Po           904 Im
+Ragni         2030 E63A768-6    Wa                 314 Im
+Vlaakier      2121 B98A579-8    Ni Wa              413 Im
+Iirkkhu       2122 E476000-0    Ba                 000 Ba
+Urish         2125 A5247CA-A                       603 Im
+Iruies        2130 E565000-0    Ba                 003 Ba
+Miium         2221 C998276-6    Lo                 815 Im
+Miiidkhig     2222 C855899-8                       613 Im
+Muun          2223 E866000-0    Ba                 002 Ba
+Kuula Iish    2224 B160323-B    De Lo              203 Im
+Duur          2225 C512112-9    Ic Lo              711 Im
+Skeen         2226 B491A89-C    Hi In              722 Im
+Lider         2227 C357100-6    LO                 703 Im
+Shusa         2322 B58189C-A    Ri                 804 Im
+Lezaar        2323 B423AB8-A    Na In Po Hi        803 Im
+Limeshuurgi   2326 E410000-0    Ba                 010 Ba
+Riias         2327 B759348-A    Lo                 113 Im
+Raami         2330 C522966-B    Hi Na In Po        403 Im
+Geiish        2422 E473000-0    Ba                 004 Ba
+Diki Shi      2425 C200ABB-A    Na In Hi Va        423 Im
+Arka Uum      2429 B552224-6    Po Lo              902 Im

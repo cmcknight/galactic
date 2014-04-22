@@ -1,0 +1,46 @@
+Ustral Quadrant
+
+A: Alrirleih                 suba.dat            f
+B: Heasairlui                subb.dat            f
+C: Yewoiauehoah              subc.dat            f
+D: Thalia                    subd.dat            f
+E: Stiy                      sube.dat            f
+F: Hlol                      subf.dat            f
+G: Aeahaihluil               subg.dat            f
+H: Iselle                    subh.dat            f
+I: Ftea                      subi.dat            f
+J: Ouateahaaorl              subj.dat            f
+K: Kemit                     subk.dat            f
+L: Adere                     subl.dat            f
+M: Ihtaois                   subm.dat            f
+N: Khteaiwiyftei             subn.dat            f
+O: Oolyasiyl                 subo.dat            f
+P: Ehfya                     subp.dat            f
+
+Bases:
+F = Military and Naval bases 
+J = Naval base (non-Imperial)
+M = Military base (non-Imperial)
+R = Clan base (Aslan)
+T = Tlaukhu base (Aslan)
+U = Tlaukhu and Clan base (As)
+  = None
+
+Allegiance:
+02 As = Aslan Hierate
+10 A0 = Yerlyaruiwo Clan Bloc
+10 A1 = Khaukeairl Clan Bloc
+10 A2 = Syoisuis Clan Bloc
+10 A3 = Tralyeaeawi Clan Bloc
+10 A4 = Eakhtiyho Clan Bloc
+10 A5 = Hlyueawi Clan Bloc
+10 A6 = Uiktawa Clan Bloc
+10 A7 = Ikhtealyo Clan Bloc
+10 A8 = Seieakh Clan Bloc
+10 A9 = Aokhalte Clan Bloc
+09 If = Iyeaao'fte
+11 Na = Non-aligned
+05 Of = Oleaiy'fte
+12 So = Solomani Confederation
+06 TE = Tealou Arlaoh
+08    = Unknown

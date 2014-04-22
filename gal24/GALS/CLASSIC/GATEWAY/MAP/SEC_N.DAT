@@ -1,0 +1,33 @@
+@SUB-SECTOR: n SECTOR: Gateway
+#
+# Jump-routes
+$1531 1530 0 -1 15
+$1531 1432 0 0 15
+$1432 1633 0 0 15
+$1633 1535 0 0 15
+$1535 1436 0 0 15
+$1436 1338 0 0 15
+$1436 1637 0 0 15
+$1637 1739 1 0 15
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Junction      1633 C560236-A    Lo Ni De           112 Vi
+Alphaaric     1133 A996220-F  N Fl Lo              932 Na
+Crostan       0938 C243342-4    Lo Ni Po           202 Na
+Namitin       1432 C525340-7    Lo Ni              610 Vi
+Plinth        1535 B553310-8    Lo Ni Po           913 Vi
+Halik         1136 E332338-9    Lo Ni Po           932 Na
+Whister       1338 B688327-B  N Lo Ni              912 Vi
+Clavaba       1436 C466459-4    Ni                 911 Vi
+Indolence     1039 D585430-8    Ni                 912 Na
+Thanderbrac   1639 C150459-9    Ni Po De           210 Vi
+Yar           1234 C8D3578-7    Ni Fl              700 Na
+Ariel         1531 C684584-7    Ag Ni              913 Vi
+Gronegger     1339 D21356A-9    Ni Ic              813 Vi
+Pathway       1034 C748551-B  A Ni                 113 Na
+Falray        1240 C244686-8    Ag Ni              215 Na
+Beshavaram    1134 B426649-B  N Ni                 735 Na
+Vinie's World 0934 C4357CC-6                       401 Na
+Balaclaron    1637 A867989-A    Hi                 414 Vi

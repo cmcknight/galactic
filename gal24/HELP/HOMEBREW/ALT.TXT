@@ -1,0 +1,207 @@
+Variant Main World Generation System for Traveller
+--------------------------------------------------
+
+1. World Size. Roll 2d6-2.
+
+2. Atmosphere. Roll 2d6-7+Size.
+   if size=0, atmos=0.
+   confine range to 0-F.
+
+3. Hydrographics. Roll 2d6-7+Size.
+   if atmos is 1 or less, DM -4
+   if size is 1 or less, hydro=0
+   if atmosphere is A-C, DM -4
+   if atmosphere is E, DM -2
+   confine range to 0-A
+
+4. Indigenous Life. Roll d12-1 twice, take lower of two rolls
+   if atmos is 1 or less, then life = 0
+   if atmos is A-C, DM -6
+   if hydro = 0, DM -4
+   if life is A-B, 50% chance of DM +2
+   confine range 0-D
+   if life is D, conduct eco-collapse:
+      atmos=C
+      hydro, DM -4
+      confine hydro 0+
+
+   Life Stat Explained
+   -------------------
+   0: Sterile: No indigenous life. Atmosphere is not breathable
+         without substantial eco-engineering.
+   1: Proto-cellular: Indigenous life consisted of amino acids
+         and/or various primitive replicators. These may have
+         been wiped out by transplanted organisms.
+   2: Single-cellular: Transplants would have taken over.
+   3: Multi-cellular: Transplants would have taken over.
+   4: Complex microscopic: Lots of colorful ooze. Transplants
+         would have taken over for the most part, however, there
+         might be some indigenous bacteria still competing.
+   5: Macroscopic: Mainly small indigenous sea-life which would
+         be competing along side whatever transplants are
+         present.
+   6: Primitive ecosystem: Oceans are teaming with indigenous
+         organisms, but land-based life is just carving out its
+         niche. Transplants may have halted the advance of
+         indigenous life, assuming the two are bio-compatible.
+   7: Teaming ecosystem: Water/Land/Air-based herbivores and
+         predators. Transplants would have a hard time competing
+         in such an advanced ecosystem. Bio-compatibility would
+         be an important issue.
+   8: Proto-sentient: Tool-fabrication, mastery of fire.
+   9: Sentient: Agriculture, language, symbology.
+   A: Non-spacefaring: Planet may be a biological protectorate
+         (ala the Prime Directive).
+   B: Early Spacefaring: Indigenous race may have been given
+         technology or may even have been genetically uplifted.
+   C: Cataclysm: Result of either war, plague, or minor
+          environmental mismanagement. Survivors are in a state
+          of slow recovery.
+   D: Green Hell: Result of major environmental mismanagement.
+          World is transformed into a greenhouse.
+
+5. Resource Level. Roll 2d6-7+Size
+   confine range 0-F
+
+   Resource Stat Explained
+   -----------------------
+   0: Barren
+   1-4: Poor: Basic chemical diversity necessary to support
+           indigenous life. Otherwise, no claim to fame.
+   5-8: Moderate: Moderate resource base capable of being
+           exploited for export.
+   9-C: Rich: Rich resource base, one of which could command
+           subsector-wide influence.
+   D+ : Extreme: Very rich resource base, one of which could
+           command sector-wide influence.
+
+6. Population. Roll 2d6-2.
+   if size is 2 or less, DM -1
+   if atmosphere is 3 or less, DM -3
+   if atmosphere is A, DM -2
+   if atmosphere is B, DM -3
+   if atmosphere is C, DM -4
+   if atmosphere if greater than C, DM -2
+   if atmosphere is 6, DM +3
+   if atmosphere is 5 or 8, DM +1
+   if hydro=0 and atmos>3, DM -2
+   if life is 0, DM -2
+   if life is 7+, DM +2
+   if res is 0, DM -3
+   if res is 1-4, DM -1
+   if res is 5-8, DM +1
+   if res is 9-C, DM +2
+   if res is D+, DM +3
+   confine range to 0-A
+
+6b. Population Multiplier. Roll d9.
+   if pop is 0, 5 in 6 chance that popmult = 0
+
+7. Starport. Roll 2d6 (use whichever table suits the locality
+                       but remember that high rolls result in
+                       a lower quality starport).
+   if pop=0, starport=X
+   if pop=1, DM +2
+   if pop=2, DM +1
+   if pop is 6-9, DM -1
+   if pop is A, DM -2
+   confine range to A-X
+
+8. Government. Roll 2d6-7+population.
+   if pop=0 and popmult=0 then gov=0
+   confine range to 0-F
+
+9. Law Level. Roll 2d6-7+government.
+   if gov=0 then law=0
+   confine range to 0-20
+
+10. Tech Level. Roll d6. Modify as per the standard chart
+     for starport, size, hydro, and pop. Modify as per
+     standard chart for atmosphere except for D-E range.
+    Modify as per law as follows:
+     if is law B-D, DM -1
+     if is law F+, DM -2
+    Modify as per government as follows:
+     if gov = 1 or 5, DM +1
+     if gov = 13 or 14, DM -2
+     if gov = 6 or 15, DM -1
+    if pop=0 & popmult=0 then tech=0
+    confine lower bound of range to 0
+
+11. Technical Depopulation.
+    if hydro is 0 or A and pop is at least 6,
+       then tech must at least be 4.
+    if atmos is 4, 7 or 9,
+       then tech must at least be 5.
+    if atmos is 3 or less or A-C,
+       then tech must at least be 7.
+    if atmos is D or F and hydro is A,
+       then tech must at least be 7.
+    if tech is less than minimum requred tech then:
+       pop=0, popmult=0, gov=0, law=0, tech=0, starport=X
+
+12. Trade Classifications
+    As per MegaTraveller rules except as follows:
+    Deleted: Rich, Poor, and Industrial, Nonindustrial, Non-agro
+    Modified: Agricultural (may include hydro 9+)
+              Fluid (no size restriction, atmos A-C, hydro 1+)
+
+13. Main Export Commodity.
+    if res = 5+ & tech = 1+ & pop=5+ then try to assign an export
+    (try as many times as there are resource points, choosing the
+     best outcome based on tech level)
+      if AG, export = d5
+      otherwise, export = d29+4
+    if no export is selected, then export=0
+
+   Export Stat Explained
+   ---------------------
+   Roll                         Tech Etc
+        0 None                   0    -
+    01  1 Textiles               5    A
+    02  2 Wood Products          4    A
+    03  3 Livestock              1    A
+    04  4 Agro-Consumables       4    A
+    05  5 Pharmaceuticals        9    -
+    06  6 Petrochemicals         6    L
+    07  7 Biologicals            1    L
+    08  A Antimatter             H    -
+    09  B Bio-engineering        D    -
+    10  C Computers              D    -
+    11  D Industrial Crystals    5    -
+    12  E Electronics            C    -
+    13  F Farm Machinery         5    -
+    14  G Gemstones              1    -
+    15  H Heavy Metals           5    -
+    16  I Industrial Machinery   5    -
+    17  J Synthetic Fabric       8    -
+    18  K Synthetic Foods        8    -
+    19  L Industrial Chemicals   7    -
+    20  M Rare Minerals          5    -
+    21  N Weaponry/Armor         A    -
+    22  O Radioactives           6    -
+    23  P Polymers               9    -
+    24  Q Cybernetics            C    -
+    25  R Robots                 D    -
+    26  S Starships              B    -
+    27  T Tools                  5    -
+    28  U Underwater Equipment   7    -
+    29  V Vehicles/Gravitics     8    -
+    30  W Banking/Insurance      D    -
+    31  X Entertainment          D    -
+    32  Y Art/Publishing/News    D    -
+    33  Z Information/Research   D    -
+
+   Tech=X: X is the minimum tech level
+   Etc=A: World must be Agricultural
+   Etc=L: Life must = 7+
+
+14. Determine Bases, Gas Giants, Planetoid Belts, and Travel
+    Codes normally.
+
+
+           _   /|       Jim Vassilakos
+           \`o_O'       jimv@empirenet.com
+             ( )        jimv@silver.lcs.mit.edu
+              U         San Bernardino, California
+

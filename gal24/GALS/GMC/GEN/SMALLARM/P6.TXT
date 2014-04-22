@@ -1,0 +1,25 @@
+p6 Pistol
+
+The p6 pistol is the standard issue weapon for second line non-combatants. It
+is a fairly typical conventional pistol, firing standard 8.5mm caseless
+rounds in either semiautomatic or 4 round burst mode. It's ammunition is
+compatable with that of the c4 machine carbine (though it can not accept the
+c4's 75 round magazine). For the civilian market the Phoenix Corporation
+manufacturers the Phoenix 6000, a semiautomatic only version of the standard
+p6.
+
+Weapon: p6 pistol
+Action: Recoil - singleshot, burst (4)
+Ignition: Electric
+Tech Level: 10
+Calibre: 8.5mm MSO caseless
+Penetration: 3
+Range: very short
+Malfunction: reliable
+Shots: 20
+Mass: 0.9kg
+Reloads: 0.2kg
+Length: 23.6cm
+Cost: Cr 350 (Phoenix 6000: Cr 235)
+Incidentals: 20 rounds ball: Cr 3.2 (0.16Kg)
+             empty 20 magazine: Cr 15 (0.04Kg)

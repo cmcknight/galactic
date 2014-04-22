@@ -1,0 +1,19 @@
+Shenandoah C585423-6
+
+          Size: Medium : D=8000km               Atmosphere: Dense
+          Hydrographics: 50%                    Population: 80,000
+          Government: Participating Democracy   Law Level: Low
+          Tech Level: 6 (Circa  1950)           Star port: Routine
+
+        Shenadoah weathered the Collapse rather well.  It didn't
+suffer a major population die off, the economy was the only thing that was
+heavily damaged.  The sustainable technology level fell to 5, but
+recent work has raised it to 6.  The citizens are very friendly and take
+a great deal of pride in being a member of the Coalition.  Many young
+people have joined the RCES and the RCN.  Almost all residents 
+try to be involved in their community, many spend their free time reading
+up on planetary and RC politics and policies.  One of the most popular
+activities is arguing about politics.  
+
+Lewis Roberts (lewis@chara.gsu.edu)
+

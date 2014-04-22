@@ -1,0 +1,35 @@
+@SUB-SECTOR: sec_C   SECTOR: canopus
+#
+# Trade routes within the subsector
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Newbond       1802 B3009AD-E    Hi Na Va           620 So
+Swaedient     1806 C200626-6    Na Ni Va           321 So
+Oresteia      1809 C334556-A    Lo Ni              613 So
+Farrokh       1901 E778454-4    Ag Lo Ni           114 So
+Howor         1904 B957413-9  N Ag Lo Ni           424 So
+Waht          1908 CAA6335-8  S Fl Lo Ni           901 So
+Asha          1909 E200613-7    Na Ni Va           604 So
+Rilfri        2001 A220A9B-E    De Hi In Na Po     900 So
+Agsded        2004 D201777-C  S Ic Na Va           410 So
+Crispino      2007 E682265-4    Lo Ni              604 So
+Hakiem        2101 CAD579D-A                       225 So
+Scanlon       2103 B86AABC-E    Hi Wa              802 So
+Dilon         2108 A000677-C  N As Na Ni Va        402 So
+Riamon        2202 E200123-6    Lo Ni Va           902 So
+Edie          2203 C8B3042-5    Fl                 402 So
+Atalanta      2204 C6448A9-6  S                    623 So
+Elias         2205 C572443-7  S Lo Ni              902 So
+Colin         2209 B8B1221-A    Fl Lo Ni           710 So
+Pabst         2210 C412420-B    Ic Lo Ni           410 So
+Bayonne       2304 B232786-C    Na Po              204 So
+Kaprin        2305 B855761-9                       202 So
+Lester        2308 C585767-5    Ri                 814 So
+Bernoulli     2310 C739269-9    Lo Ni              221 So
+Eldin         2402 B381234-C    Lo Ni              214 So
+Gillette      2403 A160300-E  2 De Lo Ni           923 So
+Pynyngg       2404 C243477-6    Lo Ni Po           412 So
+Sonia         2407 C304447-7  S Ic Lo Ni Va        215 So
+Dargo         2410 E877202-9    Ag Lo Ni           125 So

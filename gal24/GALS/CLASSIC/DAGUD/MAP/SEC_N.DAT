@@ -1,0 +1,41 @@
+@SUB-SECTOR: sec_N   SECTOR: dagudash.sec
+#
+# Trade routes within the subsector
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Liishuga      0931 D66388C-7  S Ri                 200 Im     f
+Sii           0932 B888540-A  S Ag Ni              312 Im     f
+Mishu         0933 BAD1348-A    Lo Ni Fl           603 Im     f
+Akiva         0935 A98A869-D  N Ri Wa              105 Im     f
+Abbavi        0936 C682343-8    Lo Ni              804 Im     f
+Uaam          0940 A579546-E    Ni                 814 Im     m
+Shidka        1032 B564688-8    C0 Ag Ni Ri     A  901 Im     f
+Khulim        1039 B354410-D  N Ni                 824 Im     f
+Lushanuma     1040 D225545-7  S Ni                 613 Im     f
+Adakhem       1134 C434214-D    Lo Ni              103 Im     f
+Gukhemuuka    1138 D464268-A  S Lo Ni              904 Im     f
+Umri          1234 D9C4869-9  S Fl                 501 Im     f
+Rashiki       1235 A678455-C    Ni                 823 Im     f
+Gateway       1331 B98A654-D  N Ni Ri Wa           701 Im     m
+Ashmasa       1333 D250741-7    Po De              104 Im     f
+Kiirishi      1335 C6A4223-B    Lo Ni Fl           104 Im     f
+Luushama      1336 C585504-B    Ag Ni              102 Im     f
+Arlu          1339 AA8A520-D  N Ni Wa              404 Im     f
+Argi          1431 A330ACC-F  N Hi Na Po De        904 Im     f
+Lumnu         1432 C568101-A  S Lo Ni              711 Im     f
+Gigi          1433 A693214-E  N Lo Ni              300 Im     f
+Shabamiir     1437 C7C1442-B  S Ni Fl              100 Im     f
+Ur            1532 B400551-F    Ni Va              504 Im     f
+Miir          1534 A65A687-F    Ni Wa              224 Im     f
+Aiish         1535 C201458-E  S Ni Va Ic           604 Im     f
+Zalaana       1537 C410322-B  S Lo Ni              302 Im     f
+Muukhim       1538 D97A400-A  S Ni Wa              923 Im     f
+Sharaa        1539 C232563-9  S Ni Po              303 Im     f
+Gaesh         1631 B4946AB-8    Ag Ni              204 Im     f
+Anomaly       1633 C9E7366-C  S Lo Ni Fl           812 Dr     f
+Sh'si         1635 A354476-F    Ni                 413 Im     f
+Shulasgu      1636 C130327-B  S Lo Ni Po De        610 Im     f
+Zish          1638 D2106B9-8  S Na Ni              413 Im     f
+Lenashuuk     1640 A7A8A76-F  W Hi Fl           A  400 Im     f

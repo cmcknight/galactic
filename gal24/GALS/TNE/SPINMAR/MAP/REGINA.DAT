@@ -1,0 +1,39 @@
+@SUB-SECTOR: regina   SECTOR: spinmar
+#
+# Trade routes within the subsector
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Efate         1705 A646A30-E  B Hi In Tp An        100 Re     m
+Alell         1706 B46789C-B    Ri                 810 Re
+Yres          1802 BAC6773-8  S Fl              B  635 Re
+Menorb        1803 C652998-8    Hi Po              310 Re     m
+Uakye         1805 B439598-D    Ni                 620 Re
+Whanga        1806 E676326-A    Lo Ni Tp           724 Re
+Knorbes       1807 D888887-4    Ri Tp An           134 Re
+Forboldn      1808 E893614-5    Ni Tp              612 Re
+Ruie          1809 C776977-8    Hi In Tn        B  901 Re
+Jenghe        1810 C799663-A  S Ni Tp O:1910       523 Re
+Pixie         1903 A100203-D  N Lo Ni Va An        801 Re
+Boughene      1904 A8B3531-D  S Fl Ni              901 Re
+Hefry         1909 C200423-8  S Lo Ni Va           320 Re
+Regina        1910 A788999-D  A Hi Tp Cp           103 Re
+Feri          2005 B384879-B  S Ri              B  720 Re
+Roup          2007 C77A9A9-7  S Hi In Wa           223 Re
+Pscias        2106 X355523-2    Ag Ni           R  801 Re
+Yori          2110 C360857-D  Z Ri De RsB An       113 Re
+Dentus        2201 B979600-B  A Ni Tp              220 Re
+Kinorb        2202 A663659-6  S Ni Ri Tp           822 Re
+Beck's World  2204 D88349D-5    Lo Ni Tp St An     901 Re
+Enope         2205 C411988-7    Na Hi In Ic        700 Re
+Wochiers      2207 EAC28CC-A    Fl                 803 Re
+Yorbund       2303 C7C6503-8    Fl Ni              320 Re
+Shionthy      2306 C000742-9    Na As An           814 Re
+Algine        2308 X766977-4    Hi Tn           R  923 Re
+Yurst         2309 E7B4643-6    Fl Ni              724 Re
+Heya          2402 B687845-7  S Ri Tp              134 Re
+Keng          2405 E2718CA-5                       712 Re
+Moughas       2406 CA5A588-B    Ni Wa              901 Re
+Rethe         2408 E230AA8-9    J:6 Na Hi Po De    323 Re
+Inthe         2410 B575776-A  A Ag An           B  723 Re

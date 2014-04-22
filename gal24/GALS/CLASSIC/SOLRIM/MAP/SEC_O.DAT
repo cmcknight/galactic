@@ -1,0 +1,29 @@
+@SUB-SECTOR: sec_O   SECTOR: sorted
+#
+# Trade routes within the subsector
+$1738 1538 -1 0
+$1738 1510 -1 0
+$1738 2538 1 0
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Ys            1732 A847869-E  N                 A  520 Im
+Cameroon      1736 E442100-8    Lo Ni Po           204 So
+Hamilcar      1738 A26A9AA-E    Hi Wa Cp           513 So
+Parsifal      1739 B730878-B    Na Po De           903 So
+Aristotle     1740 A269985-E  N Hi                 420 So
+Remulak       1833 A974769-E  N Ag                 512 Im
+Chernozem     1836 AA85983-C    Hi                 103 So
+Hephaistos    1931 A98A776-D    Ri Wa              202 Im
+Calgary       2031 CA9A4AC-B    Ni Wa              525 Im
+Inferno       2131 C578855-B                       824 Im
+Forlorn       2132 C496365-D    Lo Ni              224 Im
+New Greenpern 2135 B798443-C  N Ni                 704 So
+Gwynedd       2138 A9D78A9-D  N Fl                 104 So
+Medea         2235 C779450-D    Ni                 603 So
+Pollux        2236 X000000-0    Lo Ni As Ba     R  600 So
+Hanuman       2240 B9BA68A-A    Ni Fl Wa           213 So
+Siva          2337 E210211-C    Lo Ni              724 So
+Castor        2339 A0009AB-A    Hi Na In As        500 So
+Smade's Plane 2433 D778200-5    Lo Ni              802 Im

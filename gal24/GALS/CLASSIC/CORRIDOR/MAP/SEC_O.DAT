@@ -1,0 +1,37 @@
+@SUB-SECTOR: sec_O   SECTOR: corridor
+#
+# Trade routes within the subsector
+$2335 2634 1 0
+$2338 2537 1 0
+$2335 2235 0 0
+$2235 2137 0 0
+$2137 2037 0 0
+$2137 2338 0 0
+$2338 2040 0 0
+$2040 1840 0 0
+$1840 1801 0 1
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Emephdee      1832 A551464-8  N Ni Po              501 Cs
+Jafla         1840 A898114-E    Lo Ni              613 St
+Sinta         2037 A201830-D  A Na Va Ic Cp        313 St
+Ea'tiva       2039 B686110-8  N Lo Ni              301 St
+Tainbee       2040 A757476-C    Ni                 704 St
+Kacxhun       2135 E427456-6    Ni                 914 St
+Whikee        2136 C223669-9    Na Ni Po           101 St
+Inarli        2137 B677989-D    Hi In              414 St
+Dodardudos    2140 C483527-6    Ni                 103 St
+Setii Goek    2234 E43669D-9    Ni                 910 St
+Kysar II      2235 A310133-F    Lo Ni              920 St
+Kateri        2238 C8C0885-8  S De                 422 St
+Kloackin      2239 B572834-9  N                    210 St
+Fabeticu      2333 X466767-1    Ag Ri           R  335 St
+Kikasad       2334 C76A003-6    Lo Ni Wa           121 St
+Tahspeck      2335 AA9A651-A    Ni Wa              404 St
+Mok-Retinae   2336 C456441-7    Ni                 503 St
+Vapour        2338 A360459-B  N Ni De              324 St
+Knofodu       2435 D8B4684-7  S Ni Fl              520 St
+Ackang        2439 E9B4630-5    Ni Fl              622 St
+Doyaterfit    2440 D443103-7  S Lo Ni Po           301 St

@@ -1,0 +1,41 @@
+r1 Combat Rifle
+
+The r1 combat rifle is a very old weapon design. It began life in 1235T as
+the GIR(m)-52 as the standard infantry rifle for the Terran Magellanic
+District. The rifle survived the collapse of the Terran Empire as the
+standard issue rifle with the remnant Terran forces on Breakout. In 1341T it
+was adopted by the IMSC as the M1341 and remained standard issue until
+replaced by the M1707 (later to become the r3). However it remained standard
+issue with Breakout until it was finally replaced by the M1707 in 2182T. The
+weapon recieved a new lease of life with the outbreak of the First Mwoah War
+in 2197T. The Viceroy found herself with a desperate shortage of smallarms
+and considerable stocks of the GIR(m)-52 on hand and it's production tooling
+still in place. In 2199T the Magellanic Empire rationalised it's small arms
+designation system and as the oldest design the GIR(m)-52 was designated the
+r1. The r1 remained in production throughout the First Mwoah War, issued to
+many allied forces recruited from beyond the Diska Rift. With the end of the
+war, the r1 was again dropped from Magellanic service, but it remains popular
+to this day with civilains and lower tech forces.
+
+The r1 is a conventionally stocked rifle firing 5.5mm cased ammunition from
+a 60 round detachable magazine. It is capable of firing either semiautomatic,
+5 round burst or full cyclic (600rpm). The r1 can accept most standard
+enchanced sighting devices and under barrel fittings. A semiautomatic only
+version (the GIR-52) is produced by a variety of manufacturers for the
+civilian market.
+
+Weapon: r1 combat rifle
+Action: Delayed blowback - singleshot, burst (5), cyclic (600)
+Ignition: Percussion
+Tech Level: 8
+Calibre: 5.5mm TOB(m) cased
+Penetration: 4
+Range: short
+Malfunction: reliable
+Shots: 60
+Mass: 2.4kg
+Reloads: 0.5kg
+Length: 78.3cm
+Cost: Cr 350 (GIR-52: Cr 235)
+Incidentals: 20 rounds ball: Cr 3 (0.14Kg)
+             empty 60 round magazine: Cr 25 (0.08Kg)

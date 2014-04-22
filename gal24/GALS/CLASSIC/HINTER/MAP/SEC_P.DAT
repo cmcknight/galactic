@@ -1,0 +1,35 @@
+@SUB-SECTOR: sec_P   SECTOR: hinter
+#
+# Trade routes within the subsector
+$3136 0136 1 0
+$3136 2834 0 0
+$2834 2436 -1 0
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Mamgarimu     2533 C68479B-4    D3 Ri Ag           404 Na
+Derivann      2534 B85A210-9    Ni Wa              203 Na
+Beenateotyl   2536 E772132-5    Ni                 703 Na
+Huraal        2539 E698143-6    Ni                 111 Na
+Wygren        2540 B884350-9    Ni                 524 Na
+Shilling      2634 C789774-4    Ri                 903 Na
+Glodon        2635 D400501-4    Ni Va              600 Na
+Caramond      2731 A534454-B    Ni                 502 Na
+Giliim        2736 C7A3435-9    Ni                 803 Na
+Varin-yeel    2738 B353630-A    Ni Po              714 Na
+Carnir        2739 A11045A-D    Ni                 714 Na
+Opayix        2831 B422513-8    Ni Po           A  323 Na
+Cyveel        2832 BA5A203-B    Ni Wa              313 Na
+Entyrbal      2833 A579410-A    C1 Ni              712 Na
+Syth          2834 C8C8853-6                       110 Na
+Isannix       2840 C110546-8    Ni                 524 Na
+Sysix         2935 B623300-B    Ni Po              624 Lp
+Horizon       2936 E20099B-9    Hi In Va Na        204 Lp
+Osyrmir       3031 C6B1677-7    Ni                 103 Na
+Brovarr       3033 C100876-7    Va Na              824 Na
+Geval         3035 B426777-C                       112 Lp
+Hervash       3131 C88A79B-5    Ri Wa              702 Na
+Sanzig        3135 C300867-A    Va Na              103 Lp
+Nyralys       3136 B4448BC-9                       704 Lp
+Lendisa       3233 C785556-A    Ni Ag              104 Lp

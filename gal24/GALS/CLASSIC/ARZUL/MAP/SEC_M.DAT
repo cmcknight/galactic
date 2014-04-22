@@ -1,0 +1,44 @@
+@SUB-SECTOR: Mycocona SECTOR: Arzul
+#
+$0136 3138 -1 0 11
+$0136 0434 0 0 11
+$0434 0735 0 0 11
+$0735 0738 0 0 11
+$0434 0331 0 0 11
+$0735 0935 1 0 11
+$0738 0939 1 0 11
+$0140 0201 0 1 11
+$0140 0136 0 0 11
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Sjin          0135 E423100-9    Lo                 205 Hl    
+Uerzksasnoeth 0136 A749A96-C    Hi                 200 Hl    
+Runggvoeknue  0140 B682897-7                       905 Hl    
+Aengaze       0231 D684667-4    Ag                 801 Hl    
+Kellgaekaedae 0232 X300000-0    Ba Lo Va           022 Hl    
+Ungar         0234 A443630-C                       405 Hl    
+Si            0240 C423300-9  S Lo                 902 Hl    
+Odzoez        0331 B694334-8  N Lo                 705 Hl    
+Shila         0334 A361844-8  N                    112 Hl    
+Lluezdhouz    0338 C64A68A-7    Ag Wa              204 Hl    
+Ulluell       0431 C300377-9    Lo Va              722 Hl    
+Gil           0434 A586999-B  N Hi                 820 Hl    
+Adar          0435 B789998-C  N Hi                 800 Hl    
+Adkamiiga     0533 X538000-0    Ba Lo              004 Hl    
+Kehemirata    0535 A401424-A    Ic Va              715 Hl    
+Staree        0633 A545666-7    Ag                 604 Hl    
+Tuil          0636 X460000-0    Ba De Lo           013 Hl    
+Aerzondag     0637 B7389DF-9    Hi                 112 Hl    
+Aa            0638 B958000-6    Ba Lo Ni           403 Hl
+Aache         0639 B6799AB-D  N Hi In              314 Hl
+Paukjatnik    0736 C89A7CF-8    Ag Wa              905 Hl    
+Rraeng        0735 A538999-C    Hi                 724 Hl    
+Oruengzila    0738 A765ABB-D  N Hi                 912 Hl    
+Reng          0832 A748737-A    Ag                 804 Hl    
+Fathall       0834 A866ADE-9  N Hi                 812 Hl    
+Kid           0835 D799567-6    Ag                 921 Hl    
+Talkemiejat   0833 A547668-A    Ag                 602 Hl    
+Iriir         0837 X53A000-0    Ba Lo Wa           012 Hl    
+Aegnueg       0839 A452520-9                       202 Hl     
+

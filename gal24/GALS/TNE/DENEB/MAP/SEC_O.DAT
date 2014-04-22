@@ -1,0 +1,13 @@
+@SUB-SECTOR: sec_O   SECTOR: deneb
+#
+# Trade routes within the subsector
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Rif           1732 C687312-8    Lo Ni              502 Re
+Imazura       1733 C555755-A  S Ag                 503 Re
+Takahira      1831 B9C5323-A  A Fl Lo Ni           222 Re
+Kamlar        1832 B387446-C  N Lo Ni              910 Re
+Javan         2131 C77A253-A  S Lo Ni Wa           310 RF
+Catacomb      2234 A8A7657-E  A Fl Ni              101 RF

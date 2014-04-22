@@ -1,0 +1,44 @@
+@SUB-SECTOR: sec_B   SECTOR: corridor
+#
+# Trade routes within the subsector
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Rexus V       0901 B441400-8    Ni Po              822 Vh
+Yopogirp      0906 A548320-D    Lo Ni              701 Vh
+Drayne        0910 B6749C9-D  H Hi In Rs           801 Vh
+Tylupa        1003 B000205-B    Lo Ni As           113 Vh
+Mount         1005 A675887-8  C                    301 Va
+Wieresh       1006 B559430-8    Ni                 803 Vg
+Byla Hoso     1010 D554534-8    Ag Ni              124 Vh
+Senizuu       1103 B491564-7    Ni                 820 Vg
+Goseppi       1104 E457543-3    Ag Ni              403 Vg
+Formation     1107 B511358-C  H Lo Ni Ic           704 Vg
+Shushaka      1109 A772988-F    Hi In              815 Vg
+New Vland     1201 A79785A-B    C2                 501 Vg
+Voorghish     1203 D456459-4    Ni                 203 Vg
+Tetraggoe     1204 B692300-8  H Lo Ni              203 Vg
+Durima        1205 B420ADE-F  G Hi Na In Po De     234 Vg
+Courage       1207 E40088C-5    Na Va              401 Vg
+Kaasu         1209 AA7A9CD-G    Hi In Wa Cx        922 Vg
+Latu          1210 B87A46B-D    Ni Wa              402 Vg
+Nackeremma    1301 D523110-6    Lo Ni Po           801 Vg
+Iceball       1304 C635400-6    Ni                 324 Vg
+Sebastion     1307 C568447-6  H Ni                 203 Vg
+Naasakiira    1309 C556687-9  H Ag Ni              623 Vg
+Oegongrek     1401 B000200-A    Lo Ni As           720 Vg
+Zontra'Lee    1402 E788885-6    Ri                 903 Vg
+Vwogeck       1404 E473320-6    C3 Lo Ni           324 Vg
+Sluru         1405 C76A752-9    Ri Wa              323 Vg
+Xinox         1408 D87A653-4    Ni Wa              324 Vg
+Draack Elka   1409 C372586-A    Ni                 922 Vg
+Gwam          1501 A343578-D    Ni Po              110 Vg
+Buianah       1504 A797534-A    C6 Ag Ni           123 Vg
+Errd Lomon    1506 C410462-9    Ni                 703 Vg
+Koorfagh      1602 E67377B-5                       323 Vg
+Gagh Veth     1603 X556423-1    Ni              R  334 Vg
+Silibast Ti   1605 E350553-9    Ni Po De           413 Vg
+Khukish       1606 A77A989-F    Hi In Wa Cp        823 Na
+Shishkala     1607 B686654-C    Ag Ni Ri           613 Na
+Veu Belle     1609 D22158A-8    Ni Po              112 Vg

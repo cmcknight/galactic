@@ -1,0 +1,48 @@
+@SUB-SECTOR: Shallows   SECTOR: Dagudashaag
+#
+# Trade routes within the subsector
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Upag          0111 A210A76-F    Hi Na In           914 St
+Teoech        0113 C977559-7  S Ag Ni              102 St 
+Chathi        0115 E8C1215-8    Lo Ni Fl           710 St 
+Gwi           0117 D463430-7  S Ni                 612 St 
+Iliika        0211 A236665-D  N Ni                 824 St 
+Khikaeg       0212 D565643-7  S Ag Ni Ri           504 St 
+Aaki          0213 B234553-B    Ni                 123 St 
+Cablu         0214 D348543-9    Ag Ni              100 St 
+Oewni         0216 B464466-9  S Ni                 422 St 
+Fau           0217 B423766-A    Na Po              300 St 
+Unishpiir     0311 B86A961-C    Hi Wa              704 St 
+Sagikii       0319 D10088A-B  S Na Va              702 Im 
+Adaskaglu     0320 A5448AE-C  N                    923 Im 
+Amigu         0412 C336530-D    Ni                 814 Im 
+Oeth          0419 B110320-B  S Lo Ni              622 Im 
+Cleci         0420 C361554-9  S Ni                 214 Im 
+Gishi         0513 C455677-9    Ag Ni              500 Im
+Tarterus      0514 B000431-E  N Ni As              101 Im 
+Irphothe      0515 D67989A-4  S                    400 Im 
+Station One   0517 C668843-8  S Ri                 702 Im
+Dakushan      0518 E2009A8-C    Hi Na In Va        900 Im 
+Osha          0519 A625441-D  N Ni                 204 Im 
+Sloethu       0520 C69A552-D  S Ni Wa              713 Im 
+Niirkhi       0613 B657794-B  W Ag                 205 Im 
+Gladsheim     0614 B9D5102-E  N Lo Ni Fl           100 Im 
+Gaae          0615 C340538-7  S Ni Po De           100 Im 
+Kaelm'katwi   0619 A453500-D  N Ni Po              125 Im 
+Glachith      0620 C6A4855-9    Fl                 503 Im 
+Kima          0711 C522873-A  S Na Po              903 Im 
+Diishalum     0714 B120988-F  S Hi Na Po De Cp     913 Im 
+Hourara       0716 A578335-C  N Lo Ni              703 Im 
+Ekli          0718 C2437A9-9  S Po                 820 Im 
+Ziamr         0719 C210888-B    Na                 900 Im 
+Kashki        0811 C541336-A    Lo Ni Po           314 Im 
+Lau           0812 C42179A-A  S Na Po              424 Im 
+Diraan        0815 C676114-A    Lo Ni              100 Im 
+Ufesk         0816 D9AA301-C    Lo Ni Fl Wa        501 Im 
+Miku          0818 C666543-7    Ag Ni              404 Im 
+Ardchi        0819 B100541-B  N Ni Va              304 Im 
+Drya          0820 C99A522-9    Ni Wa              202 Im 
+

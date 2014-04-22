@@ -1,0 +1,21 @@
+@dir=gals\tne\provence\map\stars
+@Light Yellow
+Provence Sector / Star Data
+
+@Light Cyan
+       A: Llaezgaen                @stars_a.dat
+       B: Vorvoun                  @stars_b.dat
+       C: Grnouf                   @stars_c.dat
+       D: Tsaegag                  @stars_d.dat
+       E: Anghikh                  @stars_e.dat
+       F: Kaegrogz                 @stars_f.dat
+       G: Gveghz                   @stars_g.dat
+       H: Thon                     @stars_h.dat
+       I: Dzarrvaer                @stars_i.dat
+       J: Aenkuk                   @stars_j.dat
+       K: Karrdzae                 @stars_k.dat
+       L: Kaerfoz                  @stars_l.dat
+       M: Lighoz                   @stars_m.dat
+       N: Voudzeur                 @stars_n.dat
+       O: Uekhourg                 @stars_o.dat
+       P: Daekvagul                @stars_p.dat

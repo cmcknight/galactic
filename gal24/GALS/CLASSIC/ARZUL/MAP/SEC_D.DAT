@@ -1,0 +1,41 @@
+@SUB-SECTOR: Khefs Dzo SECTOR: Arzul
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Nuri          2501 D371200-7  S Lo Ni              614 Na    
+Dekeli        2503 C775553-9    Ag Ni              413 Na
+Resopem       2504 B884ABC-B    Hi                 603 Na    
+Maa           2508 C428538-9    Ni                 104 Na
+Ullizo        2605 AA77A9B-A    Hi In              210 Na
+Farraghufueka 2606 B473755-7  S                    702 Na    
+Uekhoeng      2607 D510539-A    Ni                 204 Na
+Sefinar       2610 D234443-8    Ni                 402 Na
+Enoggvokhs    2701 D344542-6  S Ag Ni              601 Na
+Benadd        2702 A441631-8  2 Ni Po              414 Na
+Gvueruk       2703 E352438-9    Ni Po              302 Na
+Khefs Dzo     2704 A569A89-8  N Hi                 805 Na
+Daegthor      2705 X300000-0    Ba Lo Ni Va        004 Na
+Naddes        2709 C554441-8    Ni                 104 Na
+Lupushshir    2805 B797AEF-8  S Hi In              400 Na
+Vy            2809 B545625-9  N Ag Ni              302 Na
+Udenga        2902 X120000-0    Ba De Lo Ni Po     004 Na
+Regu          2907 B000686-B    As Na Ni           302 Na
+Gagur         2908 D647877-8                       512 Na
+Raroota       2910 C610514-A    Ni                 302 Na
+Aerrggeng     3002 A526665-B  2 Ni                 103 Na
+Ibugug        3003 E554436-3    Ni                 913 Na
+Urnaakashig   3005 E6A2321-B    Fl Lo Ni           904 Na
+Oneluevueknou 3007 A656ADG-7  N Hi                 902 Na    
+Terkpedherhi  3009 B679844-6                       612 Na    
+Er            3101 E447436-8    Ni                 300 Na
+Gasuu         3103 B343640-7    Ni Po              603 Na
+Mukekis       3105 X100000-0    Ba Lo Ni Va        014 Na
+Mopetu        3107 B79588B-C                       404 Na
+Kikashinnipi  3108 X500000-0    Ba Lo Ni Va        000 Na
+Okghuthtsuegh 3202 C435451-8  S Ni                 803 Na
+Pualemaski    3203 X110000-0    Ba Lo Ni           014 Na
+Egt           3205 A7969BA-B  N Hi In              322 Na
+Khaerong      3208 E498232-8    Lo Ni              804 Na   
+Leeteng       3209 C433424-B    Ni Po              602 Na
+Bat           3210 D130214-A    De Lo Ni Po        805 Na

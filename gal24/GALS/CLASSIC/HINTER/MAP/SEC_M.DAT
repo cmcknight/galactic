@@ -1,0 +1,32 @@
+@SUB-SECTOR: sec_M   SECTOR: hinter
+#
+# Trade routes within the subsector
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Krevor        0131 B200686-7    Ni Va Na           115 Na
+Byooki        0134 D11079A-6    Na                 903 Na
+Eki Chi       0137 D200640-4    Ni Va Na           400 Na
+Murlum        0232 C8A5420-8    Ni              A  502 So
+Goromas       0233 C728787-8                       620 Na
+Ame           0238 C876221-6    Ni                 513 Na
+Famerra       0239 E110499-5    Ni                 104 Na
+Kotori        0334 C747654-4    Ni Ag              904 Na
+Tonde Monai   0337 B200200-E  M Ni Va              215 Na
+Haiiro        0438 E799000-8    Ni Ba              804 Na
+York          0439 B100303-9  M Ni Va              104 Na
+Franzweld     0440 B65747A-A  M Ni                 903 Na
+Haru          0533 C667510-9    Ni Ag              104 Na
+Schmutz       0634 E100202-7    Ni Va              613 Na
+Mizu          0640 B87A034-7    Ni Wa              600 Na
+Saito         0732 C748AC8-8    In Hi              204 Na
+Tyotto        0737 E8C4100-4    Ni                 601 Na
+Hurn          0738 A73659D-D  F Ni                 800 Na
+Gustavus      0739 C000525-B    Ni As           A  504 So
+Strnad        0740 C200664-7    Ni Va Na           320 Na
+Vanguardia    0834 B99A9A8-9    Hi Wa              804 Na
+Prospect      0835 C564667-5    Ni Ri Ag        A  924 Na
+Selding       0836 A661444-9  F Ni                 812 Na
+Edwards' Meet 0839 C64A667-9    Ni Wa              722 Na
+Cleavon       0840 E434441-8    Ni                 103 Na

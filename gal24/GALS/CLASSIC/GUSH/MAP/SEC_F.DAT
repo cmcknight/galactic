@@ -1,0 +1,34 @@
+@SUB-SECTOR: sec_F   SECTOR: gush
+#
+# Trade routes within the subsector
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Gakhamesh     0912 C683623-A    Ni                 100 Im
+Chulesh       0914 C575666-6    Ag Ni           A  213 Im
+Drayrk        0920 B150578-C    Ni Po De           403 Im
+Munnarn       1013 A410553-F  N Ni                 802 Im
+Usdiki        1015 A6649EF-F  N Hi Cs              703 Im
+Toraago       1018 D244412-A  S Ni                 700 Im
+Lishuggi      1019 A565640-A  N Ag Ni Ri           814 Im
+Shir          1020 A100656-F    Na Ni Va           304 Im
+Heffone       1118 B333578-C    D6 Ni Po           700 Im
+Aintrin       1119 B637653-D    Ni                 914 Im
+Vlu'da'rin    1120 E504567-8    Ni Va Ic           604 Im
+Ushamdidishar 1213 B8D06A9-C  N Ni De              625 Im
+Chansingol    1319 B570697-9  N Ni De              312 Im
+Platon        1412 A83A468-G  W Ni Wa              820 Im
+Lanaas        1414 B9A9453-F  A Ni Fl              904 Im
+Guzrin        1417 C836275-7    Lo Ni              925 Im
+Gagushilaag   1512 B471534-C    Ni                 302 Im
+Divkar        1518 D382566-6  S Ni                 114 Im
+Higli         1519 C5618C7-8                       200 Im
+Mentule       1520 A651898-D    Po                 103 Im
+Booce         1612 D899476-7  S Ni                 500 Im
+Lendaarii     1613 E7A8475-5    Ni Fl              702 Im
+Abir          1615 B445668-8  S Ag Ni              503 Im
+Imaparlu      1616 B5569A7-A  N Hi                 304 Im
+Gabradio      1618 A610756-D    Na                 135 Im
+Engallent     1619 C150853-D    Po De              121 Im
+Kerek         1620 B000651-C    Na Ni As           803 Im

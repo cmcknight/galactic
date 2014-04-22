@@ -1,0 +1,68 @@
+@SUB-SECTOR: sec_O   SECTOR: oldexpan
+#
+# Trade routes within the subsector
+$1835 1636 -1 0
+$2031 2030 0 -1
+$2031 2132 0 0
+$2132 2135 0 0
+$2135 2234 0 0
+$2234 2134 0 0
+$2134 1934 0 0
+$2234 2333 0 0
+$2333 2332 0 0
+$2333 2432 0 0
+$2432 2431 0 0
+$2431 2332 0 0
+$1733 1734 0 0
+$1734 1833 0 0
+$1833 1838 0 0
+$1834 1934 0 0
+$1735 2237 0 0
+$2237 2236 0 0
+$2236 1838 0 0
+$1936 1836 0 0
+$2037 1937 0 0
+$1937 1837 0 0
+$2240 2440 0 0
+$2440 2439 0 0
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+So Skire      1732 E657843-1                       104 Im
+Keghe         1733 D6B6258-8  S Fl Lo Ni           202 Im
+Ehart         1734 C348102-9    Lo Ni              112 Im
+Lamneth       1735 E2437A7-4    Po                 614 Im
+Poyzen        1736 C797202-5  S Lo Ni              203 Im
+Targa         1833 C577556-9    Ag Ni              610 Im
+Peart         1834 A565779-D    Ag Ri              812 Im
+Cobham        1835 A79A9D9-E  S Hi In Wa           802 Im
+Grenbard      1836 E322354-A    Lo Ni Po           911 Im
+Cleland       1837 A7C8765-A  S Fl                 211 Im
+Janazzo       1838 A354633-A  S Ag Ni              523 Im
+Wrangell      1839 X666302-4    Lo Ni              303 Im
+Dobbet        1840 B374999-8  S Hi In              520 Im
+Barlow        1934 C687577-8  S Ag Ni              813 Im
+Bonham        1936 E8968A9-3                       800 Im
+Schotz        1937 B546877-5  S                    212 Im
+Burbelson     1938 D648566-3    Ag Ni              613 Im
+Pohl          2031 C776699-3    Ag Ni              902 Im
+Dunbar        2036 C453579-6  S Ni Po              920 Im
+Mitmos        2037 B434576-A  S Ni                 623 Im
+Pratt         2039 E877622-4    Ag Ni              100 Im
+Atkins        2132 BAAA964-D    Fl Hi Wa           914 Im
+Tama          2134 A867502-9    Ag Ni              921 Im
+Khatru        2135 B548325-8    Lo Ni              414 Im
+Canzar        2137 C445555-7    Ag Ni              715 Im
+Palin         2234 B330489-A    De Ni Po           214 Im
+Dimeola       2236 B488221-7  N Lo Ni              714 Im
+Hell          2237 B260332-7  S De Lo Ni           211 Im
+Patuxant      2240 A597745-9    Ag                 514 So
+Valdost       2332 C693510-6    Ni                 603 Im
+Clarke        2333 C566788-7  S Ag Ri              923 Im
+Bordelon      2340 E341669-2    Ni Po              200 So
+Salinos       2431 C97A867-8  S Wa                 405 Im
+Hjorts        2432 A553224-9  N Lo Ni Po           714 Im
+Wuss          2434 E787796-4    Ag Ri              523 Im
+Khan          2439 C634778-9                       203 So
+Digriz        2440 B689414-A    Ni                 604 So

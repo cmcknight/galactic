@@ -1,0 +1,41 @@
+@SUB-SECTOR: stars_G   SECTOR: vland
+#
+# Trade routes within the subsector
+#
+#--------1---------2---------3
+#PlanetName   Loc. Stars(s)
+#----------   ---- ---------
+Enaa          1716 M6 V
+Vland         1717 F8 V
+Kirma         1718 G6 V M5 V
+Sazisi        1719 M5 V M5 V
+Anaam         1811 G0 V
+Khusher       1813 G1 V A8 D
+Shinla        1816 M3 V F1 III
+Tauri         1817 K5 V
+Dusu          1819 F8 V
+Kha           1820 M9 II
+Giinam        1915 M0 V
+Kipii         1916 M7 V
+Kusheggi      1918 F9 V
+Khula         1919 M1 V
+Inkha         1920 M0 V M1 V
+Isbudin       2013 F0 V A7 D
+Zurrian       2016 M2 V M7 V
+Tahaver       2017 M9 V
+Lobode        2019 F6 V M9 V
+Shushguum     2020 G0 V
+Flire         2111 A0 V
+Ishala        2113 M6 V
+Zedu Gisla    2115 M9 V K8 V
+Uri           2117 F1 V
+Pyam          2120 M4 V
+Irila         2211 M7 V
+Ashbakha      2216 M4 V M7 V
+Dangasha      2314 M1 V
+Kagush        2316 K0 V M0 V
+Shudi         2319 G2 V G0 V
+Gidapisek     2320 K7 V
+Ansin         2412 F6 V
+Liisurkhish   2416 G8 V A8 D
+Nasha         2419 M0 V M9 V

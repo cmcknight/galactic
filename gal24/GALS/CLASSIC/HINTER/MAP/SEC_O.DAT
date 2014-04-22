@@ -1,0 +1,44 @@
+@SUB-SECTOR: sec_O   SECTOR: hinter
+#
+# Trade routes within the subsector
+$2436 2536 1 0
+$2436 2236 0 0
+$2236 2137 0 0
+$2138 1801 0 1
+$2138 2133 0 0
+$2133 2032 0 0
+$2032 1931 0 0
+$1931 2029 0 -1
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Sharina       1733 C725455-9    Ni                 204 Na
+Forban        1734 C544663-7    Ni Ag              403 Na
+Ki Gaven      1740 E442769-2  M Po                 105 Na
+Lerein        1831 C76699D-5    Hi              A  710 Na
+Davin         1833 E436310-6    Ni                 801 Na
+Spire         1836 A6A0842-9    De                 103 Na
+Long Shadow   1838 E895557-5    Ni Ag              804 Na
+Baliell       1931 B226425-A  M Ni                 214 Na
+Hardgas       1937 B978510-9  M Ni Ag              404 Na
+Herod         1940 B100335-A  M Ni Va           A  204 Na
+Dahlia        2032 B754A8A-B    D5 Hi              603 Na
+Stoner        2033 C100577-7    Ni Va           A  111 Na
+Lorrain       2034 D553156-6    Ni Po              914 Na
+Grange        2035 C100310-A    Ni Va              422 Na
+Tibbets       2039 B310567-A    Ni                 504 Na
+Golgotha      2131 X8C3536-2    Ni              R  504 Na
+Yerve         2132 B410847-A  F Na                 501 Na
+Second Wash   2133 B58A310-9    Ni Wa              504 Na
+Hike          2135 C547879-3                       312 Na
+Tempri        2137 A758878-A  N                    905 Cs
+Alpert        2138 A345458-B  F Ni                 200 Na
+Gymex         2231 C110467-6    Ni                 804 Na
+Rumoskyl      2236 C100767-A    Va Na              504 Na
+Shi-shi       2240 E110420-6    Ni                 602 Na
+Mereasis      2332 B868653-8    Ni Ri Ag           701 Na
+Sanctus       2340 C11078A-8    Na                 303 Na
+Pipeline      2435 E574453-8    C4 Ni              203 Na
+Duster        2436 E331537-5    Ni Po              914 Na
+Lykoov        2438 B555555-B    Ni Ag              623 Na

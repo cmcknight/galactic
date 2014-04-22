@@ -1,0 +1,55 @@
+@SUB-SECTOR: Antares  SECTOR: Antares
+#
+# Trade routes within the subsector
+#
+$2030 1932 0 1 11
+$2030 2227 0 0 11
+$2227 2324 0 0 11
+$2324 2421 0 0 11
+$2421 2122 0 0 11
+$2122 1822 0 0 11
+$1822 1624 -1 0 11
+$2421 2220 0 -1 11
+$2427 2730 1 0 11
+$2427 2324 0 0 11
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Napawhi       1722 E110612-A    Na Ni              204 Im 
+Aad           1723 E698767-5    Ag                 614 Im 
+Ata           1726 C413879-6  S Na Ic              523 Im 
+Cir           1822 A679546-C  N Ni                 400 Im 
+Idshaman      1825 C887594-8    Ag Ni              903 La 
+Liki          1826 B501246-A    Lo Ni Va Ic        203 La 
+Bumash        1921 E110720-5    Na              A  724 Im 
+Ashaagukhu    1923 B755765-B  S Ag                 902 Im 
+Ottdim        1925 E311487-4    Ni Ic              304 La 
+Sweca         1926 E676769-4    Ag                 403 La 
+Zu            2021 B544556-C  D Ag Ni              512 Im
+Guusham       2022 B767221-7    Lo Ni              700 Im 
+Whohaha       2024 C765340-6    Lo Ni              700 La 
+Sushshar      2025 AA6A7AB-A    Wa                 411 La 
+Zwovla        2026 C635341-5    Lo Ni              513 La 
+Ararruedz     2030 B637115-B    Lo Ni              312 Im 
+Larlenid      2121 E234765-7                       803 Im 
+Ukuu          2122 A234410-C  N Ni                 900 Im 
+Helteken      2126 E300454-5    Ni Va              902 La 
+Gagdaga       2127 C879456-C    Ni                 803 Im 
+Birrefa       2128 E556512-4    Ag Ni              502 Im 
+Sathin        2130 E350346-6    Lo Ni Po De        100 Im 
+Leilpenwin    2223 B100672-D  A Na Ni Va           600 Im 
+Laqearhy      2224 C220456-B    Ni Po De           320 Im 
+Ohia          2227 B6538AF-7    Po                 713 La 
+Miirdu        2228 C432769-7  S Na Po              722 Im 
+Anuza         2229 E251AAD-C    Hi Po              613 Im 
+Gardanina     2324 B797210-C  A Lo Ni           A  600 Im 
+Alnimes       2326 C587632-6    Ag Ni              304 La 
+Emapoea       2328 C6837A9-5                       102 Im 
+Pijasysley    2330 E572577-8    Ni                 303 Im 
+Antares       2421 A762ADA-D  A Hi Cx              821 Im 
+Guugapirka    2422 X550544-0    De Ni Po        R  300 Im 
+Ansenz        2425 B547ABB-D    Hi In              403 La 
+Inirin        2426 D785222-4    Lo Ni              803 La 
+Vat           2427 C350533-9    Ni Po De           522 Im 
+Aruga         2528 A62A644-A  S Ni Wa              200 Im 
+

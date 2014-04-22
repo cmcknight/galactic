@@ -1,0 +1,9 @@
+@SUB-SECTOR: sec_L   SECTOR: provence
+#
+# Trade routes within the subsector
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Dhorue        2826 C334357-A    Ni Lo              201 Va
+Kaerfoz       3227 B78A220-B    Wa Ni Lo           823 Va

@@ -1,0 +1,39 @@
+@SUB-SECTOR: sec_C   SECTOR: corridor
+#
+# Trade routes within the subsector
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Tyee          1703 C336685-6    Ni                 413 Vg
+Merold        1704 B766684-6    Ag Ni Ri           524 Vg
+Lyforn        1803 B32357B-B    Ni Po              312 Vg
+Lemish        1808 A79568C-D  G Ag Ni Cp        A  101 Va
+Munhofen      1810 C443203-8    Lo Ni Po           123 Na
+Ighoth        1904 A333000-C    Lo Ni Po Ba     R  523 Vg
+Dazeys World  1905 C438220-C    Lo Ni              510 Vg
+Sutton        1906 B220575-C    Ni Po De           615 Vg
+Weyland       1908 B335267-9  G Lo Ni              302 Na
+Croftstein    2003 C100403-9    Ni Va              415 Na
+Egami Nivek   2004 D654479-7    Ni                 122 Va
+Tamilaa       2006 B788747-A  G Ag Ri              801 Na
+Specti        2009 E7A3100-8    Lo Ni Fl           722 Va
+Dianah        2010 C364500-A    Ag Ni              621 Va
+Vicennis      2101 B000889-C  C Na As              414 Va
+Phomos        2102 C662574-4    Ni                 614 Va
+Angi          2106 D241632-8  H Ni Po              701 Vh
+Ginning       2108 A6315AF-B  G Ni Po              323 Ca
+Amwaz         2109 B592333-C    Lo Ni              510 Ca
+Douthit       2201 B540552-7    Ni Po De           323 Va
+Braden IV     2202 A877000-D    Lo Ni Ba           601 Na
+Brariun       2205 B629034-9    Lo Ni              801 Vh
+Aurolee       2206 B000769-D  G Na As              624 Vh
+Luuga         2208 B410767-D  H Na                 322 Ca
+Voegrr        2209 B478861-C  G                    903 Ca
+Alfive        2303 B487201-D    Lo Ni              401 Vh
+Double Sun    2304 X000403-4    Ni As              911 Vh
+Pruughoe      2306 C9C769E-A    Ni Fl              301 Vh
+Aking         2307 C200564-A    Ni Va              301 Vh
+Myathena      2403 A666268-B    Lo Ni              413 Vh
+Gravista      2405 C553879-4  H Po                 921 Vh
+Treedisk      2409 D120332-B  H Lo Ni Po De        601 Ca

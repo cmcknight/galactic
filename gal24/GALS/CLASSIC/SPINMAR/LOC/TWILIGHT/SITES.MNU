@@ -1,0 +1,24 @@
+@dir=gals\classic\spinmar\loc\twilight\
+@Light Yellow
+
+      Interesting Sites
+
+@Light Cyan
+
+      World Map                         @world.exe
+
+      Site A: Zuchai Crystal Deposit    @sitea.txt
+    
+      Site B: False Neutrino Burst      @siteb.txt
+   
+      Site C: Psion Prison              @sitec.txt
+         Prison Map                     @base.asc
+         Random Encounters              @rand.txt
+         Room A: Entryway               @rooma.txt
+         Room B: Cells                  @roomb.txt
+         Room C: Recreation Area        @roomc.txt
+         Room D: Store Room             @roomd.txt
+         Room E: Maintenance/Hospital   @roome.txt
+         Room F: Control Room           @roomf.txt
+         Room G: Central Control        @roomg.txt
+

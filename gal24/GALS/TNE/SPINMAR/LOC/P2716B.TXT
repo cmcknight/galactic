@@ -1,0 +1,19 @@
+
+     Rhylanor System Details - circa 1202
+
+     Orbit      Name            UPP             Remarks
+     -------------------------------------------------------
+     Primary    Icarus          M2 V
+     0          Rhylanor        A434A34-F  A    Hi Cp
+     1          Lucid           YS00000-0       Va
+     2          Duria Belt      G000400-F       Va Nv Sc
+     3          Schriekrieg     F730726-F       De Re Nv Sc
+     4          Ghalash         H100267-E       Va Sc
+     5          Radium          F500217-E       Va Sc
+        4       Telvoc          Y100000-0       Va
+     6          Roderick        Y202000-0       Va Ic
+        2       Ring System     YR00000-0       Va
+        40      Tulumne         Y100000-0       Va
+        50      Ebelhorn        Y100000-0       Va
+     7          Idulore         F100365-F       Va Nv Sc
+

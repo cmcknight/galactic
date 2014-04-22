@@ -1,0 +1,33 @@
+Corridor Sector
+
+A: Khouth                    sec_a.dat           f
+B: Khukish                   sec_b.dat           f
+C: Lemish                    sec_c.dat           f
+D: The Narrows               sec_d.dat           f
+E: Ian                       sec_e.dat           f
+F: Strand                    sec_f.dat           f
+G: Naadi                     sec_g.dat           f
+H: Uantil                    sec_h.dat           f
+I: Shush                     sec_i.dat           f
+J: The Empty Void            sec_j.dat           f
+K: Atu'l                     sec_k.dat           f
+L: Kivu                      sec_l.dat           f
+M: Two Worlds                sec_m.dat           f
+N: Ashishinipar              sec_n.dat           f
+O: Sinta                     sec_o.dat           f
+P: Sashrakusha               sec_p.dat           f
+
+Bases:
+G = Naval Base
+N = Naval Base
+S = Scout Base
+  = None
+
+Allegiance:
+01 Br = Brinn
+02 Wi = Wilds
+07 Na = Non-aligned
+04 Cs = Client State
+08    = Unknown
+08 -- = None
+

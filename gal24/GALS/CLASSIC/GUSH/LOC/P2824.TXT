@@ -1,0 +1,21 @@
+System: Anech Issan
+Subsector: Shire
+Sector: Gushemege Sector
+Coordinates: 2824 (L0404)
+UWP: C264684-6
+
+Starport: Routine
+Size: Small (2400-4000 km)
+Atmosphere: Standard
+Hydrographics: 40% water
+Population: 3 million
+Govt: Civil Service Bureaucracy
+Law Level: Moderate
+Technology: Pre-Stellar
+
+Bases: Scout Base
+Trade Codes: Ag Ni Ri        
+Travel Zone: Green
+Planetoid Belts: 0
+Gas Giants: 2
+Allegiance: Imperial

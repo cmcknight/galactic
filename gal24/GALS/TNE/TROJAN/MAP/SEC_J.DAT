@@ -1,0 +1,35 @@
+@SUB-SECTOR: sec_J   SECTOR: trojan
+#
+# Trade routes within the subsector
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Alr           0929 A7795K8-B    Ni Tp              102 As
+Ehrafou       0930 A0007KA-F  R Na As              904 As
+Ftulrois      1022 B4686LA-7    Ag Ni Ri           200 A4
+Oatre         1023 B5323N6-C    Lo Ni Po           312 As
+Hea'a         1025 E8402LA-5    Lo Ni Po De        603 A7
+Elahiy        1026 B5001G2-A  R Lo Ni Va           923 A7
+Syoakh        1027 A6969H4-C  U Hi In Tp        B  700 As
+Htourlao      1028 B3119L8-E  T Na Hi In Ic        512 A9
+Keawoaw       1030 B4304J3-9    Lo Ni Po De        413 As
+Asyuh         1121 B8C32N5-6  R Fl Lo Ni           912 As
+Yero'ilra     1124 D5008N7-C    Na Va              103 As
+Oihu          1126 B3004M4-9  R Lo Ni Va           702 As
+Elkhaaw       1128 C8897NC-9    Ri Tp              903 As
+Eihloa        1221 A68A7L6-E  T Ri Wa              703 A0
+Akhhtaol      1222 B6688H4-7  R Ri Tp           B  322 As
+Hteakya       1223 C2234J6-E    Lo Ni Po           413 As
+Khau          1226 C6875N8-C    Ag Ni Tp           222 As
+Erasaso       1230 B68A1G6-C  T Lo Ni Wa           113 A4
+Hrahralu      1322 A4206LC-D  T Na Ni Po De        800 A9
+Hliyh         1323 B200AK7-E  R Na Hi In Va        102 As
+Eilaeah       1324 B8635L7-C    Ni Tp St           414 A9
+Yestahwye     1426 BAA06M6-C    Ni De              602 As
+Flyeakh       1429 B4138MA-D  R Na Ic              604 As
+Tryaoke       1524 D5569H8-5    Hi              B  801 As
+A'eouya       1530 B950362-D    LoNiPoDe O:1429 R  912 As
+Akhwohkyal    1621 DA956J8-6    Ag Ni An           113 As
+Ftiys         1626 C76A3K5-8  R Lo Ni Wa           714 As
+Eauhtl        1630 B5404H9-E  R Lo Ni Po De     B  432 As

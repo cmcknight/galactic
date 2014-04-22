@@ -1,0 +1,28 @@
+@dir=gals\gmc\Narrows\map
+@Light Yellow
+
+Narrows / Data Files
+
+@Light Cyan
+      Sector Data                    @..\Narrows.dat
+      Credits                        @..\credits.txt
+
+@Light Green
+      Subsector Data
+@Light Cyan
+       A: Desolation                 @A.dat
+       B: Great Ocean                @B.dat
+       C: Multon                     @C.dat
+       D: Wallace                    @D.dat
+       E: Remagen                    @E.dat
+       F: Croki                      @F.dat
+       G: St'ago                     @G.dat
+       H: Ekakhir                    @H.dat
+       I: Ultia                      @I.dat
+       J: Dela                       @J.dat
+       K: Oamwis                     @K.dat
+       L: Drrell                     @L.dat
+       M: Iron Gate                  @M.dat
+       N: Pathway                    @N.dat
+       O: Civtra                     @O.dat
+       P: Isalon                     @P.dat

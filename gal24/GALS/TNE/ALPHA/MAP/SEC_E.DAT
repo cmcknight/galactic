@@ -1,0 +1,42 @@
+@SUB-SECTOR: Orichalc   SECTOR: alphaleo
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Douden        0113 X356301-6    Lo Ni              521 Wi
+Sharif        0115 X353100-4    Lo Ni Po           604 Wi
+Qaal          0119 X100000-0    Va Ba              001 Un
+Toonge        0216 X100000-0    Va Ba              004 Un
+Nefertiti     0217 D6738S7-6                       802 Wi
+Quetzlcoatl   0220 X110000-0    Ba                 000 Un
+Brigand       0311 E3446Q4-7    Ni Ag              404 Wi
+Fezzik        0318 E7927R7-7                    B  814 Wi
+Dorsey        0319 X959100-1    Lo Ni              522 Wi
+Cameo         0411 X7993Q4-4    Lo Ni              420 Wi
+Epona         0413 X8A7000-0    Fl Ba              024 Un
+Maponus       0414 X536000-0    Ba                 024 Un
+Bard          0416 X5924SA-2    Lo Ni              405 Wi
+Magus         0417 X7675RA-2    Ni Ag              223 Wi
+Gautama       0418 X775201-E    Lo Ni              303 Wi
+Gilad         0420 X3545N2-7    Ni Ag              322 Wi
+Zanzibar      0511 X6478R6-5    Ag              B  103 Wi
+Kinschenck    0514 X3433N2-7    Lo Ni Po           203 Wi
+Cthonia       0515 X4557RD-8    Ag              B  401 Wi
+New Bremen    0517 D3522O5-8    Lo Ni Po           203 Wi
+Mallory       0612 X200000-0    Va Ba              011 Un
+Orichalc      0613 C99A775-9    Wa                 914 Na     f
+Munnipoor     0614 X100000-0    Va Ba              002 Un
+Thoth         0615 X423000-0    Ba                 003 Un
+Angurvadel    0616 B544210-9    Lo Ni              410 Na
+Phoummathep   0711 B6786RB-9    Ag                 705 Wi     f
+Brighton      0712 X510000-0    Ba                 004 Un
+Ovid          0713 X100000-0    Va Ba              003 Un
+Nyiru         0714 X100000-0    Va Ba              004 Un
+Hauer         0715 X769102-3    Lo Ni              504 Wi
+Summit        0716 XA7A8VA-6    Wa              B  610 Wi
+Sybit         0717 X463400-1    Lo Ni              411 Wi
+Archernar     0719 X200000-0    Va Ba              014 Un
+Gustav        0720 D5876VF-5    Ni Ag           B  314 Wi
+Dynchnord     0811 X6B0000-0    Ba De              004 Un
+Katmandu      0816 XAD6000-0    Fl Ba              014 Un
+Reydwald      0818 X632000-0    Ba                 014 Wi

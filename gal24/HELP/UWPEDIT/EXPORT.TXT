@@ -1,0 +1,50 @@
+
+   Export Stat Explained
+   ---------------------
+   Roll                         Tech Etc
+        0 None                   0    -
+    01  1 Textiles               5    A
+    02  2 Wood Products          4    A
+    03  3 Livestock              1    A
+    04  4 Agro-Consumables       4    A
+    05  5 Pharmaceuticals        9    -
+    06  6 Petrochemicals         6    L
+    07  7 Biologicals            1    L
+    08  A Antimatter             H    -
+    09  B Bio-engineering        D    -
+    10  C Computers              D    -
+    11  D Industrial Crystals    5    -
+    12  E Electronics            C    -
+    13  F Farm Machinery         5    -
+    14  G Gemstones              1    -
+    15  H Heavy Metals           5    -
+    16  I Industrial Machinery   5    -
+    17  J Synthetic Fabric       8    -
+    18  K Synthetic Foods        8    -
+    19  L Industrial Chemicals   7    -
+    20  M Rare Minerals          5    -
+    21  N Weaponry/Armor         A    -
+    22  O Radioactives           6    -
+    23  P Polymers               9    -
+    24  Q Cybernetics            C    -
+    25  R Robots                 D    -
+    26  S Starships              B    -
+    27  T Tools                  5    -
+    28  U Underwater Equipment   7    -
+    29  V Vehicles/Gravitics     8    -
+    30  W Banking/Insurance      D    -
+    31  X Entertainment          D    -
+    32  Y Art/Publishing/News    D    -
+    33  Z Information/Research   D    -
+
+   Tech=X: X is the minimum tech level
+   Etc=A: World must be Agricultural
+   Etc=L: Life must = 7+
+
+   Note: The UWP Editor tries to make sure a given world has
+      the given prerequisites (tech, life, agro) to export a
+      given product. If you are changing these values, and
+      a condition arises where the prerequisites are not met,
+      the program will warn you by displaying the export-stat
+      in red.
+

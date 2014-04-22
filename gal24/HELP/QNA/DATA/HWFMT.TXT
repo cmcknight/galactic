@@ -1,0 +1,103 @@
+
+[Q] What format is Galactic saving those world maps in... I'd like
+to print them & transfer them to .gifs for my web pages.
+
+[A] Galactic uses a subsidiary program called Hexworld to do its world
+mapping. You can enter Hexworld by hitting F4 on the subsector map.
+Hexworld saves it's maps in a coded text format, and it puts these
+maps in the gals\<galaxy>\<sector>\hex directory, using p<hex#>.hex as
+the file name. Just to show an example of one of these files, here's
+gals\var1\gythios\hex\p2638.hex:
+
+Thorp
+GGGGGGGGGGGGPPGGGGGGGGGGGGGPGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGG
+PGGGGGGGGGGGGGPPGGGGGGGGGGGGGGGGGGGGGGGGPPGGGGGGGGGGGGGPGGGGGGDGGGDGGG
+GGGGGGDDDGDDGGGGGGGGDJJDDDGGPGGGGGDJJDGDDDPPGGGGGDJJDDJDGDJJJJJDDDGGPP
+GDJJJJJJJDGGGPGDDDJDDJBJDGGGGGGGDDGDJJDGGGGGGGGGDDDDDGGGPGGGGGGGGGGGGG
+PPGGGGGGGGGGGGGGGGGGGGGGGGPPGGGGGGGGGGGGGPGGGGGGGGGGGGGGGGGGGGGGGGGGGG
+GGGGGGGGGGGGGGPGGGGGGGGGGGGGPPGGGGGGGGGGGGGGGGGGGGGGGGPPGGGGGGGGGGGGGP
+GGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGPGGGGGGGGGGGGGPPGGGGGGGGGGGG
+Start at hex 149 
+150 Downport:thorp1.txt
+
+The first line, "Thorp", is the name of the world. The next seven lines
+each contain seventy characters, comprising a total of 490 characters
+when taken all together. These 490 characters represent the colors of
+each of the various hexes on the map (there being a total of 490 hexes
+on the map). The colors are coded as follows:
+
+    A  Black    E  Red       I  Dark Grey     M  Light Red
+    B  Blue     F  Magenta   J  Light Blue    N  Light Magenta
+    C  Green    G  Brown     K  Light Green   O  Light Yellow
+    D  Cyan     H  White     L  Light Cyan    P  Bright White
+
+The natural question, of course, is which hex is which? You can figure
+this out by going into Hexworld (by using F4 from the subsector map) and
+hitting the F1 key once you are there. There should be a little
+"Hex:000" on the left side of the map display. The "000" part will keep
+changing as you move around the map using the arrow keys. In this way,
+you can get a feel for the ordering of how the hexes are numbered.
+
+Just as a hint, it starts out as something like this:
+
+           29
+       15   30
+   01   16   31
+    02   17   32
+     03   18   33
+      04   19   34
+       05   20   35
+        06   21   36
+         07   22   37
+          08   23   38
+           09   24   39
+            10   25   40
+             11   26   etc...
+              12   27   etc...
+               13   28 
+                14
+
+The next line, "Start at hex 149", tells the program where to initially
+locate the circle that you use to move around the map.
+
+"150 Downport:thorp1.txt" simply writes "Downport" at hex #150 and
+attaches "thorp1.txt" to that location. You can put quite a few of these
+location markers on the map, and they don't all have to have files or
+menus attached.
+
+If you're looking for an easy way to turn these Hexworld maps into gifs,
+there are a couple different techniques you can try out. The most obvious
+one is to use the F10 key to save the map as a bitmap. From there, you
+should be able to transfer it into another format via any decent paint/
+photo software.
+
+Also, Henrique Vianna (snoopy@ufpel.tche.br) has written a program
+called "Capture It!", which is a screen-capturing utility that runs
+in the background under DOS as a terminate-and-stay-resident program.
+"Capture It!" is available at the SimTel archive:
+
+ ftp://ftp.uoknor.edu/pub/simtelnet/msdos/screen/capture22.zip
+
+Included in the package is a program that converts the screen
+captures to GIF format. From there, you can probably load your
+GIFs into some paint-program and do your printing that way.
+
+Another method is to use the grab.com and graphcnv.exe utilities,
+which are part of the WordPerfect 5.1 package (they probably exist
+in some other versions as well). If you have WP51, type "grab /h"
+and "graphcnv /h" for more information.
+
+Yet another method, which nearly everyone has at their disposal, is
+to access Galactic via a DOS-Window from Windows, then to take a
+screen capture via the Alt-PrintScreen function, and then to
+Edit/Paste the map into some other Windows program. If you have an image
+editing program such as Corel or Paint Show Pro, that would probably do
+the job and should even let you convert the map into one of the various
+standard image formats, but if you're just looking to print the map, you
+could probably just paste it into "Write", which is under the
+"Accessories" program group, and use the print function from there.
+
+If you come up with any other methods which you think are pretty
+straight-forward and fairly accessible for most people, please let
+me know about them.
+

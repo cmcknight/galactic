@@ -1,0 +1,50 @@
+AKI    B443987-9                   Rob Dean (robdean@access.digex.net)
+
+     Aki was settled from Deneb around 300, and converted to  Aborism, 
+a pervasive religion around 450.  Religion and government remain  sep-
+arate.   Offworlders  find the planet uncomfortable due to  the  large 
+population, mostly crowded into large cities, and because of the  hos-
+tile attitude of Aborites to non-members.  This changes rapidly if one 
+converts.  Most cities have large slum areas, and much of the  popula-
+tion  subsists on church or government doles.  Most imports, with  the 
+exception of foodstuffs, are subject to a 10% import duty.  All normal 
+starship  servicing  fees are doubled, due to a government  effort  to 
+collect Imperial currency to facilitate offworld activities.  
+
+     General Description of culture: Reactionary-Indifferent, Passive-
+Neutral,  Harmonious-Aloof,  Aborism:684419  Unusual  Custom:  Parents 
+arrange marriages for children.
+
+Miscellaneous Notes:
+
+     Wills--as  a result of a number of lawsuits early in the  history 
+of the planet in which beneficiaries of wills were declared ineligible 
+because they were not on the planet at the time the will was resolved, 
+current law allows two Imperial Standard years from the time of  death 
+to the reading of the will, and this time may not be shortened  unless 
+all  beneficiaries  are present.  In addition, "every effort  must  be 
+made" to ensure that all beneficiaries are notified.
+
+     Airline  Rates--Most  cities on Aki are served by  some  sort  of 
+scheduled  air travel. Rates run about Cr0.1/km, with a minimum  price 
+of Cr150. 
+
+     First Impressions--Housing density is fairly high in most cities, 
+cleanliness  is fairly low.  General clothing design is loose,  colors 
+favored  being black, gray, brown, and subdued reds and greens.   Cer-
+tain  groups  of rebellious youth dress in tight fitting  clothing  in 
+bright  colors  (blue, purple, red), and wear their hair  very  short.  
+Cuisine is generally vegetarian due to the scarcity of arable land and 
+ethical  inclination.   Urban windowbox miniature herb gardens  are  a 
+common  sight.   Privately  owned vehicles in  cities  are  small  and 
+scarce.  Large trucks are common for cross country travel.  Mass tran-
+sit systems are available in most cities, but are often run down.
+
+Airline/Airport Encounters:
+   1: Concerned Aborite, attempts to engage in religious discourse
+   2: Lost child
+   3: Business traveller
+   4: Vargr merchant
+   5: Army private in dress uniform, on leave, 1d6 in number
+   6: Pickpocket, roll again for appearance
+

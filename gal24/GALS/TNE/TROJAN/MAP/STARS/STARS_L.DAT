@@ -1,0 +1,22 @@
+@SUB-SECTOR: stars_L   SECTOR: trojan
+#
+# Trade routes within the subsector
+#
+#--------1---------2---------3
+#PlanetName   Loc. Stars(s)
+#----------   ---- ---------
+Bymi          2527 F3 V
+Arunisir      2621 F8 V M5 V
+Tek-World     2624 F8 V
+Ergo          2625 F8 V
+Tanith        2721 M3 V M8 V
+Akrid         2722 M7 III
+Inurin        2724 F7 V M9 V M4 V
+Falkon        2725 F6 V
+Kordan        2821 F4 V
+Eks           2823 K6 V
+Sperle        2824 F3 V
+Umemii        2921 F5 V
+Argona        2923 K2 V M3 V
+Villane       3029 F1 IV
+Browne        3030 G4 V M2 V

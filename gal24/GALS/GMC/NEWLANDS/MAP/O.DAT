@@ -1,0 +1,34 @@
+@SUB-SECTOR: Britannia SECTOR: Newlands
+#
+# Jump-routes
+#$1833 1633 -1 0
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Lothan        1732 D8B159C-8  S Fl Ni              402 Ma
+Cumbria       1739 X554873-2                       502 Ma
+Anglia        1832 D7B0446-7    De Ni              324 Ma
+Northumbria   1932 D330888-3    De Na Po           603 Ma
+Bedford       1937 D73A221-9    Lo Ni Wa           520 Ma
+Pembroke      1938 C99A8AB-3    Wa                 303 Ma
+Liex          1939 D579358-7    Lo Ni              524 Ma
+Nairn         2032 B696552-7  N Ag Ni              103 Ma
+Banif         2033 D423304-7    Lo Ni Po           504 Ma
+Kent          2035 B867772-5    Ag Ri              800 Ma
+Warwick       2037 D779ADH-7    Hi In           A  510 Ma
+Cornwall      2039 E898454-3    Ni                 213 Ma
+Dorset        2040 E575AEE-5    Hi In           A  414 Id
+Brecknock     2132 D0006B5-7    As Na Ni        A  710 Ma
+Angus         2137 C9D3310-9    Fl Lo Ni           403 Ma
+Wessex        2231 A445832-A  D                    424 Da
+Rutland       2232 C666562-4    Ag Ni              912 Da
+Tyrone        2236 C383750-5  S Ri                 605 Ma
+Devon         2238 EAB0454-7    De Ni              522 Ma
+Denbigh       2333 D886762-5    Ag Ri              624 Da
+Peebles       2336 C000431-7    As Ni              211 Ma
+Mayo          2433 E562100-4    Lo Ni              903 Ma
+Caithness     2436 X120000-0    Ba De Lo Ni Po     024 Ma
+Middlesex     2437 A245943-B  I Hi In              300 Ma
+Carlow        2438 D484388-5    Lo Ni              112 Ma
+Hsiea         2439 C677583-6    Ag Ni              203 Ma

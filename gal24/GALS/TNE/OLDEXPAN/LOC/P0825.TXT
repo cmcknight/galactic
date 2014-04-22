@@ -1,0 +1,157 @@
+Tiniyd X-54369C-6 
+
+Starport: None                    Size: Medium 8000km
+Atmosphere: Thin Tainted          Hydrographics:30%
+Population: 2 million             Government: Balkanized
+Law Level: Extreme                Tech Level:6
+
+Pre-collapse Information
+The world is 30% water. There are three seas, in the very north we
+have the Yurnhayfuyald sea, in the western hemisphere is the Nutay Ocean,
+while in the eastern hemisphere is the Naysfanny Sea. To the west of the 
+Nutay Ocean and on the equator is the city of Flaso which contained 
+500,000 people. Between the Nutay and Naysfanny water bodies and slightly 
+south of the equator is the remains of the old Imperial scout base
+To the north of the Naysfanny Sea at about latitude 45 is the old town 
+of Rafta contained 100,000 people. There were southern mining 
+camps to the far south of the old scout camp. These held about one million
+people. The star port is a few kilometers to the south of the city of Flaso.
+
+ 
+The atmospheric taint is a high oxygen content.
+
+The system is a binary system of M1V and M8V. There are 2 planetoid belts
+and 1 gas giant.
+
+Stellar mass= 0.489
+Orbital distance = 0.2 AU.
+Orbital period = 0.128 years = 45 days
+Rotational period = 27 hours
+Eccentricity   = 0.025
+Tilt = 45 degrees
+
+Gravity = 0.45 g
+Density = low
+Mass    = 0.13 earth mass
+
+The planet has 3 satellites								   
+-----------------------------------------
+Rings                     at  20,000 km
+small satellite ( 400 km) at 220,000 km
+large satellite (1600 km) at 200,000 km
+
+ 
+Society
+Tiniyd is a broken up into 10 different nations.  Seven of
+these are human nations, while the other three are home to the Droyne.
+The human nations are ruled by the descendants of a psionic resistance cell
+that took advantage of the Collapse to seize power.  Once they had
+achieved power, they began to fight among themselves.  
+
+	The human nations are quite xenophobic, both to human outworlders
+and the native droyne.  Many of them have enslaved droyne, which have
+reverted to chirper status.  Several times during the last seventy
+years one nation or the other has declared war on the Droyne, and 
+attempted to wipe them out.  The droyne have become distrustful of
+any humans and have retreated to their cities.  The humans are also
+quite technophobic and distrust all high tech devices.	 
+
+The Kingdom is the most technophobic of
+all the nations.  The state religion of the Kingdom preaches that the
+use of any electrical device damns the offending user.  The Kingdom
+tries to help the damned on their way to hell, by executing any 
+offending individuals.  This has caused the Kingdom to fall
+behind in technology and it has fallen to TL-4.  The Kingdom rewards
+those who find and turn in technological devices, often granting them
+land or chirper slaves.  
+
+    The Ilkahari is a group of fanatical guerillas fighters from the Kingdom
+of Light. They hate the Droyne and all other aliens with a passion.  Their 
+hate is so strong that they are willing to damn their souls, by using 
+technology in their fight against the Droyne.  They are lead by Commander 
+Lars Telgon, a former Baron of the Kingdom. Like all nobles, he is a psion, 
+in this case a healer.  He has gathered two other nobles to his cause, Suza 
+Lefla, a Knight of the Realm, and Cleon Arrington, another KOR.  All three 
+have renounced their titles and no longer use them.  	
+
+	The Kingdom of Light hunts the group, because of their use of techology.
+The group is also pursued by the Droyne for their many attacks on Droyne
+settlements, and installations.  The Ilkahari are currently based out
+of an old Imperial scout base that Telgon found many years ago.  They
+have restarted the base's fusion plant and scavanged about a dozen high tech
+rifles, and two suits of Scout Look-a-bout armor. The base also contains
+about 20 tons of TL-15 starship spare parts, which are of no use to the 
+Ilkhari.  Their other equipment is of local manufacture, including several 
+APCs, jeeps, trucks, and one light tank.  Their weapons include assualt 
+rifles, SMGs, pistols, grenades explosives and several anti-aircraft 
+missles.  There are currently 300 members.
+
+	The Ilkahari believe that they are truly and irrevocably damned. They
+are quite willing to die for their cause, and are willing to do anything
+to accomplish their goal of exterminating the Droyne.  
+
+
+Personal
+
+ Commander Lars Telgon 
+ 77B87D-9-1(Orignal social standing was higher, but he is now a wanted 
+            fugitive)
+Slug Rifle 4/11
+Electronics 2/9
+Unarmed Martial Arts 4/11  Damage 2
+Persuasion 5/18
+Leadership 6/19
+Psionics
+   Regeneration 5/14
+   Psionic Healing 3/12
+
+(He has more skills, but these were the only ones I have assigned him)
+
+  Telgon is the leader and founder of the Ilkhari. He is believes like
+all of his followers that their immortal souls are irrevocably damned,
+and that they will suffer everlasting torment in the afterlife.  
+As such, he is not afraid to add to his crimes, after all he is guilty
+of the most heinous crime there is, what is a little murder.  He is even
+willing to compromise, if in the end Droyne end up dead.  Once you get
+beyond his xenophobia, he is actually quite a charming individual.  
+He is able to take advantage of many years in court, to flatter and
+persuade people.
+   Telgon is a large hulking man, with striking features.  He is completly
+bald.  Most nobles of the Kingdom of Light, who are psions depilitate 
+their scalps. He dresses in neatly tailored robes and vestments. He uses
+a 7mm ACR in combat. He has 400 rnds of HE ammo for it. He also wears
+a balistic weave suit in combat. 
+
+Suza Lefla 946496-7-1
+ Slug Pistol 6/10
+ Stealth 5/9
+ Thrown Weapon 4/8						  
+ Interogation 3/9						  
+ Psionics:
+   Clairavoyence 5/11
+
+	Suza is slightly mentally unbalanced, she is quite paranoid believing
+that most of the members of the Ilkahari are out to steal her brain and 
+powers. She is kept in check by Telgon. She never leaves his side, sleeping
+in the same room as him.  She is totally devoted to him, but their
+relationship has never been consumated.  This is because Telgon 
+realizes that this gives him a certain amount of control over Lefla,
+and he needs her for her abilites. She ususally carries two body pistols
+and several throwing stars. (Same stats as throwing knife) 
+She is bald, with several green tatoos on her scalp.
+
+Cleon Arrington 799775-5-1
+ Slug Rifle 4/13
+ Ground Tactics 5/12
+ Stealth 4/13
+ Teleport 6/10
+ Telekenisis 4/9
+
+	Cleon is very quiet individual. He feels no need to make small
+talk, and only says something if it essential. He is the tactical leader
+of the Ilkahari, creating most of their succesful plans. If he is not
+planning a mission he usually sits and reads from one of many religious
+texts put out by the Kingdom of Light.  Cleon is a thin bald man.	
+ 
+-----------------------------------------------------------------
+Lewis Roberts (lewis@chara.gsu.edu)

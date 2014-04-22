@@ -1,0 +1,24 @@
+@SUB-SECTOR: sec_C   SECTOR: trojan
+#
+# Trade routes within the subsector
+$2102 2140 0 -1
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Candia        1801 D4006A9-4    Na Ni Va           703 Na
+Kydde         1810 B644779-5    Ag                 804 As
+Bantral       1906 C886589-9  S Ag Ni D0           503 Cs
+Kryslion      2002 D483AA9-9    Hi                 520 Dd
+Orsasch       2008 E241364-7    Ni Po Lo           223 As
+Cyan          2102 C4689B9-B  W Hi                 510 Dd
+Berengaria    2105 B566644-7  A Ag Ni Ri           304 Dd
+Senlis        2108 B671633-A    Ni                 510 As
+Doradon       2202 A400369-B  S Ni Va Lo           100 Dd
+Perrior       2203 A633966-B  N Na Po Hi           330 Dd
+Pax Rulin     2204 A402231-E  N Ic Lo Ni Po Va Cp  413 Dd
+Rhysk         2304 E413730-3    Ic Na Po        R  613 Dd
+Caraz         2306 E111959-A  N De Hi Ic In Na  A  222 Dd
+Magen         2309 C543550-9    Ni Po              902 As
+Islent        2402 BAC0789-6    De              A  103 Dd
+Alexin        2405 B000420-C    Ni As              230 Dd

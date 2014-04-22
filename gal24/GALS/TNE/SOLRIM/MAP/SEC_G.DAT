@@ -1,0 +1,33 @@
+@SUB-SECTOR: sec_h   SECTOR: solrim
+#		   
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Kasaan        1711 X7857V6-8    Ag                 220 Wi
+Muan Gwi      1717 A456AC9-A    HiVg               622 Na     f
+Hsuilzish     1718 E6787R5-6    Ag Vg(f)        B  705 Wi
+Vega          1720 X000000-0    Ba As              020 Un
+Wanish Tyo    1813 X630000-0    Pa De              002 Un
+Tsamis        1814 E5479RB-7    Hi In Vg(f)     B  412 Wi
+Muan Issler   1816 E3549RE-2    Hi Vg(f)        B  134 Wi
+Ashtagz Tyui  1818 E3486R7-7    Ag Ni Vg           903 Wi
+Alpha Oph     1911 X000260-8    Lo As Cm           202 Na     f
+Galishgu      1912 X222000-0    Ba                 023 Un
+Asterr Tyui   1917 D666967-9    Hi Vg              713 Na
+Merganser     1919 E9427RF-3    Po B               600 Wi
+Andiirish     2011 X000000-0    Ba As              002 Un
+Cathay        2012 X866AYC-5    Hi B               125 Wi
+Duikin Tyui   2015 X310000-0    Ba                 023 Un
+Hariksiat     2017 E3497RC-5    Vg                 120 Wi
+Sithuan Hsarr 2114 X8B6000-0    Ba Pi              003 Un
+Dzadwahtyan   2118 E7857RA4     Ag Vg(f)        B  423 Wi
+Hsuarrdzan    2213 X000000-0    Ba As              020 Un
+MuanKwoyen    2218 X6669RC-2    Hi Vg(f)        B  112 Wi
+Menelaus      2312 B86595A-9    Hi                 103 Na     f
+Shulgiasu     2319 E7588R7-8                    B  922 Wi
+Surt          2411 X521000-0    Ba                 004 Un
+Isseydo       2414 E2487RA-5    Ag V:2             723 Wi
+Shani         2415 X412000-0    Ba Ic              005 Un
+Khalikkam     2418 X610000-0    Ba                 004 Un
+Zayeel        2419 X433000-0    Ba                 001 Un
+Arrukir       2420 C59A7A9-8  O Wa V:I             700 Tc     f

@@ -1,0 +1,11 @@
+
+Jae Tellona  (Rhylanor:  Spinward Marches/2814)
+A560565-8  N  Ni De Mr      913 RE F9 IV
+G=0.61, Day=17:07:15.6, Year = 8y 140d 12:16:48.72
+Atmo=1.2, No Weather Control
+Temp= +29.0 (5/lat +15 to -35) (season +7.2 to -12.0, 12 deg lat)
+Daily temp range 13.35
+Ores, Compounds; Agroproducts, Metals; Weapons; None
+Progressive/Advancing, Unaggressive/Neutral, Harmonious/Friendly
+Legal:  5-53476     Tech  88-88789-8898-88-G
+

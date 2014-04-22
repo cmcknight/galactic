@@ -1,0 +1,13 @@
+@SUB-SECTOR: sec_L   SECTOR: corridor
+#
+# Trade routes within the subsector
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Tucker        2930 E879678-5  S Ni              B  522 Wi
+Betters       3030 EA87553-4    Ag Ni           B  101 Wi
+Kiru          3129 X565653-3    Ag Ni           B  422 Wi
+Uiolksdah     3225 X226000-0    Ba                 010 --
+Center        3229 D543678-4    Ni Po           B  434 Wi
+Emm           3230 D643345-6    Lo Ni Po           103 Wi

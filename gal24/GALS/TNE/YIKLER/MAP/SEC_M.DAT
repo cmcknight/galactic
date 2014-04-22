@@ -1,0 +1,38 @@
+@SUB-SECTOR: sec_M   SECTOR: yiklerzd
+#
+# Trade routes within the subsector
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Tavrniaplcha  0134 X445000-0    Ba                 002 Na     f
+Viezhzdi' Shta0137 C3117DD-7  M Ic Na              204 Na     f
+Plafrezhdish  0138 D330233-E    De Po Lo Ni        625 Na     f
+Klenjzhdont   0139 X592000-0    Ba                 002 Na     f
+Quicksilver   0233 X796000-0    Ba              R  010 Na     f
+Zdaplaftliavr 0235 X221000-0    Ba Po              002 Na
+Chablzhdia    0236 E655323-6    Lo Ni              720 Na     f
+Zdalzi        0237 B688975-7    Hi                 903 Na     f
+Dranshiqlbi'  0239 B485744-5    Ag Ri D3           610 Na     f
+Zdemedre      0332 D424414-A    Lo Ni              335 Na     f
+Vrontliedl    0338 X100000-0    Ba Va              003 Na     f
+Denzjdetlizh  0340 X778000-0    Ba                 010 Na     f
+Fair Deal     0431 B402771-7    Ic Na Va        R  804 TL     f
+Fliblshichtia 0434 B678755-9    Ag                 822 Na     f
+Bliazheprvlaf 0435 C473233-E    Lo Ni              604 Na     f
+Jdakrief      0439 B35666B-B    Ag Ni Pr O:0638    934 Na     f
+Chtashekldlanz0534 D452375-9    Lo Ni Po           905 Na     f
+Siezhdaniapl  0536 X6A2000-0    Ba Fl              022 Na
+Chiabenshzdol 0538 X320000-0    Ba De Po           002 Na
+Dliatlirets   0540 X5527A9-0    Po C2              204 Na     f
+Chaos Fallen  0631 A0009A6-C  T As Hi In Na        732 TL     f
+Candlelight   0632 C110497-B    Ni Lo              520 TL     f
+Sitiefladr    0638 A2679BB-B  M Hi                 613 Na     f
+Jansaze'      0640 X642000-0    Ba Po              002 Na     f
+Ziedrdazonch  0731 X100000-0    Ba Va              004 Na
+Friaprchivzhdo0738 E588600-6    Ag Ni C4        A  803 Na     f
+Chezh Daznish 0833 B526686-8  M Ni                 322 Na     f
+Didtayinzhial 0834 E9D8564-1    Ni O:0833          713 Na     f
+Zdoblze       0835 X000000-0    Ba As              022 Na     f
+Qriensh Jdazh 0837 C544476-9    Lo Ni              612 Na     f
+Whahwhiv      0839 D79A440-B    Lo Ni Wa           732 TC     f

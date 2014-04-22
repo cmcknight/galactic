@@ -1,0 +1,18 @@
+@SUB-SECTOR: sec_h  SECTOR: ley
+#
+#Jump Routes
+
+#
+#--------1---------2---------3---------4---------5----------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- --
+Menlanis      2513 E310547-7    Ni                 201 Na
+Shenidar      2611 C687789-7  S Ri Ag              100 Cs
+Anaharan      2616 CAB8213-A    Ni                 200 Na
+Fenrir        2813 E222665-8    Ni                 500 Na
+Zapotec       2818 C000654-A    As                 601 Na
+Shantunia     2916 C000545-A    As                 201 Na
+Rifward       3019 DA9A213-9    Ni                 100 Na
+Amycus        3115 X324000-0    Ba                 000 Na
+Kei           3119 X210000-0    Ba                 001 Na
+Tichum        3215 D435234-9    Ni                 901 Na

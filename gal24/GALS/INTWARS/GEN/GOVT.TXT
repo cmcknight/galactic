@@ -1,0 +1,23 @@
+The government of the Ziru Sirka was theoretically a centralised bureacracy.
+However the sheer distances involved in the adimistration of the Empire had
+lead to considerable authority being devolved to many worlds, to the extent
+that many worlds had essentially achieved local autonomy. This was especially
+true near the frontiers. Therefore, the usual government codes require some
+expansion with regards to the Ziru Sirka.
+
+0: None (Small Mining Settlement/Trading Station)
+1: Company/Corporation (Direct Bureaux controlled)
+2: Participating Democracy (Assimilated Local Autonomy)
+3: Self-Perpetuating Oligarchy (Unassimilated Majority)
+4: Representative Democracy (Assimilated Local Autonomy)
+5: Feudal Technocracy (Ziru Sirka Bureaux)
+6: Captive Government (Unassimilated)
+7: Balkanization
+8: Civil Service Bureaucracy (Ziru Sirka Bureaux)
+9: Impersonal Bureaucracy (Ziru Sirka Bureaux)
+A: Charismatic Dictatorship (Assimilated Local Leader)
+B: Non-Charismatic Dictatorship (Planetary Governor)
+C: Charismatic Oligarchy (Ziru Sirka Council)
+D: Religious Oligarchy (Assimilated Local Autonomy)
+E: Religious Autocracy (Assimilated Local Leader)
+F: Totalitarian Oligarchy (Ziru Sirka Council)

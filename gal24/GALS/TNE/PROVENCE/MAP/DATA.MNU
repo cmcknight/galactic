@@ -1,0 +1,28 @@
+@dir=gals\tne\provence\map
+@Light Yellow
+Provence Sector / Data Files
+
+@Light Cyan
+      Sector Data                  @..\provence.dat
+      Stars Data                   @stars\stars.mnu
+      Credits                      @..\credits.txt
+
+@Light Green
+      Subsector Data
+@Light Cyan
+       A: Llaezgaen                @sec_a.dat
+       B: Vorvoun                  @sec_b.dat
+       C: Grnouf                   @sec_c.dat
+       D: Tsaegag                  @sec_d.dat
+       E: Anghikh                  @sec_e.dat
+       F: Kaegrogz                 @sec_f.dat
+       G: Gveghz                   @sec_g.dat
+       H: Thon                     @sec_h.dat
+       I: Dzarrvaer                @sec_i.dat
+       J: Aenkuk                   @sec_j.dat
+       K: Karrdzae                 @sec_k.dat
+       L: Kaerfoz                  @sec_l.dat
+       M: Lighoz                   @sec_m.dat
+       N: Voudzeur                 @sec_n.dat
+       O: Uekhourg                 @sec_o.dat
+       P: Daekvagul                @sec_p.dat

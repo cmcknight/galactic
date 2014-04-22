@@ -1,0 +1,37 @@
+
+     Mertactor (Plankwell:  Spinward Marches/1537) B262732-B  S   Cp
+     610 RE G1 V
+     G=0.26, Day=25:39:30.5, Year = 724d 20:36:54.14 Atmo=1.3, No Weather
+     Control
+     Temp= +20.7 (4/lat +12 to -28) (season +12.42 to -43.0, 5.5 deg lat)
+     Daily temp range 18.2
+     Agricultural; Agroproducts; Weapons; Artforms
+     Progressive/Enterprising, Competitive/Neutral, Discordant/Friendly
+     Legal:  2-20544     Tech  BA-BBBBB-BBBB-BB-D
+
+
+     Mertactor System Details
+
+     Orbit      Name         UPP             Remarks
+     -----------------------------------------------
+     Primary    Magnus       G1 V
+     0          Bailiff      Y200000-0       Va
+     1          Ring System  YR00000-0       Va
+          25    Vaunt        YS00000-0       Va
+     1          Wrankon      YS00100-A       Va
+     2          Gustavson    G770360-A       Sc
+          40    Danner       Y300000-0       Va
+     3          Tyros Belt   H000462-B       Re Sc
+     4          Mertactor    B262732-B  S    Cp
+          10    Hord         GS00235-A       Va
+          30    Skellor      YS00000-0       Va
+     5          Pelloponeese Y600233-B       Re Sc
+     6          Mauritius    Y330000-0       Va
+          1     Ring System  YR00000-0
+     6.9        Gwaynfjord   G957562-B       Re Sc
+     7          Calori Belt  F000563-B       Re Co Sc
+     7.3        Eldron       G967363-A       Sc
+     8          Wyndermere   H667263-A       Sc
+          8     Hoggoth      H430160-A
+     9          Portcullis   F303321-A       Sc
+

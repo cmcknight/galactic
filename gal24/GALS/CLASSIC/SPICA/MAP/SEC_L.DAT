@@ -1,0 +1,41 @@
+@SUB-SECTOR: sec_l   SECTOR: Spica
+#
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Zlaleld       2522 C798501-E    Ag Ni Tp           804 Hv
+Rebang        2523 C8964I5-7    Lo Ni Tp           914 Hv
+Deso          2524 B6557J4-E    Ag Tp              220 Hv
+Bendus        2525 D1006I6-A  M Na Ni Va           305 Hv
+Erest         2529 A565AL3-F    F:8 Hi Cx          124 Hv
+Nehron        2530 C699004-4    Lo Ni Tp           600 Hv
+Pihras        2621 A5548I3-D                       200 Hv
+Ryabhan       2624 B3117I5-E  L Na Ic              801 Hv
+Lyalop        2628 B8C14I6-F  M Fl Lo Ni           803 Hv
+Rasup         2630 B6795I5-E  F Ni Tp              903 Hv
+Nandip        2722 D46A603-D    Ni Ri Wa           302 Hv
+Benes Gelb    2724 A451461-F  E Lo Ni Po O:2529    200 Hv
+Torrent       2725 C2109K1-A    F:6 Na Hi In       100 Hv
+Dihngu        2728 C5788J1-E  M                    424 Hv
+Eldsay        2729 X687500-0    Cw Ag Ni Tp Nh  R  600 Hf
+Ryolin        2730 C301603-8  M Na Ni Va Ic        500 Hv
+Untion        2823 C5629J4-A    F:7 Hi             100 Hv
+Item          2828 D7A29K6-B    F:8 Fl Hi          100 Hv
+Melzigh II    2921 B5985I6-D    Ag Ni              904 Hv
+iiiiii        2922 D621663-F  M Na Ni Po O:2621    404 Hi
+Lilop VI      2925 B952505-F  M Ni Po              622 Hv
+Rodeld        2926 B769664-8    Ni Ri Tp O:3025    300 Hv
+Nyoneng       2929 E5508I5-C    Po De              513 Hv
+Danim         2930 DA9A302-D    Lo Ni Wa           915 Hv
+Yombe IV      3021 C2616I2-9    Ni Ri              605 Hv
+Vensel        3023 C88AAL6-C    F:9 Hi Wa          100 Hv
+Dihrep        3025 B7797I3-F    Tp                 605 Hv
+Panen         3127 A6A4564-9  E Fl Ni Nh O:2529    113 Hv
+Atsalan       3130 XAE6778-7    Nh              R  601 Hf
+Nonil         3221 A1106I5-F    Na Ni Cp           222 Hv
+Lebhar        3223 B100302-D    Lo Ni Va           400 Hv
+Nomeh         3224 D5314I1-D    Lo Ni Po           303 Hv
+Hygox         3225 B779316-F    Lo Ni Tp           300 Hv
+Rese          3226 E342104-A    Lo Ni Po           503 Hv
+Nduran        3230 C4105I1-A  M Ni                 400 Hv

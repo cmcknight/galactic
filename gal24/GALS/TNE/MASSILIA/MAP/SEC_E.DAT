@@ -1,0 +1,47 @@
+@SUB-SECTOR: sec_a   SECTOR: massilia
+#
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Arilla        0112 X5854P5-5    Lo Ni              403 Wi
+Enid          0113 X6768R7-1                    B  601 Wi
+Juweit        0115 X210000-0    Ba                 014 Un
+Appomma       0116 E6462N1-6    Lo Ni              410 Wi     f
+Ambriana      0118 X200000-0    Ba Va              013 Un
+Enrique       0212 X200000-0    Ba Va              004 Un
+Naston        0213 X9E7000-0    Ba Fl              002 Un
+Shigi         0214 X6487R8-4    Ag              B  413 Wi
+Rommen-Kucera 0217 X8794M1-4    Lo Ni           B  511 Wi
+Rebin         0312 X88A3O1-3    Lo Ni Wa        B  402 Wi
+Ergo          0314 X200000-0    Ba Va              004 Un
+Abarre        0315 X100000-0    Ba Va              000 Un
+Masawa        0318 X8955R8-2    Ag Ni           B  204 Wi
+Kuiper        0319 X9544RC-5    Lo Ni              223 Wi
+Chigan Taal   0411 X233000-0    Ba                 005 Un
+Laisarlo      0414 X100000-0    Ba Va              001 Un
+Emsingale     0415 X8B4000-0    Ba Fl              021 Un
+Enriter       0416 X100000-0    Ba Va              013 Un
+Korthalis     0417 E5412S9-5  S Lo Ni Po           200 Wi     f
+Mairs         0418 X400000-0    Ba Va              003 Un
+Arineau       0511 X3637M2-3                    B  121 Wi
+Essin         0512 X200000-0    Ba Va              025 Un
+Daho          0513 X9C6000-0    Ba Fl              024 Un
+Kaflowe       0514 E4655RB-6    Ag Ni              203 Wi     f
+Salt          0519 X87A3M3-1    Lo Ni Wa        B  503 Wi
+Lismal        0520 X361100-5    Lo Ni              204 Wi
+Zimrimairs    0611 X4424O3-3    Lo Ni Po           503 Wi
+Marcusen      0616 D5755Q4-7    Ag Ni              302 Wi     f
+Jonen         0617 X6585RC-5    Ag Ni              402 Wi
+Tephant       0618 X8644P2-1    Lo Ni           B  502 Wi
+Makinen       0619 X4881N5-7    Lo Ni              111 Wi
+Newport       0711 X427000-0    Ba                 024 Un
+Latt          0712 X9791N6-2    Lo Ni           B  403 Wi
+Ariman        0715 X6585S8-4    Ag Ni              302 Wi
+Mannai Nila   0716 X200000-0    Ba Va              023 Un
+Uson          0717 X6848RB-7    Ri                 122 Wi
+Amaya         0720 X100000-0    Ba Va              024 Un
+Ample         0811 X6685T6-5    Ag Ni              104 Wi
+Mancilla      0814 X100000-0    Ba Va              005 Un
+Keum          0815 X6A1000-0    Ba Fl              004 Un
+Capson        0816 X3513N0-0    Lo Ni Po           433 Wi

@@ -1,0 +1,51 @@
+
+[Q] Do you intend to upgrade the program further?
+
+[A] Probably, but I'm not too sure how quickly I'll get to it.
+If I can get lots of world descriptions from people to add to
+this monster, then I'll be happy to incorporate those and put out
+a new version of the program every couple months. It could be a
+fantastic resource for sharing campaign fodder. However, if
+interest seems to taper off, I'll probably move on to my next
+project.
+
+-  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -
+
+[Q] Which is??
+
+[A] I'm currently working on a brand new Science Fiction RPG
+with a group of folks on the net, and we want to make our game
+available as freeware. I realize we aren't the first or only
+people working on such a project, but if you think you might be
+interested, we have a small mailing list of sorts operating, and
+we're always looking for new people. We even have a modest
+archive set up on the web. Inquire for more info, or check out my
+homepage.
+
+-  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -
+
+[Q] Why not, instead, make a Windows version of Galactic and
+then sell it? If you go commercial, more people would be able to
+get access to it (Traveller players who aren't on the Internet,
+for instance).
+
+[A] First of all, it would be a big pain in the a**. I've learned
+enough Visual Basic, that I could probably take a run at it, but
+we're talking about doing everything pretty much from scratch. It
+would be time-consuming. Secondly, I'm not all that eager to make
+money off this project. My worry is that if I start playing that
+game, it'll end up being about money and not about fun, and that
+would be really irritating for me. Besides, you have more freedom
+to do your own development when there's nobody looking over your
+shoulder, dictating how the final product should look and feel.
+   Having said that, I would be all too happy to see somebody
+like Steve Jackson Games stuff the program into some atlas booklet
+(granted, it's not quite good enough yet, but one can always
+dream). My only stipulation would be that it remain Public Domain
+and that the code be right there so that anyone can tweak it to
+their liking. Of course, the authors of the various world
+write-ups would have to consent to this also, but I can't imagine
+anybody saying no so long as SJG remains respectful of the TML and
+the fanzines, and so far they've been very net-friendly, so I
+don't foresee this being a problem.
+

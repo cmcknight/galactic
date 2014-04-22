@@ -1,0 +1,13 @@
+Jacat C3524P2-9
+
+Starport: Routine               Size: Small (4000-5600 km)
+Atmosphere: Thin                Hydrographics: 20% water
+Population: 50,000              Govt: Charismatic Dictators
+Law Level: Low                  Technology: Early Stellar
+      
+This world is the home base for the Blue Pearl corsair band, which preys
+mainly on starships from the nearby Geonee Confederation and from Nagiida.
+The flagship of the fleet is the Triple Fear, a still operative patrol
+cruiser from Rebellion times.
+
+by Carlos Alos-Ferrer <alos@merlin.fae.ua.es>

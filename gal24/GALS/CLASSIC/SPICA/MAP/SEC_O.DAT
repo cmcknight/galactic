@@ -1,0 +1,37 @@
+@SUB-SECTOR: sec_o   SECTOR: Spica
+# 
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Mihne         1731 B430303-8  F Lo Ni Po De        504 Hv
+Buron         1736 E688462-A    Lo Ni Tp O:2235    510 Hv
+Waxatha       1738 C8C2567-4    Fl Ni Nh O:2235 A  413 Hv
+Doduk         1740 A663104-E    Lo Ni Tp           304 Hv
+Damol II      1831 B6757I3-F  L Ag Tp              705 Hv
+Amflax Ops    1832 A441466-F    Lo Ni Po O:2235    313 H*
+Breadbasket   1833 E694713-6    Ag Tp              704 H*
+Sealene       1934 XA7A755-A    Wa Nh           R  415 Hf
+Danan         1938 B677866-E    Tp O:2235          335 Hv
+Gorong        2033 CAE68I5-B                       704 Hv
+Amrad         2034 C2239I4-8    Na Hi In Po Nh     200 Hv
+Baral         2037 C5506I6-C  M Ni Po De           803 Hv
+Zeldar        2133 B898864-F    Tp O:2235          804 Hv
+Bingon        2134 C877604-9    Ag Ni Tn           724 Hv
+Tharal        2136 A541566-A  E Ni Po Nh O:2235    713 Hv
+Dari          2137 B766562-F  M Ag Ni Tn O:2235    824 Hv
+Mehlang       2231 C673662-D    Ni Tp O:2235       314 Hv
+Pendar Hai    2232 D355205-8    Lo Ni              212 Hv
+Banihld       2233 A89A5I2-B    Ni Wa              510 Hv
+Mehndong      2235 A8976I1-F  L Ag Ni Tp Cp        412 Hv
+Dosos         2240 A6A0501-E    Ni De              600 Hv
+Dehlzo        2331 C859403-C    Lo Ni Tp           215 Hv
+Ff            2334 B140464-E  M Lo Ni Po De        804 H*
+Gridwork      2336 C100561-D    Ni Va O:2235       914 H*
+Ditihm        2339 A6268I1-F  L                    423 Hv
+Prt'aow       2340 C9667L9-A    Ag Tn Nh           711 Hv
+Ordva         2431 D58766B-C    Ag Ni Ri Nh        900 Hv
+Birak         2432 E6465I2-6    Ag Ni Tp           302 Hv
+Zalehs        2433 A8536I6-A    Ni Po Tp           905 Hv
+Lonibh        2435 C6748I1-C    Tp                 724 Hv
+Rehndol       2437 B4504I1-B    Lo Ni Po De        803 Hv

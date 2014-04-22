@@ -1,0 +1,19 @@
+@dir=help\qna\new
+@Light Yellow
+
+                       Questions & Answers
+                           What's New?
+
+@Light Green
+     Every version of Galactic includes new stuff. Here's
+     a record of the updates to versions 2.1 through 2.4.
+
+
+@Light Cyan
+     What's new in v2.4?                @new24.txt
+
+     What was new in v2.3?              @new23.txt
+
+     What was new in v2.2?              @new22.txt
+
+     What was new in v2.1?              @new21.txt

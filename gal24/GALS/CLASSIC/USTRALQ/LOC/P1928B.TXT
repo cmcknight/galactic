@@ -1,0 +1,33 @@
+
+System Survey - 001-1116
+------------------------
+Kemit (1928) Kemit/Ustral Quadrent
+
+Orbit         Name             UWP          Remarks
+Primary       Amun             G2 V        
+0             Hori             YS00000-0  
+1             Shu              Y400000-0 
+       8      Tefni            Y330000-0
+2             Apep             Y000000-0    5m/1km, n-50 m-40 c-10, 0.01 AU
+3*            Hakap            Large GG     Size 203 / 329,800 km
+       4      Geb              G300533-G Nv Mi Re
+       8      Nut              G444763-G Nv Co Fa Mi
+       35     TAMERI           F665965-G Nv Co Fa Mi Re      
+       40     Bes              Y300000-0
+       60     KEMIT            A776A43-G F  Hi In
+       100    Thoth            F220425-G Nv Mi
+4             Sekir            Y334000-0
+5             Anubi            F501205-F    Mi
+       10     Apshad           Y300000-0
+11            Osiri            M5 D Companion 
+13            Aped             F000124-G    Re 1km, n-10 m-20 c-70, 10 AU
+14            Ises             Small GG     Size 80 / 128,000 km   
+       7      Nepat            Y200000-0
+       11     Kus              Y100000-0
+15            Anhir            G000266-F    Mi 300m, n-10 m-70 c-20, 1.0 AU
+
+
+Companion     Osiri            M5 V
+O             Seth             YS00000-0        
+1             Nephyth          Y100000-0
+

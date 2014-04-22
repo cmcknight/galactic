@@ -1,0 +1,230 @@
+   
+                  ORUELAEN, PSIONIC FORCES OF THIRZ EMPIRE
+                                       
+                                Roger Myhre
+   
+     _________________________________________________________________
+ 
+ 
+Introduction
+
+   When Thirz empire was first founded in 1016 the Zhodani found it wise
+   to have good relations to the new founded empire. Not that it feared
+   it, but because the relationship would be of most importance when it
+   came to the control of space in non Zhodani territories.
+   
+   Zhodani realized that they would have difficulties to control the
+   corsair threat without outside help. Thirz Empire was found to be the
+   best candidate. Thirz the First enjoyed high Charisma increases after
+   he was proclaimed king. With Zhodani help he could expand his borders
+   both spinward and trailing.
+   
+   Out of this cooperation there was trained a few selected sophonts to a
+   new special force. A psionic force group (PSG) called Oruelaen.
+   
+   The close contact with Zhodani gave cheap and quite reliable psionic
+   training to those who could afford it. The royal family is tested and
+   trained for free.
+   
+Roles of the PSG
+
+   The PSG is a small group of 250 sophonts. Officially they are known as
+   the Royal Guard. This guard or group has several roles, both publicly
+   and more secret roles. Only about 50 of the members are known by the
+   public. And about 12 of those are truly famous. The others have not
+   been recognised by name when they are doing jobs that demands
+   discretion.
+   
+   The group is not a intelligence group, but have close contacts with
+   the Thirz Empire Intelligence network. The main roles for this group
+   is:
+     * Bodyguard for the King. 12 Sophonts are designated as permanent
+       bodyguard for the King, and at least four is present at all times
+       when the king meet strangers.
+     * Public relations. This is one of the smallest jobs the group does.
+       It handles the communication with news agencies when the group is
+       officially on a given mission. Giving relevant information of what
+       is happening or have happened.
+     * Investigation. If some problem arise that the king finds
+       particulary interesting he may dispatch a few PSG members to the
+       site to collect data. Sometimes this collides with the
+       Intelligence network. At moments as this there will be cooperation
+       between these two groups.
+     * Undercover. Sending members on undercover missions is extremely
+       rare. When it is done, there is almost always with the
+       Intelligence Network.
+     * War missions. Also a rare occurrence. Usually they are only sent
+       out on observation missions, but certain special missions may be
+       undertaken. This is then done with special forces that are trained
+       to operate behind the enemy lines.
+     * Observers. When certain actions are taken. For instance when
+       diplomats are on a emissary mission agents may be present to
+       observe and protect the diplomats.
+   
+Organization
+
+   Due to the prestige and the small size of the group, there is
+   difficult to enlist as a PSG member. Even more difficult is it to
+   increase in rank. PSG members are seldom on dangerous missions without
+   backup from skilled personnel (field agents, commandos).
+   
+   The only way to increase in rank is when a higher ranked officer is
+   killed, retired or demoted and discharged. The king "owns" the group
+   and may issue any order to it as he sees fit. The king holds the rank
+   of General.
+   
+   Due to the high responsibility each individual has, the lowest rank is
+   Sergeant. Thus making the lower rank members able to throw some weight
+   around if need be. However they are not to take command if there is a
+   lower ranked that are present that know the job in question in and
+   out.
+   
+   Example: If a commando unit with one PSG officer present ends up in a
+   situation that calls for special measures. The PSG officer may not
+   take command even if the commando unit officer is of lower rank. If
+   the PSG officer can prove that the commando officer is unable to do
+   his job properly he may take command. In the latter case this will go
+   to a hearing to investigate if the PSG officer acted within his
+   authority.
+   
+Other Races Within the Force
+
+   PSG accepts other races as members in their ranks if they have high
+   PSI rating. Currently (1120) there is one Droyne Sport and two humans.
+   There have been a few members from other minor races in the force, but
+   that was in the early days.
+   
+Generating a PSG Member
+
+   If you need a NPC or a PC wants to become a PSG member there is a few
+   criteria that have to be fulfilled.
+     * PSI rating of 8+.
+     * Citizen of Thirz Empire.
+     * Preferably one of these PSI abilities.
+          + Telepathy.
+          + Telekinesis.
+          + Clairvoyancy.
+          + Any useful special ability.
+            
+   Droynes are a special case. When they start with 1D in PSI rating. A
+   new started Droyne can join if he has 5+ in PSI rating.
+   
+   When a person decided to join he or she is checked for how strong he
+   or she is Psionically. If the strength is more than 8 he may then take
+   tests. If the person manages to enlist he is trained in the abilities
+   he got. The first year of the first term is used for training. Each
+   ability start at level 1. At the end of each term roll on the table
+   below to see how much the skill have increased the last four years.
+   The skill level may not become higher than the PSI rating. Roll for
+   each ability.
+   
+   For those who manage to enlist in this branch, increase charisma with
+   one.
+   
+   Roll  PSI Skill Increase   |     Skill received:
+    1        +2               |     Per term of service- 1
+    2        +4               |     For each Commission- 1
+    3        +4               |     For Promotion-       1
+    4        +5               |     For Special Duty-    1
+    5        +5               |     +1 if difficulty number is
+    6        +7               |     beaten by 4+ on Comm and Special Dty.
+   
+   When the skill of a Droyne has reached upper limit of PSI skill, and
+   the PSI rating is increased further the skill is automatically
+   increased too.
+   
+   Enlist: 11+ on 2D. DM+1 if PSI rating 11. DM+1 if more than 1 ability.
+
+                   Roll      Notes
+   Survival          5       DM+1 if Int 9+
+   Commission        7       DM+1 If Int 9+
+   Success       See below   DM+1 if Cha 7+, DM+1 if Edu 10+
+   Special Duty      9
+   Reenlist          6
+
+   Success Table (2D)                  Ranks
+   -------------------------------------------------------------
+    2  Discharge with Cha-2        1 Sergeant
+    3  Discharge with Cha-1        2 Lieutenant
+    4  No effect                   3 Captain
+    5  No effect                   4 Major
+    6  No effect                   5 Lieutenant Colonel
+    7  No effect                   6 Colonel
+    8  No effect                   7 General++
+    9  No effect                   ++) No character may get this
+   10  Promoted 1 rank                 rank.
+   11  Promoted 1 rank, Cha +1
+   12  Promoted 1 rank, Cha +2
+   
+      Rank Skills:
+      Sergeant Gun combat+1
+      Captain Leader+1
+      Colonel Liaison+1
+   
+   Skills
+
+   Personal          Career      Education        Advanced
+   Development       Skills      Skill            Education.
+   ------------------------------------------------------------
+   1 +1 Int           Admin       Vehicle          Space Comb
+   2 +1 Edu           Mx Comb     Spc Comb         Interperson
+   3 Physical         Mx Comb     Forensic         Legal
+   4 +1 Dex           Reco        Legal            Academic
+   5 Inborn           Strwise     Tech             Liaison
+   6 +1 Cha           Interview   Vice             Space
+                                                  -------------
+                                                  Min Cha of 8
+                                                  is required on
+                                                  this table.
+   Muster out
+       Cash          Benefit
+   --------------------------
+   1   10,000        PSI drug
+   2   30,000        Weapon
+   3   50,000        Cha+1
+   4   90,000        Int+1
+   5  100,000        HiPas
+   6  140,000        Grant
+   
+   Cascade skills:
+   Inborn: Artisan, Carousing, Instruction, JOT, Tactics, Leader
+   Interpersonal: Admin, Interview, Liaison, Linguistics, Steward
+   Mx Comb: Infighting, Blade CBT, Gun CBT, +1 Str, +1 End
+   Physical: +1 Str, +1 Dex, +1 End
+   Spc Comb: Btl Drs, Cbt Eng, Cbt Rflmn, Demo, FA Gnry, Fwd Ob Grav
+    belt, Hvy Wpns, Hi-eng Wpns, Hi-g Env, Stealth Survival, Zero-g Env
+   Space: Engineering, Navigation, Pilot, Sensor ops, Ship's boat,
+    Vacc-suit, Zero-g Env Space Comb: Fleet tactics, Gunnery, Sensor ops,
+    Ship tactics
+   Tech: Commo, Comp, Elec, Gravitics, Robot ops, Sensor ops Vehicle:
+    Aircraft, Grav belt, Grav Veh, Ships boat, Tracked Veh, Watercraft,
+    Wheeled Vehicle
+   Vice: Bribery, Disguise, Forgery, Gambling, Intrusion, Scrounging
+    Streetwise
+   
+   Benefits:
+   PSI drug: The character get 2 doses of PSI drug of refs choise.
+   Weapons : The character may select any weapons except plasma or fusion
+    weapons or heavy weapons.
+   Grant: The character is given a grant worth up to
+    (10,000*Cha)+(1000*rank). This may be whatever the refereee finds most
+    appropriate for the character and the campaign the referee are going
+    to run. Expensive equipment like vehicles may be a good choise. If
+    grant is rolled more than once. Add 1000 to the maximum amount for
+    each additional roll. Discharged characters may not get a grant.
+   
+Notes on Droynes
+
+   To measure the level of Charisma of a Droyne: +1 Cha per term of
+   service, +1 per every second leader skill. Initial Cha level is half
+   the total amount.
+   
+   In this character generation procedure there is assumed that the
+   Droyne is used to interact with Vargr so he start at full level.
+   
+   Differently from others the Droynes increase in PSI level as they grow
+   older. A Droyne character may change any of the rolls on the personal
+   development table for +1 in PSI level, once per term. The maximum PSI
+   level possible is 15. Any increment in Cha from other rolls may be
+   used to increase PSI rating with one.
+

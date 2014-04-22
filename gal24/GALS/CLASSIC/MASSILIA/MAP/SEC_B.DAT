@@ -1,0 +1,42 @@
+@SUB-SECTOR: sec_B   SECTOR: massilia
+#
+# Trade routes within the subsector
+$0908 0711 -1 1
+$1104 1601 0 0
+$1601 1640 0 -1
+$1508 1808 1 0
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Little Jupiter0901 A8B2855-F  S Fl              A  213 Li
+Transvaal     0904 B357584-C    Ni Ag              404 Li
+Griku         0906 E455338-7    Ni Lo              322 Li
+Sargashad     0908 A9A4878-C  N Fl Pr           A  400 Li
+Monkota       1001 D100586-9  S Ni Va              503 Li
+Jaspa         1002 B675898-9                       614 Li
+Hallinsa      1003 B638400-C  S Ni                 210 Li
+Quetcro       1004 BAA5234-C    Ni Fl Lo           703 Li
+Seyers        1101 B2476BE-C    Ni Ag           A  202 Li
+Arar          1104 B233A72-G    Hi Po Na Cp        524 Li
+Dailra        1106 C110557-E    Ni                 801 Ma
+Khipshunam    1108 C544ABA-C  S Hi In              403 Ma
+Datrumna      1203 A362686-D    Ni Ri              403 Li
+Balfour       1303 E8A6569-9    Ni Fl              624 Na
+Barony        1304 B569597-D    Ni              A  700 Ma
+Amulric       1305 B100500-E    Ni Va              704 Ma
+Chaeolimin    1307 B653525-A    Ni Po              201 Ma
+Lattaunist    1308 B444656-B  N C7 Ni Ag           104 Ma
+Rynic         1310 E898320-7    Ni Lo              403 Ma
+Dalphta Three 1404 C9A9533-A    Ni Fl           A  911 Ma
+Wondrous      1408 B7A6226-C  N Ni Fl Lo           112 Ma
+Pytirsun      1503 C75A310-B    Ni Wa Lo           913 Ma
+Basolus       1506 B694664-A    Ni Ag              415 Ma
+Verifervid    1507 B310100-D    Ni Lo              920 Ma
+Gasha         1508 A250510-G    Ni Rs              924 Ma
+Anamoni       1510 B99A425-D    Ni Wa              803 Ma
+Suttas Belts  1601 A000200-G    Ni As Lo           100 Li
+Drayton       1603 B262333-C    Ni Lo              103 Ma
+Stramentox    1605 B210454-E    D2 Ni           A  322 Ma
+Wirz          1606 B727441-C    Ni                 415 Ma
+Biloxi        1607 B5448CB-B  N                    122 Ma

@@ -1,0 +1,43 @@
+
+[Q] In the gals\classic\gush\gush.dat file, the basic sector data
+file for the Gushemege sector of the Classic Traveller galaxy, you
+have the following:
+
+A: Riften                    sec_a.dat
+B: Khiira                    sec_b.dat
+C: Taapvaia                  sec_c.dat           f
+D: Tansa                     sec_d.dat           f
+E: Gandonen                  sec_e.dat
+F: Rure                      sec_f.dat           f
+G: Ankhsusgar                sec_g.dat
+H: Isi Ahto                  sec_h.dat
+I: Balech                    sec_i.dat           f
+J: Sallounn                  sec_j.dat           f
+K: Dashinshaii               sec_k.dat
+L: Shire                     sec_l.dat
+M: Vipach                    sec_m.dat           f
+N: Laeth                     sec_n.dat           f
+O: Truax                     sec_o.dat
+P: Lagan                     sec_p.dat
+
+What's all this mean?
+
+[A] There are sixteen subsectors in every sector, and these are
+given letters of designation (A-P). The sixteen lines shown above
+are a sort of index of the subsector data files contained in the
+gals\classic\gush\map directory. The f's on the right indicate
+subsectors where a description file is available, that is a file
+written in plain english describing the subsector as a whole. Such
+files are contained in the gals\classic\gush\loc directory, and are
+named sub-?.txt where ? is the letter of the subsector in question.
+   If you have a lot of stuff to write about a given subsector, you
+might want to use a menu file instead, to help separate the stuff
+out, in which case you would use an "m" on the right in place of
+one of the f's. In such an instance, your menu file would still be
+located in the gals\classic\gush\loc directory and would be named
+sub-?.mnu where ? is the letter of the subsector in question.
+   Take a peak at some of the .txt and .mnu files in gals\classic\
+gush\loc for examples of the differences between text and menu
+files and how menu files are organized. See also the help file on
+menu files.
+

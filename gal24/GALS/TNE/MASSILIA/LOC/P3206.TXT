@@ -1,0 +1,16 @@
+Dolenar C542300-8
+
+Starport: Routine               Size: Medium (7200-8800 km)
+Atmosphere: Thin, tainted       Hydrographics: 20% water
+Population: 2,000               Govt: No government
+Law Level: No Prohibitions      Technology: Pre-Stellar
+      
+
+Dolenar: This planet is in an undesirable position indeed.  In late 1197, a
+raiding party from Zabel took the starport, and the main city.  In return
+for not being sold into slavery, the Dolenarians operate their Starport as
+a R&R facility for the Black Rain, while they are off duty.  Dolenar is
+also forced to pay tribute in the form of fuel and repairs to any visiting
+Zabelan ship.
+
+by Jon Goff (jongoff@et.byu.edu)

@@ -1,0 +1,17 @@
+@SUB-SECTOR: sec_d   SECTOR: ley
+#
+#Jump Routes
+
+#
+#--------1---------2---------3---------4---------5----------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- --
+Hagolton      2501 E110315-A    Mi Na              301 Na
+Alclaria      2607 X323000-0    Ba                 000 Na
+Zagrathis     2710 E234210-9    Ni Na              500 Na
+Aitken        2804 XACA000-0    Ba                 000 Na
+Dunbaris      2904 XAB8000-0    Ba                 001 Na
+Wereward      3001 XAB3000-0    Ba                 000 Na
+Walgrave      3106 E685513-9    Ag                 300 Na
+Conanel       3109 X5AA000-0    Ba                 000 Na
+Dorawet       3202 D000210-A    As                 500 Na

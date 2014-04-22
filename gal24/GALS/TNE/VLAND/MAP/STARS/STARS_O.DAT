@@ -1,0 +1,48 @@
+@SUB-SECTOR: stars_O   SECTOR: vland
+#
+# Trade routes within the subsector
+#
+#--------1---------2---------3
+#PlanetName   Loc. Stars(s)
+#----------   ---- ---------
+Nikham        1732 M4 V
+Miku          1734 M1 V
+Zhinutar      1735 G6 V M2 V
+Ake           1736 M5 V A6 V
+Glanidarn     1740 M4 V
+Mekhe         1831 M0 V K1 III
+Shadi         1833 G4 V M5 V
+Kordanar      1839 M9 V
+Shorlon       1931 M3 V
+Sharan        1932 G5 V
+Kaskar        1933 K9 V M1 V
+Ekhin         1936 M3 III M4 V
+Nulisud       1937 K1 V
+Vuldaan       2032 F3 V
+Hykluitt      2035 M1 V
+Diinagar      2036 M9 V K3 V
+Miizam        2039 M8 V M9 V
+Imshiig       2132 F2 V
+Iddun         2133 F9 V
+Zemal         2134 M3 V M9 V
+Shaka         2137 F8 V
+Istuary       2138 M9 V
+Zolo          2139 M8 V M0 V
+Gikarlum      2232 G8 V M2 V
+Segikin       2233 M6 V
+Rishin        2235 G7 V
+Gaarid        2236 M2 V K3 V
+Khugan        2238 M6 V
+Bakor         2240 K7 V M8 V
+Aaluggidira   2331 F4 V
+Zaakkusham    2332 M2 V M5 V
+Miiliiniur    2335 G8 II M7 V
+Kunni         2336 M5 V F5 D
+Idi           2337 G4 V M1 D
+Orguk         2340 M3 V
+Dusekhip      2431 K3 V
+Korm          2432 M4 V
+Ashuugakher   2433 G7 V
+Li            2435 M3 V
+Shakir        2438 M6 II
+Shuurdiikha   2440 F1 V M1 V

@@ -1,0 +1,46 @@
+@SUB-SECTOR: sec_K   SECTOR: dagudash.sec
+#
+# Trade routes within the subsector
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Campbell      1722 B99A200-E  W Lo Ni Wa           204 Im     f
+Dashi         1723 C15098B-E    Hi Po De           404 Im     m
+New Titan     1726 CAAA772-B  S Fl Wa              714 Im     f
+Ekhugush      1728 A63698A-D  N Hi                 312 Im     f
+Ushmegili     1729 D86A204-A  S Lo Ni Wa           722 Im     f
+Iash          1730 D203462-A    Ni Va Ic           604 Im     f
+Aiaiyal       1821 A572845-E                       710 Im     f
+Bradley       1822 A246200-D  N Lo Ni              803 Im     f
+Iinir         1823 A457885-D                       401 Im     f
+Kamgikiik     1824 C43655A-C    Ni                 704 Im     f
+Pr'Geehr      1829 B383435-9  S Ni                 205 Im     f
+Clan Home     1830 D789535-5    Ni                 111 Im     f
+No Hope       1924 B341699-D  S Ni Po              113 Im     f
+Shakhii       1926 A200697-D  S Na Ni Va           504 Im     f
+Junivaar      1927 C486112-A    Lo Ni              800 Im     f
+Asii          1928 C335894-7                       205 Im     f
+Ikabi         1929 C0009DE-D    Hi Na In As        800 Im     f
+Vipac         1930 A401230-D    Lo Ni Va Ic        803 Im     f
+Janssen       2022 B220310-B  N Lo Ni Po De        113 Im     f
+Draskeran     2023 B211454-C  S Ni Ic              612 Im     f
+Jarmael       2024 C512669-9    Na Ni Ic           732 Im     f
+Sennirak      2026 A401797-C  N Na Va Ic           414 Im     f
+Kakhirusar    2028 A664378-B  N Lo Ni              903 Im     f
+Cocor         2030 C6B2665-8  S Ni Fl              303 Im     f
+Chandra's Worl2122 C9966AA-7    Ag Ni           A  803 Im     f
+Kediiga       2123 B778411-8    Ni                 920 Im     f
+Medurma       2124 A67399C-G    Hi In              313 Im     f
+Thalassa      2127 D56A557-9    Ni Wa              423 Im     f
+Maiden        2130 B13069B-C  N Na Ni Po De        814 Im     f
+Dipa          2223 C200AEB-F  S Hi Na In Va        701 Im     f
+Nexus         2225 B666666-7  N Ag Ni Ri           723 Im     f
+Theta Cygni   2226 A424100-E  S Lo Ni              702 Im     f
+A'a'suni      2227 C5468AD-5  S                    300 Im     f
+Kurkhi        2228 C401578-8  S Ni Va Ic           514 Im     f
+Ishigumam     2322 B100587-D  A Ni Va              102 Im     f
+Tilmes        2324 C233644-8  S Na Ni Po           500 Im     f
+Station Two   2327 C160004-B    Lo Ni De           202 Im     f
+Mo'line       2424 B335655-C    Ni              A  113 Im     f
+For'star      2426 A623025-A  S Lo Ni Po           505 Im     f

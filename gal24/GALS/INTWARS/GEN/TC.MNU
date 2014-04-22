@@ -1,0 +1,9 @@
+@dir=gals\intwars\gen
+@Light Yellow
+
+The Terran Confederation
+
+@Light Cyan
+      Overview               @tc.txt
+      Culture                @terran.txt
+      Rimward Expansion      @rimward.txt

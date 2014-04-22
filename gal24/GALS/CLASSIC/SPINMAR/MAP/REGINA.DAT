@@ -1,0 +1,49 @@
+@SUB-SECTOR: Regina SECTOR: Spinward Marches
+#
+# Trade routes within the subsector
+$1904 1307 -1 0
+$1904 1903 0 0
+$1904 2005 0 0
+$1903 2202 0 0
+$2005 2007 0 0
+$2007 1910 0 0
+$1910 1912 0 1
+$1910 1810 0 0
+$2410 2510 1 0
+$1810 1413 -1 1
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Efate         1705 A646930-D  B Hi In              810 Im
+Alell         1706 B46789C-A    Ri                 410 Im
+Yres          1802 BAC6773-7    Fl                 335 Im     f
+Menorb        1803 C652998-7    Hi Po              310 Im
+Uakye         1805 B439598-D    Ni                 320 Im
+Whanga        1806 E676126-7    Lo Ni              224 Im
+Knorbes       1807 E888787-2    Ag Ri              834 Im
+Forboldn      1808 E893614-4    Ni                 312 Im
+Ruie          1809 C776977-7    Hi In           A  701 Na
+Jenghe        1810 C799663-9  S Ni                 323 Im
+Pixie         1903 A100103-D  N Lo Ni Va           901 Im
+Boughene      1904 A8B3531-D  S Ni Fl              601 Im
+Hefry         1909 C200423-7  S Ni Va              320 Im
+Regina        1910 A788899-C  A Ri Cp              703 Im
+Feri          2005 B384879-B  S Ri                 620 Im
+Roup          2007 C77A9A9-7  S Hi In Wa        A  323 Im
+Pscias        2106 X355423-1    Ni              R  501 Im
+Yori          2110 C360757-A    Ri De              713 Im
+Tentus        2201 C979500-A  S Ni                 920 Im
+Kinorb        2202 A663659-8    Ni Ri              622 Im
+Beck's World  2204 D88349D-4    Ni                 701 Im
+Enope         2205 C411988-6    Hi In Na           600 Im
+Wochiers      2207 EAC28CC-9    Fl                 703 Im
+Yorbund       2303 C7C6503-7    Ni Fl              220 Im
+Shionthy      2306 X000742-8    Na As           R  714 Im
+Algine        2308 X766977-4    Hi              R  723 Im
+Yurst         2309 E7B4643-5    Ni Fl              824 Im
+Heya          2402 B687745-5    Ag Ri              734 Im
+Keng          2405 E2718CA-3                       812 Im
+Moughas       2406 CA5A588-B    Ni Wa              801 Im
+Rethe         2408 E230AA8-8    Hi Na Po De        323 Im
+Inthe         2410 B575776-9  A Ag                 423 Im

@@ -1,0 +1,51 @@
+@SUB-SECTOR: Antigone SECTOR: Gythios Sector
+#
+# Jump-routes
+$0911 0810 -1 -1
+$0918 0616 -1 0
+$0911 0811 -1 0
+$1212 1310 0 -1
+$1512 1409 0 -1
+$0911 1212 0 0
+$0916 0918 0 0
+$0916 1016 0 0
+$1212 1214 0 0
+$1418 1619 0 0
+$1512 1514 0 0
+$1619 1719 1 0
+$1619 1720 1 0
+$0916 1214 0 0
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Liet          0911 A482A89-D    Hi                 502 Im 320
+Dave          0912 X000000-0    As Ba Lo           001 Im 000
+Lynchburg     0916 B564577-A  N Ag                 802 Im 230
+Labrador      0918 A76AA86-G    Hi Wa              504 Im 27Q
+Boldar        0920 X200000-0    Ba Lo Va           001 Im 050
+Raleigh       1016 B55869C-9    Ag                 403 Im 085
+Serana        1019 D654873-5                       204 Im 38H
+Mirillas      1118 C200200-7    Lo Va              203 Im 020 m
+Maureen       1211 C6519BA-7    Hi                 534 An 56L
+Antigone      1212 A5549AB-8  2 Hi                 402 An 45H
+Lioslaith     1214 A87A896-E  N Wa                 104 An 86Z
+Tuskegee      1216 X5A0000-0    Ba De Lo           004 An 040
+Odona         1220 B445456-8                       201 Im 460
+Koringap      1311 X436000-0    Ba Lo              003 An 710
+Doric         1314 D692249-6  S Lo                 903 An 310
+Ortensia      1316 X513000-0    Ba Ic Lo           003 An 070
+Rolando       1318 X120000-0    Ba De Lo           010 Dr 020
+Rodriguez     1417 X699000-0    Ba Lo              002 Dr 050
+Dalla         1418 B5466AB-9  N Ag                 900 Dr 381
+Thruhleow     1419 C270362-6  S De Lo              803 Dr 100
+Meragrand     1511 X300000-0    Ba Lo Va           002 An 010
+Frau          1512 B434232-C  2 Lo                 502 An 150
+Denubius      1514 B477454-9                       900 An 030 f
+Dyot          1518 X202000-0    Ba Ic Lo Va        002 Dr 010
+Goucher       1611 X415000-0    Ba Ic Lo           003 An 050
+Tujiro        1612 X200000-0    Ba Lo Va           012 An 000
+Martynson     1615 B666851-A                       610 Dr 440
+Bradbury      1616 X227000-0    Ba Lo              001 Dr 750
+Crescentia    1617 E483321-8    Lo                 705 Dr 660
+Linus         1619 A76AADC-A  N Hi Wa              704 Dr 86N

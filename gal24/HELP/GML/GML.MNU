@@ -1,0 +1,27 @@
+@dir=help\gml
+@Light Yellow
+
+                     Galactic Mailing List
+
+@Light Cyan
+
+     Subscription Info                @signon.txt
+
+     List of Who's Doing What         @who.txt
+
+     List of Sectors & Their Status   @sectors.txt
+
+     Info on GML Members              @intros\intros-1.mnu
+     More info on GML Members         @intros\intros-2.mnu
+
+     Submission Guildlines            @submit.txt
+
+     Yakkin' w/ Courtney              @courtney.txt
+
+@Magenta
+
+   Warning: Some of the files contained in this section of
+   Galactic include tilde (~) characters. Particularly, they
+   occur in web-addresses. The "less" text reader ignores
+   these characters. You may want to use "browse" instead.
+   Hit "c" to change browsers.

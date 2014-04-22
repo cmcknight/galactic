@@ -1,0 +1,51 @@
+@SUB-SECTOR: sec_o   SECTOR: ley
+#
+#Jump Routes
+$1731 1733 0 0
+$1731 2031 0 0
+$1733 1633 -1 0
+$1733 1833 0 0
+$1833 1934 0 0
+$1840 1940 0 0
+$1934 2031 0 0
+$1934 1937 0 0
+$1937 1940 0 0
+$1940 1802 0 1
+$1940 1901 0 1
+$2031 2130 0 -1
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Oathcoomb     1731 D676420-6    Ni                 501 Im
+Dark Lagoon   1733 B96A677-A    Ri Wa              700 Im
+Kuprod        1735 X9C9000-0    Ba                 000 Im
+Gulfex        1832 X120000-0    Ba                 001 Im
+Lanka         1833 C766778-7    Ag                 100 Im
+Avonia        1834 DABA314-9    Ni                 401 Im
+Vicar         1840 E244599-9    Ni                 200 Im
+Sledgetower   1934 A7849A8-B  N Ca                 901 Im
+Ogery         1937 C5A6484-A  S Ni                 601 Im
+Basin         1940 B787873-7  S Ri Ag              800 Im
+Elfwine       2031 B755663-9  N Ag                 301 Im
+Drumfall      2032 E312210-8    Ni                 200 Im
+Grottel       2035 X8CA000-0    Ba                 000 Im
+Bastis        2036 E510553-7    Ni                 201 Im
+Ell-Ald       2131 DA9A743-8                       601 Im
+Bulldune      2133 E414351-7    Ni                 100 Cs
+Caverine      2134 D000310-9    Ni                 801 Cs
+Sunbank       2231 E234523-6    Ni                 101 Cs
+Evilory       2232 EABA110-0    Lo                 900 Na
+Rapidesia     2233 D532416-8    Ni                 700 Cs
+Sekmetar      2235 E430100-0    Lo                 201 Na
+Atoley        2236 DA98413-7    Ni                 500 Cs
+Frikka        2237 D8575D9-2    Ag              R  501 Na
+Brass         2331 E436543-5    Ag                 100 Cs
+Colossal      2337 DB9A411-7    Ni                 200 Cs
+Vilaruby      2338 X343100-0    Lo                 601 Cs
+Straitedge    2339 E236410-8    Ni                 800 Cs
+Duatrek       2340 X6B9000-0    Ba                 001 Na
+Quarry        2433 D130415-7    Ni                 601 Cs
+Deadfall      2436 E223423-8    Ni                 900 Cs
+Tarnkeep      2438 E537215-7    Ni                 401 Cs
+Bearntir      2439 E7A5331-6    Ni                 501 Cs

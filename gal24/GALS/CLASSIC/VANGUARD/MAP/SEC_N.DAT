@@ -1,0 +1,29 @@
+@SUB-SECTOR: sec_N   SECTOR: vanguard
+#
+# Trade routes within the subsector
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Velnite El.   1031 C556698-7  M Ag Ni Ri        G  115 Na     f
+New Freedom   1137 X894579-0    Ag Ni              913 Na
+Winfarr       1232 D101117-D    Ic Lo Ni Va        311 Ac
+Milisann      1234 D312216-C    Ic Lo Ni Rs        122 Ac
+Shield        1235 B211416-D  J Ic Ni              232 Ac
+Laivons       1331 A322465-E  J Ni                 311 Ac
+Holgarrem     1332 X921000-0    Ba Lo Ni Po        010 Ac
+Howler        1334 B585669-E    Ag Ni Ri Rs        621 Ac
+LEAVANI       1335 A674924-D  F Hi In Hw           201 Ac     f
+Rikkiti       1337 D4A1118-D    Fl Lo Ni  1436     302 Ac
+Melvina       1339 X546000-0    Ba Lo Ni        R  413 Na
+Gorva         1433 A6577C9-C  F Ag                 921 Ac
+Thogola       1434 DA93116-C    Lo Ni     1433     701 Ac
+SHESTA        1436 A966974-C  J Hi Hw              201 Ac     f
+Dorthan       1532 D844165-D    Lo Ni              203 Ac
+ARCTURUS      1533 A984925-F  F Hi Cx Hw           301 Ac     f
+Ectite        1535 X000000-0    As Ba Lo Ni        011 Ac
+Matemoris     1538 X655470-2    Ni                 511 Ac
+Persus        1634 A744728-E    Ag Hw              322 Ac
+Villia        1635 C834214-D    Lo Ni              201 Ac
+VINVAHLA      1636 AA73986-E    Hi In Hw Rs        211 Ac     f
+Matoloum      1637 X8C3000-0    Ba Fl Ic Lo Ni     001 Ac

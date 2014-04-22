@@ -1,0 +1,30 @@
+IMSC Patrol Service document 10268-e
+Rasilon - Restricted Information
+Access level - RI47a
+
+During the Second Dark Age, Rasilon came to be dominated by an oligarchy of
+psionically adept "wizards". In order to prevent widespread contamination of
+Imperial culture, the IMSC recommended that the world be interdicted (see
+Interdiction Decree 2141-513). All public documents have been modified to
+ensure that this information remains secret. The facade that the world is
+interdicted to protect a developing culture is maintained, but no access to
+the world will be permitted. In the unlikely event of a determined academic
+application for access, delaying tactics will be employed. Should this fail
+to deter the applicant, pressure will be brought to bear on their superiors
+and if neccessary a smear campaign against the individual shall be used. In
+extreme cases, direct action may be taken against the individual; though this
+must be authorised by the Director General, IMSC Security Branch.
+
+Due to budgetary cutbacks, the interdiction is now maintained by five
+automated interdiction satellites orbiting Rasilon itself, three orbiting
+each of the four gas giants and 10 others scattered throughout the system
+(giving a total of 27 in all) and an automated internment satellite orbiting
+the largest gas giant (for the crews of vessels which might misjump into the
+system). While the internment satellite is unarmed, the interdiction
+satellites are armed with nuclear missiles. The satellites are serviced and
+restocked by an IMSC ship once every three months. The interdiction
+satellites will assume that any ship entering the system has misjumped, but
+failure to refuel and leave immediately; or to proceed directly to the
+internment satellite if this is not possible, will result in an attack by the
+interdiction satellites.
+

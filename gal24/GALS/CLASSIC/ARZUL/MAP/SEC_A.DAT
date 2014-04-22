@@ -1,0 +1,41 @@
+@SUB-SECTOR: Dzerrgh SECTOR: Arzul
+#
+# Trade Routes
+#
+$0505 0303 0 0 11
+$0505 0802 0 0 11
+$0505 0206 0 0 11
+$0206 3206 -1 0 11
+$0201 0303 0 0 11
+$0206 0310 0 0 11
+$0310 0211 0 1 11
+$0802 1203 1 0 11
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Rutagh        0106 E6A6112-9    Fl Lo Ni           810 J-
+Carrarn       0109 B100759-C    Na Va              502 J-
+Khakarrgh     0201 B677737-9    Ag                 912 J-
+Rahar         0203 C695634-5    Ag Ni              704 J-
+Rrurrgur      0206 B311267-B    Ic Lo Ni           405 J-
+Agha          0207 C210635-D    Na Ni              213 J-
+Shaka         0210 C4455D7-A    Ag Ni              322 J-
+Caska         0303 A765A9B-B  2 Hi                 904 J-
+Khaz          0305 E68727B-1    Lo Ni              403 J-
+Ghirrzik      0307 D210457-C    Ni                 705 J-
+Cis-rabir     0310 B4957C9-C    Ag                 920 J-
+Hebrar        0402 B6988B6-7                       523 J-
+Ziraghur      0405 A99856A-C  N Ag Ni              511 J-
+Ghurrgarrgh   0408 C320558-B    De Ni Po           013 J-
+Par           0505 A4639A5-A  S Hi                 723 J-
+Raub          0601 CAC4414-C    Fl Ni              703 J-
+Ghukhakh      0606 E510300-2    Lo Ni              604 J-
+Papaa         0610 C469436-7    Ni                 300 J-
+Siraska       0707 D374524-A    Ag Ni              013 J-
+Khurrgh       0802 B65A99C-8  N Hi Wa              404 J-
+Sikhi         0803 D8C3418-B    Fl Ni              302 J-
+Canta         0804 D575A88-7  S Hi In              410 J-
+Rinkook       0805 CA7A543-A    Ni Wa              814 J-
+Rurrzik       0807 C699343-5    Lo Ni              813 J-
+Khaekhurr     0810 C444657-B    Ag Ni              902 J-
+
